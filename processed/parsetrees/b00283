@@ -1,0 +1,124 @@
+(ROOT
+  (NP
+    (NP (JJ Wonderful) (NN pizza))
+    (PP (IN at)
+      (NP (JJ good) (NNS prices)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Ask)
+      (PP (IN for)
+        (NP (JJ current) (NNS specials))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Yummy)
+      (NP
+        (NP (NN pizza) (NNS varieties))
+        (, ,) (RB especially)
+        (NP (DT the) (NN chicken) (NN bacon) (NN ranch))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Monona) (NNP Italian))
+    (VP (VBZ delivers)
+      (NP (NNS deliciousness))
+      (ADVP (RB once) (RB again)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (DT These) (NNS folks))
+    (ADVP (RB really))
+    (VP (VBP care)
+      (PP (IN about)
+        (NP (PRP$ their) (NN pizza))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP do) (RB n't)
+          (VP (VB know)
+            (NP (JJ subtle) (NN flavoring))
+            (PP (IN on)
+              (NP (DT a) (NN pizza)))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (ADJP (JJ possible))
+      (ADVP (RB here)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VB Try)
+        (VP (VBG walking)
+          (PRT (RP in))
+          (S
+            (VP (TO to)
+              (VP (VB order)
+                (NP (PRP$ your) (NN pizza))))))))
+    (: --)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (NP (DT an) (NN education))))
+    (. .)))
+
+
+(ROOT
+  (NP (JJ Ok) (NN pizza) (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP like)
+        (S
+          (NP (NNP Glass) (NNP Nickel))
+          (ADJP
+            (NP (DT a) (RB little))
+            (JJR better)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT this))
+      (VP (VBZ is)
+        (ADJP (RB pretty) (JJ good))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Great) (NN delivery) (NN service))
+    (PRN (-LRB- -LRB-)
+      (ADJP (JJ fast))
+      (-RRB- -RRB-))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (PP (IN on)
+        (NP (NNP Monona) (NN drive))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN address))
+      (PP (IN on)
+        (NP (NNP Yelp))))
+    (VP (VBZ is)
+      (NP (PRP$ their) (JJ old) (NN address)))
+    (. .)))
+
+

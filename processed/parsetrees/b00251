@@ -1,0 +1,125 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP August)))
+    (NP (PRP we))
+    (VP (VBD had)
+      (NP
+        (NP (CD 4) (JJ new) (NNS tires))
+        (VP (VBN installed))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Whether)
+      (NP
+        (NP (NNS tires))
+        (, ,)
+        (NP (NNS brakes))
+        (, ,)
+        (CC or)
+        (NP (JJ other) (JJ mechanical) (NNS issues))))
+    (NP (PRP we))
+    (VP (VBP have)
+      (VP (VBN received)
+        (NP (JJ satisfactory) (NN service))
+        (PP (IN over)
+          (NP (DT the) (NNS years)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN manager))
+      (CC and)
+      (NP (NNS mechanics)))
+    (VP (VBP are)
+      (NP
+        (NP (NN kind))
+        (, ,)
+        (NP
+          (NP (JJ honest) (NNS people))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBP provide)
+                (NP (JJ phenomenal) (NN service))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD went)
+      (PRT (RP in))
+      (S
+        (VP (TO to)
+          (VP (VB have)
+            (NP
+              (NP (PRP$ my) (NN muffler)
+                (CC and)
+                (NN center) (NN pipe))
+              (VP (VBN replaced)
+                (S
+                  (ADJP (JJ due)
+                    (PP (TO to)
+                      (NP (JJ rusting) (NNS issues)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VP (VBD saved)
+        (S
+          (NP (PRP me))
+          (NP
+            (NP ($ $) (CD 600))
+            (PP (IN over)
+              (NP (DT the) (NN dealership) (NN service) (NN quote))))))
+      (, ,)
+      (VP (VBD had)
+        (NP
+          (NP (DT the) (VBN required) (NNS parts))
+          (VP (VBN delivered)
+            (PP (IN within)
+              (NP (DT the) (NN hour))))))
+      (, ,)
+      (CC and)
+      (VP (VBD finished)
+        (NP
+          (NP (DT the) (NN maintenance))
+          (ADVP (PRP itself)))
+        (PP (IN in)
+          (NP
+            (QP (RB about) (DT an) (NN hour))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBD felt)
+        (S
+          (VP
+            (ADJP (RB entirely) (JJ comfortable))
+            (VBG trusting)
+            (NP (PRP$ my) (NN car))
+            (PP (TO to)
+              (NP (PRP them))))))
+      (, ,)
+      (CC and)
+      (VP (VBP plan)
+        (S
+          (VP (TO to)
+            (VP (VB have)
+              (NP
+                (NP (DT all))
+                (PP (IN of)
+                  (NP
+                    (NP (PRP$ my) (JJ future) (NN servicing))
+                    (VP (VBN done)
+                      (ADVP (RB here)))))))))))
+    (. .)))
+
+

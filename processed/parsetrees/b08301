@@ -1,0 +1,247 @@
+(ROOT
+  (S
+    (NP (NNP Always))
+    (VP (VBP get)
+      (NP (PRP$ my) (NN water))
+      (ADVP (RB here)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Very))
+    (NP (JJ friendly) (NNS people))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB always))
+    (VP (VBP offer)
+      (S
+        (VP (TO to)
+          (VP (VB rinse)
+            (PRT (RP out))
+            (NP (PRP$ my) (NNS containers))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VP (VBP have)
+        (NP
+          (ADJP (JJ great) (NN tasting))
+          (NN water)))
+      (CC and)
+      (VP (VBP sell)
+        (NP (NN water) (NNS containers))
+        (PP (IN in)
+          (NP (JJ multiple) (NNS sizes)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (JJS best) (NN deal))
+      (VP (VBZ is)
+        (NP (DT the) (NN water) (NN card))))
+    (, ,)
+    (NP (PRP you))
+    (VP (VBP get)
+      (NP
+        (NP (CD 50) (NNS gallons))
+        (PP (IN for)
+          (NP
+            (NP ($ $) (CD 10))
+            (, ,)
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBZ 's)
+                  (NP
+                    (NP (CD 20) (NNS cents))
+                    (NP (DT a) (NN gallon))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP eat)
+          (NP (NNS sweets)))))
+    (, ,)
+    (NP (PRP I))
+    (ADVP (RB also))
+    (VP (VBD reccomend)
+      (NP (DT the) (NNP Rocky) (NNP Road)))
+    (. .)))
+
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ
+      (VP (MD would)
+        (ADVP (RB ever))
+        (VP (VB expect)
+          (S
+            (VP (TO to)
+              (VP (VB write)
+                (NP
+                  (NP (DT a) (CD 5) (NN star) (NN review))
+                  (PP (IN about)
+                    (NP (DT a) (NN Water)
+                      (CC and)
+                      (NN Ice) (NN store))))))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (ADVP (RB sure))
+      (VP
+        (VP (VBD did) (RB n't))
+        (CC but)
+        (VP (VBP WOW))))
+    (, ,)
+    (NP (DT these) (NNS people))
+    (VP (VBD were)
+      (ADJP (JJ fantastic)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (ADVP (RB actually))
+      (VP
+        (VP (VBG awkward)
+          (S
+            (VP (TO to)
+              (VP (VB get)
+                (NP (JJ such) (JJ great) (NN service))))))
+        (, ,)
+        (VP (VBD did) (RB n't)
+          (VP (VB know)))
+        (SBAR
+          (WHADVP (WRB how))
+          (S
+            (VP (TO to)
+              (VP (VB handle)
+                (S
+                  (NP (PRP it))
+                  (VP (TO to)
+                    (VP (VB be)
+                      (ADJP (JJ honest)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT These) (NNS folks))
+    (VP
+      (VP (VBD earned)
+        (NP
+          (NP (DT a) (NN customer))
+          (PP (IN for)
+            (NP (NN life))))
+        (NP (NN tonight)))
+      (, ,)
+      (VP (VBD offered)
+        (S
+          (VP (TO to)
+            (VP (VB rinse)
+              (NP (PRP$ my) (NN water) (NNS containers))))))
+      (, ,)
+      (VP (VBD helped)
+        (NP (NN fill)
+          (CC and)
+          (NN load))
+        (PP (IN without)
+          (S
+            (NP (PRP me))
+            (VP (VBG asking)))))
+      (, ,)
+      (S
+        (NP (JJS best) (NN trip))
+        (VP (TO to)
+          (VP (VB get)
+            (NP (NN water))
+            (ADVP (RB ever))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (ADVP
+        (NP (DT All) (NN year))
+        (RB long))
+      (, ,)
+      (NP (PRP I))
+      (VP (VB utilize)
+        (NP (PRP$ their) (JJ drive-up) (NN service))
+        (S
+          (VP (TO to)
+            (VP (VB fill)
+              (NP (PRP$ my) (NN water) (NNS bottles)))))))
+    (, ,)
+    (CC but)
+    (S
+      (PP (IN in)
+        (NP (DT the) (NN summer)))
+      (NP (DT this) (NN place))
+      (VP (VBZ becomes)
+        (NP (RB even) (RBR more) (JJ special))
+        (SBAR (IN because)
+          (S
+            (NP (PRP they))
+            (VP (VBP make)
+              (NP (JJ good) (VBG shaved) (NN ice))
+              (PP (IN on)
+                (NP (DT the) (NN cheap)))
+              (PRN (-LRB- -LRB-)
+                (CC and)
+                (VP (VBP offer)
+                  (NP
+                    (ADJP (RB so) (JJ many))
+                    (NNS flavors)))
+                (-RRB- -RRB-)))))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN owner))
+      (VP (VBZ collects)
+        (NP
+          (NP (JJ solar) (NNS dancers))
+          (PRN (-LRB- -LRB-)
+            (S
+              (ADVP (RB just))
+              (VP (VB look)
+                (PRT (RP up))
+                (PP (IN at)
+                  (NP
+                    (NP (DT the) (JJ big) (NN window))
+                    (NP (JJ next) (NN time))))
+                (SBAR
+                  (S
+                    (NP (PRP you))
+                    (VP (VBP 're)
+                      (ADVP (RB there)))))))
+            (-RRB- -RRB-)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PDT all) (DT the) (NNS workers))
+      (VP (VBP are)
+        (ADVP (RB always))
+        (NP
+          (NP (JJ friendly))
+          (CC &)
+          (NP (NN attentive)))))
+    (. .)))
+
+

@@ -1,0 +1,119 @@
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD had)
+      (NP (DT some)
+        (UCP
+          (NP
+            (NP (JJ OK) (NNS clothes))
+            (NP
+              (NP (RB here))
+              (CC and)
+              (NP (DT a) (JJ few) (NNS bargains))))
+          (, ,)
+          (CC but)
+          (ADJP (JJ terrible)))
+        (NN customer) (NN service)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NN Someone))
+      (ADVP (RB totally))
+      (VP (VBD cut)
+        (NP (PRP me))
+        (PP (IN in)
+          (NP (NN line)))))
+    (CC and)
+    (S
+      (NP (DT the) (NN cashier))
+      (VP (VBD did) (RB n't)
+        (VP (VB do)
+          (NP (DT a) (NN thing))
+          (PP (IN about)
+            (NP (PRP it))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD walked)
+      (PRT (RP out))
+      (PP (IN without)
+        (S
+          (VP (VBG making)
+            (NP (DT a) (NN purchase))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP Children) (POS 's))
+      (NN Place))
+    (VP (VBZ has)
+      (NP
+        (NP (NN everything))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP have)
+              (NP
+                (NP
+                  (NP (DT a) (JJ hard) (NN time))
+                  (VP (VBG finding)
+                    (NP (RB everywhere) (RB else))))
+                (: -)
+                (NP
+                  (NP (JJ great) (JJ fitting) (, ,) (JJ nice) (NN variety))
+                  (PP (IN of)
+                    (NP (NN underwear))))
+                (, ,)
+                (NP
+                  (NP (NNP PJs))
+                  (, ,)
+                  (NP (JJ trendy) (NNS outfits)))
+                (, ,)
+                (CC and)
+                (NP
+                  (NP (NNS toys))
+                  (PP (IN for)
+                    (NP (DT a) (JJ great) (NN price))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC Plus)
+    (NP (EX there))
+    (VP (VBZ 's)
+      (ADVP (RB always))
+      (NP (NNS discounts)
+        (CC and)
+        (NNS coupons))
+      (S
+        (VP (TO to)
+          (VP (VB bring)
+            (NP (DT the) (NN price))
+            (PRT (RP down))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VP (VB Check)
+        (PP (NN online)))
+      (, ,)
+      (VP (VB watch)
+        (NP (NN expiration) (NNS dates))
+        (PP (IN on)
+          (NP (NN store) (NNS coupons))))
+      (, ,)
+      (CC and)
+      (VP (VB check)
+        (NP
+          (NP (DT the) (NN newspaper))
+          (PP (IN for)
+            (NP (NNS sales))))))
+    (. .)))
+
+

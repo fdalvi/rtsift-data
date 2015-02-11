@@ -1,0 +1,106 @@
+(ROOT
+  (S
+    (PP (IN for)
+      (ADJP (JJ sure)))
+    (NP (FW i))
+    (VP (MD would) (RB not)
+      (VP (VB get)
+        (NP (NN gas))
+        (ADVP (RB here))))
+    (. .)))
+
+(ROOT
+  (FRAG (CC but)
+    (SBAR (IN for)
+      (FRAG
+        (NP
+          (NP (NNS slurpees))
+          (, ,)
+          (NP (JJ red) (NN box))
+          (, ,)
+          (NP (NNS drinks))
+          (, ,)
+          (NP (NNS nachos))
+          (, ,)
+          (NP
+            (NP (NN junk) (NN food))
+            (, ,)
+            (ADVP (RB definitely))))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Love)
+        (NP (DT the) (NN fact))
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (NN location))
+            (VP (VBZ is)
+              (ADJP (JJ safe))
+              (PRN (, ,)
+                (CC and)
+                (RB even)
+                (PP (IN in)
+                  (NP (DT the) (JJ late) (NNS hours)))))))))
+    (VP (VBP have)
+      (ADVP (RB never))
+      (VP (VBN been)
+        (VP (VBN approached)
+          (PP (IN by)
+            (NP
+              (NP (DT a) (NN stranger))
+              (VP (VBG asking)
+                (PP (IN for)
+                  (NP (NN bus) (NN money)))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (DT This) (NN store))
+      (VP (VBZ is)
+        (ADJP (RB super) (JJ clean))))
+    (CC and)
+    (S
+      (NP (DT the) (NNS employees))
+      (VP (VBP are)
+        (ADJP (JJ nice))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP (NNP Fresh) (NNP Brewed) (NNP Tea) (NNP !!!)))))
+
+(ROOT
+  (S (CC And)
+    (S
+      (FRAG
+        (ADJP (JJ Chocodiles) (. .))
+        (. .))
+      (NP (DT those) (JJ elusive) (NNS snacks))
+      (VP (VBP are)
+        (ADJP (JJ hard)
+          (S
+            (VP (TO to)
+              (VP (VB find)))))))
+    (CC but)
+    (S
+      (NP (DT the) (NN employee))
+      (VP (VBD informed)
+        (SBAR
+          (S
+            (NP (PRP they))
+            (VP (VBP are)
+              (NP (DT a) (JJ regular) (NN item)))))))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Wohoo))
+    (. !)))
+
+

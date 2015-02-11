@@ -1,0 +1,200 @@
+(ROOT
+  (S
+    (NP
+      (NP (PRP Me))
+      (CC and)
+      (NP (PRP$ my) (NNS sons)))
+    (ADVP (RB always))
+    (VP (VBP come)
+      (ADVP (RB here))
+      (PP (IN for)
+        (NP (DT a) (JJ quick) (NN fade))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PDT All) (DT the) (NNS barbers))
+    (VP (VBP are)
+      (ADJP (JJ skilled)
+        (CC and)
+        (JJ awesome)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBP 've)
+        (ADVP (RB never))
+        (VP (VBN left)
+          (ADJP (JJ unhappy))
+          (PP
+            (PP (IN with)
+              (NP (PRP$ our) (NN haircut)))
+            (CC and)
+            (PP (IN during)
+              (NP (NN football)))))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP have)
+      (NP (PDT all) (DT the) (NN college) (NNS games))
+      (PP (IN on)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (PP (IN After)
+      (S
+        (VP (VBG searching)
+          (PP (IN for)
+            (NP
+              (NP (DT another) (NN place))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBD did) (RB n't)
+                    (VP (VB exist))))))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD found)
+      (NP
+        (NP (NNP Frank) (POS 's))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ looks)
+              (ADJP (JJ closed))))))
+      (PP (IN from)
+        (NP (DT the) (NN outside)))
+      (, ,)
+      (PP (CC but)
+        (NP (PRP$ its) (JJ open))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBD was)
+        (NP (NNP Saturday))))
+    (CC and)
+    (S
+      (NP (EX there))
+      (VP (VBD were)
+        (NP
+          (NP
+            (QP (IN at) (JJS least) (CD six))
+            (NNS barbers))
+          (VP (VBG waiting)
+            (S
+              (VP (TO to)
+                (VP (VB serve)
+                  (NP (NNS customers)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJS Most) (NNS chains))
+    (VP (VBP do) (RB n't)
+      (VP (VB offer)
+        (NP (DT this) (NN luxury))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD popped)
+        (PRT (RP in))))
+    (CC and)
+    (S
+      (NP (NNP Yolanda))
+      (VP (VBD took)
+        (NP
+          (NP (NN care))
+          (PP (IN of)
+            (NP (PRP$ my) (NN cut))))
+        (PP (IN in)
+          (NP
+            (QP (RB about) (CD 20))
+            (NNS minutes)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT No) (NNS scissors))
+      (VP (VBD needed)))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP she))
+      (VP (VBD was)
+        (ADJP (RB pretty) (JJ good))
+        (PP (IN with)
+          (NP (DT the) (NN razor)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP
+          (QP (RB Only) ($ $) (CD 10)))
+        (PP (IN for)
+          (NP
+            (NP (DT a) (NN haircut))
+            (ADVP (RB also)))))
+      (CC and)
+      (NP (DT these) (NNS folks)))
+    (VP (VBP are)
+      (NP
+        (NP (JJ professional))
+        (, ,)
+        (RRC
+          (ADVP (RB so))
+          (NP (PRP$ its)
+            (NP (DT a)
+              (ADJP (JJ great))
+              (NN deal))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (VB think) (NNS i))
+    (ADVP (RB finally))
+    (VP (VBD found)
+      (NP (DT a) (JJ decent) (NN hair) (NN joint)))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP
+      (NP (DT The) (JJS best) (NN barber) (NN shop))
+      (PP (IN in)
+        (NP (NNP South) (NNP Phoenix))))
+    (: ...)
+    (S
+      (S
+        (NP (PRP I))
+        (ADVP (RB hardly))
+        (ADVP (RB ever))
+        (VP (VBP have)
+          (S
+            (VP (TO to)
+              (VP (VB wait)
+                (PP (IN for)
+                  (NP (DT a) (NN barber))))))))
+      (CC and)
+      (S
+        (NP (PRP they))
+        (VP (VBP do)
+          (NP (PRP it))
+          (ADVP (RB right)
+            (NP (DT every) (NN time))))))
+    (. .)))
+
+

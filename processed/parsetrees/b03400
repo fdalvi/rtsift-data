@@ -1,0 +1,347 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP love)
+      (S
+        (VP (VBG getting)
+          (NP (DT the) (NNP Mango) (NNP Chicken) (NNP Salad)))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP$ Its))
+    (ADJP (JJ fast)
+      (CC and)
+      (JJ fresh))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP like)
+      (NP (DT that)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (PP (IN Pretty)
+      (NP (JJ decent) (NN food)))
+    (ADVP (RB here))
+    (, ,)
+    (VP (VBD reminded)
+      (NP (PRP me))
+      (PP (IN of)
+        (NP
+          (NP (NNP Chipotle))
+          (NP (DT a) (JJ little)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP
+        (ADVP (RB Too)
+          (NP
+            (NP (JJ many) (NNS onions))
+            (CC and)
+            (NP (JJ green) (NNS peppers))))
+        (PP (IN in)
+          (NP (DT the) (NN burrito))))
+      (NP (PRP I))
+      (VP (VBD ordered)))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBD liked)
+        (NP
+          (NP
+            (NP (DT the) (NN freshness))
+            (PP (IN of)
+              (NP (NN everything))))
+          (, ,)
+          (CONJP (RB as) (RB well) (IN as))
+          (NP (DT the) (JJ outdoor) (NN seating)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP need)
+      (NP (JJR more) (NNS umbrellas)
+        (CC or)
+        (NN shade))
+      (, ,)
+      (SBAR (IN as)
+        (S
+          (NP (EX there))
+          (VP (VBD was)
+            (ADJP
+              (ADJP (RB not) (JJ enough)
+                (NP (VBG seating)))
+              (ADVP (IN outside)
+                (PP (IN for)
+                  (NP
+                    (NP (JJ other) (NNS customers))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (ADVP (RB also))
+                        (VP (VBD did) (RB n't)
+                          (VP (VB want)
+                            (S
+                              (VP (TO to)
+                                (VP (VB eat)
+                                  (PP (IN in)
+                                    (NP (JJ direct) (NN sunlight))))))))))))))))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (JJ Great) (NN manager)
+      (CC and)
+      (NN staff))
+    (PP (IN at)
+      (NP (DT this) (NN location)))
+    (. !)))
+
+(ROOT
+  (S
+    (SINV
+      (VP (VBZ Takes))
+      (NP
+        (NP (DT a) (JJ few) (NNS minutes))
+        (PP (IN for)
+          (NP (DT the) (NNS orders)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT that))
+      (VP (VBZ 's)
+        (SBAR (IN because)
+          (S
+            (S
+              (NP (PRP it))
+              (VP (VBZ 's) (RB all)
+                (VP (VBN made)
+                  (S
+                    (ADJP (JJ fresh))))))
+            (CC and)
+            (S
+              (NP (PRP you))
+              (VP (MD can)
+                (ADVP (RB sure))
+                (VP (VB taste)
+                  (NP (DT the) (NN difference)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Grilled) (NNP Mahi) (NNP Tacos))
+    (VP (VBP are)
+      (ADJP (JJ awesome)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Great) (NNP salsa))
+    (VP (NN bar)
+      (PP (IN with)
+        (NP (DT the) (JJS best) (NNS jalapenos))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (VP (MD Could)
+        (VP (VB use)
+          (NP (DT a) (JJ few) (NNS options))
+          (PP (IN without)
+            (NP
+              (NP (NN cilantro))
+              (PP (IN for)
+                (NP (NNP Gringos))))))))
+    (VP
+      (ADVP (RB though))
+      (VBN :-RRB-))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Great))
+    (VP (VBP place)
+      (S
+        (VP (TO to)
+          (VP (VB go)
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP I))
+                (VP (VBP need)
+                  (NP (DT a)
+                    (ADJP (JJ quick)
+                      (CC and)
+                      (JJ healthy))
+                    (NN lunch)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP get)
+      (SBAR
+        (S
+          (NP (DT the) (NNP Baja) (NN salad))
+          (VP (VBP w)
+            (NP (JJ /) (NNS mahi))
+            (PP (IN on)
+              (NP (PRP it)))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (JJ Healthy) (JJ green) (NN lettuce))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNS Lots))
+    (PP (IN of)
+      (NP (NN fish)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBG Dressing)
+      (PP (IN on)
+        (NP (DT the) (NN side))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB also))
+    (VP (VBP enjoy)
+      (NP (DT the) (NN ahi) (NNS tacos)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Great) (NN lunch))
+    (VP (VBP deal))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (VP
+        (ADVP (RB Just))
+        (VBN stopped)
+        (PP (IN by)
+          (NP (DT this) (NN location) (NN yesterday)))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (ADJP (RB completely) (JJ empty))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (VP
+        (VP (VBN Checked)
+          (NP (PRP$ their) (NN website)))
+        (CC and)
+        (VP
+          (NP (DT the) (NN location))
+          (ADVP (RB here)))))
+    (CC and)
+    (S
+      (NP (DT the) (CD one) (NN one) (NN FLW))
+      (VP (VBZ is) (RB n't)
+        (VP (VBN listed)
+          (ADVP (RB either)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJS closest) (NN one))
+      (PP (TO to)
+        (NP (NNP Scottsdale))))
+    (VP (VBZ is)
+      (PP (IN at)
+        (NP (JJ 7th) (NNP Street)
+          (CC and)
+          (NNP Bell))))
+    (. .)))
+
+(ROOT
+  (SQ (VBD Did)
+    (NP (DT a) (NN franchisee))
+    (VP (VB go)
+      (PP (IN under)))
+    (. ?)))
+
+
+(ROOT
+  (NP (DT Another) (JJ Groupon) (NN casualty) (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBD bought)
+        (NP (JJ several) (NNS Groupons))
+        (PP (IN for)
+          (NP (DT this) (NN location))))
+      (CC and)
+      (VP (VBD used)
+        (NP
+          (QP (RB only) (CD one)))))
+    (. .)))
+
+(ROOT
+  (S (RB Then)
+    (S
+      (NP (PRP we))
+      (VP (VBD went)
+        (S
+          (VP (TO to)
+            (VP (VB go)
+              (VP (VB use)
+                (NP
+                  (NP
+                    (QP (DT another) (CD one)))
+                  (NP (DT the) (JJ other) (NN day)))))))))
+    (CC and)
+    (S
+      (X
+        (X (SYM *))
+        (NP (NNP BAM)))
+      (X (SYM *))
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (VP (VBN gone))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT Another) (NN one))
+    (VP (VBZ bites)
+      (NP (DT the) (NN dust)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Return) (NNP Factor))
+    (: -)
+    (NP (DT An) (JJ obvious) (CD 0) (NN %))
+    (. .)))
+
+

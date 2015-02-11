@@ -1,0 +1,96 @@
+(ROOT
+  (S
+    (NP (NNP Atkinson) (POS 's))
+    (VP (VBZ is)
+      (NP (DT a)
+        (ADJP (RB pretty) (JJ good))
+        (NN spot)
+        (S
+          (VP (TO to)
+            (VP (VB find)
+              (NP
+                (NP (DT some) (NNS trinkets))
+                (CC or)
+                (NP (JJ other) (NNS souvenirs))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ 's)
+      (NP
+        (NP
+          (NP (DT the) (JJ usual) (NN collection))
+          (PP (IN of)
+            (NP (NN junk))))
+        (CONJP (CC but)
+          (RB also))
+        (NP
+          (NP (DT some) (JJ decent))
+          (VP (VBG looking)
+            (NP (NNP Southwestern) (NN jewelry))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJS best) (NN deal))
+    (VP (VBP are)
+      (NP
+        (NP (DT the) (JJ handpainted) (NNS ornaments))
+        (PP (IN for)
+          (NP ($ $) (CD 4-5)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Great))
+    (VP (VBP place)
+      (S
+        (VP (TO to)
+          (VP (VB go)
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP you))
+                (VP (VBP need)
+                  (S
+                    (VP (TO to)
+                      (VP (VB find)
+                        (NP
+                          (NP (NN stuff))
+                          (PP (IN for)
+                            (NP (PDT all) (DT the) (NN family))))
+                        (ADVP (RB back) (NN home))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD found)
+      (NP
+        (NP (PRP$ my) (JJ usual) (NN shot) (NN glass))
+        (CC and)
+        (NP (DT some) (JJ other) (NNS trinkets))
+        (SBAR
+          (S
+            (NP (DT that) (NN everyone) (NN doesnt) ('' '))
+            (ADVP (RB really))
+            (VP (VBP need)
+              (SBAR
+                (S
+                  (NP (NNP :-RRB-) (NNP Staff))
+                  (VP (VBD was)
+                    (ADJP (JJ helpful)
+                      (CC and)
+                      (JJ chatty))))))))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ is)
+              (ADVP (RB always))
+              (ADJP (JJ nice)))))))
+    (. !)))
+
+

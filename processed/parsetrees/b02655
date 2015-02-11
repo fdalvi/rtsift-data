@@ -1,0 +1,116 @@
+(ROOT
+  (S
+    (VP (VB Do) (RB not)
+      (VP (VB come)
+        (ADVP (RB here))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD came)
+      (ADVP (RB here))
+      (ADVP (RB just))
+      (S
+        (VP (TO to)
+          (VP (VB get)
+            (NP
+              (NP (DT a) (JJ basic) (NN cut))
+              (CC and)
+              (NP
+                (NP (PRP they) (NN guy))
+                (VP
+                  (ADVP (RB totally))
+                  (VBN botched)
+                  (NP (PRP$ my) (NN hair)))))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (NNP HORRIBLE))
+    (VP (VBP experience)
+      (ADVP (RB here)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NN hair) (NN cut))
+    (VP (VBP look)
+      (ADJP (RB so) (JJ bad)
+        (SBAR (IN after)
+          (S
+            (NP (PRP I))
+            (VP (VBD left)
+              (SBAR
+                (S
+                  (NP
+                    (NP (DT the) (NNS kids))
+                    (VP (VBG hanging)
+                      (PP (IN around)
+                        (NP
+                          (NP (DT the) (NN front))
+                          (PP (IN of)
+                            (NP (DT the) (NN store)))))))
+                  (VP (VBD made)
+                    (NP
+                      (NP (NN fun))
+                      (PP (IN of)
+                        (NP (PRP me))))))))))))
+    (. !)))
+
+(ROOT
+  (S (CC But)
+    (PRN (, ,)
+      (S
+        (NP (PRP I))
+        (VP (VBP guess)
+          (SBAR
+            (S
+              (NP (PRP it))
+              (VP (VBZ 's)
+                (NP
+                  (NP (PRP$ my) (NN fault))
+                  (UCP
+                    (S
+                      (NP (PRP I))
+                      (ADVP (RB usually))
+                      (VP (VBP go)
+                        (PP (TO to)
+                          (NP (DT another) (NN place)))))
+                    (, ,)
+                    (CC but)
+                    (SINV
+                      (NP (PRP I))
+                      (VP (VBD needed))
+                      (NP
+                        (NP (NN something))
+                        (ADVP (RB convenient)))
+                      (: ...))
+                    (. .)))))))))
+    (NP (NNP O))
+    (VP (VBP wait)
+      (PRN (, ,)
+        (S
+          (NP (PRP it))
+          (VP (VBZ 's) (RB not)
+            (NP (PRP$ my) (NN fault))))
+        (, ,))
+      (NP (NNP THEY) (NNP SHOULD) (NNP LEARN) (NNP HOW) (NNP TO) (NNP CUT) (NNP HAIR)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Waited) (CD 40) (NN min))
+      (PP (IN for)
+        (NP (DT a) (NN hair))))
+    (VP
+      (VP (VBD cut))
+      (CC and)
+      (VP (VBD was)
+        (NP (DT a) (JJ big) (NN mistake))))
+    (. .)))
+
+

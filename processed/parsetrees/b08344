@@ -1,0 +1,100 @@
+(ROOT
+  (S
+    (NP (NNP Staff))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (RB very) (JJ friendly))
+        (CC and)
+        (ADJP
+          (ADVP (RB always))
+          (JJ glad)
+          (S
+            (VP (TO to)
+              (VP (VB see)
+                (NP (PRP you))))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (DT The) (NNS employees))
+    (VP (VBP are)
+      (ADVP (RB usually))
+      (ADJP (JJ helpful)
+        (CC and)
+        (JJ efficient)))
+    (. .)))
+
+(ROOT
+  (SQ
+    (ADVP (RB However))
+    (, ,) (VBZ is)
+    (NP (PRP it))
+    (NP
+      (NP (DT a) (JJ good) (NN idea))
+      (S
+        (VP (TO to)
+          (VP (VB toss)
+            (NP (JJ raw) (NN chicken))
+            (PP (IN into)
+              (NP
+                (NP (DT the) (JJ same) (NN bag))
+                (PP (IN as)
+                  (NP
+                    (NP (NN produce))
+                    (, ,)
+                    (NP (NN ice) (NN cream) (NNS products))
+                    (, ,)
+                    (CC and)
+                    (NP (NN gum))))))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (PP (VBG According)
+      (PP (TO to)
+        (NP (DT this) (NNP Bashas) (NN staff))))
+    (, ,)
+    (NP (PRP it))
+    (VP
+      (VP (VBZ 's)
+        (ADJP (JJ A-OK)))
+      (, ,)
+      (CC and)
+      (VP (VBZ has)
+        (VP (VBN been)
+          (PP (IN for)
+            (NP (DT a) (NN year))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NN Salmo-what))
+    (. ?)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Overpriced) (NNS goods))
+      (PP (CC but)
+        (NP (DT the) (NN staff))))
+    (VP (VBZ is)
+      (ADJP (JJ nice)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP SRP))
+    (VP (VBP pay)
+      (SBAR
+        (S
+          (NP
+            (NP (NN center))
+            (PP (IN in)
+              (NP (DT this) (NN store))))
+          (VP (VBZ is)
+            (ADJP (JJ handy))))))
+    (. .)))
+
+

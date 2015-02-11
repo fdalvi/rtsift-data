@@ -1,0 +1,188 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP guess)
+      (SBAR
+        (S
+          (S
+            (NP (PRP I))
+            (ADVP (RB just))
+            (VP (VBD felt)
+              (PP (IN like)
+                (S
+                  (VP (VBG having)
+                    (NP
+                      (NP (JJ expensive) (NN ice) (NN cream))
+                      (PP (IN for)
+                        (NP (DT some) (NN reason)))))))))
+          (CC and)
+          (S
+            (NP (PRP I))
+            (VP (VBD stopped)
+              (PP (IN in)
+                (NP (RB here))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN service))
+      (VP (VBD was)
+        (ADJP (JJ okay))))
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBD took)
+        (ADJP (RB unusually) (JJ long)
+          (S
+            (VP (TO to)
+              (VP (VB make)
+                (NP (PRP$ my) (NN order))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Holy))
+      (VP (VBZ smokes)))
+    (, ,)
+    (NP (PRP you))
+    (VP (VBP want)
+      (WHNP
+        (WHNP (WRB how) (RB much))
+        (PP (IN for)
+          (NP (NN ice) (NN cream)))))
+    (. ?)))
+
+(ROOT
+  (S (RB Then)
+    (ADVP (RB again))
+    (, ,)
+    (NP (PRP you))
+    (VP (VBP 're)
+      (VP (VBG looking)
+        (PP (IN at)
+          (NP (DT a) (NN guy)))
+        (SBAR
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (ADVP (RB just))
+              (VP (VBZ buys)
+                (ADJP (NN vanilla)))))
+          (CC and)
+          (SBAR (IN if)
+            (S
+              (NP (PRP I))
+              (VP
+                (VP (VB get)
+                  (ADJP
+                    (NP (DT a) (RB little))
+                    (JJ bored)))
+                (, ,)
+                (VP (VB squirt)
+                  (NP
+                    (NP (DT some) (NNP Hersheys) (NNP Syrup))
+                    (PP (IN in)
+                      (NP (PRP it)))))
+                (CC and)
+                (VP (VB mix)
+                  (NP (PRP it))
+                  (PRT (RP up)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP guess)
+        (SBAR
+          (S
+            (NP (DT the) (NN ice) (NN cream))
+            (VP (VBZ is)
+              (ADJP (JJ good)))))))
+    (, ,)
+    (CC but)
+    (S
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP I))
+          (VP (MD can)
+            (VP (VB go)
+              (CC and)
+              (VB buy)
+              (NP
+                (NP (DT a) (NN steak))
+                (PP (IN at)
+                  (NP (DT the) (NN grocery) (NN store))))
+              (PP (IN for)
+                (NP
+                  (NP (DT the) (JJ same) (NN cost))
+                  (, ,)
+                  (NP (DT every) (NN bite))))))))
+      (NP (PRP I))
+      (VP
+        (VP (VBP sit))
+        (CC and)
+        (VP (VBP imagine)
+          (SBAR (IN that)
+            (S
+              (NP (PRP I))
+              (VP (MD could)
+                (ADVP (RB instead))
+                (VP (VB be)
+                  (VP (VBG eating)
+                    (NP
+                      (NP (DT a) (NN ribeye))
+                      (VP (VBN cooked)
+                        (PP (IN at)
+                          (NP (NN home)))))))))))))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (NP
+      (NP (DT Another) (NN thing))
+      (ADVP (RB occurred)
+        (PP (TO to)
+          (NP (PRP me)))))
+    (, ,)
+    (WHNP (WP what))
+    (SQ (MD would)
+      (NP (PRP it))
+      (VP (VB look)
+        (PP (IN like)
+          (PP (IN for)
+            (NP (NN someone))))
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (NP (DT an) (NN ice) (NN cream) (NN kneader))
+              (SBAR (IN if)
+                (S
+                  (NP (PRP they))
+                  (VP (VBP werent)
+                    (S
+                      (NP (JJ high) (NN school))
+                      (ADJP (VBN aged)))))))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (ADVP (RB Well))
+    (NP (RB maybe) (PRP it))
+    (VP (MD would)
+      (VP (VB work)
+        (SBAR (IN if)
+          (S
+            (NP (PRP it))
+            (VP (VBD were)
+              (NP
+                (NP (DT an) (JJR older) (NN guy))
+                (PP (IN with)
+                  (NP (DT a) (NN handlebar) (NN mustache)))))))))
+    (. .)))
+
+

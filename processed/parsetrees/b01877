@@ -1,0 +1,293 @@
+(ROOT
+  (S
+    (NP (NNP =) (NNP =) (NNP =) (NNP =) (NNP =) (NNP =) (NNP DAILY) (NNP LUNCH) (NNP BUFFET) (NNP =) (NNP =) (NNP =) (NNP =) (NNP =))
+    (VP (VBD =)
+      (SBAR
+        (S
+          (NP
+            (NP (DT This) (JJ Chinese) (NN cafe))
+            (CC &)
+            (NP (NN buffet)))
+          (VP (VBZ is)
+            (VP (VBN situated)
+              (PP (IN in)
+                (NP
+                  (NP (DT a) (NNP Safeway) (NN shopping) (NN center))
+                  (, ,)
+                  (CC &)
+                  (NP
+                    (NP (NNS seats))
+                    (PP (IN about)
+                      (NP (CD 50)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (MD can)
+      (VP
+        (VP (VB order)
+          (NP (DT a) (NN combo) (NN meal))
+          (PP (IN from)
+            (NP (DT the) (NN picture) (NN menu))))
+        (, ,)
+        (CC or)
+        (VP (VB fill)
+          (NP (DT a) (NN styrofoam) (NN container))
+          (S
+            (VP (TO to)
+              (VP (VB go)))))
+        (, ,)
+        (PP (IN from)
+          (NP (DT the) (NN buffet) (NNS tables)))
+        (, ,)
+        (CC or)
+        (VP (VB eat)
+          (NP (DT the) (NN buffet))
+          (ADVP (RB here))
+          (, ,)
+          (PP (IN on)
+            (NP
+              (NP (DT a) (NN styrofoam) (NN plate))
+              (PP (IN with)
+                (NP (JJ plastic) (NN tableware))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN dining) (NN room))
+    (VP (VBZ is)
+      (ADVP (RB really))
+      (NP
+        (NP (NN blah))
+        (, ,)
+        (CC &)
+        (NP
+          (NP (DT the) (NN host))
+          (SBAR
+            (S
+              (VP (VBD was)
+                (NP (NNP jumpy)
+                  (CC &)
+                  (NNP unfriendly))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBZ 's)
+        (NP (DT no) (NN soup)
+          (CC or)
+          (NN salad))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (EX there))
+      (VP (VBD were)
+        (NP
+          (NP (DT a) (JJ few) (NN fruit) (NNS items))
+          (ADJP (JJ available)
+            (PP (IN among)
+              (NP (DT the) (CD 30) (NN food) (NNS choices)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT Some))
+        (PP (IN of)
+          (NP (DT the) (JJ hot) (NN food))))
+      (VP (VBD was)
+        (ADVP (RB greasy))))
+    (, ,)
+    (NP
+      (NP (JJS most))
+      (PP (IN of)
+        (NP (DT the) (NN meat))))
+    (VP (VBD was)
+      (NP
+        (NP (NN chicken) (RB only))
+        (, ,)
+        (CC &)
+        (NP
+          (NP ($ $) (CD 6))
+          (PP (VBG including)
+            (NP
+              (NP (DT a) (JJ soft) (NN drink))
+              (SBAR
+                (S
+                  (VP (VBZ is)
+                    (ADJP (JJ high))
+                    (PP (VBN compared)
+                      (PP (TO to)
+                        (NP (DT the) (JJ local) (NN competition))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT All))
+      (PP (IN in)
+        (NP
+          (NP (DT all))
+          (, ,) (RB even)
+          (NP
+            (NP (DT the) (JJ infamous) (NNP King) (NNP Wah))
+            (NP (DT a) (NN mile))))))
+    (ADVP (RB west) (RB down)
+      (NP (DT the) (NN street)))
+    (VP (VBZ is)
+      (ADJP (JJR better))
+      (, ,)
+      (PP (IN in)
+        (NP (PRP$ my) (NN opinion))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP New) (NNP China))
+    (ADVP (RB here))
+    (VP
+      (ADVP (RB barely))
+      (VBZ ekes)
+      (PRT (RP out))
+      (NP (JJ 2-Stars)))
+    (. .)))
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP Buffet))
+      (VP (VBP Lunch)
+        (NP ($ $) (CD 6.00))))
+    (, ,)
+    (VP (VBD served)
+      (NP (NNP 10:30) (VBP AM))
+      (PP (TO to)
+        (NP (CD 3))))
+    (NP
+      (NP (NNP PM))
+      (, ,)
+      (NP (CD 7) (NNS days)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP eat)
+      (PP (IN at)
+        (NP
+          (NP (NNP New) (NNP China))
+          (PP (IN about)
+            (NP (RB once)))
+          (NP (DT a) (NN month)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP ($ $) (CD 6.50)))
+    (NP (PRP you))
+    (VP (VBP get)
+      (NP
+        (NP (DT an) (JJ all-you-can-eat) (NN buffet))
+        (, ,)
+        (NP (NN fruit))
+        (CC and)
+        (NP (DT a) (NN drink))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB really))
+    (VP (VBP like)
+      (NP (DT the) (NN chicken)
+        (CC and)
+        (NN broccoli)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN pot) (NNS stickers))
+      (VP (VBP are)
+        (ADJP (JJ unique)
+          (CC and)
+          (JJ tasty))))
+    (CC and)
+    (S
+      (NP (DT the) (JJ fried) (NN rice))
+      (VP (VBZ is)
+        (ADJP (RB pretty) (JJ good))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP do) (RB n't)
+        (VP (VB care)
+          (PP (IN for)
+            (NP
+              (NP (RB much) (RB else))
+              (PP (IN on)
+                (NP (DT the) (NN menu))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (NP
+          (NP (DT a) (JJ good) (NN meal))
+          (PP (IN for)
+            (NP (DT the) (NN price))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN lunch) (NN buffet))
+      (VP (VBZ is)
+        (NP ($ $) (CD 6.50))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ is)
+        (ADJP (JJ awful))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Horrendous)
+      (NP (JJ Chinese) (NN food)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD will) (RB not)
+      (VP (VB be)
+        (VP (VBG returning))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN food))
+      (VP (VBZ is) (RB n't)
+        (ADJP (RB that) (JJ bad))))
+    (: ...)
+    (S
+      (ADVP (IN at) (JJS least))
+      (NP (PRP they))
+      (VP (VBP try)))
+    (. .)))
+
+

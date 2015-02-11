@@ -1,0 +1,249 @@
+(ROOT
+  (NP (NNP CHEAP) (NNP EATS) (NNP ALERT) (. !)))
+
+(ROOT
+  (FRAG
+    (PP (IN On)
+      (NP
+        (NP (PRP$ your) (NN way))
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NNP Chandler) (NN Mall))
+            (PP (IN for)
+              (NP (VB lunch)))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Why))
+    (SQ (VBP do) (RB n't)
+      (NP (PRP you))
+      (VP (VB skip)
+        (NP
+          (NP (DT the) (JJ corporate) (NN food))
+          (PP (IN for)
+            (NP
+              (NP (DT a) (NN day)
+                (CC and)
+                (NN stop))
+              (PP (IN by)
+                (NP (NNP Espo) (POS 's)))
+              (PRN (-LRB- -LRB-)
+                (NP (NNP Espinoza) (POS 's))
+                (-RRB- -RRB-)))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBN Located)
+        (PP (IN on)
+          (NP
+            (NP (DT the) (NNP SE) (NN corner))
+            (PP (IN of)
+              (NP (NNP Chandler)
+                (CC and)
+                (NNP McClintock)))))))
+    (, ,)
+    (NP
+      (NP (NNP Espo) (POS 's))
+      (NN Market))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN anchored)
+          (PP (IN at)
+            (NP
+              (NP (DT this) (NN spot))
+              (PP (IN for)
+                (NP (NNS decades))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Simple)
+      (CC but)
+      (NNP hearty))
+    (VP (VBP fare)
+      (ADVP (RB here)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Personally))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP go)
+      (PP (IN for)
+        (NP (DT the) (NNS rellenos)))
+      (NP (RB almost) (DT every) (NN time)))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP (DT the) (NNS tacos)
+      (CC and)
+      (NNS burros))
+    (VP (VBP are)
+      (ADJP (NN rock) (JJ solid))
+      (ADVP (RB also)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Careful)
+      (SBAR
+        (S
+          (NP (PRP you))
+          (VP (VBP do) (RB n't)
+            (VP (VB get)
+              (NP (DT any) (NN sauce))
+              (PP (IN on)
+                (NP (DT that) (NN tie) (NN Scooter))))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (NNP Food))
+    (VP (VBZ is)
+      (S
+        (VP (TO to)
+          (VP (VB spicy)
+            (PP (IN for)
+              (NP (PRP me)))))))
+    (. .)))
+
+(ROOT
+  (S (CC Plus)
+    (NP (PRP I))
+    (VP (VBP hate)
+      (SBAR (IN that)
+        (S
+          (NP (PRP I))
+          (VP (VBP have)
+            (S
+              (VP (TO to)
+                (VP (VB go)
+                  (PP (IN in)
+                    (NP (DT the) (NN store)
+                      (S
+                        (VP (TO to)
+                          (VP (VB pay)
+                            (PP (IN for)
+                              (NP (PRP$ my) (NN food)))
+                            (SBAR (IN if)
+                              (S
+                                (NP (PRP I))
+                                (VP (VBD forgot)
+                                  (NP (NN cash)))))))))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (NNP Espos))
+          (VP (VBZ has)
+            (VP (VBN been)
+              (ADVP (RB there))
+              (PP (IN since)
+                (NP
+                  (NP (DT the) (NN dawn))
+                  (PP (IN of)
+                    (NP (NN time))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 've)
+      (VP (VBN eaten)
+        (ADVP (RB there) (RB off)
+          (CC and)
+          (RB on))
+        (PP (IN since)
+          (NP (DT the) (JJ early) (NN 80s)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD went)
+      (ADVP (RB back))
+      (NP (NN today))
+      (PP (IN for)
+        (NP
+          (NP (DT the) (JJ first) (NN time))
+          (PP (IN in)
+            (NP (RB probably) (CD 10) (NNS years))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN food))
+    (VP (VBZ is)
+      (ADVP (RB good)
+        (CC and)
+        (RB certainly))
+      (ADJP (JJ plentiful)
+        (PP (IN for)
+          (NP (DT the) (NN price)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NN Today))
+    (NP (PRP I))
+    (VP (VBD ordered)
+      (NP
+        (NP (DT a) (JJ carne) (NN asada))
+        (NP (NN burrito)
+          (CC and)
+          (CC and)
+          (NN chimichanga))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Overall))
+    (NP (PRP they))
+    (VP
+      (VP (VBD were)
+        (ADJP (JJ good)))
+      (CC but)
+      (VP (VBD were)
+        (PP (IN in)
+          (NP
+            (NP (JJ serious) (NN need))
+            (PP (IN of)
+              (NP (NN salt)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN As)
+      (ADVP (RB always)))
+    (NP (PRP I))
+    (VP (VBD found)
+      (NP (DT the) (NN salsa)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (NP (DT a) (JJ little) (NN spicier))
+              (SBAR (IN than)
+                (S
+                  (NP (PRP I))
+                  (VP (VBP prefer)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN guacamole))
+    (VP (VBD was)
+      (ADJP (RB quite) (JJ good)))
+    (. .)))
+
+

@@ -1,0 +1,207 @@
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WDT What) (NN kind))
+      (PP (IN of)
+        (NP (`` ``) (NN mall) ('' ''))))
+    (SQ
+      (VP (VBZ closes)
+        (PP (IN at)
+          (NP
+            (NP (NNS 5pm))
+            (PP (IN on)
+              (NP (DT a) (NNP Saturday) (NN night) (NN ?!)))))))))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBP crappy)
+      (NP (NN mall))
+      (, ,)
+      (ADVP (RB apparently)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Ugh))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Poor) (NN selection))
+      (PP (IN of)
+        (NP
+          (NP (NNS stores))
+          (, ,)
+          (NP (NN rundown) (NN appearance))
+          (, ,)
+          (CC and)
+          (NP (JJ ridiculous) (NNS hours)))))
+    (VP (SYM =)
+      (NP (NNP FAIL)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Westgate))
+      (VP (VBZ has)
+        (NP
+          (NP (DT an) (JJ interesting) (NN selection))
+          (PP (IN of)
+            (NP (NNS shops))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP$ its))
+      (ADVP (RB never))
+      (VP (VBD had)
+        (NP
+          (NP (RB much))
+          (PP (IN of)
+            (NP
+              (NP (DT any) (NN sort))
+              (PP (IN of)
+                (NP (NN vibe))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN Since)
+      (S
+        (NP (DT the) (NN movie) (NN theatre))
+        (VP (VBD closed)
+          (NP
+            (NP (DT a) (NN number))
+            (PP (IN of)
+              (NP (NNS years))))
+          (ADVP (RB back)))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (ADVP (RB really))
+      (VP (VBN slowed)
+        (NP
+          (NP (DT the) (NN pace))
+          (PP (IN of)
+            (NP (DT the) (JJ whole) (NN building))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD found)
+      (S
+        (NP (PRP it))
+        (ADJP (JJ ironic)
+          (SBAR (IN that)
+            (S
+              (NP (EX there))
+              (VP (VBD was)
+                (NP
+                  (NP (DT a) (NN store))
+                  (VP (VBN called)
+                    (NP (`` ``)
+                      (NP (NNP Relics))
+                      (: -)
+                      (NP (NNPS Fossils)
+                        (CC and)
+                        (NNPS Rocks))
+                      ('' ''))
+                    (PP (IN in)
+                      (NP (RB here)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBZ 's)
+      (ADVP (RB essentially))
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP (DT this) (NN place))
+          (VP (VBZ is)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Sadly))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (VP (VBN gone)
+        (NP
+          (NP (DT the) (NN way))
+          (PP (IN of)
+            (NP (DT the) (NNP Grand) (NNP Ave.))))))))
+
+(ROOT
+  (NP
+    (NP
+      (NP (NN Mall))
+      (PP (IN in)
+        (NP
+          (NP (NNP Milwaukee))
+          (, ,)
+          (PP (IN with)
+            (NP
+              (NP (DT no) (JJ large) (NN scale) (NNS stores))
+              (PP (JJ other) (IN than)
+                (NP
+                  (NP (NNP TJ) (NNP Maxx))
+                  (PRN (-LRB- -LRB-)
+                    (SBAR
+                      (WHNP (WDT which))
+                      (S
+                        (VP (VBZ is)
+                          (ADVP (RB actually))
+                          (ADJP (RB pretty) (JJ decent)))))
+                    (-RRB- -RRB-))))))
+          (, ,))))
+    (CONJP (CC and)
+      (RB only))
+    (NP
+      (NP (CD one) (JJ other) (JJ real) (NN draw))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NNP Wisconsin) (NNP Sportswear))
+          (PP (IN for)
+            (NP (NNP WI) (NN team) (NN apparel))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP
+      (VP (VBZ 's)
+        (ADJP (RB too) (JJ bad))
+        (, ,)
+        (SBAR (IN as)
+          (S
+            (NP (DT this) (NN place))
+            (VP (VBZ is) (RB n't)
+              (ADJP (IN that) (RB far)
+                (PP (IN from)
+                  (NP (DT a) (JJ few) (JJ decent) (NNS restaurants))))))))
+      (CC and)
+      (VP (VBP stand)
+        (NP (JJ alone) (NNS stores))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Maybe))
+    (NP (PRP they))
+    (VP (MD can)
+      (VP (VB lease)
+        (NP (PRP it))
+        (PRT (RP out))
+        (PP (IN for)
+          (NP (DT a) (NN zombie) (NN movie)))))
+    (. ?)))
+
+

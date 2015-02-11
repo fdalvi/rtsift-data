@@ -1,0 +1,179 @@
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBZ is)
+      (NP
+        (NP (DT an) (JJ amazing) (NN pediatrician))
+        (, ,)
+        (ADJP (RB very) (JJ smart))
+        (, ,)
+        (SBAR
+          (S
+            (VP (VBZ has)
+              (NP (DT an) (NNP MD)
+                (CC and)
+                (NNP JD)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP have)
+        (NP (DT a)
+          (ADJP (RB very) (JJ busy))
+          (NN practice))))
+    (CC but)
+    (S
+      (NP (PRP he))
+      (ADVP (RB never))
+      (VP (VBZ makes)
+        (SBAR
+          (S
+            (NP (PRP you))
+            (VP (VBP feel)
+              (ADJP (VBN rushed)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VP (VBZ listens)
+        (PP (TO to)
+          (NP (NNS concerns))))
+      (CC and)
+      (VP (VBZ gets)
+        (ADVP
+          (ADVP (RB along) (RB well))
+          (SBAR (IN with)
+            (S
+              (NP (PRP$ my))
+              (VP (MD would)
+                (VP (VB be)
+                  (NP (NN doctor) (NN husband)))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Dr.) (NNP Robertson))
+      (VP (VBZ listens)
+        (PP (TO to)
+          (NP (`` ``)
+            (NP (NN mother) (POS 's))
+            (NN instinct) ('' '')))))
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP (VBZ works)
+        (PP (IN with)
+          (NP (PRP me)))
+        (S
+          (VP (TO to)
+            (VP (VB ensure)
+              (S
+                (S
+                  (NP
+                    (NP (JJ great) (NN health))
+                    (PP (IN for)
+                      (NP (PRP$ my) (CD 2) (NN year))))
+                  (ADJP (JJ old)))
+                (CC and)
+                (S
+                  (NP (CD 8) (NN year))
+                  (ADJP (JJ old)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD switched)
+        (NP
+          (NP (PRP$ my) (NN pediatrician))
+          (PP (IN of)
+            (NP (CD 6) (NNS years))))
+        (S
+          (VP (TO to)
+            (VP (VB go)
+              (PP (TO to)
+                (NP (PRP him))))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP am)
+        (ADJP (RB so) (JJ mad)
+          (PP (IN at)
+            (NP (PRP myself))))
+        (PP (IN for)
+          (S (RB not)
+            (VP (VBG doing)
+              (NP (PRP it))
+              (ADVP
+                (NP (CD 6) (NNS years))
+                (RBR earlier)))))))
+    (. !)))
+
+
+(ROOT
+  (FRAG
+    (ADVP (RB Very))
+    (NP (JJ good) (NN pediatrician))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP am)
+        (VP (VBG taking)
+          (NP
+            (NP (PRP$ my)
+              (ADJP
+                (NP (CD 2) (NNS years))
+                (JJ old))
+              (NN son))
+            (PP (IN since)
+              (NP (NN birth)))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (MD would)
+      (ADVP (RB highly))
+      (VP (VB recommend)
+        (NP
+          (NP (NNP Dr.) (NNP Robertson))
+          (PP (TO to)
+            (NP (NN anyone))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP am) (RB not)
+        (NP (NN rating) (CD 5) (NN star))
+        (, ,)
+        (SBAR (IN because)
+          (S
+            (PP (IN of)
+              (ADVP (RB even)))
+            (NP (PRP it))
+            (VP (VBZ is)
+              (ADJP (RB very) (JJ easy))
+              (S
+                (VP (TO to)
+                  (VP (VB do)
+                    (NP (NN appointment))))))))))
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ takes)
+        (ADJP (RB very) (JJ long)
+          (S
+            (VP (TO to)
+              (VP (VB wait)))))))
+    (. .)))
+
+

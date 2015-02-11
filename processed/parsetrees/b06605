@@ -1,0 +1,75 @@
+(ROOT
+  (ADJP (VBN Closed)))
+
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ makes)
+      (S
+        (NP (PRP me))
+        (ADJP (JJ sad)))
+      (SBAR (IN that)
+        (S
+          (NP (NNP Peacemeal))
+          (VP (VBD closed)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBD was)
+        (NP (DT a) (JJ great) (NN idea))))
+    (CC and)
+    (S
+      (NP (DT the) (NN food))
+      (VP (VBD was)
+        (ADJP (RB pretty) (RB damn) (JJ good))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NN Peace) (RP out))
+    (, ,)
+    (NP (NNP Peacemeal))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP miss)
+      (NP (PRP it)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (NN Anyone))
+    (VP (VBP know)
+      (SBAR
+        (WHADVP (WRB where))
+        (S
+          (NP (PRP I))
+          (VP (MD can)
+            (VP (VB get)
+              (NP (PRP$ their) (NN recipe))
+              (PP (IN for)
+                (NP (JJ lentil) (NN loaf))))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (DT That) (NN stuff))
+    (VP (VBD was)
+      (NP (JJ perfect) (NN fall/winter) (NN food)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (MD Should) (RB not)
+      (VP (VB have)
+        (VP (VBN closed))))
+    (. .)))
+
+

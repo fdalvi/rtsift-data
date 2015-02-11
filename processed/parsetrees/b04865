@@ -1,0 +1,106 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP know)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBD was)
+              (PP (IN like)
+                (NP
+                  (NP (CD 4))
+                  (PP (IN in)
+                    (NP (DT the) (NN morning))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT this) (NN place))
+      (VP
+        (VP (VBD had)
+          (NP
+            (NP (DT a) (JJ slow) (NN response) (NN time))
+            (PP (IN over)
+              (NP (JJ drive-thru) (NN speaker)
+                (PRN (: -)
+                  (PP (VBG including)
+                    (NP (JJ unexplained) (NNS pauses)))
+                  (: -))))))
+        (CC and)
+        (VP (VBD ran)
+          (PRT (RP out))
+          (PP (IN of)
+            (NP
+              (NP (NN rice))
+              (PP (IN for)
+                (NP
+                  (NP (PRP$ my) (NN friend) (POS 's))
+                  (NN chicken) (NN teriyaki) (NN bowl))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ means)
+      (SBAR (IN that)
+        (S
+          (NP (PRP I))
+          (VP (VBP 'm)
+            (VP (VBG going)
+              (S
+                (VP (TO to)
+                  (VP (VB pick)
+                    (NP
+                      (NP (DT a) (JJ different) (JJ local) (NNP Jack))
+                      (PP (IN in)
+                        (NP (DT the) (NNP Box))))
+                    (S
+                      (VP (TO to)
+                        (VP (VB hit)
+                          (ADVP (RB up) (RB late))
+                          (PP (IN at)
+                            (NP
+                              (NP (NN night))
+                              (, ,)
+                              (PP (JJ such) (IN as)
+                                (NP
+                                  (NP (DT the) (NN one))
+                                  (PP (IN on)
+                                    (NP (NNP Mountain) (NNP Vista)
+                                      (CC and)
+                                      (NNP Russell))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT That) (NN place))
+      (ADVP (RB totally))
+      (VP (VBD did)
+        (VP (VB have)
+          (NP
+            (NP (NN rice))
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP I))
+                (VP (VBD drove)
+                  (PRT (RP over))
+                  (ADVP (RB there)))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (ADVP (RB way) (RBR faster))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Croissant))
+    (VP (VBD was)
+      (ADVP (RB yummy)))
+    (. !)))
+
+

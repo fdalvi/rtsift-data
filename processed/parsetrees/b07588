@@ -1,0 +1,300 @@
+(ROOT
+  (NP
+    (NP (NNP CASH))
+    (NP (NNP ONLY) (. .))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBD drove)
+        (PP (TO to)
+          (NP (NNP Circle) (NNP K))))
+      (CC and)
+      (VP (VBD got)
+        (NP (NN cash))
+        (PRT (RP out))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP Alfredo) (POS 's))
+        (NNP Deli))
+      (VP (VBZ is) (RB not)
+        (NP (DT a) (NNS deli))))
+    (: ...)
+    (S
+      (NP (PRP it))
+      (VP (VBZ is)
+        (NP
+          (NP (DT a) (NN road) (NN side) (NN burrito) (NN house))
+          (PP (IN with)
+            (NP
+              (NP (DT a) (NN walk))
+              (PP (IN up)
+                (NP (NN window)
+                  (CC and)
+                  (NNS tables))))))
+        (ADVP (RB outside))
+        (S
+          (VP (TO to)
+            (VP (VB sit)
+              (PRT (RP on)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Alfredos))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (ADJP (IN around))
+        (SBAR (IN since)
+          (S
+            (NP (DT the)
+              (NP (CD 70) (POS 's))
+              (CC and)
+              (NP (DT the) (DT the) (JJ current) (NN owner)))
+            (VP (VBZ has)
+              (VP (VBN been)
+                (ADVP (RB there))
+                (PP (IN since)
+                  (NP (CD 1990)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD bought)
+      (NP (PRP it))
+      (PP (IN from)
+        (NP (DT the) (NNP Orig) (NNS owners)))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP they))
+          (VP (VBD retired)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBZ is)
+      (ADJP (RB very) (JJ friendly)
+        (CC and)
+        (JJ personable)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP make)
+      (NP (RB mainly) (JJ Mexican) (NN food))
+      (PP (IN with)
+        (NP
+          (NP (DT some) (JJ American) (NN food))
+          (VP (VBN mixed)
+            (PP (IN in))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD had)
+      (NP
+        (NP (DT a) (NNP Green) (NNP Chili) (NN burrito))
+        (CC and)
+        (NP (NNS chips)))
+      (PP (IN with)
+        (NP (NN salsa))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN burrito))
+    (VP (VBD was)
+      (ADVP (RB plenty))
+      (ADJP
+        (ADJP (JJ big))
+        (CC but)
+        (RB not)
+        (ADJP (RB overly) (JJ huge))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS chips))
+    (VP (VBD were)
+      (ADJP (JJ fresh)
+        (CC and)
+        (JJ thick)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN Although)
+      (S
+        (NP (PRP I))
+        (VP (VBD enjoyed)
+          (NP (DT the) (NN meal)))))
+    (NP (EX there))
+    (VP (VBD was)
+      (ADJP (NN nothing)
+        (S
+          (VP (TO to)
+            (VP (VB bring)
+              (NP (PRP me))
+              (ADVP (RB back)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP wish)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD did)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Red) (NNS chilli))
+    (VP (VBZ is)
+      (ADJP (RB very) (JJ good)
+        (SBAR
+          (S
+            (NP (NN beef) (NNS tacos))
+            (VP (VBP are)
+              (NP (JJ awsome) (NNS !!)))))))))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ My) (NN friend))
+      (CC and)
+      (NP (PRP I)))
+    (VP (VBD went)
+      (PP (IN on)
+        (NP
+          (NP (DT a) (NN quest))
+          (PP (IN for)
+            (NP (DT some)
+              (ADJP
+                (ADJP (JJ cheap))
+                (CC but)
+                (ADJP (RB still) (JJ good)))
+              (NN mexican) (NN food))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP
+      (VP (VBD spent)
+        (NP
+          (NP (CD 12) (NNS dollars))
+          (PP (IN between)
+            (NP
+              (NP (DT the) (CD two))
+              (PP (IN of)
+                (NP (PRP us)))))))
+      (CC and)
+      (VP (VBD did) (RB not)
+        (VP (VB get)
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (NP (PRP we))
+              (VP (VBD paid)
+                (PP (IN for))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB First))
+    (, ,)
+    (NP (PRP we))
+    (ADVP (RB actually))
+    (VP (VBD had)
+      (S
+        (VP (TO to)
+          (VP (VB run)
+            (PP (TO to)
+              (NP (NNP Circle) (NNP K))))))
+      (S
+        (VP (TO to)
+          (VP (VB get)
+            (NP (NN cash))
+            (SBAR (IN since)
+              (S
+                (NP (PRP they))
+                (VP (VBP do) (RB n't)
+                  (VP (VB accept)
+                    (NP (NNS cards))))))))))
+    (. .)))
+
+(ROOT
+  (S (RB Then)
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (PRP we))
+        (VP
+          (VP
+            (ADVP (RB finally))
+            (VBD got)
+            (NP (PRP$ our) (NN food)))
+          (CC and)
+          (VP (VBD got)
+            (NP (NN home))))))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBD were)
+      (VP (VBN underwhelmed)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN taco))
+      (VP (VBD was)
+        (ADJP (JJ equivalent)
+          (PP (TO to)
+            (NP (NNP Jack))))
+        (PP (IN in)
+          (NP (DT the) (NNP Box)))))
+    (, ,)
+    (S
+      (NP (DT the) (NN rice))
+      (VP (VBD was)
+        (ADJP (RB no) (JJ good))))
+    (CC and)
+    (S
+      (NP (DT the) (NN burrito))
+      (VP (VBD was)
+        (ADJP (RB just) (JJ bland))))
+    (. .)))
+
+(ROOT
+  (S (RB So)
+    (VP (VB skip)
+      (S
+        (NP (DT this) (NN taco))
+        (VP (VB stand)
+          (CC and)
+          (VB go)
+          (PP (TO to)
+            (NP
+              (NP (CD one))
+              (PP (IN of)
+                (NP (DT the) (CD 500) (JJ +) (NN mexican) (NN food) (NNS places)))))
+          (PP (IN in)
+            (NP (JJ downtown) (NNP Phoenix))))))
+    (. .)))
+
+

@@ -1,0 +1,103 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (ADVP (RB Simply))
+        (DT the) (JJS best))
+      (ADJP (JJS most) (NN professional)))
+    (VP (VBP dentist/hygienist/office)
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBP have)
+            (ADVP (RB ever))
+            (VP (VBN been)
+              (PP (TO to)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VP (VBP are) (RB not)
+        (ADJP (JJ cheap) (RB so)
+          (SBAR (IN if)
+            (S
+              (NP (PRP you))
+              (VP (VBP do) (RB n't)
+                (VP (VB have)
+                  (NP (NN insurance))))))))
+      (CC or)
+      (VP (VBP are)
+        (VP (VBG looking)
+          (PP (IN for)
+            (NP
+              (NP (NN price) (NN primaril))
+              (, ,)
+              (NP
+                (NP (NN y))
+                (SBAR
+                  (S
+                    (NP (PRP they))
+                    (VP (MD might) (RB not)
+                      (VP (VB be)
+                        (PP (IN for)
+                          (NP (PRP you)))))))))))))))
+
+
+(ROOT
+  (S
+    (NP (NN Hygienist)
+      (CC and)
+      (NN dentist))
+    (VP (VBP provide)
+      (NP
+        (NP (NN quality) (NN service))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (MD can) (RB not)
+              (VP (VB be)
+                (VP (VBN said)
+                  (NP (DT the) (JJ same))
+                  (PP (IN for)
+                    (NP (DT the) (NN administration))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ front) (NN desk))
+    (VP (VBZ seems)
+      (NP
+        (ADJP
+          (ADJP (RBR more) (JJ interested))
+          (PP (IN in)
+            (S
+              (VP (VBG selling)
+                (NP (PRP you))))))
+        (NNS services))
+      (PP (IN than)
+        (S
+          (VP (VBG providing)
+            (NP (JJ good) (NN service))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Overall) (JJ bad) (NN experience))
+      (PP (IN as)
+        (NP (PRP I))))
+    (VP (VBP do) (RB n't)
+      (VP (VB like)
+        (S
+          (VP (VBG being)
+            (VP (VBN treated)
+              (PP (IN as)
+                (NP
+                  (NP (NN money) (NN maker))
+                  (PP (RB instead) (IN of)
+                    (NP (DT a) (NN patient))))))))))
+    (. .)))
+
+

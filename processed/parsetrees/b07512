@@ -1,0 +1,112 @@
+(ROOT
+  (NP
+    (NP (JJ Great) (NN customer) (NN service))
+    (PP (IN at)
+      (NP (DT this) (NN location)))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (JJ supreme) (NN pizza))
+      (VP (VBD looked)
+        (SBAR (IN like)
+          (S
+            (NP (PRP it))
+            (VP (VBD was)
+              (VP (VBN made)
+                (S
+                  (VP (TO to)
+                    (VP (VB be)
+                      (PP (IN on)
+                        (NP
+                          (NP (DT a) (NN commercial))
+                          (SBAR
+                            (S
+                              (NP (PRP it))
+                              (VP (VBD was)
+                                (ADJP (JJ perfect))))))))))))))))
+    (, ,)
+    (NP (NNP Bread) (NNP sticks))
+    (VP (VBD were)
+      (ADJP (JJ great)
+        (PP (IN as)
+          (ADVP (RB well)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP wish)
+        (SBAR
+          (S
+            (NP (FW i))
+            (VP (MD could)
+              (VP (VB have)
+                (VP (VBN remembered)
+                  (NP
+                    (NP (DT the) (NNS guys) (NN name))
+                    (SBAR
+                      (WHNP (WP who))
+                      (S
+                        (VP (VBD took)
+                          (NP (PRP$ our) (NN order)))))))))))))
+    (CC but)
+    (S
+      (NP (PRP he))
+      (VP (VBD was)
+        (ADJP (RB really) (JJ nice))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (NN Everyone) (NN pizza))
+    (VP (VBP hut)
+      (SBAR
+        (S
+          (NP (NN location))
+          (VP (MD should)
+            (VP (VB provide)
+              (NP
+                (NP (NN customer) (NN service))
+                (PP (JJ such) (IN as)
+                  (NP (DT this) (NN location)))))))))
+    (. !)))
+
+(ROOT
+  (NP
+    (NP (NNP Great))
+    (NP (NN job) (NNS guys))
+    (. !)))
+
+
+(ROOT
+  (S
+    (VP
+      (ADVP (RB Currently))
+      (S
+        (VP
+          (ADVP (RB still))
+          (VBG waiting)
+          (PP (IN for)
+            (NP (PRP$ my) (NN food))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's)
+        (ADJP (RP over))
+        (NP (CD 30) (NNS minutes) (RB late))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBD ordered)
+        (ADVP
+          (NP (CD 1.5) (NNS hours))
+          (RB ago))))
+    (. .)))
+
+

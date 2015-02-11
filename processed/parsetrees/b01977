@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD thought)
+      (SBAR
+        (S
+          (NP (DT this))
+          (VP (VBD was)
+            (ADVP (RB over))
+            (VP (VBN priced)
+              (SBAR (IN as)
+                (S
+                  (NP (PRP they))
+                  (VP (VBD did) (RB n't)
+                    (ADVP (RB even))
+                    (VP (VB check)
+                      (NP (DT the) (NN tire) (NN pressure))))))))))
+      (. .))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB also))
+    (VP (VBP are) (RB n't)
+      (NP
+        (NP (NN part))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (`` ``) (JJ instant) (NN oil) (NN change) ('' '') (NN group))
+            (SBAR (IN so)
+              (S
+                (NP (DT those) (NNS coupons))
+                (VP (MD wo) (RB n't)
+                  (VP (VB work)))))))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (JJ Great) (NN service) (, ,) (NN manager) (NN honored) (NN coupon) (NN I) (NNS forgot))
+    (: ;)
+    (NP (JJ great) (NN ppl))
+    (. .)))
+
+

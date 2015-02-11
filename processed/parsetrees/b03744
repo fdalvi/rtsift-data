@@ -1,0 +1,107 @@
+(ROOT
+  (SINV
+    (FRAG
+      (NP
+        (NP (NNP Thanksgiving) (NNP Tour))
+        (NP (PRP We))))
+    (VP (VBD wobbled)
+      (PRT (RP up))
+      (NP (DT the) (NN mountain)))
+    (NP (NNP Saw) (JJ Amazing) (NNS Views))))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD took)
+        (NP (PRP$ my) (CD two) (NNS boys))
+        (PP (IN on)
+          (NP (DT this) (NN adventure)))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP guess)
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBD was)
+              (VP (VBG expecting)
+                (NP (JJR more))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP (PRP We))
+        (VP (VBD went)
+          (PRT (RP up))
+          (NP (NNP Bulldog) (NNP Canyon))))
+      (CC and)
+      (S
+        (NP (PRP it))
+        (VP (VBD was)
+          (ADJP (JJ beautiful)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (VP (VBG expecting)
+          (NP
+            (NP
+              (NP (DT a)
+                (ADJP (RB little) (JJR more))
+                (NN excitement))
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (NN hummer))
+                  (PRN (-LRB- -LRB-)
+                    (NP
+                      (NP (JJR steeper) (NN terrain))
+                      (CC or)
+                      (NP (DT some) (NN thrills)))
+                    (-RRB- -RRB-)))))
+            (CC plus)
+            (NP
+              (NP (DT some) (JJR deeper) (NN expertise))
+              (PP (IN from)
+                (NP (PRP$ our) (NN guide))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD got)
+      (NP (DT neither)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (NP (DT an) (NN experience))
+      (SBAR (IN that)
+        (S
+          (NP (PRP we))
+          (VP
+            (VP (MD will)
+              (ADVP (NN sort) (IN of))
+              (VP (VB remember)))
+            (, ,)
+            (CC but)
+            (VP (VBP think)
+              (SBAR
+                (S
+                  (NP (PRP it))
+                  (VP (MD may)
+                    (NP (NN worth))
+                    (S
+                      (VP (VBG looking)
+                        (PRT (RP around))
+                        (PP (IN for)
+                          (NP (JJ other) (NNS options)))))))))))))
+    (. .)))
+
+

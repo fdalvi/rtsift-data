@@ -1,0 +1,162 @@
+(ROOT
+  (S
+    (SBAR (IN Although)
+      (S
+        (NP (DT the) (NN resort))
+        (VP (VBD was)
+          (ADJP (JJ nice)))))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBD were)
+      (ADVP (RB severely))
+      (VP (VBN disappointed)
+        (PP (IN in)
+          (NP (DT the) (NN customer) (NN service)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (MD would)
+      (VP (VB think)
+        (SBAR (IN that)
+          (S
+            (S
+              (VP (VBG paying)
+                (NP (JJ good) (NN money))
+                (PP (IN for)
+                  (NP (DT a) (NN timeshare)))))
+            (VP (MD would)
+              (VP (VB result)
+                (PP (IN in)
+                  (NP
+                    (NP (DT a)
+                      (ADJP (RB little) (JJR more))
+                      (NN attention))
+                    (PP (IN from)
+                      (NP (DT the) (NN staff)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBD complained)))
+    (CC and)
+    (S
+      (NP (DT the) (NN resort) (NN manager))
+      (VP (VBD did)
+        (SBAR
+          (S
+            (VP
+              (VP (VBP offer)
+                (NP (PRP us))
+                (NP
+                  (QP (DT a) (JJ few))
+                  (NNS nights))
+                (VP (VB stay)
+                  (PP (IN for)
+                    (ADJP (JJ free)))))
+              (, ,)
+              (SBAR
+                (ADVP (RB however))
+                (IN since)
+                (S
+                  (NP (DT this) (NN place))
+                  (VP (VBZ is)
+                    (NP
+                      (NP (DT a) (CD 6) (NN hour) (NN drive))
+                      (PP (IN for)
+                        (NP (PRP us)))
+                      (SBAR
+                        (S
+                          (NP (PRP I))
+                          (VP (VBP do) (RB n't)
+                            (VP (VB know)
+                              (SBAR (IN that)
+                                (S
+                                  (NP (PRP we))
+                                  (VP (MD will)
+                                    (ADVP (RB ever))
+                                    (VP (VB be)
+                                      (ADJP (JJ able)
+                                        (S
+                                          (VP (TO to)
+                                            (VP (VB use)
+                                              (NP (PRP it)))))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (S
+      (NP (PRP We))
+      (VP (VBP appreciate)
+        (S
+          (NP (PRP him))
+          (VP (VBG trying)
+            (S
+              (VP (TO to)
+                (VP (VB make))))))))
+    (VP (VBZ is))
+    (NP
+      (NP (NN right))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ is)
+            (SBAR
+              (WHADVP (WRB why))
+              (S
+                (NP (PRP I))
+                (VP (MD wo) (RB n't)
+                  (VP (VB give)
+                    (NP (PRP them))
+                    (NP (RB only) (CD 1) (NN star))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT The) (NN place))
+    (VP (VBZ is)
+      (ADJP (RB pretty) (JJ nice))
+      (SBAR (IN so)
+        (S
+          (NP (DT that))
+          (VP (VBZ 's) (RB not)
+            (NP (PRP$ my) (NN beef))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN service))
+    (VP (VBZ sucks)
+      (SBAR
+        (S
+          (NP (NNP sucks))
+          (VP (VBZ sucks)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Over))
+      (VP (VBN priced)
+        (PP (IN for)
+          (NP (DT the) (JJ wrong) (NN service)))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (MD will) (RB not)
+        (VP (VB refund)
+          (NP (NN anything)))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Go)
+      (ADVP (RB elsewhere)))
+    (. .)))
+
+

@@ -1,0 +1,142 @@
+(ROOT
+  (SINV
+    (VP (VB Horrible)
+      (NP
+        (NP (NNP Service))
+        (: -)
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NN extent))
+            (SBAR (IN that)
+              (S
+                (NP (PRP I))
+                (VP (VBD had)
+                  (S
+                    (VP (TO to)
+                      (VP
+                        (VP (VB come)
+                          (PRT (RP on)))
+                        (CC and)
+                        (VP (VB write)
+                          (PP (IN about)
+                            (NP (DT a) (NNS mcdonalds))))))))))))
+        (: ...)))
+    (NP (NNP Lol))))
+
+
+(ROOT
+  (FRAG
+    (ADVP (RBS Worst) (RB McDonalds)
+      (PP (IN in)
+        (NP (NNP Vegas))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Bad) (NN service))
+      (UCP
+        (ADVP (RB consistently))
+        (CC and)
+        (ADJP (JJ sloppy))))
+    (VP (VBD made)
+      (NP (NN food)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (CD 3))
+    (VP
+      (VP (VBZ trys))
+      (CC and)
+      (ADVP (RB still))
+      (VP (VBZ crap)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP WTF))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP am)
+      (ADJP (JJ sure)
+        (SBAR
+          (S
+            (NP
+              (NP (DT the) (NN hobo) (POS 's))
+              (VBG panhandling) (NN outside))
+            (VP (MD could)
+              (VP (VB do)
+                (ADVP (RBR better))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB seriously))
+    (VP (MD must)
+      (VP (VB go)
+        (PRT (RP out))
+        (PP (IN of)
+          (NP (DT the) (NN way)
+            (S
+              (VP (TO to)
+                (VP (VB fuck)
+                  (NP (NNS things))
+                  (PRT (RP up)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB just))
+    (VP (VBP want)
+      (S
+        (VP (TO to)
+          (VP (VB know)
+            (SBAR
+              (WHNP (WP what) (JJ other) (NNS McDonalds))
+              (S
+                (NP (DT this) (NNP Franchisee))
+                (VP (VBZ owns)
+                  (SBAR (IN so)
+                    (S
+                      (NP (PRP I))
+                      (VP (MD can)
+                        (VP (VB avoid)
+                          (NP (DT those))
+                          (ADVP (RB also)))))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (ADVP (RB Agree))
+    (, ,)
+    (NP (JJS worst))
+    (VP (VBZ McDonalds)
+      (ADVP (RB ever)))
+    (. .)))
+
+(ROOT
+  (S
+    (CONJP (RB Not) (JJ only))
+    (SINV (VBD did)
+      (NP (PRP they))
+      (VP (VB mess)
+        (PRT (RP up))
+        (NP (PRP$ our) (NN order))))
+    (, ,)
+    (S
+      (NP (PRP they))
+      (VP (VBD messed)
+        (PRT (RP up))
+        (NP (DT the) (NN order))
+        (PP (IN before)
+          (NP (PRP ours)))))
+    (. .)))
+
+

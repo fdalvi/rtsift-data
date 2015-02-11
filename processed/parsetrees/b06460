@@ -1,0 +1,120 @@
+(ROOT
+  (S
+    (NP (NNP Staff))
+    (VP (VBD was)
+      (ADJP (JJ friendly)
+        (CC and)
+        (JJ nice))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (FW i))
+          (VP
+            (VP (VBD came)
+              (ADVP (RB here)))
+            (CC and)
+            (VP
+              (ADVP (RB there))
+              (VBD was)
+              (NP
+                (NP (RB plenty))
+                (PP (IN of)
+                  (NP (NN seating)))))
+            (ADJP (JJ available))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Great) (JJ quick) (NN meal))
+      (SBAR (IN while)
+        (S
+          (NP (PRP you))
+          (VP (VBP wait)
+            (PP (IN for)
+              (NP (PRP$ your) (NN oil)))))))
+    (VP (VBP change)
+      (ADVP (JJ next) (NN door))
+      (PP (IN at)
+        (NP (JJ jiffy) (NN lube))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBG coming)
+          (ADVP (RB here))
+          (PP (IN for)
+            (NP (NNS years))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Probably)
+      (NP
+        (QP (IN at) (JJS least) (CD 20))
+        (NNS years)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP (JJ right)
+        (PP (IN around)
+          (NP
+            (NP (DT the) (NN corner))
+            (PP (IN from)
+              (NP
+                (NP (PRP$ my) (NNS parents) (POS '))
+                (NN house)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's)
+        (ADVP (RB always))
+        (ADJP (JJ clean))))
+    (CC and)
+    (S
+      (NP (DT the) (NNS employees))
+      (VP (VBP are)
+        (ADJP (JJ friendly))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Sometimes))
+      (NP (PRP they))
+      (VP (VBP have)
+        (NP (NN ice))))
+    (, ,)
+    (ADVP (RB sometimes))
+    (S
+      (NP (PRP they))
+      (VP (VBP do) (RB n't)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT Some) (NNS times))
+    (S
+      (NP (DT the) (NN coke))
+      (VP (VBZ is)
+        (ADVP (RB actually))
+        (NP (NN diet) (NN coke))))
+    (CC and)
+    (S
+      (ADVP (RB sometimes))
+      (NP (PRP it))
+      (VP (VBZ is) (RB n't)))
+    (. .)))
+
+

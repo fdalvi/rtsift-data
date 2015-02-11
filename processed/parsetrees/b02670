@@ -1,0 +1,230 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN manager))
+      (VP (VBD was)
+        (ADJP (JJ nice))))
+    (CC and)
+    (S
+      (NP (NNS people))
+      (VP (VBD were)
+        (ADJP (JJ happy)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (VP (VBG making)
+                  (NP (JJ free) (NNP DBacks) (NNS tacos)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD had)
+      (NP
+        (NP (DT a) (NN party))
+        (: -)
+        (PP (IN like)
+          (NP (NN atmosphere))))
+      (PP (IN with)
+        (NP (JJ happy) (NNS customers)
+          (CC and)
+          (NNS employees))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Very))
+      (ADJP (JJ clean)
+        (CC and)
+        (JJ well)))
+    (VP (VBD kept))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Good))
+    (PP (IN for)
+      (NP (DT a) (NNP Taco) (NNP Bell)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP enjoy)
+      (NP
+        (NP (DT the)
+          (ADJP (RB somewhat) (JJ healthier))
+          (NNP Fresco) (NNP Tacos))
+        (PP (IN over)
+          (NP (DT the) (JJ original)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (DT the) (JJS biggest) (NN difference))
+          (VP (VBZ is)
+            (NP
+              (NP
+                (NP (DT the) (NN lack))
+                (PP (IN of)
+                  (NP (NN cheese))))
+              (CC and)
+              (NP
+                (NP (DT the) (NN addition))
+                (PP (IN of)
+                  (NP (NN pico) (NNP de) (NNP gallo)))))))))
+    (. .)))
+
+
+(ROOT
+  (FRAG
+    (S
+      (VP (VBN Tried)
+        (NP
+          (NP (DT the) (NNP Cantina) (NNP Burrito))
+          (PP (IN with)
+            (NP (NN chicken))))))
+    (, ,)
+    (NP
+      (NP (NN man))
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD was)
+            (ADJP (JJ delicious))))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (ADVP (RB usually))
+      (VP (VBP do) (RB n't)
+        (VP (VB frequent)
+          (NP (NNP Taco) (NNP Bell)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT this))
+      (VP (VBD was)
+        (ADJP (JJ worth))
+        (NP (DT the) (NN time))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN counter) (NN person))
+    (VP (VBD was)
+      (ADJP (JJ friendly)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VP (VBD saw)
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (NN sun))
+            (VP (VBD was)
+              (NP
+                (NP (NN beating))
+                (PP (IN thru)
+                  (NP
+                    (NP (DT the) (NN window))
+                    (SBAR
+                      (WHADVP (WRB when))
+                      (S
+                        (NP (PRP I))
+                        (VP (VBD was)
+                          (VP (VBG eating)
+                            (NP (PRP$ my) (NN meal)))))))))))))
+      (CC and)
+      (VP (VBD offered)
+        (S
+          (VP (TO to)
+            (VP (VB drop)
+              (NP (DT the) (NNS blinds)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD did) (RB n't)
+      (ADVP (RB even))
+      (VP (VB ask)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Point))
+    (PP (IN for)
+      (NP (DT this) (NNP Taco) (NNP Bell)))
+    (. !)))
+
+
+(ROOT
+  (S (IN So)
+    (NP (PRP I))
+    (VP
+      (VP (VBD came)
+        (ADVP (RB here))
+        (NP (JJ last) (NNP Saturday)))
+      (CC and)
+      (VP
+        (VP (VBD tried)
+          (NP (DT the) (NNP Cantina) (NN chicken) (NN burrito)))
+        (CC and)
+        (VP (VBD loved)
+          (NP (PRP it)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBD came)
+        (ADVP (RB here))
+        (NP (NN today)))
+      (CC and)
+      (VP (VBD ordered)
+        (NP (DT the) (JJ same) (NN thing)))
+      (, ,)
+      (CC and)
+      (ADVP (RB seriously))
+      (VP (VBD thought)
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBD was)
+              (VP (VBG eating)
+                (NP
+                  (NP (DT a) (JJ veggie) (NN burrito))
+                  (SBAR
+                    (S
+                      (NP (EX there))
+                      (VP (VBD was)
+                        (ADVP (RB hardly))
+                        (NP
+                          (NP (DT any) (NN chicken))
+                          (PP (IN in)
+                            (NP (PRP it))))))))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Boo))
+    (: ...)
+    (NP
+      (NP (RB not) (JJ sure))
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (VP (VBZ gives)))))))
+
+

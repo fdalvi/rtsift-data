@@ -1,0 +1,67 @@
+(ROOT
+  (S
+    (S
+      (NP (NN Someone))
+      (INTJ (VB please))
+      (VP (VB confirm)
+        (CC or)
+        (VB disconfirm)
+        (NP (DT this))
+        (PP (IN for)
+          (NP (PRP me)))))
+    (: :)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBD heard)
+        (SBAR (IN that)
+          (S
+            (NP (DT this) (JJ particular) (NN store))
+            (VP (VBD was)
+              (VP (VBN shut)
+                (PRT (RP down))))))))
+    (. ?)))
+
+(ROOT
+  (SQ (VBZ Is)
+    (NP (DT this))
+    (ADJP (JJ true))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB be)
+        (ADJP
+          (ADJP (RB very) (RB truly) (JJ upset))
+          (SBAR (IN if)
+            (S
+              (NP (DT that))
+              (VP (VBD were)
+                (NP (DT the) (NN case))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (VP (VB Be)
+        (VP (VBN prepared)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (ADJP (VBN upset)
+                  (SBAR
+                    (S
+                      (NP (PRP it))
+                      (VP (VBZ is)
+                        (VP (VBN gone))))))))))))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (PP (IN for)
+          (NP (JJ several) (NNS years)))
+        (ADVP (RB now))))
+    (. .)))
+
+

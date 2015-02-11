@@ -1,0 +1,165 @@
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (ADVP (RB actually))
+      (NP
+        (NP (DT a) (NNP Shell) (NN gas) (NN station))
+        (PP (IN with)
+          (NP (DT a) (NNP CircleK) (NN convenience) (NN store)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP like)
+        (NP (DT this) (NNP Gas) (NN station))
+        (SBAR (IN because)
+          (S
+            (NP (PRP it))
+            (VP (VBZ 's)
+              (ADJP
+                (ADJP
+                  (ADVP (RB never))
+                  (VBN crowded))
+                (, ,)
+                (SBAR
+                  (S
+                    (VP (VBZ has)
+                      (NP
+                        (NP (DT a) (NN lot))
+                        (PP (IN of)
+                          (NP (NNS pumps)))))))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADJP (JJ convenient)
+          (S
+            (VP (TO to)
+              (VP (VB get)
+                (PP (TO to))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN Market))
+    (VP
+      (VP (VBZ is)
+        (ADVP (RB always))
+        (ADJP (JJ clean)))
+      (CC and)
+      (VP (VBZ has)
+        (NP (DT a)
+          (ADJP (RB fairly) (JJ good))
+          (NN beverage/coffee) (NN station))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (NNP Cheapest) (NNP Shell))
+    (NP
+      (NP (NN gas))
+      (PP (IN in)
+        (NP (DT the) (NN valley))))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VB Usually)
+      (NP (CD .10) (JJR cheaper))
+      (PP (IN than)
+        (NP (JJ other) (NNS stations))))
+    (. .)))
+
+(ROOT
+  (INTJ (UH Clean) (. !)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Never)
+      (NP (DT a) (NN wait))
+      (PP (IN for)
+        (NP (DT a) (NN pump))))
+    (. !)))
+
+(ROOT
+  (NP
+    (NP (NNS Bonus))
+    (: -)
+    (S
+      (NP (EX There))
+      (VP (VBZ 's)
+        (NP
+          (NP (DT a) (NNP Wells) (NNP Fargo) (NNP ATM))
+          (PP (IN outside)
+            (NP (DT the) (NNP Circle) (NNP K))))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (CD One))
+    (PP (IN of)
+      (NP (DT the)
+        (ADJP (JJS least) (JJ expensive))
+        (NN gas) (NNS stations)))
+    (PP (IN in)
+      (NP (DT the) (NN area)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP (CC both)
+        (NP (DT a) (NNP Shell) (NNP Gas) (NNP Station))
+        (CC and)
+        (NP (NNP Circle) (NNP K) (. .))
+        (SBAR
+          (S
+            (NP (DT A) (JJ big) (NN benefit))
+            (VP (VBZ is)
+              (VP (VBG getting)
+                (NP (JJ inexpensive) (NN gas))
+                (PP (IN with)
+                  (NP
+                    (NP (DT the) (JJ appropriate) (NNS additives))
+                    (PP (IN in)
+                      (NP (DT the) (NN gas)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Honda))
+    (VP (VBD recommended)
+      (NP (DT this) (NN station))
+      (SBAR (IN because)
+        (S
+          (NP (PRP you))
+          (VP (MD should)
+            (VP (VB see)
+              (NP
+                (NP (DT a) (NN improvement))
+                (PP (IN in)
+                  (NP
+                    (NP (NNS miles))
+                    (ADJP (IN per) (NN gallon))
+                    (PP (IN versus)
+                      (NP
+                        (NP (JJR poorer) (NN gas) (NN mileage))
+                        (PP (IN from)
+                          (NP (JJ other) (NNP Circle) (NNP K) (NN gas) (NNS stations)))))))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBZ uses)
+                      (NP (DT a) (JJR poorer) (NN quality) (NN gas))
+                      (PP (IN with)
+                        (NP (RB not) (DT the) (JJ appropriate) (NNS additives))))))))))))
+    (. .)))
+
+

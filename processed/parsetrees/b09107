@@ -1,0 +1,185 @@
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP I))
+        (VP (VBP need)
+          (NP
+            (NP (NN gas))
+            (CC and)
+            (NP (DT a) (JJ quick) (NN burger))))))
+    (NP (DT this))
+    (VP (VBZ is)
+      (SBAR
+        (WHADVP (WRB where))
+        (S
+          (NP (PRP I))
+          (VP (VBP go)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (INTJ (UH Yes))
+      (, ,)
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (NP (DT a) (NN McDonalds))))
+    (, ,)
+    (CC but)
+    (S
+      (NP
+        (NP (DT the) (NNS folks))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBP run)
+              (NP (CD Four) (NNPS Sons))))))
+      (VP (VBP are)
+        (ADJP (RB very) (JJ nice))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (JJ Nice) (JJ little) (NN gas) (NN station))
+        (PP (IN with)
+          (NP (DT a) (JJ minimal))))
+      (VP (VBD set)
+        (PP (IN of)
+          (NP
+            (NP (NNS snacks))
+            (CC and)
+            (NP (JJ such))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP they))
+      (VP (VBP do)
+        (VP (VB have)
+          (NP
+            (NP (DT a) (NNP McDonalds))
+            (VP (VBN attached)
+              (PP (TO to)
+                (NP (PRP it))))
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBZ is)
+                  (ADJP (JJ nice)))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NN Lot))
+    (PP (IN of)
+      (S
+        (VP (VBG parking)
+          (ADVP (RB too))
+          (SBAR (IN because)
+            (S
+              (NP (PRP it))
+              (VP (VBZ bumps)
+                (PRT (RP up))
+                (PP (IN against)
+                  (NP (NNP Albertsons) (NN parking) (NN lot)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Nice)
+      (NP (NN staff)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN gas) (NN station))
+      (, ,)
+      (NP (NN convenience) (NN store))
+      (, ,)
+      (CC and)
+      (NP
+        (NP (DT a) (NNP McDonalds))
+        (NP (DT all))))
+    (VP (VBD rolled)
+      (PP (IN into)
+        (NP (CD one))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBZ comes)
+      (PP (IN in)
+        (ADJP (JJ handy)))
+      (PP (IN from)
+        (NP
+          (NP (NN time))
+          (PP (TO to)
+            (NP (NN time))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP drop)
+      (PRT (RP in))
+      (S
+        (VP (TO to)
+          (VP
+            (VP (VB fill)
+              (NP (PRP$ my) (NN tank)))
+            (CC or)
+            (VP (VB grab)
+              (NP (DT a) (NN snack)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RBR More) (RB recently))
+      (, ,)
+      (NP (PRP I))
+      (VP (VBP 've)
+        (VP (VBN been)
+          (VP (VBG buying)
+            (NP (JJ Powerball) (NNS tickets))
+            (ADVP (RB here))))))
+    (: ...)
+    (S
+      (SBAR (RB especially) (IN since)
+        (S
+          (NP (PRP it))
+          (VP (VBZ 's)
+            (NP
+              (NP (NN sister) (NN store))
+              (PP (IN in)
+                (NP (NNP Fountain) (NNPS Hills)))))))
+      (VP (VBD sold)
+        (NP (DT the) (JJ huge)
+          (ADJP
+            (QP ($ $) (CD 300) (CD +)))
+          (NN mil))
+        (S
+          (VP (VBG winning)
+            (NP (NN ticket))
+            (NP
+              (NP (DT a) (NN couple))
+              (PP (IN of)
+                (NP
+                  (NP (NNS months))
+                  (ADVP (IN ago)))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Return) (NNP Factor))
+    (: -)
+    (NP (CD 80) (NN %))))
+
+

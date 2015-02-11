@@ -1,0 +1,151 @@
+(ROOT
+  (NP
+    (NP (NNP SW) (NN corner))
+    (PP (IN of)
+      (NP
+        (NP (NNP Cactus)
+          (CC &)
+          (NP (JJ 75th) (NN ave.) (NN location)))
+        (PRN (-LRB- -LRB-)
+          (S
+            (S
+              (NP (NNP Yelp) (NNP map))
+              (VP (VBZ is)
+                (ADJP (JJ incorrect))))
+            (, ,)
+            (CC but)
+            (S
+              (NP (DT the) (NN address))
+              (VP (VBZ is)
+                (ADJP (JJ correct)))))
+          (-RRB- -RRB-))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBD were)
+        (VP (VBN staffed)
+          (ADVP (RB well))
+          (NP (NN today)))))
+    (CC and)
+    (S
+      (NP (DT the) (NN line))
+      (VP (VBD moved)
+        (ADJP (RB reasonably) (JJ fast))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (JJ Sandwich) (NN prep) (NN area))
+      (VP (VBD was)
+        (ADJP (JJ clean))))
+    (CC and)
+    (S
+      (NP (DT the) (NNS ingredients))
+      (VP (VBD looked)
+        (ADJP (JJ fresh)
+          (CC and)
+          (JJ appetizing))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Bread))
+    (VP (VBD was)
+      (ADJP (JJ fresh) (, ,) (RB as) (JJ usual)))
+    (. .)))
+
+(ROOT
+  (SINV
+    (S
+      (NP (JJ Overall) (NN food))
+      (VP (VBD was) (RB n't)
+        (ADJP (JJ bad))))
+    (, ,)
+    (VP
+      (ADVP (CC but))
+      (VBD was) (RB n't)
+      (ADJP (JJ great)))
+    (NP
+      (NP (DT either))
+      (: -)
+      (NP
+        (NP (DT the) (NN ususal))
+        (PP (IN for)
+          (NP (NNP Subway)))))
+    (. .)))
+
+(ROOT
+  (NP (JJ Cheap) (NN food) (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (JJ Fantastic) (NN customer) (NN service))
+      (VP (VBD :-RRB-)
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBD said)
+              (NP (NN vegetarian) (NN sandwich)))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP he))
+      (ADVP (RB automatically))
+      (VP (VBD got)
+        (NP
+          (NP (JJ new) (NNS gloves))
+          (CC and)
+          (NP (DT a) (JJ new) (NN knife)))
+        (PP (IN for)
+          (NP (PRP me)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Actually))
+    (VP (VB help)
+      (NP (PRP me))
+      (PP (TO to)
+        (NP (DT the) (NN beginning)
+          (S
+            (VP (TO to)
+              (VP (VB end)))))))
+    (. .)))
+
+
+(ROOT
+  (VP (VBN Been)
+    (VP (VBG waiting)
+      (S
+        (VP (TO to)
+          (VP (VB pay)
+            (PP (IN for)
+              (NP (PRP$ my) (NNS subs)))
+            (SBAR (IN for)
+              (S
+                (NP
+                  (NP
+                    (QP (RB about) (CD ten))
+                    (NN min))
+                  (PP (IN with)
+                    (NP (DT the) (CD two) (NN lady))))
+                (VP (VBZ 's)
+                  (VP (VBG looking)
+                    (PP (IN like)
+                      (NP (RB there)))
+                    (PP (TO to)
+                      (NP
+                        (ADJP (JJ high)
+                          (S
+                            (VP (TO to)
+                              (VP (VB operate)
+                                (NP (DT a) (NN cash))))))
+                        (NN drawer)))))))))))))
+
+

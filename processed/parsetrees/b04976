@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (NNP Service))
+    (VP (VBZ Is)
+      (ADJP (JJ Good)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Sometimes))
+      (NP (PRP they))
+      (VP (VBP take)
+        (ADVP (RB long))))
+    (, ,)
+    (ADVP (RB nevertheless))
+    (S
+      (NP (EX there))
+      (VP (VBP alright)))
+    (. .)))
+
+
+(ROOT
+  (FRAG
+    (PP (IN In)
+      (NP
+        (NP
+          (NP (DT the) (NN shop))
+          (NP (PDT all) (DT the) (NN time))
+          (, ,)
+          (ADJP (RB really) (JJ helpful)))
+        (CC and)
+        (NP (JJ polite) (NN staff))))
+    (. .)))
+
+

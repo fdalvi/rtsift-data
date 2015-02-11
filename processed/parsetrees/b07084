@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP are)
+      (ADJP (RB very) (JJ kind)
+        (CC and)
+        (JJ honest)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP earn)
+      (NP (PRP$ my) (NN trust)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Surely))
+    (NP (PRP I))
+    (VP (MD will)
+      (VP (VB keep)
+        (PP (IN on)
+          (S
+            (VP (VBG using)
+              (NP
+                (NP (DT the) (NN serving))
+                (SBAR
+                  (S
+                    (NP (PRP they))
+                    (VP (VBP provide)
+                      (ADVP (RB later) (RB on)))))))))))
+    (. .)))
+
+

@@ -1,0 +1,103 @@
+(ROOT
+  (S
+    (NP (DT This) (NN store))
+    (VP (VBZ has)
+      (NP
+        (NP (NNP Coke) (NNP Zero))
+        (PP (IN in)
+          (NP (PRP$ their) (NN fountain) (NNS offerings)))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN chicken) (NNS tenders))
+      (VP (VBD had)
+        (NP (DT a) (JJ weird) (NN rubbery) (NN texture))))
+    (CC and)
+    (S
+      (NP (DT this))
+      (VP (VBD was)
+        (ADJP
+          (ADJP
+            (NP
+              (NP (DT the) (JJ second) (NN time))
+              (ADJP (RB so) (DT no)))
+            (JJR more))
+          (PP (IN for)
+            (NP (PRP me))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (ADJP (JJ Second) (JJS best))
+      (NNP Carl))
+    (VP (VBZ 's)
+      (NP
+        (NP (NNP Jr.))
+        (PP (IN in)
+          (NP (NNP Las) (NNP Vegas)))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Food))
+      (VP (VBZ is)
+        (ADVP (RB always))
+        (ADJP (JJ fresh)
+          (CC and)
+          (JJ hot))))
+    (CC and)
+    (S
+      (NP (NN service))
+      (VP (VBZ is)
+        (ADJP (RB very) (JJ good))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Went))
+    (ADVP (RB through))
+    (VP
+      (VP (VBZ drivethru))
+      (CC and)
+      (VP (VBD was)
+        (VP (VBN given)
+          (NP (DT the) (JJ wrong) (NN food)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Went))
+      (ADVP (RB back)
+        (PP (TO to)
+          (NP
+            (NP (NN exchange))
+            (CC and)
+            (NP (DT the) (NN staff)))))
+      (VP (VBD thought)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBD was)
+              (ADJP (JJ funny)))))))
+    (, ,)
+    (NP (RB then))
+    (VP (VBD refilled)
+      (NP (PRP$ my) (NN drink))
+      (PP (IN with)
+        (NP (DT the) (JJ wrong) (NN thing))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBN Disappointed))
+    (. .)))
+
+

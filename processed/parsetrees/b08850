@@ -1,0 +1,101 @@
+(ROOT
+  (S
+    (NP
+      (NP (CD two) (NNS plates))
+      (ADJP
+        (ADJP (JJ full)
+          (SBAR
+            (S
+              (VP
+                (VP (VBZ sells))
+                (CC and)
+                (VP (VBZ promotes)
+                  (NP (NN american) (JJ handcraft)
+                    (CC and)
+                    (JJ local) (NNS artists))
+                  (: ...)
+                  (PP (IN on)
+                    (NP
+                      (NP (DT the) (JJ second) (NNP sunday))
+                      (PP (IN of)
+                        (NP
+                          (NP (DT the) (NN month))
+                          (PP (IN from)
+                            (NP (NNP october))))))))))))
+        (PP (TO to)
+          (NP
+            (NP (NNP april))
+            (PP (IN from)
+              (NP (NN noon)))))
+        (PP (TO to)
+          (NP (CD five)))))
+    (VP (VBZ is)
+      (NP
+        (NP
+          (NP (JJ second) (NNP sunday) (NN art) (NNS fest))
+          (: ...)
+          (NP (JJ local) (NNS artists)))
+        (CC and)
+        (NP
+          (NP (NN music))
+          (PP (IN in)
+            (NP (DT the) (NN borgata) (NN courtyard))))))
+    (. !)))
+
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Why))
+    (SQ (VBP do)
+      (NP
+        (NP (NNS stores))
+        (PP (IN like)
+          (NP (DT this))))
+      (VP (VB exist)))
+    (. ?)))
+
+(ROOT
+  (SQ (VBZ Does)
+    (NP
+      (NP
+        (NP (NN anyone))
+        (PP (IN in)
+          (NP (NNP Arizona))))
+      (VP
+        (ADVP (RB really))
+        (VBP need)
+        (NP (RBR more) (NN brightly) (JJ colored))))
+    (, ,)
+    (VP (VB tacky)
+      (NP (NNS tchotchkes)))
+    (. ?)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ looks)
+        (SBAR (IN like)
+          (S
+            (NP (NNP Elton) (NNP John))
+            (VP (VBD threw)
+              (PRT (RP up))
+              (PP (IN in)
+                (NP (RB here))))))))
+    (CC and)
+    (RB then)
+    (S
+      (NP (NNP Liberace))
+      (VP (VBD tried)
+        (S
+          (VP (TO to)
+            (VP (VB cover)
+              (NP (PRP it))
+              (PRT (RP up))
+              (PP (IN by)
+                (S
+                  (VP (VBG bedazzling)
+                    (NP (NN everything))))))))))
+    (. .)))
+
+

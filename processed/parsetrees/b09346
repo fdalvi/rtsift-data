@@ -1,0 +1,155 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (JJ great) (JJ local) (NN bakery))
+      (PP (IN for)
+        (NP (NN business))))
+    (VP (VBZ 's))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (S
+          (NP (PRP you))
+          (VP (VBP own)
+            (NP
+              (NP (DT a) (NN restaurant))
+              (PP (IN in)
+                (NP (DT the) (JJ east) (NN valley))))))
+        (CC and)
+        (S
+          (NP (PRP you))
+          (VP (VBP serve)
+            (NP (JJ baked) (NNS goods))))))
+    (VP (VB check)
+      (NP (DT these) (NNS guys))
+      (PRT (RP out)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (JJ only) (NN item))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ is)
+              (VP (VBG lacking))))))
+      (VP (VBP are)
+        (NP (PRP$ their) (NNS bagels))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP they))
+      (VP (VBP have)
+        (NP (JJ challah) (NN hamburger) (NNS buns))
+        (SBAR (IN so)
+          (S
+            (NP (PRP they))
+            (VP (VBD loose)
+              (NP (DT no) (NNS points))
+              (PP (IN in)
+                (NP (PRP$ my) (NN book)))
+              (PP (IN for)
+                (NP (DT that) (NN one))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Very)
+      (NP (JJ nice) (NN staff))
+      (S
+        (VP (TO to)
+          (VP (VB work)
+            (PP (IN with)))))
+      (, ,)
+      (SBAR (RB even)
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP I))
+          (VP (VBP forget)
+            (S
+              (VP (TO to)
+                (VP (VB call)
+                  (NP (PRP$ my) (NN order))
+                  (PP (IN in)
+                    (PP (IN before)
+                      (NP (DT the) (NN deadline) (NN ;-RRB-)))))))))))))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP love)
+      (S
+        (NP (DT the) (NNP Sourdough) (NN bread))
+        (NP (DT these) (NNS folks) (NN bake))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (RB Not) (DT a) (JJ long) (NN shelf) (NN life))
+    (, ,)
+    (CC but)
+    (S
+      (PP (IN with)
+        (NP
+          (NP (NN bread))
+          (ADJP (DT this) (JJ good))))
+      (, ,)
+      (NP (PRP it))
+      (VP (VBZ does) (RB n't)
+        (VP (VB sit)
+          (PRT (RP around))
+          (ADVP (RB long)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB also))
+    (VP (VBP have)
+      (NP
+        (NP (DT a) (JJ rosemary) (NN focaccia))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ 's)
+              (ADJP (JJ hard)
+                (S
+                  (VP (TO to)
+                    (VP (VB pass)
+                      (PRT (RP up)))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN bread))
+    (VP (VBZ is)
+      (S
+        (VP (TO to)
+          (VP (VB die)
+            (PP (IN for))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (RB Absolutely) (JJ yummy))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP hear)
+      (S
+        (NP (PRP they))
+        (VP (VB make)
+          (NP (NNS bagels))
+          (ADVP (RB too)))))
+    (. !)))
+
+

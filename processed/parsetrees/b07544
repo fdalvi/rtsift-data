@@ -1,0 +1,663 @@
+(ROOT
+  (FRAG
+    (NP (NNP Location))
+    (: :)
+    (S
+      (NP (PRP It))
+      (VP (VBZ is)
+        (ADJP
+          (ADJP
+            (NP (DT a) (RB bit))
+            (JJ ghetto))
+          (CC but)
+          (RB still)
+          (ADJP (RB centrally) (JJ located)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP
+          (NP (NNS Apartments))
+          (: :)
+          (NP (DT The)
+            (ADJP (JJ normal)
+              (NP (CD 1)))
+            (NN bedroom)))
+        (CC and)
+        (NP (JJ multi-bedroom) (NNS units)))
+      (VP (VBP are)
+        (ADJP (RB pretty) (JJ standard))
+        (ADVP (RB however))))
+    (, ,)
+    (NP (DT the) (VBN upgraded) (NN one) (NN bedroom))
+    (VP (VBZ is)
+      (ADJP (RB quite) (JJ nice)
+        (PP (IN with)
+          (NP (DT a) (JJ unique) (NN floor) (NN plan))))
+      (SBAR (IN that)
+        (S
+          (NP (PRP I))
+          (VP (VBD liked)
+            (ADJP (RB very) (JJ much))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN bedroom))
+    (VP (VBZ is)
+      (VP (VBN tucked)
+        (ADVP
+          (ADVP (RB nicely) (RB away))
+          (RB down)
+          (NP (DT a) (NN hallway)))
+        (PP (IN from)
+          (NP (DT the) (JJ main) (NN living) (NN area)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN patio))
+    (VP (VBZ is)
+      (ADJP (JJ accessible)
+        (PP (IN from)
+          (NP
+            (NP (PDT both) (DT the) (NN bedroom))
+            (CC and)
+            (NP (JJ main) (VBG living) (NN area))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN kitchen))
+    (VP (VBZ is)
+      (ADJP (RB centrally) (VBN located)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP The))
+      (PP (IN in)
+        (NP (NN unit) (NN washer)
+          (CC and)
+          (NN dryer))))
+    (VP (VBP are)
+      (VP (VBN located)
+        (ADVP (RB right) (JJ next))
+        (PP (TO to)
+          (NP (DT the) (JJ spacious) (NN closet)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (MD can) (RB not)
+        (VP (VB comment)
+          (PP (IN on)
+            (NP (DT the) (JJ other) (NNS units))))))
+    (CC but)
+    (S
+      (NP (DT the) (CD one) (NN bedroom))
+      (VP (VBD upgraded)
+        (SBAR
+          (S
+            (NP (NN apartment))
+            (VP (VBZ is)
+              (ADJP (JJ great)))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNS Neighbors))
+    (: :)
+    (NP
+      (NP (DT Neither)
+        (ADJP (JJ great)
+          (CC nor)
+          (JJ terrible)))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (JJ nicer) (NN part))
+          (PP (IN of)
+            (NP (DT the) (NNS apartments))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ is)
+        (NP (PRP$ my) (NN opinion))
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (JJ single) (NNS people))
+              (PP (IN with)
+                (NP (JJ good) (NNS incomes))))
+            (VP (VBP are)
+              (VP (VBN placed)
+                (PP (IN in)
+                  (NP
+                    (NP (CD one) (NN part))
+                    (PP (IN of)
+                      (NP (DT the) (NNS apartments)))))))))))
+    (CC and)
+    (S
+      (NP
+        (NP (NNS people))
+        (PP (IN with)
+          (NP
+            (NP (NNS children))
+            (CC or)
+            (NP (JJ bad) (NNS incomes)))))
+      (VP (VBP are)
+        (VP (VBN placed)
+          (PP (IN in)
+            (NP (DT another))))))
+    (CC but)
+    (S
+      (NP (PRP I))
+      (ADVP (RB cant))
+      (VP (VBP say)
+        (SBAR
+          (S
+            (PP (IN for)
+              (ADJP (JJ sure)))
+            (NP (PRP it))
+            (ADVP (RB just))
+            (VP (VBD seemed)
+              (NP (DT that) (NN way))
+              (PP (TO to)
+                (NP (PRP me))))))))
+    (. .)))
+
+(ROOT
+  (S (CC So)
+    (SBAR (IN if)
+      (S
+        (NP (PRP you))
+        (VP (VBD were)
+          (PP (IN in)
+            (NP (DT the) (JJ nicer) (NN part))))))
+    (NP (DT the) (NNS neighbors))
+    (VP (VBD were)
+      (VP (VBN ok)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBD were)
+          (PP (IN in)
+            (NP (DT the)
+              (ADJP (RB not) (RB so) (JJ nice))
+              (NN part))
+            (ADVP (RB then))))))
+    (NP (DT the) (NNS neighbors))
+    (VP (VBD were)
+      (ADJP
+        (NP (DT a) (RB bit))
+        (JJ much)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NN Parking))
+    (: :)
+    (S
+      (S
+        (NP (CD One)
+          (UCP
+            (NP (JJ reserved) (NN spot))
+            (CC but)
+            (ADJP
+              (NP (DT the) (RB not))
+              (JJ reserved)))
+          (NNS spots))
+        (VP (VBP are)
+          (ADJP (JJ tiny))))
+      (CC and)
+      (S
+        (NP (EX there))
+        (VP (VBP are) (RB not)
+          (ADJP (JJ enough)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBP Have)
+        (S
+          (VP (TO to)
+            (VP (VB buy)
+              (NP (PRP$ your) (JJ own) (NN clicker))
+              (PP (IN for)
+                (NP
+                  (NP (DT the) (NN gate))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (VBZ encloses)
+                        (NP (DT the) (NN community))))))))))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ is)
+        (ADVP (RB usually))
+        (PP (IN in)
+          (NP (NN disrepair)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (NNS Amenities))
+      (: :)
+      (NP (NNP Pool))
+      (, ,)
+      (NP
+        (NP
+          (NP (JJ hot) (NN tub))
+          (, ,)
+          (NP (JJ free) (NN gym))
+          (PRN (-LRB- -LRB-)
+            (S
+              (NP (NNP Pool))
+              (VP (VBZ is)
+                (PP (IN in)
+                  (NP (NN ok) (NN shape)))))
+            (-RRB- -RRB-)))
+        (PRN
+          (NP (NNP Management)))))
+    (: :)
+    (S
+      (NP (DT This))
+      (VP (VBZ is)
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (NP (DT these) (NNS apartments))
+            (VP (VBP fail))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN management))
+    (VP (VBZ is)
+      (ADJP (RB very) (JJ friendly))
+      (SBAR
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP you))
+            (VP (VB sign)
+              (PRT (RP up)))))
+        (CC but)
+        (SBAR (IN once)
+          (S
+            (NP (PRP you))
+            (VP (VBP are)
+              (SBAR (IN in)
+                (S
+                  (NP (PRP they))
+                  (VP (VBP treat)
+                    (SBAR
+                      (S
+                        (NP (PRP you))
+                        (VP (VBP like)
+                          (NP (RB just) (DT another) (NN apartment) (NN number)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (VP (VBN referred)
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (PRP I))
+              (VP (VBD moved)
+                (PRT (RP in))))))))
+    (CC and)
+    (RB then)
+    (S
+      (NP (PRP they))
+      (VP (VBD tried)
+        (S (RB not)
+          (VP (TO to)
+            (VP (VB pay)
+              (NP (DT the) (NN referral)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD fought)
+        (PP (IN with)
+          (NP (PRP them)))
+        (PP (IN for)
+          (NP (DT a) (NN couple) (NNS weeks)))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (ADVP (RB eventually))
+      (VP (VBD paid)
+        (NP (PRP it))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP$ My) (NN cousin))
+      (VP
+        (VP (VBD lived)
+          (ADVP (RB here))
+          (PP (IN for)
+            (NP (NNS years))))
+        (CC and)
+        (VP (VBD was)
+          (ADJP (RB well) (JJ aware)
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (JJ monthly) (NN rent))
+                (VP (VBD was)
+                  (ADVP (RB greatly))
+                  (VP (VBN reduced)
+                    (PP (IN for)
+                      (NP (JJ new) (NNS residents)))))))))))
+    (CC but)
+    (S
+      (NP (PRP they))
+      (VP (MD would) (RB not)
+        (VP (VB give)
+          (NP (PRP him))
+          (NP
+            (NP (DT the) (JJ same) (NN deal))
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP$ his) (NN lease))
+                (VP (VBD was)
+                  (ADVP (RB up)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (DT All)
+      (PP (IN in)
+        (NP (DT all))))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (NP
+        (NP (NN ok))
+        (PP (RB because) (IN of)
+          (NP
+            (NP (DT the) (JJ bad) (NN management))
+            (, ,)
+            (NP (JJ good) (JJ single) (JJ upgrade) (NN apartment) (NN layout))
+            (, ,)
+            (NP (JJ central) (NN location))
+            (CC but)
+            (NP (JJ bad) (NN neighborhood))))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (NN Love))
+    (NP (DT this) (NN place))
+    (. !)))
+
+(ROOT
+  (NP
+    (NP (JJS Best))
+    (NP
+      (NP (NN place))
+      (PP (IN in)
+        (NP (DT the) (NN area) (NN !!))))))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NNS children))
+    (VP (VBP love)
+      (NP (PDT all) (DT the) (NNS activities) (NNS !!!)))))
+
+(ROOT
+  (S
+    (NP (NNP Management))
+    (VP (VBZ has)
+      (NP
+        (NP (NNS parties))
+        (NP (DT every) (NN weekend))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Montevida))
+    (VP (VBD was)
+      (NP (DT a) (JJ decent) (NN place)
+        (S
+          (VP (TO to)
+            (VP (VB live)
+              (PP (IN for)
+                (NP
+                  (NP (DT the) (NN year))
+                  (SBAR
+                    (S
+                      (NP (PRP we))
+                      (VP (VBD were)
+                        (ADVP (RB there))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD became)
+      (ADJP (RBR more) (JJ inconvenient)
+        (S
+          (VP (TO to)
+            (VP (VB get)
+              (PRT (RP in)
+                (CC and)
+                (RP out))
+              (SBAR (IN as)
+                (S
+                  (NP (DT the) (JJ light) (NN rail) (NN construction))
+                  (VP (VBD ramped)
+                    (PRT (RP up))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN office) (NN staff))
+    (VP (VBD had)
+      (NP
+        (NP (DT a) (`` ``) (NN Can))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP help)
+              (NP (PRP you)))))))
+    (. ?)))
+
+(ROOT
+  (S ('' '')
+    (PP
+      (NP (NN type))
+      (IN of)
+      (S
+        (VP (VBG attitude)
+          (ADVP (RB as) (RB soon))
+          (PP (IN as)
+            (NP (DT the) (NN lease))))))
+    (VP (VBD was)
+      (VP (VBN signed)
+        (PP (IN as)
+          (NP
+            (VP (VB oppose)
+              (PP (TO to)
+                (NP (DT the)))
+              (`` ``)
+              (SBARQ
+                (WHADVP (WRB How))
+                (SQ (MD may)
+                  (NP (PRP I))
+                  (VP (VB help)))))))))
+    (. ?)))
+
+(ROOT
+  (S ('' '')
+    (NP (PRP they))
+    (VP (VBP treat)
+      (NP (PRP you))
+      (PP (IN with)
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (VP (VBG trying)
+              (S
+                (VP (TO to)
+                  (VP (VB lure)
+                    (NP (PRP you))
+                    (PP (IN in))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN maintenance))
+    (VP (VBD was)
+      (ADJP (JJ okay)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB usually))
+    (VP (VBD had)
+      (NP (DT a) (JJ quick) (NN fix) (NN approach))
+      (SBAR (IN as)
+        (S
+          (VP (VBP oppose)
+            (PP (TO to)
+              (S
+                (VP
+                  (ADVP (RB fully))
+                  (VBG solving)
+                  (NP (DT the) (NN problem)))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (S
+      (NP (DT The) (NN apartment) (NN layout))
+      (VP (VBD was)
+        (ADJP (JJ nice)
+          (CC and)
+          (JJ unique))))
+    (, ,)
+    (VP (VBZ spacious))
+    (NP
+      (NP (NNS closets))
+      (, ,)
+      (NP (JJ nice) (NN bathroom)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (JJ BIGGEST) (NN complaint))
+    (VP (VBD was)
+      (SBAR
+        (WHADVP (WRB how))
+        (S
+          (NP (PRP they))
+          (VP (VBD advised)
+            (S
+              (NP (PRP me))
+              (VP (TO to)
+                (VP (VB have)
+                  (NP
+                    (NP (DT the) (NN carpet))
+                    (VP
+                      (ADVP (RB professionally))
+                      (VBN cleaned)
+                      (SBAR
+                        (SBAR
+                          (WHADVP (WRB when))
+                          (S
+                            (NP (PRP we))
+                            (VP (VBD moved)
+                              (PRT (RP out)))))
+                        (, ,)
+                        (CC so)
+                        (SBAR (IN that)
+                          (S
+                            (NP (PRP they))
+                            (VP (MD would) (RB not)
+                              (VP (VB include)
+                                (NP
+                                  (NP (DT this))
+                                  (PP (IN as)
+                                    (NP (NN deduction))))
+                                (PP (IN from)
+                                  (NP (PRP$ our) (NN security) (NN deposit) (NN refund)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN After)
+      (S
+        (VP (VBG turning)
+          (S
+            (NP (PRP it))
+            (NP
+              (NP (DT a) (JJ signed) (NN receipt))
+              (PP (IN from)
+                (NP (DT the) (NN cleaning) (NN company)))))))
+      (PRN (-LRB- -LRB-)
+        (SBAR (IN as)
+          (S
+            (VP (VBD requested))))
+        (-RRB- -RRB-)))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP have)
+      (VP (VBN failed)
+        (S
+          (VP (TO to)
+            (VP (VB remove)
+              (NP
+                (NP (DT this))
+                (PP (IN as)
+                  (NP (NN deduction)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN After)
+      (NP
+        (NP (JJ multiple) (NNS visits))
+        (CC and)
+        (ADVP
+          (NP (CD six) (NNS months))
+          (RBR later))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP have)
+      (VP (VBN failed)
+        (S
+          (VP (TO to)
+            (VP (VB refund)
+              (NP (DT this)))))))
+    (. .)))
+
+

@@ -1,0 +1,82 @@
+(ROOT
+  (S
+    (SBAR (IN As)
+      (S
+        (NP (NNP Arby) (POS 's))
+        (VP (VBP go))))
+    (, ,)
+    (NP (DT this) (NN one))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN bit))
+        (PP (IN above)
+          (NP (DT the) (NN rest)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN manager))
+    (ADVP (RB clearly))
+    (VP (VBP keep)
+      (SBAR
+        (S
+          (VP (VBZ s)
+            (NP
+              (NP (DT a) (JJ positive) (NN work) (NN environment))
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (VBZ means)
+                    (NP
+                      (NP (NNS people))
+                      (VP
+                        (VP
+                          (ADVP (RB actively))
+                          (VBG doing)
+                          (NP (PRP$ their) (NN job)))
+                        (CC and)
+                        (VP (VBG making)
+                          (NP
+                            (NP (DT a) (JJ pleasant) (NN experience))
+                            (PP (IN for)
+                              (NP (DT the) (NNS customers)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN food))
+    (VP (VBZ is)
+      (ADVP (RB always))
+      (PP (IN on)
+        (NP
+          (NP (DT that) (`` ``)
+            (ADJP (RB pretty) (JJ good))
+            ('' '') (NN side))
+          (PP (IN of)
+            (SBAR
+              (WHNP (WP what))
+              (S
+                (NP (JJ fast) (NN food))
+                (VP (MD can)
+                  (VP (VB be)))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NNP Arby) (POS 's))
+    (VP (VBZ is)
+      (NP (CD one))
+      (SBAR (IN if)
+        (X
+          (X (SYM e))
+          (NP
+            (NP (NN cleanest))
+            (SBAR
+              (S
+                (NP (PRP I))
+                (VP (VBP have)
+                  (VP (VBN seen)))))))))
+    (. .)))
+
+

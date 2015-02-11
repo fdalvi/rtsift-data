@@ -1,0 +1,141 @@
+(ROOT
+  (NP
+    (NP (NNP Homestyle) (NNP Cooking))
+    (PP (IN for)
+      (NP (NNP CHEAP) (NNP !!)))))
+
+(ROOT
+  (NP
+    (NP ($ $) (CD 4.95))
+    (NP
+      (NP (NNP Breakfast))
+      (NP
+        (QP ($ $) (CD 6.95) (CD Lunch))
+        (NNS Specials)))
+    (NP (DT No) (NNP Minimum) (NNP FREE) (NN Delivery) (NN !!))))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Food))
+      (VP (VBZ is)
+        (ADVP (RB always))
+        (ADJP (JJ good))))
+    (, ,)
+    (S
+      (NP (NNS prices))
+      (VP (VBP are)
+        (ADJP (JJ fair))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBP have)
+        (NP
+          (NP (DT a) (JJ great) (NN menu))
+          (PP (IN of)
+            (NP
+              (NP (NNS items))
+              (PP (IN from)
+                (NP
+                  (NP (NNS sandwiches))
+                  (PP (TO to)
+                    (NP (NN dinner) (NN type) (NNS meals))))))))
+        (PP (IN like)
+          (NP
+            (NP (VB pot) (NN roast))
+            (, ,)
+            (ADJP
+              (ADJP (JJ open)
+                (SBAR
+                  (S
+                    (VP (VBD faced)
+                      (NP (NN turkey) (NNS sandwiches))))))
+              (CC and)
+              (ADJP (JJR more)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP MY) (NNP FAVORITE))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NNP Ziti))
+        (PP (IN with)
+          (NP (JJ Italian) (NNP Sausage)))))
+    (. !)))
+
+
+(ROOT
+  (NP (JJ Great) (NN selection) (. .)))
+
+(ROOT
+  (NP (JJ QUALITY) (NN food) (. !)))
+
+(ROOT
+  (S
+    (NP (NNS Prices))
+    (VP (VBP are)
+      (ADJP (JJ cheap)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VP (VBP deliver))
+      (CC and)
+      (VP (VBP do) (RB n't)
+        (VP (VB charge)
+          (NP (DT a) (NN fee)))))
+    (. .)))
+
+(ROOT
+  (NP (JJ Friendly) (NN staff) (. .)))
+
+(ROOT
+  (NP
+    (NP (PRP$ My) (JJ favorite) (NNS deli))
+    (PP (IN in)
+      (NP (NN town)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Great))
+    (VP (VBP place))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VB Fresh)
+      (NP (NN food)))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (JJ Amazing) (NN service))
+      (PP (IN from)
+        (NP (NNP Sam))))
+    (: ...)
+    (S
+      (NP (PRP You))
+      (VP (VBP do) (RB n't)
+        (VP (VB get)
+          (NP (NN service))
+          (PP (IN like)
+            (NP (DT this)))
+          (ADVP (RB anymore)))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (VBP have)
+      (S
+        (VP (TO to)
+          (VP (VB try)
+            (NP (DT this) (NN place) (NN :-RRB-))))))))
+
+

@@ -1,0 +1,77 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Good))
+      (VP (VBZ deals)
+        (PP (IN for)
+          (NP (JJ cheap) (NN food)))))
+    (: -)
+    (S
+      (ADVP (RB recently))
+      (NP (PRP they))
+      (VP (VBD had)
+        (NP
+          (NP
+            (NP (DT a)
+              (ADJP
+                (QP ($ $) (CD 2) (CD breakfast)))
+              (JJ special) (NN consisting))
+            (PP (IN of)
+              (NP (CD two) (NN egg))))
+          (CC &)
+          (NP
+            (NP (NN cheese) (NNS burritos))
+            (PP (IN with)
+              (NP (NNS hashbrowns)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Hard))
+    (VP (TO to)
+      (VP (VB beat)
+        (NP (DT that))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Location))
+      (VP (VBZ is)
+        (ADJP (JJ next)
+          (PP (TO to)
+            (NP
+              (NP (NNP Einstein) (POS 's))
+              (, ,)
+              (NP (NNP Starbucks))
+              (, ,)
+              (CC and)
+              (NP (NNP Chipotle)))))))
+    (: -)
+    (S
+      (SBAR (RB so) (IN whether)
+        (S
+          (NP (PRP it))
+          (VP (VBZ is)
+            (NP (NN breakfast)
+              (CC or)
+              (NN dinner)))))
+      (, ,)
+      (NP (EX there))
+      (VP (VBZ 's)
+        (NP
+          (NP (DT a) (JJ superior) (NN alternative))
+          (PP (IN in)
+            (NP (DT the) (JJ same) (NN parking) (NN lot))))))
+    (. .)))
+
+
+(ROOT
+  (NP (JJ Great) (NN food) (. !)))
+
+(ROOT
+  (FRAG
+    (NP (JJ Good) (NNS prices))
+    (. .)))
+
+

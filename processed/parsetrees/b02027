@@ -1,0 +1,83 @@
+(ROOT
+  (S
+    (NP (DT A) (JJ great) (NN place)
+      (S
+        (VP (TO to)
+          (VP (VB stop)
+            (PRT (RP off))
+            (PP (IN for)
+              (NP
+                (NP (DT a) (NN drink))
+                (CC and)
+                (NP (DT the) (NN food))))))))
+    (VP (VBZ is)
+      (ADJP (JJ excellent)))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Locally))
+    (ADJP (VBN owned))
+    (: -)
+    (NP
+      (NP (DT a) (NN gem))
+      (PP (IN in)
+        (NP (DT the) (NN neighborhood))))))
+
+
+(ROOT
+  (SINV
+    (PP (IN At)
+      (NP
+        (NP (DT the) (NN end))
+        (PP (IN of)
+          (NP
+            (NP (DT a) (JJ long) (NN day))
+            (CC and)
+            (NP (PRP you))))))
+    (VP (VBP want)
+      (S
+        (NP
+          (NP (DT some) (JJ great) (NN food))
+          (PP (IN in)
+            (NP (DT the) (NN neighborhood))))
+        (VP
+          (VP (VB stay)
+            (PRT (RP away))
+            (PP (IN from)
+              (NP (DT the) (NNS chains))))
+          (CC and)
+          (VP (VB visit)
+            (ADJP (RB locally) (VBN owned))))))
+    (NP (NNP Auslers) (NNP Grill))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ daily) (NNS specials))
+    (ADVP (RB truly))
+    (VP
+      (VP (VBP are))
+      (, ,)
+      (VP (VBP do)
+        (S
+          (NP (PRP yourself))
+          (NP (DT a) (NN favor))))
+      (CC and)
+      (VP (VBP enjoy)
+        (NP (CD one))))
+    (. .)))
+
+
+(ROOT
+  (VP (VBN Changed)
+    (PP (TO to)
+      (NP
+        (NP (NNP Native) (NNP New) (NNP Yorker))
+        (: -)
+        (NP (JJ same) (NN owner))
+        (PRN (-LRB- -LRB-)
+          (NP (NNP Rod) (NNP Ticknor))
+          (-RRB- -RRB-))))))
+
+

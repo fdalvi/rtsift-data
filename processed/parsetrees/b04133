@@ -1,0 +1,196 @@
+(ROOT
+  (S
+    (NP (NNP Great))
+    (VP (VBP sub)
+      (NP (NN shop)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Staff))
+      (VP (VBP are)
+        (NP (JJ great) (NN fun))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBP are)
+        (PP (IN like)
+          (NP (NN sandwich) (NN artist)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Fast))
+      (, ,)
+      (ADJP (JJ friendly))
+      (, ,))
+    (VP
+      (VP (VBZ cheap))
+      (, ,)
+      (CC and)
+      (VP (VBP ohhh)
+        (ADJP
+          (ADJP (RB so) (RB much) (JJR better))
+          (PP (IN than)
+            (NP (NN subway))))))
+    (. .)))
+
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (NNP Clean))
+      (, ,)
+      (NP (JJ fast) (, ,) (JJ good) (NN service))
+      (, ,)
+      (NP
+        (NP (JJ nice) (NN place))
+        (, ,)
+        (NP (JJ great) (NN sammich)))
+      (, ,))))
+
+
+(ROOT
+  (S
+    (NP (FW i))
+    (VP (VBP love)
+      (S
+        (NP (PRP me))
+        (NP (DT some) (NNS blimpies))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT this) (NN location))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (RB especially) (JJ fast))
+        (, ,)
+        (ADJP (JJ clean))
+        (, ,)
+        (CC and)
+        (ADJP (RB super) (JJ friendly))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB unfortunately))
+    (, ,)
+    (NP (FW i))
+    (VP
+      (VP (VBD went)
+        (S
+          (VP (TO to)
+            (VP (VB get)
+              (S
+                (NP (PRP$ my) (NN blimpie))
+                (VP (VBZ 's)
+                  (PP (IN on))))
+              (PRN (-LRB- -LRB-)
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBD did) (RB n't)
+                      (VP (VB come)
+                        (PRT (RP out))
+                        (NP (NN right))))))
+                (-RRB- -RRB-))))))
+      (CC but)
+      (VP (VBD found)
+        (NP
+          (NP (DT a)
+            (ADJP (RB really) (JJ sad))
+            (NN notice))
+          (VP (VBN taped)
+            (PP (TO to)
+              (NP
+                (NP (DT the) (NN window))
+                (CC and)
+                (NP
+                  (NP (DT the) (NNS doors))
+                  (VP (VBN locked)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB apparently))
+      (NP (DT the) (NN rent))
+      (VP (VBZ has) (RB n't)
+        (VP (VBN been)
+          (VP (VBN paid)
+            (PP (IN in)
+              (NP (DT a) (NN while)))))))
+    (CC and)
+    (S
+      (NP (DT the) (NN landlord))
+      (VP (VBZ has)
+        (NP (JJ repossessed) (DT the) (NN place))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB so)
+      (PP (IN for)
+        (ADVP (RB now))))
+    (, ,)
+    (ADVP (DT no) (RBR more))
+    (VP (VBZ blimpies))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB hope)
+      (S
+        (NP (PRP they))
+        (VP
+          (VP (VB get)
+            (NP (PRP it))
+            (ADVP (RB together)))
+          (CC and)
+          (VP (VB open)
+            (NP (DT the) (NNS doors))
+            (ADVP (RB again))))))))
+
+
+(ROOT
+  (S
+    (NP (NNP Yummy))
+    (VP (VBZ subs)
+      (PP (IN at)
+        (NP (DT a) (JJ good) (NN price))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ former) (NNS owners))
+    (VP
+      (VP (VBD were)
+        (ADJP (JJ jerks)))
+      (CC and)
+      (VP (MD would)
+        (ADVP (RB always))
+        (VP (VB skimp)
+          (PP (IN on)
+            (NP (DT the) (NN food))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ new) (NNS owners))
+      (CC and)
+      (NP (PRP$ their) (NNS employees)))
+    (VP (VBP are)
+      (UCP
+        (ADJP (JJ friendly) (, ,) (JJ fast))
+        (, ,)
+        (CC and)
+        (VP (VBG hook)
+          (NP (PRP it))
+          (PRT (RP up)))))
+    (. .)))
+
+

@@ -1,0 +1,190 @@
+(ROOT
+  (FRAG
+    (ADVP (RB Always))
+    (NP (NNS friendly)
+      (CC &)
+      (NNS clean))))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBZ is)
+      (PP (IN like)
+        (NP (PRP$ my) (NN Cheers))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP go)
+        (NP
+          (NP
+            (QP (IN at) (JJS least) (CD 3) (NNS times)))
+          (NP (DT a) (NN week)))
+        (PP (IN on)
+          (NP (PRP$ my) (NN way)
+            (S
+              (VP (TO to)
+                (VP (VB work)
+                  (PP (IN for)
+                    (NP (PRP$ my) (JJ iced) (NN tea))))))))))
+    (CC and)
+    (S
+      (NP (DT the) (NN staff))
+      (ADVP (RB always))
+      (VP (VBZ greets)
+        (NP (PRP me))
+        (PP (IN by)
+          (NP (NN name)))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN fact))
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP (VBP have)
+            (VP (VBN crushed)
+              (NP (NN ice)))))))
+    (VP (VBZ is)
+      (ADVP (RB just))
+      (VP (VBG icing)
+        (PP (IN on)
+          (NP (DT the) (NN cake)))))
+    (. .)))
+
+(ROOT
+  (VP (VB Plus) (: ...)
+    (SBARQ
+      (WHADVP (WRB where)
+        (ADJP (RB else)))
+      (SQ (MD can)
+        (NP (PRP you))
+        (VP (VB find)
+          (NP
+            (NP
+              (ADJP (RB so) (JJ many))
+              (JJ different) (NN fountain) (NNS drinks))
+            (PP (IN in)
+              (NP (CD one) (NN place))))))
+      (. ?))))
+
+(ROOT
+  (UCP
+    (ADJP
+      (ADVP (RB Always))
+      (JJ clean))
+    (CC and)
+    (RB well)
+    (ADJP (FW stocked) (. !))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP feel)
+      (SBAR (IN like)
+        (S
+          (NP (PRP I))
+          (VP (VBP 'm)
+            (VP (VBG cheating)
+              (PP (IN on)
+                (NP (PRP$ my) (NN QT)))
+              (SBAR (IN if)
+                (S
+                  (NP (PRP I))
+                  (VP (VBP go)
+                    (PP (TO to)
+                      (NP (DT a) (JJ different) (NN one)))))))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (NNP QTs))
+      (VP (VBP are)
+        (ADVP (RB usually))
+        (ADJP (RB pretty) (JJ clean))
+        (, ,)
+        (ADVP (RB fast) (RB etc))))
+    (CC but)
+    (S
+      (NP (DT this) (NN one))
+      (VP (VBZ is)
+        (NP
+          (NP (DT the) (JJS most) (NN ghetto) (NN QT))
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (VBP 've)
+                (ADVP (RB ever))
+                (VP (VBN seen))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ is)
+        (PP (IN in)
+          (NP (DT the) (NNP Tolleson) (NN area)))
+        (ADJP (RB so) (JJ par)
+          (PP (IN for)
+            (NP (DT the) (NN course))))))
+    (NP (PRP I))
+    (VP (VBP suppose))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP come)
+      (ADVP (RB here)
+        (NP (DT a) (RB lot))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (ADJP (JJ convenient)
+        (PP (TO to)
+          (NP (PRP$ my) (NN location)))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (PP (IN of)
+      (NP (NN course)))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADVP (RB always))
+      (ADJP (JJ open)))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (SBAR
+      (WHNP (WP who))
+      (S
+        (VP (VBZ does) (RB n't)
+          (VP (VB like)
+            (S
+              (VP (TO to)
+                (VP (VB hear)
+                  (NP (NN someone)))))))))
+    (VP (VBP say)
+      (ADJP (JJ hi))
+      (PP (TO to)
+        (NP (PRP you)))
+      (ADVP (DT every) (RB once))
+      (PP (IN in)
+        (NP (DT a) (NN while))))
+    (. .)))
+
+

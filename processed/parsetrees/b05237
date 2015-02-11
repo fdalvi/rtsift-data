@@ -1,0 +1,70 @@
+(ROOT
+  (S
+    (VP (VBN Been)
+      (VP (VBG seeing)
+        (NP
+          (NP (NNP Dr.) (NNP Fishel))
+          (PP (IN for)
+            (NP (DT a) (NN month))))
+        (ADVP (RB now))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBZ is)
+      (NP
+        (NP (DT an) (JJ incredible) (NN doctor))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBZ has)
+              (NP
+                (NP (DT a) (NN passion))
+                (PP (IN for)
+                  (SBAR
+                    (WHNP (WP what))
+                    (S
+                      (NP (PRP he))
+                      (VP (VBZ does)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Do) (RB n't)
+      (VP (VB be)
+        (VP (VBN discouraged)
+          (PP (IN by)
+            (NP (DT a) (NN wait) (NN time)))
+          (SBAR (IN because)
+            (S
+              (NP (PRP he))
+              (VP (VBZ takes)
+                (NP (PRP$ his) (NN time))
+                (PP (IN with)
+                  (NP (PRP$ his) (NNS patients)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (ADVP (RB even))
+    (VP (VBD saw)
+      (NP (PRP me))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP I))
+          (VP (VBD did) (RB n't)
+            (VP (VB have)
+              (NP (DT an) (JJ apt)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBZ has)
+      (NP (DT a) (JJ nice) (, ,) (JJ friendly) (NN staff)))
+    (. .)))
+
+

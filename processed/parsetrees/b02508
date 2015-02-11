@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD bought)
+      (NP (DT a) (NNP Fry) (NNP Daddy))
+      (PP (IN at)
+        (NP (DT the) (NNP Corningware) (NNP Outlet))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBD was)
+      (NP
+        (NP (DT the) (NN highlight))
+        (PP (IN of)
+          (NP (PRP$ my) (NN visit)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP feel)
+        (ADJP (JJ bad)
+          (S
+            (VP (VBG posting)
+              (NP (DT this)))))))
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ is)
+        (NP
+          (NP (DT a) (JJ complete) (NN waste))
+          (PP (IN of)
+            (NP (NN time))))))
+    (. .)))
+
+

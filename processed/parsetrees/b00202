@@ -1,0 +1,150 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD used)
+        (NP (DT this) (NN place))
+        (ADVP (RB once))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (MD will)
+        (VP (VB be)
+          (NP (PRP$ my) (JJ last)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN place))
+    (VP (VBD reeked)
+      (PP (IN of)
+        (NP (JJ old) (NN urine))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 'm) (RB not)
+      (ADJP (JJ sure))
+      (SBAR
+        (SBAR (IN if)
+          (S
+            (S
+              (NP (NN someone))
+              (VP (VBZ has)
+                (VP (VBN used)
+                  (NP (PRP it))
+                  (PP (IN as)
+                    (NP (DT a) (NN bathroom))))))
+            (, ,)
+            (CC and)
+            (S
+              (NP (DT the) (NN place))
+              (ADVP (RB never))
+              (VP (VBD got)
+                (VP (VBN cleaned))))))
+        (, ,)
+        (CC or)
+        (FRAG
+          (SBARQ
+            (WHNP (WP what))
+            (. ?)))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT All))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBP know)))))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP
+            (VP (VBZ stinks))
+            (, ,)
+            (CC and)
+            (VP
+              (NP (RB not) (DT a) (JJ good) (NN smell))
+              (PP (IN at)
+                (NP (DT that))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN laundry) (NN mat))
+    (VP
+      (VP (VBZ is)
+        (ADJP (JJ small)
+          (CC but)
+          (NN tidy)))
+      (CC and)
+      (VP (VBZ is)
+        (ADVP (RB never))
+        (ADJP (JJ over-crowded))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS owners))
+      (VP (VBP are)
+        (ADJP (JJ punctual))
+        (, ,)
+        (ADJP (NN professional))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP see)
+        (NP (PRP them))
+        (ADVP (RB just))
+        (PP (IN about)
+          (NP
+            (NP (DT every) (NN time))
+            (SBAR
+              (S
+                (NP (PRP I))
+                (VP (VBP do)
+                  (NP (NN laundry))
+                  (, ,)
+                  (S
+                    (VP
+                      (VP (VBG cleaning)
+                        (PRT (RP up)))
+                      (CC and)
+                      (VP (VBG providing)
+                        (NP (NN maintenance))))))))))))
+    (SBAR (IN if)
+      (S
+        (VP (VBD needed))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT Some))
+      (VP (VBZ places)
+        (SBAR
+          (S
+            (NP (PRP you))
+            (ADVP (RB just))
+            (VP (MD ca) (RB n't)
+              (VP (VB beat)))))))
+    (: ;)
+    (S
+      (NP (DT this))
+      (VP (VBZ is)
+        (NP
+          (NP (CD one))
+          (PP (IN of)
+            (NP (PRP them))))))
+    (. .)))
+
+(ROOT
+  (NP (NNP :--RRB-)))
+
+

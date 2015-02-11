@@ -1,0 +1,101 @@
+(ROOT
+  (S
+    (NP (VBG Dining) (NN room))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ little) (NN dingy))
+        (PP (IN for)
+          (NP (DT a) (NN chain)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Ripped) (NN seat) (NNS cushions))
+      (CC and)
+      (NP (DT a) (JJ messy) (NN condiment)))
+    (VP (NN bar))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (S
+      (NP (NNP Drive))
+      (ADVP (RB through))
+      (VP (VBZ does) (RB not)
+        (VP (VB get)
+          (NP
+            (NP (NNS orders))
+            (NP (NNP exact) (-LRB- -LRB-) (NNP e.g.))))))))
+
+(ROOT
+  (S
+    (VP (VB Ask)
+      (S
+        (VP (TO to)
+          (VP (VB hold)
+            (NP
+              (NP (DT the) (NN cheese))
+              (SBAR
+                (S
+                  (VP (VBZ ensures)
+                    (NP (DT a) (NN hamburger))))))
+            (PP (IN with)
+              (NP (NN cheese)))
+            (-RRB- -RRB-)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN location))
+    (VP (VBD used)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (NP (DT an) (JJ absolute) (NN hole))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (ADVP (RB recently))
+      (VP (VBD renovated)
+        (NP (PDT both)
+          (NP (DT the) (NN interior))
+          (CC and)
+          (NP (DT the) (NN exterior)))))
+    (, ,)
+    (CC and)
+    (S
+      (ADVP (RB now))
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (NP (DT a)
+          (ADJP (RB very) (VBN pleasant))
+          (, ,)
+          (ADJP (JJ good-looking))
+          (NN store))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB However))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (ADVP (RB still))
+      (NP
+        (NP (NNP Wendy) (POS 's))
+        (NN food)))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (DT that))
+    (VP (VBZ 's)
+      (ADJP (RB only) (JJ okay)))
+    (. .)))
+
+

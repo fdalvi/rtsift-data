@@ -1,0 +1,73 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (SBAR
+      (X (SYM f))
+      (S
+        (NP (PRP you))
+        (VP (VBP look)
+          (PP (IN in)
+            (NP
+              (NP (DT the) (NN dictionary))
+              (PP (IN for)
+                (NP (DT a) (JJ classic) (NN neighborhood) (NN dive) (NN bar))))))))
+    (NP (PRP you))
+    (VP (MD will)
+      (VP (VB see)
+        (NP
+          (NP (DT a) (NN picture))
+          (PP (IN of)
+            (NP (NNP Captain) (POS 's))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The)
+      (ADJP
+        (NP (DT all) (NN day))
+        (JJ Happy))
+      (NNP Hour))
+    (VP (VBZ makes)
+      (S
+        (NP (PRP it))
+        (NP
+          (NP (DT a) (JJ great) (, ,) (JJ quiet) (NN place))
+          (PP (IN for)
+            (NP
+              (NP (NN day) (NN drinking))
+              (PP (IN with)
+                (NP
+                  (NP (DT a) (JJ limited) (NN menu))
+                  (PP (IN of)
+                    (NP (JJ basic) (NN bar) (NN food)
+                      (CC and)
+                      (JJ daily) (NN food)
+                      (CC and)
+                      (NN drink) (NNS specials))))))))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (JJS Best) (NN dive) (NN bar))
+    (PP (IN in)
+      (NP (NNP Apache) (NNP Junction)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN owner))
+      (, ,)
+      (NP (NNP Mary))
+      (, ,))
+    (VP
+      (VP (VBZ is)
+        (NP (DT a) (NN hoot)))
+      (CC and)
+      (VP (VBZ treats)
+        (NP (PRP$ her) (NNS customers))
+        (ADVP (RB right))))
+    (. !)))
+
+

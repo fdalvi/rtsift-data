@@ -1,0 +1,421 @@
+(ROOT
+  (S
+    (ADVP (RB Had))
+    (NP (PRP them))
+    (VP (VBP print)
+      (SBAR
+        (S
+          (NP (DT some) (JJ high) (NN quality))
+          (VP (VBZ resumes)
+            (PP (IN from)
+              (NP (DT a) (NN flash) (NN drive)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN service))
+    (VP (VBD was)
+      (ADVP (RB fast)
+        (CC and)
+        (RB hassle))
+      (ADJP (JJ free)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN service))
+      (ADVP (RB here))
+      (VP (VBZ is)
+        (ADJP (JJ fast)
+          (CC and)
+          (JJ friendly))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBP offer)
+        (NP
+          (NP (NNS lots))
+          (PP (IN of)
+            (NP (NNS services))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ major) (NN downside))
+    (VP (VBZ is)
+      (NP (PRP$ their) (NN pricing)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBD had)
+        (NP
+          (NP (CD two) (NNS copies))
+          (VP (VBN made)
+            (PRN (-LRB- -LRB-)
+              (ADVP (RB ~))
+              (ADJP
+                (NP (CD 10) (NNS pages))
+                (JJ total))
+              (-RRB- -RRB-)))))
+      (CC and)
+      (VP (VBD got)
+        (SBAR
+          (S
+            (NP (CD one) (NN item))
+            (VP (VBD notarized))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBD cost)
+      (NP (PRP me))
+      (PP (IN over)
+        (NP ($ $) (CD 11))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (JJ notary) (NN fee))
+      (VP (VBD was)
+        (NP
+          (NP ($ $) (CD .50))
+          (, ,)
+          (NP
+            (NP (DT the) (NNS copies))
+            (NP (DT a) (JJ few) (NNS cents))))))
+    (, ,)
+    (CC and)
+    (S
+      (ADVP (RB then))
+      (NP (EX there))
+      (VP (VBD was)
+        (NP (DT a)
+          (ADJP ($ $) (CD 10))
+          (NN facility) (NN fee))))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ does)
+      (NP (DT that))
+      (VP (VB mean)))
+    (. ?)))
+
+(ROOT
+  (S
+    (SBAR (IN Because)
+      (S
+        (NP (PRP I))
+        (VP (VBD walked)
+          (PP (IN in)
+            (NP (PRP I))))))
+    (VP (VBD had)
+      (S
+        (VP (TO to)
+          (VP (VB pay)
+            (NP ($ $) (CD 10))))))
+    (. ?)))
+
+(ROOT
+  (SQ (VBZ Is)
+    (NP (PRP it))
+    (NP
+      (NP (PRP$ their) (NN way))
+      (PP (IN of)
+        (S
+          (VP (VBG charging)
+            (NP (JJR more))
+            (PP (IN for)
+              (NP (JJ notary) (NNS fees)))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 'm) (RB not)
+        (ADJP (JJ sure))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (ADJP
+          (NP (DT a) (RB bit))
+          (JJ disappointed))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Still))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBD was)
+      (ADJP (JJ convenient))
+      (, ,)
+      (SBAR (RB especially) (IN as)
+        (S
+          (NP (PRP it))
+          (VP (VBD was)
+            (NP
+              (NP
+                (NP (CD 8) (RB am))
+                (CC and)
+                (NP (JJS most) (NNS banks)))
+              (CC or)
+              (NP
+                (NP (JJ other) (NNS locations))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (MD could)
+                      (VP (VB have)
+                        (VP (VBN done)
+                          (NP (JJ notary) (NNS services))
+                          (SBAR (IN for)
+                            (S
+                              (NP (PRP me))
+                              (VP (VBD were)
+                                (ADJP (RB not) (JJ open))
+                                (ADVP (RB yet))))))))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VB Went)
+      (PRT (RP in))
+      (S
+        (VP (TO to)
+          (VP (VB get)
+            (VP
+              (VP (VBN fingerprinted)
+                (PP (IN for)
+                  (NP (DT a) (NN job))))
+              (CC and)
+              (VP (VBN discovered)
+                (SBAR (IN that)
+                  (S
+                    (NP (PRP they))
+                    (VP (MD can)
+                      (VP (VB offer)
+                        (NP
+                          (NP (JJS most))
+                          (PP (IN of)
+                            (NP (DT the) (JJ same) (NNS services))))
+                        (SBAR (IN that)
+                          (S
+                            (NP (NNP FedEx))
+                            (VP (VBZ does))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP are) (RB not)
+        (NP (DT a) (JJ true) (NN copy) (NN center))))
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ is)
+        (ADJP (RB pretty) (JJ close))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (VP (VBN impressed)
+          (PP (IN by)
+            (NP (PRP$ their) (NN customer) (NN service))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (JJ simple) (NN stuff)))
+    (S
+      (VP (VBG going)
+        (ADVP (RB here))))
+    (VP (MD will)
+      (VP (VB be)
+        (ADJP
+          (ADJP (RB much) (RBR more) (JJ convenient))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBG driving)
+                (PP (TO to)
+                  (NP (DT a) (NNP FedEx) (NN store)))))))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (DT A) (JJ nice) (NN place))
+    (PP (CC but)
+      (NP (DT a) (JJ major) (NN rip)))
+    (ADVP (IN off))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (VP (VBG shipping)
+        (NP (DT some) (JJ large) (NNS boxes))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Here))
+      (VP (VBZ is)
+        (NP (DT the) (NN trick)))
+      (NP
+        (NP (DT this) (NN store))
+        (VP (VBN played))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP presume)
+        (SBAR
+          (S
+            (NP (JJ major) (NNP UPS) (NNPS Stores))
+            (VP (VBP play))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP
+          (NP (DT the) (NNP LxWxH))
+          (PP (IN of)
+            (NP (DT the) (NN box))))
+        (VP (VBZ is)
+          (NP
+            (QP (JJR greater) (IN than) (CD 5184))))))
+    (, ,)
+    (NP (RB then) (DT the) (JJ billable) (NN weight))
+    (VP (VBZ is)
+      (VP (VBN computed)
+        (PP (IN by)
+          (NP
+            (NP (DT the) (NN formula))
+            (VP (VBN shown)
+              (PP (IN at)
+                (NP (DT this) (NN link))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ http://www.ups.com/content/us/en/resources/ship/packaging/dim_weight.html?WT.mc_id=VAN701060) (DT The) (NN trick))
+    (VP (VBZ is)
+      (S
+        (VP (TO to)
+          (VP (VB make)
+            (NP (JJ sloppy) (NNS measurements))
+            (PP (IN on)
+              (NP
+                (NP (DT the) (NN upside))
+                (CC and)
+                (NP (NN charge) (JJ extra))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Also))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD had)
+      (NP
+        (NP (CD one))
+        (SBAR
+          (S
+            (NP
+              (NP (DT a) (NN letter))
+              (PP (TO to)
+                (NP
+                  (NP (NN mail))
+                  (CC and)
+                  (NP (DT the) (NN lady)))))
+            (VP (VBD charged)
+              (NP (PRP me))
+              (NP
+                (NP ($ $) (CD 3.95))
+                (SBAR
+                  (S
+                    (VP (TO to)
+                      (VP (VB mail)
+                        (NP (PRP it))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (INTJ (UH Yes))
+      (, ,)
+      (NP (PRP it))
+      (VP (VBD was)
+        (NP
+          (QP (JJR less) (IN than) (CD 2oz)))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (NP (DT a) (JJ small) (NN envelope))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT That) (JJ extra) (NN money))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBD paid)))))
+    (VP (VBD was)
+      (ADVP (RB just))
+      (PP (IN for)
+        (NP (NN convinece))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP (DT a) (NNP UPS) (NN store)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT These) (NNS stores))
+    (VP (VBP have)
+      (NP
+        (NP (DT no) (NNS standards))
+        (PP (IN for)
+          (NP (NNS prices)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP charge)
+      (SBAR
+        (WHNP (WDT whatever))
+        (S
+          (NP (PRP they))
+          (VP (VBP feel)
+            (PP (IN like))))))
+    (. .)))
+
+

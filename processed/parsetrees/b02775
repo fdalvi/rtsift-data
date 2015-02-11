@@ -1,0 +1,180 @@
+(ROOT
+  (S
+    (NP (NNS Starbucks))
+    (VP (VBZ is)
+      (NP (NNS Starbucks)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (MD Ca) (RB n't)
+        (VP (VB say)
+          (NP (PRP I)))))
+    (VP (MD can)
+      (VP (VB review)
+        (NP (DT the) (NN coffee))
+        (SBAR (IN because)
+          (S
+            (NP (PRP it))
+            (VP (VBZ is)
+              (ADJP
+                (ADJP
+                  (ADJP (RB pretty) (JJ much))
+                  (NP (DT the) (JJ same)))
+                (PP (IN across)
+                  (NP (DT the) (NN company)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP like)
+          (NP (NN coffee))
+          (PP (IN at)
+            (NP (CD one) (NNS Starbucks))))))
+    (, ,)
+    (NP (PRP you))
+    (VP (MD 'll)
+      (VP (VB like)
+        (NP (PRP it))
+        (PP (IN at)
+          (NP (DT this) (CD one) (RB too)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Staff))
+    (VP
+      (VP (VBD was)
+        (ADJP (JJ friendly) (RB enough)))
+      (CC and)
+      (VP (VBD got)
+        (NP
+          (NP (PRP$ my) (NN coffee))
+          (PRN (-LRB- -LRB-)
+            (NP (NN vanilla) (NN latte))
+            (-RRB- -RRB-)))
+        (PP (IN out)
+          (ADJP (JJ quick)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP prefer)
+      (NP (JJ local) (NN coffee) (NNS spots))
+      (SBAR (IN if)
+        (S
+          (NP (PRP I))
+          (VP (MD can)
+            (VP (VB find)
+              (NP (PRP them))))))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBP get)
+            (NP (PRP$ my) (CD four)
+              (CC and)
+              (CD five) (NN star) (NNS ratings))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP do)
+      (SBAR
+        (S
+          (NP
+            (NP (NN love) (NNS Starbucks))
+            (CC and)
+            (NP (DT this) (NN one)))
+          (VP (VBZ is)
+            (ADJP (RB no) (JJ different))))))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VB Make)
+      (ADJP (JJ sure)
+        (S
+          (VP (TO to)
+            (VP (VB work)
+              (PP (IN towards)
+                (NP (PRP$ your) (JJ gold) (NN card)))
+              (SBAR (IN if)
+                (S
+                  (NP (PRP you))
+                  (VP (VBP 're)
+                    (NP (DT a) (NN coffee) (NN addict))
+                    (PP (IN because)
+                      (SBAR
+                        (WHNP (WP who))
+                        (S
+                          (VP (VBZ does) (RB n't)
+                            (VP (VB love)
+                              (NP (JJ free) (NNS drinks)))))))))))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (VP (VB Friendly)
+      (CC and)
+      (VB prompt)
+      (NP (NN customer) (NN service)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (PP (IN On)
+      (NP
+        (NP (DT the) (JJ small) (NN side))
+        (PP (IN for)
+          (NP
+            (NP (DT a) (NNPS Starbucks))
+            (PP (IN with)
+              (NP
+                (NP (JJR more) (JJ outside) (NN seating) (NN area))
+                (PP (IN than)
+                  (NP (NN inside)))))))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (JJ Great) (NN location))
+    (PP (IN by)
+      (NP (PRP$ my) (NN gym)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP (RB Constantly) (JJ full)
+      (PP (IN of)
+        (NP (NNS customers))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Very))
+    (NP (JJ efficient) (NN staff))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Have))
+    (ADVP (RB never))
+    (VP (VBD had)
+      (NP
+        (NP (DT a) (JJ bad) (NN cup))
+        (PP (IN of)
+          (NP (NN coffee))))
+      (ADVP (RB here)))
+    (. .)))
+
+

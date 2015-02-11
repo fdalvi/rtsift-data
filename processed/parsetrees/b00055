@@ -1,0 +1,62 @@
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP (PRP$ my) (JJ go-to) (NN library))
+      (, ,)
+      (SBAR (IN because)
+        (S
+          (NP (PRP it))
+          (VP (VBZ 's)
+            (ADJP
+              (ADJP (JJS closest))
+              (PP (TO to)
+                (NP (NN home))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (ADVP (RB always))
+      (VP (VBZ seems)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (NP
+                (NP (DT a) (JJ decent) (NN selection))
+                (PP (IN of)
+                  (NP (DT the) (JJ new) (NNS releases)))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (MD can)
+        (ADVP (RB always))
+        (VP (VB get)
+          (PRT (RP in)
+            (CC and)
+            (RP out))
+          (ADVP (RB quickly)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB PLUS))
+    (, ,)
+    (NP (PRP I))
+    (VP (MD can)
+      (ADVP (RB always))
+      (VP (VB go)
+        (VP (VB grab)
+          (NP
+            (NP (DT a) (NN slice))
+            (PP (IN of)
+              (NP
+                (NP (NN pie))
+                (ADVP (JJ next) (NN door)
+                  (PP (IN at)
+                    (NP (NNP Hubbard))))))))))
+    (. !)))
+
+

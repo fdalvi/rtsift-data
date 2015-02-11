@@ -1,0 +1,47 @@
+(ROOT
+  (NP
+    (NP (NN Super-divey))
+    (, ,)
+    (NP
+      (NP (NNS locals) (NN kind))
+      (PP (IN of)
+        (NP (NN place))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NN Everyone))
+    (VP (VBD was)
+      (ADJP (JJ friendly)
+        (PP (IN except)
+          (NP
+            (NP (CD one) (JJ drunk) (JJ young) (NN guy))
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBD was)
+                  (VP (VBG acting)
+                    (NP
+                      (NP (NN kind))
+                      (PP (IN of)
+                        (NP (NN territorial))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NNS buddies))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD was)
+            (NP
+              (NP (DT the) (JJS best))
+              (SBAR
+                (S
+                  (NP (NNP Bloody) (NNP Mary) (PRP they))
+                  (VP (VBP 've)
+                    (VP (VBN had))))))))))
+    (. .)))
+
+

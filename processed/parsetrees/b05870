@@ -1,0 +1,64 @@
+(ROOT
+  (S
+    (VP
+      (ADVP (RB Very))
+      (VB clean)
+      (NP (NN place))
+      (S
+        (VP (TO to)
+          (VP (VB do)
+            (NP (NN laundry))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Staff))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (JJ personable))
+        (CC and)
+        (ADJP
+          (ADVP (RB always))
+          (JJ willing)
+          (S
+            (VP (TO to)
+              (VP (VB help)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (FRAG (RB Not)
+      (ADJP (JJ bad)))
+    (: ...)
+    (S
+      (S
+        (NP (JJR older) (NNS machines))
+        (, ,)
+        (CC but)
+        (NP (PRP$ my) (NNS clothes))
+        (VP (VBD got)
+          (ADJP (JJ clean))))
+      (, ,) (RB not)
+      (S
+        (PP (IN like)
+          (NP (NNP Rancho) (NNP Dr.) (NNP Laundromat)))
+        (, ,)
+        (NP (NNS clothes))
+        (VP
+          (VP (VBD felt)
+            (NP (JJ gross)))
+          (CC and)
+          (VP (VBD smelled)
+            (S
+              (ADJP (JJ nasty)))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBD was)
+      (ADJP (JJ good)))
+    (. !)))
+
+

@@ -1,0 +1,288 @@
+(ROOT
+  (SQ (VBP Do)
+    (NP (PRP you))
+    (VP (VB know)
+      (SBAR
+        (WHADVP (WRB why))
+        (S
+          (NP (PRP I))
+          (VP (VBP like)
+            (NP (DT this) (NN Subway))))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH No) (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (VBP do) (RB n't))
+    (. .)))
+
+(ROOT
+  (S (RB So)
+    (VP (VB let)
+      (S
+        (NP (PRP me))
+        (VP (VB tell)
+          (NP (PRP you))
+          (: ...)
+          (NP
+            (NP (DT Every) (NN time))
+            (SBAR
+              (S
+                (NP (PRP I))
+                (VP (VBP come)
+                  (SBAR
+                    (S
+                      (PP (IN in)
+                        (NP
+                          (NP (RB here))
+                          (PP (IN for)
+                            (NP (NN lunch)))))
+                      (NP (PRP it))
+                      (VP (VBZ 's)
+                        (ADVP (RB never))
+                        (ADJP (JJ busy))))))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (S (CC And)
+      (NP (PRP it))
+      (VP (VBZ 's) (RB not)
+        (SBAR (IN that)
+          (S
+            (NP (NNS people))
+            (VP (VBP do) (RB n't)
+              (VP (VB come)
+                (PP (IN in)
+                  (NP (RB here)))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NNS employees))
+          (VP (VBP are)
+            (ADJP (RB really) (JJ good)
+              (PP (IN about)
+                (S
+                  (VP (VBG serving)
+                    (NP (PRP$ their) (NNS customers))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT Some) (NNP Subway) (NNS locations))
+      (VP
+        (VP (VBP are)
+          (ADJP (RB pretty) (VBN hit)))
+        (CC and)
+        (VP (VBP miss))))
+    (, ,)
+    (CC but)
+    (S
+      (ADVP (RB so) (RB far))
+      (NP (DT this) (NN one))
+      (VP (VBZ has)
+        (VP (VBN been)
+          (NP (DT the)
+            (ADJP (RBS most) (JJ consistent))))))
+    (. .)))
+
+
+(ROOT
+  (NP (JJ Good) (NN food) (. .)))
+
+(ROOT
+  (INTJ (JJ Good) (NN service)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBZ frequent)
+      (NP (DT this) (NN subway))
+      (ADVP (RB quite) (RB often)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Sam)
+      (CC and)
+      (NNP Wilson))
+    (VP (VBP are)
+      (ADVP (RB always))
+      (ADJP
+        (ADJP (NN professional))
+        (CC and)
+        (ADJP
+          (ADVP (IN beyond))
+          (JJ friendly))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Sam))
+    (VP (VBZ has)
+      (ADVP (RB even))
+      (VP (VBN learned)
+        (SBAR
+          (WHNP
+            (WHNP (WP what))
+            (NP (NN sub)
+              (CC and)
+              (NNS cookies)))
+          (S
+            (NP (PRP I))
+            (ADVP (RB always))
+            (VP (VBP get))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Great))
+    (VP (VBP place))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ My) (NN husband))
+      (CC and)
+      (NP (PRP I)))
+    (VP (VBD frequent)
+      (NP (DT this) (NN location))
+      (NP (RB quite) (DT a) (NN lot))
+      (SBAR (IN as)
+        (S
+          (NP (PRP it))
+          (VP (VBZ 's)
+            (ADVP (RB fast)
+              (CC and)
+              (RB really))
+            (ADVP (NN close) (TO to) (NN home))))))
+    (. .)))
+
+(ROOT
+  (X
+    (NP (JJ Good) (NNS points))
+    (: :)
+    (FRAG
+      (SBAR (IN like)
+        (S
+          (NP (PRP I))
+          (VP (VBD said)
+            (SBAR
+              (S
+                (S
+                  (ADVP (RB already))
+                  (, ,)
+                  (NP (PRP it))
+                  (VP (VBZ 's)
+                    (ADJP (JJ fast))))
+                (CC and)
+                (S
+                  (NP (DT the) (NNS employees))
+                  (VP (VBP are)
+                    (ADVP (RB generally))
+                    (ADJP (RB really) (JJ good))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP$ My) (JJ major) (NN complaint))
+      (ADVP (RB here))
+      (VP (VBZ is)
+        (SBAR (IN that)
+          (S
+            (NP (RB nearly) (DT every) (NN time))
+            (NP (PRP we))
+            (VP (VBP come)
+              (ADVP (RB here))
+              (ADVP (RB lately)))))))
+    (PRN (-LRB- -LRB-)
+      (S
+        (NP (PRP it))
+        (VP (VBZ 's)
+          (ADVP (RB generally))
+          (PP (IN around)
+            (NP (CD 5pm)))))
+      (-RRB- -RRB-))
+    (S
+      (NP (PRP they))
+      (VP (VBP 're)
+        (PRT (RP out))
+        (PP (IN of)
+          (NP (NNS items)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Usually))
+    (NP
+      (NP (DT the) (NNS items))
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBP 're)
+            (PRT (RP out))
+            (PP (IN of))))))
+    (VP (VBP are)
+      (NP
+        (NP (NN cheese))
+        (, ,)
+        (NP (NN provolone)))
+      (ADVP (RB typically))
+      (, ,)
+      (ADJP (JJ spinach)
+        (PP (IN among)
+          (NP (NNS others)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Now)
+      (PP (TO to)
+        (NP (PRP me))))
+    (NP (DT this))
+    (VP (VBZ seems)
+      (SBAR (IN like)
+        (S
+          (NP (DT the) (NN owner))
+          (VP (VBZ is)
+            (VP (VBG being)
+              (ADJP
+                (NP (DT a) (RB little))
+                (RB too) (JJ cheap))
+              (PP (IN for)
+                (NP (DT a)
+                  (ADJP (RB fairly) (JJ busy))
+                  (NN location))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (S
+      (S
+        (NP (PRP It))
+        (ADVP (RB really))
+        (VP (VBZ needs)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (VP
+                  (ADVP (RB well))
+                  (VBN stocked)))))))
+      (CC and)
+      (S
+        (NP (PRP they))
+        (VP (VBP 're)
+          (ADVP (RB just))
+          (ADJP (RB not) (JJ :-LRB-)))))))
+
+

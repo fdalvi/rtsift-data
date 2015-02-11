@@ -1,0 +1,1393 @@
+(ROOT
+  (S
+    (NP (DT This) (NN business))
+    (VP (VBZ makes)
+      (SBAR
+        (S
+          (NP (PRP me))
+          (VP (VBP wish)
+            (SBAR
+              (S
+                (NP (PRP I))
+                (VP (MD could)
+                  (VP (VB give)
+                    (NP (JJ negative) (NNS stars))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (RB Here))
+      (VP (VBZ 's)
+        (NP (DT the) (NN deal))))
+    (: ;)
+    (S
+      (PP (IN at)
+        (NP
+          (NP (DT the) (NNP COB))
+          (PP (IN on)
+            (NP (CD 10-29)))))
+      (, ,)
+      (NP (PRP I))
+      (VP (VBD had)
+        (NP
+          (NP ($ $) (CD 12.52))
+          (PP (IN in)
+            (NP (PRP$ my) (NN account))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (DT no) (JJ discernible) (NN reason)))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBD deducted)
+      (NP (DT an) (NNP NSF) (NN fee))
+      (PP (IN from)
+        (NP (PRP$ my) (NN account))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (PP (IN Despite)
+      (S
+        (VP
+          (ADVP (RB still))
+          (VBG being)
+          (PP (IN in)
+            (NP (DT the) (JJ black))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (DT The) (NN morning))
+        (PP (IN of)
+          (NP (CD 10-30))))
+      (, ,)
+      (NP
+        (NP
+          (NP (DT the) (NNP Denny) (POS 's))
+          (NN transaction))
+        (PP (IN from)
+          (NP (DT the) (JJ prior) (NN day))))
+      (, ,)
+      (PP (IN for)
+        (NP ($ $) (CD 11)))
+      (, ,))
+    (VP (VBZ clears)
+      (NP (PRP$ my) (NN account)))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP I))
+    (VP (VBP get)
+      (NP (NNP ANOTHER) (NNP NSF) (NNP FEE)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (SBAR (IN Because)
+      (S
+        (NP (PRP$ my) (NN account))
+        (VP (VBZ is)
+          (ADJP (JJ overdrawn)))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Because))
+    (PP (IN of)
+      (NP (DT the) (NNP NSF) (NN fee)))
+    (PP (IN from)
+      (NP (DT the) (JJ previous) (NN night)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP I))
+        (VP (VBP call)
+          (NP (DT the) (NN bank)))))
+    (, ,)
+    (NP (PRP they))
+    (VP
+      (VP (VBP explain)
+        (SBAR
+          (SBAR (IN that)
+            (S
+              (NP
+                (NP (DT the) (NNP Denny) (POS 's))
+                (NN transaction))
+              (VP (VBD had)
+                (ADVP (RB already))
+                (VP (VBN put)
+                  (NP
+                    (NP (DT a) (`` ``) (NN Hold) ('' ''))
+                    (PP (IN on)
+                      (NP (PRP$ my) (NN account))))))))
+          (, ,)
+          (CC and)
+          (SBAR (IN that)
+            (S
+              (NP (EX there))
+              (VP (VBD was)
+                (NP
+                  (NP
+                    (NP (DT another) (NN transaction))
+                    (ADJP (RB still) (VBG pending)))
+                  (, ,)
+                  (SBAR
+                    (WHNP (WDT which))
+                    (, ,)
+                    (S
+                      (ADVP (WRB when))
+                      (VP (VBN combined)
+                        (PP (IN with)
+                          (NP
+                            (NP (DT the) (NNP Denny) (POS 's))
+                            (NN transaction))))))
+                  (, ,)))))))
+      (CC but)
+      (VP
+        (NP (PRP me))
+        (PP (IN in)
+          (NP (DT the) (NN red)))))
+    (. .)))
+
+(ROOT
+  (FRAG (CC And)
+    (SBAR (IN that) (, ,)
+      (S
+        (SBAR (IN since)
+          (S
+            (NP (PRP I))
+            (VP (VBD was)
+              (ADVP (RB already))
+              (PP (IN in)
+                (NP (DT the) (NN red)))
+              (, ,)
+              (PP (IN from)
+                (NP
+                  (NP (DT the) (NN hold))
+                  (, ,)
+                  (CC and)
+                  (NP (DT the) (VBG pending)))))))
+        (, ,)
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP
+              (NP (DT the) (NNP Denny) (POS 's))
+              (NN transaction))
+            (ADVP (RB actually))
+            (VP (VBD cleared)
+              (NP (PRP$ my) (NN account))
+              (, ,)
+              (SBAR (IN because)
+                (S
+                  (NP (PRP I))
+                  (VP (VBD had)
+                    (NP
+                      (NP (NNP overdraft) (`` ``) (NN protection) ('' ''))
+                      (PRN (-LRB- -LRB-)
+                        (NP (CD 1))
+                        (-RRB- -RRB-)))))))))
+        (, ,)
+        (S
+          (S
+            (NP (PRP they))
+            (VP (VBD paid)
+              (NP (PRP it))))
+          (, ,)
+          (CC but)
+          (S
+            (NP (PRP I))
+            (VP (VBD was)
+              (ADJP (RB already) (JJ overdrawn)))))
+        (, ,) (IN so)
+        (S
+          (NP (PRP they))
+          (VP (VBD had)
+            (S
+              (VP (TO to)
+                (VP (VB charge)
+                  (NP (PRP me))
+                  (NP (DT an) (NNP NSF) (NN fee)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (PP (IN on)
+        (NP
+          (NP (DT the) (NN verge))
+          (PP (IN of)
+            (NP (PRP$ my) (NN head) (NN exploding))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBP have)
+        (VP (VBN withdrawn)
+          (ADVP (RB almost)
+            (NP (DT every) (NN dime)))
+          (PP (IN from)
+            (NP
+              (NP (DT this) (NN institution))
+              (PRN (-LRB- -LRB-)
+                (S
+                  (ADVP (RB still))
+                  (VP (VB have)
+                    (S
+                      (NP (NNS transactions))
+                      (ADJP (VBG pending)))))
+                (-RRB- -RRB-))))))
+      (CC and)
+      (VP (MD will)
+        (ADVP (RB never))
+        (VP (VB work)
+          (PP (IN with)
+            (NP (PRP them)))
+          (ADVP (RB again)))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Fuck)
+      (NP (DT this) (NN place)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (MD will)
+      (ADVP (RB literally))
+      (VP (VB rob)
+        (NP (PRP you))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP wish)
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (MD could)
+            (VP (VB give)
+              (NP (JJ negative) (NNS stars)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 've)
+        (VP (VBN been)
+          (PP (IN with)
+            (NP (DT this) (NN bank)))
+          (PP (IN for)
+            (NP (CD 20) (NNS years))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT this))
+      (VP (VBZ means)
+        (NP (NN nothing))
+        (PP (TO to)
+          (NP (PRP them)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN In)
+        (NP (DT the) (CD 20) (NNS years)))
+      (NP (PRP I))
+      (VP (VBP 've)
+        (VP (VBN been)
+          (PP (IN with)
+            (NP (PRP them))))))
+    (NP (PRP they))
+    (VP (VBP have)
+      (VP (VBN done)
+        (NP (JJ endless) (NN crap))
+        (PP (TO to)
+          (NP (PRP me)))
+        (PP (IN like)
+          (S
+            (VP (VBG auto-enrolling)
+              (NP (PRP me))
+              (PP (IN in)
+                (NP
+                  (NP (NNS programs))
+                  (SBAR
+                    (S
+                      (NP (PRP I))
+                      (VP (VBP do) (RB n't)
+                        (VP (VB want)
+                          (NP
+                            (NP (DT the) (JJS latest))
+                            (PP (IN of)
+                              (SBAR
+                                (WHNP (WDT which))
+                                (S
+                                  (VP (VBD caused)
+                                    (NP
+                                      (QP (IN over) ($ $) (CD 300)))
+                                    (PP (IN in)
+                                      (NP
+                                        (NP (NNS fees))
+                                        (PP (IN on)
+                                          (NP (PRP$ my) (NN account)))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN After)
+      (S
+        (VP (VBG calling)
+          (NP (PRP them)))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBD put)
+      (NP (PRP me))
+      (PP (IN on)
+        (NP (NN hold)))
+      (PP (IN for)
+        (NP (DT a) (NN while)
+          (S
+            (VP
+              (VP (TO to) (`` ``)
+                (VP (VB review)
+                  (NP (PRP$ my) (NN account)))
+                ('' ''))
+              (PRN (-LRB- -LRB-)
+                (SBAR
+                  (WHNP (WDT which))
+                  (S
+                    (ADVP (RB obviously))
+                    (VP (VBZ means)
+                      (S
+                        (VP (TO to)
+                          (VP (VB see)
+                            (SBAR (IN if)
+                              (S
+                                (NP (PRP I))
+                                (VP (VBP am)
+                                  (ADJP (JJ important) (RB enough)
+                                    (PP (TO to)
+                                      (S
+                                        (NP (PRP them))
+                                        (VP (TO to)
+                                          (VP (VB refund)
+                                            (NP (DT the) (NNS fees))))))))))))))))
+                (-RRB- -RRB-)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Apparently))
+    (NP (PRP I))
+    (VP (VBP am) (RB not))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN After)
+      (S
+        (VP (VBG holding)
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (VBD was)
+                (VP (VBN told))))))))
+    (NP (PRP they))
+    (VP (MD wo) (RB n't)
+      (VP (VB refund)
+        (NP (PRP them))
+        (PRN (-LRB- -LRB-)
+          (S
+            (ADVP (RB again))
+            (NP (DT these))
+            (VP (VBP are)
+              (NP
+                (NP (NNS fees))
+                (PP (IN from)
+                  (NP
+                    (NP (DT a) (NN program))
+                    (SBAR
+                      (S
+                        (NP (PRP I))
+                        (ADVP (RB never))
+                        (VP (VBD signed)
+                          (PRT (RP up))
+                          (PP (IN for))))))))))
+          (-RRB- -RRB-))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBG Insulting))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP (PRP they))
+          (VP (VBP continue)
+            (S
+              (VP (TO to)
+                (VP (VB do)
+                  (PP (TO to)
+                    (NP (PRP me)))
+                  (PP (IN after)
+                    (S
+                      (VP (VBG being)
+                        (PP (IN with)
+                          (NP (PRP them)))
+                        (PP (IN for)
+                          (NP (CD 20) (NNS years)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (ADJP (RP out)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD ca) (RB n't)
+      (VP (VB take)
+        (NP (PRP it))
+        (ADVP (RB anymore))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (VP
+        (VP (VBN Called)
+          (PP (IN about)
+            (NP
+              (NP (NNS charges))
+              (PP (IN on)
+                (NP (PRP$ my) (NN account)))))
+          (SBAR
+            (SBAR (IN that)
+              (S
+                (NP (PRP I))
+                (VP (VBD did) (RB not)
+                  (VP (VB authorize)))))
+            (CC and)
+            (SBAR (IN after)
+              (S
+                (S
+                  (NP
+                    (NP (DT a) (JJ long) (NN conversation))
+                    (PP (IN with) (`` ``)
+                      (NP (NNP Mike))
+                      ('' ''))
+                    (SBAR
+                      (WHADVP (WRB where))
+                      (S
+                        (NP (PRP I))
+                        (VP (VBD was)
+                          (ADVP (RB repeatedly))))))
+                  (VP (VBD told)
+                    (SBAR (IN that)
+                      (S
+                        (NP (PRP I))
+                        (VP (VBD was)
+                          (ADJP (JJ wrong)))))))
+                (CC and)
+                (S
+                  (NP (PRP he))
+                  (VP (VBD refused)
+                    (S
+                      (VP (TO to)
+                        (VP (VB do)
+                          (NP (DT any) (NN thing)))))))))))
+        (CC but)
+        (VP (VBP charge)
+          (S
+            (NP (PRP me))
+            (NP (JJ additional) (NNS fees))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD was)
+      (VP (VBN hung)
+        (PRT (RP up))
+        (ADVP (RB on)
+          (PRN (, ,)
+            (INTJ (UH Yes))
+            (, ,))
+          (S
+            (VP (VBN hung)
+              (PRT (RP up))
+              (PP (IN on)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD did) (RB not)
+        (VP (VB swear))))
+    (, ,)
+    (CC but)
+    (SQ
+      (SQ (VBD did)
+        (NP (NN sound))
+        (VP (VBN angry) (-LRB- -LRB-)
+          (CC and)
+          (JJ why)))
+      (SQ (MD should) (RB n't)
+        (NP (PRP I))
+        (VP (VB be)
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (PRP they))
+              (VP
+                (VP (NN hand)
+                  (PRT (RP out))
+                  (NP (PRP$ my) (NN money)))
+                (CC and)
+                (VP
+                  (ADVP (RB then))
+                  (VBP want)
+                  (S
+                    (VP (TO to)
+                      (VP (VB charge)
+                        (S
+                          (NP (PRP me))
+                          (VP (TO to)
+                            (VP (VB correct)
+                              (NP (PRP it))))))))))))))
+      (FRAG
+        (ADJP (JJ ?!?))))))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB -RRB-))
+      (NP (PRP I))
+      (VP (VBD went)
+        (PP (TO to)
+          (NP (PRP$ their) (NNP Facebook) (NN page)))
+        (S
+          (VP (TO to)
+            (VP (VB express)
+              (NP
+                (NP (PRP$ my) (NN disappointment))
+                (, ,)
+                (NP
+                  (NP (DT a) (NN post))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (VBD was)
+                        (VP (VBN removed))))))))))))
+    (CC and)
+    (RB then)
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (VP (VBN blocked)
+          (SBAR
+            (SBAR (IN so)
+              (S
+                (NP (PRP I))
+                (VP (MD could) (RB not)
+                  (VP (VB repost)))))
+            (, ,)
+            (CC so)
+            (SBAR (IN that)
+              (S
+                (NP
+                  (ADJP (JJ other) (JJ unfortunate))
+                  (NNS suckers))
+                (VP (MD will) (RB not)
+                  (VP (VB see)
+                    (SBAR
+                      (WHADVP (WRB how)
+                        (ADJP (RB truly) (JJ terrible)))
+                      (S
+                        (NP (PRP$ their) (NN customer) (NN service))
+                        (VP
+                          (VP (VBZ is))
+                          (CC and)
+                          (VP (MD will)
+                            (VP (VB continue)
+                              (S
+                                (VP (TO to)
+                                  (VP (VB be)
+                                    (VP (VBN treated)
+                                      (PP (IN like)
+                                        (NP (NN crap)))
+                                      (PP (IN by)
+                                        (NP (DT this) (JJ terrible) (NN institution))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP have)
+        (ADVP (RB yet))
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN contacted)
+                (PP (IN by)
+                  (NP (NN anyone)))
+                (PP
+                  (PP (IN about)
+                    (S
+                      (VP (VBG being)
+                        (VP (VBN hung)
+                          (PRT (RP up))
+                          (PP (IN on))))))
+                  (, ,) (RB not) (RB even) (IN by)
+                  (NP
+                    (NP (NN email))
+                    (SBAR
+                      (WHNP (WDT which))
+                      (S
+                        (NP (PRP I))
+                        (VP (VBD sent)
+                          (SBAR
+                            (FRAG
+                              (ADVP
+                                (NP (RB nearly) (CD 14) (NNS hours))
+                                (RB ago))
+                              (: ...)))))))))))))
+      (. .))
+    (NP (NNP Well))
+    (VP (VBP guess)
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP (NN scum) (NNS bags))
+          (: -)
+          (NP (PRP you))
+          (VP (MD can) (RB not)
+            (VP (VB delete)
+              (NP (DT this)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP
+        (VP (VBG Enjoy)
+          (NP
+            (NP (PRP$ your) (VBG increasing) (NN number))
+            (PP (IN of)
+              (NP (NNS complaints)))))
+        (CC and)
+        (VP (VBG decreasing)
+          (NP
+            (NP (NNS amounts))
+            (PP (IN of)
+              (NP (NN money)))))))
+    (PRN (, ,)
+      (S
+        (NP (PRP you))
+        (VP (VBP know) (, ,)
+          (NP
+            (NP
+              (NP (DT that) (NN stuff))
+              (SBAR
+                (S
+                  (NP (PRP you))
+                  (VP (VBP need)
+                    (S
+                      (VP (TO to)
+                        (VP (VB stay)
+                          (PP (IN in)
+                            (NP (NN business)))
+                          (: ...)
+                          (ADVP (RB sincerely)))))))))
+            (, ,)
+            (NP
+              (NP (NN someone))
+              (SBAR
+                (WHNP (WP who))
+                (S
+                  (VP (VBZ is)
+                    (ADJP (JJ sick)
+                      (PP (IN of)
+                        (NP (PRP$ your) (JJ long) (NN branch) (NNS lines))))))))
+            (, ,)
+            (NP (VBN hidden) (NNS fees)))))
+      (, ,))
+    (CC and)
+    (ADVP (RB constantly))
+    (S
+      (VP (VBG crashing)
+        (NP (NN web) (NN site))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Buh))
+    (: -)
+    (S
+      (NP (EX there))
+      (VP (VBZ is)
+        (NP
+          (NP (CD one) (NN star))
+          (SBAR (IN because)
+            (S (`` ``)
+              (NP (DT no) (NNS stars))
+              ('' '')
+              (VP (VBZ is) (RB not)
+                (NP (DT an) (NN option))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VB be)
+      (VP (VBN warned)
+        (S
+          (ADJP (JJ !!!)))))))
+
+(ROOT
+  (S
+    (PP (IN from)
+      (NP
+        (NP (PRP$ my) (NN experience))
+        (SBAR (IN if)
+          (S
+            (NP (PRP you))
+            (VP (VBP bank)
+              (PP (IN with)
+                (NP (NN arizona) (JJ federal))))))))
+    (NP (PRP you))
+    (VP (VBP are)
+      (VP (VBG opening)
+        (NP (PRP yourself))
+        (PP (RP up)
+          (PP (TO to)
+            (S
+              (VP (VBG losing)
+                (NP
+                  (NP (PRP$ your) (NN money))
+                  (, ,)
+                  (NP (JJ potential) (NN identity) (NN theft))
+                  (, ,)
+                  (CC and)
+                  (NP
+                    (NP (JJ many) (NNS days))
+                    (PP (JJ full) (IN of)
+                      (NP (NN frustration)))))
+                (SBAR (IN while)
+                  (S
+                    (NP (PRP you))
+                    (`` ``)
+                    (VP (VBP become)
+                      (NP
+                        (NP (CD one))
+                        (PP (IN of)
+                          (NP (PRP them)))))
+                    ('' '')))))))))
+    (. .)))
+
+(ROOT
+  (X
+    (X (SYM *))
+    (S
+      (ADJP (JJ outdated))
+      (S
+        (UCP
+          (NP (NN technology))
+          (: -)
+          (ADJP (JJ hard)
+            (S
+              (VP (TO to)
+                (VP (VB find)
+                  (NP
+                    (NP
+                      (NP (NN information))
+                      (PP (IN on)
+                        (NP (PRP$ their) (NN website)
+                          (CC and)
+                          (JJ limited) (NN self) (NN service) (NNS capabilities))))
+                    (X (SYM *)))
+                  (S
+                    (VP (VBG contacting)
+                      (SBAR
+                        (S
+                          (NP (DT a) (JJ live) (NN person))
+                          (VP (MD will)
+                            (VP (VB take)
+                              (PRT (RP up))
+                              (PP (TO to)
+                                (NP (CD 5) (NNS minutes))))))))))))
+            (. !)))))))
+
+(ROOT
+  (FRAG
+    (FRAG
+      (X
+        (X (SYM *))
+        (NP (NNS fees)))
+      (VP (VBD applied)
+        (ADVP (RB incorrectly))))
+    (CC and)
+    (FRAG
+      (S
+        (NP
+          (ADJP (RB excessively)
+            (PP (IN by)
+              (NP (NN arizona))))
+          (JJ federal) (NN *) (NNS problems))
+        (VP (MD can)
+          (ADVP (RB only))
+          (VP (VB occur)
+            (PP (IN from)
+              (NP (NNP monday))))))
+      (: -)
+      (FRAG
+        (NP
+          (NP (NNP saturday) (CD 9))
+          (SBAR
+            (S
+              (VP (VBP am)
+                (PP (TO to)
+                  (NP (JJ 3pm) (JJ *) (NNS criminals)))
+                (ADJP (JJ welcome)
+                  (S
+                    (VP (TO to)
+                      (VP (VB take)
+                        (PP (DT all)
+                          (PP
+                            (NP
+                              (NP (DT the) (NN customer) (POS 's))
+                              (NN money))
+                            (PP (IN in)
+                              (NP (DT the) (NNS evenings))))
+                          (CC and)
+                          (PP (IN during)
+                            (NP (DT the) (NNS weekends))))))))))))
+        (X
+          (X (SYM *))
+          (NP
+            (NP (JJ rude) (NN customer) (NN service) (NNS agents))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBP do) (RB not)
+                  (VP (VB respect) (`` ``)
+                    (NP (NNS members))
+                    ('' '')
+                    (SBAR
+                      (SBAR
+                        (X (SYM *))
+                        (S (`` ``)
+                          (S
+                            (VP (VB be)
+                              (NP
+                                (NP (CD one))
+                                (PP (IN of)
+                                  (NP (PRP us))))))
+                          ('' '')
+                          (NP (JJ brainwashing) (NN slogan))
+                          (VP (MD should)
+                            (ADVP (RB really))
+                            (VP (VB say)))))
+                      (, ,)
+                      (SBAR (`` ``)
+                        (S
+                          (SBAR (IN if)
+                            (S
+                              (NP (PRP you))
+                              (VP (VBP are)
+                                (ADJP (JJ stupid)))))
+                          (, ,)
+                          (VP
+                            (VP (VB rude) (, ,)
+                              (CC and)
+                              (VB like)
+                              (NP (JJ other) (NNS people))
+                              (S
+                                (VP
+                                  (VP (VBG stealing)
+                                    (NP (PRP$ your) (NN money)))
+                                  (CC and)
+                                  (VP (VBG being)
+                                    (VP (VBN blamed)
+                                      (PP (IN for)
+                                        (NP (PRP it))))))))
+                            (, ,)
+                            (VP
+                              (ADVP (RB then))
+                              (VB join)
+                              (NP (NN arizona) (JJ federal)))
+                            (CC and)
+                            (`` ``)
+                            (VP (VB be)
+                              (NP
+                                (NP (CD one))
+                                (PP (IN of)
+                                  (NP (PRP us))))))))))))))))
+      (. !))))
+
+
+(ROOT
+  (S
+    (S
+      (NP (DT This) (NN place))
+      (VP (VBZ uses)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (PP (IN about)
+                (NP (PRP us) (NNS members))))))))
+    (CC but)
+    (ADVP (RB now))
+    (S
+      (NP (PRP they))
+      (VP (VBP are)
+        (ADVP (DT no) (RBR better))
+        (RB then)
+        (NP (DT the) (JJ big) (NNS banks))
+        (PP (IN out)
+          (NP (RB there)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (MD will)
+      (VP
+        (VP (VB hit)
+          (NP (PRP you))
+          (PRT (RP up))
+          (PP (IN with)
+            (NP (NNS fees))))
+        (CC and)
+        (VP
+          (ADVP (RB even))
+          (VB charge)
+          (NP (DT a) (JJ monthly) (NN membership) (NN fee)))))
+    (. !)))
+
+(ROOT
+  (NP (NN Barf) (. !)))
+
+
+(ROOT
+  (S (CC Yet)
+    (NP (DT another) (JJ bad))
+    (VP (VBP experience)
+      (PP (IN with)
+        (NP (NNP Arizona) (NNP Federal) (NNP Credit) (NNP Union))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN morning))
+    (NP (PRP I))
+    (VP (VBD placed)
+      (NP (DT an) (NN order))
+      (PP (IN with)
+        (NP
+          (NP (DT a) (NN company))
+          (PP (IN in)
+            (NP (NNP Scotland)))))
+      (PP (IN for)
+        (NP (DT some) (NN clothing))))
+    (. .)))
+
+(ROOT
+  (S (-LRB- -LRB-)
+    (NP
+      (NP (NNP Yes))
+      (, ,)
+      (X (SYM a)))
+    (VP (VBP kilt))
+    (-RRB- -RRB-) (. .)))
+
+(ROOT
+  (S
+    (NP (CD Two) (NNS hours) (RB later))
+    (S
+      (NP (PRP I))
+      (VP (VBD tried)
+        (S
+          (VP (TO to)
+            (VP (VB use)
+              (NP (PRP$ my) (NN debit) (NN card))
+              (PP (IN for)
+                (NP (DT a)
+                  (ADJP ($ $) (CD 2))
+                  (NN breakfast))))))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (VP (VBN declined))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN While)
+      (S
+        (NP (PRP I))
+        (VP (VBP am)
+          (ADJP (JJ glad)
+            (S
+              (VP (TO to)
+                (VP (VB have)
+                  (VP (VBN escaped)
+                    (NP
+                      (NP (NNP BofA) (POS 's))
+                      (JJ high) (NNS fees))
+                    (PP (IN by)
+                      (S
+                        (VP (VBG taking)
+                          (NP (PRP$ my) (NN business))
+                          (PP (TO to)
+                            (NP (DT a) (NNP CU))))))))))))))
+    (, ,)
+    (ADVP (IN at) (JJS least))
+    (NP (NNP BofA))
+    (VP (MD would)
+      (VP (VB call)
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP they))
+            (VP (VBD froze)
+              (NP (DT a) (NN card))
+              (PP (IN for)
+                (NP (DT a) (JJ suspicious) (NN transaction))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD did) (RB n't)
+      (VP (VB have)
+        (S
+          (VP (TO to)
+            (VP (VB figure)
+              (NP (PRP it))
+              (PRT (RP out))
+              (PP (IN on)
+                (NP (PRP$ my) (JJ own))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP I))
+        (VP (VBD called)
+          (NP (DT the) (JJ AZFCU) (NN call) (NN center))
+          (S
+            (VP (TO to)
+              (VP (VB unlock)
+                (NP (DT the) (NN card))))))))
+    (NP (PRP they))
+    (VP (VBD made)
+      (SBAR
+        (S
+          (NP (PRP me))
+          (VP (VBP feel)
+            (SBAR (IN like)
+              (S
+                (NP (PRP it))
+                (VP (VBD was)
+                  (NP
+                    (NP (PRP$ my) (NN fault))
+                    (SBAR
+                      (S
+                        (NP (PRP I))
+                        (VP (VBD was) (RB n't)
+                          (VP (VBN notified)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN staff))
+      (PP (IN at)
+        (NP (NNP AZFCU))))
+    (ADVP (RB really))
+    (VP (VBP need)
+      (NP (JJR better) (NN customer))
+      (PP (NN service)
+        (NP (NN training))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB also))
+    (VP (VBD bet)
+      (SBAR
+        (S
+          (NP (EX there))
+          (VP (VBZ is)
+            (NP
+              (NP (DT no) (NN trouble) (NN ticket))
+              (PP (IN in)
+                (NP (PRP$ their) (NN system)
+                  (S
+                    (VP (TO to)
+                      (VP (VB get)
+                        (NP
+                          (NP (JJ suspicious) (NN transaction) (NN notification))
+                          (VP (VBN fixed)))))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VB Do) (RB not)
+      (VP (VB become)
+        (NP
+          (NP (DT a) (NN member))
+          (PP (IN of)
+            (NP (DT this) (NN credit) (NN union))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBP are)
+        (VP (VBG trying)
+          (S
+            (VP (TO to)
+              (VP (VB do)
+                (NP (DT a) (JJ short) (NN sale))))))))
+    (CC and)
+    (S
+      (S
+        (PP (RB instead) (IN of)
+          (S
+            (VP (VBG taking)
+              (NP
+                (NP
+                  (NP (DT the) ($ $) (CD 6000))
+                  (SBAR
+                    (S
+                      (NP (DT the) (JJ first) (NN lien) (NN holder))
+                      (VP (VBZ is)
+                        (VP (VBG offering)
+                          (NP (PRP them)))))))
+                (PRN (-LRB- -LRB-)
+                  (NP (DT the) (JJ 2nd) (NN lien) (NN holder))
+                  (-RRB- -RRB-))))))
+        (, ,)
+        (NP (PRP they))
+        (ADVP (RB instead))
+        (VP (VBP have)
+          (VP (VBN opted)
+            (S
+              (VP (TO to)
+                (VP (VB let)
+                  (NP (DT the) (JJ first) (NN lien) (NN holder) (NN foreclose))))))))
+      (CC and)
+      (S
+        (NP (NNP AZ) (NNP Fed))
+        (VP (VBZ gets)
+          (NP (NN nothing)))))
+    (. .)))
+
+(ROOT
+  (NP (NNP Shareholders) (NNP beware) (NNP !!!)))
+
+
+(ROOT
+  (S
+    (INTJ (UH Hello))
+    (, ,)
+    (NP (PRP I))
+    (VP
+      (VP (VB have)
+        (NP
+          (NP (DT a) (NN car) (NN loan))
+          (PP (IN with)
+            (NP (NNP AZ) (NNP Federal)))))
+      (CC and)
+      (VP (VB double)
+        (PRT (RP up))
+        (PP (IN on)
+          (NP (PRP$ my) (NNS payments)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Today))
+      (VP (VBZ is)
+        (NP (CD 6/12/14))))
+    (, ,)
+    (NP (FW i))
+    (VP (VBP 'm)
+      (VP (VBN paid)
+        (PP (IN until)
+          (NP (NNP July) (CD 2)))
+        (, ,)
+        (S
+          (VP
+            (VP (VB get)
+              (NP
+                (NP (DT a) (NN phone))
+                (VP
+                  (NP (JJ call) (NN today))
+                  (VBG demanding)
+                  (NP
+                    (NP (JJ instant) (NN payment))
+                    (PRN (-LRB- -LRB-)
+                      (PP (IN with)
+                        (NP (DT a)
+                          (ADJP ($ $) (CD 5))
+                          (NN surcharge)))
+                      (-RRB- -RRB-))))))
+            (CC or)
+            (VP (VB get)
+              (NP
+                (NP (DT a) (JJ late) (NN fee))
+                (PP (IN of)
+                  (NP ($ $) (CD 30)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Remember)
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBP 'm)
+            (ADVP (RB already))
+            (VP (VBN paid)
+              (S
+                (ADJP (JJ up-but))
+                (SBAR
+                  (S
+                    (NP (PRP I))
+                    (VP (VBD gave)
+                      (NP (PRP them))
+                      (NP
+                        (NP (DT another) (NN phone) (NN payment) (NN today))
+                        (PRN (-LRB- -LRB-)
+                          (VP (VBN paid)
+                            (PP (IN till)
+                              (NP (NNP August)))
+                            (ADVP (RB now)))
+                          (-RRB- -RRB-)))))))
+              (SBAR (IN as)
+                (S
+                  (NP (PRP they))
+                  (VP (VBP say)
+                    (SBAR
+                      (S
+                        (NP (DT this))
+                        (VP (VBZ is)
+                          (PP (IN in)
+                            (NP (PRP$ my) (NN contract)))
+                          (SBAR (IN that)
+                            (S
+                              (NP (PRP I))
+                              (VP (MD must)
+                                (VP (VB make)
+                                  (NP (JJ regular) (NNS payments)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (TO To)
+        (VP (VB SUM)
+          (PRT (RP up))
+          (NP (PRP I)))))
+    (VP
+      (VP (VBP pay)
+        (NP (PRP$ my) (NN debt))
+        (ADVP (RB early)))
+      (CC and)
+      (VP
+        (VP (VB get)
+          (NP (NNP Penalized))
+          (PP (IN for)
+            (S
+              (VP (VBG doing)
+                (ADVP (RB so))))))
+        (: ...)
+        (VP (VB Very)
+          (NP (JJ rude) (NN staff))))
+      (, ,)
+      (S
+        (NP (PRP they))
+        (NP
+          (NP (DT no) (NN nothing))
+          (PP (IN about)
+            (NP (NN customer) (NN service))))))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (MD Would) (RB not)
+      (VP (VB give)
+        (NP (PRP me))
+        (NP
+          (NP (NN information))
+          (PP (IN as) (TO to)
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBZ regulates)
+                  (NP (PRP them)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Run) (NNP Away-Never))
+    (VP (VBP Do)
+      (NP
+        (NP (NNP Business))
+        (PP (IN with)
+          (NP (NNP AZ) (NNP Federal)))
+        (PRN (-LRB- -LRB-)
+          (S
+            (NP (PRP I))
+            (VP (MD will)
+              (VP (VB payoff)
+                (CC and)
+                (VB close)
+                (NP (DT the) (NN car) (NN loan)
+                  (CC and)
+                  (NNS savings) (NN account)))))
+          (-RRB- -RRB-))
+        (NP
+          (ADJP (JJ Bad))
+          (NN Experience) (NNS !!!))))))
+
+

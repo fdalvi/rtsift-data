@@ -1,0 +1,174 @@
+(ROOT
+  (S
+    (S
+      (VP (VBN Located)
+        (PP (IN around)
+          (NP
+            (NP (DT the) (NN corner))
+            (PP (IN from)
+              (NP (NNP Highland) (NNP Falls) (NNP Golf) (NNP Course)))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP like)
+      (S
+        (VP (TO to)
+          (VP (VB stop)
+            (PP (IN by)
+              (NP (DT this) (NN location)
+                (S
+                  (VP (TO to)
+                    (VP (VB grab)
+                      (NP (DT a) (JJ quick) (NN bite))
+                      (PP (IN before)
+                        (NP
+                          (NP (DT a) (NN round))
+                          (PP (IN of)
+                            (NP (NN golf))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB really))
+    (VP (VBP like)
+      (NP (DT the) (NNP Sausage) (NNP Biscuit) (NNP Sandwich))
+      (ADVP (RB here)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB always))
+    (VP
+      (VP (VBP get)
+        (NP (PRP$ my) (NN order) (NN right)))
+      (CC and)
+      (VP (VBP are)
+        (ADJP (JJ fast))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP do) (RB n't)
+      (VP (VB ask)
+        (PP (IN for)
+          (NP
+            (NP (RB much))
+            (PP (IN from)
+              (NP (PRP$ my) (JJ fast) (NN food) (NNS restaurants)))))
+        (: ...)
+        (ADVP (RB ha))))
+    (. !)))
+
+(ROOT
+  (SQ (MD Will)
+    (NP (PRP I))
+    (VP (VB return))
+    (. ?)))
+
+(ROOT
+  (S
+    (ADVP (RB As) (RB long)
+      (SBAR (IN as)
+        (S
+          (NP (PRP I))
+          (VP (VBP 'm)
+            (ADJP (JJ golfing))))))
+    (, ,)
+    (NP (EX there))
+    (VP (VBZ 's)
+      (NP (DT a) (JJ good) (NN chance)))
+    (. .)))
+
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (NNP Always))
+      (ADJP (RB very) (JJ friendly)))
+    (ADJP (RB here) (JJ :-RRB-))))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN location))
+    (VP (VBZ is)
+      (ADVP (RB no) (RB longer))
+      (PP (IN in)
+        (NP (NN business))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN closed)
+          (PP (IN for)
+            (NP (JJ several) (NNS months))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 'm)
+        (ADJP
+          (NP (DT a) (RB little))
+          (JJ surprised))))
+    (NP (PRP they))
+    (VP (VBD closed) (, ,)
+      (SBAR (IN as)
+        (S
+          (NP
+            (NP (DT every) (NN time))
+            (SBAR
+              (S
+                (NP (PRP I))
+                (VP (VBD was)
+                  (ADVP (RB there))
+                  (NP (PRP they))))))
+          (VP (VBD had)
+            (NP
+              (NP (NNS customers))
+              (, ,)
+              (NP
+                (NP (DT the) (NN majority))
+                (PP (IN of)
+                  (SBAR
+                    (WHNP (WP whom))
+                    (S
+                      (VP (VBD were)
+                        (NP
+                          (NP (NNS seniors))
+                          (PP (IN from)
+                            (NP (NNP Sun) (NNP City))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBN Granted)
+        (S
+          (NP (PRP I))
+          (VP (VBD was)
+            (ADVP (RB there))
+            (PP (IN at)
+              (NP (JJ breakfast/lunch) (NN time)))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP have)
+      (NP
+        (NP (DT no) (NN idea))
+        (SBAR
+          (WHADVP (WRB how)
+            (ADJP (JJ busy)))
+          (S
+            (NP (PRP they))
+            (VP (VBD were)
+              (PP (IN at)
+                (NP (NN night))))))))
+    (. .)))
+
+

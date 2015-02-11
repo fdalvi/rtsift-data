@@ -1,0 +1,188 @@
+(ROOT
+  (S
+    (VP (VBN Stopped)
+      (PP (IN by)
+        (NP (DT this) (NNP Subway)))
+      (PP (IN on)
+        (NP
+          (NP (DT the) (NN drive))
+          (ADVP (JJ back) (NN home)
+            (PP (TO to)
+              (NP (NNP Vegas))))))
+      (PP (IN from)
+        (NP (NNP Phoenix))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (ADVP (RB conveniently))
+      (VP (VBN located)
+        (PP (IN on)
+          (NP
+            (NP (DT the) (JJ right) (NN side))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NN road))
+                (VP (VBG heading)
+                  (PP (TO to)
+                    (NP (NNP Vegas))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD ordered)
+      (NP
+        (NP (DT a) (CD 6) ('' '') (NN BMT) (NN w/Jalapeno))
+        (SBAR
+          (S
+            (NP
+              (NP (NNP Cheddar) (NNP Bread))
+              (SBAR
+                (S
+                  (NP (CC &))
+                  (VP (VBD had)
+                    (NP (PRP it))))))
+            (VP (VBD toasted))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD added)
+      (NP
+        (NP (NNP Tomatoes) (, ,) (NNP Lettuce))
+        (, ,)
+        (NP (NNP Green) (NNP Peppers) (, ,) (NNP Pepperoncinis) (, ,) (NNP Mustard) (, ,) (NNP Mayo) (, ,) (NNP Oil) (, ,) (NNP Vinegar) (, ,) (NNP Salt) (, ,) (NNP Pepper))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBD made)
+        (NP (PRP it))
+        (ADVP (RB quickly))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (VP (VBG eating)
+          (PP (IN in)
+            (NP (DT no) (NN time))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS ingredients))
+      (VP (VBD were)
+        (ADJP (RB very) (JJ fresh))))
+    (CC and)
+    (S
+      (NP (DT the) (NNP Sandwich))
+      (VP (VBD tasted)
+        (ADJP (JJ great))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (DT A) (JJ nice) (NN snack))
+    (PP (IN for)
+      (NP (DT the) (NN ride) (NN home)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT A) (NN bonus))
+      (VP (VBZ is)
+        (NP (DT the) (JJ clean) (NNS restrooms))))
+    (: ...)
+    (S
+      (NP (DT a) (JJ quick) (NN tip))
+      (VP (VBZ is)
+        (S
+          (VP (TO to)
+            (VP (VB stop)
+              (ADVP (RB here))
+              (S
+                (VP (TO to)
+                  (VP (VB use)
+                    (NP
+                      (NP (DT the) (NN restroom))
+                      (PP (RB instead) (IN of)
+                        (NP (DT a) (JJ nasty) (NN gas) (NN station))))))))))))
+    (: ...)
+    (S
+      (NP
+        (NP (DT every) (NN gas) (NN station))
+        (PP (IN in)
+          (NP (NNP Wickenberg))))
+      (VP (VBD was)
+        (ADJP (JJ busy)
+          (PP (IN with)
+            (NP
+              (NP (NNS travelers))
+              (VP (VBG using)
+                (NP (DT the) (NNS restrooms))))))))
+    (. .)))
+
+(ROOT
+  (SQ (MD Will)
+    (NP (PRP I))
+    (VP (VB return))
+    (. ?)))
+
+(ROOT
+  (S
+    (S
+      (NP (JJ Next) (NN time))
+      (NP (PRP I))
+      (VP (VBP drive)
+        (NP (NNP to/from) (NNP Phoenix))))
+    (, ,)
+    (NP (PRP I))
+    (VP (MD will))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN subway))
+    (VP (VBZ has)
+      (NP (JJ terrible) (NN service)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN food))
+      (VP (VBZ is)
+        (ADJP (RB just) (JJ ok))))
+    (CC and)
+    (S
+      (NP (DT the) (NN space))
+      (VP (VBZ is) (RB not)
+        (VP
+          (ADVP (RB well))
+          (VBN kept))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Food))
+    (VP (VBZ is)
+      (UCP
+        (ADJP (JJ good))
+        (CC but)
+        (VP
+          (ADVP (NN way))
+          (VBN understaffed)
+          (PP (IN at)
+            (NP (NN lunchtime))))))))
+
+

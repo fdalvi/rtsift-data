@@ -1,0 +1,541 @@
+(ROOT
+  (S
+    (NP (NNS Apples))
+    (VP (VBD dipped)
+      (PP (IN in)
+        (NP
+          (ADJP
+            (ADJP (JJ interesting))
+            (CC and)
+            (ADJP (RB often) (JJ multiple)))
+          (NNS toppings))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Ideal))
+    (NP (NN mall) (NN food))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Rocky) (NNP Mountain) (NNP Chocolates))
+    (VP (VBP have)
+      (NP
+        (NP (JJ several) (NNS locations))
+        (PP (IN around)
+          (NP (DT the) (NNP Valley)))
+        (, ,)
+        (PP (VBG including)
+          (NP
+            (NP (NNP Glendale) (, ,) (NNP Outlets))
+            (PP
+              (PP (IN at)
+                (NP
+                  (NP (NNP Anthem))
+                  (, ,)
+                  (NP (NNP Paradise) (NNP Valley) (NNP Mall))
+                  (, ,)
+                  (NP (NNP Scottsdale) (NNP Fashion) (NNP Square))
+                  (, ,)
+                  (CC and)
+                  (NP (NNP Sky) (NNP Harbor) (NNP Airport))))
+              (, ,)
+              (CONJP (RB as) (RB well) (IN as))
+              (PP (IN in)
+                (NP (NNP Tucson)
+                  (CC and)
+                  (NNP Flagstaff))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 'm)
+        (NP
+          (NP (RB not) (RB really))
+          (`` ``)
+          (PP (IN into) ('' '')
+            (NP (JJ chocolate-covered) (NNS apples))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT the) (NN prep)
+        (CC and)
+        (NN presentation))
+      (VP (VBZ is)
+        (ADJP (RB pretty) (JJ cool))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB First))
+    (NP (PRP they))
+    (VP (VBD dip)
+      (NP (DT the) (NNS apples))
+      (PP (IN in)
+        (NP (JJ bubbling-hot) (JJ caramel) (NN mixture)))
+      (PP (IN in)
+        (NP (DT a) (NN copper) (NN kettle))))
+    (. .)))
+
+(ROOT
+  (S (RB Then)
+    (VP (VB roll)
+      (NP (PRP them))
+      (PP (IN in)
+        (NP
+          (NP (DT an) (NN array))
+          (PP (IN of)
+            (NP
+              (ADJP (JJ sweet)
+                (CC and)
+                (JJ crunchy))
+              (NNS toppings)))
+          (, ,)
+          (PP (JJ such) (IN as)
+            (NP
+              (NP (JJ chopped) (NNS nutes))
+              (CC &)
+              (NP (NNP sprinkles)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Then))
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (VP (VBN dipped)
+          (ADVP (RB again))
+          (PP (IN in)
+            (NP (NN milk)
+              (CC or)
+              (NN dark) (NN chocolate))))))
+    (, ,)
+    (CC and)
+    (S
+      (ADVP (RB finally))
+      (NP (PRP they))
+      (VP (VBP drizzle)
+        (NP (DT the) (JJ whole) (NN thing))
+        (PP (IN with)
+          (NP (JJ white) (NN chocolate) (NN icing)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VP
+        (ADVP (RB also))
+        (VBP carry)
+        (NP
+          (NP (DT a) (NN selection))
+          (PP (IN of)
+            (NP (JJ other) (NNS chocolates)))))
+      (, ,)
+      (VP (VBD dipped)
+        (NP (NNS strawberries)))
+      (, ,)
+      (CC and)
+      (ADVP (RB homemade))
+      (VP (VBP fudge)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (SBAR
+      (WHNP (WP Whoever))
+      (S
+        (VP (VBD thought)
+          (PP (IN of)
+            (NP
+              (NP (VBG dipping) (NNS apples))
+              (PP (IN in)
+                (NP (NN Carmel)
+                  (CC and)
+                  (NN chocolate))))))))
+    (NP (PRP I))
+    (VP (VBP praise)
+      (NP (PRP you)))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (INTJ (RB Sure))
+      (NP (PRP you))
+      (VP
+        (ADVP (RB just))
+        (VBD made)
+        (NP
+          (NP
+            (NP (PRP$ your) (NN apple))
+            (NP (DT a) (NN day)))
+          (ADJP
+            (NP (DT a) (RB bit))
+            (JJ unhealthier)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADVP (RB still))
+        (NP (DT an) (NN apple))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Rocky) (NNP Mountain) (NNP Chocolate) (NN Factory))
+      (VP (VBZ features)
+        (NP
+          (NP (DT a) (JJ wide) (NN assortment))
+          (PP (IN of)
+            (NP
+              (ADJP (JJ delicious))
+              (NN chocolate) (NNS candies))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NNP YES) (NN chocolate))
+      (VP (VBD covered)
+        (NP (NNS apples)
+          (CC and)
+          (NNS strawberries))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Obviously))
+      (VP (VBN invented)
+        (PP (IN by)
+          (NP (DT a) (NN choc-a-holic)))))
+    (, ,)
+    (NP (DT this) (NN place))
+    (VP (VBZ is)
+      (NP
+        (NP (NN heaven))
+        (PP (IN for)
+          (NP
+            (NP (DT a) (NN out))
+            (PP (IN of)
+              (NP (DT the) (JJ ordinary) (JJ sweet) (NN tooth) (NN craving)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (MD would)
+      (VP (VB be)
+        (NP (DT a) (JJ great) (NN place)
+          (S
+            (VP (TO to)
+              (VP (VB pick)
+                (PRT (RP up))
+                (NP
+                  (NP (DT a) (NN outside))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (NN box) (NN gift))
+                      (, ,)
+                      (NP (NN hint) (NN hint) (NNS guys)))))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHNP (WDT What) (NN girl))
+      (S
+        (VP (VBZ does) (RB n't)
+          (VP (VB want)
+            (NP (DT some) (NN chocolate))))))
+    (VP (VBD covered)
+      (NP (NNS strawberries)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (INTJ (UH Hey))
+    (, ,)
+    (NP (PRP I))
+    (VP (VB dig)
+      (NP (DT the) (JJ malt) (NNS balls)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD used)
+        (S
+          (VP (TO to)
+            (VP (VB remember)
+              (S
+                (VP (VBG getting)
+                  (NP (JJ Oreo-covered) (JJ caramel) (NNS apples))))
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (PRP I))
+                  (VP (VBD was)
+                    (NP
+                      (NP (DT a) (NN kid))
+                      (PP (IN from)
+                        (NP (RB here))))))))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBD had) (RB n't)
+        (VP (VBN had)
+          (NP
+            (NP (CD one))
+            (PP (IN in)
+              (NP (NNS years)))))))
+    (, ,)
+    (S
+      (NP (PRP I))
+      (VP (VBD decided)
+        (S
+          (VP (TO to)
+            (VP
+              (VP (VB buy)
+                (NP (CD one))
+                (ADVP (RB again))
+                (PP (IN in)
+                  (NP
+                    (NP (RB probably) (DT a) (NN decade))
+                    (PRN (-LRB- -LRB-)
+                      (NP
+                        (NP (DT this) (NN time))
+                        (SBAR
+                          (S
+                            (NP (PRP I))
+                            (VP (VBD tried)
+                              (SBAR
+                                (S
+                                  (NP
+                                    (NP (CD one))
+                                    (PP (IN with)
+                                      (NP (NN confection))))
+                                  (VP (VBZ sprinkles))))))))
+                      (-RRB- -RRB-)))))
+              (CC and)
+              (VP (VB let)
+                (S
+                  (NP (PRP me))
+                  (VP (VB tell)
+                    (NP (PRP you))))))))))
+    (, ,)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (PP (IN worth)
+          (NP (DT every) (VBG freaking) (NN penny)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP
+          (ADJP ($ $) (CD 6))
+          (NNS bucks))
+        (PP (IN for)
+          (NP (DT a) (JJ caramel) (JJ candied) (NN apple))))
+      (VP (MD may)
+        (VP (VB seem)
+          (ADJP (JJ pricey)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT that))
+      (VP (VBD was)
+        (ADVP (RB probably))
+        (NP
+          (NP (CD one))
+          (PP (IN of)
+            (NP
+              (NP (PRP$ my)
+                (ADJP (RBS most) (JJ enjoyable))
+                (JJ eating) (NNS experiences))
+              (PP (IN in)
+                (NP (DT a)
+                  (ADJP (RB very) (JJ long))
+                  (NN time))))))))
+    (. .)))
+
+(ROOT
+  (S (CC Plus)
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBP 're)
+            (ADVP (RB practically))
+            (NP
+              (NP (DT the) (JJ only) (NN place))
+              (PP (IN around)
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBZ sells)
+                      (NP (JJ caramel) (JJ candied) (NNS apples)))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (PP (IN of)
+      (NP (NN course)))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP have)
+      (NP
+        (NP
+          (NP (DT a) (JJ huge) (NN array))
+          (PP (IN of)
+            (NP
+              (NP (NN chocolate) (NNS items))
+              (PP (IN like)
+                (NP (JJ chocolate-coated) (NNS pretzels)
+                  (CC and)
+                  (NNS fudge))))))
+        (, ,)
+        (CC and)
+        (RB even)
+        (NP
+          (NP (JJ sugar-free) (NN chocolate))
+          (PP (IN for)
+            (NP (NNS diabetics))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD 'd)
+      (VP (VB love)
+        (S
+          (VP (TO to)
+            (VP (VB try)
+              (NP (PRP it))
+              (ADVP (DT all))
+              (SBAR (IN if)
+                (S
+                  (NP
+                    (NP (JJ only) (NN everything))
+                    (PP (IN in)
+                      (NP (NN sight))))
+                  (VP (VBD was) (RB n't)
+                    (ADJP (RB so) (JJ calorie-laden))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB also))
+    (VP (VBP have)
+      (NP
+        (NP (DT a) (JJ big)
+          (ADJP (JJ cute) (JJ stuffed))
+          (NN bear))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ sits)
+              (PP (IN at)
+                (NP
+                  (NP (DT the) (NN storefront))
+                  (VP (VBG wearing)
+                    (NP (DT an) (NN apron))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (ADVP (RB seriously))
+    (PRN (, ,)
+      (S
+        (NP (PRP you))
+        (VP (VBP have)
+          (S
+            (VP (TO to)
+              (VP (VB come)
+                (ADVP (RB here))
+                (PP (IN for)
+                  (NP (DT the) (JJ caramel) (JJ candied) (NNS apples)))))))))
+    (NP (PRP they))
+    (VP (VBP 're)
+      (ADVP (RB mind-blowingly))
+      (ADJP (JJ delicious)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP
+      (NP (DT Some) (NNS varieties))
+      (PP (IN of)
+        (NP (PRP$ their) (JJ caramel) (JJ candied) (NNS apples))))
+    (: :)
+    (NP
+      (NP (NNP Oreo))
+      (, ,)
+      (NP (NNP sprinkles))
+      (, ,)
+      (NP (NNP M&M) (NNP 's))
+      (, ,)
+      (NP (NNP Butterfinger))
+      (, ,)
+      (NP (JJ rocky) (NN road))
+      (, ,)
+      (NP (NN apple) (NN pie))
+      (, ,)
+      (NP (NN cheesecake))
+      (, ,)
+      (NP (JJ English) (NN toffee))
+      (, ,)
+      (NP (JJ peanut-covered))
+      (, ,)
+      (NP (JJ pecan-covered))
+      (, ,)
+      (NP (NN neapolitan)))))
+
+
+(ROOT
+  (NP (NNP Somuchchocolategoodness) (NNP !!!)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Fudge) (NNS bites))
+      (CC &)
+      (NP (NN candy) (NNS apples)))
+    (VP (VBZ oh)
+      (NP (PRP$ my)))
+    (. !)))
+
+(ROOT
+  (NP
+    (NP (NN Love))
+    (NP (DT this) (NN place))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (MD ca) (RB n't)
+        (VP (VB believe)
+          (NP (PDT all) (DT the) (JJ different) (NN candy) (NNS apples)))))
+    (NP (PRP they))
+    (VP (VBP have))
+    (. .)))
+
+

@@ -1,0 +1,237 @@
+(ROOT
+  (FRAG
+    (NP (NNP Jeff))
+    (: :)
+    (S
+      (NP (DT This))
+      (VP (VBZ is)
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (NP (PRP we))
+            (VP (VBP take)
+              (NP (DT the) (NN van))
+              (PP (IN before)
+                (NP (DT every) (NN tour))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Tom))
+    (ADVP (RB personally))
+    (VP (VBZ inspects)
+      (CC and)
+      (VBZ does)
+      (NP (PDT all) (DT the) (NNS repairs)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VP (VBZ is)
+        (ADJP (JJ honest)))
+      (, ,)
+      (VP (VBZ gives)
+        (NP (DT a) (JJ fair) (NN price)))
+      (CC and)
+      (VP (VBZ is)
+        (NP (DT an)
+          (ADJP
+            (NP (DT all) (RB around))
+            (JJ nice))
+          (NN guy))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Tom))
+    (ADVP (RB always))
+    (VP (VBZ remembers)
+      (NP
+        (NP (PRP you))
+        (CC and)
+        (NP
+          (NP (PRP$ your) (NN vehicle) (NN history))
+          (CC and)
+          (NP (DT that) (NNS rules)))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Chris))
+    (: :)
+    (S
+      (NP (PRP I))
+      (VP (VB take)
+        (NP (PRP$ my) (NN car))
+        (ADVP (RB here))
+        (SBAR
+          (WHADVP (WRB whenever))
+          (S
+            (NP (PRP I))
+            (VP (VBP need)
+              (ADJP (NN anything) (VBN done)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VP (VBZ 's)
+        (ADJP (RB very) (JJ honest)))
+      (CC and)
+      (VP (VBZ tells)
+        (NP (PRP you))
+        (NP
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (VP (VBZ needs)
+                (S
+                  (VP (TO to)
+                    (VP (VB be)
+                      (VP (VBN done))))))))
+          (CC or)
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (VP (MD can)
+                (VP (VB wait))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Looking)
+        (PP (IN for)
+          (NP (DT a) (NN guy)))))
+    (NP (PRP you))
+    (VP (MD can)
+      (VP (VB trust)))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (NNP Tom))
+    (VP (VBZ 's)
+      (NP (PRP$ your) (NN man)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN As)
+      (NP (DT a) (NN bonus)))
+    (NP (PRP he))
+    (VP (VBZ has)
+      (NP (DT a) (NN killer) (NN stash)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Ryan))
+    (: :)
+    (S
+      (NP (PRP I))
+      (VP (VBP 've)
+        (ADVP (RB never))
+        (VP (VBN been)
+          (NP (RB there))
+          (SBAR (CC but)
+            (S
+              (NP (PRP I))
+              (VP (VBP 've)
+                (VP (VBN heard)
+                  (NP (JJ good) (NNS things)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP do) (RB n't)
+        (VP (VB have)
+          (NP (DT a) (NN car)))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP do) (RB n't)
+        (VP (VB live)
+          (PP (IN in)
+            (NP (NNP Arizona))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VBN Been)
+      (VP (VBG having)
+        (S
+          (NP (NNP Tom))
+          (VP (VB service)
+            (NP (PRP$ our) (NNS cars))
+            (PP (IN for)
+              (NP
+                (NP (NNS years))
+                (ADVP (RB now))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VP (VBZ provides)
+        (NP (JJ excellent) (NN service)))
+      (, ,)
+      (VP (VBZ is)
+        (ADJP (RB completely) (JJ honest)))
+      (, ,)
+      (CC and)
+      (VP (VBZ has)
+        (NP (DT a) (JJ fair) (NN price))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD went)
+      (NP (NN way))
+      (PP (IN above)
+        (S
+          (NP
+            (NP (DT the) (NN call))
+            (PP (IN of)
+              (NP (NN duty))))
+          (ADVP (RB once))
+          (VP (VBG helping)
+            (NP (PRP us))
+            (PP (IN with)
+              (NP
+                (NP (DT a) (NN dispute))
+                (SBAR
+                  (WHADVP (WRB when))
+                  (S
+                    (NP (PRP we))
+                    (ADVP (RB mistakenly))
+                    (VP (VBD took)
+                      (NP
+                        (NP (DT a) (NN car))
+                        (, ,)
+                        (ADJP (JJ due)
+                          (PP (TO to)
+                            (NP (NN convenience))))
+                        (, ,))
+                      (PP (TO to)
+                        (NP (DT another) (NN shop))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (MD Can) (RB not)
+      (VP (VB recommend)
+        (S
+          (NP (NNP Tom))
+          (ADJP (RB highly) (JJ enough)))))
+    (. .)))
+
+

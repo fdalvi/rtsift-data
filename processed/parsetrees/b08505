@@ -1,0 +1,146 @@
+(ROOT
+  (NP
+    (NP (NNP Less))
+    (PP (IN than)
+      (NP (CD one) (NN mile)))
+    (PP (IN from)
+      (NP (PRP$ my) (NN house)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP like)
+      (NP
+        (NP (JJ papa) (NN john) (POS 's))
+        (JJ thin) (NN pizza)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP (JJ crispy)
+        (CC and)
+        (JJ fresh)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (SBAR (IN While)
+      (S
+        (NP (PRP I))
+        (VP (VBP do) (RB n't)
+          (ADVP (RB generally))
+          (VP (VB order)
+            (PRT (RP out))
+            (PP (IN for)
+              (NP
+                (NP (NN pizza))
+                (, ,)
+                (SBAR
+                  (WHADVP (WRB when))
+                  (S
+                    (NP (PRP I))
+                    (VP (VBP do))))))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (ADVP (RB usually))
+      (ADJP (RB very) (VBN satisfied)
+        (PP (IN with)
+          (NP (NNP Papa) (NNP John) (POS 's)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ Their) (JJ online) (NN ordering))
+    (VP
+      (VP (VBZ is)
+        (ADJP (JJ great)))
+      (, ,)
+      (CC and)
+      (VP
+        (ADVP (RB always))
+        (VBD winds)
+        (PRT (RP up))
+        (PP (IN with)
+          (NP (DT a) (JJ correct) (NN order)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP deliver)
+        (PP (IN within)
+          (NP (CD 30-40) (NNS minutes)))))
+    (, ,)
+    (CC and)
+    (S
+      (SBAR (IN since)
+        (S
+          (NP (PRP they))
+          (VP (VBP are)
+            (ADJP (JJ close)
+              (PP (TO to)
+                (NP (PRP$ my) (NN house)))))))
+      (, ,)
+      (NP (DT the) (NN pizza))
+      (VP (VBZ is)
+        (ADVP (RB always))
+        (ADJP (JJ hot))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VP (VB take)
+        (NP (NNS orders))
+        (ADVP (RB accurately)))
+      (CC and)
+      (VP (VB deliver)
+        (PP (IN in)
+          (NP (DT a) (JJ timely) (NN fashion)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP (DT a) (JJ great) (NN location))
+      (ADVP
+        (ADVP (RB as) (RB far))
+        (SBAR (IN as)
+          (S
+            (NP (NNP Papa) (NNP John))
+            (VP (VBZ 's)
+              (ADJP (VB go)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNS Orders))
+      (VP (VBP are)
+        (ADVP (RB always))
+        (ADJP (JJ perfect))))
+    (CC and)
+    (S
+      (NP (NN pizza))
+      (VP (VBZ is) (RB n't)
+        (VP (VBN undercooked)
+          (PP (IN like)
+            (NP (DT some) (NNS locations))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (X (SYM Friendly))
+    (NP (NN staff) (RB too))))
+
+

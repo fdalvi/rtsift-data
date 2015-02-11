@@ -1,0 +1,114 @@
+(ROOT
+  (FRAG
+    (FRAG
+      (ADVP (RB Just))
+      (SBAR (IN as)
+        (S
+          (NP (DT the) (JJ previous) (NNS reviews))
+          (VP
+            (VP (VB go))
+            (, ,)
+            (NP
+              (ADJP (RB very) (JJ friendly))
+              (NN staff))))))
+    (CC and)
+    (FRAG
+      (ADJP (JJ willing))
+      (S
+        (VP (TO to)
+          (VP (VB work)
+            (PP (IN with)
+              (NP (PRP$ our) (NN schedule))))))
+      (. .))))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Dr.) (NNP Weisner))
+      (VP (VBZ is)
+        (NP (PRP$ my) (NN chiropractor))))
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP (VBZ has)
+        (VP (VBN worked)
+          (NP
+            (NP (NNS wonders))
+            (PP (IN on)
+              (NP (PRP$ my) (NN back))))
+          (PP (IN since)
+            (NP (PRP$ my) (JJ first) (NN visit))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Tammy)
+      (CC and)
+      (NNP Waleen))
+    (VP (VBP are)
+      (NP
+        (NP
+          (ADJP (RB very) (JJ nice))
+          (NNS ladies))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBP go)
+              (NP
+                (NP (DT the) (JJ extra) (NN mile))
+                (PP (IN for)
+                  (NP (DT the) (NN patient)))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP (RB So) (JJ lucky))
+    (S
+      (VP (TO to)
+        (VP (VB have)
+          (VP (VBN found)
+            (NP (DT this) (NN office))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (ADVP (RB always))
+      (VBP talk)
+      (NP (DT this) (NN office))
+      (ADVP (RB up)
+        (PP (TO to)
+          (NP (PRP$ my) (NNS friends)))))))
+
+
+(ROOT
+  (NP
+    (NP (CD One))
+    (PP (IN of)
+      (NP
+        (NP
+          (NP (DT the) (JJS best) (NNS Chiropractors))
+          (PP (IN in)
+            (NP (NNP Las) (NNP Vegas))))
+        (, ,)
+        (CONJP (RB Not) (JJ only))
+        (NP
+          (NP (DT the) (JJS best) (NN chiro))
+          (PP (CC but)
+            (NP (DT the) (JJS best) (NN boss))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Miss))
+    (NP (PRP you))
+    (NP (NNP Dr.))))
+
+(ROOT
+  (NP
+    (NP (NNP Sincerely))
+    (, ,)
+    (NP (NNP Norma))))
+
+

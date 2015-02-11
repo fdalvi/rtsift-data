@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (VP (VB Went)
+      (NP (RB here) (JJ last) (NN year))
+      (PP (IN on)
+        (NP
+          (NP (DT a) (NN road) (NN trip))
+          (PP (TO to)
+            (NP
+              (NP (NNP Phoenix))
+              (PP (IN for)
+                (NP
+                  (NP (DT a) (NN game))
+                  (PP (IN at)
+                    (NP (NNP Chase) (NN field))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBD was)
+      (ADJP (JJ awesome)
+        (PP (IN for)
+          (NP (DT a) (NNP McDonalds/BK) (NN alternative)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Great))
+      (VP
+        (VP (VBZ shakes))
+        (CC and)
+        (VP (VBZ fries))))
+    (, ,)
+    (NP (NNS burgers))
+    (VP (VBD were) (RB n't)
+      (ADJP (RB too) (JJ shabby) (RB either)))
+    (. .)))
+
+

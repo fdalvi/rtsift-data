@@ -1,0 +1,278 @@
+(ROOT
+  (S
+    (S
+      (PP (IN After)
+        (NP
+          (NP (NN shopping))
+          (PP (IN at)
+            (NP
+              (NP (DT this) (NN store))
+              (PP (IN for)
+                (NP
+                  (QP (IN over) (CD 8))
+                  (NNS years)))))))
+      (, ,)
+      (NP (PRP I))
+      (VP (VBP have)
+        (VP (VBN overlooked)
+          (NP (JJ many) (NNS things))
+          (PP (IN like)
+            (NP
+              (NP (JJ dirty) (NNS bathrooms))
+              (CC and)
+              (NP (JJ non-functioning) (NN glass))))
+          (S
+            (VP (VBG sliding)
+              (NP (NNS doors)))))))
+    (: ...)
+    (CC But)
+    (S
+      (NP (PRP I))
+      (VP (VBD had)
+        (ADVP (RB always))
+        (VP
+          (VP (VBN thought)
+            (PP (IN of)
+              (NP (PRP it)))
+            (PP (IN as)
+              (NP
+                (NP (DT the) (JJ local) (NN grocery) (NN store))
+                (PP (IN of)
+                  (NP (NN choice))))))
+          (PRN (-LRB- -LRB-)
+            (S
+              (NP (EX there))
+              (VP (VBP are)
+                (NP
+                  (NP (CD two) (JJ other) (NNS options))
+                  (VP (VBN equidistant)
+                    (PP (IN from)
+                      (NP (PRP$ my) (NN home)))
+                    (PP (IN in)
+                      (NP (NNP Carefree) (, ,) (NNP AZ.)))
+                    (. .)))))
+            (. .) (-RRB- -RRB-)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP UNTIL) (NNP TODAY))
+    (: -)
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (ADJP (JJ berated)
+          (CC and)
+          (JJ embarrassed))
+        (PP (IN by)
+          (NP
+            (NP (DT a) (NN cashier))
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBD yelled)
+                  (PP (IN at)
+                    (NP (PRP me)))
+                  (SBAR
+                    (SBAR (IN that)
+                      (S
+                        (NP (PRP I))
+                        (VP (VBD was)
+                          (VP (VBG breaking)
+                            (NP (DT the) (NN law))
+                            (PP (IN by)
+                              (S
+                                (VP (VBG having)
+                                  (NP
+                                    (NP (DT a) (NN dog))
+                                    (PP (IN in)
+                                      (NP (DT the) (NN store)))))))))))
+                    (CC and)
+                    (SBAR
+                      (WHNP (WP who))
+                      (S
+                        (VP (VBD refused)
+                          (S
+                            (VP (TO to)
+                              (VP (VB load)
+                                (NP (DT the) (NN cart))
+                                (SBAR (IN because)
+                                  (S
+                                    (NP (DT the) (CD 8) (NN pound) (NN shih) (NN tzu))
+                                    (VP (VBD was)
+                                      (ADVP (RB apparently))
+                                      (ADJP (RB too) (JJ ferocious)))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADJP (JJ Needless)
+        (S
+          (VP (TO to)
+            (VP (VB say))))))
+    (, ,)
+    (NP (PRP I))
+    (VP
+      (VP (VBD left)
+        (NP (PRP$ my) (NNS groceries)))
+      (CC and)
+      (VP (VBP have)
+        (NP
+          (NP (DT NO) (NNS intentions))
+          (PP (IN of)
+            (S
+              (VP (VBG returning)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP (PRP I))
+        (VP (VBP am) (RB all)
+          (PP (IN for)
+            (NP
+              (NP (DT a) (JJ gentle) (NN reminder))
+              (PP (IN of)
+                (NP (NN food)
+                  (CC and)
+                  (NN safety) (NNS rules)))))))
+      (, ,)
+      (CC but)
+      (S
+        (NP (PRP I))
+        (VP (VBP think)
+          (SBAR
+            (S
+              (NP (DT the) (NN cashier))
+              (VP (VBD was)
+                (NP (NNP OVER) (NNP THE) (NNP TOP))))))))
+    (: ...)
+    (S
+      (NP (NNP Safeway)
+        (CC and)
+        (NNP Basha))
+      (VP (VBZ 's)
+        (ADVP (RB here))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP come))))))
+    (. ...)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD took)
+      (NP (DT a) (JJ quick) (NN stop))
+      (ADVP (RB here))
+      (PP (IN for)
+        (NP (DT a) (JJ few) (NNS groceries))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD stopped)
+        (PP (IN at)
+          (NP (DT the) (NNPS Starbucks)))
+        (PP (IN at)
+          (NP
+            (NP (DT the) (NN front))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NN store))
+                (PP (IN for)
+                  (NP (DT an) (JJ iced) (NN coffee)))))))))
+    (RB then)
+    (S
+      (NP (PRP I))
+      (VP (VBD got)
+        (NP (PRP$ my) (NNS groceries))
+        (PP (IN from)
+          (NP (DT the) (NN produce) (NN aisle)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB Not) (DT a) (NN lot))
+      (PP (IN of)
+        (NP (JJ organic))))
+    (VP (VBP produce)
+      (ADVP (RB unfortunately)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN selection))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (JJ good) (JJ other))
+        (PP (IN than)
+          (NP (DT that)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NN checker))
+    (VP (VBD was)
+      (ADJP (RB extremely) (JJ friendly)
+        (CC and)
+        (JJ nice)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD thought)
+      (SBAR
+        (S
+          (NP (DT this))
+          (VP (VBD was)
+            (NP (DT a) (JJ nice) (NN store))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Prices))
+      (PP (IN for)
+        (NP (NN food)
+          (CC and)
+          (NN everything))))
+    (ADVP (RB else))
+    (VP (VBP are)
+      (ADJP
+        (NP (DT a) (RB bit))
+        (RB too) (JJ pricey))
+      (PP (VBN compared)
+        (PP (TO to)
+          (NP
+            (NP (NNP Safeway))
+            (CC and)
+            (NP
+              (NP (NNP Frys) (POS 's))
+              (NNS prices))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Employees))
+    (VP (MD can)
+      (VP (VB be)
+        (ADJP (JJ rude))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Bathrooms))
+    (VP (VBP are) (RB n't)
+      (ADJP (RB ever) (JJ clean)))
+    (. .)))
+
+

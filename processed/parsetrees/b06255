@@ -1,0 +1,113 @@
+(ROOT
+  (S
+    (PP (IN Best)
+      (NP (NN coffee)))
+    (, ,)
+    (NP (PRP they))
+    (ADVP (RB always))
+    (VP (VBP have)
+      (NP
+        (NP (JJ special) (NNS flavors))
+        (PP (IN for)
+          (NP (DT each) (NN season)))))
+    (. !)))
+
+(ROOT
+  (S
+    (ADVP (RB Right) (RB now))
+    (NP (NNP Pumpkin) (NNP Spice)
+      (CC &)
+      (NNP Cinnamon) (NNP Cookie))
+    (VP (VBP are)
+      (NP (PRP$ my) (NNS favs)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (JJ Clean) (NN store))
+    (, ,)
+    (VP (MD ca) (RB n't)
+      (VP (VB beat)
+        (NP (DT that))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (ADJP (RBS Most) (JJ convenient))
+      (NNS stores))
+    (VP (VBP are) (RB not))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN staff))
+    (VP (VBZ is)
+      (ADJP (JJ friendly)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBP have)
+        (VP (VBN been)
+          (VP (VBG coming)
+            (ADVP (RB here))
+            (PP (IN for)
+              (NP (IN over) (CD 2) (NNS years))))))
+      (CC and)
+      (VP (VBP love)
+        (SBAR (IN that)
+          (S
+            (NP (PDT all) (DT the) (NNS employees))
+            (VP (VBP know)
+              (NP (PRP me))
+              (PP (IN by)
+                (NP (RB now))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Great))
+    (VP (VBP store)
+      (NP (JJ good) (NNS employees)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (RB Even)
+      (WHADVP (WRB when))
+      (S
+        (NP (EX there))
+        (VP (VBZ is)
+          (NP (DT a) (NN line)))))
+    (NP (PRP it))
+    (ADVP (RB still))
+    (VP (VBZ goes)
+      (PP (IN by)
+        (ADVP (RB fast))))
+    (. .)))
+
+(ROOT
+  (S (RB Not)
+    (PP (IN like)
+      (NP (JJ other) (CD 7-11)))
+    (NP (DT that))
+    (VP (VBP have)
+      (NP
+        (NP (DT a) (NN line) (NN inside)
+          (CC and)
+          (NN one) (NN employee))
+        (SBAR
+          (S
+            (VP (VBZ is)
+              (NP (JJ outside) (NN smoking)))))))
+    (. .)))
+
+(ROOT
+  (NP (JJ Great) (NN place)))
+
+

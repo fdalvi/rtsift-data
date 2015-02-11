@@ -1,0 +1,126 @@
+(ROOT
+  (S
+    (NP (NNP Staff))
+    (VP (VBP know)
+      (NP
+        (NP (PRP$ their) (NN stuff))
+        (, ,)
+        (RRC
+          (NP
+            (NP (JJ excellent) (NN coffee)
+              (CC and)
+              (NN food))
+            (ADVP
+              (NP (RB just) (CD one) (NN door))
+              (RB down)))
+          (, ,)
+          (ADVP (RB family-friendly)))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Foosball))
+    (, ,)
+    (NP
+      (NP (NNS couches))
+      (, ,)
+      (NP (NNS toys))
+      (, ,)
+      (NP (NNS choices))
+      (, ,)
+      (NP (NNS choices))
+      (, ,)
+      (NP (NNS choices)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP love)
+      (NP (NNP Bongo)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Staff))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (RB very) (JJ knowledgeable))
+        (CC and)
+        (ADJP (RB always) (JJ helpful))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Movies))
+    (VP (VBP are)
+      (ADJP (JJ cheap))
+      (, ,)
+      (SBAR (RB especially) (IN if)
+        (S
+          (NP (PRP you))
+          (VP (VBP go)
+            (PP (IN with)
+              (NP
+                (NP (DT the) (JJ bongo) (NN bundle))
+                (CC or)
+                (NP
+                  (NP (DT the) (VBN prepaid) (NN card))
+                  (PRN (-LRB- -LRB-)
+                    (S
+                      (S
+                        (NP (PRP I))
+                        (VP (VBP forget)
+                          (NP (DT the) (NNS details))))
+                      (, ,)
+                      (CC but)
+                      (S
+                        (NP (PRP I))
+                        (VP (VBP think)
+                          (SBAR
+                            (S
+                              (NP (PRP it))
+                              (VP (VBZ 's)
+                                (NP
+                                  (NP (NN something))
+                                  (PP (IN like)
+                                    (NP
+                                      (NP (CD 10) (NNS movies))
+                                      (PP (IN for)
+                                        (NP ($ $) (CD 24)
+                                          (QP (CC or)
+                                            (RB so)))))))))))))
+                    (-RRB- -RRB-)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP prefer)
+      (NP (NNP Bongo))
+      (PP (TO to)
+        (NP (NNP Netflix)))
+      (SBAR (IN because)
+        (S
+          (NP (PRP I))
+          (VP (VBP feel)
+            (S
+              (NP (PRP I))
+              (VP (VB end)
+                (PRT (RP up))
+                (S
+                  (VP (VBG getting)
+                    (NP (NNS movies))
+                    (SBAR (IN that)
+                      (S
+                        (NP (PRP I))
+                        (VP (VBP 'm)
+                          (PP (IN in)
+                            (NP (DT the) (NN mood)
+                              (S
+                                (VP (TO to)
+                                  (VP (VB watch)))))))))))))))))
+    (. .)))
+
+

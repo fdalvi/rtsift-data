@@ -1,0 +1,302 @@
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBZ has)
+      (NP
+        (NP
+          (NP (NNS twoareas))
+          (PP (TO to)
+            (NP (PRP it))))
+        (, ,)
+        (NP
+          (NP (DT the) (NN bar/restaurant))
+          (PP (CC plus)
+            (NP (JJ outdoor) (NN seating))))
+        (CC and)
+        (NP (DT the) (NN dance) (NN club))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN dance) (NN club))
+      (VP (VBZ is) (RB all)
+        (ADJP (JJ right))))
+    (, ,)
+    (NP (NNS booths))
+    (VP (VBP line)
+      (NP (DT the) (NNS walls))
+      (PP (IN around)
+        (NP (DT a) (JJ small) (NN dance) (NN floor))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN bar/restaurant))
+    (VP (MD can)
+      (VP (VB get)
+        (ADJP (VBN packed))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN food))
+      (VP (VBZ is)
+        (ADJP
+          (ADJP (JJR better))
+          (PP (IN than)
+            (NP (NN average))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (NNS drinks))
+      (VP (VBP are)
+        (ADJP (JJ good))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP
+      (NP (JJ Good) (NN mix))
+      (PP (IN of)
+        (NP
+          (NP (NNS people))
+          (ADVP (RB there))
+          (PP (IN on)
+            (NP (NNS dates)))
+          (, ,)
+          (CC and)
+          (NP (NNS others)))))
+    (VP (VBG looking)
+      (S
+        (VP (TO to)
+          (VP (VB hook)
+            (PRT (RP up))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBZ is)
+      (VP (VBN situated)
+        (ADVP (RB perfectly))
+        (PP (IN near)
+          (NP
+            (NP (DT the) (NNP Scottsdale) (NNP Airpark))
+            (CC and)
+            (NP (PDT all) (DT the) (NN fun) (NN stuff))))
+        (PP (IN by)
+          (NP (NNP Kierland) (NNPS Commons)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ maintains)
+      (NP (DT an) (JJ upscale) (NNP Scottsdale) (NN feeling))
+      (PP (IN without)
+        (S
+          (ADVP (RB ever))
+          (VP (VBG feeling)
+            (ADJP (JJ stuffy))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN food))
+      (VP (VBZ is)
+        (ADJP (RB pretty) (RB darn) (JJ good))
+        (: -)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBD worked)
+              (ADJP (JJ great)
+                (PP (IN for)
+                  (NP (PRP me))))
+              (SBAR (IN as)
+                (S
+                  (NP (PRP I))
+                  (VP (VBD used)
+                    (S
+                      (VP (TO to)
+                        (VP (VB work)
+                          (PP (IN in)
+                            (NP (DT the) (NN area))))))))))))))
+    (CC and)
+    (S
+      (NP (PRP we))
+      (VP (MD 'd)
+        (ADVP (RB often))
+        (VP (VB take)
+          (PRT (RP over))
+          (NP
+            (NP (DT a) (NN section))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NN place))
+                (PP (IN on)
+                  (NP (DT a) (JJ semi-regular) (NN basis)))))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP they))
+    (ADVP (RB never))
+    (VP (VBD complained)
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP we))
+          (VP (VBD did))
+          (: -)
+          (SBAR (IN though)
+            (S
+              (NP (PRP it))
+              (VP (MD could)
+                (VP (VB be)
+                  (SBAR (IN because)
+                    (S
+                      (NP (PRP they))
+                      (VP (VBD knew)
+                        (SBAR
+                          (S
+                            (NP (PRP we))
+                            (VP (VBD were)
+                              (NP (JJ good) (NNS tippers)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Upscale))
+      (ADJP (JJ enough)
+        (S
+          (VP (TO to)
+            (VP (VB go)
+              (PP (IN in)
+                (NP (NN work) (NNS clothes)))
+              (PP (IN with)
+                (NP (NN work) (NNS folks))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (JJ casual))
+      (VP (VBP enugh)
+        (S
+          (VP (TO to)
+            (VP (VB go)
+              (PP (IN in)
+                (NP
+                  (NP (NNS shorts))
+                  (PP (IN on)
+                    (NP (DT the) (NN weekend))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ has)
+      (VP (VBN gone)
+        (PRT (RP down))
+        (NP
+          (NP (NN hill))
+          (PP (IN over)
+            (NP (DT the) (NNS years))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP :-LRB-))
+      (VP (VBN Used)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (NP
+                (NP (DT the) (JJ only) (NN thing))
+                (PP (IN in)
+                  (NP (NNP North) (NNP Scottsdale)))))))))
+    (CC and)
+    (S
+      (ADVP (RB now))
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADVP (RB out))
+        (VP (VBN shadowed)
+          (PP (IN by)
+            (NP
+              (NP (NNP Fox) (NNPS Sports) (NNP Grill))
+              (CC and)
+              (NP (PDT all) (DT the) (JJ other) (JJ great) (NN stuff))))
+          (PP (IN at)
+            (NP
+              (NP (NNP Kierland))
+              (CC and)
+              (NP (DT the) (NN Promenade)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Food))
+      (VP (VBD used)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (ADJP (JJ great)))))))
+    (, ,)
+    (ADVP (RB now))
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (NP (PRP I))
+            (VP (MD would)
+              (VP (VB call)
+                (ADJP (JJ okay))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Service))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP
+          (NP (DT a) (RB lot))
+          (RBR less) (JJ friendly))
+        (SBAR (IN that)
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (NP (PRP it))
+              (VP (VBD used)
+                (S
+                  (VP (TO to)
+                    (VP (VB be))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP
+        (NP (NN pool))
+        (, ,)
+        (NP (JJ golden) (NN tee))
+        (, ,)
+        (NP (NN shuffle) (NN board))
+        (, ,)
+        (CC and)
+        (NP
+          (NP (NNS TVs))
+          (ADVP (RB everywhere)))))
+    (. .)))
+
+

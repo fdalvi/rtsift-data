@@ -1,0 +1,105 @@
+(ROOT
+  (S
+    (NP (NNP Dr.) (NNP Vo))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (JJ great))
+        (: --)
+        (ADJP (RB very) (JJ friendly))
+        (CC and)
+        (ADJP (JJ knowledgeable))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ His) (NN assistant))
+    (VP (VBP are)
+      (ADVP (RB also))
+      (ADJP (JJ great)))
+    (. .)))
+
+
+(ROOT
+  (NP (NNP Dr.) (NNP Vo) (. .)))
+
+(ROOT
+  (S (CC and)
+    (NP (PRP$ his) (NN staff))
+    (VP (VBP are)
+      (ADJP (JJ wonderful)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP are)
+      (ADJP
+        (ADJP
+          (ADJP (JJ gentle))
+          (, ,)
+          (ADJP (JJ honest))
+          (CC and)
+          (ADJP (RB truly) (JJ care)))
+        (PP (IN about)
+          (NP (PRP$ their) (NNS patients)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB highly))
+    (VP (VBP recommend)
+      (NP (NNP Saguara) (NNP Dental)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Dr.) (NNP Vo))
+      (VP (VBZ is)
+        (ADJP (JJ awesome))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBZ is)
+      (NP
+        (NP (NNS hands))
+        (ADVP (RB down)
+          (NP (CD one)))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (JJS best) (NNS dentists))
+            (SBAR
+              (S
+                (NP (PRP I))
+                (VP (VBP 've)
+                  (ADVP (RB ever))
+                  (VP (VBN been)
+                    (PP (TO to))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT All))
+      (PP (IN of)
+        (NP (PRP$ his) (NNS assistants))))
+    (VP (VBP are)
+      (ADJP (RB super) (JJ nice))
+      (ADVP (RB as) (RB well)))
+    (. .)))
+
+(ROOT
+  (SBAR (IN If)
+    (S
+      (NP (PRP you))
+      (VP (VBP need)
+        (SBAR
+          (S
+            (NP (DT a) (JJ great) (NN dentist))
+            (ADVP (RB definitely))
+            (VP (VBP give)
+              (NP (PRP him))
+              (NP (DT a) (NN call) (NN :--RRB-)))))))))
+
+

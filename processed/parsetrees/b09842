@@ -1,0 +1,85 @@
+(ROOT
+  (S
+    (NP (DT The) (NNS prices))
+    (VP (VBP are)
+      (VP (VBG fabulous)
+        (PRN (, ,)
+          (S
+            (S
+              (NP (DT the) (NN help))
+              (VP (VBZ is)
+                (ADVP (RB always))
+                (NP
+                  (NP (RB there))
+                  (PP (IN for)
+                    (NP (PRP you))))))
+            (, ,)
+            (S
+              (NP (DT the) (NNS cloths))
+              (VP (VBP are)
+                (ADJP (JJ clean)
+                  (CC and)
+                  (JJ fresh))))
+            (, ,))
+          (, ,))
+        (NP
+          (NP (DT the) (NN store))
+          (SBAR
+            (S
+              (VP (VBZ is)
+                (ADJP
+                  (ADJP (JJ big))
+                  (CC and)
+                  (ADJP (RB always) (JJ clean)))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (DT The) (JJS best) (NN store))
+    (ADVP (RB ever))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (DT Some) (NN fun)
+          (CC and)
+          (NN cute) (NNS things))
+        (ADVP (RB here))
+        (S
+          (VP (TO to)
+            (VP (VB go)
+              (PP (IN through)
+                (NP
+                  (NP
+                    (NP (DT all) (NNS kinds))
+                    (PP (IN of)
+                      (NP (JJ little) (NNS knickknacks))))
+                  (CC and)
+                  (NP
+                    (NP (JJ strange) (NNS items))
+                    (ADJP (RB quite) (JJ interesting)))))))))
+      (CC and)
+      (NP
+        (NP (DT some) (JJ hard-to-find) (NNS places))
+        (RB maybe)
+        (SBAR
+          (S
+            (NP (PRP you))
+            (VP (MD might)
+              (VP (VB want)
+                (S
+                  (VP (TO to)
+                    (VP (VB come))))))))))
+    (VP (VBP take)
+      (NP (DT a) (NN look))
+      (SBAR (IN if)
+        (S
+          (NP (PRP you))
+          (VP (VBP are)
+            (NP (DT a) (NNP treasure) (NNP Hunter))))))
+    (. .)))
+
+

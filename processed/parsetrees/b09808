@@ -1,0 +1,137 @@
+(ROOT
+  (S
+    (NP (DT The) (NN food))
+    (VP (VBD was)
+      (ADJP (JJ warm))
+      (PP (RB not)
+        (ADJP (JJ hot))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN service))
+    (VP (VBD was)
+      (ADJP (JJ fast)
+        (CC and)
+        (JJ friendly)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN place))
+    (VP (VBD was)
+      (ADJP (RB very) (JJ clean)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP need)
+        (S
+          (VP (TO to)
+            (VP (VB put)
+              (NP (DT some) (NNS woods))
+              (PP (IN in)
+                (NP (PRP$ their) (NN fire))))))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (MD will)
+        (VP (VB be)
+          (ADJP (JJR better)))))
+    (. .)))
+
+
+(ROOT
+  (SINV
+    (VP (VBN Been)
+      (PP (TO to)
+        (NP (DT this) (NN location)
+          (QP (JJ many) (NNS times))))
+      (ADVP (RB never)))
+    (VP (VBD had)
+      (NP (DT a) (NN problem)))
+    (NP
+      (NP (JJ great) (NN food))
+      (NP (JJ great) (NN staff)))
+    (. .)))
+
+
+(ROOT
+  (SINV (VBD Had)
+    (NP (DT a) (NN Panda))
+    (VP (VBP bowl)
+      (PP (IN with)
+        (NP
+          (NP (NN chow) (NN mein)
+            (CC and)
+            (NN broccoli) (NN beef))
+          (, ,)
+          (NP
+            (NP (JJ pretty) (NN standard))
+            (PP (IN for)
+              (NP (NNP Panda) (NNP Express) (. .)))))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB Only) (NN problem))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBD had)
+            (VP (VBD was)
+              (PP (IN with)
+                (NP (DT the) (NN broccoli)))
+              (PP (RB not)
+                (S
+                  (VP (VBG being)
+                    (VP (VBN cooked)
+                      (UCP
+                        (ADJP (RB enough)
+                          (SBAR
+                            (S
+                              (NP (PRP it))
+                              (VP (VBD looked)))))
+                        (CC and)
+                        (VP (VBN tasted)
+                          (PP (IN like)
+                            (NP (PRP they))))))))))))))
+    (VP (VBD threw)
+      (NP (PRP it))
+      (PP (IN in)
+        (NP (JJ last) (NN minute))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Overall) (NN restaurant))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (JJ clean))
+        (, ,)
+        (ADJP (JJ fast)))
+      (, ,)
+      (PP (IN with)
+        (NP
+          (NP
+            (ADJP (RB very) (JJ friendly))
+            (NN staff))
+          (CC and)
+          (NP
+            (NP (JJ good) (NNS portions))
+            (SBAR
+              (S
+                (NP (PRP he))
+                (VP (MD could)
+                  (ADVP (RB barely))
+                  (VP (VB put)
+                    (NP (DT the) (NN lid))
+                    (PRT (RP on))))))))))
+    (. .)))
+
+(ROOT
+  (NP (NNP :) (NNP -RRB-)))
+
+

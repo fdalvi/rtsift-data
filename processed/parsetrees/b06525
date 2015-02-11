@@ -1,0 +1,160 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Nice) (JJ small) (NN town) (NN bar))
+      (, ,)
+      (NP (JJ great) (NNS people))
+      (, ,)
+      (NP
+        (ADJP (RB really) (JJ good))
+        (NNS burgers))
+      (CC and)
+      (NP
+        (NP (NN food))
+        (, ,)
+        (NP (JJ excellent) (NN fish) (NN fry))))
+    (VP (VBZ 's)
+      (PP (IN on) (NNP Fridays))
+      (PP (IN with)
+        (NP (DT a) (JJ nice) (NN salad) (NN bar))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (NNP Peg)
+      (CC &)
+      (NNP Doc))
+    (VP (VBZ 's)
+      (SQ (VBZ is)
+        (NP
+          (NP (DT a) (NN fun) (, ,) (NN chill) (, ,) (NN divey) (, ,) (JJ towny) (NN bar))
+          (PP (IN in)
+            (NP (NN Dane))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP visit)
+          (PP (IN on)
+            (NP (DT a) (NNP Friday))))))
+    (, ,)
+    (S
+      (VP (VB try)
+        (NP (DT the) (NN fish) (NN fry))
+        (PP (IN for)
+          (NP
+            (QP (RB only) ($ $) (CD 11))))))
+    (, ,)
+    (VP (VBP get)
+      (NP
+        (NP (DT a) (NN mix))
+        (PP (IN of)
+          (NP (JJ baked)
+            (CC and)
+            (JJ fried) (NN fish)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (MD wo) (RB n't)
+      (VP (VB be)
+        (ADJP (JJ disappointed))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ 's)
+      (NP
+        (NP (RB plenty))
+        (PP (IN of)
+          (NP
+            (NP (NN seating))
+            (PP (IN outside)
+              (NP (DT the) (NN bar) (NN area))))))
+      (SBAR (IN if)
+        (S
+          (NP (PRP you))
+          (VP
+            (VP (VBP 're)
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (NN mood))
+                  (PP (IN for)
+                    (NP (NN food))))))
+            (CC and)
+            (VP (VBP want)
+              (S
+                (VP (TO to)
+                  (VP (VB avoid)
+                    (NP (DT the) (NN bar) (NN crowd))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP 're)
+          (PP (IN in)
+            (NP (DT the) (NN mood)
+              (S
+                (VP (TO to)
+                  (VP
+                    (VP (VB drink))
+                    (, ,)
+                    (VP (VB play)
+                      (ADJP (JJ foosball)))
+                    (, ,)
+                    (VP (VB shoot)
+                      (NP
+                        (NP (DT a) (NN game))
+                        (PP (IN of)
+                          (NP (NN pool)))))
+                    (CC and)
+                    (VP (VB listen)
+                      (PP (TO to)
+                        (NP (DT a) (JJ digital) (NN jukebox))))))))))))
+    (, ,)
+    (NP (PRP you))
+    (VP (VBP 're)
+      (PP (IN in)
+        (NP
+          (NP (NN luck) (NN cause))
+          (SBAR
+            (S
+              (NP (PRP they))
+              (VP (VBP have)
+                (ADVP (DT all) (IN that) (RB too))))))))
+    (. .)))
+
+
+(ROOT
+  (NP (NNP Excellent) (NNP burgers) (NNP !!)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (JJ sandpit) (JJ volleyball) (NN court))
+      (CC and)
+      (NP
+        (NP (DT a) (NN couple))
+        (PP (IN of)
+          (NP (JJ horseshoe) (NNS pits)))))
+    (VP (VBP look)
+      (SBAR (IN like)
+        (S
+          (NP (PRP they))
+          (VP (MD could)
+            (VP (VB be)
+              (NP (NN fun))
+              (, ,)
+              (ADVP (RB too)))))))
+    (. .)))
+
+

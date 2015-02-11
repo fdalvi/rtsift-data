@@ -1,0 +1,208 @@
+(ROOT
+  (S
+    (NP (PRP$ My) (NNS grandparents))
+    (ADVP (RB always))
+    (VP (VBP go)
+      (ADVP (RB here))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP I))
+          (VP (VBP visit)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP
+        (NP (DT a) (JJ small) (NN family))
+        (VP (VBN owned)
+          (NP (NN business))
+          (, ,)
+          (ADVP (NN nothing))
+          (S
+            (VP (TO to)
+              (VP (VB write)
+                (ADVP (NN home) (IN about))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 've)
+        (ADVP (RB never))
+        (VP (VBN been)
+          (ADVP (RB there))
+          (PP (IN for)
+            (NP (NN breakfast))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP$ their) (NN lunch/dinner) (NNS entrees))
+      (VP (VBP are)
+        (NP
+          (NP (JJ typical) (NN family))
+          (VP (VBN owned)
+            (NP (NN diner) (NN fare))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP$ Their) (JJ sloppy) (NNS joes))
+      (VP (VBP are)
+        (PP (IN above)
+          (NP (NN average)))
+        (SBAR (IN if)
+          (S
+            (NP (PRP you))
+            (VP (VBP 're)
+              (PP (IN into)
+                (NP
+                  (NP (DT that) (NN sort))
+                  (PP (IN of)
+                    (NP (NN thing))))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBD had)
+        (NP
+          (NP (DT a)
+            (ADJP (RB pretty) (JJ good))
+            (NN bacon) (NN cheeseburger))
+          (PRN (-LRB- -LRB-)
+            (S
+              (NP (DT the) (NN patty))
+              (VP (VBD was)
+                (VP (VBN cooked)
+                  (ADJP (JJ well-done))
+                  (SBAR (IN as)
+                    (S
+                      (S
+                        (NP (PRP I))
+                        (VP (VBD had)
+                          (VP (VBN ordered))))
+                      (, ,)
+                      (CC and)
+                      (S
+                        (NP (DT the) (NN bacon))
+                        (VP (VBD was)
+                          (ADJP (JJ thick)))))))))
+            (-RRB- -RRB-)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (CD one) (NN thing))
+      (PP (IN about)
+        (NP (DT this) (NN place))))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN repertoire))
+        (SBAR
+          (S
+            (NP (PRP they))
+            (VP (VBP seem)
+              (S
+                (VP (TO to)
+                  (VP (VB have)
+                    (VP (VBN built)
+                      (PP (IN with)
+                        (NP (PRP$ their) (NNS customers))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VP (VBP know)
+        (NP (PRP$ my) (NN grandpa)))
+      (, ,)
+      (CC and)
+      (VP
+        (ADVP (RB always))
+        (VBP seem)
+        (S
+          (VP (TO to)
+            (VP (VB know)
+              (NP
+                (NP (JJ many))
+                (PP (IN of)
+                  (NP (PRP$ their) (JJ other) (NNS customers))))
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (PRP I))
+                  (VP (VBP 'm)
+                    (ADVP (RB there))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT This))
+      (VP (VBZ is)
+        (PP (IN in)
+          (NP (DT a) (NN retirement) (NN community)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP I))
+      (ADVP (RB always))
+      (VP (VBP feel)
+        (ADJP (RB so) (JJ young)
+          (PP (IN in)
+            (NP (RB there))))
+        (S
+          (ADJP (JJ :-RRB-)))))))
+
+
+(ROOT
+  (FRAG (RB Not)
+    (ADJP (JJ edible))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Friday) (NNP AYCE) (NNP Fish) (NNP Fry))
+    (VP (VBD was)
+      (ADJP (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP U))
+    (VP (VBP have)
+      (NP
+        (NP
+          (NP (DT a) (NN choice))
+          (PP (IN of)
+            (NP
+              (NP (JJ baked)
+                (CC or)
+                (JJ fried) (NN cod))
+              (, ,)
+              (NP (NN soup))
+              (CC or)
+              (NP (NN salad)))))
+        (, ,)
+        (CC &)
+        (NP
+          (NP (NNS fries))
+          (CC or)
+          (NP (JJ baked/mashed) (NN potato) (POS 's)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT All))
+    (VP (VBD was)
+      (ADJP (RB very) (JJ good)))
+    (. !)))
+
+

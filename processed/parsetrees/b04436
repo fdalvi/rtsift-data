@@ -1,0 +1,302 @@
+(ROOT
+  (SINV (RB Not)
+    (ADVP (RB bad)
+      (ADVP (RB as) (RB far))
+      (PP (IN as)
+        (NP (NNP Subways))))
+    (VP (VBP go))
+    (NP
+      (NP (, ,) (JJ clean) (NN setup))
+      (, ,)
+      (NP
+        (NP (NN food) (NNS tastes))
+        (NP (JJ typical) (NN Subway))))
+    (, ,)
+    (S
+      (VP (VBG parking)
+        (ADJP (RB not) (JJ bad))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Surprisngly) (IN though)
+      (NP (DT a) (NN lot))
+      (PP (IN of)
+        (NP
+          (NP (JJ riff-raff) (NNS customers))
+          (PP (IN for)
+            (NP (DT the) (NN area))))))
+    (. .)))
+
+(ROOT
+  (NP (JJ /) (NN sigh)))
+
+
+(ROOT
+  (NP
+    (NP (JJ Cheap) (, ,)
+      (ADJP
+        (ADJP (JJ fast))
+        (, ,)
+        (CC and)
+        (ADJP (RB consistently) (JJ delicious))
+        (: ...))
+      (NNS definitely))
+    (NP
+      (NP (DT a) (JJ regular) (NN stop))
+      (PP (IN for)
+        (NP
+          (NP (NNS students))
+          (PP (IN in)
+            (NP (DT the) (NN area))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 've)
+      (VP (VBN had)
+        (NP (NNP Subway) (JJ many) (NNS times))
+        (PP (IN before)
+          (S
+            (VP (VBG moving)
+              (PP (TO to)
+                (NP (NNP Arizona)))
+              (SBAR (IN so)
+                (S
+                  (NP (PRP I))
+                  (VP (VBP know)
+                    (SBAR
+                      (S
+                        (NP (PRP they))
+                        (VP (VBP have)
+                          (NP (JJ good) (NNS sandwiches)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB However))
+    (, ,)
+    (NP (PRP I))
+    (VP (MD will)
+      (ADVP (RB never))
+      (VP (VB eat)
+        (PP (IN at)
+          (NP (DT this) (JJ particular) (NN Subway)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP$ My) (NN husband))
+      (VP (VBD ordered)
+        (NP (CD two) (NNP Turkey) (NNS sandwiches))
+        (S
+          (VP (TO to)
+            (VP (VB go))))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (ADVP (RB literally))
+        (NP
+          (NP (DT the) (JJS worst) (NN sandwich))
+          (SBAR
+            (S
+              (NP (PRP I))
+              (ADVP (RB ever))
+              (VP (VBD had)
+                (PP (IN in)
+                  (NP (PRP$ my) (NN life)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Stale) (NN bread))
+      (, ,)
+      (CC and)
+      (NP (NN something)))
+    (ADVP (RB definitely))
+    (VP (VB funky)
+      (PP (IN with)
+        (NP
+          (NP (DT the) (NN turkey))
+          (, ,)
+          (NP (NN cheese))
+          (, ,)
+          (CC and)
+          (NP (NN lettuce)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Like))
+    (NP (PRP they))
+    (VP (VBD used)
+      (NP (JJ old) (NNS ingredients)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (VP (VBG sharing)
+          (S
+            (NP
+              (NP (PRP$ my) (NN sandwich))
+              (PP (IN with)
+                (NP (PRP$ my) (CD 3) (NN year))))
+            (ADJP (JJ old))))))
+    (CC but)
+    (S
+      (PP (IN after)
+        (S
+          (VP (VBG tasting)
+            (NP (PRP it)))))
+      (, ,)
+      (NP (PRP I))
+      (VP (VBD threw)
+        (NP (PRP it))
+        (PP (IN in)
+          (NP (DT the) (NN garbage)))
+        (SBAR (IN because)
+          (S
+            (NP (PRP I))
+            (VP (VBD was)
+              (ADJP (JJ afraid))
+              (SBAR (IN that)
+                (S
+                  (NP (PRP we))
+                  (VP (VBD were)
+                    (VP (VBG going)
+                      (S
+                        (VP (TO to)
+                          (VP (VB get)
+                            (ADJP (JJ sick))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Will))
+    (RB not)
+    (VP (VBP try)
+      (NP (NN anything))
+      (PP (IN from)
+        (NP (RB there)))
+      (ADVP (RB again)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (ADVP (RB just))
+    (VP
+      (VP (VBD walked)
+        (PRT (RP in)))
+      (CC and)
+      (VP
+        (ADVP (RB then))
+        (VBD walked)
+        (NP (NN right))
+        (PRT (RP out))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN employee))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBD was)
+            (VP (VBG working))))))
+    (VP (VBD was)
+      (VP
+        (VP (VBG coughing)
+          (CC and)
+          (VBG sniffing))
+        (CC and)
+        (VP (VBG snorting)
+          (NP
+            (NP (DT all))
+            (PP (IN over)
+              (NP (DT the) (NN food)))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD told)
+        (NP
+          (NP (DT the) (NN employee))
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (MD would)
+                (VP (VB like)
+                  (NP (JJ extra) (NN cheese))
+                  (NP (CD 3) (NNS times)))))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBD ended)
+        (PRT (RP up))
+        (PP (IN with)
+          (NP (JJ double) (NN meat)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (NP
+          (NP (DT the) (JJ only) (NN customer))
+          (PP (IN in)
+            (NP (RB there))))))
+    (CC and)
+    (S
+      (NP (PRP she))
+      (VP (VBD seemed)
+        (VP (VBN distracted))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP I))
+        (VP (VBD got)
+          (NP (NN home)))))
+    (NP (FW i))
+    (VP (VBD took)
+      (NP
+        (NP (DT a) (NN bite)
+          (CC and)
+          (NN thr) (NN bread))
+        (VP
+          (ADVP (RB just))
+          (VBN crumbled)
+          (PP (IN into)
+            (NP (NNS pieces))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD will)
+      (ADVP (RB never))
+      (VP (VB return)
+        (PP (TO to)
+          (NP (DT this) (NN subway)))
+        (ADVP (RB again))))
+    (. .)))
+
+

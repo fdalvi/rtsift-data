@@ -1,0 +1,103 @@
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ great) (NNS walgreens))
+        (PP (IN for)
+          (NP (NN pharmacy)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN Before)
+      (S
+        (NP (PRP I))
+        (VP (VBD was)
+          (VP (VBG going)
+            (PP (TO to)
+              (NP (DT the) (CD one) (JJ down) (NN lake)))))))
+    (VP (VBD mead)
+      (PP (IN by)
+        (NP (NN rampart))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB There))
+      (NP (PRP I))
+      (VP (MD would)
+        (ADVP (RB frequently))
+        (VP (VB have)
+          (S
+            (VP (TO to)
+              (VP (VB wait)
+                (PP (IN in)
+                  (NP (NN line))))))
+          (S
+            (VP (TO to)
+              (VP (VB pick)
+                (PRT (RP up))
+                (NP
+                  (NP (NNS things))
+                  (PP (IN for)
+                    (NP (DT a) (JJ long) (NN time))))))))))
+    (, ,)
+    (NP (PRP they))
+    (VP (MD would) (RB n't)
+      (VP (VB be)
+        (ADJP (JJ able)
+          (S
+            (VP (TO to)
+              (VP (VB refill)
+                (NP (JJ same) (NN day) (NNS etc.))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP think)
+      (SBAR
+        (SBAR (IN that)
+          (S
+            (NP (NN location))
+            (VP (VBZ is)
+              (ADJP (RB open) (JJ 24hours)))))
+        (CC but)
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBZ goes)
+              (PP (TO to)
+                (NP
+                  (NP (DT the) (NN pharmacy))
+                  (PP (IN at)
+                    (NP (CD 3AM) (JJ other)))))
+              (PP (IN than)
+                (NP (NN drug) (NNS addicts))))))))
+    (. ?)))
+
+(ROOT
+  (NP
+    (NP (NNP Answer))
+    (: -)
+    (NP (DT no) (NN one))
+    (. .)))
+
+(ROOT
+  (S (IN So)
+    (NP (PRP I))
+    (VP (VBP am)
+      (ADJP
+        (ADVP (RBR more) (IN than))
+        (JJ willing)
+        (S
+          (VP (TO to)
+            (VP (VB trade)
+              (NP (NN convenience))
+              (PP (IN for)
+                (NP (JJR shorter) (NNS hours))))))))
+    (. .)))
+
+

@@ -1,0 +1,264 @@
+(ROOT
+  (S
+    (NP (NNS Tangles))
+    (VP (VBZ is)
+      (NP
+        (NP
+          (NP
+            (NP (DT a) (JJ nice) (JJ mid-range) (NN neighborhood) (NN salon))
+            (: -)
+            (ADJP (RB not) (JJ ultra-fancy)))
+          (, ,)
+          (NP
+            (ADJP (RB very) (JJ high))
+            (NN end))
+          (CC and)
+          (NP (JJ snooty)))
+        (, ,)
+        (CONJP (CC but)
+          (RB not))
+        (NP
+          (NP (DT the) (JJ haircare) (NN equivalent))
+          (PP (IN of)
+            (NP (NNP Burger) (NNP King))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP (JJ modern)
+        (CC and)
+        (JJ comfortable)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Gigi))
+      (VP (VBZ is)
+        (NP (PRP$ my) (NN hairdresser))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP she))
+      (VP (VBZ does)
+        (NP (DT a) (JJ great) (NN job))
+        (S
+          (VP (VBG cutting)
+            (CC and)
+            (VBG coloring)
+            (NP (PRP$ my) (NN hair))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP$ Her) (NNS prices))
+      (VP (VBP are)
+        (ADJP (JJ reasonable))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP she))
+      (VP (VBZ 's)
+        (ADJP (JJ quick)
+          (S
+            (VP (TO to)
+              (VP (VB return)
+                (NP (NNS calls))
+                (SBAR (RB so) (IN that)
+                  (S
+                    (NP (PRP I))
+                    (VP (MD can)
+                      (VP (VB schedule)
+                        (NP (NNS appointments))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD tried)
+        (NP
+          (NP (DT a) (NN number))
+          (PP (IN of)
+            (NP
+              (NP (JJ other) (NNS hairdressers))
+              (PP (IN at)
+                (NP (JJ other) (NNS salons))))))
+        (PP (IN before)
+          (S
+            (VP (VBG finding)
+              (NP (NNP Gigi)))))))
+    (, ,)
+    (CC and)
+    (S
+      (ADVP (RB now))
+      (NP (PRP I))
+      (VP (VBP 'm)
+        (ADVP (RB here))
+        (PP (IN for)
+          (NP (DT the) (JJ long) (NN haul)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNS Tangles))
+      (VP (VBZ has)
+        (NP
+          (NP (DT a) (JJ good) (NN number))
+          (PP (IN of)
+            (NP
+              (NP (NNS hairdressers))
+              (PP (IN of)
+                (NP (DT both) (NNS sexes)))))
+          (S
+            (VP (TO to)
+              (VP (VB choose)
+                (PP (IN from))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (NN shop))
+      (VP (VBZ caters)
+        (PP (TO to)
+          (NP (DT both) (NNS women)
+            (CC and)
+            (NNS men)))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Good) (NN work))
+    (, ,)
+    (NP
+      (NP (JJ good) (NNS prices))
+      (, ,)
+      (NP (JJ good) (NN availability)))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What) (JJR more))
+    (SQ (MD could)
+      (NP (PRP I))
+      (VP (VB want)))
+    (. ?)))
+
+
+(ROOT
+  (S
+    (VP
+      (VP (VB Come)
+        (PRT (RP in)))
+      (CC and)
+      (VP (VB see)
+        (S
+          (NP (NNP Maria) (NNP Overbeck))
+          (ADJP
+            (ADJP (RB very) (JJ good))
+            (JJ hairstylist)))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Good) (NN color))
+    (CC and)
+    (NP (NNS haircuts))))
+
+
+(ROOT
+  (S
+    (NP (NNS Tangles))
+    (VP (VBZ is)
+      (NP (DT a) (JJ great) (NN hair) (NN salon)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Gigi))
+      (VP (VBZ is)
+        (NP (PRP$ my) (NN stylist))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (MD could) (RB n't)
+        (VP (VB be)
+          (ADJP (JJR happier))
+          (PP (IN with)
+            (NP (PRP her))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SINV
+      (CONJP (RB Not) (JJ only))
+      (VBZ is)
+      (NP (PRP she))
+      (ADJP
+        (NP (DT the) (NN sweetest))
+        (JJ gal)))
+    (, ,)
+    (NP (PRP she))
+    (VP (VBZ knows)
+      (SBAR
+        (WHADVP (WRB how))
+        (S
+          (VP (TO to)
+            (VP (VB cut)
+              (NP (PRP$ my) (JJ thin) (, ,) (JJ long) (NN hair))
+              (S
+                (VP (TO to)
+                  (VP (VB make)
+                    (S
+                      (NP (PRP it))
+                      (VP (VB look)
+                        (ADJP (RB as) (JJ full)
+                          (PP (IN as)
+                            (ADJP (JJ possible))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN salon))
+      (VP (VBZ is)
+        (ADVP (RB quite))
+        (ADJP (JJ nice) (, ,) (JJ mid-range) (, ,) (JJ clean)
+          (CC and)
+          (JJ neat))))
+    (CC and)
+    (S
+      (NP (DT the) (NNS prices))
+      (VP (VBP are)
+        (ADJP (RB very) (JJ reasonable))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP do) (RB n't)
+        (VP (VB need)
+          (NP
+            (NP (PDT all) (DT the) (JJ unnecessary) (NNS extras))
+            (, ,) (RB just)
+            (NP (DT a) (JJ great) (NN cut))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP get)
+        (NP (DT that))
+        (NP (RB here) (DT each) (NN time))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Highly))
+    (VP (VBP recommend))
+    (. .) (. .)))
+
+

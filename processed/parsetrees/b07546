@@ -1,0 +1,94 @@
+(ROOT
+  (NP
+    (NP (DT No) (NN bathroom))
+    (, ,)
+    (NP
+      (NP (NN uhhh))
+      (SBAR
+        (WHNP (WP what) (NN kind)
+          (PP (IN of)
+            (NP (NN gas) (NN station))))
+        (S
+          (VP (VBZ is)
+            (ADVP (DT this)
+              (CC but))
+            (ADVP (RB however))
+            (SBAR
+              (S
+                (NP (EX there))
+                (VP (VBP are)
+                  (NP (CD two) (NNS redboxes)))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN one))
+    (VP (VBZ is)
+      (VP (VBN located)
+        (PP (IN in)
+          (NP
+            (NP (DT a) (JJ not-so-great) (NN area))
+            (PP (IN of)
+              (NP (NN town)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Also))
+      (, ,)
+      (S
+        (ADJP (JJ hard)
+          (S
+            (VP (TO to)
+              (VP (VB get)
+                (ADVP (IN in)
+                  (CC and)
+                  (IN out)
+                  (PP (IN of) (RB because)))
+                (PP (IN of)
+                  (NP (PRP$ its) (NN location))))))))
+      (: ...)
+      (VP (VBZ 19th)
+        (NP (NNP Avenue))))
+    (: ...)
+    (S
+      (S
+        (NP (JJ lightrail) (NN construction))
+        (VP (MD will)
+          (VP (VB be)
+            (VP (VBG going)
+              (PP (IN on)
+                (NP (RB there)))
+              (PP (IN for)
+                (NP
+                  (ADVP (IN at) (JJS least))
+                  (NP (DT another) (NN year))
+                  (CC and)
+                  (NP (DT a) (NN half))))))))
+      (CC and)
+      (S
+        (NP (DT the) (JJ whole) (NN place))
+        (VP (VBZ looks)
+          (ADJP (JJ discombobulated)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Very))
+      (NP (JJ shady) (NNS characters))
+      (VP (VBP hang)
+        (PP (IN around)
+          (NP (DT that) (NN area)))))
+    (, ,)
+    (CC so)
+    (S
+      (INTJ (VB please))
+      (VP (VB be)
+        (ADJP (JJ careful))
+        (NP (RB there))))
+    (. !)))
+
+

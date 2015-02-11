@@ -1,0 +1,139 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS Scans))
+      (PP (IN of)
+        (NP (NNS tumors))))
+    (VP (VBP read)
+      (PP (IN as)
+        (NP (NN cancer))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Removed) (NN kidney))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP
+            (VP (VBD had)
+              (NP (JJ non-cancerous) (NN tumor)))
+            (CC and)
+            (VP (VBD did) (RB not)
+              (VP (VB let)
+                (NP (NN patient))))))))
+    (VP (VBP know)
+      (NP
+        (NP (DT the) (NN result))
+        (PP (IN of)
+          (NP
+            (NP (NN tissue) (NNS samples))
+            (PP (IN for)
+              (NP (CD 2) (NNS weeks))))))
+      (SBAR (IN while)
+        (S
+          (NP (PRP you))
+          (VP (VBP are)
+            (VP (VBG sitting)
+              (CC and)
+              (VBG waiting)
+              (PP (IN for)
+                (NP
+                  (NP (NN cancer))
+                  (CC or)
+                  (NP (DT no) (NN cancer)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VP (MD Could) (RB not)
+        (VP (VB obtain)
+          (NP (NN result) (NN while))
+          (PP (IN in)
+            (NP
+              (NP (NN hospital))
+              (PRN (-LRB- -LRB-)
+                (VP (VBN asked)
+                  (PP (IN on)
+                    (NP (JJ numerous) (NNS occasions))))
+                (-RRB- -RRB-))))))
+      (CC and)
+      (VP (VBD had)
+        (S
+          (VP (TO to)
+            (VP (VB wait)
+              (PP (IN until)
+                (NP (NN followup) (NN appt))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN After)
+      (NP (NN surgery)))
+    (, ,)
+    (S
+      (VP (VBD did) (RB not)
+        (VP (VB meet)
+          (PP (IN with)
+            (NP
+              (NP
+                (NP (NN family))
+                (PRN (-LRB- -LRB-)
+                  (S
+                    (VP
+                      (VP (VBD had)
+                        (NP (JJ busy) (NN schedule)))
+                      (CC and)
+                      (VP (VBD had)
+                        (S
+                          (VP (TO to)
+                            (VP (VB leave)))))))
+                  (-RRB- -RRB-)))
+              (CC and)
+              (NP (NN hospital) (NNS visits)))))))
+    (VP (VBD were)
+      (ADVP (RB always))
+      (PP (IN with)
+        (NP (JJ unknown) (NNS associates))))
+    (. .)))
+
+(ROOT
+  (FRAG (RB Not)
+    (VP
+      (ADVP (RB very)
+        (PP (IN in)
+          (NP
+            (NP (NN tune))
+            (PP (IN with)
+              (NP
+                (NP (DT a) (NN patient) (POS 's))
+                (NN need))))))
+      (TO to)
+      (VP (VB know)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Surgery))
+    (VP
+      (VP (VBD was)
+        (VP (VBN done)
+          (PP (IN with)
+            (NP
+              (NP
+                (ADJP (NN hand) (VBN assisted))
+                (NN robot))
+              (: ;)
+              (NP (JJ good) (NN recovery) (NN time))))))
+      (CC and)
+      (VP (VBZ seems)
+        (ADJP (JJ competent))
+        (PP (IN in)
+          (NP (NN surgery)
+            (CC and)
+            (JJ new) (NNS techniques)))))
+    (. .)))
+
+

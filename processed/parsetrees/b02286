@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (S
+      (ADJP (RB Very) (JJ helpful)))
+    (, ,)
+    (NP (PRP you))
+    (ADVP (RB never))
+    (VP (VBP feel)
+      (ADVP (RB alone))
+      (SBAR (IN for)
+        (S
+          (NP (DT the) (NNS instructors))
+          (VP (VBP are)
+            (ADVP (RB always))
+            (ADJP (JJ available)
+              (PP (IN via)
+                (NP (NN cell))))))))
+    (: ...)))
+
+

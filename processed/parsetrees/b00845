@@ -1,0 +1,207 @@
+(ROOT
+  (S
+    (S
+      (NP (DT This) (NNP Pizza) (NNP Hut))
+      (VP (VBZ is)
+        (ADVP (RB just))
+        (NP
+          (NP (DT a) (NN take-out) (NN location))
+          (, ,)
+          (NP (DT no) (NN eat-in)))))
+    (: ;)
+    (S
+      (NP (PRP they))
+      (VP (MD may)
+        (VP (VB do)
+          (NP (NN delivery))
+          (ADVP (RB also)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP
+        (ADJP (JJS best))
+        (SBAR (IN if)
+          (S
+            (NP (PRP you))
+            (VP
+              (VP (VB call)
+                (NP (PRP$ your) (NN order))
+                (ADVP (RB ahead)))
+              (CC and)
+              (VP (VB stop)
+                (PRT (RP by))
+                (S
+                  (VP (TO to)
+                    (VP
+                      (VP (VB pick)
+                        (NP (PRP it))
+                        (PRT (RP up)))
+                      (CONJP (RB rather) (IN than))
+                      (VP (VBG dropping)
+                        (PP (IN by))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP
+          (VP (VB drop)
+            (PRT (RP in)))
+          (CC and)
+          (VP (VB order)))))
+    (, ,)
+    (NP (PRP you))
+    (VP (MD 'll)
+      (VP (VB need)
+        (S
+          (VP (TO to)
+            (VP (VB wait)
+              (NP
+                (NP
+                  (QP (RB about) (CD 15))
+                  (NNS minutes))
+                (PP (IN for)
+                  (NP (PRP$ your) (NN order)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP (PRP$ their) (JJ best-selling) (NNS pizzas)
+        (CC and)
+        (JJ 2-liter) (NNS sodas)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP 're)
+      (PP (IN on)
+        (NP
+          (NP (DT the) (NN corner))
+          (PP (IN in)
+            (NP
+              (NP (DT a)
+                (ADJP (JJ busy) (, ,) (JJ tight))
+                (NN shopping) (NN area))
+              (PP (IN on)
+                (NP (NNP N) (NNP 16th) (NNP Street))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Good) (NN service))
+      (PP (IN at)
+        (NP
+          (NP (DT this) (NN location))
+          (, ,)
+          (NP (NNP Robert)))))
+    (VP (VBZ acknowledges)
+      (S
+        (NP (PRP you))
+        (ADJP (RB as)
+          (SBAR (RB soon) (IN as)
+            (S
+              (NP (PRP you))
+              (VP (VB walk)
+                (PP (IN in)
+                  (NP (DT the) (NN door)))
+                (. .)))
+            (. .))))
+      (SBAR
+        (S
+          (NP (NNS Orders))
+          (VP (VBP are)
+            (ADVP (RB always))
+            (ADJP (JJ correct))
+            (ADVP (RB too))))))))
+
+
+(ROOT
+  (S
+    (S
+      (VP (VBN Called)
+        (S
+          (NP (NN today))
+          (VP (TO to)
+            (VP (VB place)
+              (NP (DT a) (JJ large) (NN order))
+              (S
+                (VP (TO to)
+                  (VP (VB send)
+                    (PP (TO to)
+                      (NP (DT a) (JJ local) (NN business)
+                        (QP (RB as) (DT a))))))))))))
+    (VP (VBP thank)
+      (NP (PRP you))
+      (PP (IN for)
+        (S
+          (VP (VBG helping)
+            (NP (PRP us))
+            (PRT (RP out))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Spoke)
+      (PP (TO to)
+        (NP
+          (NP (NNP Jeff))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBD worked)
+                (PRT (RP out))
+                (NP (DT an) (NNP AMAZING) (NN deal))
+                (PP (IN with)
+                  (NP (PRP us)))
+                (PP (IN for)
+                  (NP
+                    (NP (DT a) (NN group))
+                    (PP (IN of)
+                      (NP (NNS pizzas)))))))))))
+    (. .)))
+
+(ROOT
+  (S (RB Then)
+    (SBAR (IN after)
+      (S
+        (NP (PRP he))
+        (VP (VBD got)
+          (NP (PRP$ my) (NN card) (NN number)))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD discounted)
+      (S
+        (NP (PRP it))
+        (ADJP
+          (NP (DT some))
+          (JJR more))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Excellent)
+      (NP (NN customer) (NN service)
+        (CC and)
+        (NN price)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN pizza))
+    (VP (VBD was)
+      (VP (VBN enjoyed)
+        (PP (IN by)
+          (NP (NN everyone)))))
+    (. !)))
+
+

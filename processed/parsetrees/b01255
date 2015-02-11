@@ -1,0 +1,124 @@
+(ROOT
+  (S
+    (NP (NNP Mendelson) (NNP Dermatology))
+    (VP (VBZ is)
+      (NP (DT a) (JJ great) (NN company)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBP 've)
+        (VP (VBN gotten)
+          (S
+            (VP (TO to)
+              (VP (VB know)
+                (NP (DT the) (NN staff))
+                (ADVP (RB fairly) (RB well))))))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBP 're)
+        (NP (JJ great) (NNS people))
+        (, ,)
+        (ADVP (RB too))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP 're)
+          (VP (VBG looking)
+            (PP (IN for)
+              (NP
+                (NP (DT a) (NN dermatologist))
+                (PP (IN in)
+                  (NP (NNP Phoenix)))))))))
+    (: ...)
+    (NP (DT this))
+    (VP (VBZ is)
+      (NP (DT a) (JJ great) (NN spot)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Mendelson) (NNP Dermatology) (NN team))
+    (VP (VBZ is)
+      (ADJP (JJ amazing)))
+    (. !)))
+
+(ROOT
+  (UCP
+    (VP (VBG Friendly)
+      (NP (NN staff)))
+    (CC and)
+    (ADJP
+      (ADJP
+        (ADVP (RB even) (RBR more))
+        (ADJP (RB so))
+        (, ,)
+        (ADJP (JJ dedicated)))
+      (PP (TO to)
+        (S
+          (VP (VBG helping)
+            (NP
+              (NP (DT each))
+              (CC and)
+              (NP (DT every) (NN customer))))))
+      (. !))))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP are)
+          (VP (VBG needing)
+            (NP (DT a) (NN dermatologist))))))
+    (, ,)
+    (NP (NNP Dr.) (NNP Mendelson))
+    (VP (VBZ is)
+      (ADJP (RB highly) (JJ recommended)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Mendelson) (NNP Dermatology))
+    (VP (VBZ is)
+      (NP (DT a) (JJ GREAT) (NN company)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN staff))
+    (VP (VBZ is)
+      (ADJP (RB so) (JJ friendly)
+        (CC and)
+        (JJ knowledgeable)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would)
+      (ADVP (RB highly))
+      (VP (VB recommend)
+        (NP (PRP them))
+        (SBAR (IN if)
+          (S
+            (NP (PRP you))
+            (VP (VBP are)
+              (VP (VBG looking)
+                (PP (IN for)
+                  (NP
+                    (NP (DT a) (NN dermatologist))
+                    (PP (IN in)
+                      (NP (NNP Phoenix)))))))))))
+    (. .)))
+
+

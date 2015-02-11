@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP (NNP Price))
+    (VP (VBZ is)
+      (NP
+        (NP (NN right))
+        (, ,)
+        (NP ($ $) (CD 19.95))
+        (, ,)
+        (CC and)
+        (NP (NN altho)))
+      (PP (RB not)
+        (ADJP (JJ busy)))
+      (, ,)
+      (ADJP (JJ quick)
+        (PP (IN with)
+          (NP (JJ friendly) (NN service.Will))))
+      (ADVP (VB be) (RB back)))
+    (. .)))
+
+

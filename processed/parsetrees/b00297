@@ -1,0 +1,198 @@
+(ROOT
+  (S
+    (S
+      (NP (NNS Copps))
+      (VP (VBZ is)
+        (ADJP (JJ alright))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP they))
+      (VP (VBP are)
+        (ADJP (JJ expensive))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP have)
+        (NP
+          (NP (DT a) (JJ nice) (NN selection))
+          (PP (IN of)
+            (NP (NN produce))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP$ their) (NN meat) (NNS prices))
+      (VP (VBP are)
+        (ADJP (JJ high))))
+    (. .)))
+
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Why))
+    (SQ (VBP do)
+      (NP (PRP I))
+      (VP (VB shop)
+        (ADVP (RB here))))
+    (. ?)))
+
+(ROOT
+  (NP (NNS Coupons) (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Yup))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP live)
+      (PP (IN on)
+        (NP (DT a) (NN budget))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP
+        (NP (DT a) (JJ great) (JJ double) (NN coupon))
+        (VP (VBN set)
+          (PRT (RP up)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (MD can)
+      (VP (VB get)
+        (NP (JJ amazing) (NNS deals))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Now))
+    (NP (DT the) (JJ down) (NN side))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBP are) (RB not)
+      (NP
+        (NP (DT a) (JJ wide) (NN offering))
+        (PP (IN of)
+          (NP (NNS products)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Prices))
+    (VP (MD can)
+      (VP (VB be)
+        (ADJP (JJ steep)
+          (PP (IN without)
+            (NP
+              (NP (DT a) (JJ good) (NN sale))
+              (CC or)
+              (NP (NN coupon)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP advertise)
+        (NP (NNS items))))
+    (CC but)
+    (S
+      (NP (PRP they))
+      (VP (VBP do) (RB not)
+        (VP (VB carry)
+          (NP (PRP them)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S (RB Not)
+      (VP (TO to)
+        (VP (VB mention))))
+    (, ,)
+    (NP
+      (NP (JJS most))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (NNS locations))
+          (PRN (-LRB- -LRB-)
+            (S
+              (NP (DT this) (NN one))
+              (VP (VBD included)))
+            (-RRB- -RRB-)))))
+    (VP (VBP do) (RB not)
+      (VP (VB carry)
+        (NP (JJ swiss) (NN cheese))))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (JJ weird))
+    (SQ (VBZ is)
+      (NP (DT that)))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD can)
+      (ADVP (RB never))
+      (VP (VB find)
+        (NP (PRP it))
+        (PP (IN in)
+          (NP (DT the) (JJ prepackaged) (NN cheese) (NN department)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP have)
+        (VP (VBN asked)
+          (NP (NNS employees)))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBP say)
+        (SBAR
+          (S
+            (NP (JJS most) (NNS brands))
+            (VP (VBP are) (RB not)
+              (VP (VBN carried)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBN Weird))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN produce))
+    (VP (MD could)
+      (VP (VB be)
+        (ADJP
+          (NP (DT a) (RB little))
+          (JJR better)
+          (PP (IN for)
+            (NP (DT the) (NN price))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Otherwise))
+    (, ,)
+    (NP (JJ decent))
+    (VP (VBP place))
+    (. .)))
+
+

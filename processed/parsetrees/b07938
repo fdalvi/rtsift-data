@@ -1,0 +1,88 @@
+(ROOT
+  (UCP
+    (ADVP (RB Quick))
+    (CC and)
+    (ADJP (JJ efficient) (. !))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB highly))
+    (VP (VBP suggest))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD will)
+      (ADVP (RB never))
+      (VP (VB go)
+        (PRT (RP back))
+        (ADVP (RB here))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP (RB Too) (JJ bad))
+    (SBAR (IN that)
+      (S
+        (NP
+          (NP (CD one) (NN stylist))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBZ does) (RB n't)
+                (VP (VB know)
+                  (SBAR
+                    (WHNP (WP what))
+                    (S
+                      (NP (PRP she))
+                      (VP (VBZ 's)
+                        (VP (VBG doing))))))))))
+        (VP (VBZ is)
+          (VP (VBN allowed)
+            (S
+              (VP (TO to)
+                (VP (VB cut)
+                  (NP (NN hair)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NN hair))
+    (VP (VBD was)
+      (VP (VBN cut)
+        (S
+          (NP (NN way))
+          (ADJP (JJR shorter)
+            (SBAR (IN than)
+              (S
+                (NP (PRP I))
+                (VP (VBD asked))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (MD will)
+      (VP (VB take)
+        (NP
+          (QP (CD 3)
+            (CC or)
+            (CD 4))
+          (NNS months))
+        (S
+          (VP (TO to)
+            (VP (VB get)
+              (NP (PRP it))
+              (PP (TO to)
+                (SBAR
+                  (WHADVP (WRB where))
+                  (S
+                    (NP (PRP it))
+                    (VP (MD should)
+                      (VP (VB be)))))))))))
+    (. .)))
+
+

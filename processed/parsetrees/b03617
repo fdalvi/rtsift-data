@@ -1,0 +1,157 @@
+(ROOT
+  (S
+    (SBAR
+      (WHNP (WP What))
+      (S
+        (VP (MD can))))
+    (NP (PRP I))
+    (VP (VBP say))
+    (. ...)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP am)
+      (NP (DT a) (NN bargain) (NN shopper)))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 'm) (RB not)
+        (ADJP (JJ cheap))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBP get)
+        (NP (JJR more) (NN satisfaction))
+        (PP (RB out) (IN of)
+          (S
+            (VP (VBG getting)
+              (NP (DT a) (NN bargain))
+              (SBAR (IN than)
+                (S
+                  (NP (PRP I))
+                  (VP (VBP do)
+                    (S
+                      (VP (VBG spending)
+                        (NP
+                          (NP (DT a) (NN ton))
+                          (PP (IN of)
+                            (NP
+                              (NP (NN money))
+                              (PP (IN for)
+                                (NP (DT a) (NN name) (NN brand) (NN item))))))
+                        (PP (IN at)
+                          (NP (NNP Nordstrom)
+                            (CC or)
+                            (NNP Sax) (NNP Fifth)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT That))
+      (VP (VBG being)
+        (VP (VBD said))))
+    (, ,)
+    (ADVP (RB sure))
+    (NP (PRP you))
+    (VP (MD can)
+      (VP (VB find)
+        (NP
+          (NP (DT a) (NN pair))
+          (PP (IN of)
+            (NP
+              (NP
+                (NP (NNS shoes))
+                (SBAR
+                  (S
+                    (S
+                      (NP (PRP you))
+                      (VP (MD 'll)
+                        (VP (VB like)
+                          (ADVP (RB here)))))
+                    (, ,)
+                    (CC but)
+                    (S
+                      (NP (DT the) (NN selection))
+                      (VP (VBZ is)
+                        (ADVP (RB simply))
+                        (ADJP (JJ OK)))))))
+              (, ,)
+              (CC and)
+              (NP (PRP$ its)
+                (ADJP (RB usually) (JJ full))
+                (JJ retail) (NN price)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RBS Most)
+      (PP (IN of)
+        (NP (DT the) (NN time))))
+    (NP (PRP they))
+    (VP
+      (VP (VBP have)
+        (NP (DT a) (JJ two-for-one) (NN deal)))
+      (CC or)
+      (VP (VBP get)
+        (NP (DT the) (JJ second) (NN pair) (NN half) (NN price))))
+    (. .)))
+
+(ROOT
+  (X
+    (ADVP (RB Still))
+    (, ,)
+    (NP
+      (NP (PRP$ its)
+        (ADJP
+          (ADVP (RB never) (RB really))
+          (DT any))
+        (NN kind))
+      (PP (IN of)
+        (NP (JJ sweet) (NN deal))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (PP (RB Just) (IN like)
+      (NP
+        (NP (DT another) (NN shoe) (NN place))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBN reviewed))))))
+    (, ,)
+    (NP (PRP it))
+    (VP
+      (VP (VBZ 's)
+        (NP (DT a) (NN hit)))
+      (CC or)
+      (VP (VBP miss)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN time))
+    (NP (PRP it))
+    (VP (VBD was)
+      (NP (DT a) (JJ big) (NN miss)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD found)
+      (ADJP (RB absolutely) (NN nothing)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Yuck))))
+
+

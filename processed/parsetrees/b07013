@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (PRP$ My) (NN daughter))
+    (VP (VBD started)
+      (S
+        (VP (VBG going)
+          (PP (TO to)
+            (NP
+              (NP (NNP MadTown))
+              (PP (IN for)
+                (NP (NN summer) (NN camp))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (VBZ loves)
+      (S
+        (NP (PRP it))
+        (: ...)
+        (VP
+          (ADVP (RB especially))
+          (VBG Silly)
+          (NP (NNP Steve)))))
+    (. !)))
+
+

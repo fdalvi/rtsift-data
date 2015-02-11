@@ -1,0 +1,150 @@
+(ROOT
+  (FRAG
+    (NP (NNP Tip))
+    (: :)
+    (S
+      (NP (NNS nachos))
+      (ADVP (RB here))
+      (VP (VBP are)
+        (NP
+          (NP (NN bomb))
+          (, ,) (RB yes)
+          (NP (NN gas) (NN station) (NNS nachos)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP you))
+        (VP (VBP want)
+          (NP (NN care) (JJR less))
+          (PP (IN about)
+            (NP (PRP$ your) (NN health))))))
+    (, ,)
+    (VP (VB load)
+      (PRT (RP up))
+      (PP (IN on)
+        (NP (NN nacho)
+          (CC and)
+          (NN chili) (NN cheese))))
+    (. .)))
+
+(ROOT
+  (SINV (RB Also)
+    (VP (VBZ tamales)
+      (PP (IN in)
+        (ADJP (JJ green))))
+    (NP
+      (NP (NN chili)
+        (CC and)
+        (NN horchata))
+      (PP (IN at)
+        (NP (DT this) (NN location))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Place))
+    (VP (VBZ is)
+      (ADJP (JJ alright)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (PP (IN in)
+          (NP
+            (NP (DT a) (NN hurry))
+            (CC and)
+            (NP (VBN needed) (NN gas))))))
+    (, ,)
+    (CC but)
+    (S
+      (SBAR (IN if)
+        (S
+          (NP (PRP you))
+          (VP (VBP get)
+            (NP (NNP Chevron)))))
+      (, ,)
+      (NP (PRP you))
+      (VP (VBP 're)
+        (ADVP (RBR better) (RB off))
+        (VP (VBG going)
+          (PP (TO to)
+            (NP
+              (NP (DT the) (NN one))
+              (PP (IN on)
+                (NP (NNP Kyrene)
+                  (CC or)
+                  (NNP Rural)))))
+          (PP (IN on)
+            (NP (NNP Baseline))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP
+      (ADJP
+        (NP (DT A) (RB lot))
+        (JJR cheaper))
+      (PP (VBN compared)
+        (PP (TO to)
+          (NP (DT this) (NN one)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP stop)
+      (PP (IN by)
+        (NP (RB here)))
+      (ADVP (RB often)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS employees))
+    (VP (VBP are)
+      (ADJP
+        (ADJP (RB very) (JJ polite)
+          (CC and)
+          (JJ fast))
+        (PP (IN at)
+          (S
+            (VP (VBG assisting)
+              (NP (NNS customers)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS prices))
+      (VP (VBP seem)
+        (ADVP (RBR higher) (RB here))
+        (PP (IN for)
+          (NP (JJS most) (NNS items)))
+        (PP (IN than)
+          (NP (JJ other) (NN gas) (NNS stations)))))
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBP assume)
+        (SBAR (IN that)
+          (S
+            (VP (VBZ is)
+              (SBAR (IN because)
+                (S
+                  (NP (PRP it))
+                  (VP (VBZ is)
+                    (ADJP (JJ close)
+                      (PP (TO to)
+                        (NP (DT a) (NN freeway) (NN exit))))))))))))
+    (. .)))
+
+

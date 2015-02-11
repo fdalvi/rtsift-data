@@ -1,0 +1,136 @@
+(ROOT
+  (S
+    (NP (NNP Love) (NNP Arby))
+    (VP (VBZ 's))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB However))
+    (NP (DT a) (NN medium)
+      (SBAR
+        (S
+          (NP (JJ curly) (NNS fries))
+          (VP (VBZ is)
+            (VP
+              (ADVP (RB allegedly))
+              (VBN 600) (-LRB- -LRB-)
+              (NP (NNS !)))))))))
+
+(ROOT
+  (NP (CD -RRB-) (NNS calories) (. .)))
+
+(ROOT
+  (FRAG (RB So)
+    (PP (IN worth)
+      (NP (PRP it))
+      (ADVP (RB though)))
+    (. .)))
+
+(ROOT
+  (S
+    (LST (LS 1))
+    (VP (VB star)
+      (PRT (RP off))
+      (SBAR (IN for)
+        (S
+          (NP (PRP$ their))
+          (VP (VBZ shakes)
+            (S
+              (VP (VBG being)
+                (ADJP (JJ mediocre))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB always))
+    (VP (VBP seem)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (ADJP (RB pretty) (JJ thin))))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (NNP Damn) (PRP You) (NNP Chicken) (NNP Tenders))
+    (PP (IN for)
+      (S
+        (VP (VBG being)
+          (ADJP (RB so) (JJ tasty)))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (FRAG
+        (NP (NNP Excellent))
+        (: sandwiches)
+        (FRAG (RB even)
+          (PP (IN without)
+            (NP (NN sauce)))
+          (. .))
+        (. .))
+      (NP (NN service))
+      (VP (VBZ has)
+        (ADVP (RB always))
+        (VP (VBN been)
+          (ADJP (JJ friendly)))))
+    (CC and)
+    (S
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (DT the) (NN order))
+          (VP (VBD came)
+            (PRT (RP out))
+            (ADJP (JJ wrong))
+            (ADVP (RB recently)))))
+      (, ,)
+      (NP (PRP I))
+      (VP (VBD was)
+        (VP (VBN handed)
+          (NP (DT the) (JJ correct) (NN order))
+          (PP (IN with)
+            (NP (DT a) (JJ sincere) (NN apology))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Fast) (NN food) (NNS restaurants))
+    (ADVP (RB rarely))
+    (VP (VBP have)
+      (S
+        (NP
+          (NP (NN staff))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBP care)
+                (FRAG
+                  (ADJP (JJ enough)
+                    (S
+                      (VP (TO to)
+                        (VP
+                          (ADVP (RB even))
+                          (VB offer)
+                          (NP
+                            (NP (DT an) (JJ insincere) (NN apology))
+                            (, ,)
+                            (NP
+                              (ADJP (RB much) (JJR less))
+                              (NN one)
+                              (SBAR
+                                (WHNP (WDT that))
+                                (S
+                                  (VP (VBZ is)
+                                    (ADJP (JJ sincere))))))))))
+                    (. .))
+                  (. .))))))
+        (ADJP (JJ kudos))))
+    (. !)))
+
+

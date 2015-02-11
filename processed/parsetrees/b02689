@@ -1,0 +1,103 @@
+(ROOT
+  (S
+    (NP (NNP Great))
+    (VP (VBP place))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Home))
+    (PP (IN of)
+      (NP (DT the) (JJ cherry) (NN limeade)))
+    (. .)))
+
+(ROOT
+  (FRAG (RB So)
+    (ADJP (JJ delicious))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP they))
+    (ADVP (RB even))
+    (VP (VBP have)
+      (NP (JJ happy) (NN hour)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBP are)
+      (NP
+        (QP (RB only) (DT a) (JJ few)))
+      (SBAR (IN that)
+        (S
+          (NP (NN use) (NN roller))
+          (VP
+            (VP (VBZ skates))
+            (, ,)
+            (CC but)
+            (VP (VBP have) (RB n't)
+              (VP (VBN seen)
+                (ADJP (RB too) (JJ many)
+                  (PP (IN of)
+                    (NP (DT the) (NN staff))))
+                (PP
+                  (ADVP (RB here))
+                  (IN on)
+                  (NP (PRP them)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VP
+        (ADJP (JJ Quick)
+          (CC and)
+          (JJ efficient))
+        (PP (IN with)
+          (NP (NNP drive-thru))))
+      (CC and)
+      (VP (VBP drive)
+        (PRT (RP up))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Always))
+    (VP (VBP love)
+      (FRAG
+        (S
+          (VP (VBG coming)
+            (ADVP (RB here))))
+        (, ,)
+        (NP
+          (NP (PRP$ its))
+          (SBAR
+            (S
+              (NP (DT a) (JJ real))
+              (VP (VBP treat)))))
+        (. .)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Lemon))
+    (NP
+      (NP (JJ berry) (NN slush))
+      (CC and)
+      (NP (JJ jumbo) (NN popcorn) (NN chicken) (NN yum) (NNS !!)))))
+
+(ROOT
+  (FRAG (CC And)
+    (S
+      (VP (VB catch)
+        (NP (PRP them))
+        (PP (IN in)
+          (NP
+            (NP (JJ happy) (NN hour))
+            (PP (IN for)
+              (NP (JJ AWESOME) (NNS deals)))))))))
+
+

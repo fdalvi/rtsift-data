@@ -1,0 +1,441 @@
+(ROOT
+  (S
+    (NP (DT This) (NN store))
+    (VP (VBZ is)
+      (UCP
+        (ADJP (JJ expensive) (, ,) (JJ dirty))
+        (, ,)
+        (CC and)
+        (NP
+          (NP (RB basically) (DT a) (NN place))
+          (SBAR
+            (S
+              (VP (TO to)
+                (VP (VB walk)
+                  (PP (TO to)
+                    (SBAR
+                      (WHADVP (WRB when))
+                      (S
+                        (NP (PRP you))
+                        (VP (VBP 're)
+                          (ADJP (RB too) (JJ drunk)
+                            (S
+                              (VP (TO to)
+                                (VP (VB drive)
+                                  (PP (TO to)
+                                    (NP
+                                      (NP (DT a) (JJ real) (NN grocery) (NN store))
+                                      (PP (IN for)
+                                        (NP (JJR more) (NN beer))))))))))))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (VP (VBN got)
+        (NP (DT a) (NN drive-thru))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Drive-thru) (NN liquor))
+    (VP (VBP store))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Hooray))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (RB Here))
+      (VP (VBZ is)
+        (NP
+          (NP (DT the) (NN conversation))
+          (SBAR
+            (S
+              (NP (PRP$ my) (NNS friends))
+              (VP (VBD had)
+                (PP (IN with)
+                  (NP
+                    (NP (DT the) (NN lady))
+                    (PP (IN at)
+                      (NP
+                        (NP (DT the) (NN window))
+                        (PP (IN of)
+                          (NP
+                            (NP (DT the) (JJ drive-thru) (NN liquor) (NN store))
+                            (PP (IN on)
+                              (NP
+                                (NP (DT the) (NN way) (NN home))
+                                (PP (IN from)
+                                  (NP
+                                    (NP
+                                      (NP (PRP$ our) (NN friend) (POS 's))
+                                      (NN wedding) (NN rehearsal))
+                                    (: :)
+                                    (NP (NN Lady))))))))))))))))))
+    (: :) (`` ``)
+    (SQ (MD Can)
+      (NP (PRP I))
+      (VP (VB help)
+        (NP (PRP you)))
+      (. ?))))
+
+(ROOT
+  (S ('' '')
+    (S
+      (S
+        (VP (VBG Friend) (: :) (`` ``)
+          (S
+            (INTJ (UH Yeah))
+            (, ,)
+            (NP (PRP we))
+            (VP (VBP want)
+              (NP
+                (NP (DT a) (NN six-pack))
+                (PP (IN of)
+                  (NP
+                    (NP (NNP Bud) (NNP Light) (NNP and))
+                    (: --)))))
+            ('' ''))))
+      (VP (VBZ Lady)))
+    (: :) (`` ``)
+    (S
+      (ADVP (RB Can))
+      (NP (PRP I))
+      (VP (VBP help)
+        (NP (PRP you))))
+    (. ?)))
+
+(ROOT
+  (S ('' '')
+    (S
+      (NP (NNP Friend))
+      (VP (VBP :) ('' '')))
+    (: ...)
+    (S
+      (NP (PRP we))
+      (VP (VBP want)
+        (NP
+          (NP
+            (NP (DT a) (NN six-pack))
+            (PP (IN of)
+              (NP (NNP Bud) (NNP Light))))
+          (CC and)
+          (NP
+            (NP (DT a) (CD six))
+            (PP (IN of)
+              (NP (NNP Pacifico)))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (FRAG
+      (X (SYM ''))
+      (NP (NN Lady)))
+    (: :)
+    (FRAG (`` ``)
+      (INTJ (UH Pacifico))
+      (. ?))))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBP do) (RB n't)
+      (VP (VB have)
+        (NP (DT that))))
+    (. .)))
+
+(ROOT
+  (S ('' '')
+    (S
+      (NP (JJ Other))
+      (VP (VBZ friend)))
+    (: :) (`` ``)
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's)
+        (NP
+          (NP (DT a) (JJ Mexican) (NN beer))
+          (, ,)
+          (NP
+            (ADJP (JJ yellow))
+            (NN label))
+          (: ...))))
+    (. ?)))
+
+(ROOT
+  (S ('' '')
+    (S
+      (S
+        (VP
+          (VP (VBG Lady) (: :) (`` ``)
+            (S
+              (INTJ (UH No))
+              (, ,)
+              (NP (PRP I))
+              (VP (VBP do) (RB n't)
+                (VP (VB think)
+                  (S
+                    (NP (PRP we))
+                    (VP (VB have)
+                      (NP (DT that))))))
+              (. ...) ('' '')))
+          (PRN (-LRB- -LRB-)
+            (FRAG
+              (NP (NN note))
+              (: :)
+              (S
+                (NP (PRP they))
+                (ADVP (RB totally))
+                (VP (VBP have)
+                  (NP (DT that)))))
+            (-RRB- -RRB-))))
+      (VP (VBZ Friend)))
+    (: :) (`` ``)
+    (S
+      (S
+        (VP (VB Do)
+          (NP (PRP you))))
+      (VP (VBP have)
+        (NP (JJ other) (JJ Mexican) (NN beer))))
+    (. ?)))
+
+(ROOT
+  (S ('' '')
+    (NP (JJ Other))
+    (VP (VBD friend) (: :) (`` ``)
+      (S
+        (INTJ (UH Yeah))
+        (, ,)
+        (VP (VB Mexican)
+          (NP
+            (NP (NN beer))
+            (: --)
+            (NP
+              (NP (NNP Pacifico))
+              (, ,)
+              (NP (NNP Dos) (NNP Equis)))
+            (: ...)))))
+    (. ?)))
+
+(ROOT
+  (S ('' '')
+    (S
+      (NP
+        (NP (NN Lady))
+        (: :)
+        (SBAR (`` ``)
+          (S
+            (NP (PRP We))
+            (VP (VBP have)
+              (NP (NNP Tecate)
+                (CC and)
+                (NNP Dos)))))
+        (: ...))
+      (VP (VBP dos)))
+    (: ...) ('' '')
+    (S
+      (NP
+        (NP (JJ Other) (NN friend))
+        (: :)
+        (NP (`` ``) (NNP Dos)))
+      (VP (VBZ Equis)))
+    (. ?)))
+
+(ROOT
+  (NP
+    (NP (NNP '') (NNP Lady))
+    (: :)
+    (NP (`` ``) (NNP Dos) (NNP Equis))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (NP (JJ OK))
+    (, ,)
+    (WHNP (WP what) (RB else))
+    (SQ (VBP do)
+      (NP (PRP you))
+      (VP (VB want)))
+    (. ?)))
+
+(ROOT
+  (NP
+    (NP (NNP '') (NNP Friend))
+    (: :)
+    (S
+      (ADJP (JJ ''))
+      (: ...)
+      (NP (NNP Bud) (NNP Light)))
+    (. ?)))
+
+(ROOT
+  (SINV
+    (VP (VBZ ''))
+    (NP (NNP Lady))
+    (: :) (`` ``)
+    (SBARQ
+      (WHNP
+        (WHADJP (WRB How) (JJ many))
+        (NNS Bud))
+      (SQ
+        (VP (VBZ Light)))
+      (. ?))))
+
+(ROOT
+  (FRAG
+    (NP (NNP '') (NNP Friend))
+    (: :) (`` ``)
+    (S
+      (NP (NNP A))
+      (VP (VBZ six-pack)))
+    (: ...) (. ?)))
+
+(ROOT
+  (S ('' '')
+    (S
+      (NP (DT The) (NN lady))
+      (VP
+        (VP (VBD went)
+          (CC and)
+          (VBD got)
+          (NP (DT the) (NNS beers)))
+        (, ,)
+        (VP
+          (ADVP (RB then))
+          (VBD asked)
+          (NP (PRP$ my) (NN friend))
+          (PP (IN about)
+            (NP (PRP$ her) (NN ethnicity))))
+        (CC and)
+        (VP (VBD told)
+          (NP (PRP us))
+          (PP (DT all) (IN about)
+            (NP (NNS hers))))))
+    (CC and)
+    (S
+      (NP (PRP we))
+      (VP
+        (VP
+          (ADVP (RB finally))
+          (VP (VBD handed)
+            (PP (IN over)
+              (NP (NN money))))
+          (CC and)
+          (VP (VBD got)
+            (NP (DT the) (NNS beers))))
+        (CC and)
+        (VP (VBD ran)
+          (PRT (RP off)))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (NN Note)
+      (SBAR (IN that)
+        (S
+          (NP (PRP we))
+          (VP (VBD found)
+            (ADJP (DT this) (RB so) (JJ hilarious))
+            (SBAR (IN that)
+              (S
+                (NP (PRP we))
+                (VP (VBD went)
+                  (ADVP (RB back))
+                  (PP (IN before)
+                    (NP (DT the) (NN wedding)))
+                  (S
+                    (VP (TO to)
+                      (VP (VB get)
+                        (NP
+                          (NP (DT a) (NN pint))
+                          (PP (IN of)
+                            (NP (NNP Jack) (NNP Daniels))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Unfortunately))
+      (NP (NN someone) (RB else))
+      (VP (VBD was)
+        (VP (VBG working)
+          (NP
+            (NP (DT the) (NN window))
+            (, ,)
+            (NP
+              (NP (DT the) (NNP JD) (NN cost))
+              (NP ($ $) (CD 17)))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (VP (VBN confiscated)
+          (PP (IN by)
+            (NP (NN security)))
+          (PP (IN at)
+            (NP (DT the) (NN wedding) (NN venue))))))
+    (. .)))
+
+(ROOT
+  (NP (NNS Alas) (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Still))
+    (, ,)
+    (NP (DT the) (NNP Sunshine) (NNP Mart))
+    (VP
+      (VP (VBD provided)
+        (NP (JJ valuable) (NNP Arizona) (NN entertainment)))
+      (CC and)
+      (VP (MD will)
+        (ADVP (RB thus))
+        (VP (VB live)
+          (PRT (RP on))
+          (PP (IN in)
+            (NP (PRP$ our) (NNS memories))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Hooray))
+    (. !)))
+
+(ROOT
+  (S (-LRB- -LRB-)
+    (NP (PRP We))
+    (VP (VBD got)
+      (NP (DT the) (NNP JD) (NN back))
+      (PP (IN after)
+        (NP (DT the) (NN wedding))))
+    (. .)))
+
+
+(ROOT
+  (NP (NNP Great) (NNP Store) (. .)))
+
+(ROOT
+  (S
+    (VP (VB Competetive)
+      (NP (NNS Prices)))
+    (. .)))
+
+(ROOT
+  (FRAG (CC And)
+    (NP
+      (NP (JJ super) (JJ good) (NN selection))
+      (PP (IN of)
+        (NP (NN beer)))
+      (PP (IN for)
+        (NP (DT a) (JJR smaller) (NN store))))
+    (. .)))
+
+

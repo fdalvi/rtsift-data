@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Drive-up))
+      (VP (VBG ordering)
+        (NP
+          (NP (NN box))
+          (VP (VBN broken)
+            (PP (IN for)
+              (NP
+                (NP (NNS months))
+                (, ,)
+                (ADVP (NN today)
+                  (PP (IN at)
+                    (NP
+                      (NP (NN lunch))
+                      (VP (VBN ordered)))))
+                (NP (DT a) (NNP Double) (NNP Del) (NNP Cheeseburger))))))))
+    (CC but)
+    (S
+      (NP (PRP they))
+      (VP (VBD had)
+        (NP (DT no) (NN meat)
+          (S
+            (VP (TO to)
+              (VP (VB make)
+                (NP (NNS burgers))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP (JJ Need))
+    (S
+      (NP (PRP I))
+      (VP (VBP say)
+        (ADVP (RBR more))))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (ADVP (IN Off) (RB too))
+    (NP (NNP Whataburger))
+    (. .)))
+
+
+(ROOT
+  (ADJP (VBN Closed)))
+
+

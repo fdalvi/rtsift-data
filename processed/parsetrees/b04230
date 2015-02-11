@@ -1,0 +1,69 @@
+(ROOT
+  (S
+    (NP (NNP Horrible))
+    (VP (VBP wait))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Horrible)
+      (NP (NN service)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP First))
+      (CC and)
+      (NP (JJ last) (NN time)))
+    (VP (MD will)
+      (ADVP (RB ever))
+      (VP (VB patronize)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Great) (NN sale) (NN price))
+      (CC and)
+      (NP
+        (NP (RB not) (RB much))
+        (PP (IN of)
+          (NP
+            (NP (DT a) (NN wait))
+            (CC and)
+            (NP (PRP$ my) (NN husband))))))
+    (VP (VBD liked)
+      (NP (PRP$ his) (NN hair) (NN cut) (NN :--RRB-)))))
+
+
+(ROOT
+  (S
+    (NP
+      (UCP
+        (ADVP (RB Quick))
+        (CC and)
+        (ADJP (JJ easy)))
+      (NNS mans))
+    (VP (VBP haircut))
+    (. .)))
+
+(ROOT
+  (NP (RB Just) (DT the) (NN way)
+    (SBAR
+      (S
+        (NP (PRP I))
+        (VP (VBP like)
+          (SBAR
+            (S
+              (NP (PRP it)
+                (CC and)
+                (NNP Renee))
+              (VP (VBZ gets)
+                (NP (PRP it))
+                (ADVP (RB right)
+                  (NP (DT every) (NN time)))))))))
+    (. .)))
+
+

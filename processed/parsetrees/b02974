@@ -1,0 +1,208 @@
+(ROOT
+  (S
+    (NP (DT This) (NNP Panda) (NNP Express) (NN location))
+    (VP (VBZ is)
+      (NP (DT a) (JJ difficult) (NN one)
+        (S
+          (VP (TO to)
+            (VP (VB review))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN As)
+      (S
+        (VP (VBZ is)
+          (ADJP (JJ typical)
+            (PP (IN of)
+              (NP (DT the) (NN Panda)))))))
+    (, ,)
+    (NP (DT the) (NN food))
+    (VP (VBZ 's)
+      (UCP
+        (ADJP (JJ good))
+        (CC and)
+        (VP (VBN cooked)
+          (ADVP (RB up) (RB fast)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (INTJ (UH No))
+      (, ,)
+      (NP (PRP it))
+      (VP (VBZ 's) (RB not)
+        (NP (NN gourmet) (JJ Chinese))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADJP (JJ tasty) (RB enough))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (ADVP (RB then))
+    (NP (PRP we))
+    (VP (VBP come)
+      (PP (TO to)
+        (NP
+          (NP (DT the) (NN weakness))
+          (PP (IN of)
+            (NP
+              (NP (DT this) (NN location))
+              (: :)
+              (NP (DT The) (NN menu)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN selection))
+    (VP (VBZ is)
+      (ADJP (RB really) (, ,) (RB really) (JJ slim)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (TO To)
+      (NP (DT the) (NN point)))
+    (NP (PRP they))
+    (VP (VBP do) (RB n't)
+      (ADVP (RB even))
+      (VP (VB have)
+        (NP
+          (NP
+            (ADJP (JJ sweet)
+              (CC and)
+              (JJ sour))
+            (NN chicken))
+          (, ,)
+          (PP (IN for)
+            (S
+              (VP (VBG crying)
+                (PRT (RP out))
+                (ADVP (JJ loud))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 'm)
+        (VP (VBN used)
+          (PP (TO to)
+            (NP
+              (NP (NNP Panda) (NNP Express) (NNS locations) (NN varying))
+              (PP (IN in)
+                (NP (PRP$ their) (NNS options)))
+              (PRN (-LRB- -LRB-)
+                (S
+                  (NP (NNP Potato) (NNP Chicken)
+                    (CC and)
+                    (NNP String-Bean) (NNP Chicken))
+                  (VP (VBP are)
+                    (ADVP (RB always))
+                    (ADJP (JJ hard)
+                      (S
+                        (VP (TO to)
+                          (VP (VB come)
+                            (PP (IN by))))))))
+                (-RRB- -RRB-)))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT this) (NN one))
+      (ADVP (RB really))
+      (VP (VBZ takes)
+        (NP (DT the) (NN cake))
+        (ADVP
+          (ADVP (RB as) (RB far))
+          (SBAR (IN as)
+            (S
+              (NP (JJ limited) (NN selection))
+              (VP (VBZ goes)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (JJ 1st) (NN time))
+      (NP (NNP Panda) (NNP Express))
+      (VP (VBP experience)))
+    (: ...)
+    (S
+      (NP (PRP I))
+      (VP (VBD thought)
+        (SBAR
+          (S
+            (NP (DT the) (NN food))
+            (VP (VBD was)
+              (ADJP (JJ good)))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (NN Simple))
+      (, ,)
+      (ADJP (JJ good) (, ,) (JJ inexpensive)))
+    (: ...)
+    (S
+      (NP (DT the) (NN food))
+      (VP (VBD was)
+        (ADJP
+          (ADJP (RB far) (JJR better))
+          (SBAR (IN than)
+            (S
+              (NP (PRP I))
+              (VP (VBD anticipated)
+                (PP (IN for)
+                  (NP (DT a) (NN chain)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD 'll)
+      (VP (VB go)
+        (ADVP (RB back))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP$ My) (NNS sons))
+      (VP (VBP love)
+        (S
+          (VP (VBG going)
+            (ADVP (RB there))))))
+    (: -)
+    (S
+      (NP (PRP I))
+      (VP (MD can)
+        (VP (VB see)
+          (SBARQ
+            (WHADVP (WRB why))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (NNP BBQ) (NN pork))
+      (, ,)
+      (NP (NN chow) (NN mein))
+      (, ,)
+      (NP (NNP Chicken) (NNP w)))
+    (: /)
+    (NP
+      (NP (NN string) (NNS beans))
+      (: -)
+      (NP
+        (NP (DT all))
+        (ADJP (RB very) (JJ tasty))))
+    (. .)))
+
+

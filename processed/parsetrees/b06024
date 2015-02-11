@@ -1,0 +1,94 @@
+(ROOT
+  (NP (DT No) (NNS reviews) (. ?)))
+
+(ROOT
+  (SQ (NNP Does)
+    (NP (DT this) (NN place))
+    (VP
+      (ADVP (RB even))
+      (ADVP (RB still))
+      (VB exist))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD LOVED)
+      (NP (PRP it))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP I))
+          (VP (VBD was)
+            (VP (VBG growing)
+              (PRT (RP up))
+              (PP (IN in)
+                (NP (NNP Green) (NNP Valley))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Sicilian))
+    (VP (VBZ breadsticks)
+      (PP (IN with)
+        (NP (JJ artichoke) (NNS hearts)))
+      (: ...)
+      (ADVP (RB mmm)))
+    (. .)))
+
+(ROOT
+  (NP (JJ Great) (NN pizza) (. !)))
+
+
+(ROOT
+  (SINV
+    (S
+      (S
+        (NP (DT this) (NN place))
+        (VP (VBZ does) (RB not)
+          (VP (VB exist))))
+      (CC and)
+      (S
+        (NP (DT the) (NN number))
+        (VP (VBD left)
+          (ADVP (RB above)))))
+    (VP (VBZ is))
+    (NP (DT a) (NN massage) (NN parlor.lol))))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP have) (RB n't)
+        (VP (VBN been)
+          (ADVP (RB here))
+          (PP (IN in)
+            (NP (NNS years))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP they))
+      (VP (VBD had)
+        (NP (DT the) (JJS best) (NN pizza))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ My) (NN daughter))
+      (CC and)
+      (NP (PRP I)))
+    (VP (MD would)
+      (VP (VB go)
+        (ADVP (RB there)
+          (PP (IN for)
+            (NP
+              (NP (DT a) (NN piece))
+              (PP (IN of)
+                (NP (NN pizza))))))
+        (NP (DT a) (JJ nd) (NN soda) (NN special) (: ...) (JJ nice) (NN owner))
+        (ADVP (RB too))))
+    (. .)))
+
+

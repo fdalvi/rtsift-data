@@ -1,0 +1,183 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (ADVP (IN in)
+        (CC and)
+        (IN out)
+        (PP (IN of)
+          (ADVP (RB here))))
+      (ADVP (RB so) (RB quickly)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD made)
+      (SBAR
+        (S
+          (NP (PRP me))
+          (VP (VBP feel)
+            (S
+              (VP (VBN welcomed)))))))))
+
+
+(ROOT
+  (S
+    (VP (VB Went)
+      (ADVP (RB here))
+      (PP (IN for)
+        (NP
+          (NP (DT a) (NN blood) (NN draw))
+          (PP (IN on)
+            (NP (DT a) (NNP Monday) (NN morning))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD had)
+        (NP
+          (NP (DT an) (NN appointment))
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (NP (PRP I))
+              (VP (VBP think)
+                (S
+                  (VP (VBN made)
+                    (S
+                      (NP (NNS things))
+                      (ADJP (JJR smoother)))))))))))
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBD was) (RB not)
+        (ADJP (VBN crowded)
+          (PP (IN at)
+            (NP (DT all))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (NNP Clean))
+      (, ,)
+      (ADJP (JJ efficient) (, ,)
+        (CC and)
+        (JJ friendly)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP wish)
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBD made)
+            (NP
+              (NP (NN note))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (NN woman))
+                  (SBAR
+                    (WHNP (WP who))
+                    (S
+                      (VP (VBD drew)
+                        (NP (PRP$ my) (NN blood))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ is)
+        (NP (DT the) (JJ first) (NN time))
+        (SBAR (RB ever) (IN that)
+          (S
+            (NP (PRP I))
+            (ADVP (RB actually))
+            (VP (VBD did) (RB not)
+              (VP (VB feel)
+                (NP (NN anything))
+                (, ,)
+                (FRAG
+                  (INTJ (UH yes))
+                  (, ,) (RB not)
+                  (NP (RB even) (DT a) (NN pinch)))))))
+        (, ,)
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (DT the) (NN needle))
+            (VP (VBD entered))))))
+    (CC and)
+    (S
+      (PP (IN on)
+        (NP
+          (NP (NN top))
+          (PP (IN of)
+            (NP
+              (NP (DT that))
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (PRP it))
+                  (VP (VBD was)
+                    (ADJP (RP over)))))))))
+      (NP (PRP I))
+      (ADVP (RB really))
+      (VP (MD could) (RB not)
+        (VP (VB see)
+          (SBAR
+            (WHADVP (WRB where))
+            (S
+              (NP (PRP she))
+              (VP (VBD went)
+                (PP (IN into)
+                  (NP (PRP$ my) (NN arm)))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (PP (RB Even) (IN in)
+      (NP
+        (NP
+          (NP (DT the) (JJ following) (NNS days))
+          (-LRB- -LRB-)
+          (SBAR
+            (WHADVP (WRB where))
+            (S
+              (PP
+                (ADVP (RB sometimes))
+                (IN in)
+                (NP (DT the) (NN past)))
+              (VP
+                (VP (VBP have)
+                  (VP (VBN been)
+                    (ADJP
+                      (NP (DT a) (RB little))
+                      (JJ sore))))
+                (CC or)
+                (VP (VBP have)
+                  (VP (VBN seen)
+                    (NP
+                      (NP (DT a) (JJ small) (NN area))
+                      (PP (IN of)
+                        (ADJP (JJ bruising))))
+                    (SBAR
+                      (WHADVP (WRB where))
+                      (S
+                        (NP (DT the) (NN needle))
+                        (VP (VBD entered)))))))))
+          (: --))
+        (SBAR
+          (S
+            (NP (EX there))
+            (VP (VBD was)
+              (VP (VBG NOTHING)))))))
+    (. .)))
+
+

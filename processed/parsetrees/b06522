@@ -1,0 +1,87 @@
+(ROOT
+  (S
+    (NP (NNP Pizza) (POS 's))
+    (VP (VBP ok))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NN Customer) (NN service))
+    (VP (VBZ is)
+      (ADJP (JJ awful)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN place))
+      (VP (VBZ is)
+        (ADJP (JJ clean)
+          (CC and)
+          (JJ updated))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ is)
+              (NP (DT a) (NN plus)))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (NN everything) (RB else))
+      (VP (VBD was)
+        (NP
+          (NP (NN sort))
+          (PP (IN of)
+            (S
+              (VP (VBG lacking)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN service))
+      (VP (VBD was)
+        (ADJP (JJ slow))))
+    (, ,)
+    (NP (DT the) (NN food))
+    (VP (VBD was)
+      (ADJP (JJ mediocre)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (VP (VB Nice)
+        (NP (NN atmosphere))))
+    (, ,)
+    (NP (DT the) (NN building))
+    (VP (VBD was)
+      (VP (VBN converted)
+        (PP (IN from)
+          (NP (DT an) (JJ old) (NN car) (NN wash)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN pizza))
+    (VP (VBZ is)
+      (ADJP (JJ decent)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (JJ Cheeseburger) (NN pizza))
+      (VP (VBZ is)
+        (NP (PRP$ our) (NN favorite))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (ADVP (RB really))
+      (ADJP (RB really) (JJ good)))
+    (. .)))
+
+

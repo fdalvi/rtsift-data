@@ -1,0 +1,157 @@
+(ROOT
+  (NP
+    (NP (JJ Good) (NN neighborhood))
+    (NP (JJ convenient) (NN store))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's)
+        (VP (VBN got)
+          (NP (DT the) (NNS basics)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADJP (JJ nice)
+          (PP (IN for)
+            (NP (DT a) (JJ late-night) (NNP Oreo) (NN run))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP
+        (NP (JJ Mexican) (NN coke))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ is)
+              (ADJP (JJ awesome)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (ADVP (RB usually))
+      (NP
+        (NP (DT the) (RB only) (JJ white) (NN person))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN store))
+            (PP (CC but)
+              (NP (NNS whatevs)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Appearance))
+      (ADJP (JJ wise)))
+    (, ,)
+    (NP (NNP Kwik) (NNP Mart))
+    (VP (VBZ looks)
+      (NP (NN ghetto)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP
+      (VP (VBZ 's)
+        (NP (PRP$ your) (JJ typical) (JJ off-the-main-street) (NN convenience) (NN store)))
+      (CC and)
+      (VP (VBZ carries)
+        (NP (PRP$ your) (NNS essentials))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (PP (IN within)
+        (S
+          (VP (VBG walking)
+            (NP (NN distance))
+            (PP (IN from)
+              (NP
+                (NP (PRP$ my) (NN girlfriend) (POS 's))
+                (NN house))))))
+      (, ,)
+      (SBAR (IN though)
+        (S
+          (NP (PRP I))
+          (VP (VBP do) (RB n't)
+            (VP (VB suggest)
+              (S
+                (NP (PRP we))
+                (VP (VB walk)
+                  (ADVP (RB there)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN staff))
+    (VP (VBZ is)
+      (ADJP (JJ nice))
+      (NP
+        (NP (DT every) (NN time))
+        (CC and)
+        (NP (DT a) (JJ good) (JJ overall) (NN selection))
+        (PP (IN of)
+          (NP (NNS items)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (DT No) (NN reason))
+    (S
+      (VP (TO to)
+        (VP (VB stop)
+          (S
+            (VP (VBG going))))))
+    (. !)))
+
+
+(ROOT
+  (S (: ...)
+    (NP
+      (NP (DT the) (JJS closest) (NN stop))
+      (PP (TO to)
+        (NP (PRP$ my) (NN home))))
+    (VP
+      (ADVP (RB just) (RB so))
+      (VBZ happens)
+      (S
+        (VP (TO to)
+          (VP (VB have)
+            (NP
+              (NP (DT the) (JJS cheapest) (NN gas))
+              (PP (IN in)
+                (NP (NNP Northern) (NNP Phoenix))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (CD 2) (NNS minutes))
+      (PP (IN from)
+        (NP (NN door))))
+    (PP (TO to)
+      (NP
+        (NP (NN door))
+        (: -)
+        (SBARQ
+          (WHNP (WP what) (JJR more))
+          (SQ (MD can)
+            (NP (PRP you))
+            (VP (VB ask)))
+          (. ?))))))
+
+

@@ -1,0 +1,128 @@
+(ROOT
+  (FRAG
+    (ADJP (RB Very) (JJ good))
+    (. !)))
+
+(ROOT
+  (S
+    (PP (IN Has)
+      (NP (NN everything)))
+    (NP (PRP you))
+    (VP (VBP need)
+      (PP (IN for)
+        (NP
+          (NP (NN propane))
+          (, ,)
+          (NP (NN smoking) (, ,) (NNP BBQ) (, ,))
+          (CC &)
+          (RB out)
+          (NP (NN door) (NN cooking)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP (RB Very) (JJ helpful))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VB Love)
+      (NP (DT this) (NN place)
+        (S
+          (VP (TO to)
+            (VP (VB refill)
+              (NP (PRP$ our) (NN tank)))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Fast))
+      (, ,)
+      (ADJP (JJ convenient) (, ,)
+        (CC and)
+        (JJ decently)))
+    (VP (VBN priced))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (NNP Great) (NNP Family))
+    (VP (VBD owned)
+      (NP (NN place))
+      (S
+        (VP (TO to)
+          (VP (VB get)
+            (NP
+              (NP (DT all))
+              (PP (IN of)
+                (NP (PRP$ your) (NNP BBQ) (NNS supplies))))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (DT These) (NNS guys))
+    (ADVP (RB really))
+    (VP (VBP know)
+      (NP (PRP$ their) (NNP BBQ) (NN stuff)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Great))
+    (NP (NN service)
+      (CC and)
+      (NN product) (NN knowledge))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Highly))
+    (VP (VBP recommend))
+    (. !)))
+
+
+(ROOT
+  (NP
+    (NP (NNP Propane))
+    (, ,)
+    (NP (NN smoking) (NNS woods))
+    (, ,)
+    (NP (NNS seasonings))
+    (: ...)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD got)
+      (NP (PDT all) (PRP$ your) (NN BBQ) (NNS needs)))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBD got)
+        (SBAR
+          (S
+            (NP
+              (NP (NNS grills))
+              (, ,)
+              (NP (NNS fireplaces))
+              (CC and)
+              (NP (PDT all) (PRP$ your) (NN backyard)))
+            (VP (VBZ needs))))))
+    (: ...)
+    (S
+      (NP
+        (NP (JJ Cheap) (NNS bundles))
+        (PP (IN of)
+          (NP (NN juniper))))
+      (VP (VBD firewood)
+        (ADVP (RB as) (RB well))))
+    (. .)))
+
+

@@ -1,0 +1,200 @@
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB Whenever))
+      (S
+        (S
+          (NP (PRP I))
+          (VP (VBP 'm)
+            (VP (VBG looking)
+              (PP (IN for)
+                (NP
+                  (NP (NN something))
+                  (ADJP (JJ quick)
+                    (S
+                      (VP (TO to)
+                        (VP (VB eat))))))))))
+        (CC and)
+        (S
+          (NP (EX there))
+          (VP (VBZ 's)
+            (NP (DT a) (NNP Del) (NNP Taco))
+            (ADVP (RB nearby))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (NP
+        (NP (CD one))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (JJ first) (NNS places))
+            (SBAR
+              (S
+                (NP (PRP I))
+                (VP (VBP consider))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (VP (VBG playing)
+          (NP (NN golf))
+          (PP (IN at)
+            (NP (DT the) (NNP Wig) (NNP Wam) (NN golf) (NN course))))))
+    (CC and)
+    (S
+      (NP (DT this) (NN location))
+      (VP (VBD was)
+        (ADJP (JJ right))
+        (PP (IN off)
+          (NP (DT the) (CD 101)))
+        (, ,)
+        (SBAR (IN so)
+          (S
+            (NP (PRP I))
+            (VP (VBD stopped)
+              (S
+                (VP (TO to)
+                  (VP (VB grab)
+                    (NP (NN breakfast))
+                    (PP (IN before)
+                      (NP
+                        (NP (PRP$ my) (NN round))
+                        (PP (IN of)
+                          (NP (NN golf)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD ordered)
+      (NP
+        (NP
+          (NP (CD 2) (NNP Del) (NNPS Cheeseburgers))
+          (PRN (-LRB- -LRB-)
+            (NP ($ $) (CD 4.58))
+            (-RRB- -RRB-)))
+        (PP (IN via)
+          (NP (DT the) (NN drive) (NN thru)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBD came)
+        (PP (IN out)
+          (ADJP
+            (ADJP (JJ fast))
+            (, ,)
+            (ADJP (JJ fresh))
+            (, ,)
+            (CC and)
+            (ADJP (JJ accurate))))))
+    (: ...)
+    (S
+      (NP (EX there))
+      (VP (VBZ 's) (RB not)
+        (ADJP (RB much) (JJR more)
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (MD could)
+                (VP (VB ask)
+                  (PP (IN for)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP I))
+        (VP (VBP 'm)
+          (PP (IN in)
+            (NP (DT the) (NN area)))
+          (ADVP (RB again)))))
+    (NP (PRP I))
+    (VP (VBP know)
+      (SBAR
+        (S
+          (NP (EX there))
+          (VP (VBZ 's)
+            (NP
+              (NP (DT a) (NNP Del) (NNP Taco))
+              (SBAR
+                (S
+                  (NP (PRP I))
+                  (VP (MD can)
+                    (VP (VB count)
+                      (PRT (RP on)))))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Return) (NNP Factor))
+    (: -)
+    (NP (CD 75) (NN %))))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ only) (NN reason))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBP am)
+            (VP (VBG giving)
+              (NP (DT this) (NN place))
+              (NP
+                (NP (CD 4) (NNS stars))
+                (SBAR
+                  (S
+                    (VP (VBZ is)
+                      (NP (DT the) (NN food)))))))))))
+    (ADVP (RB always))
+    (VP (VBZ comes)
+      (PP (IN out)
+        (NP (JJ hot)
+          (CC and)
+          (JJ fresh))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Service))
+      (VP (MD can)
+        (VP (VB be)
+          (ADJP (JJ slow)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT the) (JJ crinkle) (NNS fries))
+      (VP (VBP are)
+        (PP (IN worth)
+          (NP (DT the) (NN wait)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP like)
+      (NP (DT this) (NN place))
+      (PP (IN over)
+        (NP (NNP taco) (NNP Bell)))
+      (SBAR (IN because)
+        (S
+          (NP (RB sometimes) (NN u))
+          (ADVP (RB just))
+          (VP (VBP want)
+            (NP (NNS fries))
+            (PP (IN with)
+              (NP (DT that) (NN taco)
+                (CC or)
+                (NN burrito)))))))
+    (. !)))
+
+

@@ -1,0 +1,206 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (VP (VBG visiting)
+        (PP (IN from)
+          (NP (NNP California)))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP I))
+            (VP (VBD noticed)
+              (NP (DT an) (NN oil) (NN leak)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD took)
+        (NP (PRP$ my) (NN car))
+        (PP (TO to)
+          (NP (DT this) (NN location)))))
+    (CC and)
+    (S
+      (NP (DT the) (NNS guys))
+      (ADVP (RB there))
+      (VP (VBD were)
+        (ADJP (JJ awesome))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP (RB Very) (JJ honest)
+      (CC and)
+      (JJ helpful))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (VP (VBN Checked)
+          (NP (PRP$ my) (NN car))))
+      (, ,)
+      (S
+        (VP (VBN fixed)
+          (NP (PRP$ my) (NN leak)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (PP (IN on)
+          (NP (PRP$ my) (NN way)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (INTJ (UH OK))
+      (, ,)
+      (NP (PRP I))
+      (ADVP (RB just))
+      (VP (VBD went)
+        (ADVP (RB there))
+        (NP (NN today))
+        (S
+          (VP (TO to)
+            (VP (VB have)
+              (NP (PRP$ my) (NN pickup) (NN serviced)))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD occurred)
+        (PP (TO to)
+          (NP (PRP me)))
+        (SBAR (IN that)
+          (S
+            (NP (DT these) (NNS guys))
+            (ADVP (RB always))
+            (VP (VBP treat)
+              (NP (PRP me))
+              (ADVP (RB pretty) (RB well)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP (PRP They))
+        (ADVP (RB never))
+        (VP (VBP seem)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (ADJP (RB super) (JJ busy)))))))
+      (CC and)
+      (S
+        (NP (PRP I))
+        (VP (VBP 'm) (RB not)
+          (ADJP (JJ sure))
+          (ADVP (RB why)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (ADVP (IN in)
+          (CC and)
+          (IN out))
+        (PP (IN in)
+          (NP
+            (QP (RB about) (CD 15))
+            (NNS minutes)))))
+    (. .)))
+
+
+(ROOT
+  (FRAG
+    (ADVP (RB Quick))
+    (NP (NN service))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NN Everything) (RB else))
+    (VP (VBZ is)
+      (ADJP (RB very) (JJ poor)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NN Customer) (NN service))
+    (ADJP (JJ poor))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Adding)
+        (PP (IN on)
+          (NP (JJ unnecessary) (NNS charges)))))
+    (VP (RB not) (VBN approved)
+      (PP (IN by)
+        (NP (PRP me))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Explanation))
+      (PP (IN of)
+        (SBAR
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (NP (PRP I))
+              (ADVP (RB actual))
+              (VP (VBP need))))
+          (CC and)
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (NP (PRP they))
+              (VP (VBP say)
+                (SBAR
+                  (S
+                    (NP (PRP I))
+                    (VP (MD should)
+                      (VP (VB get)))))))))))
+    (VP
+      (VP (VBD was)
+        (ADJP (JJ fuzzy)))
+      (CC and)
+      (VP (MD could) (RB n't)
+        (VP (VB get)
+          (NP (DT a) (JJ straight) (NN answer))
+          (ADVP (RB really)))))
+    (. .)))
+
+(ROOT
+  (NP (NNP No) (: ...)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD 'll)
+      (VP (VB try)
+        (CC and)
+        (VB find)
+        (NP
+          (NP (DT another) (NN place))
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (MD wo) (RB n't)
+                (VP (VB feel)
+                  (VP (VBN taken)
+                    (NP
+                      (NP (NN advantage))
+                      (PP (IN of)))))))))))))
+
+

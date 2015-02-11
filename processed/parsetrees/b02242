@@ -1,0 +1,209 @@
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP I))
+        (VP (MD could)
+          (VP (VB give)
+            (NP (DT this) (NN dentist))
+            (NP (DT no) (NNS stars))))))
+    (NP (PRP I))
+    (VP (MD would))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (VBZ has)
+      (NP
+        (NP (DT no) (NN idea))
+        (SBAR
+          (WHADVP (WRB how))
+          (S
+            (VP (TO to)
+              (VP (VB listen)
+                (PP (TO to)
+                  (NP (NNS patients)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJS worst) (NN dentist))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP 've)
+              (ADVP (RB ever))
+              (VP (VBN seen)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (JJS Worst))
+    (VP (VBP experience)
+      (ADVP (RB ever)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Procedure))
+    (VP (VBD was)
+      (NP
+        (NP (CD 400) (NN %))
+        (ADJP (JJR more) (IN than) (VBN quoted))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN On)
+      (NP
+        (NP (NN top))
+        (PP (IN of)
+          (NP (DT that)))))
+    (, ,)
+    (NP (JJR more) (NNS procedures))
+    (VP (VBD were)
+      (VP (VBN added)
+        (SBAR (IN that)
+          (S
+            (VP (VBD were)
+              (VP
+                (ADVP (RB never))
+                (VBN discussed)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VP (VBN Asked)
+        (PP (IN about)
+          (NP (PRP it))))
+      (, ,)
+      (VP (VBD was)
+        (VP (VBN yelled)
+          (PP (IN at))))
+      (CC and)
+      (VP (VBD told)
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (NNP Dentist))
+            (VP
+              (VP (VBD decided)
+                (PP (IN on)
+                  (NP
+                    (NP (DT the) (NN procedure))
+                    (PP (IN of)
+                      (NP (PRP$ their) (JJ own) (NN accord))))))
+              (CC and)
+              (VP (VBD chose)
+                (S (RB not)
+                  (VP (TO to)
+                    (VP (VB inform)
+                      (NP (PRP me)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (VP (VBD asked)
+          (SBAR
+            (WHADVP (WRB why))
+            (S (, ,)
+              (VP (VBD was)
+                (VP (VBN told))))))))
+    (NP (EX there))
+    (VP (VBD was)
+      (NP (DT no) (NN time)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Great) (NN job))
+      (, ,)
+      (NP (JJ small) (NN business))
+      (, ,))
+    (PRN
+      (S
+        (NP (PRP I))
+        (VP (VBP appreciate)
+          (S
+            (VP (VBG going)
+              (NP (DT an) (NN hour))
+              (PRT (RP out))
+              (PP (IN of)
+                (NP (PRP$ my) (NN way)
+                  (S
+                    (VP (TO to)
+                      (VP (VB get)))))))))))
+    (VP (VBD yelled)
+      (PP (IN at)
+        (PP (IN by)
+          (FRAG (CC and)
+            (NP
+              (ADJP (JJ angry))
+              (JJ Indian) (NN woman))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VP (VBN Walked)
+        (PRT (RP out))
+        (PP (IN before)
+          (NP (DT the) (NN procedure))))
+      (CC and)
+      (VP (MD will) (RB not)
+        (ADVP (RB ever))
+        (VP (VB consider)
+          (S
+            (VP (VBG going)
+              (ADVP (RB back)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP 're)
+          (PP (IN on)
+            (NP
+              (NP (DT a) (NN budget))
+              (, ,)
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (VBZ is)
+                    (ADVP (RB probably))
+                    (NP
+                      (NP (DT the) (NN case))
+                      (VP (VBG seeing)
+                        (SBAR (IN as)
+                          (S
+                            (NP (PRP you))
+                            (VP (VBP 're)
+                              (VP (VBG going)
+                                (PP (TO to)
+                                  (NP (DT a) (NN strip) (NN mall) (NN dentist)))))))))))))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB consider)
+        (NP (DT a) (JJ drunken) (NN dentist) (NN visit))
+        (PP (TO to)
+          (NP (NNP Mexico)))
+        (PP (IN before)
+          (S
+            (VP (VBG going)
+              (PP (TO to)
+                (NP (DT this) (NN place))))))))
+    (. .)))
+
+

@@ -1,0 +1,68 @@
+(ROOT
+  (NP
+    (NP (NNP Longest) (NNP wait)
+      (CC &)
+      (NNP worst))
+    (NP (NN service))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Even)
+      (PP (IN with)
+        (NP (DT an) (NN appointment))))
+    (NP (PRP I))
+    (VP (VBD waited)
+      (NP
+        (NP
+          (NP (DT an) (NN hour))
+          (PP (IN in)
+            (NP (DT the) (VBG waiting) (NN room))))
+        (CC and)
+        (ADVP (RB then))
+        (NP
+          (NP (DT another) (CD 40) (NNS minutes))
+          (PP (IN in)
+            (NP (DT the) (JJ patient) (NN room))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Additionally))
+    (, ,)
+    (NP (PRP I))
+    (VP
+      (VP (VBD left)
+        (NP (DT a) (NN phone) (NN message))
+        (PP (IN for)
+          (NP
+            (NP (DT the) (NN doctor))
+            (PRN (-LRB- -LRB-)
+              (NP (NNP Verdejo))
+              (-RRB- -RRB-)))))
+      (CC and)
+      (VP (VBD was)
+        (ADVP (RB never))
+        (VP (VBN called)
+          (ADVP (RB back)))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Choose)
+      (NP (DT a) (JJ different) (NN PCP))
+      (SBAR (IN if)
+        (S
+          (NP (PRP you))
+          (VP (MD can)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's) (RB not)
+      (ADJP (JJ worth)
+        (NP (PRP it))))
+    (. .)))
+
+

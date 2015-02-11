@@ -1,0 +1,177 @@
+(ROOT
+  (S
+    (S
+      (NP (NN Anything)
+        (S
+          (VP (TO to)
+            (VP (VB make)
+              (S
+                (NP (PRP$ my) (NN life))
+                (ADJP (RBR easier)))))))
+      (VP (VBZ is)
+        (ADJP (JJ key)
+          (PP (IN for)
+            (NP (PRP me))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NNP Walgreens))
+      (VP (VBZ does)
+        (NP
+          (NP
+            (NP (DT that))
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP it))
+                (VP (VBZ comes)
+                  (PP (TO to)
+                    (NP (CD two) (NNS things)))))))
+          (: :)
+          (NP
+            (NP (CD one))
+            (, ,)
+            (NP
+              (NP (DT the) (NNP Walgreens) (NNP iPhone) (NN app))
+              (PP (IN for)
+                (S
+                  (VP
+                    (VP (VBG uploading)
+                      (NP (NNS photos)))
+                    (CC and)
+                    (VP (VBG choosing)
+                      (SBAR
+                        (WHADVP (WRB when))
+                        (S
+                          (NP (PRP I))
+                          (VP (MD 'll)
+                            (VP (VB pick)
+                              (NP (PRP them))
+                              (PRT (RP up))))))))))))
+          (, ,)
+          (CC and)
+          (NP
+            (NP (CD two))
+            (, ,)
+            (VP (VBG being)
+              (VP
+                (ADVP (RB down)
+                  (NP (DT the) (NN street))
+                  (PP (IN at)
+                    (NP (DT the) (JJ next) (NN intersection))))
+                (PP (IN from)
+                  (NP (NN home)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNS Walgreens))
+      (VP (VBZ is)
+        (PP (IN like)
+          (NP (DT a) (NNP CVS)))))
+    (: ...)
+    (S
+      (NP
+        (NP (DT a) (JJ drive-thru) (NN pharmacy))
+        (, ,)
+        (CC and)
+        (NP
+          (NP (JJ basic) (NNS necessities))
+          (PP (IN with)
+            (NP (DT the) (NNS prices)))))
+      (VP (VBD jacked)
+        (PRT (RP up))
+        (S
+          (VP (TO to)
+            (VP (VB match)
+              (NP (PRP$ your) (NN desperation))
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (PRP you))
+                  (VP (VBP walk)
+                    (PP (IN in)
+                      (NP (DT the) (NN door)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (RB Back)
+        (ADJP (JJ East)))
+      (, ,)
+      (NP (DT the) (NNP Walgreens) (NNS stores))
+      (VP (VBD were)
+        (PP (IN like)
+          (NP
+            (NP (DT a) (NNP CVS))
+            (PP (IN on)
+              (NP (NNS steroids)))))))
+    (: ;)
+    (S
+      (PP (IN in)
+        (NP (DT this) (JJ general) (NN area)))
+      (, ,)
+      (ADVP (RB though))
+      (, ,)
+      (NP
+        (NP (DT the) (NNP CVS))
+        (PP (IN at)
+          (NP (JJ 16th) (NNP St)
+            (CC and)
+            (NNP Camelback))))
+      (VP (VBZ is)
+        (ADJP (JJR nicer))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT Some) (NNS drawbacks))
+      (PP (TO to)
+        (NP (DT this) (NN location))))
+    (VP (VBP are) (RB not)
+      (VP (VBG being)
+        (ADJP (RB as) (JJ clean)
+          (SBAR (IN as)
+            (S
+              (NP (NNP Walgreens))
+              (VP (VBZ is)
+                (ADJP
+                  (ADJP (JJ known)
+                    (PP (IN for)))
+                  (, ,)
+                  (CC and)
+                  (ADJP (RB seemingly) (JJ cluttered)
+                    (CC and)
+                    (JJ disorganized)))))))))
+    (. .)))
+
+
+(ROOT
+  (FRAG
+    (NP (NNP Pharmacy))
+    (: :)
+    (S
+      (NP (PRP They))
+      (ADVP (RB only))
+      (VP (VBP have)
+        (S
+          (NP (CD 1) (NN person) (NN staffing))
+          (NP (DT this) (NN location)))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBZ Takes)
+      (NP
+        (QP (JJR more) (IN than) (CD 30))
+        (NNS minutes))
+      (S
+        (VP (TO to)
+          (VP (VB fill)
+            (NP (DT a) (NN Rx))))))
+    (. .)))
+
+

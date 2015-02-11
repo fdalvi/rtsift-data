@@ -1,0 +1,120 @@
+(ROOT
+  (S
+    (NP (DT This) (NN woman))
+    (VP (VBZ does)
+      (NP (JJ excellent) (NN work))
+      (PP (IN in)
+        (NP
+          (NP (DT a) (JJ short) (NN amount))
+          (PP (IN of)
+            (NP (NN time))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's)
+        (ADJP (RB reasonably) (VBN priced))
+        (, ,)
+        (ADVP (RB too))))
+    (: --)
+    (S
+      (PP (IN for)
+        (NP
+          (NP
+            (NP (DT a) (NN bridesmaid) (POS 's))
+            (NN dress))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBD needed)
+                (S
+                  (VP (VBG adjusting)
+                    (PP (IN on)
+                      (NP
+                        (NP (CD two) (NNS straps))
+                        (CC and)
+                        (NP (NN work))))
+                    (PP (IN on)
+                      (NP (DT the) (NN bodice))))))))))
+      (, ,)
+      (NP (PRP it))
+      (VP (VBD cost)
+        (NP
+          (QP (RB about) ($ $) (CD 84)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (DT This) (NN woman))
+      (VP (VBZ is)
+        (NP
+          (NP (DT the) (JJS best))
+          (PP (IN in)
+            (NP (NN town))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP she))
+      (VP (VBZ is)
+        (ADJP (JJ semi-retired))
+        (SBAR (IN so)
+          (S
+            (NP (PRP$ her) (NNS hours))
+            (VP (VBP are)
+              (ADJP
+                (NP (DT a) (RB bit))
+                (JJ infrequent)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP She))
+      (VP (VBZ is)
+        (ADJP
+          (ADJP (RB slightly) (RBR more) (JJ expensive))
+          (PP (IN than)
+            (NP
+              (NP (JJ other) (NNS places))
+              (PP (IN in)
+                (NP (NN town))))))))
+    (, ,)
+    (CC but)
+    (SINV
+      (VP (VBZ is)
+        (ADJP (RB totally) (JJ worth)))
+      (NP (PRP it)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (NNP Nice) (NNP altering))
+    (VP (VBP work))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Same) (NN guy))
+    (VP (VBG working)
+      (NP
+        (NP (CD 15) (NNS hours))
+        (NP (DT a) (NN day))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Always))
+    (VP (VBZ delivers)
+      (PP (IN on)
+        (NP
+          (NP (NN time))
+          (CC and)
+          (NP (RB very) (JJ friendly)))))
+    (. .)))
+
+

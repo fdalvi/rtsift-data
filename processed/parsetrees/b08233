@@ -1,0 +1,101 @@
+(ROOT
+  (S
+    (INTJ (JJ Good) (NN roast))
+    (VP (VB beef))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN place))
+      (VP (MD can)
+        (VP (VB get)
+          (ADJP (JJ crowded)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (NN service))
+      (VP (VBZ is)
+        (ADJP (RB pretty) (JJ fast))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP they))
+            (VP (VBP 're) (RB not))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP A))
+    (ADVP (RB really))
+    (VP
+      (ADVP (DT a))
+      (VB clean) (-LRB- -LRB-)
+      (NP (RB maybe) (JJ new)))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (NNP -RRB-) (NNP Arby))
+    (VP (VBZ 's))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (VP (VB Excellent)
+        (NP (NN roast) (NN beef))))
+    (, ,)
+    (NP (DT the) (NNP Big) (NN max))
+    (VP (VBZ is)
+      (NP (DT the) (JJS best)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD asked)
+      (SBAR (IN for)
+        (S
+          (NP (JJ extra) (NN horsey) (NN sauce))
+          (VP (VBD did) (RB n't)
+            (VP (VB get)
+              (NP
+                (QP (CC but)
+                  (CD 3))))))))
+    (. .)))
+
+(ROOT
+  (S (RB Then)
+    (NP (PRP I))
+    (VP (VBD realized)
+      (SBAR
+        (S
+          (NP (DT the) (NN roast) (NN beef))
+          (VP (VBZ is)
+            (ADJP (JJ delicious)
+              (SBAR
+                (S
+                  (VP (VBZ does) (RB n't)
+                    (VP (VB need)
+                      (NP
+                        (NP (NN none))
+                        (PP (IN of)
+                          (PP (IN of)
+                            (NP (DT that))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Fast)
+      (NP (NN drive) (NNS thru))
+      (PP (RB even)
+        (PP (IN during)
+          (NP (JJ high) (NN traffic)))
+        (CC times)
+        (PP (IN at)
+          (NP (NN noon)))))))
+
+

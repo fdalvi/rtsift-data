@@ -1,0 +1,81 @@
+(ROOT
+  (S
+    (VP
+      (ADVP (RB Very))
+      (VB trustworthy)
+      (CC and)
+      (VB dependable)
+      (NP (NN flower) (NN shop)))
+    (: ...)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN owner))
+      (VP (VBZ has)
+        (VP (VBN been)
+          (VP (VBG designing)
+            (PP (IN for)
+              (NP (IN over) (CD 20) (NNS years)))))))
+    (: ...)
+    (S
+      (NP (PRP she))
+      (VP (VBZ knows)
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (VP (VBZ shes)
+              (S
+                (VP (VBG doing))))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (NNP B&B))
+    (VP (VBZ is)
+      (ADVP (RB out))
+      (PP (IN of)
+        (NP (NN business))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN closed)
+          (PP (IN for)
+            (NP (RB almost) (CD two) (NNS years))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Good) (NN luck))
+      (VP (VBG trying)
+        (S
+          (VP (TO to)
+            (VP (VB find)
+              (NP (NN anyone))
+              (ADVP (RB there)))))))
+    (VP (VBZ !!))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB recommend)
+        (NP (NNS Flowers))
+        (PP (IN by)
+          (NP (NNP Renee)))
+        (PP (IN as)
+          (NP (DT the)
+            (ADJP (JJS closest)
+              (CC and)
+              (JJS best))
+            (NN alternative)))))
+    (. .)))
+
+

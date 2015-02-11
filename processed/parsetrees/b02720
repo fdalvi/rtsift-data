@@ -1,0 +1,78 @@
+(ROOT
+  (NP
+    (NP (DT A) (NN competitor))
+    (PP (IN of)
+      (NP
+        (NP (NN mine))
+        (, ,)
+        (CONJP (CC but)
+          (RB also))
+        (NP (DT a) (JJ great) (NN business))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Lessors))
+    (VP (VBZ offers)
+      (NP
+        (NP (JJ great) (NN Printer) (NN support))
+        (CC and)
+        (NP (JJ affordable) (NNS rates))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (MD must)
+      (VP (VB be)
+        (ADJP (JJ alright))
+        (SBAR (IN if)
+          (S
+            (NP (PRP$ their) (NN competitor))
+            (VP (VBZ gives)
+              (NP (NN em))
+              (NP (DT a) (CD 4) (NN star) (NN rating)))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (NNP Lessor) (POS 's))
+    (VP (VBZ has)
+      (VP
+        (VP (VBN been)
+          (NP
+            (NP (DT a) (NNP Casa) (NNP Grande) (NN fixture))
+            (PP (IN since)
+              (NP (CD 1988)))))
+        (CC and)
+        (ADVP (RB still))
+        (VP (VB provide)
+          (NP (JJ great) (NN service)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VB fix)
+        (NP (NNS computers))))
+    (CC but)
+    (S
+      (NP (NNP Lessor) (POS 's))
+      (VP (VBZ is)
+        (SQ (VBD were)
+          (NP (PRP I))
+          (VP (VB take)
+            (NP (PRP$ my) (JJ own) (NN computer))
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (FW i))
+                (VP (MD ca) (RB n't)
+                  (VP (VB do)
+                    (NP (PRP it))
+                    (NP (PRP myself))))))))))
+    (. .)))
+
+

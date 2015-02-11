@@ -1,0 +1,457 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP loathe)
+      (NP (DT this) (NN bank)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP have)
+        (VP (VBN had)
+          (NP (PRP$ my) (NN biz) (NN account))
+          (PP (IN with)
+            (NP (PRP them)))
+          (PP (IN for)
+            (NP (IN over) (CD 5) (NNS years))))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (ADVP (RB never))
+      (VP (VB cease)
+        (S
+          (VP (TO to)
+            (VP (VB amaze)
+              (NP (PRP me))
+              (PP (IN with)
+                (NP (DT the) (JJ bad) (NNS policies))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (MD will)
+      (VP (VB hold)
+        (NP
+          (NP (DT a) (NN check))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBZ is)
+                (PP (IN over)
+                  (NP (DT a) (JJ certain) (NN amount)))
+                (SBAR (IN so)
+                  (S
+                    (NP (PRP you))
+                    (VP (VBP do) (RB n't)
+                      (VP (VB have)
+                        (NP
+                          (NP (NN access))
+                          (PP (TO to)
+                            (NP (DT the) (NN money))))
+                        (PP (IN for) (IN over)
+                          (NP
+                            (NP (DT a) (NN week))
+                            (: -)
+                            (ADVP (RB sometimes))
+                            (NP (CD two))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB Whenever))
+      (S
+        (NP (PRP I))
+        (VP (VBP have)
+          (NP (DT an) (NN overdraft)))))
+    (NP (PRP they))
+    (VP (VBP charge)
+      (S
+        (NP
+          (NP (JJ double))
+          (: -)
+          (NP
+            (NP (DT the) (NNP NSF))
+            (CC and)
+            (NP (RB then) (DT an) (JJ overdraft) (NN charge)))
+          (: -))
+        (ADVP (RB daily))))
+    (. .)))
+
+(ROOT
+  (S (IN So)
+    (SBAR (IN if)
+      (S
+        (NP (PRP you))
+        (VP (VBP do) (RB n't)
+          (VP (VB keep)
+            (NP (DT an) (NN eye))
+            (PP (IN on)
+              (NP
+                (NP (PRP$ your) (NN account))
+                (NP (DT every) (NN day))))))))
+    (, ,)
+    (NP (PRP you))
+    (VP (MD could)
+      (VP (VB end)
+        (PRT (RP up))
+        (PP (IN with)
+          (NP
+            (NP
+              (NP
+                (QP (IN over) ($ $) (CD 250)))
+              (PP (IN in)
+                (NP
+                  (NP (NNS fees))
+                  (PP (IN from)
+                    (NP (PRP$ their) (NNS charges))))))
+            (CC and)
+            (NP
+              (NP (DT the) (NN payee))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (NN check) (POS 's))
+                  (NNS fees))))))))
+    (. .)))
+
+(ROOT
+  (S (-LRB- -LRB-)
+    (NP (DT this))
+    (VP (VBD happened)
+      (PP (TO to)
+        (NP (PRP me)))
+      (SBAR (IN because)
+        (S
+          (NP (NN somebody))
+          (VP
+            (ADVP (RB accidentally))
+            (VBD paid)
+            (NP
+              (NP (CD one))
+              (PP (IN of)
+                (NP (PRP$ my) (NNS developers)))
+              (PP (IN from)
+                (NP (DT the) (JJ wrong) (NN bank) (NN account)))
+              (-RRB- -RRB-))
+            (NP
+              (NP (NNP AND))
+              (: -)
+              (S
+                (S
+                  (SBAR
+                    (WHADVP (WRB when))
+                    (S
+                      (NP (PRP you))
+                      (VP (VBP go)
+                        (S
+                          (VP (TO to)
+                            (VP (VB pay)
+                              (PRT (RP off))
+                              (NP (DT the) (JJ overdraft) (NN fee))))))))
+                  (, ,)
+                  (NP (PRP they))
+                  (VP (VBP hold)
+                    (NP
+                      (NP (DT the) (NN check))
+                      (SBAR
+                        (S
+                          (NP (PRP you))
+                          (VP (VBP are)
+                            (VP (VBG paying)
+                              (NP (PRP it))
+                              (PP (IN with)
+                                (PP (IN for)
+                                  (NP (CD 2) (NNS days)))))))))))
+                (, ,) (IN so)
+                (S
+                  (NP (PRP you))
+                  (VP (VBP get)
+                    (VP (VBN charged)
+                      (NP
+                        (NP (CD 2) (JJR more) (NNS days))
+                        (PP (IN of)
+                          (NP (NNS overdrafts))))
+                      (, ,)
+                      (S (RB not)
+                        (VP (TO to)
+                          (VP (VB mention)
+                            (SBAR
+                              (S
+                                (NP (PRP you))
+                                (VP (VBP do) (RB n't)
+                                  (VP (VB have)
+                                    (NP (NN access))
+                                    (PP (TO to)
+                                      (NP
+                                        (NP (DT the) (NNS funds))
+                                        (SBAR
+                                          (S
+                                            (NP (PRP you))
+                                            (VP (VBP 're)
+                                              (VP (VBG deposting)
+                                                (PP (IN for)
+                                                  (NP (CD 2) (NNS days)))))))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (SBAR (IN If)
+        (S
+          (NP (PRP you))
+          (VP (VB deposit)
+            (NP (DT an) (JJ international) (NN check)))))
+      (, ,)
+      (NP (PRP they))
+      (VP (VB send)
+        (NP (PRP it))
+        (ADVP (RB directly))
+        (PP (TO to)
+          (NP (NNS collections)))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ is)
+        (PP (IN on)
+          (NP
+            (NP (VB hold))
+            (PP (IN for)
+              (NP (CD 4-6) (NNS weeks)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (VBP do) (RB n't)
+      (ADVP (RB even))
+      (VP (VB see)
+        (NP
+          (NP (DT the) (NN money))
+          (PP (IN in)
+            (NP (PRP$ your) (NN account))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Anyways))
+      (, ,)
+      (NP (EX there))
+      (VP (VBZ is)
+        (ADJP (RB much) (JJR more)
+          (SBAR
+            (S
+              (NP (PRP they))
+              (VP (VBP have)
+                (VP (VBN done)
+                  (PP (TO to)
+                    (NP (PRP me))))))))))
+    (: ...)
+    (CC but)
+    (S
+      (NP (PRP you))
+      (VP (VBP get)
+        (NP (DT the) (NN point))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Avoid) (NNPS Compass) (NNP Bank))
+      (SBAR (IN unless)
+        (S
+          (NP (PRP you))
+          (VP
+            (VP (VBP like)
+              (NP (NN bank) (NNS reps))
+              (SBAR (IN that)
+                (S (RB all)
+                  (ADJP (RB just) (JJ shrug)))))
+            (CC and)
+            (VP (VBP say)
+              (NP (PRP they)))))))
+    (VP (MD ca) (RB n't)
+      (VP (VB do)
+        (NP (NN anything))
+        (PP (IN for)
+          (NP (PRP you)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP come)
+      (PP (IN in)
+        (NP (RB here)))
+      (S
+        (ADVP (DT every) (RB so) (RB often))
+        (VP (TO to)
+          (VP (VB make)
+            (NP
+              (NP (NNS deposits))
+              (PP (IN for)
+                (NP (NN family) (NN member))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS folks))
+      (ADVP (RB there))
+      (VP (VBP have)
+        (VP (VBN been)
+          (ADJP (RB very) (JJ friendly)))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP have) (RB not)
+        (VP (VBN had)
+          (NP (DT any) (NNS problems)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB So))
+    (, ,)
+    (NP (DT all))
+    (VP (VBZ is)
+      (ADJP (JJ good))
+      (ADVP (RB so) (RB far)))
+    (: ...)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have)
+      (VP (VBN been)
+        (PP (IN with)
+          (NP (DT this) (NN location)))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP it))
+            (VP (VBD was)
+              (NP
+                (NP (NNP Founder) (POS 's))
+                (NN bank)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 've)
+      (VP (VBN seen)
+        (NP (DT the) (NN change) (NNS overs))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT All))
+      (VP (VBD told)))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (VP (VBN been)
+        (NP (CD 17) (NNS years))
+        (SBAR (IN that)
+          (S
+            (NP (PRP I))
+            (VP (VBP 've)
+              (VP (VBN been)
+                (VP (VBG going)
+                  (PP (IN into)
+                    (NP (DT this) (NN branch))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (ADVP (RB Not) (RB once))
+    (VBP have)
+    (NP
+      (NP (DT any))
+      (PP (IN of)
+        (NP (DT these) (NNS employees))))
+    (VP (VBN been)
+      (ADJP
+        (ADJP (NN anything) (JJR less))
+        (PP (IN than)
+          (NP (JJ friendly) (, ,) (NNS courteous)
+            (CC and)
+            (NNS professional)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 'm) (RB not)
+        (NP (DT a) (NN business) (NN owner))))
+    (, ,)
+    (CC nor)
+    (SQ (VBP do)
+      (NP (PRP I))
+      (VP (VB have)
+        (NP
+          (NP (NNS tons))
+          (PP (IN of)
+            (NP
+              (NP (NN money))
+              (PP (IN in)
+                (NP (PRP$ my) (NNS accounts))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP 've)
+      (ADVP (RB never))
+      (VP (VBN treated)
+        (S
+          (NP (PRP me))
+          (ADVP (RB poorly)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD ca) (RB n't)
+      (VP (VB speak)
+        (PP (IN for)
+          (NP
+            (NP (DT the) (NN gentleman) (POS 's))
+            (JJ poor) (NN review)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Perhaps))
+      (NP (PRP he))
+      (VP (VBZ has)
+        (NP (JJ valid) (NNS complaints))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBP do) (RB not)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP Judge))
+        (PP (IN for)
+          (NP (PRP yourself)))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP say))
+    (. .)))
+
+

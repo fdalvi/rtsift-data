@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (VP (VB Love)
+      (NP (DT this) (NN place)))
+    (. .)))
+
+(ROOT
+  (ADJP (RB all) (JJ good)))
+
+
+(ROOT
+  (S
+    (NP (NNP Sauce))
+    (VP (VBZ has)
+      (NP
+        (NP (DT the) (JJ right) (NN blend))
+        (PP (IN of)
+          (NP (NNS spices)
+            (CC and)
+            (NN flavor)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN crust))
+    (VP
+      (VP (VBZ is)
+        (ADJP (JJ light)
+          (CC and)
+          (JJ flaky)))
+      (CC and)
+      (VP
+        (PP (IN with)
+          (NP
+            (NP (NN pizza))
+            (PP (IN with)
+              (NP (JJ tasty) (NN sausage)))))
+        (VBZ is)
+        (ADJP (RB perfectly) (VBN cohesive))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (NNP Great))
+    (VP (VBP place)
+      (PP (IN for)
+        (NP (DT a) (JJ great) (NN pizza))))
+    (. !)))
+
+

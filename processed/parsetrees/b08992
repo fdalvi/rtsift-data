@@ -1,0 +1,86 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Great))
+      (`` `)
+      (NP (JJ old) (NN school))
+      ('' '))
+    (VP (VBZ barber))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP$ My) (NN father))
+      (VP (VBD went)
+        (PP (TO to)
+          (NP (NNP Benny) (NNS years)))
+        (ADVP (RB ago)
+          (CC and)
+          (RB now))))
+    (NP (PRP I))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBG going)
+          (PP (TO to)
+            (NP (PRP him))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Straight) (NN razor) (NN cut))
+      (CC and)
+      (NP (NNP shave)))
+    (VP (VBZ is)
+      (NP (JJ top) (NNS notch)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (MD Would)
+      (VP (VB recommend)
+        (PP (TO to)
+          (NP
+            (NP (NN anyone))
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBZ asks))))))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (JJ Amazing) (NN barber))
+    (NP
+      (NP (NN shop))
+      (CC &)
+      (NP (NN salon)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (CD One))
+    (PP (IN of)
+      (NP (DT a) (NN kind)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP
+        (NP (NN home))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (JJS largest) (JJ Marilyn) (NNP Monroe) (NN collection))
+            (SBAR
+              (S
+                (NP (PRP I))
+                (VP (VBP 've)
+                  (ADVP (RB ever))
+                  (VP (VBN seen)))))))))
+    (. .)))
+
+

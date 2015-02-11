@@ -1,0 +1,221 @@
+(ROOT
+  (NP (JJ Good) (NN food) (. .)))
+
+(ROOT
+  (NP
+    (NP
+      (NP (JJ Good) (NNS drinks))
+      (, ,)
+      (CC and)
+      (NP (JJ good) (NN company)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN bar))
+    (VP (VBZ is)
+      (UCP
+        (NP
+          (NP (JJ old))
+          (, ,)
+          (VP (VBN run)
+            (PRT (RP down))
+            (, ,)
+            (S
+              (VP (VB beat)
+                (PRT (RP up))))))
+        (, ,)
+        (CC and)
+        (ADJP (RB just) (RB plain) (JJ awesome))))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VB Think)
+      (ADJP (`` ``) (JJ Cheers)))
+    (. .)))
+
+(ROOT
+  (S ('' '')
+    (NP (DT The) (NNS people))
+    (ADVP (RB here))
+    (VP (VBP are)
+      (ADJP (RB extremely) (JJ friendly)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NN Everyone))
+    (VP (VBZ treats)
+      (NP (PRP you))
+      (PP (IN like)
+        (NP (NN family))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT This))
+      (VP (VBZ is)
+        (NP
+          (NP (DT a) (NN place))
+          (SBAR
+            (S
+              (NP (PRP you))
+              (VP (MD could)
+                (VP (VB go)
+                  (PP (TO to)
+                    (NP (NN solo))))))))))
+    (CC and)
+    (S
+      (ADVP (RB yet))
+      (NP (PRP you))
+      (VP (MD wo) (RB n't)
+        (VP (VB be)
+          (ADJP (RB alone)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN food) (NN selection))
+      (VP (VBZ is)
+        (ADJP (JJ amazing)
+          (PP (IN for)
+            (NP (NN bar) (NN food))))))
+    (CC but)
+    (S
+      (NP (DT the) (NN kitchen))
+      (VP (VBZ is) (RB not)
+        (ADJP (RB always) (JJ open))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN alcohol))
+      (VP (VBZ is)
+        (NP (JJ low) (NN cost))))
+    (CC and)
+    (S
+      (SBAR (IN if)
+        (S
+          (NP (PRP you))
+          (VP (VBP play)
+            (NP (PRP$ your) (NNS cards))
+            (ADVP (RB right)))))
+      (NP (DT a) (`` ``) (JJ regular) ('' '') (NN might))
+      (ADVP (RB even))
+      (VP (VBP show)
+        (NP (PRP you))
+        (NP
+          (NP (DT the) (NN trick))
+          (PP (IN on)
+            (SBAR
+              (WHADVP (WRB how))
+              (S
+                (S
+                  (VP (TO to)
+                    (VP (VB get)
+                      (NP
+                        (NP (DT the) (NN quarter))
+                        (PP (IN in)
+                          (NP (DT the) (NN shot) (NN glass)))))))
+                (VP (VBP t)
+                  (S
+                    (NP
+                      (NP (DT the) (NN bottom))
+                      (PP (IN of)
+                        (NP (DT the) (NN fish) (NN tank))))
+                    (VP (TO to)
+                      (VP (VB win)
+                        (NP (DT a) (NN beer))))))))))))
+    (. .)))
+
+(ROOT
+  (S (-LRB- -LRB-)
+    (NP (PRP It))
+    (VP (VBD took)
+      (NP (PRP me))
+      (SBAR
+        (S
+          (NP (PRP one))
+          (VP (VBP try)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB -RRB-))
+    (NP (DT The) (NN downside))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (DT this))
+          (VP (VBZ is)
+            (NP (DT a) (NN membership) (NN bar))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (MD will) (RB either)
+      (VP (VB need)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (NP
+                (NP (JJ military) (, ,) (JJ former) (NN military))
+                (, ,)
+                (CC or)
+                (NP
+                  (NP (DT an) (NN invitee))
+                  (PP (IN of)
+                    (NP (DT a) (NN member)
+                      (S
+                        (VP (TO to)
+                          (VP (VB go)
+                            (ADVP (RB inside))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Expect)
+      (S
+        (VP (TO to)
+          (VP (VB pay)
+            (NP
+              (NP
+                (QP (RB about) ($ $) (CD 60)))
+              (NP (DT a) (NN year)))
+            (S
+              (VP (TO to)
+                (VP (VB maintain)
+                  (NP (NN membership)))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNS Folks))
+    (ADVP (RB here))
+    (VP (VBP are)
+      (ADJP (RB very) (JJ friendly))
+      (, ,)
+      (S
+        (VP (VBN felt)
+          (PP (IN like)
+            (NP (NN home))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NN Drink) (NNS prices))
+    (VP (VBP are)
+      (ADVP (RB always))
+      (ADJP (JJ good)
+        (PP (IN at)
+          (NP (DT an) (NNP ALP)))))
+    (. .)))
+
+

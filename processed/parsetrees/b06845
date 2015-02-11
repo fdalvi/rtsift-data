@@ -1,0 +1,106 @@
+(ROOT
+  (S
+    (NP (PRP$ Your) (JJ basic) (NN hometown))
+    (VP (VBZ barber)
+      (NP (NN shop)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP seem)
+      (S
+        (VP (TO to)
+          (VP (VB remember)
+            (NP
+              (NP (NN everyone))
+              (, ,)
+              (PP (VBG including)
+                (NP (NNS names)
+                  (CC and)
+                  (NNS stories))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP
+          (NP (DT all))
+          (SBAR
+            (S
+              (NP (PRP you))
+              (VP (VBP need)))))
+        (VP (VBZ is)
+          (NP (DT a) (NN haircut)))))
+    (, ,)
+    (NP (DT this) (NN place))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (JJ cheap))
+        (, ,)
+        (ADJP (JJ fast))
+        (, ,)
+        (CC and)
+        (ADJP (JJ friendly))))
+    (. .)))
+
+
+(ROOT
+  (UCP
+    (ADJP (JJ easy))
+    (, ,)
+    (ADJP (JJ fast))
+    (, ,)
+    (CC and)
+    (NP (JJ cheap))))
+
+
+(ROOT
+  (S
+    (NP (NNP Favorite) (NNP Madison) (NN barber) (NN shop) (, ,))
+    (VP (VBP have)
+      (VP (VBN paid)
+        (ADVP (RB much) (RBR more)
+          (PP (IN for)
+            (NP (DT a)
+              (ADJP
+                (ADVP (RB much) (RBR worse))
+                (VBG looking))
+              (NN haircut))))
+        (ADVP (RB elsewhere))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Parking)
+        (PP (IN on)
+          (NP (NN game) (NNS days)))))
+    (VP (VBZ is)
+      (NP (DT a) (NN nightmare)
+        (S
+          (ADVP (RB so))
+          (VP (VB keep)
+            (NP
+              (NP (DT that))
+              (PP (IN in)
+                (NP (NN mind))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (S
+      (NP (CD Three) (NNS barbers))
+      (VP (VBP work)
+        (ADVP (RB here))))
+    (, ,)
+    (VP (VBP have)
+      (VP (VBN gotten)))
+    (NP
+      (NP (DT a) (JJ good) (NN cut))
+      (PP (IN from)
+        (NP (DT all))))
+    (. .)))
+
+

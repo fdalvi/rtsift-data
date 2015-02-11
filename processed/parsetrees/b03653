@@ -1,0 +1,72 @@
+(ROOT
+  (S
+    (S
+      (S
+        (NP (DT This))
+        (VP (VBD was)
+          (NP
+            (QP (DT a) (CD 5)))))
+      (, ,)
+      (CC but)
+      (S
+        (NP (JJ last) (NN time))
+        (NP (PRP I))
+        (VP (VBD drove)
+          (PP (IN by)))))
+    (, ,)
+    (NP (DT this))
+    (VP (VBD was)
+      (ADVP (RB no) (RB longer))
+      (NP (NNP Marco) (NNP Polo)))
+    (: ...)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Closed))
+      (PP (IN for)
+        (NP (NN year))))
+    (VP (VBZ 's)
+      (SBAR (IN so)
+        (S
+          (VP (MD should)
+            (VP (VB be)
+              (VP (VBN dropped)))))))))
+
+
+(ROOT
+  (FRAG
+    (ADJP (RB Very) (JJ sad))
+    (S
+      (VP (TO to)
+        (VP (VB learn)
+          (SBAR (IN that)
+            (WHADVP (WRB where))
+            (S
+              (NP
+                (NP (DT the) (JJS best) (NN meal))
+                (SBAR
+                  (S
+                    (NP (PRP I))
+                    (VP (VBP 've)
+                      (ADVP (RB ever))
+                      (VP (VBN had)
+                        (PP (IN in)
+                          (NP (PRP$ my) (NN life))))))))
+              (VP (VBZ is)
+                (ADJP (RB no) (JJR more))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADJP (NNP Phoenix)))
+    (, ,)
+    (NP (PRP you))
+    (VP (VBP have)
+      (VP (VBN lost)
+        (NP (DT a) (NN gem))))
+    (. .)))
+
+

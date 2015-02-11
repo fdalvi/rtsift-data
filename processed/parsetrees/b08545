@@ -1,0 +1,198 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN price))
+      (PP (RB out) (IN on)
+        (NP
+          (NP (DT the) (NN sign))
+          (PP (IN for)
+            (NP (NN gas))))))
+    (VP (VBZ is)
+      (NP (DT the) (NN cash) (NN price)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (PRP$ Its) (NNS 10c))
+    (ADJP
+      (ADJP
+        (NP (DT a) (NN gallon))
+        (JJR higher))
+      (SBAR (IN if)
+        (S
+          (NP (PRP you))
+          (VP (VBP use)
+            (NP (NN debit)
+              (CC or)
+              (NN credit))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (ADVP (RB also))
+      (NP (DT a)
+        (ADJP ($ $) (CD 5))
+        (NN minimum)
+        (S
+          (VP (TO to)
+            (VP (VB use)
+              (NP (NN debit)
+                (CC or)
+                (NN credit))
+              (PP (IN in)
+                (NP (DT the) (NN store))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP realize)
+      (SBAR
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBZ costs)
+              (NP (NN money))
+              (S
+                (VP (TO to)
+                  (VP (VB utilize)
+                    (NP (NN credit) (NNS cards))))))))
+        (CC but)
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ 's)
+              (NP
+                (NP (DT the) (NN cost))
+                (PP (IN of)
+                  (S
+                    (VP (VBG doing)
+                      (NP (NN business))))))
+              (, ,)
+              (SBAR (IN Because)
+                (S
+                  (PP (IN of)
+                    (NP
+                      (NP (DT this) (JJ extra) (NN fee))
+                      (PP (IN for)
+                        (S
+                          (VP (VBG choosing)
+                            (S (RB not)
+                              (VP (TO to)
+                                (VP (VB carry)
+                                  (NP (NN cash))))))))))
+                  (, ,)
+                  (NP (PRP I))
+                  (VP (MD will)
+                    (VP (VB go)
+                      (PRT (RP out))
+                      (PP (IN of)
+                        (NP (PRP$ my) (NN way)
+                          (S
+                            (VP (TO to)
+                              (VP
+                                (VP (VB avoid)
+                                  (NP (DT this) (NN store)))
+                                (CC and)
+                                (VP (VB spend)
+                                  (NP (PRP$ my) (NN money))
+                                  (SBAR
+                                    (WHADVP (WRB where))
+                                    (S
+                                      (NP (PRP they))
+                                      (VP (VBP want)
+                                        (NP (PRP$ my) (NN business))))))))))))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADVP (RB actually))
+      (NP (DT the)
+        (NP (NNP Shell) (NNP Station)))
+      (ADVP (RB now))
+      (, ,)
+      (ADJP (RB not) (JJ sure))
+      (SBAR
+        (WHADVP (WRB why))
+        (S
+          (NP (PRP they))
+          (VP (VBP have)
+            (NP (DT this))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (CC Either)
+      (NN way))
+    (, ,)
+    (NP (DT this))
+    (VP (VBZ is)
+      (NP (DT a) (JJ good) (NN place)
+        (S
+          (VP (TO to)
+            (VP (VB get)
+              (NP
+                (ADJP (JJ inexpensive)
+                  (CC and)
+                  (NN quality))
+                (NN shell) (NN gas)))))))
+    (. .)))
+
+
+(ROOT
+  (PP (IN Under)
+    (NP (NNP New) (NNP Management))))
+
+
+(ROOT
+  (S
+    (NP (DT some))
+    (SBAR
+      (WHADVP (WRB how))
+      (S
+        (NP (DT this) (NN place))
+        (VP (VBZ is)
+          (NP
+            (NP (DT a) (`` ``) (JJ shell) ('' '') (NN station))
+            (, ,)
+            (NP (PRP$ Its)
+              (ADJP (RB really) (DT a))
+              (JJ bodega/smoke) (NN shop))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBZ happens)
+                  (S
+                    (VP (TO to)
+                      (VP (VB sell)
+                        (NP (NN gasoline))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB stay)
+      (PRT (RP away))
+      (SBAR (IN unless)
+        (S
+          (NP (PRP you))
+          (VP (VBP are)
+            (UCP
+              (ADVP (IN out)
+                (PP (IN of)
+                  (NP (NN gas))))
+              (CC or)
+              (VP (VBG jonesing)
+                (PP (IN for)
+                  (NP (DT some)
+                    (ADJP (RB strawberry) (JJ e-juice)
+                      (PP (IN for)
+                        (NP (PRP$ your) (NN killer))))
+                    (NN vape) (NN rig)))))))))
+    (. .)))
+
+

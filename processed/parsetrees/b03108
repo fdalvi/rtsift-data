@@ -1,0 +1,236 @@
+(ROOT
+  (S
+    (NP (DT A) (NNP Jamba) (NNP Juice))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NNP Jamba) (NNP Juice))
+        (SBAR
+          (S
+            (VP (VBZ is)
+              (NP (DT a) (NNP Jamba) (NNP Juice)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP have)
+          (VP
+            (ADVP (RB ever))
+            (VBN been)
+            (PP (TO to)
+              (NP (CD one)))
+            (ADVP (RB before))))))
+    (, ,)
+    (NP (PRP you))
+    (VP (VBP know)
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP (PRP you))
+          (VP (VBP are)
+            (VP (VBG getting)
+              (NP (PRP yourself))
+              (PP (IN into)))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNS Lots))
+    (PP (IN of)
+      (NP
+        (NP (JJ fresh) (NNS fruits))
+        (CC and)
+        (NP (DT some) (JJ baked) (NNS goods))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Jamba))
+    (VP (VBZ is)
+      (NP
+        (NP (CD one))
+        (PP (IN of)
+          (NP (PRP$ my) (JJ favorite) (NNS places)))
+        (S
+          (VP (TO to)
+            (VP (VB grab)
+              (NP (DT a) (JJ quick) (NN breakfast))
+              (PP (IN on)
+                (NP (DT the) (NN go))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Try)
+      (NP (PRP$ their) (NN oatmeal)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP (JJ great)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ special) (NN thing))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBP have)
+            (S
+              (VP (TO to)
+                (VP (VB add)
+                  (PP (IN about)
+                    (NP (DT this) (NN location))))))))))
+    (VP (VBZ is)
+      (NP (DT the) (JJ great) (NN customer) (NN service)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (ADVP (RB really))
+      (VP (VBD wanted)
+        (S
+          (VP (TO to)
+            (VP (VB try)
+              (NP (DT the) (JJ new) (NNP Apples) (NNP 'n) (NNP Green)))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBP am)
+        (VP (VBG allergic)
+          (PP (TO to)
+            (NP (NNS mangoes))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (PRN (-LRB- -LRB-)
+        (NP (NNP Evil))
+        (, ,)
+        (NP (JJ evil) (NNS mangoes))
+        (-RRB- -RRB-))
+      (S
+        (SBAR
+          (WHADVP (WRB When))
+          (S
+            (NP (DT the) (NNP Jamba) (NNP Juice) (NN guy))
+            (VP (VBD saw)
+              (NP (PRP$ my)
+                (ADJP (JJ disappointed))
+                (NN face)))))
+        (, ,)
+        (NP (PRP he))
+        (VP (VBD told)
+          (NP (PRP me)))))
+    (NP (PRP it))
+    (VP (VBD was)
+      (NP (DT no) (NN problem)
+        (S
+          (VP (TO to)
+            (VP (VB hold)
+              (NP (DT the) (NNS mangoes)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (RB Now) (IN that)
+      (S
+        (NP (PRP I))
+        (VP (VBP know)
+          (NP (DT this)))))
+    (, ,)
+    (NP (PRP I))
+    (VP (MD can)
+      (VP (VB try)
+        (NP
+          (NP (PDT all) (DT the) (NNS smoothies))
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (VBP want)))))))
+    (. !)))
+
+(ROOT
+  (NP
+    (NP (NNS Thanks))
+    (, ,)
+    (NP (NNP Jamba) (NNP Juice) (NNS employees))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Staff))
+      (VP (VBZ is)
+        (ADJP (JJ friendly))))
+    (, ,)
+    (NP (NN service))
+    (VP (VBZ is)
+      (ADJP (JJ fast)))
+    (. .)))
+
+(ROOT
+  (FRAG (CC But)
+    (NP
+      (NP (JJ damn) (, ,) (CD seven) (NNS dollars))
+      (PP (IN for)
+        (NP (DT a) (NN drink))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD could)
+      (VP (VB have)
+        (VP (VBN got)
+          (NP (NN lunch))
+          (ADVP (RB instead)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP mean)))
+    (PRN (, ,)
+      (S
+        (NP (PRP I))
+        (VP (VBP have)
+          (NP (DT the) (CD seven) (NNS dollars))))
+      (, ,))
+    (CC but)
+    (S
+      (NP (PRP I))
+      (ADVP (RB usually))
+      (VP (VBP do) (RB n't)
+        (VP (VB like)
+          (S
+            (VP (VBG pissing)
+              (NP
+                (NP (DT that) (NN kind))
+                (PP (IN of)
+                  (NP (NN money))))
+              (ADVP (RB out)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT A) (JJ chunky) (NN BM))
+    (VP (VBZ is)
+      (ADJP (JJ acceptable)
+        (PP (IN at)
+          (NP (DT that) (NN rate)))))
+    (. .)))
+
+

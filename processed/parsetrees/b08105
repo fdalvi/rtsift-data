@@ -1,0 +1,196 @@
+(ROOT
+  (S
+    (NP (DT These) (NNS people))
+    (VP (VBP know)
+      (NP
+        (NP (NN nothing))
+        (PP (IN about)
+          (NP (NN customer) (NN service)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD had)
+      (S
+        (VP (TO to)
+          (VP (VB call)
+            (NP (JJ multiple) (NNS times)))))
+      (S
+        (VP (TO to)
+          (VP (VB get)
+            (NP
+              (NP (NN someone))
+              (PP (IN on)
+                (NP (DT the) (NN phone))))
+            (PP (IN during)
+              (NP (NN office) (NNS hours)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (MD would)
+      (VP
+        (VP (VB answer)
+          (NP (DT the) (NN phone))
+          (NP (JJ mid) (NN conversation)))
+        (CC and)
+        (VP (VB continue)
+          (S
+            (VP (TO to)
+              (VP (VB help)
+                (NP (DT the) (NN person))
+                (PP (IN on)
+                  (NP
+                    (NP (DT the) (NN phone))
+                    (PP (RB instead) (IN of)
+                      (NP
+                        (NP (DT the) (NN person))
+                        (PP (IN in)
+                          (NP
+                            (NP (NN front))
+                            (PP (IN of)
+                              (NP (PRP them)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP I))
+        (VP (VBD had)
+          (NP (DT a) (NN choice))
+          (SBAR
+            (WHADVP (WRB where))
+            (S
+              (VP (TO to)
+                (VP (VB go))))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (MD would)
+      (ADVP (RB never))
+      (VP (VB rent)
+        (PP (IN from)
+          (NP (RB here)))
+        (ADVP (RB again))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (DT This) (NN place)
+        (CC and)
+        (NN hertz))
+      (PP (IN in)
+        (NP (NN general))))
+    (VP (VBD lost)
+      (NP (DT a) (JJ loyal) (NN customer)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Tis) (NN place))
+    (VP
+      (VP (VBZ is)
+        (ADJP (JJ unprofessional)))
+      (CC and)
+      (VP (VBD did) (RB not)
+        (VP (VB care)
+          (PP (IN about)
+            (NP (PRP me)))
+          (PP (IN as)
+            (NP (DT a) (NN customer))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD got)
+      (NP (PRP$ my) (NN reservation))
+      (UCP
+        (ADJP (JJ wrong))
+        (CC and)
+        (NP
+          (NP
+            (NP (DT these) (`` ``) (JJ sales) (NNS people) ('' ''))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBP get)
+                  (NP (DT a) (NN commission))
+                  (PRT (RP out))))))
+          (PP (IN of)
+            (S
+              (VP (VBG selling)
+                (NP (PRP you) (JJ extra) (NN stuff))
+                (PP (IN on)
+                  (NP
+                    (NP (NN rental))
+                    (PP (IN like)
+                      (NP (NN insurance)
+                        (CC or)
+                        (NN gas) (NN fillip))
+                      (X (NN etc.)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Any)
+      (SBAR
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (NP (DT these) (NNS snakes))
+            (ADVP (RB right) (RB here))
+            (VP (VBP are)
+              (VP (VBG salespeople)
+                (ADVP (RB now))
+                (NP (NN customer) (NN service))))))
+        (CC and)
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ 's)
+              (NP (DT a) (NN shame)))))))))
+
+
+(ROOT
+  (FRAG
+    (NP (NNP BEWARE))
+    (: :)
+    (S
+      (NP (DT These) (NNS guys))
+      (VP
+        (VP (MD will)
+          (VP (VB mess)
+            (PRT (RP up))
+            (NP (PRP$ your) (NN bank) (NN account))))
+        (, ,)
+        (CC and)
+        (VP (MD will)
+          (VP (VB provide)
+            (NP (DT a) (JJ horrible) (NN customer) (NN service))
+            (S
+              (VP (TO to)
+                (VP (VB go)
+                  (PP (IN with)
+                    (NP (PRP it))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (MD will)
+      (ADVP (RB only))
+      (VP (VB sign)
+        (NP (PRP you))
+        (PRT (RP up))
+        (PP (IN for)
+          (NP (NN insurance)))
+        (PP (IN without)
+          (NP (PRP$ your) (JJ prior) (NN approval)))))
+    (. .)))
+
+

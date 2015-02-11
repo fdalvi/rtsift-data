@@ -1,0 +1,209 @@
+(ROOT
+  (S
+    (NP (NN Nothing) (RB much))
+    (VP (VBZ has)
+      (VP (VBN changed)
+        (ADVP (RB here))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBD needed)
+        (NP (DT a) (JJ specific) (NN product)))
+      (CC and)
+      (VP (VBD tried)
+        (S
+          (VP (TO to)
+            (VP (VB call)
+              (NP
+                (NP (DT the) (NN store))
+                (, ,)
+                (NP (DT no) (NN answer))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (SBAR (IN As)
+        (S
+          (NP (PRP it))
+          (VP (VBD was)
+            (ADVP (RB just))
+            (PP (IN after)
+              (NP
+                (NP (CD 5) (NN PM))
+                (PP (IN on)
+                  (NP (DT a) (NNP Saturday))))))))
+      (, ,)
+      (NP (DT this))
+      (VP (VBD was)
+        (ADJP (JJ possible))))
+    (, ,)
+    (CC but)
+    (S
+      (S
+        (NP (PRP they))
+        (VP (VBP are)
+          (ADJP (JJ close-by))))
+      (CC and)
+      (S
+        (NP (PRP I))
+        (VP (VBD took)
+          (NP (DT a) (NN chance)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP I))
+        (VP (VBD got)
+          (ADVP (RB there)))))
+    (NP (PRP I))
+    (VP (VBD found)
+      (NP
+        (NP (DT the) (NN store))
+        (ADJP (JJ open) (, ,) (JJ empty)))
+      (PP (IN except) (IN for)
+        (NP
+          (NP (DT the) (NN salesgirl))
+          (, ,)
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBD was)
+                (VP (VBG staring)
+                  (PRT (RP out))
+                  (NP (DT the) (JJ front) (NN window))
+                  (SBAR (IN while)
+                    (S
+                      (NP (DT the) (NN phone))
+                      (VP (VBD rang)
+                        (PRT (RP off))
+                        (NP (DT the) (NN hook))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP I))
+        (VP (VBD asked)
+          (SBAR
+            (WHADVP (WRB why))
+            (S
+              (NP (PRP she))
+              (VP (VBD did) (RB n't)
+                (VP (VB answer)
+                  (NP (DT the) (NN phone)))))))))
+    (NP (PRP she))
+    (VP (VBD got)
+      (ADJP (JJ snotty)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (ADVP (RB Then))
+      (WHADVP (WRB when))
+      (S
+        (NP (PRP I))
+        (VP (VBD asked)
+          (PP (IN for)
+            (NP (DT the) (NN product))))))
+    (NP (PRP she))
+    (VP (VBD said)
+      (S (`` ``)
+        (NP (DT This) (NN store))
+        (VP (VBZ does) (RB n't)
+          (VP (VB carry)
+            (NP (DT that) (NN stuff))))
+        ('' '')))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD left)
+      (PP (IN with)
+        (NP
+          (NP (DT no) (NN purchase))
+          (CC and)
+          (NP (DT a) (NN vow))))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (MD will) (RB not)
+            (VP (VB return)
+              (ADVP (RB here)))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP do) (RB n't)
+        (VP (VB know)
+          (SBAR
+            (WHADVP (WRB why))
+            (S
+              (NP (DT this) (NN store))
+              (VP (VBZ has)
+                (NP (JJ such) (JJ terrible) (NNS reviews))))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD went)
+      (SBAR
+        (S
+          (PP (IN in)
+            (NP
+              (NP (RB there))
+              (CC and)
+              (NP (DT the) (CD two) (NNS people))))
+          (NP (DT the) (NN store))
+          (VP
+            (VP (VBD knew)
+              (NP (PRP$ their) (NN stuff)))
+            (CC and)
+            (VP (VBD were)
+              (ADJP (RB extremely) (JJ helpful)))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD greeted)
+      (NP (PRP me))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP I))
+          (VP
+            (VP (VBD came)
+              (PP (IN in)
+                (NP (DT the) (NN door))))
+            (CC and)
+            (VP (VBD answered)
+              (NP (DT every) (NN question))
+              (SBAR
+                (S
+                  (NP (PRP I))
+                  (VP (VBD had)))))))))
+    (. !)))
+
+(ROOT
+  (SINV
+    (ADVP (RB Definitely))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBG coming)
+          (PRT (RP back))
+          (ADVP (RB here)))))
+    (NP (NNP :-RRB-))))
+
+

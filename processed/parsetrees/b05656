@@ -1,0 +1,198 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP love)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBP have)
+            (NP
+              (NP (DT a) (NN diner) (NN style) (NN area))
+              (SBAR
+                (WHADVP (WRB where))
+                (S
+                  (NP (PRP you))
+                  (VP (MD can)
+                    (VP (VB have)
+                      (NP
+                        (NP (DT a) (NN sampler) (NN order))
+                        (PP (IN of)
+                          (NP (NNP sod) (POS 's)))
+                        (PP (IN of)
+                          (NP (DT the) (NN world)))))))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (NP (NN heart) (NN coca) (NN cola))
+    (VP (VBZ floats)
+      (ADVP (RB too)))
+    (. !)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP you))
+    (VP (MD can)
+      (VP (VB buy)
+        (NP
+          (NP (NNP Coke))
+          (PP (IN in)
+            (NP (DT the) (JJ old) (NN school) (NN glass) (NNS bottles))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBZ Love)
+        (NP (JJ classic) (NN coke)))
+      (, ,)
+      (CC but)
+      (VP (VBD was)
+        (ADJP (RB sadly) (JJ disappointed)
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (PRP I))
+              (VP (VBD had)
+                (NP
+                  (NP (DT a) (NN coke))
+                  (PP (IN from)
+                    (NP (DT the) (NNP McDonald) (POS 's))))
+                (PP (IN at)
+                  (NP
+                    (NP (NNP 1343) (NNP Silverado) (NNP Ranch))
+                    (VP (VBN blvd)
+                      (PP (IN in)
+                        (NP (NNP Las) (NNP Vegas))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJ third) (NN time))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP 've)
+              (VP (VBN tasted)
+                (NP
+                  (NP
+                    (ADJP (RB poorly) (VBN mixed))
+                    (NNS Co2))
+                  (CC and)
+                  (NP
+                    (NP (NN syrup))
+                    (PP (IN at)
+                      (NP (DT this) (NN location)))))))))))
+    (. .)))
+
+(ROOT
+  (SQ (VBP Are)
+    (NP (PRP they))
+    (VP (VBG trying)
+      (S
+        (VP (TO to)
+          (VP (VB cut)
+            (NP (NN cost))
+            (PP (IN by)
+              (S
+                (VP (VBG dispensing)
+                  (NP (JJR more) (NNS Co2))
+                  (PP (RB then)
+                    (NP (NN syrup))))))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (MD would)
+        (VP (VB have)
+          (VP (VBN returned)
+            (PP (TO to)
+              (NP (DT the) (NN store)))
+            (S
+              (VP (TO to)
+                (VP (VB complain))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBD had)
+        (VP (VBN driven)
+          (PRT (RP off))
+          (PP (IN by)
+            (NP
+              (NP (DT the) (NN time))
+              (SBAR
+                (S
+                  (NP (PRP I))
+                  (VP (VBD took)
+                    (NP (PRP$ my) (JJ first) (NN taste))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NN Someone))
+        (CC or)
+        (NP (DT the) (NNP Coca) (NNP Cola) (NNP Rep)))
+      (VP (VBP please)
+        (VP
+          (VP (VB change)
+            (NP
+              (NP (DT the) (NN bag))
+              (PP (IN in)
+                (NP (DT the) (NN box)))))
+          (CC or)
+          (VP (VB balance)
+            (NP (DT the) (NN mix))
+            (SBAR (IN so)
+              (S
+                (NP (PRP I))
+                (VP (MD can)
+                  (VP (VB taste)
+                    (NP (DT a) (JJ true) (NN coke))))))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB hate)
+        (S
+          (VP (TO to)
+            (VP (VB cross)
+              (PRT (RP over))
+              (PP (TO to)
+                (NP
+                  (NP (DT another) (NN brand))
+                  (PP (IN over)
+                    (NP
+                      (NP (DT this) (VBN continued) (NN issue))
+                      (PP (IN at)
+                        (NP (DT this) (NNP McDonald) (NN location))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP expect)
+      (NP (PRP$ my) (NN coca) (NN cola) (NN experience))
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (ADJP (JJ excellent)
+              (PP (IN with)
+                (NP
+                  (NP (DT each) (NN drink))
+                  (SBAR
+                    (S
+                      (NP (PRP I))
+                      (VP (VBP consume)))))))))))
+    (. .)))
+
+

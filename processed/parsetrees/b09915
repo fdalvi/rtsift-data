@@ -1,0 +1,33 @@
+(ROOT
+  (NP
+    (NP (NNP Poor) (NN customer) (NN service))
+    (, ,)
+    (NP
+      (NP (JJ inferior) (NN work))
+      (CC and)
+      (NP (VBN overpriced)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (JJ dry) (NNS cleaners))
+    (VP (VBD charged)
+      (NP (PRP me))
+      (NP
+        (NP ($ $) (CD 7.75))
+        (SBAR
+          (S
+            (VP (TO to)
+              (VP (VB launder)
+                (NP (PRP$ my) (NNS husbands) (NN shirt))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (ADJP
+      (NP (DT A) (RB little))
+      (JJ excessive))
+    (NNPS !!)))
+
+

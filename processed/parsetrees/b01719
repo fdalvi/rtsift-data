@@ -1,0 +1,175 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Food))
+      (VP (VBZ is)
+        (ADJP (JJ good))))
+    (, ,)
+    (NP (NNS cookies))
+    (VP (VBP are)
+      (ADJP (JJ great)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VP (VB Buy)
+        (NP (CD one) (NN cookie)))
+      (CC and)
+      (VP (VB get)
+        (S
+          (NP (PRP one))
+          (ADJP (JJ free)))))
+    (. .)))
+
+(ROOT
+  (NP (NN Bargain) (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP love)
+      (NP (DT the) (JJ half) (NN sandwich)
+        (CC and)
+        (NN soup)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN chicken) (NN posole))
+    (VP (VBZ is)
+      (UCP
+        (ADJP (JJ delicious))
+        (CC and)
+        (NP
+          (NP (DT a) (NN favorite))
+          (PP (IN of)
+            (NP (NN mine))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT A) (JJ great) (NN plus))
+    (VP (VBZ is)
+      (SBAR
+        (S
+          (NP (EX there))
+          (VP (VBZ is)
+            (NP (JJ free) (JJ wireless) (NN internet) (NN service))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD ordered)
+        (NP
+          (NP (DT a) (NN mozzarella)
+            (CC and)
+            (NN tomato) (NN sandwich))
+          (, ,)
+          (NP
+            (NP (DT a) (JJ small) (NN order))
+            (PP (IN of)
+              (NP (NN pasta) (NN salad))))
+          (, ,)
+          (CC and)
+          (NP (DT a) (NN drink)))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD came)
+        (PRT (RP out))
+        (PP (TO to)
+          (NP ($ $) (CD 13)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP ($ $) (CD 13)))
+    (NP (PRP I))
+    (VP (MD could)
+      (PP (IN of))
+      (VP (VBN gone)
+        (PP (TO to)
+          (NP (DT a) (NN restaurant)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Paradise) (NNP Bakery))
+    (VP (VBZ has)
+      (NP
+        (NP (DT some))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (JJS best) (NNS cookies))
+            (PP (IN around)
+              (SBAR (CC but)
+                (S
+                  (NP (DT the) (NN food))
+                  (VP (VBZ is)
+                    (ADVP
+                      (NP (DT a) (NN rip))
+                      (RB off))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VB dude)
+      (SBAR
+        (S
+          (NP (PRP$ their) (NNS salads))
+          (VP (VBP are)
+            (ADJP (JJ awesome)
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBZ 's)
+                    (S
+                      (NP (DT all) (FW i))
+                      (VP (VB get)
+                        (ADVP (RB here))
+                        (PP (IN for)
+                          (NP
+                            (NP (CD 7) (NNS bucks))
+                            (PP (CC plus)
+                              (NP (NN tax)))))))))))
+            (SBAR
+              (SBAR
+                (S
+                  (NP (PRP they))
+                  (VP (VBP are)
+                    (ADJP
+                      (NP (DT a) (RB bit))
+                      (JJ pricey)))))
+              (CC but)
+              (SBAR (IN if)
+                (S
+                  (NP (PRP you))
+                  (VP (MD can)
+                    (VP (VB deal)
+                      (PP (IN with)
+                        (NP (DT that)))
+                      (SBAR (IN than)
+                        (S
+                          (NP (PRP$ its) (JJ good) (NN stuff) (NN oh))
+                          (VP (VBP yeah)
+                            (SBAR
+                              (S
+                                (NP (DT the) (NNS cookies))
+                                (VP (VBP are)
+                                  (ADJP (RB bomb) (RB too) (JJ haha)
+                                    (SBAR
+                                      (S
+                                        (NP (FW i))
+                                        (VP (VBP have)
+                                          (VP (VBN returned)
+                                            (PP (TO to)
+                                              (NP (DT this) (NN place)
+                                                (QP (JJ many) (NNS times))))))))))))))))))))))))))
+
+

@@ -1,0 +1,213 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP have)
+        (VP (VBN been)
+          (PP (TO to)
+            (NP (DT this) (NN subway)))
+          (NP
+            (NP (DT a) (NN bunch))
+            (PP (IN of)
+              (NP (NNS times)))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ seems)
+        (SBAR (IN that)
+          (S
+            (NP (PRP they))
+            (ADVP (RB never))
+            (VP (VBP have)
+              (NP (JJ fresh) (NNS veggies)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN lettuce))
+      (ADVP (RB always))
+      (VP (VBZ has)
+        (NP
+          (NP (DT some) (NN red))
+          (PP (IN on)
+            (NP (PRP it))))))
+    (PRN (, ,)
+      (S
+        (NP (DT the) (NNS tomatoes))
+        (VP (VBP are)
+          (ADJP (JJ slimy))))
+      (, ,))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP 'm)
+        (ADVP (RB never))
+        (ADJP (JJ sure)
+          (PP (IN about)
+            (NP
+              (NP (DT the) (NN rest))
+              (PP (IN of)
+                (NP (PRP it))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBP are)
+      (NP
+        (NP (JJ other) (NNS subways))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN area))
+            (, ,)
+            (NP
+              (NP (DT the) (NN one))
+              (PP (IN on)
+                (NP (NNP Waddell)
+                  (CC and)
+                  (NNP Lichtfield)))
+              (VP (VBG being)
+                (ADJP (RB much) (JJR better))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB Whenever))
+      (S
+        (NP (PRP I))
+        (VP (VBP go)
+          (ADVP (RB there)))))
+    (, ,)
+    (SBAR (IN if)
+      (S
+        (NP (NN something))
+        (VP (VBZ does) (RB n't)
+          (VP (VB look)
+            (ADJP (JJ fresh))))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VB toss)
+      (NP (PRP it)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP love)
+      (NP (DT this) (NN subway)))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's)
+        (ADJP (JJ clean))
+        (, ,)
+        (ADVP (RB fast))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP I))
+      (ADVP (RB always))
+      (VP (VBP leave)
+        (ADJP (JJ happy))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Krystal))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBZ is)
+            (ADVP (RB also))
+            (NP (DT the) (NN manager)))))
+      (, ,))
+    (VP (VBZ is)
+      (ADVP (RB always))
+      (ADJP (RB sooo) (JJ friendly)))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Ex))
+    (: :)
+    (S
+      (NP (PRP I))
+      (VP (VBD told)
+        (NP (PRP her))
+        (SBAR
+          (S
+            (S
+              (NP (PRP I))
+              (VP (VBD was)
+                (NP (NN dieting))))
+            (CC and)
+            (S
+              (NP (PRP she))
+              (VP (VBD gave)
+                (NP (PRP me))
+                (NP
+                  (NP (DT all) (NNS kinds))
+                  (PP (IN of)
+                    (NP (NNS tips))))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP
+      (VP (VBD removed)
+        (NP
+          (NP (DT some))
+          (PP (IN of)
+            (NP (PRP$ my) (NN bread)))))
+      (, ,)
+      (VP (VBD loaded)
+        (PRT (RP up))
+        (PP (IN on)
+          (NP
+            (NP (PRP$ my) (NN fav) (NNS veggies))
+            (, ,)
+            (NP (DT no) (NN cheese)))))
+      (CC and)
+      (VP
+        (ADVP (RB also))
+        (VBD gave)
+        (NP (PRP me))
+        (SBAR
+          (NP (JJ light) (NN mayo) (NNS packets))
+          (IN so)
+          (S
+            (NP (PRP I))
+            (VP (MD could)
+              (VP (VB measure)
+                (NP (JJ exact) (NNS calories))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (ADVP (RB always))
+      (VP (VB appreciate)
+        (NP (JJ great) (NN customer) (NN service))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP am)
+      (ADJP (JJ loyal)
+        (PP (TO to)
+          (NP
+            (NP (DT this) (JJ particular) (NN subway))
+            (PP (RB just) (RB because) (IN of)
+              (NP (DT that)))))))
+    (. !)))
+
+

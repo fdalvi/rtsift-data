@@ -1,0 +1,167 @@
+(ROOT
+  (NP
+    (NP (JJ Outdated) (NN look))
+    (, ,)
+    (NP
+      (NP (JJ slow) (NN service))
+      (, ,)
+      (NP
+        (NP (DT half) (NN star))
+        (PP (IN for)
+          (NP (NN gud) (NN customer) (NN service)))))
+    (: ...)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP think)
+      (S
+        (NP (NN ud))
+        (VP (VB get)
+          (NP
+            (NP (NN ur) (NN food))
+            (VP
+              (ADVP (RBR faster))
+              (VBG going))
+            (PP (IN thru)
+              (NP (NN drive) (NNS thru)))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (ADVP (RB ill))
+                (VP
+                  (ADVP (RB happily))
+                  (VBP take)
+                  (NP
+                    (NP (JJ next) (NN time))
+                    (SBAR
+                      (S
+                        (NP (PRP I))
+                        (VP (VBP come)
+                          (ADVP (RB here))
+                          (ADVP (RB :-RRB-)))))))))))))))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP love)
+      (NP (DT this) (NN location)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN staff))
+      (VP (VBZ is)
+        (ADJP
+          (ADJP (RB always) (JJ awesome))
+          (CC and)
+          (ADJP (RB super) (JJ friendly)))
+        (, ,)
+        (PP (RB especially) (IN at)
+          (NP
+            (NP (NN night))
+            (PP
+              (ADVP
+                (NP (CD :-RRB-))
+                (RB Out))
+              (IN of)
+              (NP
+                (NP (DT the) (NNP Taco) (NNP Bell) (POS 's))
+                (SBAR
+                  (S
+                    (NP (PRP I))
+                    (VP (VBP 've)
+                      (VP (VBN been)
+                        (PP (TO to))
+                        (PP (IN in)
+                          (NP (NNP Phoenix)))))))))))))
+    (, ,)
+    (NP (DT this))
+    (VP (VBZ is)
+      (ADVP (RB definitely))
+      (NP
+        (NP (PRP$ my) (NN favorite))
+        (PP (IN for)
+          (NP (DT that) (JJ very) (NN reason)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ horrible) (NN service))
+      (, ,)
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN drive))
+          (PP (IN thru)
+            (NP (DT the) (NN girl))))))
+    (VP (VBZ spills)
+      (NP (NN soda))
+      (PP
+        (PP (IN on)
+          (NP (PRP me)))
+        (CC and)
+        (RB instead)
+        (PP (IN of)
+          (S
+            (VP (VBG saying)
+              (SBAR
+                (S
+                  (NP (PRP she))
+                  (VP (VBZ is)
+                    (ADJP (JJ SORRY)
+                      (SBAR
+                        (S
+                          (NP (PRP she))
+                          (VP (VBZ says)
+                            (SBAR
+                              (S
+                                (NP (NNP WELL) (NNP HOW))
+                                (VP (VBD WAS)
+                                  (S
+                                    (NP (PRP I))
+                                    (VP (TO TO)
+                                      (VP (VB KNOW)
+                                        (NP
+                                          (NP (NNP THERE) (NNP WAS) (NNP SODA))
+                                          (PP (IN ON)
+                                            (NP (DT THE) (NNP LID))))))))))))))))))))))
+    (. ?)))
+
+(ROOT
+  (SINV
+    (S
+      (ADVP (RB then))
+      (NP (PRP she))
+      (ADVP (RB just))
+      (VP
+        (VP (VBZ walks)
+          (PRT (RP off)))
+        (, ,)
+        (VP (VBZ does) (RB n't)
+          (VP (VB offer)
+            (NP (PRP me))
+            (NP (DT a) (NN napkin))))
+        (CC or)
+        (VP (VBP say)
+          (S
+            (NP (NN anything))
+            (ADJP (RB else))))
+        (, ,)
+        (ADVP (RB just))
+        (VP (VBD left)
+          (NP (PRP it))
+          (PP (IN for)
+            (NP (NN someone) (RB else)))
+          (S
+            (VP (TO to)
+              (VP (VB address)))))))
+    (: ...)
+    (NP (NNP NEVER) (NNP AGAIN))
+    (. !)))
+
+

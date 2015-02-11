@@ -1,0 +1,114 @@
+(ROOT
+  (NP
+    (NP (NNP Pleasant) (NN coffee) (NN shop))
+    (PP (IN with)
+      (NP
+        (NP (JJ spacious) (, ,) (JJ modern) (NN interior))
+        (, ,)
+        (NP (NN fireplace))
+        (, ,)
+        (CC and)
+        (NP (JJ numerous) (NNS tables))))
+    (PP (IN for)
+      (NP (NN working)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Excellent)
+      (NP (NN coffee)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Play)
+      (NP (NN area))
+      (PP (IN for)
+        (NP (NNS kids))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Plus))
+    (, ,)
+    (NP
+      (NP (NN background) (NN music))
+      (PP (IN from)
+        (NP (NNP Wisconsin) (NNP Public) (NNP Radio))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (VP (VBD Had)
+      (NP
+        (NP (JJ coffee/tea/hot) (NN chocolate))
+        (ADVP (RB quite)
+          (NP (DT a) (JJ few) (NNS times))
+          (PP (IN during)
+            (NP (PRP$ my) (NN stay)))))
+      (PP (IN at)
+        (NP (NNP Madison))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Loved)
+      (S
+        (NP (PRP it))
+        (ADJP (RB always) (JJ !!))))))
+
+(ROOT
+  (FRAG
+    (ADJP (JJ Rich))
+    (SBAR
+      (UCP
+        (NP (NN taste) (, ,) (JJ wonderful) (NN brew))
+        (CC and)
+        (ADJP (JJ consistent) (NN quality)))
+      (S
+        (NP (PRP they))
+        (VP (VBP have)
+          (VP (VBN served)
+            (ADVP (RB always))))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (VP (MD Would)
+        (VP (VB suggest)
+          (PP (TO to)
+            (NP (NN everyone))))))
+    (NP (PRP I))
+    (VP (VBP know))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP BEST))
+    (VP (VBZ COFFEE)
+      (PP (IN IN)
+        (NP
+          (NP (DT THE) (NNP CITY) (NNP Great) (NN background) (NN music))
+          (, ,)
+          (NP
+            (NP (JJ great) (NNS drinks))
+            (, ,)
+            (NP (JJ superior) (NN service))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Feels))
+    (ADVP (RB really))
+    (VP (VBZ 90s))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Try)
+      (NP (DT the) (NNP Breakfast) (NNP Blend)))))
+
+

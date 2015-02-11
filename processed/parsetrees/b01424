@@ -1,0 +1,73 @@
+(ROOT
+  (S
+    (S
+      (VP
+        (VP (VB Close))
+        (, ,)
+        (NP
+          (ADJP (JJ convenient) (, ,) (JJ cheap))
+          (NN gas))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBP carry)
+        (NP
+          (NP (NNP Orbit) (NNP Gum))
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (PRP I))
+              (ADVP (RB stupidly))
+              (VP (VBP run)
+                (PRT (RP out))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Good) (NN enough))
+    (PP (IN for)
+      (NP (PRP me)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (PP (IN by)
+        (NP
+          (NP (RB far) (DT the) (JJS worst))
+          (SBAR
+            (S
+              (NP
+                (NP (NNP Circle) (NNP K))
+                (PP (IN on)
+                  (NP
+                    (NP (DT the) (NN face))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT the) (NN planet))
+                        (PP (DT all) (IN of)
+                          (NP
+                            (NP (PRP$ their) (NN debit) (NN card) (NNS readers))
+                            (PP (IN on)
+                              (NP (DT the) (NN gas) (NNS pumps))))))))))
+              (VP (VBP are)
+                (ADVP (IN out)
+                  (NP (CD 20) (NNS people))
+                  (PP (IN in)
+                    (NP (NN line))))
+                (PP (IN for)
+                  (NP (NN gas) (NNS !!)))))))))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD will)
+      (ADVP (RB never))
+      (VP (VB Shop)
+        (ADVP (RB here))
+        (ADVP (RB again))))))
+
+

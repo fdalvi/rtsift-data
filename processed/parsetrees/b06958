@@ -1,0 +1,83 @@
+(ROOT
+  (S
+    (NP (DT The) (NN guy))
+    (VP (VBD was)
+      (ADJP (RB super) (JJ helpful)
+        (PP (IN while)
+          (S
+            (VP (VBG advising)
+              (NP (PRP me))
+              (PP (IN on)
+                (NP (DT the) (JJS best) (NN way)))
+              (S
+                (VP (TO to)
+                  (VP (VB ship)
+                    (NP (PRP$ my) (NN envelope))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP He))
+      (ADVP (RB thoroughly))
+      (VP (VBD explained)
+        (NP
+          (NP (DT all))
+          (PP (IN of)
+            (NP (PRP$ my) (NNS options))))))
+    (, ,)
+    (CC and)
+    (S
+      (SBAR (IN since)
+        (S
+          (NP (DT this))
+          (VP (VBD was)
+            (NP (DT an) (JJ important) (NN letter)))))
+      (, ,)
+      (NP (PRP I))
+      (ADVP (RB really))
+      (VP (VBD appreciated)
+        (NP (DT that))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB also))
+    (VP (VBD got)
+      (SBAR
+        (S
+          (NP (DT a) (JJ few) (NNS documents))
+          (VP (VBD notarized)))))
+    (. .)))
+
+(ROOT
+  (NP (DT No) (NNS complaints) (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (ADJP (JJ quick)
+        (CC and)
+        (JJ easy)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD 'll)
+      (VP (VB remember)
+        (NP (DT this) (NN store))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP I))
+            (VP (VBP have)
+              (S
+                (NP (NN something) (RB else))
+                (VP (TO to)
+                  (VP (VB ship)))))))))
+    (. .)))
+
+

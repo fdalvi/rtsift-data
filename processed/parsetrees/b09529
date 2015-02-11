@@ -1,0 +1,66 @@
+(ROOT
+  (SINV
+    (ADJP
+      (ADJP (RB Nasty) (JJ plain))
+      (PP (IN out)
+        (NP
+          (NP (JJ nasty) (NNS wings) (NN way))
+          (PP (IN over)
+            (NP
+              (NP (NNP rated) (. .))
+              (SBAR
+                (S
+                  (NP (JJ first) (NN sign) (NN place))
+                  (VP (VBD was)
+                    (ADJP (JJ empty)
+                      (PP (IN at)
+                        (NP
+                          (NP (NN lunch) (NN hour))
+                          (VP (VBN Nd)
+                            (S
+                              (NP (PRP I))
+                              (VP (VB order)
+                                (NP (JJ tradtional) (NN dozen) (NNS wings))
+                                (PP (TO to)))))))))))))))
+      (. .))
+    (VP (VBD took)
+      (ADVP (RB almost)
+        (NP (CD twenty) (NNS minutes))))
+    (NP
+      (NP (NN witch))
+      (PP (IN for)
+        (NP
+          (NP (NNS wings))
+          (SBAR
+            (S
+              (VP (VBZ is)
+                (ADJP (JJ uncalled)
+                  (PP (IN for)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Got) (NN home))
+    (VP
+      (VP (VBD took)
+        (SBAR
+          (S
+            (NP (CD two))
+            (VP
+              (VP (VBZ bites)
+                (NP (DT all) (NNS bones)))
+              (CC and)
+              (VP (VBD tasted)
+                (NP (DT the) (JJ frost) (NN bite)))))))
+      (CC and)
+      (VP (VBD threw)
+        (NP (PRP it))
+        (ADVP (DT all) (RB away))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Horrible)
+      (ADJP (JJ terrible)))))
+
+

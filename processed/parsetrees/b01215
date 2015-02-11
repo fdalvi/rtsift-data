@@ -1,0 +1,185 @@
+(ROOT
+  (S
+    (S
+      (FRAG
+        (NP (NNP REOPENED))
+        (: ...)
+        (FRAG
+          (NP (JJ new) (NN owner))
+          (NP (NNP Dan))
+          (. .))
+        (. .))
+      (NP (NNP Nice))
+      (VP (VBZ guy)))
+    (, ,)
+    (VP (VBZ knows)
+      (NP
+        (NP (NN nothing))
+        (PP (IN about)
+          (SBAR
+            (WHADVP (WRB how))
+            (S
+              (VP (TO to)
+                (VP (VB run)
+                  (NP (DT a) (NN business)))))))))
+    (NP (NNP NOR) (NNP FIX) (NNP COMPUTERS))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP$ His) (NN electricity))
+    (VP (VBZ is) (RB NOT)
+      (VP (VBN turned)
+        (PP (IN on)
+          (SBAR (IN because)
+            (S
+              (NP (PRP they))
+              (VP
+                (VP
+                  (ADVP (RB just))
+                  (VBD bought)
+                  (NP (DT the) (NN business)))
+                (CC and)
+                (VP (VBP do) (RB n't)
+                  (VP (VB have)
+                    (NP
+                      (NP (DT the) ($ $) (CD $))
+                      (PP (IN for)
+                        (NP (DT the) (NN deposit))))
+                    (ADVP (RB yet))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VP (VBP work)
+        (PP (IN in)
+          (NP (DT the) (NN dark))))
+      (CC and)
+      (VP
+        (ADVP (RB then))
+        (VBP take)
+        (NP (PRP$ your) (NN computer) (NN home))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (VP (VBN quoted)
+        (NP (DT a) (NN price)
+          (S
+            (VP (TO to)
+              (VP (VB repair)
+                (CC and)
+                (VB upgrade)
+                (NP (PRP$ my) (NN computer))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (VP
+        (ADVP (RB NOT))
+        (VBN done)
+        (UCP
+          (ADJP (RB as)
+            (SBAR
+              (S
+                (VP (VBD promised)
+                  (NP (RBR later) (DT that) (NN day))))))
+          (CC nor)
+          (NP
+            (NP (CD 2) (NNS weeks))
+            (ADVP (RB later))))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP (PRP He))
+        (VP (VBD had)
+          (S
+            (NP (PRP me))
+            (VP (VB pick)
+              (NP (PRP it))
+              (ADVP (RB up)
+                (PP (IN at)
+                  (NP (PRP$ his) (NN house))))))))
+      (CC and)
+      (S
+        (S
+          (ADVP (RB still))
+          (NP (PRP$ my) (NN computer))
+          (VP (VBD was) (RB not)
+            (VP (VBN upgraded))))
+        (CC and)
+        (S
+          (NP (PRP he))
+          (VP
+            (VP (VBD lost)
+              (NP (PRP$ my) (NN power) (NN cord)))
+            (CC and)
+            (VP (`` ``) (JJ rigged) ('' '')
+              (PP
+                (ADVP
+                  (NP (CD one))
+                  (RB up))
+                (IN for)
+                (NP
+                  (NP (PRP me))
+                  (PP (IN with)
+                    (NP (JJ black) (NN tape))))))))))
+    (: ...)
+    (S
+      (ADVP (RB Still))
+      (VP (VBG waiting)
+        (PP (IN for)
+          (NP
+            (NP (DT the) (VBN upgraded) (NN memory) (NN card))
+            (SBAR
+              (S
+                (S
+                  (NP (PRP he))
+                  (VP (VBD promised)))
+                (CC and)
+                (S
+                  (NP
+                    (NP (PRP$ my) (JJ new) (NN card))
+                    (SBAR
+                      (FRAG
+                        (SBAR (IN that)
+                          (S
+                            (NP (PRP I))
+                            (VP (VBP have)
+                              (NP (NNP NEVER) (NNP RECEIVED))))
+                          (. .))
+                        (. .))))
+                  (ADVP (RB PLEASE))
+                  (VP (VB stay)
+                    (PRT (RP away))
+                    (PP (IN from)
+                      (NP (DT this) (NN place)))))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (VBP are)
+      (ADVP (RBR better))
+      (VP (VBG throwing)
+        (NP (PRP$ your) (NN laptop))
+        (PP (IN in)
+          (S
+            (NP (DT the) (NN trash))
+            (ADVP (RB then))
+            (VP (VBG taking)
+              (NP (PRP it))
+              (PP (TO to)
+                (NP (DT this) (NN place))))))))
+    (. !)))
+
+

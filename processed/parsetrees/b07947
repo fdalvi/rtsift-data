@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (VP (VBD Had)
+      (S
+        (VP (TO to)
+          (VP (VB come)
+            (PP (IN into)
+              (NP (DT a) (NN branch)))
+            (SBAR (IN because)
+              (S
+                (NP (NN customer) (NN service) (NN F))
+                (VP (VBD 'd)
+                  (NP (DT A) (NNP LOT))
+                  (ADVP (RB up)
+                    (PP (IN over)
+                      (NP (DT the) (NN phone)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD were)
+      (ADVP (IN beyond))
+      (ADJP (JJ great)
+        (PP (IN in)
+          (ADVP (RB here)))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP
+      (NP (PRP$ My) (NN teller))
+      (, ,)
+      (NP (NNP Melissa)
+        (CC &)
+        (NP (RB then))))
+    (NP (PRP$ my) (NN P.B.))))
+
+(ROOT
+  (S
+    (NP (NNP Will))
+    (VP (VBD were)
+      (ADJP (JJ exceptional)))
+    (. .)))
+
+

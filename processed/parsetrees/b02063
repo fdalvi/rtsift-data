@@ -1,0 +1,630 @@
+(ROOT
+  (NP (NNP DO) (NNP NOT) (NNP GO) (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD took)
+      (NP (PRP$ my) (NN Pomeranian))
+      (ADVP (RB there))
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (VP (VBN groomed))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD were)
+      (VP (VBN given)
+        (S
+          (ADJP (RB very) (JJ SPECIFIC))
+          (SBAR
+            (S
+              (NP (NN instruction))
+              (VP (VBZ 's)
+                (UCP
+                  (PP (IN on)
+                    (SBAR
+                      (WHADVP (WRB how))
+                      (S
+                        (NP (PRP I))
+                        (VP (VBD wanted)
+                          (NP (PRP$ her) (NN groomed))
+                          (, ,)
+                          (PP (VBG including)
+                            (NP
+                              (NP (NN length))
+                              (PP (IN of)
+                                (NP (DT the) (NN body)))))))))
+                  (, ,)
+                  (CC and)
+                  (S
+                    (VP (TO to)
+                      (VP
+                        (ADVP (RB just))
+                        (VB trim)
+                        (NP (DT the) (NN face))))))
+                (, ,)
+                (S
+                  (VP (VBG leaving)
+                    (NP (PRP her))
+                    (PP (IN with)
+                      (NP
+                        (NP (DT some) (NN fluff))
+                        (CC and)
+                        (NP (NNS fullness))))
+                    (PP (IN around)
+                      (NP (DT the) (NN face)))))))))
+        (SBAR (IN as)
+          (S
+            (NP (DT a) (NNP Pom))
+            (VP (MD should)
+              (VP (VB be)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP I))
+        (VP (VBD picked)
+          (NP (PRP her))
+          (PRT (RP up)))))
+    (, ,)
+    (NP (DT the) (NN groomer))
+    (VP (VBD had)
+      (ADVP (RB completely))
+      (VP (VBN shaved)
+        (NP (PRP$ her) (JJ entire) (NN body))
+        (, ,)
+        (PP (VBG including)
+          (PP (IN around)
+            (NP (PRP$ her) (NN face))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP I))
+        (VP (VBD asked)
+          (SBAR
+            (WHADVP (WRB why))
+            (S
+              (NP (PRP she))
+              (VP (VBD looked)
+                (NP (DT this) (NN way))
+                (NP
+                  (NP (DT the) (NN answer))
+                  (SBAR
+                    (S
+                      (NP (DT the) (NN groomer))
+                      (VP (VBD gave)
+                        (SBAR
+                          (S
+                            (NP (PRP me))
+                            (VP (VBD was) (`` ``)
+                              (NP (PRP I)))))))))))))))
+    (NP (NN groom) (NN pom))
+    (VP (VBZ 's)
+      (PP (IN like)
+        (NP (NN fox) (POS 's))))
+    (. .)))
+
+(ROOT
+  (S ('' '')
+    (NP (DT This))
+    (VP (VBD was)
+      (NP
+        (NP (DT a) (JJ blatant) (NN disregard))
+        (PP (IN for)
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (NP (PRP I)
+                (PRN (-LRB- -LRB-)
+                  (NP (DT the) (NN customer))
+                  (-RRB- -RRB-)))
+              (VP (VBD had)
+                (ADVP (RB specifically))
+                (VP (VBN asked)
+                  (PP (IN for)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP I))
+        (VP
+          (VP (VBD spoke)
+            (PP (TO to)
+              (NP (DT the) (NN manager))))
+          (CC and)
+          (VP (VBD told)
+            (NP (PRP her))
+            (SBAR
+              (SBAR
+                (S
+                  (NP (PRP I))
+                  (VP (VBD was)
+                    (ADJP (RB completely) (JJ unsatisfied)
+                      (PP (IN with)
+                        (SBAR
+                          (WHADVP (WRB how))
+                          (S
+                            (NP (PRP she))
+                            (VP (VBD looked)))))))))
+              (CC and)
+              (SBAR (IN that)
+                (S
+                  (NP (PRP$ my) (NNS instructions))
+                  (VP (VBD were)
+                    (ADVP (RB completely))))))))))
+    (VP (VBD disregarded)
+      (SBAR
+        (S
+          (NP (PRP$ her) (NN answer))
+          (VP (VBD was) (`` ``)
+            (VP (VBP do)
+              (SBAR
+                (S
+                  (NP (PRP you))
+                  (VP (VBP want)
+                    (S
+                      (NP (PRP me))
+                      (VP (TO to)
+                        (VP (VB fix)
+                          (NP (PRP it)))))))))))))
+    (. ?)))
+
+(ROOT
+  (NP
+    (NP (NNP ''))
+    (VP (VBN Fix)
+      (NP (PRP it)))
+    (X (SYM ?!))))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP (EX there))
+      (VP (TO to)
+        (VP (VB fix))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (NP
+        (NP (DT no) (NN hair))
+        (VP (VBN left))))
+    (. !)))
+
+(ROOT
+  (S (IN So)
+    (NP (PRP I))
+    (VP
+      (VP (VBD said) (`` ``)
+        (SBAR
+          (S
+            (NP (DT no) (NN I))
+            (VP (VBP do) (RB n't)
+              (VP (VB want)
+                (S
+                  (NP (PRP you))
+                  (VP (TO to)
+                    (VP (VB cut)
+                      (ADVP (RB anymore))
+                      (ADVP (RB off)))))))))
+        ('' ''))
+      (PRN (-LRB- -LRB-)
+        (S
+          (NP (PRP she))
+          (VP (MD would)
+            (VP (VB look)
+              (ADJP (RB completely) (JJ bald)))))
+        (-RRB- -RRB-)))
+    (. .)))
+
+(ROOT
+  (S (RB Then)
+    (NP (PRP she))
+    (VP (VBD said)
+      (ADVP (`` ``)
+        (ADVP (RB well))
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (VP (VBP do)
+              (SBAR
+                (S
+                  (NP (PRP you))
+                  (VP (VBP want)
+                    (S
+                      (NP (PRP me))
+                      (VP (TO to)
+                        (VP (VB do))))))))))))
+    (. ?)))
+
+(ROOT
+  (S ('' '')
+    (NP (PRP I))
+    (VP (VBD said)
+      (S (`` ``)
+        (ADVP (RB well))
+        (NP (PRP I))
+        (VP (VBP 'm)
+          (NP
+            (NP (DT an) (JJ unsatisfied) (NN customer))
+            (, ,)
+            (SBAR
+              (WHNP (WP what))
+              (S
+                (VP (VBP do)
+                  (SBAR
+                    (S
+                      (NP (PRP you))
+                      (VP (VBP do)
+                        (SBAR
+                          (WHADVP (WRB when))
+                          (S
+                            (NP (DT that))
+                            (VP (VBZ happens))))))))))))))
+    (. ?)))
+
+(ROOT
+  (S ('' '')
+    (NP (PRP She))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP she))
+          (VP (MD would)
+            (VP (VB give)
+              (NP (PRP me))
+              (NP
+                (NP (DT a) (NN discount))
+                (PP (IN on)
+                  (NP (PRP$ my) (JJ next) (NN grooming)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD said) (`` ``)
+      (S
+        (NP (PRP I))
+        (VP (VBN paid)
+          (PP (IN for)
+            (NP
+              (NP
+                (NP (DT this) (NN grooming))
+                (, ,)
+                (SBAR
+                  (WHNP (WDT which))
+                  (S
+                    (VP (VBD was)
+                      (ADJP (JJ atrocious))))))
+              (, ,) (RB not)
+              (NP
+                (NP (PRP$ my) (NNS dogs))
+                (NP (JJ next) (NN grooming))))))))
+    (. .)))
+
+(ROOT
+  (S ('' '')
+    (S
+      (ADVP (RB Then))
+      (NP (PRP she))
+      (VP (VBZ says)
+        (S (`` ``)
+          (ADVP (RB well))
+          (NP (PRP it))
+          (VP (VBZ sounds)
+            (SBAR (IN like)
+              (S
+                (NP (PRP you))
+                (ADVP (RB just))
+                (VP (VBP want)
+                  (S
+                    (VP (TO to)
+                      (VP (VB complain)))))))))))
+    (CC and)
+    (S
+      (NP (RB not))
+      (VP (VBP let)
+        (S
+          (NP (PRP me))
+          (VP (VB fix)
+            (NP (PRP it))))))
+    (. .)))
+
+(ROOT
+  (S ('' '')
+    (NP (PRP I))
+    (VP (VBD said)
+      (SBAR (`` ``)
+        (WHNP (WP what))
+        (S
+          (VP (VBZ is)
+            (S
+              (NP (EX there))
+              (VP (TO to)
+                (VP (VB fix))))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (ADVP (RB Again))
+    (, ,)
+    (NP (PRP she))
+    (VP (VBZ has)
+      (NP
+        (NP (DT NO) (NN hair))
+        (VP (VBN left))))
+    (. !)))
+
+(ROOT
+  (S ('' '')
+    (NP (RB So))
+    (ADVP (RB then))
+    (PRN
+      (NP (PRP she))
+      (VP (VBZ says)))
+    (`` ``)
+    (ADVP (RB well))
+    (VP (VBP do)
+      (SBAR
+        (S
+          (NP (PRP you))
+          (VP (VBP want)
+            (NP (DT a) (NN refund))))))
+    (. ?)))
+
+(ROOT
+  (SQ (MD Would)
+    (NP (DT that))
+    (VP (VB make)
+      (S
+        (NP (PRP you))
+        (ADJP (JJ happy))))
+    (. ?)))
+
+(ROOT
+  (S ('' '')
+    (NP (PRP I))
+    (VP (VBD said)
+      (NP
+        (NP (RB yes))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (MD would)
+              (VP (VB make)
+                (S
+                  (NP (PRP me))
+                  (ADJP (RB very) (JJ happy)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ Her) (NN reply))
+    (`` ``)
+    (ADVP (RB well))
+    (NP (PRP I))
+    (ADVP (RB just))
+    (VP (MD ca) (RB n't)
+      (VP (VB do)
+        (NP (DT that))))
+    (. .)))
+
+(ROOT
+  (S ('' '')
+    (ADVP (RB Ok))
+    (, ,)
+    (ADVP (RB so) (RB then)
+      (SBAR
+        (WHADVP (WRB why))
+        (S
+          (VP (VBD was)
+            (NP (DT that))))))
+    (VP (VBD offered)
+      (PP (TO to)
+        (NP (PRP me))))
+    (. ?)))
+
+(ROOT
+  (S
+    (ADVP (RB So))
+    (, ,)
+    (S
+      (ADVP (RB aside)
+        (PP (IN from)
+          (NP
+            (NP (DT the) (JJ horrible) (NN grooming))
+            (CC and)
+            (NP (JJ terrible) (NN customer) (NN service)))))
+      (, ,)
+      (NP (DT the) (NN place))
+      (VP (VBZ is)
+        (ADVP (RB also))
+        (ADJP (RB very) (JJ dirty))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADJP
+          (ADVP (RBR more) (IN than))
+          (JJ obvious))
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (NNS groomers))
+            (VP (VBP are) (RB not)
+              (VP
+                (ADVP (RB well))
+                (JJ trained)
+                (PP (IN in)
+                  (SBAR
+                    (WHADVP (WRB how))
+                    (S
+                      (VP (TO to)
+                        (VP (VB groom)
+                          (NP
+                            (NP
+                              (NP (JJ certain) (NNS breeds))
+                              (PP (IN of)
+                                (NP (NNS dogs))))
+                            (, ,)
+                            (CONJP (RB as) (RB well) (IN as))
+                            (NP
+                              (NP (DT the) (NN fact))
+                              (SBAR (IN that)
+                                (S
+                                  (NP (PRP they))
+                                  (ADVP (RB completely))
+                                  (VP (VB disregard)
+                                    (NP
+                                      (NP (DT any) (VBG grooming) (NNS instructions))
+                                      (SBAR
+                                        (S
+                                          (NP (PRP you))
+                                          (VP (VBP give)
+                                            (NP (PRP them))))))))))))))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 've)
+      (VP (VBN been)
+        (NP
+          (NP (RB here) (JJ numerous) (NNS times))
+          (PP (IN with)
+            (NP (PRP$ my) (NN pup))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (JJ first) (NN couple))
+        (PP (IN of)
+          (NP (NNS cuts))))
+      (VP (VBD were)
+        (ADJP (JJ great)
+          (SBAR
+            (S
+              (S
+                (ADVP (RB then))
+                (PP (IN within)
+                  (NP (DT the) (JJ last) (NN year)))
+                (NP (PRP I))
+                (VP (MD would)
+                  (VP (VB bring)
+                    (PP (IN in)
+                      (NP (PRP$ my) (NNP Wheaton) (NN terrier))))))
+              (CC and)
+              (S
+                (NP (DT the) (NNS women))
+                (VP (MD would)
+                  (ADVP (RB only))
+                  (VP (VB trim)
+                    (NP (PRP her))))))))))
+    (, ,)
+    (NP (PRP they))
+    (VP (MD would)
+      (VP (VB cut)
+        (NP (RB just) (DT a) (JJ little) (NN bit))
+        (PP (IN around)
+          (NP
+            (NP (DT the) (NNS ears))
+            (, ,)
+            (NP (NN beard))
+            (, ,)
+            (CC and)
+            (NP (NN rear))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (ADVP (RB also))
+      (VP (VBG being)
+        (VP (VBN charged)
+          (NP
+            (QP ($ $) (CD 69) (CD !!))))))))
+
+(ROOT
+  (S
+    (SBAR (IN After)
+      (S
+        (NP (DT this))
+        (VP (VBD happened)
+          (NP (DT the) (JJ second) (NN time)))))
+    (NP (PRP I))
+    (VP
+      (VP (VBD called)
+        (S
+          (VP (TO to)
+            (VP (VB complain)))))
+      (CC but)
+      (VP
+        (ADVP (RB never))
+        (VBD got)
+        (NP (DT a) (NN call))
+        (PRT (RP back))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB just))
+    (VP (VBD decided)
+      (S
+        (VP (TO to)
+          (VP (VB take)
+            (NP (PRP$ my) (NN business))
+            (ADVP (RB elsewhere))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Kim))
+    (VP (VBD did)
+      (NP (DT a) (JJ great) (NN job))
+      (PP (IN on)
+        (NP (PRP$ my) (NN dog))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD did) (RB n't)
+        (VP (VB have)
+          (NP (DT an) (NN appointment)))))
+    (CC but)
+    (S
+      (NP (PRP she))
+      (VP (VBD got)
+        (SBAR (IN in)
+          (S
+            (VP (VBD was)
+              (ADJP (RB very) (NN professional)))))))
+    (. .)))
+
+(ROOT
+  (NP (NNP :-RRB-) (NNP Dennis) (NNP G.)))
+
+

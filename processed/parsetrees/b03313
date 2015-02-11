@@ -1,0 +1,188 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Hall))
+      (PP (IN of)
+        (NP (NNP Frames))))
+    (VP (VBZ stinks))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB recently))
+    (VP
+      (VP (VBD started)
+        (NP (NN advertising))
+        (PP (IN with)
+          (NP (NNP Yelp))))
+      (CC and)
+      (VP (VBP have)
+        (ADVP (RB repeatedly))
+        (VP (VBN complained)
+          (S
+            (VP (TO to)
+              (VP (VB Yelp)
+                (PP (IN about)
+                  (NP
+                    (NP (DT a)
+                      (ADJP (CD 100) (NN %))
+                      (JJ genuine)
+                      (CC and)
+                      (JJ honest) (CD 3) (NN star) (NN review))
+                    (SBAR
+                      (S
+                        (NP (PRP I))
+                        (VP (VBD wrote)
+                          (PP (IN about)
+                            (NP (PRP$ my) (NN experience)))
+                          (PP (IN with)
+                            (NP (PRP$ their) (NN service))))))))))))))
+    (. .)))
+
+(ROOT
+  (S (IN So)
+    (NP (NNP Yelp))
+    (VP (VBZ has)
+      (VP (VBN removed)
+        (S
+          (NP (PRP it))
+          (ADVP (RB twice)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Now))
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (VP (VBN rewritten))))
+    (CC and)
+    (S
+      (NP
+        (NP
+          (NP (DT a) (JJ 1-star) (NN review))
+          (: :)
+          (ADJP (CD 80) (NN %)))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NNS cuts))
+            (PP (IN on)
+              (NP (PRP$ their) (NNS frames))))))
+      (VP (VBP are)
+        (ADJP (RB very) (JJ sloppy))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VP (VBP try)
+        (S
+          (VP (TO to)
+            (VP (VB cover)
+              (NP (PRP it))
+              (PRT (RP up))
+              (PP (IN with)
+                (NP (NN putty)))))))
+      (CC and)
+      (VP (VBP hope)
+        (SBAR
+          (S
+            (NP (PRP you))
+            (VP (MD wo) (RB n't)
+              (VP (VB notice)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Fortunately))
+    (, ,)
+    (S
+      (NP
+        (NP (DT the) (NNS guys))
+        (PP (IN at)
+          (NP (DT this) (NNP Scottsdale) (NN store))))
+      (VP (VBP are)
+        (ADJP (RB really) (JJ nice))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBP have)
+        (NP (DT a) (JJ no-hassle) (JJ re-make) (NN policy))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Unfortunately))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP 've)
+      (VP (VBN jacked)
+        (PRT (RP up))
+        (NP (PRP$ their) (NNS prices))))
+    (. .)))
+
+(ROOT
+  (NP (DT A) (NN lot) (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Now))
+    (, ,)
+    (PP (RB even)
+      (PP (IN with)
+        (NP (DT a) (NN coupon))))
+    (, ,)
+    (NP (PRP$ their) (JJ current) (NNS prices))
+    (VP (VBP are)
+      (PP (IN at)
+        (NP
+          (NP (RB about) (DT the) (JJ same) (NN level))
+          (PP (IN as)
+            (NP (PRP$ their) (JJ non-discounted) (NNS prices)))))
+      (PP (IN from)
+        (ADVP
+          (NP (DT a) (JJ few) (NNS months))
+          (RB ago))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Now))
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (ADVP (RB no) (RB longer))
+      (ADJP (IN worth)
+        (NP
+          (NP (DT all))
+          (NP (DT the) (NN hassle))))
+      (S
+        (VP (TO to)
+          (VP (VB get)
+            (NP (NN custom) (NNS frames))
+            (PP (IN from)
+              (NP (NNP HOF)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VP (VB Save)
+        (NP (PRP$ your) (NN money)))
+      (CC and)
+      (VP (VB go)
+        (S
+          (NP (NN someplace))
+          (ADJP (RB else))
+          (SBAR
+            (WHADVP (WRB where))
+            (S
+              (NP (PRP they))
+              (VP (MD will)
+                (VP (VB do)
+                  (NP (DT the) (NN job) (NN right))))))))
+      (NP (DT the) (JJ first) (NN time)))
+    (. .)))
+
+

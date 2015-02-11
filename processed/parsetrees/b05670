@@ -1,0 +1,105 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Cool) (NN place))
+      (SBAR
+        (S
+          (VP (TO to)
+            (VP (VB come)
+              (VP (VB kill)
+                (NP (DT some) (NN time))))))))
+    (PRN (, ,)
+      (S
+        (NP (PRP I))
+        (VP (VBP come)
+          (ADVP (RB here))
+          (S
+            (VP (TO to)
+              (VP (VB buy)
+                (NP (PRP$ my) (NNS levis)))))))
+      (, ,))
+    (VP (VBP cus)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBD got)
+            (NP (DT the) (JJ big) (NNS sizes))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (ADVP (RB Also))
+    (VP
+      (ADVP (RB ther))
+      (VBZ is)
+      (NP
+        (NP (DT a) (NN place))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ sells))))))
+    (NP (NNP Chicano) (NNP rap) (NNPS CDs))))
+
+
+(ROOT
+  (S
+    (NP (JJS Best))
+    (VP (VBP deal)
+      (PP (IN on)
+        (NP
+          (NP (NN t) (NNS shirts))
+          (PP (IN in)
+            (NP (NN town))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (CD 3))
+      (PP (IN for)
+        (NP ($ $) (CD 10))))
+    (VP (VBP AAA))
+    (. .)))
+
+(ROOT
+  (NP (DT All) (NN day) (. .)))
+
+
+(ROOT
+  (S
+    (NP (JJ great))
+    (VP (VBP place)
+      (S
+        (VP (TO to)
+          (VP
+            (VP (VB walk)
+              (PRT (RP around)))
+            (CC and)
+            (VP (VB look)
+              (PP (IN for)
+                (NP
+                  (NP (JJ good) (NNS deals))
+                  (PP (IN on)
+                    (NP (JJ random) (NNS items))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Cute)
+      (NP
+        (NP (NNS flowers))
+        (PP (IN for)
+          (NP (DT the) (NN hair) (CD 3)))
+        (PP (IN for)
+          (NP
+            (NP (CD 10))
+            (ADJP ($ $) (CD s)))))
+      (ADVP (RB also))
+      (VP (VB check)
+        (PRT (RP out))
+        (NP
+          (NP (NNP Cronica) (NNPS Records))
+          (PP (IN for)
+            (NP (DT all) (NN you) (NN music) (NNS needs) (NN :-RRB-))))))))
+
+

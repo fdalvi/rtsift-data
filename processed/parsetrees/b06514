@@ -1,0 +1,115 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Good) (NN food))
+      (, ,)
+      (ADJP
+        (ADJP (JJ fast))
+        (CC and)
+        (ADJP (RB pretty) (JJ decent))))
+    (VP (VBP price))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Definitely))
+      (VP (VBP love)
+        (NP
+          (NP (NNP Jack))
+          (PP (IN in)
+            (NP (DT the) (NNP Crack))))
+        (PP (IN because)
+          (NP (PRP$ its) (RB not)))
+        (PP (TO to)
+          (NP (NN expensive.)))))
+    (, ,)
+    (NP (DT The) (NNP Food)
+      (CC and)
+      (NNP Shakes))
+    (VP (VBP are)
+      (VP (VBN made)
+        (S
+          (ADJP (JJ fresh)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS desserts))
+      (VP (VBP are)
+        (ADJP (JJ tasty))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBD let)
+        (SBAR
+          (S
+            (NP (PRP you))
+            (VP (VBP add)
+              (NP (NN stuff))
+              (PP (TO to)
+                (NP
+                  (NP (PRP$ your) (NN order))
+                  (PP (IN at)
+                    (NP (DT the) (NN menu)))))
+              (PP (IN without)
+                (S
+                  (VP (VBG frowning)))))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (SBAR (IN if)
+      (S
+        (NP (NNP SOMEONE))
+        (VP (VBZ steals)
+          (NP (PRP$ your) (NN cherry))
+          (PP (IN on)
+            (NP (PRP$ your)
+              (NX (NNP Strawberry) (NNP SHAKE)))))))
+    (NP (PRP they))
+    (VP (MD will)
+      (VP (VB give)
+        (NP (PRP you))
+        (NP (DT another) (CD one) (NNP LOL))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NN cant))
+    (VP (VBP go)
+      (ADJP (JJ wrong)
+        (PP (IN with)
+          (NP (NN breakfast))))
+      (PP (IN at)
+        (NP (NN lunch) (NN time))))
+    (. !)))
+
+(ROOT
+  (FRAG (CC or)
+    (NP
+      (NP (NN breakfast))
+      (SBAR
+        (S
+          (NP (DT any) (NN time))
+          (VP (VBZ !!)))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NN sausage) (NN crossiant))
+      (PP (IN with)
+        (NP (NN mayo))))
+    (VP (VBP please)
+      (SBAR
+        (S (-LRB- -LRB-)
+          (NP (DT the) (NN mayo))
+          (VP (VBZ is)
+            (ADVP (RB actually))
+            (ADJP (JJ mayoonion))))))
+    (. .)))
+
+

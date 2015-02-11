@@ -1,0 +1,128 @@
+(ROOT
+  (S
+    (NP (NNP Dr) (NNP Berg))
+    (VP (VBZ is)
+      (NP (NNP THEE) (NNP BEST)))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VB AWESOME)
+      (NP (NN person)))
+    (. !)))
+
+(ROOT
+  (S (CC And)
+    (NP (NNP George))
+    (VP (VBZ is)
+      (ADVP (RB probably))
+      (NP
+        (NP (DT the) (JJS best) (NN receptionist) (NN Ive))
+        (VP
+          (ADVP (RB ever))
+          (VBN come)
+          (PRT (RP across)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP (RB Very) (JJ tight))
+    (S
+      (VP (VBG knit)
+        (NP (NN family) (NN environment))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (NNP Dr.) (NNP Berg))
+    (VP
+      (VP (VBZ is)
+        (NP (DT an) (JJ excellent) (NN physician)))
+      (CC and)
+      (VP (VBZ is)
+        (ADJP (RB highly) (JJ trained)
+          (CC and)
+          (JJ experienced))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP are)
+          (VP (VBG seeking)
+            (NP (NN acupuncture))))))
+    (NP (PRP he))
+    (VP (VBZ is)
+      (NP (DT the) (NN go-to-guy)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (NNP Dr.) (NNP Berg))
+    (VP (VBZ is)
+      (ADJP (JJ wonderful)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (NNP Has))
+    (ADVP (RB really))
+    (VP (VBD helped)
+      (NP (PRP me))
+      (PP (IN with)
+        (NP (PRP$ my) (NN MS)))
+      (S
+        (VP (VBG using)
+          (NP (NN acupuncture)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBP 've)
+        (VP (VBN been)
+          (VP (VBG going)
+            (PP (TO to)
+              (NP
+                (NP (NNP Dr.) (NNP Berg))
+                (PP (IN for)
+                  (NP (JJ many) (NNS years))))))))
+      (CC and)
+      (VP (VBP consider)
+        (S
+          (NP (PRP him))
+          (NP
+            (NP (CD one))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (JJS best) (NNS chiropractors))
+                (PP (IN in)
+                  (NP (DT the) (NN state)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Having)
+        (NP (PRP$ his) (NN certification))
+        (PP (IN in)
+          (NP (NNS sports) (NNS injuries)))))
+    (, ,)
+    (NP (NN rehab)
+      (CC and)
+      (NN acupuncture))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (NP
+          (NP (DT a) (JJ real) (NN asset))
+          (PP (IN for)
+            (NP (PRP$ my) (NN family))))))
+    (. .)))
+
+

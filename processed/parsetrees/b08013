@@ -1,0 +1,62 @@
+(ROOT
+  (NP
+    (NP (JJ Great) (NNS people))
+    (: ...)
+    (NP
+      (NP (NNP .) (. .))
+      (NP (JJ great) (NN fun)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP are)
+        (ADJP
+          (NP (DT a) (RB little))
+          (JJ unorganized))))
+    (: ...)
+    (CC but)
+    (S
+      (NP (PRP you))
+      (VP (MD can)
+        (VP (VB trust)
+          (NP (PRP them)))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (JJ Wonderful)
+      (CC and)
+      (JJ warm) (NNS people))
+    (, ,)
+    (NP (JJ excellent) (NN service))
+    (, ,)
+    (NP (JJ great) (NN trip))
+    (, ,)
+    (S
+      (NP (DT this))
+      (VP (VBZ is)
+        (NP (DT the) (NN team)
+          (S
+            (VP (TO to)
+              (VP (VB go)
+                (NP (NN diving))
+                (PP (IN with))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (VBP are)
+      (ADVP (RB always))
+      (VP (VBN taken)
+        (NP
+          (NP (NN care))
+          (PP (IN of)
+            (PP (IN with)
+              (NP (NNP Scuba) (NNPS Specialties)))))))
+    (. .)))
+
+

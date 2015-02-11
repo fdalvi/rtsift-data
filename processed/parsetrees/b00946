@@ -1,0 +1,85 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD stopped)
+      (PP (IN by)
+        (NP
+          (NP (DT this) (NN store))
+          (PP (IN on)
+            (NP (PRP$ my) (NN way)))))
+      (PP (TO to)
+        (NP (DT an) (NN appointment))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB really))
+    (VP (VBP like)
+      (NP (DT these) (NNS stores)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD ended)
+      (PRT (RP up))
+      (PP (IN with)
+        (NP
+          (NP (CD two) (NNS pairs))
+          (PP (IN of)
+            (NP
+              (NP (NNS pants))
+              (, ,)
+              (NP (CD 3) (NNS blouses))
+              (, ,)
+              (NP (DT a) (NN coat))
+              (CC and)
+              (NP (DT some) (JJ lacy) (NNS stockings)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Sonya))
+      (VP (VBD was)
+        (ADJP (RB very) (JJ helpful))))
+    (CC and)
+    (S
+      (NP (DT the) (NN selection))
+      (VP (VBD was)
+        (ADJP (JJ great))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (ADVP (RB usually))
+      (VP (VB shop)
+        (PP (IN at)
+          (NP (DT the) (NNP Kierland) (CD one)))))
+    (, ,)
+    (CC but)
+    (S
+      (S
+        (NP (PRP I))
+        (VP (VBD was)
+          (PP (IN in)
+            (NP
+              (NP (DT this) (NN part))
+              (PP (IN of)
+                (NP (NN town)))))))
+      (, ,) (IN so)
+      (S
+        (NP (PRP I))
+        (VP (VBP am)
+          (ADJP (JJ glad)
+            (SBAR
+              (S
+                (NP (PRP I))
+                (VP (VBD stopped)
+                  (PP (IN by)))))))))
+    (. .)))
+
+

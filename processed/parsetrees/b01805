@@ -1,0 +1,73 @@
+(ROOT
+  (S
+    (VP (VB Lame)
+      (NP (NN company)))
+    (. .)))
+
+(ROOT
+  (NP (CD Lengthy) (NNS windows) (. .)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ
+      (VP
+        (ADVP (RB really))
+        (VBZ has)
+        (NP (NN time)
+          (S
+            (VP (TO to)
+              (VP (VB stay)
+                (NP (NN home))
+                (PP (IN from)
+                  (NP (CD 8am)))
+                (PP (TO to)
+                  (NP
+                    (NP (NNS 2pm))
+                    (VP (VBG waiting)
+                      (PP (IN for)
+                        (NP (PRP them))))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC Plus)
+    (, ,)
+    (NP (PRP they))
+    (VP (VBD were)
+      (NP
+        (NP (JJ super) (JJ late) (NN past))
+        (VP
+          (ADVP (RB that)
+            (NP (CD six) (NN hour)))
+          (VBG waiting)
+          (NP (NN period)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Crappy))
+    (VP (VB service)
+      (ADVP (RB as) (RB well)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Do) (RB n't)
+      (VP (VB recommend)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Secretary))
+    (VP (VBZ is)
+      (ADJP (JJ rude))
+      (, ,)
+      (ADVP (RB also)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Never) (RB again))
+    (. .)))
+
+

@@ -1,0 +1,162 @@
+(ROOT
+  (S
+    (NP (NNP Food))
+    (VP (VBZ edible))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN staff))
+    (ADVP (RB there))
+    (VP
+      (ADVP (RB always))
+      (VBZ seems)
+      (ADJP (JJ tired)
+        (CC and)
+        (JJ unhealthy)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB Even) (IN for)
+      (NP
+        (NP (DT the) (NNP Village) (NNP Inn) (NNS chains))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBP are)
+              (ADVP (RB already))
+              (ADJP (RB pretty) (JJ junky)))))))
+    (, ,)
+    (NP (DT this) (NN one))
+    (VP (VBZ is)
+      (PP (IN on)
+        (NP
+          (NP (DT the) (JJR lower) (NN end))
+          (PP (IN of)
+            (NP (DT the) (NN scale))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VBG Uninteresting))
+    (. .)))
+
+(ROOT
+  (FRAG (RB Not)
+    (ADJP (DT any)
+      (ADJP (JJ different)
+        (PP (IN from)
+          (NP (NNP Danny) (POS 's)
+            (CC or)
+            (NNP IHOP))))
+      (CC or)
+      (ADJP (JJ similar)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Tasted) (NN alright))
+    (, ,)
+    (VP (VBD was)
+      (NP
+        (ADJP (JJ warm) (, ,) (RB relatively) (JJ fast))
+        (NN service)))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (S
+      (NP (PRP I))
+      (VP (VBP do) (RB not)
+        (VP (VB know))))
+    (, ,)
+    (WHNP (WP what) (RB else))
+    (SQ
+      (VP (MD would)
+        (VP (VB be)
+          (ADVP (RB there)))))
+    (. ?)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (ADVP (NN kind) (IN of))
+      (VP (VBD was)
+        (VP (VBG expecting)
+          (NP (NN something))
+          (ADVP (RBR better))
+          (ADVP (RB then)))))
+    (NP (NNP Danny))
+    (VP
+      (VP (VBZ 's))
+      (CC but)
+      (VP (VBD was) (RB not)
+        (ADJP (RB really) (JJ disappointed))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP it))
+            (VP (VBD was) (RB not))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP (JJ alright))
+      (, ,)
+      (SBAR (RB just)
+        (S
+          (VP (VBP do) (RB not)
+            (VP (VB expect)
+              (NP (NN anything) (JJ special)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (`` ``)
+      (NP (PRP$ Its) (NN alright))
+      ('' '')
+      (VP (VBN Eugene)))))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN location))
+    (VP (VBZ is)
+      (VP (VBN CLOSED)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP (DT an) (JJ empty) (NN building)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP am)
+      (ADVP (RB only))
+      (VP (VBG putting)
+        (NP (CD one) (NN star))
+        (PRT (RP up))
+        (SBAR (IN because)
+          (S
+            (NP (PRP I))
+            (VP (VBP have)
+              (S
+                (VP (TO to)
+                  (VP
+                    (ADVP (RB in))
+                    (VB order)
+                    (S
+                      (VP (TO to)
+                        (VP (VB post))))))))))))
+    (. .)))
+
+

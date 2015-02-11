@@ -1,0 +1,182 @@
+(ROOT
+  (S
+    (SBAR
+      (WHNP (WDT Whatever))
+      (S
+        (NP (NNP Einstein) (NNP Bros.))
+        (VP (VBZ serves))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is) (RB not)
+      (NP (DT a) (NN bagel)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNS Bagels))
+      (VP (VBP are)
+        (VP (VBN boiled))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NNP Einstein))
+      (VP (VBZ serves)
+        (PRT (RP up))
+        (NP (DT a) (NN round) (, ,) (JJ puffy) (, ,) (JJ baked) (NN roll))
+        (PP (IN with)
+          (NP
+            (NP (DT a) (NN hole))
+            (PP (IN in)
+              (NP (DT the) (NN middle)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT No)
+      (S
+        (S
+          (VP (VBG boiling)
+            (VP (VBN involved) (, ,)
+              (SBAR (IN since)
+                (S
+                  (NP (DT that))
+                  (VP (VBZ is)
+                    (ADJP (JJ time-consuming))))))))
+        (, ,) (FW i.e.) (, ,)
+        (S
+          (UCP
+            (ADJP (JJ expensive))
+            (, ,)
+            (CC and)
+            (VP (VBZ creates)
+              (NP (JJ real) (NNS bagels))
+              (PP (IN with)
+                (NP (DT a) (NN chewy))))))))
+    (VP (VBZ consistency))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP You))
+      (VP (MD might)
+        (VP (VB like)
+          (NP (PRP$ their) (NNS rolls)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP they))
+      (ADVP (RB really))
+      (VP (MD should) (RB n't)
+        (VP (VB call)
+          (S
+            (NP (PRP them))
+            (ADJP (JJ bagels))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NNP Einstein) (POS 's))
+    (VP (VBZ has)
+      (VP (VBN seen)
+        (NP (JJR better) (NNS days))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBD stopped)
+        (ADVP (RB here))
+        (PP (IN on)
+          (NP (DT a) (NN road) (NN trip)))
+        (S
+          (VP (TO to)
+            (VP (VB grab)
+              (NP (DT a) (NN bagel)
+                (CC and)
+                (NN coffee)))))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (ADJP (JJ dirty))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB only))
+    (VP (VBD had)
+      (NP
+        (NP (CD one) (NN coffee))
+        (ADJP
+          (ADJP (JJ available))
+          (PRN (-LRB- -LRB-)
+            (NP (NNP Vanilla) (NNP Hazelnut))
+            (-RRB- -RRB-)))
+        (SBAR (IN so)
+          (S
+            (NP (PRP we))
+            (ADJP
+              (NP (PRP we))
+              (JJ disappointed)))))
+      (PP (IN with)
+        (NP
+          (NP (DT that) (NN lack))
+          (PP (IN of)
+            (NP (NN selection))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD felt)
+      (SBAR (IN like)
+        (S
+          (NP (PRP I))
+          (VP (VBD was)
+            (VP (VBG bothering)
+              (NP (DT the) (NNS employees))
+              (ADVP (RB here))
+              (PP (IN with)
+                (NP (PRP$ my) (NN order))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD took)
+      (S
+        (NP (PRP me))
+        (VP (VBG making)
+          (NP (NN eye) (NN contact))
+          (PP (IN with)
+            (NP
+              (NP (CD three) (NNS employees))
+              (PRN (-LRB- -LRB-)
+                (NP
+                  (NP (CD one))
+                  (PP (IN of)
+                    (SBAR
+                      (WHNP (WP whom))
+                      (S
+                        (VP (VBD was)
+                          (VP (VBG standing)
+                            (PRT (RP around))))))))
+                (-RRB- -RRB-))
+              (SBAR (IN before)
+                (S
+                  (NP (NN anyone))
+                  (VP (VBD came)
+                    (PRT (RP over))
+                    (S
+                      (VP (TO to)
+                        (VP (VB take)
+                          (NP (PRP$ my) (NN order)))))))))))))
+    (. .)))
+
+

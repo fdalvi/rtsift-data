@@ -1,0 +1,325 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP$ My) (NN mother-in-law))
+      (VP (VBZ lives)
+        (PP (IN in)
+          (NP (DT this) (NN area)))))
+    (: -)
+    (S
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP we))
+          (VP (VBD come)
+            (ADVP (RB over))
+            (PP (IN for)
+              (NP (NN dinner)))
+            (PRN (-LRB- -LRB-)
+              (ADVP (RB sometimes))
+              (ADJP (JJ 2x)
+                (NP (DT a) (NN month)))
+              (-RRB- -RRB-)))))
+      (, ,)
+      (NP (PRP we))
+      (ADVP (RB usually))
+      (VP (VBP go)
+        (PP (TO to)
+          (NP
+            (NP (DT this) (JJ busy) (JJ corner-mart/gas) (NN station))
+            (PP (IN for)
+              (NP
+                (NP (JJ flavored) (NN coffee))
+                (PRN (-LRB- -LRB-)
+                  (NP
+                    (NP (CD 3))
+                    (CC or)
+                    (NP (CD 4) (JJ different) (NNS kinds)))
+                  (-RRB- -RRB-))))))
+        (PP (IN with)
+          (NP
+            (NP (JJ free) (NNS add-ins))
+            (: -)
+            (NP
+              (NP (JJ irish) (NN creme))
+              (, ,)
+              (NP (NN vanilla)))
+            (, ,)
+            (X (NN etc.))))))))
+
+(ROOT
+  (S (-LRB- -LRB-)
+    (NP
+      (NP
+        (NP
+          (NP (RB pretty) (JJ good))
+          (PP (IN for)
+            (ADJP (RB pretty) (JJ cheap))))
+        (: -)
+        (NP
+          (NP (CD 3) (NNS coffees))
+          (PP (IN for)
+            (NP
+              (QP (IN under) ($ $) (CD 5)))))
+        (-RRB- -RRB-))
+      (CC or)
+      (NP (DT a) (NN car)))
+    (VP (VBP wash))
+    (PRN (-LRB- -LRB-)
+      (VP (VB buy)
+        (NP (NN something))
+        (, ,)
+        (SBAR (RB even)
+          (FRAG
+            (NP (DT a) (NN sucker))))
+        (, ,)
+        (S
+          (VP (TO to)
+            (VP (VB get)
+              (NP (DT a) (NN discount))))))
+      (-RRB- -RRB-))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN car) (NN wash))
+    (VP (VBZ is)
+      (ADJP (RB pretty) (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN gas))
+      (VP (VBZ tends)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN priced)
+                (S
+                  (ADJP (RB really) (JJ high)))))))))
+    (, ,) (IN so)
+    (S
+      (SBAR (IN if)
+        (S
+          (NP (PRP we))
+          (VP (VBP get)
+            (NP (NN gas)))))
+      (, ,)
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (PP (IN across)
+          (NP
+            (NP (DT the) (NN way))
+            (PP (IN at)
+              (NP (NNP Shell)))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (ADVP (RB Also))
+    (VP (MD should)
+      (VP
+        (VP (VB note)
+          (SBAR (IN that)
+            (S
+              (NP (DT this))
+              (VP (VBZ is)
+                (NP
+                  (NP
+                    (NP (DT a)
+                      (ADJP (RB very) (JJ dangerous))
+                      (NN intersection))
+                    (PRN (: -)
+                      (ADVP (RB always))
+                      (NP (DT a) (NN crash) (RB here))))
+                  (PRN (-LRB- -LRB-)
+                    (NP
+                      (NP (NN evidence))
+                      (PP (IN of)
+                        (NP
+                          (NP (NNS alters))
+                          (PP (IN in)
+                            (NP (DT this) (NN area))))))
+                    (-RRB- -RRB-))
+                  (, ,)
+                  (PP (IN for)
+                    (NP (DT some) (JJ odd) (NN reason))))))))
+        (, ,)
+        (ADVP (RB so) (RB just))
+        (VP (VB be)
+          (PP (IN on)
+            (NP (PRP$ your) (NN guard))))))
+    (SBAR (IN if)
+      (S
+        (NP (PRP you))
+        (VP (VBP 're)
+          (PP (IN in)
+            (NP (DT this) (NN area))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT The) (NNS people))
+    (ADVP (RB here))
+    (VP (VBP are)
+      (ADJP (RB so) (JJ friendly)
+        (CC and)
+        (JJ nice)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB usually))
+    (VP (VBP stop)
+      (PRT (RP by))
+      (S
+        (VP (TO to)
+          (VP (VB get)
+            (SBAR
+              (S
+                (NP
+                  (NP (PRP$ my)
+                    (QP (CD 2) (CD /)))
+                  (ADJP ($ $) (CD 3)))
+                (VP (VBZ Rockstars)
+                  (SBAR (IN before)
+                    (S
+                      (NP (PRP I))
+                      (VP (VBP head)
+                        (PRT (RP off))
+                        (PP (TO to)
+                          (NP
+                            (NP (DT the) (NN gym))
+                            (ADVP (RB down)
+                              (NP (DT the) (NN street)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB always))
+    (VP (VBP say) (`` `)
+      (ADJP (JJ hi))
+      ('' ')
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP I))
+          (VP (VBP walk)
+            (NP
+              (NP (RB in)
+                (CC and)
+                (`` `) (NN goodbye) ('' '))
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (PRP I))
+                  (VP (VBP leave)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Occasionally))
+    (, ,)
+    (NP (DT the) (NNS cashiers))
+    (VP (VBP like)
+      (S
+        (VP (TO to)
+          (VP
+            (VP (VB start)
+              (PRT (RP up))
+              (NP (DT a) (NN conversation)))
+            (CC and)
+            (VP (VB manage)
+              (S
+                (VP (TO to)
+                  (VP (VB get)
+                    (NP (DT a) (JJ few) (NN chuckles))
+                    (PRT (RP out))
+                    (PP (IN of)
+                      (NP (PRP me)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN gas))
+      (SBAR
+        (S
+          (NP (PRP itself))
+          (VP (VBZ is)
+            (ADJP
+              (NP (DT a) (RB bit))
+              (JJ pricey))
+            (UCP
+              (S (CC but)
+                (NP (PRP it))
+                (VP (VBZ is) (, ,)
+                  (SBAR
+                    (S
+                      (NP (PRP you))
+                      (VP (VBP know))))))
+              (, ,)
+              (NP (DT a) (NN Chevron))
+              (. .)))
+          (. .))))
+    (RB so)
+    (NP (PRP I))
+    (VP (MD ca) (RB n't)
+      (VP (VB blame)
+        (NP (PRP them))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN car) (NN wash))
+    (VP (VBZ is)
+      (ADJP
+        (NP (DT a) (RB bit))
+        (JJ annoying))
+      (ADVP (RB though)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN drier))
+      (PP (IN at)
+        (NP
+          (NP (DT the) (NN end))
+          (PP (IN of)
+            (NP (DT the) (NN car) (NN wash))))))
+    (VP
+      (VP (VBZ does) (RB n't)
+        (VP (VB dry)
+          (ADVP (RB quite) (RB well))))
+      (CC and)
+      (VP (VBZ leaves)
+        (NP (NNS spots))
+        (ADVP (RB everywhere))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Other))
+      (PP (IN than)
+        (NP
+          (NP (DT that))
+          (, ,)
+          (NP (DT all)))))
+    (VP (VBZ is)
+      (ADVP (RB well)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNS Thanks))
+    (PP (IN for)
+      (NP (DT the) (NN hospitality)))
+    (. !)))
+
+

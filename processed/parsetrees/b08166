@@ -1,0 +1,581 @@
+(ROOT
+  (NP (NNP Super) (NNP AWESOME) (. !)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Warren)
+        (NP (PRP$ our) (NN plumber))
+        (PP (IN from)
+          (NP (NNP Kendall)))))
+    (VP (VBD did)
+      (NP (DT an) (JJ awesome) (NN job)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Super)
+        (ADJP (JJ friendly) (, ,) (JJ productive)
+          (CC and)
+          (JJ cleaned))
+        (NN everything))
+      (PP (IN before)
+        (NP (PRP he))))
+    (VP (VBD left))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD will)
+      (ADVP (RB definitely))
+      (VP (VB call)
+        (NP (NNP Kendall) (NNP Plumbing))
+        (ADVP (RB again))
+        (SBAR (IN if)
+          (S
+            (NP (PRP$ my) (NN plumbing))
+            (VP (VBZ fails)
+              (S
+                (NP (PRP me))
+                (ADJP (JJ :-RRB-))))))))))
+
+
+(ROOT
+  (S
+    (NP (NN Customer) (NN service))
+    (VP (VBD was)
+      (ADJP (JJ bad) (RB enough)
+        (SBAR (IN that)
+          (S
+            (NP (PRP I))
+            (VP (VBP feel)
+              (VP (VBN compelled)
+                (S
+                  (VP (TO to)
+                    (VP (VB write)
+                      (NP
+                        (NP (DT a) (NN review))
+                        (SBAR
+                          (WHNP (WDT which))
+                          (S
+                            (NP (PRP I))
+                            (VP (VBP have)
+                              (ADVP (RB never))
+                              (VP (VBN done)
+                                (ADVP (RB before))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN plumber))
+      (VP
+        (VP (VBD came)
+          (PRT (RP out)))
+        (CC and)
+        (VP
+          (VP (VBN repaired)
+            (NP (DT the) (NN problem)))
+          (CC but)
+          (VP (VBN left)
+            (SBAR
+              (SBAR
+                (S
+                  (NP (PRP$ our) (NN water))
+                  (VP (VBN shut)
+                    (PRT (RP off))
+                    (PP (IN at)
+                      (NP
+                        (NP (DT the) (NN house) (NN valve))
+                        (, ,)
+                        (NP (DT no) (JJ big) (NN deal))))
+                    (ADVP (RB really)))))
+              (, ,)
+              (CC but)
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (PRP we))
+                  (VP
+                    (VP (VBD called)
+                      (PP (IN in)
+                        (NP
+                          (S
+                            (VP (TO to)
+                              (VP (VB see)
+                                (SBAR
+                                  (WHADVP (WRB why))
+                                  (S
+                                    (S
+                                      (NP (PRP we))
+                                      (VP (VBD had)
+                                        (NP (DT no) (NN water))))
+                                    (CC and)
+                                    (S
+                                      (NP (DT the) (NN repair))
+                                      (VP (VBD was)
+                                        (VP (VBN completed)))))))))
+                          (PRN (-LRB- -LRB-)
+                            (SBAR (RB even) (IN though)
+                              (S
+                                (NP (DT the) (NN plumber))
+                                (ADVP (RB never))
+                                (VP (VBD notified)
+                                  (NP (PRP us))
+                                  (SBAR
+                                    (S
+                                      (NP (PRP he))
+                                      (VP (VBD was)
+                                        (ADVP (RB here))))))))
+                            (-RRB- -RRB-)))))
+                    (, ,)
+                    (CC and)
+                    (VP (VBD wanted)
+                      (S
+                        (VP (TO to)
+                          (VP (VB see)
+                            (SBAR (IN if)
+                              (S
+                                (NP (DT the) (NN plumber))
+                                (VP (VBD was)
+                                  (PP (IN on)
+                                    (NP (PRP$ his) (NN way)))
+                                  (ADVP (RB back)))))))))))))))))
+    (CC and)
+    (S
+      (NP (DT the) (NN receptionist))
+      (VP (VBD was)
+        (ADJP (RB extremely) (JJ rude))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (VBD told)
+      (NP (PRP us))
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NN plumber))
+          (VP (VBD had)
+            (VP (VBN left)
+              (ADVP
+                (NP (DT the) (NN water))
+                (RB off))
+              (SBAR (IN because)
+                (S
+                  (NP (DT that))
+                  (VP (VBD was)
+                    (SBAR
+                      (WHADVP (WRB how))
+                      (S
+                        (NP (PRP he))
+                        (VP (VBD found)
+                          (NP (PRP it)))))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (S
+      (S
+        (VP (VBN Mind)
+          (S
+            (NP (PRP you))
+            (NP (PDT both) (PRP$ my) (NN roommate)))))
+      (CC and)
+      (S
+        (NP (PRP I))
+        (VP (VBP are)
+          (ADVP (RB off))
+          (NP (NN today)))))
+    (, ,)
+    (VP (VBP have)
+      (VP (VBN used)))
+    (NP
+      (NP (DT the) (NN water) (NN today))
+      (CC and)
+      (NP
+        (NP (DT neither))
+        (PP (IN of)
+          (S
+            (S
+              (NP (PRP us))
+              (VP (VBD knew)
+                (SBAR
+                  (WHADVP (WRB where))
+                  (S
+                    (NP (DT the) (NN valve))
+                    (VP (VBD was))))))
+            (CC or)
+            (S
+              (NP (PRP we))
+              (VP (MD would)
+                (VP (VB have)
+                  (VP (VBN turned)
+                    (NP (PRP it))
+                    (ADVP (RB back) (RB on))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (SBAR
+        (WHADVP (WRB where))
+        (S
+          (NP (JJ super) (NN receptionist))
+          (VP
+            (VP (VBZ comes)
+              (PRT (RP in)))
+            (CC and)
+            (VP (VBZ tells)
+              (NP
+                (NP (PRP me))
+                (`` ``)
+                (SBAR
+                  (WHNP (WP what))
+                  (S
+                    (VP (VBP do)
+                      (SBAR
+                        (S
+                          (NP (PRP you))
+                          (VP (VBP think)
+                            (SBAR
+                              (S
+                                (NP (PRP$ my) (NN guy))
+                                (VP (VBZ is)
+                                  (NP (DT a) (NN liar)))))))))))))))))
+    (. ?)))
+
+(ROOT
+  (NP ('' '')
+    (CC multiple)
+    (NP
+      (NP (NN time))
+      (SBAR
+        (WHPP (TO to)
+          (WHNP (WDT which)))
+        (S
+          (NP (PRP I))
+          (ADVP (RB finally))
+          (VP (VBD responded)
+            (SBAR
+              (S
+                (INTJ
+                  (INTJ (`` ``) (UH yes))
+                  (, ,)
+                  (INTJ (UH yes)))
+                (NP (PRP I))
+                (VP (VBP do))))))))
+    (. !)))
+
+(ROOT
+  (S ('' '')
+    (S
+      (NP (PRP It))
+      (VP (VBD was)
+        (NP (DT a)
+          (ADJP (RB very) (JJ simple))
+          (NN fix))
+        (, ,)
+        (SBAR (IN once)
+          (S
+            (NP (PRP she))
+            (VP (VBD told)
+              (NP (PRP me))
+              (SBAR
+                (WHADVP (WRB where))
+                (S
+                  (NP (DT the) (NN valve))
+                  (VP (VBD was)
+                    (SBAR
+                      (S
+                        (S
+                          (NP (PRP I))
+                          (VP (VBD flipped)
+                            (PP (IN on)
+                              (NP (DT the) (NN water)))))
+                        (CC and)
+                        (S
+                          (NP (NN life))
+                          (VP (VBD went)
+                            (PRT (RP on))))))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (ADVP (RB beware))
+      (, ,)
+      (SBAR (IN if)
+        (S
+          (NP (PRP$ their) (NN guy))
+          (VP (VBZ messes)
+            (PRT (RP up))
+            (ADVP (IN at) (DT all)))))
+      (NP (PRP you))
+      (VP (MD will)
+        (VP (VB get)
+          (NP
+            (NP (NN defense) (NN secretary))
+            (PP (IN of)
+              (NP (DT the) (NN year))))
+          (PP (IN on)
+            (NP
+              (NP (DT the) (JJ other) (NN end))
+              (PP (IN of)
+                (NP (DT the) (NN phone))))))))
+    (. .)))
+
+
+(ROOT
+  (NP (NNP Kendall) (NNP Plumbing) (NNP SAVED) (NNP US) (. !)))
+
+(ROOT
+  (S
+    (PP (IN After)
+      (S
+        (VP (VBG having)
+          (S
+            (NP (CD 4) (JJ other) (NNS plumbers))
+            (VP (VB come)
+              (PRT (RP out))
+              (PP (TO to)
+                (NP (PRP$ our) (JJ small) (NN business))))))))
+    (, ,)
+    (NP (NNP Kendall) (NNP Plumbing)
+      (CC and)
+      (NNP Rooter))
+    (VP (VBD were)
+      (NP
+        (NP (DT the) (JJ only) (NNS ones))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (ADVP (RB actually))
+            (VP (VBD did)
+              (NP
+                (NP (NN something))
+                (PRN (-LRB- -LRB-)
+                  (NP (RB not) (NN kidding))
+                  (-RRB- -RRB-))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (NNP Kendall))
+    (VP (VBD was)
+      (ADJP (NN professional))
+      (, ,)
+      (PP (IN on)
+        (NP
+          (NP (NN time)
+            (CC and)
+            (NN diligent))
+          (SBAR
+            (S
+              (VP (TO to)
+                (VP (VB find)
+                  (NP (DT the) (NN problem))))))
+          (PRN (-LRB- -LRB-)
+            (SBAR (IN that)
+              (S
+                (NP (DT the) (JJ other) (NNS plumbers))
+                (VP (VBD did) (RB n't)
+                  (VP (VB take)
+                    (NP (DT the) (NN time/effort)
+                      (S
+                        (VP (TO to)
+                          (VP (VB find)))))))))
+            (-RRB- -RRB-)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP (PRP We))
+        (VP
+          (VP (VBP are)
+            (NP (DT a) (JJ small) (NN business)))
+          (CC and)
+          (VP (VBP have)
+            (NP
+              (NP (CD two) (NNS toilets))
+              (PP (IN on)
+                (NP (DT the) (NN premise)))))))
+      (CC and)
+      (S
+        (NP (NNP BOTH))
+        (VP (VBD were)
+          (ADJP (JJ clogging))
+          (PRN (-LRB- -LRB-)
+            (ADVP (RB sporadically))
+            (-RRB- -RRB-)))))
+    (CC and)
+    (S
+      (ADVP (RB eventually))
+      (VP (VBG overflowing) (, ,) (VBG leaving)
+        (NP
+          (NP (DT an) (NN office))
+          (PP (IN with)
+            (NP
+              (NP (CD 20) (NNS employees))
+              (PP (IN without)
+                (NP
+                  (NP (DT the) (NN use))
+                  (PP (IN of)
+                    (NP (DT the) (NNS facilities))))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (S
+      (S
+        (NP (JJ Other) (NN plumbing) (NNS companies))
+        (VP (VBD attempted)))
+      (, ,)
+      (CC but)
+      (S
+        (PP (IN in)
+          (NP (DT the) (NN end)))
+        (NP (PRP they))
+        (VP
+          (VP (VBD left)
+            (PP (IN without)
+              (S
+                (VP (VBG doing)
+                  (NP (NN anything))
+                  (S
+                    (VP (TO to)
+                      (VP (VB help)
+                        (S
+                          (S (-LRB- -LRB-)
+                            (NP (DT some))
+                            (VP (VBD told)
+                              (SBAR
+                                (S
+                                  (NP (PRP us))
+                                  (`` ``)
+                                  (ADVP (RB there))
+                                  (VP (VBD was)
+                                    (ADJP (NN nothing) (JJ wrong))))))
+                            ('' ''))
+                          (, ,)
+                          (S
+                            (NP (NNS others))
+                            (VP (VBD said)
+                              (SBAR
+                                (S
+                                  (NP (PRP they))
+                                  (VP (VBD did) (RB n't)
+                                    (VP (VB have)
+                                      (NP (DT the) (JJ necessary) (NN equipment))))))))
+                          (, ,)
+                          (S
+                            (NP (PRP one))
+                            (VP (VBD said)
+                              (SBAR (IN that)
+                                (S
+                                  (NP (PRP they))
+                                  (VP (VBD had)
+                                    (VP (VBN been)
+                                      (VP (VBN sued))))))))))))))))
+          (CC and)
+          (VP (MD could)
+            (ADVP (RB no) (RB longer))
+            (VP (VB snake)
+              (PP (IN from)
+                (NP
+                  (NP (DT the) (NNS toilets))
+                  (-LRB- -LRB-)
+                  (NP (WP what))
+                  (ADVP (RB ?!!)))))))))))
+
+(ROOT
+  (S
+    (NP (NNP -RRB-))
+    (, ,)
+    (ADVP (RB yet))
+    (NP (DT another))
+    (ADVP (RB just))
+    (VP (VBD seemed)
+      (S
+        (VP (TO to)
+          (VP (VB want)
+            (S
+              (VP (TO to)
+                (VP (VB get)
+                  (NP (NN home))
+                  (PP (IN for)
+                    (NP (NN dinner))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Kendall))
+    (VP
+      (VP (VBD came)
+        (PRT (RP in))
+        (PP (IN with)
+          (NP (DT a) (JJ heavy) (NN duty) (NN snake))))
+      (CC and)
+      (VP
+        (ADVP (RB then))
+        (VBD took)
+        (NP
+          (NP (DT a) (NN camera))
+          (PP (TO to)
+            (NP (PRP$ our) (NN system)
+              (S
+                (VP (TO to)
+                  (VP (VB try)
+                    (CC and)
+                    (VB see))))))
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (ADVP (RB else))
+              (VP (MD could)
+                (VP (VB be)
+                  (VP (VBG causing)
+                    (NP
+                      (NP (DT the) (NN issue))
+                      (PRN (-LRB- -LRB-) (PRP s) (-RRB- -RRB-)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (JJ Long) (NN story))
+        (ADJP
+          (NP (DT a) (RB little))
+          (JJR shorter))))
+    (, ,)
+    (NP (PRP we))
+    (VP
+      (VP (VBP are)
+        (ADVP (RB now) (RB back))
+        (ADJP (RB up)
+          (CC and)
+          (VBG running)))
+      (CC and)
+      (VP (VBP are)
+        (ADJP (JJ grateful)
+          (SBAR (IN that)
+            (S
+              (NP (NNP Kendall) (NNP Plumbing))
+              (VP (VBD was)
+                (ADJP (JJ able)
+                  (S
+                    (VP (TO to)
+                      (VP (VB do)
+                        (SBAR
+                          (WHNP (WP what))
+                          (S
+                            (NP (DT the) (JJ other) (NNS guys))
+                            (VP (MD could) (RB n't)
+                              (VP (VB do)))))))))))))))
+    (. !)))
+
+

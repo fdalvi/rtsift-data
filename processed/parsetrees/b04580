@@ -1,0 +1,94 @@
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD went)
+      (PRT (RP out))
+      (PP (IN of)
+        (NP (PRP$ their) (NN way)
+          (S
+            (VP (TO to)
+              (VP (VB find)
+                (NP
+                  (NP (DT a) (NN shoe))
+                  (PP (IN for)
+                    (NP (PRP me))))
+                (PP (IN at)
+                  (NP
+                    (NP (DT a) (JJ different) (NN store))
+                    (PP (IN in)
+                      (NP
+                        (NP (DT the) (NN size))
+                        (SBAR
+                          (S
+                            (NP (PRP I))
+                            (VP (VBD needed))))))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (ADJP (JJ payless)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (ADJP (JJ desperate)
+        (S
+          (VP (TO to)
+            (VP (VB find)
+              (NP
+                (NP (JJ inexpensive) (`` ``) (JJ fancy-looking) ('' '') (NNS shoes))
+                (PP (IN for)
+                  (NP (PRP$ my) (NN son)))
+                (SBAR
+                  (WHNP (WP who))
+                  (S
+                    (VP (VBD had)
+                      (NP
+                        (NP (DT a) (NN concert))
+                        (PP (IN in)
+                          (NP (NN school)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD were)
+      (VP (VBN greeted)
+        (ADVP (RB promptly))
+        (, ,)
+        (S
+          (VP (VBN helped)
+            (PP (IN by)
+              (NP
+                (NP (DT the) (JJ young) (NN girl))
+                (PP (IN in)
+                  (NP (NN charge)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD found)
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP (PRP we))
+          (VP (VBD were)
+            (S
+              (VP (VBG looking)
+                (PP (IN for)
+                  (NP (NN un)))
+                (NP
+                  (QP (JJR less) (IN than) (CD 5))
+                  (NNS minutes))))))))
+    (. .)))
+
+(ROOT
+  (INTJ (JJ Good) (NN service) (. .)))
+
+

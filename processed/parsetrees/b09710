@@ -1,0 +1,181 @@
+(ROOT
+  (FRAG
+    (NP
+      (NP (JJ Great) (NN bunch))
+      (PP (IN of)
+        (NP (NNS people))))
+    (: ...)
+    (S
+      (NP (PRP I))
+      (VP (VBP 've)
+        (VP (VBN gone)
+          (ADVP (RB there))
+          (PP (IN for)
+            (NP (NNS years))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (RB Just)
+      (S
+        (VP (VBD got)
+          (NP (DT a) (NN call))
+          (PP (IN from)
+            (NP (NNP CVS))))))
+    (NP (PRP they))
+    (VP (VBP are)
+      (VP (VBG taking)
+        (PP (IN over)
+          (NP (PRP$ their) (NNS prescriptions)))))
+    (. !)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ
+      (VP (VBZ ??)))))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ
+      (VP (VBD happened)
+        (PP (TO to)
+          (NP (PRP them)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Why))
+    (SQ (VBD did)
+      (NP (PRP they))
+      (VP (VB close)))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (ADVP (RB NOT))
+      (ADJP (JJ happy)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD heard)
+        (SBAR
+          (S
+            (NP (NNP CVS))
+            (VP (VBD bought)
+              (SBAR
+                (S
+                  (NP
+                    (NP (PRP them))
+                    (VP (VBG out.Being)
+                      (PP (IN across)
+                        (NP
+                          (NP (DT the) (NN street))
+                          (PP (IN from)
+                            (NP (NNP CVS)))))))
+                  (VP (VBD was)
+                    (ADVP (RB maybe))
+                    (PP (TO to)
+                      (NP (JJ much) (NN competition)))
+                    (PP (IN for)
+                      (NP
+                        (NP (DT that) (NN store.Also))
+                        (SBAR
+                          (S
+                            (NP (PRP it))
+                            (VP (VBD changed)
+                              (NP (NNS hands))
+                              (PP
+                                (ADVP
+                                  (NP (DT a) (JJ few) (NNS times))
+                                  (RB prior))
+                                (TO to)
+                                (NP (DT the) (NN sale))))))))))))))))
+    (: ...)
+    (S
+      (ADVP (RB Again))
+      (, ,)
+      (NP (DT this))
+      (VP (VBZ is)
+        (SBAR
+          (WHADJP (RB just) (WP what))
+          (S
+            (NP (PRP I))
+            (VP (VBD heard)
+              (PP (IN at)
+                (NP (PRP$ my) (NN pharmacy))))))))
+    (: ...)
+    (S
+      (NP (PRP I))
+      (VP (VBD went)
+        (PP (TO to)
+          (NP (NNP Tatum) (NNS drugs)))
+        (ADVP (RB twice))))
+    (, ,)
+    (S
+      (NP (DT both) (NNS times))
+      (NP (PRP$ my) (NN prescription))
+      (VP (VBD was)
+        (NP
+          (NP (NN incorrect.Although)
+            (UCP
+              (S
+                (NP (PRP I))
+                (VP (VBP have)
+                  (VP (VBN heard)
+                    (SBAR
+                      (S
+                        (NP (NNP CVS))
+                        (VP (VBZ has)
+                          (NP
+                            (NP (DT the) (JJ same) (NN problem))
+                            (PP (IN at)
+                              (NP (PRP$ their) (NNP Tatum/Dynamite) (NN location.Update) (CD 3/8/13))))))))))
+              (: :)
+              (FRAG
+                (NP (PRP I))
+                (S
+                  (VP
+                    (VP
+                      (ADVP (RB just))
+                      (VBD went)
+                      (PRT (RP over))
+                      (PP (TO to)
+                        (NP (DT the) (NNP UPS) (NN store))))
+                    (CC and)
+                    (VP (VBD walked)
+                      (PP (IN by)
+                        (NP
+                          (NP (DT the) (NN Pharmacy))
+                          (, ,)
+                          (NP (PRP$ Its) (NN open))
+                          (, ,)))
+                      (PP (IN under)
+                        (NP (DT a) (JJ new) (NN name))))))
+                (. .))
+              (. .))
+            (NN Infinity))
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (VBP think)
+                (SBAR
+                  (S
+                    (NP (PRP it))
+                    (VP (VBD was))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ is)
+        (ADJP (JJ open))))
+    (. .)))
+
+

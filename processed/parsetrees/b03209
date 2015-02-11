@@ -1,0 +1,110 @@
+(ROOT
+  (INTJ (JJ Good) (NN dentist) (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP do) (RB not)
+        (VP (VB like)
+          (S
+            (VP (VBG going)
+              (PP (TO to)
+                (NP (DT the) (NN dentist))))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP 've)
+        (VP (VBN had)
+          (NP
+            (NP (JJ bad) (NNS experiences))
+            (PP (IN in)
+              (NP (DT the) (NN past)))))))
+    (CC but)
+    (S
+      (NP (NNP Smile) (NNPS Makers))
+      (VP (VBZ is)
+        (ADJP (JJ wonderful))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ My) (NN husband))
+      (CC and)
+      (NP
+        (NP (PRP I))
+        (CC and)
+        (NP (CD two) (NNS sons))))
+    (VP
+      (VP (VBP have)
+        (VP (VBN gone)))
+      (CC and)
+      (VP (VBP love)
+        (NP (PRP it))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD had)
+        (NP
+          (NP (DT a) (NN crown))
+          (VP (VBN put)
+            (PRT (RP on))))))
+    (CC and)
+    (S
+      (NP (JJ old) (NNS fillings))
+      (VP (VBD replaced)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD could) (RB n't)
+      (VP (VB be)
+        (ADJP (JJR happier))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would)
+      (ADVP (RB highly))
+      (VP (VB recommend)
+        (NP (PRP them))
+        (PP (TO to)
+          (NP (NN anyone)))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NN Love))
+    (NP (DT the) (NN staff))
+    (. !)))
+
+
+(ROOT
+  (X
+    (X
+      (SBARQ
+        (WHNP (WP Great))
+        (ADVP (RB experience) (RB here) (. .)))
+      (. .))
+    (NP
+      (NP (JJ friendly) (NN staff))
+      (, ,)
+      (VP
+        (VP (VBN professional))
+        (, ,)
+        (CC and)
+        (VP (VBN changed)
+          (NP (PRP$ my) (NN mind))
+          (PP (IN about)
+            (NP (NN dentistry))))
+        (: ...)
+        (VP (VBN wow))))))
+
+

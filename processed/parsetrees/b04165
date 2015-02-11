@@ -1,0 +1,182 @@
+(ROOT
+  (FRAG
+    (SBAR
+      (WHNP (WP what))
+      (S
+        (NP (DT a) (NN messy))
+        (VP (VBP place))))
+    (. !)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP want)
+          (S
+            (VP (TO to)
+              (VP (VB look)
+                (NP (DT a) (JJ good) (NN bargain))))))))
+    (NP (PRP you))
+    (VP (VBP have)
+      (S
+        (VP (TO to)
+          (VP (VB look)
+            (ADVP (RB carefully))
+            (SBAR (IN because)
+              (S
+                (NP (NN everything))
+                (VP (VBZ is)
+                  (NP (NN chaos)))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (ADVP (RB Even))
+    (NP (NNP Big) (NNP Lots))
+    (VP (VBZ has)
+      (NP (JJR more) (NN order)))
+    (. .)))
+
+(ROOT
+  (FRAG (RB Not)
+    (PP (JJ worth)
+      (NP (PRP$ my) (NN time)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (DT a) (JJ similar) (NN vein))
+        (PP (IN as)
+          (NP (NNP HomeGoods)))))
+    (, ,)
+    (NP (NNP Tuesday) (NN Morning) (NNS offers))
+    (VP (VBD discounted)
+      (NP (NNS prices))
+      (PP (IN for)
+        (NP (JJ retail) (NNS brands)))
+      (PP (IN for)
+        (NP (NNS gifts)
+          (CC and)
+          (NN home) (NNS accessories))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN name))
+      (NP (NNP Tuesday) (CD Morning)))
+    (VP (VBZ stems)
+      (PP (IN from)
+        (NP
+          (NP (PRP$ their) (JJ incoming) (NNS shipments))
+          (PP (IN of)
+            (NP
+              (NP (JJ new) (NNS items))
+              (NP (DT each))))))
+      (NP (NNP Tuesday)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD did) (RB n't)
+      (ADVP (RB really))
+      (VP (VB find)
+        (NP
+          (NP (RB too) (RB much))
+          (PP (IN of)
+            (NP
+              (NP (DT a) (NN problem))
+              (VP (VBG navigating)
+                (PP (IN around)
+                  (NP (DT the) (NN store)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Everything))
+    (VP (VBZ is)
+      (VP (VBN arranged)
+        (PP (IN by)
+          (NP
+            (NP (NN section))
+            (PRN (-LRB- -LRB-)
+              (NP
+                (NP
+                  (NP (NN kitchen))
+                  (, ,)
+                  (NP (NN bath)))
+                (, ,)
+                (NP (NNS clothes))
+                (, ,)
+                (NP (NNS electronics))
+                (, ,)
+                (NP (JJ pet) (NNS accessories))
+                (, ,)
+                (NP (JJ outdoor))
+                (, ,) (FW etc.))
+              (-RRB- -RRB-))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 've)
+      (VP
+        (VP (VBN picked)
+          (PRT (RP up))
+          (NP
+            (NP (DT a) (JJ cool) (NN induction) (NN stove))
+            (PP (IN for)
+              (NP (DT a) (JJ great) (NN deal))))
+          (SBAR (IN that)
+            (S
+              (NP (PRP we))
+              (VP (VBP use)
+                (ADVP (RB often))))))
+        (, ,)
+        (CC and)
+        (VP
+          (NP (DT a) (JJ few) (NNS things))
+          (ADVP (RB here)
+            (CC and)
+            (RB there)))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Go)
+      (ADVP (RB here))
+      (SBAR (IN if)
+        (S
+          (NP (PRP you))
+          (VP (VBP 're)
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NN mood))
+                (PP (IN for)
+                  (NP (NN browsing)))))
+            (, ,)
+            (SBAR (IN since)
+              (S
+                (NP (JJ specific) (NNS items))
+                (VP (MD might)
+                  (VP (VB be)
+                    (ADJP (JJR harder))
+                    (S
+                      (VP (TO to)
+                        (VP (VB find)
+                          (ADVP (RB here))
+                          (PP (JJ due) (TO to)
+                            (NP
+                              (NP (DT the)
+                                (ADJP (RB ever) (VBG changing))
+                                (NN selection))
+                              (NP (DT each) (NN week)))))))))))))))
+    (. .)))
+
+

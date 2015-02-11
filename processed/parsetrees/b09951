@@ -1,0 +1,125 @@
+(ROOT
+  (SINV
+    (ADVP (RB Just))
+    (VP (VBD raised))
+    (NP
+      (NP (PRP$ their) (NN tuition))
+      (: ...)
+      (NP
+        (NP (NN out))
+        (PP (IN of)
+          (NP (PRP$ my) (NN budget)))))
+    (. .)))
+
+(ROOT
+  (FRAG (RB Not)
+    (ADJP (JJ happy))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VB Stay)
+      (PRT (RP away))
+      (PP (IN from)
+        (NP
+          (NP (DT this) (NN school))
+          (CC and)
+          (NP (PRP$ their) (NN PhD) (NNS programs)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (MD will)
+      (ADVP (RB never))
+      (VP (VB graduate)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (PP (IN like)
+        (S
+          (VP (VBG hitting)
+            (NP (DT a) (VBG moving) (NN target))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (ADJP (JJ lucky) (RB enough)
+        (S
+          (VP (TO to)
+            (VP (VB attend)
+              (NP (DT the) (CD 2014) (NN graduation))
+              (PP (IN at)
+                (NP (DT the) (NNP Orpheum) (NNP Theatre)))
+              (NP (DT this) (NN year)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NN Everyone))
+      (VP (VBD was)
+        (ADJP (RB so) (JJ excited))))
+    (CC and)
+    (S
+      (NP (PRP you))
+      (VP (MD could)
+        (VP (VB tell)
+          (NP
+            (NP (DT the) (NN staff) (, ,) (NN faculty) (, ,)
+              (CC and)
+              (NN everyone))
+            (VP (VBN associated)
+              (PP (IN with)
+                (NP
+                  (NP (DT the) (NN university) (NN genuinely))
+                  (VP (VBN cared)
+                    (PP (IN for)
+                      (NP (DT the) (NNS graduates)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT This))
+      (VP (MD might)
+        (VP (VB be)
+          (NP (DT an) (`` ``) (JJ only) (JJ online) ('' '') (NN university)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (MD can)
+        (ADVP (RB definitely))
+        (VP (VB tell)
+          (SBAR
+            (S
+              (NP (PRP it))
+              (VP (VBZ 's) (RB not)
+                (ADJP (JJ typical)
+                  (PP (IN in)
+                    (NP
+                      (NP (DT any) (NN sense))
+                      (PP (IN of)
+                        (NP (DT that) (NN definition))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB really))
+    (VP (VBP do)
+      (NP
+        (NP (NN care))
+        (PP (IN for)
+          (NP (DT the) (NNS students)))))
+    (. .)))
+
+

@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (SBAR (IN Although)
+      (S
+        (NP
+          (NP
+            (NP (NN none))
+            (SBAR
+              (S
+                (NP (DT the) (NNS dresses))
+                (VP (VBD popped)
+                  (PRT (RP out))
+                  (PP (IN at)
+                    (NP (PRP us)))))))
+          (CC and)
+          (NP
+            (NP (DT the) (NNS ones))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBD did))))))
+        (VP (VBD were)
+          (ADVP (RB out))
+          (PP (IN of)
+            (NP (PRP$ our) (NN price) (NN range))))))
+    (, ,)
+    (NP (NNP Dedee))
+    (VP (VBD was)
+      (ADJP (RB very) (JJ helpful)
+        (CC and)
+        (JJ courteous)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB return)
+        (ADVP (RB here))
+        (PP (IN in)
+          (NP (DT the) (NN future)))
+        (SBAR (IN if)
+          (S
+            (NP (PRP I))
+            (VP
+              (VP (VBD needed)
+                (NP (NN evening) (NN wear)))
+              (CC and)
+              (VP (VBD had)
+                (NP
+                  (NP (DT the) (NN budget))
+                  (PP (IN for)
+                    (NP (PRP it))))))))))
+    (. .)))
+
+

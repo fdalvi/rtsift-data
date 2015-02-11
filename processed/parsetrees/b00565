@@ -1,0 +1,354 @@
+(ROOT
+  (S
+    (NP (NNP Pozoleria) (NNP Guerrero))
+    (VP (VBZ is)
+      (NP
+        (NP (DT another) (JJ little) (NNP Mexican))
+        (PP (IN in)
+          (NP (DT the) (JJ near-central) (NNP Phoenix) (NN area)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Definitely))
+    (NP
+      (NP (RB not) (DT a) (JJ bad) (NN experience))
+      (CC and)
+      (NP (DT the) (NN atmosphere) (NN inside)))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP
+          (NP (DT a) (RB lot))
+          (RBR more) (JJ pleasant))
+        (SBAR (IN than)
+          (S
+            (NP (PRP you))
+            (VP (MD would)
+              (VP (VB assume)
+                (SBAR
+                  (WHADVP (WRB when))
+                  (S
+                    (VP (VBG driving)
+                      (PP (IN by))))))))))
+      (PRN (-LRB- -LRB-)
+        (S
+          (VP (VB think)
+            (NP (JJ shady) (NN area))))
+        (-RRB- -RRB-)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Of)
+      (NP (NN course)))
+    (, ,)
+    (NP (DT this))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN case))
+        (PP (IN with)
+          (NP
+            (NP (JJ many))
+            (PP (IN of)
+              (NP
+                (NP (NNP Phoenix) (POS 's))
+                (JJS best) (JJ Mexican) (NNS spots)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN atmosphere))
+      (ADVP (RB inside))
+      (VP (VBD was)
+        (ADJP (JJ nice))))
+    (, ,)
+    (NP (DT the) (NN server))
+    (VP
+      (VP (VBD was)
+        (ADJP (RB really) (JJ friendly)))
+      (CC and)
+      (VP (VBD helped)
+        (PRT (RP out))
+        (ADVP (RB almost) (RB immediately))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Pozoleria) (NNP Guerrero))
+    (VP (VBZ is)
+      (ADJP (JJ open)
+        (PP (IN on)
+          (NP
+            (NP (NNP Sundays))
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBZ is)
+                  (ADJP (JJ nice)
+                    (PP (IN as)
+                      (ADVP (RB well)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN menu))
+    (VP (VBZ is)
+      (ADJP (RB fairly) (JJ extensive))
+      (, ,)
+      (PP (VBG including)
+        (NP
+          (NP (DT the) (JJ usual) (NN assortment))
+          (PP (IN of)
+            (NP
+              (UCP
+                (NP
+                  (NP (NNS tacos))
+                  (, ,)
+                  (NP (NNS tortas))
+                  (, ,)
+                  (NP (NNS burritos))
+                  (, ,)
+                  (NP (NNS quesadillas)))
+                (, ,)
+                (CC and)
+                (PP (IN of)
+                  (NP (NN course))))
+              (NN pozole))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBD decided)
+        (S
+          (VP (TO to)
+            (VP (VB go)
+              (PP (IN with)
+                (NP (PRP$ their) (NN specialty)))))))
+      (CC and)
+      (VP (VBD got)
+        (NP (DT the) (JJ pozole) (NNP Rojo))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP
+        (NP (DT those))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBP do) (RB n't)
+              (VP (VB know)
+                (SBAR
+                  (WHNP (WP what))
+                  (S
+                    (NP (NN pozole))
+                    (VP (VBZ is))))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (NP
+        (NP (DT a) (NN type))
+        (PP (IN of)
+          (NP (NN pork) (NN stew)))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ has)
+              (NP
+                (NP (JJ little) (NNS pieces))
+                (PP (IN of)
+                  (NP (JJ hominy) (NNS blended))))
+              (PP (IN in)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN spicing))
+      (VP (VBZ is)
+        (ADJP (JJ excellent))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD left)
+        (NP (PRP me))
+        (PP (IN with)
+          (NP (DT a) (JJ runny) (NN nose)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT A) (JJ normal) (NN bowl))
+    (VP (MD will)
+      (VP (VB run)
+        (NP (PRP you))
+        (NP ($ $) (CD 7.25))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Other) (NNS items))
+      (PP (IN on)
+        (NP (DT the) (NN menu))))
+    (VP (VBD were)
+      (ADJP (JJ reasonable))
+      (, ,)
+      (PP (IN with)
+        (NP
+          (NP (NNS tacos))
+          (VP (VBG ranging)
+            (PP (IN from)
+              (NP (DT a) (NN buck)))
+            (PP (TO to)
+              (NP ($ $) (CD 1.25)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN salsa))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (JJ interesting))
+        (CC and)
+        (ADJP
+          (ADJP (RB really) (JJ spicy))
+          (CC but)
+          (ADJP (JJ good)))
+        (ADVP (RB as) (RB well)))
+      (, ,)
+      (SBAR (IN although)
+        (S
+          (NP (DT the) (NNS chips))
+          (VP (VBD were)
+            (NP
+              (ADJP (JJ thin)
+                (CC and)
+                (VBN left))
+              (NN something)
+              (S
+                (VP (TO to)
+                  (VP (VB be)
+                    (ADJP (JJ desired))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT All))
+        (PP (IN in)
+          (NP
+            (NP (DT all) (NNP Pozoleria) (NNP Guerrero))
+            (ADJP (# #) (CD 1)))))
+      (VP (VBD was)
+        (NP (DT a) (JJ decent) (NN spot))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP think)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBZ comes)
+              (ADVP (RB down)
+                (PP (TO to)
+                  (SBAR (IN whether)
+                    (S
+                      (NP (PRP you))
+                      (VP (VBP want)
+                        (S
+                          (VP (TO to)
+                            (VP (VB get)
+                              (NP (NN pozole)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (DT the) (NN future))
+        (SBAR (IN if)
+          (S
+            (NP (PRP I))
+            (VP (VBP get)
+              (NP (DT a) (NN hankering)))))))
+    (NP (PRP I))
+    (VP (MD will)
+      (ADVP (RB definitely))
+      (VP (VB be)
+        (VP (VBG returning))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD ca) (RB n't)
+      (VP (VB comment)
+        (PP (IN on)
+          (NP
+            (NP (DT the) (NNS tacos))
+            (, ,)
+            (NP (FW etc.))))))))
+
+(ROOT
+  (S
+    (ADVP (RB yet))
+    (, ,)
+    (NP (CC but))
+    (VP (VBP plan)
+      (S
+        (VP (TO to)
+          (VP (VB try)
+            (NP (PRP them))
+            (PP (IN in)
+              (NP (DT the) (NN future)))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (DT The) (JJ different) (NNS pozoles))
+    (ADVP (RB here))
+    (VP (VBP are)
+      (ADJP (JJ worth)
+        (S
+          (VP (VBG driving)
+            (PRT (RP out))
+            (PP (IN of)
+              (NP (PRP$ your) (NN way)))
+            (PP (IN for))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (PP (IN Best)
+      (NP (NN pozole)
+        (CC and)
+        (NN menudo)))
+    (NP (PRP we))
+    (ADVP (RB ever))
+    (VP (VBD had))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VBD Had)
+      (S
+        (VP (TO to)
+          (VP (VB order)
+            (NP (DT some) (JJR more) (NN menudo) (NN to-go)))))
+      (S
+        (VP (TO to)
+          (VP (VB take)
+            (PRT (RP back))
+            (NP (NN home))))))
+    (. .)))
+
+

@@ -1,0 +1,491 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD ordered)
+      (NP (NNS flowers))
+      (PP (IN from)
+        (NP (RB here)))
+      (PP (NN online)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBD were)
+      (VP
+        (ADVP (RB never))
+        (VBN delivered)))
+    (. .)))
+
+(ROOT
+  (SINV
+    (S
+      (NP (PRP I))
+      (VP (VBD called)
+        (NP (PRP them))
+        (PP (IN for)
+          (NP (CD two) (NNS days)))
+        (PP (IN during))))
+    (VP (VBD posted))
+    (NP
+      (NP (NNS hours))
+      (, ,)
+      (NP
+        (NP
+          (NP (DT no) (NN answer))
+          (PP (TO to)
+            (NP (DT the) (NNS phones))))
+        (: -)
+        (NP
+          (NP (DT no) (NN answering) (NN machine))
+          (: -)
+          (NP (NN nothing)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD tried)
+      (PP (TO to)
+        (NP
+          (NP (NN email))
+          (, ,)
+          (NP (DT no) (NN reply)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD had)
+      (S
+        (VP (TO to)
+          (VP (VB call)
+            (NP (PRP$ my) (NN credit) (NN card) (NN company)))))
+      (S
+        (VP (TO to)
+          (VP (VB reverse)
+            (NP (DT any) (NNS charges))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Now))
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (VP (VBG getting)
+        (NP (NNP SPAM))
+        (PP (IN from)
+          (NP (PRP them)))
+        (NP (DT every) (JJ OTHER) (NN day))))
+    (. !)))
+
+
+(ROOT
+  (FRAG
+    (ADVP (RB Absolutely))
+    (NP (JJ HORRIBLE) (NN florist))
+    (. !)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP I))
+        (VP (MD could)
+          (VP (VB give)
+            (NP (NNP Flower) (NNP Art))
+            (NP (DT no) (NNS stars))))))
+    (NP (PRP I))
+    (VP (MD would))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD ordered)
+      (NP
+        (NP (NNS flowers))
+        (PP (IN for)
+          (NP
+            (NP (PRP$ our) (NN mother) (POS 's))
+            (JJ 70th) (NN birthday) (NN party))))
+      (PP (IN from)
+        (NP (NNP FTD) (POS 's)))
+      (PP (IN on)
+        (NP (NN line) (NN site))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Flower) (NNP Art))
+    (VP (VBD was)
+      (NP
+        (NP (DT the) (NN florist))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBD filled)
+              (NP (DT the) (NN order)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN arrangement))
+      (VP (VBD was)
+        (VP (VBN delivered)
+          (PP (IN on)
+            (NP
+              (NP (NN time))
+              (PP (IN for)
+                (NP (DT the) (NN party))))))))
+    (, ,)
+    (ADVP (RB however))
+    (S
+      (NP (PRP it))
+      (VP (VBD looked)
+        (NP (NN nothing))
+        (PP (IN like)
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (NP (PRP we))
+              (VP (VBD ordered)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NN fact)))
+    (, ,)
+    (NP (DT the) (NN arrangement))
+    (VP (VBD was)
+      (NP
+        (NP (RB not) (RB even))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (JJ same) (NN value))
+            (PP (IN with)
+              (NP
+                (NP (DT a) (JJR smaller) (NN vase))
+                (CC and)
+                (NP (JJR fewer) (NNS flowers))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD spent)
+      (PRT (RP over))
+      (NP
+        (NP (DT an) (NN hour))
+        (PP (IN on)
+          (NP
+            (NP (DT the) (NN phone))
+            (VP (VBG trying)
+              (S
+                (VP (TO to)
+                  (VP (VB get)
+                    (NP
+                      (NP (DT the) (NN arrangement))
+                      (VP (VBN replaced)
+                        (PP (IN for)
+                          (PP (IN before)
+                            (NP (DT the) (NN party))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN florist))
+    (VP (VBD failed)
+      (S
+        (VP (TO to)
+          (VP (VB answer)
+            (NP
+              (NP (DT the) (NN phone))
+              (PP (IN for)
+                (NP (NNP FTD))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB even))
+    (VP (VBD failed)
+      (S
+        (VP (TO to)
+          (VP (VB return)
+            (NP
+              (NP (NNP FTD) (POS 's))
+              (NN message))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD had)
+      (S
+        (VP (TO to)
+          (VP (VB follow)
+            (PRT (RP up))
+            (PP (IN with)
+              (NP
+                (NP (NNP FTD) (POS 's))
+                (NN customer) (NN service) (NN number)))
+            (NP (JJ several) (NNS times))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN After)
+      (NP
+        (NP (CD two) (NNS days))
+        (PP (IN of)
+          (S
+            (VP (VBG trying)
+              (S
+                (VP (TO to)
+                  (VP (VB get)
+                    (NP
+                      (NP (DT the) (NN situation))
+                      (VP (VBN resolved)))))))))))
+    (NP (DT the) (NN florist))
+    (VP (MD will)
+      (VP (VB bring)
+        (NP (DT a) (NN replacement) (NN arrangement))
+        (NP
+          (NP (CD TWO) (NNS DAYS))
+          (PP (IN after)
+            (NP
+              (NP (PRP$ my) (NN mother) (POS 's))
+              (JJ 70th) (NN birthday) (NN party))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (ADJP (JJ clear))
+      (SBAR (IN that)
+        (S
+          (NP (NNP Flower) (NNP Art))
+          (ADVP (RB truly))
+          (VP (VBZ does) (RB not)
+            (VP (VB care)
+              (PP (IN about)
+                (NP (PRP$ their) (NNS customers))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD looked)
+        (PP (IN on)
+          (NP (NNP Yelp)))
+        (S
+          (VP (TO to)
+            (VP (VB see)
+              (S
+                (SBAR (IN if)
+                  (S
+                    (NP (PRP they))
+                    (VP
+                      (VP (VBP recommend))
+                      (CC or)
+                      (VP (VBD had)
+                        (NP (DT some) (NN review))
+                        (PP (IN for)
+                          (NP
+                            (NP (DT a) (NN florist))
+                            (PP (IN in)
+                              (NP
+                                (NP (DT the) (NN area))
+                                (SBAR
+                                  (S
+                                    (NP (PRP I))
+                                    (VP (VBD called)
+                                      (SBAR
+                                        (S
+                                          (NP
+                                            (NP (DT a) (NN couple))
+                                            (PP (IN of)
+                                              (NP
+                                                (NP (NN florist))
+                                                (PP (IN on)
+                                                  (NP (NNP Sat))))))
+                                          (ADVP (RB in))
+                                          (VP (VBP need)
+                                            (S
+                                              (NP (DT some) (NNS flowers))
+                                              (VP (TO to)
+                                                (VP (VB be)
+                                                  (VP (VBN delivered)
+                                                    (PP (IN on)
+                                                      (NP
+                                                        (NP (NNP Sunday))
+                                                        (PP (IN for)
+                                                          (NP (PRP$ my) (NN boss) (NNS clients)))))))))))))))))))
+                        (PP (IN for)
+                          (NP (DT the) (JJ super) (NN bowl)))))))
+                (, ,)
+                (NP (PRP I))
+                (VP (VBP guess)
+                  (SBAR
+                    (S
+                      (NP (JJS most) (NNS shops))
+                      (VP (VBP are)
+                        (VP (VBN closed)
+                          (PP (IN on)
+                            (NP (NNP Sunday))))))))))))))
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBD spoke)
+        (PP (TO to)
+          (NP (DT the) (NN owner)))))
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP (VBD said)
+        (NP (DT that))
+        (ADVP
+          (ADVP (RB as) (RB long))
+          (SBAR (IN as)
+            (S
+              (NP (PRP he))
+              (VP (MD could)
+                (VP (VB deliver)
+                  (NP (JJ first) (NN thing))
+                  (PP (IN in)
+                    (NP (DT the) (NN morning)))
+                  (SBAR (IN that)
+                    (S
+                      (NP (PRP he))
+                      (VP (MD would)
+                        (VP (VB get)
+                          (NP (PRP them))
+                          (ADVP (RB right))
+                          (PRT (RP out))
+                          (PP (IN for)
+                            (NP (PRP me))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD noticed)
+      (SBAR (IN that)
+        (S
+          (NP (EX there))
+          (VP (VBD was)
+            (NP
+              (NP (DT a) (NN couple))
+              (PP (IN of)
+                (NP
+                  (NP (JJ bad) (NN review))
+                  (PP (IN on)
+                    (NP
+                      (NP (NNP Yelp))
+                      (PP (IN about)
+                        (NP (DT the) (CD one) (NN Florist)))))))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBP help)
+                    (NP (PRP me))
+                    (PRT (RP out))
+                    (PP (IN in)
+                      (NP (DT a) (NN pinch)))))))))))
+    (. .)))
+
+(ROOT
+  (S (-LRB- -LRB-)
+    (NP (PRP I))
+    (VP (VBD had)
+      (VP (VBN called)
+        (SBAR
+          (S
+            (S
+              (NP
+                (NP (DT a) (NN couple))
+                (PP (IN of)
+                  (NP
+                    (NP (JJ other))
+                    (PP (IN on)
+                      (NP (RB here) (CD 2))))))
+              (VP (VBD did) (RB n't)
+                (VP (VB answer))))
+            (CC and)
+            (S
+              (NP (CD 1))
+              (VP (VBD said)
+                (SBAR
+                  (S
+                    (NP (PRP they))
+                    (VP (VBP are)
+                      (VP (VBN closed)
+                        (PP (IN on)
+                          (NP (NNP Sunday)))))))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT another))
+      (VP (VBD asked)
+        (NP (PRP me))
+        (SBAR (IN if)
+          (S
+            (NP (PRP I))
+            (VP (VBD was)
+              (ADVP (IN out)
+                (PP (IN of)
+                  (NP (PRP$ my) (NN mind))))
+              (VP (VBG asking)
+                (PP (IN for)
+                  (NP
+                    (NP (DT a) (NN delivery))
+                    (PP (IN on)
+                      (NP (JJ Super) (NN bowl)))))
+                (NP (NNP Sunday))
+                (PP (TO to)
+                  (NP (DT the) (NN strip)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB -RRB-))
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (NP
+        (NP (DT a) (NN firm) (NN believer))
+        (SBAR
+          (WHNP (WDT that) (NN good))
+          (S
+            (VP (MD should)
+              (ADVP (RB also))
+              (VP (VB come)
+                (PP (IN with)
+                  (NP (DT the) (JJ bad)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD will)
+      (VP (VB try)
+        (S
+          (NP (PRP them))
+          (ADVP (RB again))
+          (VP (TO to)
+            (VP (VB see)
+              (NP
+                (NP (WP what) (NN service))
+                (SBAR
+                  (S
+                    (NP (PRP I))
+                    (VP (VBP receive)
+                      (NP (JJ next) (NN time)))))))))))
+    (. .)))
+
+

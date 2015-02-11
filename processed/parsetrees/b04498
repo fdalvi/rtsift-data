@@ -1,0 +1,230 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP
+        (VP
+          (ADVP (RB recently))
+          (VBD went)
+          (PP (IN into)
+            (NP (JJ sams) (NN club))))
+        (CC and)
+        (VP (VBD had)
+          (NP
+            (NP (DT the) (JJS worst) (NN customer) (NN service))
+            (SBAR
+              (S
+                (NP (PRP I))
+                (VP (VBP have)
+                  (ADVP (RB ever))
+                  (VP (VBN had)
+                    (PP (IN at)
+                      (NP (DT a) (JJ sams) (NN club)))))))))))
+    (: ...)
+    (S
+      (NP (DT no) (NN one))
+      (VP (MD could)
+        (VP (VB take)
+          (NP (NN responsibility))
+          (PP (IN for)
+            (NP (RB there) (NN service))))))
+    (. ...)))
+
+(ROOT
+  (S
+    (SBAR
+      (S
+        (NP (PRP I))
+        (VP (VBP have)
+          (VP (VBN had)
+            (NP
+              (NP (DT a) (NN tax))
+              (FRAG
+                (NP (JJ exempt) (NN business) (NN account))
+                (PP (IN for)
+                  (NP
+                    (NP
+                      (QP (RB about) (CD 10))
+                      (NNS years))
+                    (, ,)
+                    (SBAR
+                      (S
+                        (NP (PRP I))
+                        (VP (VBD gave)
+                          (NP (DT the) (NNP COS))
+                          (NP (PRP$ my) (NN card))))
+                      (CC and)
+                      (S
+                        (NP (PRP I))
+                        (VP (MD will)
+                          (ADVP (RB never))
+                          (VP (VB shop)
+                            (ADVP (RB there))
+                            (ADVP (RB again)))))))
+                  (: ...))
+                (. .)))))))
+    (NP (PRP they))
+    (VP (MD should)
+      (VP (VB get)
+        (NP (CD zero) (NNS stars))))
+    (: ...)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP
+        (VP
+          (ADVP (RB recently))
+          (VBD went)
+          (PP (IN into)
+            (NP (NNP Sams) (NN club))))
+        (CC and)
+        (VP (VBD had)
+          (NP
+            (NP (DT the) (JJS worst) (NN customer) (NN service))
+            (SBAR
+              (S
+                (NP (PRP I))
+                (VP (VBP have)
+                  (ADVP (RB ever))
+                  (VP (VBN had)
+                    (PP (IN at)
+                      (NP (DT a) (NNP Sams) (NN club)))))))))))
+    (: ...)
+    (S
+      (NP (DT no) (NN one))
+      (VP (MD could)
+        (VP (VB take)
+          (NP (NN responsibility))
+          (PP (IN for)
+            (NP (RB there) (NN service))))))
+    (. ...)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP have)
+        (VP (VBN had)
+          (NP
+            (NP (DT a) (NN tax) (JJ exempt) (NN business) (NN account))
+            (PP (IN for)
+              (NP
+                (QP (RB about) (CD 10))
+                (NNS years)))))))
+    (, ,)
+    (S
+      (NP (PRP I))
+      (VP (VBD gave)
+        (NP (DT the) (NNP COS))
+        (NP (PRP$ my) (NN card))))
+    (CC and)
+    (S
+      (S
+        (S
+          (NP (PRP I))
+          (VP (MD will)
+            (ADVP (RB never))
+            (VP (VB shop)
+              (FRAG
+                (ADVP (RB there) (RB again))
+                (: ...))))
+          (. .))
+        (NP (PRP they))
+        (VP (MD should)
+          (VP (VB get)
+            (NP (CD zero) (NNS stars)))))
+      (: ...)
+      (CC And)
+      (S
+        (NP (PRP$ its))
+        (ADJP
+          (ADJP (RB quite) (JJ unfortunate))
+          (SBAR (IN because)
+            (S
+              (NP (PRP I))
+              (VP (VBP like)
+                (S
+                  (NP (PRP them))
+                  (ADJP (JJR better)))
+                (PP (IN than)
+                  (NP (NN costco)))))))))
+    (: ...)))
+
+
+(ROOT
+  (NP
+    (NP (JJ Great) (NNS prices))
+    (PP (IN at)
+      (NP (DT the) (JJ eating) (NN place)))
+    (PP (IN for)
+      (NP (JJ hot) (NNS dogs)
+        (CC and)
+        (NN pizza)))
+    (. .)))
+
+(ROOT
+  (FRAG (RB So)
+    (ADJP (JJ inexpensive))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (CD 5))
+    (VP (VBZ stars)
+      (ADVP (RB just))
+      (PP (IN for)
+        (NP (DT that))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Sometimes))
+    (NP (PRP they))
+    (VP (VBP have)
+      (NP
+        (NP (DT a) (NNP Groupon))
+        (PP (IN for)
+          (NP
+            (NP (NN membership))
+            (ADVP (RB here))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (SBAR (IN If)
+        (S
+          (NP (PRP you))
+          (VP (VBP see)
+            (SBAR (IN that)
+              (S
+                (NP (PRP you))
+                (VP (MD should)
+                  (VP (VB get)
+                    (NP (PRP it)))))))))
+      (, ,)
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (NP (DT a) (JJ good) (NN deal))))
+    (CC and)
+    (S
+      (NP (PRP you))
+      (VP (VBP get)
+        (S
+          (NP
+            (NP (JJ enough) (NNS freebies))
+            (CC and)
+            (NP (DT a) (NN gift) (NN card)))
+          (VP (TO to)
+            (VP
+              (ADVP (RB just) (RB about))
+              (VB make)
+              (PRT (RP up))
+              (PP (IN for)
+                (NP (DT the) (NN membership) (NN price))))))))
+    (. .)))
+
+

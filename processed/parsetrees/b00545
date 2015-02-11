@@ -1,0 +1,238 @@
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBZ is)
+      (ADJP (JJ awesome)))
+    (. !)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP like)
+          (NP (NN mexican) (NN arts/decor)))))
+    (NP (PRP you))
+    (VP (VBP have)
+      (S
+        (VP (TO to)
+          (VP (VB check)
+            (NP (DT this) (NN place))
+            (PRT (RP out))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN store))
+    (VP (VBZ is)
+      (NP
+        (NP (NN jam))
+        (VP (VBN packed)
+          (PP (IN with)
+            (NP
+              (NP (NNS tons))
+              (PP (IN of)
+                (NP (NNS items))))))
+        (: ...)
+        (SBAR
+          (S
+            (VP (VBZ crosses) (, ,)
+              (S
+                (NP
+                  (NP (NNS planters))
+                  (, ,)
+                  (NP (NNS chimineas))
+                  (, ,)
+                  (NP (NN leather) (NNS goods))
+                  (, ,)
+                  (NP
+                    (NP (NN day))
+                    (PP (IN of)
+                      (NP (DT the) (JJ dead) (NN stuff))))
+                  (, ,)
+                  (NP (NN talavera) (NNS items))
+                  (, ,)
+                  (NP
+                    (NP (NNS gorditas))
+                    (CC and)
+                    (NP (RB much)))
+                  (, ,)
+                  (NP (RB much))
+                  (, ,))
+                (ADJP (RB much) (RBR more))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VB shop)
+      (NP (DT this) (NN store))
+      (ADVP (RB frequently) (RB even))
+      (VP (VB bring)
+        (NP (NNS out-of-towners))
+        (ADVP (RB here))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NN aunt))
+    (ADVP (RB sometimes))
+    (VP (VBZ makes)
+      (NP (NNS trips))
+      (PP (IN from)
+        (NP (JJ central) (NN california)))
+      (S
+        (ADVP (RB just))
+        (VP (TO to)
+          (VP (VB shop)
+            (ADVP (RB here))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Check)
+      (NP (PRP it))
+      (PRT (RP out)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VB Hands)
+      (PRT (RP down))
+      (NP
+        (NP (CD one))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (JJS best) (JJ Mexican) (NN import) (NN store))
+            (PP (IN in)
+              (NP (DT the) (NN valley)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NN fact)))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD was)
+      (ADJP (RB rather) (JJ surprised)
+        (SBAR
+          (S
+            (NP (EX there))
+            (VP (VBD were) (RB n't)
+              (NP (DT any) (NNP Yelp) (NNS reviews)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBN Located)
+        (PP (IN at)
+          (NP (JJ 24th/Van) (NNP Buren)))))
+    (, ,)
+    (NP (DT this) (NN store))
+    (VP (VBZ has)
+      (NP
+        (NP (DT an) (JJ obscene) (NN amount))
+        (PP (IN of)
+          (NP
+            (NP (JJ Mexican) (NNS crafts))
+            (, ,)
+            (NP (NN pottery))
+            (, ,)
+            (NP (NN leather) (NNS goods))
+            (, ,) (FW etc.)))))))
+
+(ROOT
+  (NP (: -)
+    (NP (NNS lots))
+    (PP (IN of)
+      (NP (NN stuff)
+        (S
+          (VP (TO to)
+            (VP (VB feast)
+              (NP (PRP$ your) (NNS eyes))
+              (PP (IN on)
+                (NP (NN inside))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (NNP Pottery))
+    (VP (VBZ is)
+      (PP (IN on)
+        (NP
+          (NP (PRP$ their) (JJ back) (NN patio))
+          (PP (IN in)
+            (NP
+              (NP (NN addition))
+              (PP (TO to)
+                (NP (PRP$ their) (JJ many) (NNS rooms)))))))
+      (ADVP (RB inside)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP
+      (ADJP (JJ Friendly)
+        (CC and)
+        (JJ helpful))
+      (NNS associates))
+    (: -)
+    (NP (PDT such) (DT a) (JJ great) (NN experience))
+    (. !)))
+
+
+(ROOT
+  (NP (NNP Wow) (: ...)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP
+        (NP (DT a) (JJ little))
+        (PP (IN of)
+          (NP (NN everything)))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Great) (NN selection))
+    (PP (IN of)
+      (NP (VBN imported) (NNS items)))
+    (PP (IN from)
+      (NP (DT the) (JJ traditional) (JJ ceramic) (NNS pieces)))
+    (PP (TO to)
+      (NP (JJ extensive) (NN Day)))
+    (PP (IN of)
+      (NP
+        (NP (DT the) (JJ Dead) (NNS items))
+        (, ,)
+        (NP (NNP Lots))))
+    (PP (IN of)
+      (NP (JJ great) (NN metal) (NN work) (NNS items)))
+    (PP (IN for)
+      (NP (PRP$ your) (NN patio)
+        (CC or)
+        (NN wall)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP (DT the) (NN place)
+        (S
+          (VP (TO to)
+            (VP (VB take)
+              (PRT (RP out))
+              (PP (IN of)
+                (NP (NN town) (NNS guests)))
+              (S
+                (VP (TO to)
+                  (VP (VB find)
+                    (NP (DT those) (JJ unique) (JJ imported) (NNS items))))))))))))
+
+

@@ -1,0 +1,189 @@
+(ROOT
+  (FRAG
+    (ADVP (RB Not)
+      (PP (TO to)
+        (NP (NNP shabby))))
+    (: ...)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBN Tried)
+        (NP (NNP Jack))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NNP Box))
+            (PP (IN on)
+              (NP (PRP$ my) (JJ recent) (NN trip)))))
+        (PP (TO to)
+          (NP (NNP Arizona)))))
+    (, ,)
+    (CC and)
+    (S
+      (ADVP (RB overall))
+      (NP (PRP it))
+      (VP (VBD was)
+        (ADJP (JJ okay))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Ordered)
+      (NP (DT the) (JJ double) (NN cheeseburger))
+      (PP (IN with)
+        (NP (JJ curly) (NNS fries))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Burger))
+      (VP (VBD was)
+        (ADJP
+          (ADJP (JJ good))
+          (, ,) (RB not)
+          (ADJP (DT the) (JJS best))
+          (, ,)
+          (CC but)
+          (ADJP (JJ tasty)))))
+    (CC and)
+    (S
+      (NP (DT the) (JJ curly) (NNS fries))
+      (VP (VBD were)
+        (ADJP (JJ okay)
+          (PP (IN as)
+            (ADVP (RB well))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Will))
+    (ADVP (RB definitely))
+    (VP (VBP try)
+      (NP (PRP them))
+      (ADVP (RB again)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Overall))
+    (, ,)
+    (NP
+      (NP (JJ okay) (NN food))
+      (, ,)
+      (NP
+        (ADJP (JJ okay))
+        (NN service))
+      (, ,))
+    (VP (VBZ okay)
+      (NP (NNS prices)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP do) (RB n't)
+        (ADVP (RB normally))
+        (VP (VB review)
+          (NP (JJ fast) (NN food) (NNS joints)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT this) (NN place))
+      (VP (VBZ deserves)
+        (NP (DT a) (JJ good) (NN review))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VP (VB hire)
+        (NP (JJ good) (NNS people)))
+      (CC and)
+      (VP (VB train)
+        (NP (PRP them))
+        (ADVP (RB really))
+        (ADVP (RB well))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (JJ Fast) (NN food) (NNS chains))
+      (VP (VBP thrive)
+        (PP (IN on)
+          (NP (NN consistency)))))
+    (CC and)
+    (S
+      (NP
+        (NP (DT this) (NNP Jack))
+        (PP (IN in)
+          (NP (DT the) (NNP Box) (NN location))))
+      (VP (VBZ is)
+        (ADJP (RB VERY) (JJ consistent))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Jack))
+      (PP (IN in)
+        (NP (DT the) (NNP Box))))
+    (VP (VBN done)
+      (ADVP (RB right)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Jack))
+      (PP (IN in)
+        (NP (DT the) (NN box))))
+    (VP (VBZ sucks)
+      (ADVP (RB now)))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP$ My) (NN food))
+      (VP (VBD was)
+        (ADJP (JJ cold))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP 've)
+      (ADVP (RB actually))
+      (ADVP (RB never))
+      (VP (VBN had)
+        (NP (DT a) (JJ pleasant) (NN experience))
+        (PP (IN at)
+          (NP (DT this) (NN location)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP
+            (NP (NN jack))
+            (PP (IN in)
+              (NP (DT the) (NN box))))
+          (VP (VBZ is)
+            (NP
+              (NP (CD one) (NN place))
+              (SBAR
+                (S
+                  (NP (PRP I))
+                  (VP (MD will)
+                    (ADVP (RB never))
+                    (VP (VB go)
+                      (ADVP (RB again)))))))))))
+    (. .)))
+
+

@@ -1,0 +1,241 @@
+(ROOT
+  (S
+    (NP (DT The) (NNS employees))
+    (VP (VBP are)
+      (ADJP
+        (ADJP (JJ rude))
+        (CC and)
+        (ADJP (RB not)
+          (ADVP (IN at) (DT all))
+          (JJ helpful))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD went)
+      (PP (IN in)
+        (S
+          (VP (VBG looking)
+            (PP (IN for)
+              (NP (DT a) (JJ particular) (NN item)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBD were)
+      (NP
+        (NP (DT no) (NNS customers))
+        (PP (IN in)
+          (NP
+            (NP (RB there))
+            (PP (IN except)
+              (NP (PRP me)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD ignored)
+      (NP (PRP me))
+      (SBAR
+        (SBAR (IN until)
+          (S
+            (NP (PRP I))
+            (VP (VBD asked)
+              (PP (IN for)
+                (NP (NN help))))))
+        (CC and)
+        (SBAR (IN than)
+          (S
+            (NP (PRP they))
+            (VP (VBD looked)
+              (ADJP (JJ annoyed))
+              (SBAR (IN like)
+                (S
+                  (NP (PRP it))
+                  (VP (VBD was)
+                    (NP (DT a) (JJ big) (NN hassle)
+                      (S
+                        (VP (TO to)
+                          (VP (VB help)
+                            (NP (PRP me))
+                            (PRT (RP out))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD acted)
+      (ADJP (RB very) (JJ snobbish)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD will)
+      (ADVP (RB never))
+      (VP (VB go)
+        (ADVP (RB back))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (PP (IN Unlike)
+      (NP (DT the) (JJ other) (NN reviewer)))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD found)
+      (NP (DT the) (NNS employees))
+      (ADVP (RB here))
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (ADJP (RB very) (JJ friendly)
+              (CC and)
+              (JJ helpful))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (SBAR
+        (WHADVP (WRB When))
+        (S
+          (NP (PRP I))
+          (VP (VBD came)
+            (PRT (RP in))
+            (PP (IN for)
+              (NP (JJ maternity) (NNS clothes))))))
+      (, ,)
+      (NP (EX there))
+      (VP (VBD was)
+        (NP (CD one) (NN top))
+        (SBAR (IN that)
+          (S
+            (NP (PRP I))
+            (ADVP (RB really))
+            (VP (VBD liked))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP they))
+      (VP (VBD did) (RB n't)
+        (VP (VB have)
+          (NP (PRP$ my) (NN size))
+          (, ,)
+          (SBAR (IN so)
+            (S
+              (NP
+                (NP (DT the) (NN gal))
+                (PP (IN at)
+                  (NP (DT the) (NN register))))
+              (VP
+                (VP
+                  (ADVP (RB very) (RB kindly))
+                  (VBD ordered)
+                  (NP (DT the) (NN top))
+                  (PP (IN for)
+                    (NP (PRP me))))
+                (CC and)
+                (VP (VBD had)
+                  (NP (PRP it))
+                  (VP (VBN shipped)
+                    (PP (TO to)
+                      (NP (PRP$ my) (NN house)))))))))))
+    (. .)))
+
+(ROOT
+  (S (-LRB- -LRB-)
+    (NP (NNP Shipping))
+    (VP (VBZ is)
+      (ADJP (JJ free))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP they))
+          (VP (VBP do)
+            (NP (DT that))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB -RRB-)
+      (SBAR
+        (S
+          (S (CC And)
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP I))
+                (VP
+                  (VP (VBD came)
+                    (PRT (RP in))
+                    (PP (IN for)
+                      (NP (NN nursing) (NNS bras))))
+                  (CC and)
+                  (VP (VBZ tops)))))
+            (, ,)
+            (NP
+              (NP (DT the) (NN gal))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBD worked)
+                    (PP (IN with)
+                      (NP (PRP me)))))))
+            (VP (VBD was)
+              (ADJP (RB very) (JJ helpful)
+                (PP (IN with)
+                  (NP (PRP$ her) (NNS recommendations))))
+              (PP (IN on)
+                (NP (NN bra) (NN structure)))))
+          (CC and)
+          (S
+            (NP (PRP$ her) (NNS opinions))
+            (PP (IN on)
+              (NP
+                (NP (DT some))
+                (PP (IN of)
+                  (NP (DT the) (NNS tops)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS clothes))
+      (PP (IN at)
+        (NP (DT this) (NN store))))
+    (VP (VBP are)
+      (ADJP (RB very) (RB reasonably) (VBN priced))
+      (, ,)
+      (SBAR (RB especially) (IN if)
+        (S
+          (NP (PRP you))
+          (VP
+            (VP (VB sign)
+              (PRT (RP up))
+              (PP (IN on)
+                (NP (PRP$ their) (NN mailing) (NN list))))
+            (CC and)
+            (VP (VB get)
+              (NP
+                (NP (PRP$ their) (NNS coupons))
+                (PP (IN via)
+                  (NP (NN email)))))))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (DT All) (NNS things))
+    (PP (IN for)
+      (NP (DT the) (NN mother)
+        (S
+          (VP (TO to)
+            (VP (VB be))))))
+    (. .)))
+
+

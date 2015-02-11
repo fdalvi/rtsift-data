@@ -1,0 +1,60 @@
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBZ is)
+      (ADJP (JJ AWESOME)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJS Best) (NN egg) (NN salad))
+    (VP (VBD sandwich)
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBP have)
+            (ADVP (RB ever))
+            (VP (VBN eaten))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VB Awesome))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VB Nice)
+      (NP (NNS people)))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (ADVP (RB just))
+      (VP
+        (VP (VBD went)
+          (PRT (RP in))
+          (PP (IN for)
+            (NP (PRP$ my) (JJ first) (NN time))))
+        (, ,)
+        (VP (VBD got)
+          (NP (DT a) (NNP BLT)))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADJP (JJ great))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD will)
+      (VP (VB be)
+        (ADVP (RB back))))
+    (. .)))
+
+
