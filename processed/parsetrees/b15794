@@ -1,0 +1,77 @@
+(ROOT
+  (SINV
+    (ADVP (RB Just))
+    (VP (VBD bought))
+    (NP
+      (NP (DT some) (NN clip) (NN ons))
+      (PP (IN for)
+        (NP (PRP$ my) (JJ silhouette) (NNS frames))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ lame) (JJ plastic) (NNS clips))
+    (VP (VBD sold)
+      (PP (IN by)
+        (NP
+          (NP (JJ silhouette) (NN go))
+          (PP (IN for)
+            (NP ($ $) (CD 70-80)))))
+      (PP (NN online))
+      (PRN (-LRB- -LRB-)
+        (ADVP (RB probably))
+        (ADJP (JJR more)
+          (PP (IN at)
+            (NP (PRP$ my) (JJ expensive) (NN optometrist))))
+        (-RRB- -RRB-)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (JJ young) (NN woman))
+        (PP (IN at)
+          (NP (DT the) (NN kiosk))))
+      (VP (VBD was)
+        (ADJP (JJ outstanding))))
+    (: ...)
+    (S
+      (VP (VB give)
+        (NP (PRP her))
+        (NP
+          (NP (DT a) (NN raise))
+          (PRN (-LRB- -LRB-)
+            (S
+              (NP (PRP it))
+              (VP (VBD was)
+                (NP (NNP Sunday) (NN morning) (, ,) (CD 6/29))))
+            (-RRB- -RRB-)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (PDT half) (DT an) (NN hour)))
+    (NP (PRP she))
+    (VP (VBD made)
+      (NP
+        (NP (DT a) (NN pair))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP
+              (VP (VBP fit)
+                (ADVP (RB perfectly)))
+              (CC and)
+              (VP (VBP are)
+                (ADJP (RB far) (JJ superior)
+                  (PP (TO to)
+                    (NP (DT the) (JJ original) (NNS silhouettes))))))))
+        (: ...)
+        (PP (IN for)
+          (NP
+            (QP (RB just) ($ $) (CD 50))))))
+    (. .)))
+
+

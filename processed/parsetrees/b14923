@@ -1,0 +1,91 @@
+(ROOT
+  (S (RB Only)
+    (VP (VB need)
+      (NP
+        (NP (CD 1) (NN form))
+        (PP (IN of)
+          (NP (NNP ID))))
+      (PP (IN for)
+        (S
+          (VP (VBG cashing)
+            (NP (NN non-member) (NNS checks))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Greeting))
+    (VP (VBD was)
+      (NP
+        (ADJP (JJ weak)
+          (CC but)
+          (JJ overall))
+        (JJ friendly) (NN service))
+      (PP (IN for)
+        (NP (NNS non-members))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP like)
+      (NP (DT this) (NN location)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 'm) (RB always)
+      (ADVP (IN in)
+        (CC and)
+        (IN out))
+      (ADVP (RB very) (RB quickly)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have)
+      (ADVP (RB never))
+      (VP (VBN waited)
+        (NP
+          (QP (JJR more) (IN than) (CD 5))
+          (NNS minutes))
+        (S
+          (VP (TO to)
+            (VP (VB speak)
+              (PP (TO to)
+                (NP (DT a) (NN banker))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 've)
+      (ADVP (RB never))
+      (VP (VBN had)
+        (NP
+          (NP (DT a) (NN problem))
+          (SBAR (IN that)
+            (S
+              (NP (PRP they))
+              (VP (MD could) (RB n't)
+                (VP (VB help)
+                  (NP (PRP me))
+                  (PP (IN with)))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP
+      (VP (VB Loyal)
+        (NP (NN customer)))
+      (CC and)
+      (VP (VBP have) (RB n't)
+        (VP (VBN had)
+          (NP (DT any) (NNS problems))
+          (PP (IN with)
+            (NP (DT this) (NN bank))))))))
+
+

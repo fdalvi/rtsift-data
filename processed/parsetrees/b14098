@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (NP (NNP Chorizo) (NN pizza))
+    (VP (VBZ is)
+      (NP (DT the) (NN bomb)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Hands)
+      (PRT (RP down))
+      (PP (IN in)
+        (NP (DT the) (JJ top) (CD 5) (NNS pizzas)))
+      (PP (IN in)
+        (NP (NN phoenix) (NN az))))))
+
+
+(ROOT
+  (S
+    (NP (NN Customer) (NN service))
+    (VP (VBZ sucks)
+      (SBAR
+        (S
+          (S
+            (NP (NNP Pizza))
+            (VP (VBZ is)
+              (ADJP
+                (ADJP (RB really) (JJ good))
+                (JJR Better))
+              (PP (IN than)
+                (NP (NNP Pizza) (NNP Hut)))))
+          (CC and)
+          (S
+            (NP (PRP they))
+            (VP (VBP have)
+              (NP (JJ good) (NNS deals)))))))))
+
+
+(ROOT
+  (S
+    (NP (NNP Pizza))
+    (VP (VBZ is)
+      (ADJP (RB really) (JJ good))
+      (PP
+        (ADVP (RBR better))
+        (RB then)
+        (NP (JJ little) (NNS ceasers))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Wait) (NN area))
+    (VP (VBZ is)
+      (NP (JJ clean) (JJ friendly) (NN service)))
+    (. .)))
+
+

@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Beautiful) (NN titanium) (NN jewelry))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (MD can)
+            (VP (VB be)
+              (VP (VBN bought)
+                (UCP
+                  (ADVP (RB alone))
+                  (CC or)
+                  (PP (IN in)))))))))
+    (VP (VBZ sets))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NN Love))
+        (NP (PRP$ their) (NNS watches)))
+      (CC and)
+      (NP
+        (NP (DT the) (NN guy))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBD was)
+              (ADVP (RB there))
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (PRP I))
+                  (VP (VBD went)))))))))
+    (VP (VBD was)
+      (ADVP (RB way) (RB too))
+      (ADJP (JJ hot)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBG working)
+                (NP (NN retail))))))))
+    (. !)))
+
+

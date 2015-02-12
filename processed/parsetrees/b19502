@@ -1,0 +1,177 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (NP
+        (NP
+          (NP (DT a) (JJ big) (NN fan))
+          (PP (IN of)
+            (NP (NNP FIB) (POS 'S))))
+        (: -)
+        (NP (JJ Fine) (JJ Italian) (NN Beef))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN food))
+      (VP (VBZ is)
+        (ADJP (JJ great))))
+    (CC and)
+    (S
+      (NP (DT the) (NN cart))
+      (VP (VBZ brings)
+        (PRT (RP back))
+        (NP
+          (NP (NNS memories))
+          (PP (IN of)
+            (NP
+              (NP (NN time))
+              (VP (VBN spent)
+                (PP (IN in)
+                  (NP (NNP Chicago)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (JJ meatball) (NN sub))
+      (VP (VBZ is)
+        (NP
+          (NP (DT the) (JJS best))
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (VBP 've)
+                (ADVP (RB ever))
+                (VP (VBN had))))))))
+    (CC and)
+    (S
+      (NP
+        (NP (DT a) (JJ fellow) (NN worker))
+        (, ,)
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBZ 's)
+              (NP (DT a)
+                (ADJP
+                  (NP (CD professed) (NNS chili))
+                  (JJ hot))
+                (NN dog) (NN expert))))))
+      (VP (VBZ says)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (NNP FIB) (POS 'S))
+              (NN chili) (NN dog))
+            (VP (VBZ is)
+              (NP
+                (NP (DT the) (JJS best))
+                (SBAR
+                  (S
+                    (NP (PRP she))
+                    (VP (VBZ 's)
+                      (VP (VBN had)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB recently))
+    (VP (VBD found)
+      (PRT (RP out))
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (NN owner))
+            (PP (IN of)
+              (NP (DT the) (NN cart))))
+          (VP (VBZ donates)
+            (PP (TO to)
+              (NP (JJ local) (JJ homeless) (NNS shelters)))
+            (ADVP (RB quite) (RB often))))))
+    (. .)))
+
+(ROOT
+  (INTJ (UH Wonderful) (. !)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (ADJP (RB Very) (JJ beautiful))
+        (NN area))
+      (PP (IN with)
+        (NP (CD 8))))
+    (VP (VBD +)
+      (NP (NN food) (NNS trucks))
+      (PP (IN during)
+        (NP
+          (NP (DT the) (NN lunch) (NN rush))
+          (CC and)
+          (NP
+            (NP (NNS lots))
+            (PP (IN of)
+              (NP (NNS benches))))))
+      (S
+        (VP (TO to)
+          (VP (VB enjoy)
+            (NP (PRP$ your) (NN food))
+            (PRT (RP on))))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBN Surrounded)
+        (PP (IN by)
+          (NP
+            (NP (JJ lovely) (JJ gothic) (NN architecture)
+              (S
+                (VP (TO to)
+                  (VP (VB look)
+                    (PP (IN at))))))
+            (CC and)
+            (NP
+              (NP (JJ tall) (NNS trees))
+              (VP (VBG providing)
+                (NP (NN shade))))))))
+    (: ...)
+    (S
+      (NP (PRP it))
+      (VP (MD can)
+        (VP (VB be)
+          (NP (DT a)
+            (ADJP (RB really) (JJ serene))
+            (NN place)
+            (S
+              (VP (TO to)
+                (VP (VB relax))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Of)
+      (NP (NN course)))
+    (S
+      (ADVP (RB sometimes))
+      (NP (EX there))
+      (VP (VBP are)
+        (NP
+          (NP (NNS events))
+          (VP (VBG going)
+            (PP (IN on)
+              (NP (RB here)))))))
+    (CC and)
+    (S
+      (NP (DT a) (JJ random) (NN hardcore) (NN religious))
+      (VP (VBP advocate)
+        (S
+          (VP (VBG shouting)
+            (PP (IN at)
+              (NP (DT the) (NN crowd)))))))
+    (. .)))
+
+

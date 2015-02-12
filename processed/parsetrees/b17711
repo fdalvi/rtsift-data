@@ -1,0 +1,404 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD rented)
+        (NP (DT a) (NN car))
+        (PP (IN from)
+          (NP (DT this) (NN company)))
+        (NP (JJ last) (NN month))))
+    (CC and)
+    (S
+      (NP (DT the) (NN service))
+      (VP (VBD was)
+        (ADJP (JJ awesome))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBD picked)
+        (PRT (RP up))
+        (NP
+          (NP (DT the) (NN car))
+          (PP (IN at)
+            (NP (DT the) (NN airport) (NN valet)))))
+      (CC and)
+      (VP (VBD returned)
+        (NP (PRP it))
+        (PP (TO to)
+          (NP (DT the) (NN airport) (NN valet)))))
+    (. .)))
+
+(ROOT
+  (S
+    (INTJ (UH No))
+    (VP
+      (VP (VB need)
+        (S
+          (VP (TO to)
+            (VP (VB step)
+              (NP (NN foot))
+              (PP (IN in)
+                (NP (PRP$ their) (NN office)))))))
+      (CC or)
+      (VP (VB have)
+        (S
+          (VP (TO to)
+            (VP (VB go)
+              (PP (TO to)
+                (NP
+                  (NP (DT the) (JJ rental) (NN hub))
+                  (PP (IN at)
+                    (NP (DT the) (NN airport))))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Great))
+    (NP (NN service)
+      (CC and)
+      (NN quality) (NNS cars))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (NNP HIGHLY))
+    (VP (VBD recommended))
+    (. !)))
+
+
+(ROOT
+  (S
+    (VP (VB Awesome))
+    (. !)))
+
+(ROOT
+  (NP
+    (NP (JJ Good) (NN collection))
+    (PP (IN of)
+      (NP
+        (NP (NNS cars))
+        (, ,)
+        (NP (JJ great) (NN service))
+        (, ,)
+        (ADVP (JJ overall))
+        (NP (DT a) (JJ good) (NN deal))))
+    (. !)))
+
+
+(ROOT
+  (NP (NNS Schmucks) (. !)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Thats))
+    (SBAR
+      (WHNP (WP who))
+      (S
+        (NP (PRP they))
+        (VP (VBP are))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBD ordered)
+        (SBAR
+          (S
+            (NP (CD two) (JJ same) (NN SUV))
+            (VP (VBZ 's)
+              (NP
+                (NP
+                  (QP (JJR more) (IN than) (CD two))
+                  (NNS months))
+                (PP (IN in)
+                  (NP
+                    (NP (NN advance))
+                    (PP (IN in)
+                      (NP
+                        (NP (NNP Las) (NNP Vegas))
+                        (PP (IN for)
+                          (NP (PRP$ our) (NN wedding)))))))))))))
+    (, ,)
+    (CC and)
+    (S
+      (PP
+        (NP (CD 3) (NNS days))
+        (IN before)
+        (NP (NN wedding)))
+      (NP (PRP they))
+      (VP (VBD canceled)
+        (NP (PRP$ our) (NN order))
+        (PP (IN by)
+          (NP (NN email)))
+        (SBAR (IN because)
+          (S (`` ``)
+            (NP (NNS vehicles))
+            (VP (VBP have)
+              (VP (VBN been)
+                (VP (VBN reserved)
+                  (PP (IN by)
+                    (NP (DT a) (JJ royal) (NN family)))
+                  (PP (IN for)
+                    (NP (IN over) (CD 2) (NNS months)))
+                  (. .))))
+            (. .) ('' '')))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP we))
+        (VP
+          (VP (VBD called))
+          (CC and)
+          (VP (VBD asked)
+            (S
+              (VP (TO to)
+                (VP (VB speak)
+                  (PP (IN with)
+                    (NP (DT the) (NN manager))))))))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD explained)
+      (NP (PRP us))
+      (SBAR (IN that)
+        (S
+          (NP (JJ royal) (NN family))
+          (VP (VBZ is)
+            (VP (VBG paying)
+              (UCP
+                (NP
+                  (NP ($ $) (CD 2k))
+                  (PP (IN per)
+                    (NP (NN car))))
+                (CC and)
+                (S
+                  (S
+                    (NP (PRP they))
+                    (VP (VBP are)
+                      (VP (VBG getting)
+                        (SBAR
+                          (WHNP (WP what))
+                          (S
+                            (NP (PRP they))
+                            (VP (VBP want)))))))
+                  (, ,)
+                  (CC and)
+                  (S
+                    (NP (PRP we))
+                    (VP (MD can)
+                      (VP
+                        (VP (VB contact)
+                          (NP (NN hertz)))
+                        (CC and)
+                        (VP (VB see)
+                          (S
+                            (SBAR (IN if)
+                              (S
+                                (NP (PRP they))
+                                (VP (VBP have)
+                                  (NP (NN anything)))))
+                            (, ,)
+                            (NP (PRP I))
+                            (VP (VBD bet)
+                              (SBAR
+                                (S
+                                  (NP (PRP they))
+                                  (VP (VBP do)
+                                    (VP (VB have)
+                                      (NP
+                                        (NP (DT a) (NN lot))
+                                        (PP (IN of)
+                                          (NP (NN chevy) (POS 's)))))))))))))))
+                (. .)))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP
+      (NP (NNS Thanks))
+      (RB again))
+    (, ,)
+    (ADVP (RB assholes))
+    (. !)))
+
+
+(ROOT
+  (NP
+    (NP (NN Goodluck))
+    (VP (VBG finding)
+      (NP
+        (NP (DT a) (NN lambo)
+          (CC or)
+          (NN ferrari))
+        (PP (IN in)
+          (NP (NNP Vegas))))
+      (S
+        (VP (TO to)
+          (VP (VB rent)
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP you))
+                (VP (VBP need)
+                  (S
+                    (NP (PRP it))
+                    (VP (VB asap))))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBD called)
+        (NP (CD 12) (JJ different) (NNS companies)))
+      (CC and)
+      (VP (MD could) (RB not)
+        (VP (VB get)
+          (NP
+            (NP (DT a) (NN car))
+            (VP (VBN delivered)
+              (PP (TO to)
+                (NP (PRP$ my) (NN hotel)))
+              (PP (IN within)
+                (NP (DT an) (NN hour))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJS best))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBD got)))))
+    (VP (VBD was) (, ,)
+      (SBAR
+        (S
+          (NP (PRP you))
+          (VP (MD can)
+            (VP (VB pick)
+              (NP (PRP it))
+              (PP (RP up)
+                (NP
+                  (UCP
+                    (NP
+                      (NP (NN tomorrow))
+                      (PP (IN at)
+                        (FRAG
+                          (ADJP (JJ 9am) (. .))
+                          (. .))))
+                    (CC or)
+                    (S
+                      (NP (PRP We))
+                      (VP (VBP are) (RB all)
+                        (VP (VBN sold)
+                          (PP (IN out))
+                          (. .))))
+                    (. .))
+                  (NNS etc.))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (ADVP (RB finally))
+      (VP (VBD said)
+        (VP (VB forget)
+          (NP
+            (NP (NN google))
+            (, ,)
+            (NP
+              (NP (NN im))
+              (VP (VBG going)
+                (PP (IN on)
+                  (NP (NNP Yelp)))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT these) (NNS guys))
+      (VP (VBD came)
+        (PRT (RP up))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Within)
+      (NP (CD 30) (NNS mins)))
+    (NP (PRP they))
+    (VP (VBD delivered)
+      (NP (PRP me))
+      (NP
+        (NP (DT a)
+          (ADJP (NN brand) (JJ new))
+          (NNP Orange) (NNP Lambo))
+        (PP (TO to)
+          (NP (PRP$ my) (NN hotel)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (VP (VBN thrilled)
+        (NP
+          (NP (, ,) (JJ excellent) (NN service))
+          (, ,)
+          (NP (JJ perfect) (NN car))
+          (, ,)
+          (CC and)
+          (NP (DT a) (JJ great) (NN price)))
+        (ADVP (RB too))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB highly))
+    (VP
+      (VP (VBP recommend)
+        (NP (DT this) (NN company)))
+      (CC and)
+      (VP (MD will)
+        (VP (VB start)
+          (S
+            (VP (VBG using)
+              (S
+                (NP (PRP them))
+                (VP (TO to)
+                  (VP (VB rent)
+                    (NP (NN luxury) (NNS sports) (NNS cars))
+                    (SBAR (IN whether)
+                      (S
+                        (NP (PRP I))
+                        (VP (VBP am)
+                          (PP
+                            (PP (IN in)
+                              (NP (NNP LA)))
+                            (CC or)
+                            (PP (IN in)
+                              (NP (NNP Vegas)))))))))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (RB hassle) (JJ free))
+        (CC and)
+        (RB very)
+        (ADJP (NN professional))))
+    (. !)))
+
+(ROOT
+  (NP (NNP -) (NNP Chris) (NNP B)))
+
+

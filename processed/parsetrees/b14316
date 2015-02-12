@@ -1,0 +1,81 @@
+(ROOT
+  (FRAG
+    (PP (IN In)
+      (PP (IN from)
+        (NP
+          (NP (NN out))
+          (PP (IN of)
+            (NP
+              (NP (NN town))
+              (CC and)
+              (S
+                (NP (PRP they))
+                (VP (VBD helped)
+                  (NP (PRP me))
+                  (PRT (RP out))
+                  (PP (IN in)
+                    (NP (DT a) (NN bind))))))))))
+    (. !)))
+
+(ROOT
+  (SINV
+    (ADJP (RB Really) (JJ helpful))
+    (PRN (CC and)
+      (S
+        (NP (PRP I))
+        (VP
+          (ADVP (RB greatly))
+          (VBD appreciated)
+          (NP (DT the) (JJ extra) (NN effort)))))
+    (VP (VBD put)
+      (PRT (RP forth))
+      (S
+        (VP (TO to)
+          (VP (VB help)
+            (NP (PRP me))
+            (, ,)
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP I))
+                (VP (VBP 'm) (RB not)
+                  (NP (RB even) (DT a)))))))))
+    (S
+      (VP (VBG paying)
+        (NP (NN customer))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Thank)
+      (S
+        (NP (PRP you))
+        (ADJP (JJ !!!))))))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN person))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBD answered)
+            (NP (DT the) (NN phone))
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP I))
+                (VP (VBD called))))))))
+    (VP (VBZ needs)
+      (S
+        (VP (TO to)
+          (VP
+            (ADVP (RB seriously))
+            (VB brush)
+            (PRT (RP up))
+            (PP (IN on)
+              (NP (PRP$ her) (NN customer) (NN service) (NNS skills)))))))
+    (. .)))
+
+

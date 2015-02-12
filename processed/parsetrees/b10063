@@ -1,0 +1,123 @@
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP (JJ good) (NN pizza)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ My) (NN roommate))
+      (CC and)
+      (NP (PRP I)))
+    (VP (VBP love)
+      (NP (DT this) (NN place)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS toppings))
+    (VP (VBP are)
+      (ADJP (JJ fresh)
+        (CC and)
+        (JJ delish)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB also))
+    (VP (VBP have)
+      (NP
+        (NP (JJ great) (JJ fried) (NNS zucchini))
+        (, ,)
+        (CC and)
+        (NP (JJ starter) (NNS salads))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP
+      (NP (RB Just) (JJ fresh))
+      (CC and)
+      (NP (DT no) (VBG messing) (RP around)))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP
+      (NP (DT the) (NNS people))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBP work)
+            (ADVP (RB here))))))
+    (VP (VBP are)
+      (ADJP (RB super) (JJ nice)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would)
+      (ADVP (RB highly))
+      (VP (VB recommend)
+        (NP (DT this) (NN place))))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VB Eat)
+      (PRT (RP up)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (JJ only) (NN gripe))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP (VBP close)
+            (S
+              (NP (NN kinda))
+              (ADJP (JJ early)))
+            (PRN (-LRB- -LRB-)
+              (S
+                (NP (PRP I))
+                (VP (VBP think)
+                  (PP (IN by)
+                    (NP (CD 8) (NN pm)))))
+              (-RRB- -RRB-))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB really))
+    (VP (VBD liked)
+      (NP (DT this) (NN place)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Sadly))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (VP (VBN closed)
+        (ADVP (RB now))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Hope)
+      (S
+        (NP (PRP they))
+        (VP (VB reopen)
+          (ADVP (RB somewhere)))))
+    (. .)))
+
+

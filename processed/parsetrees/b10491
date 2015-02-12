@@ -1,0 +1,22 @@
+(ROOT
+  (NP
+    (NP (JJ Awesome) (NN job))
+    (, ,)
+    (NP
+      (NP (JJ quick) (NN turn))
+      (PP (IN around)
+        (S
+          (VP (VBG resizing)
+            (PP (IN of)
+              (NP (PRP$ my) (NNS rings)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB go)
+        (ADVP (RB back))))
+    (. .)))
+
+

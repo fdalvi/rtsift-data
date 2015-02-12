@@ -1,0 +1,419 @@
+(ROOT
+  (FRAG
+    (NP
+      (NP (NNP Best) (NNP Dentist))
+      (PP (IN in)
+        (NP (NNP Vegas))))
+    (: -)
+    (SINV
+      (ADVP (RB Really))
+      (VP (VBZ listens))
+      (SBAR
+        (WHPP (TO to)
+          (WHNP (WP what)))
+        (S
+          (NP (PRP you))
+          (VP
+            (VP (VBP want))
+            (CC and)
+            (VP (VBZ has)
+              (NP (DT a) (JJ great) (JJ cosmetic) (NN eye)))))))
+    (. !)))
+
+(ROOT
+  (S
+    (ADVP (RB Also))
+    (NP (DT that) (NN staff))
+    (VP (VBZ is)
+      (ADJP (JJ amazing)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Amazing) (NN staff))
+      (CC and)
+      (NP (NNP Dr.) (NNP Lobato)))
+    (VP (VBZ is)
+      (ADVP (RB just))
+      (NP (DT an) (JJ outstanding) (NN dentist)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP He))
+      (ADVP (RB truly))
+      (VP (VBZ cares)
+        (PP (IN about)
+          (NP (PRP$ his) (NNS patients)))))
+    (CC and)
+    (S
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP (PRP I))
+          (VP (VBP like)
+            (SBAR
+              (S
+                (VP (VBZ is)
+                  (SBAR (IN that)
+                    (S
+                      (NP (PRP HE))
+                      (ADVP (RB personally))
+                      (VP (VBZ reaches)
+                        (PRT (RP out))
+                        (S
+                          (VP (TO to)
+                            (VP (VB check)
+                              (PP (IN on)
+                                (NP (PRP$ his) (NNS patients)))
+                              (SBAR (IN after)
+                                (S
+                                  (NP (PRP he))
+                                  (VP (VBZ does)
+                                    (NP (DT a) (NN procedure))
+                                    (ADVP (RB just))
+                                    (S
+                                      (VP (TO to)
+                                        (VP (VB make)
+                                          (ADJP (JJ sure))))))))))))))))))))
+      (NP (PRP they))
+      (VP (VBP are)
+        (ADJP (JJ okay))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 've)
+        (VP (VBN been)
+          (PP (TO to)
+            (NP
+              (NP (JJ many) (NNS dentists))
+              (PP (IN throughout)
+                (NP (PRP$ my) (NN life)
+                  (CC and)
+                  (NNS hands)))))
+          (ADVP (RB down)))))
+    (: ...)
+    (S
+      (NP (PRP he))
+      (VP (VBZ is)
+        (NP (DT the) (JJS best))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP I))
+        (VP (MD could))))
+    (VP (VBP rate)
+      (S
+        (NP (PRP him))
+        (NP (DT a) (CD 10))))
+    (. ...)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB definitely))
+    (VP (MD would))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Mindy))
+      (VP
+        (VP (VBZ is)
+          (ADJP (JJ awesome)))
+        (CC and)
+        (VP (VBZ cares)
+          (PP (IN for)
+            (NP (PRP$ his)
+              (QP (RB just) (RB as) (JJ much)))))))
+    (: ...)
+    (S
+      (PP (IN in)
+        (NP (NN fact)))
+      (, ,)
+      (NP (PRP she))
+      (ADVP (RB just))
+      (VP (VBD called)
+        (S
+          (VP (TO to)
+            (VP (VB check)
+              (PRT (RP in))
+              (PP (IN on)
+                (NP (PRP me)))
+              (SBAR (IN while)
+                (S
+                  (VP (VBG posting)
+                    (NP (DT this) (NN review))))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Awesome) (NN dentist))
+    (: ...)
+    (NP (JJ awesome) (NN staff))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What) (JJR more))
+    (SQ
+      (VP (VBZ needs)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN said)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Dr) (NNP Lobato))
+      (CC and)
+      (NP (PRP$ his) (NN staff)))
+    (VP (VBP get)
+      (NP (DT a) (JJ solid) (CD five) (NN star))
+      (PP (IN from)
+        (NP (DT this)
+          (ADJP (JJ satisfied))
+          (NN customer))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (UCP
+        (NP (NN pain))
+        (CC and)
+        (PP (IN in)
+          (NP (NN need)))))
+    (NP (PRP I))
+    (VP
+      (VP (VBD found)
+        (NP (PRP myself))
+        (PP (IN in)
+          (NP (PRP$ his) (NN office))))
+      (CC and)
+      (VP (VBD received)
+        (NP (JJ excellent) (NN care))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Gentle) (NN expertise))
+    (VP (VBD was)
+      (PP (IN in)
+        (NP (JJ full) (NN effect))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Do) (RB n't)
+      (VP (VB know)
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (S
+              (NP
+                (NP (DT the) (NN rest))
+                (PP (IN of)
+                  (NP (PRP you))))
+              (VP (VBP are)
+                (VP (VBN used)
+                  (S
+                    (VP (TO to)))
+                  (PP (IN from)
+                    (NP (PRP$ your) (JJ dental) (NNS pros))))))
+            (CC but)
+            (S
+              (NP (DT this))
+              (VP (VBD was)
+                (NP
+                  (NP (DT a) (JJ pleasant) (NN surprise))
+                  (PP (IN for)
+                    (NP (PRP me))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Excellent)
+      (NP (NN dentist)
+        (CC and)
+        (NN demeanor)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD found)
+      (NP (DT this) (NN dr))
+      (PP (IN from)
+        (S
+          (VP (VBG checking)
+            (PRT (RP out))
+            (NP (JJ Yelp) (NNS reviews))))))
+    (: ...)))
+
+(ROOT
+  (S
+    (PP (RB Even)
+      (PP (IN with)
+        (NP (DT the) (JJ great) (NNS reviews))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD was)
+      (ADVP (RB still))
+      (ADJP (JJ hesitant)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have) (RB not)
+      (VP (VBN found)
+        (NP (DT a) (JJ great) (NN dentist))
+        (PP (IN like)
+          (NP
+            (NP (DT this))
+            (PP (IN in)
+              (NP (RB maybe) (CD 15) (NNS years)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (ADJP (JJ easy)
+        (S
+          (VP (TO to)
+            (VP (VB find)))))
+      (, ,)
+      (NP
+        (NP (JJ great) (VBN reserved) (NN parking))
+        (PP (IN for)
+          (NP
+            (NP (NN convenience))
+            (, ,)
+            (NP (JJ beautiful) (NN office))
+            (CC and)
+            (NP (JJ super) (JJ friendly) (NN staff))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN doctor))
+    (VP (VBD was)
+      (ADJP (JJ incredible)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD came)
+        (PP (IN in) (IN for)
+          (NP (DT a) (VBN cracked) (NN tooth)))))
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP
+        (VP (VBD took)
+          (NP (DT the) (NN time))
+          (S
+            (VP (TO to)
+              (VP (VB get)
+                (NP (PRP me))
+                (PP (IN in))))))
+        (CC and)
+        (VP (VBD treated)
+          (ADVP (RB quickly)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN tooth))
+    (VP (VBD needed)
+      (NP (JJR more) (NN work))
+      (SBAR (IN than)
+        (S
+          (S
+            (NP (PRP we))
+            (ADVP (RB initially))
+            (VP (VBD thought)))
+          (CC and)
+          (S
+            (NP (PRP he))
+            (VP (VBD made)
+              (ADJP (JJ sure)
+                (SBAR
+                  (S
+                    (NP (PRP it))
+                    (VP (VBD was)
+                      (ADJP (JJ perfect)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ His) (NN passion))
+      (PP (IN for)
+        (NP
+          (NP (NN dentistry))
+          (, ,)
+          (NP (PRP$ his) (NN staff))
+          (CC and)
+          (NP (PRP$ his) (NNS patients)))))
+    (VP (VBD was)
+      (NP
+        (NP (NN pleasure))
+        (PP (TO to)
+          (NP (NN witness)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP (JJ nice)
+        (S
+          (VP (TO to)
+            (VP (VB find)
+              (NP (DT a) (NN dentist))
+              (SBAR (IN that)
+                (S
+                  (NP (PRP you))
+                  (VP (VBP do) (RB n't)
+                    (VP (VB dread)
+                      (S
+                        (VP (VBG going)
+                          (PP (TO to)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ sounds)
+        (ADJP (JJ silly))))
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBP 'm)
+        (VP (VBG looking)
+          (ADVP (RB forward))
+          (PP (TO to)
+            (NP (PRP$ my) (JJ next) (NN visit))))))
+    (. .)))
+
+

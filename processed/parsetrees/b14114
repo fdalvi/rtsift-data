@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Susie))
+      (PP (IN at)
+        (NP (NNP Fast) (NNP Fix))))
+    (VP (VBD was)
+      (ADJP (RB exceptionally) (JJ knowledgeable)
+        (CC and)
+        (JJ courteous)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN breath))
+      (PP (IN of)
+        (NP
+          (NP (JJ fresh) (NN air))
+          (PP (VBN compared)
+            (PP (TO to)
+              (NP (JJ other)))))))
+    (VP (VBZ places)
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBD visited)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNS Alexis))
+    (VP (MD must)
+      (VP (VB be)
+        (NP
+          (NP (NNP Susie) (POS 's))
+          (NN sister))))
+    (. !)))
+
+

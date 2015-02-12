@@ -1,0 +1,148 @@
+(ROOT
+  (S
+    (PP (IN After)
+      (NP
+        (NP (CD 9))
+        (PP (IN on)
+          (NP (DT a) (NNP Monday) (NN night)))))
+    (, ,)
+    (ADVP (RB even)
+      (PP (IN during)
+        (NP (DT The) (NNP Festival))))
+    (, ,)
+    (VP (VBZ is)
+      (ADVP (RB probably))
+      (NP (RB not) (DT the) (NN time)
+        (S
+          (VP (TO to)
+            (VP (VB see)
+              (NP (DT this) (NN place))
+              (PP
+                (PP (IN at)
+                  (NP (PRP$ its) (JJS best)))
+                (CC but)
+                (ADVP (RB then))
+                (PP (IN on)
+                  (NP (DT the) (NN otherhand))))
+              (S
+                (NP
+                  (NP (PRP$ its)
+                    (ADJP (RB hardly) (JJ likely)
+                      (S
+                        (VP (TO to)
+                          (VP (VB be)
+                            (ADJP (JJ high))))))
+                    (NN class))
+                  (VP (VBG dining)
+                    (PP (IN at)
+                      (NP
+                        (NP (DT the) (JJS best))
+                        (PP (IN of)
+                          (NP (NNS times))))))))))))
+      (, ,)
+      (SBAR (IN as)
+        (S
+          (NP (PRP I))
+          (VP (VBP 've)
+            (ADVP (RB yet))
+            (S
+              (VP (TO to)
+                (VP (VB experience)
+                  (NP
+                    (NP (CD one))
+                    (PP (IN of)
+                      (NP (PRP$ its) (NN kind)))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP (VBZ 's)
+                          (ADJP
+                            (ADVP (RBR more) (IN than))
+                            (JJ functional)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A)
+        (ADJP (JJ good)
+          (CC and)
+          (JJ wide))
+        (NN selection))
+      (PP (IN of)
+        (NP
+          (NP (NNS starters))
+          (, ,)
+          (NP (JJ main) (NNS courses))
+          (CC &)
+          (NP (NNS desserts)))))
+    (VP (VBP seem)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (ADJP (JJ available))
+            (SBAR (IN although)
+              (S
+                (PP (IN at)
+                  (NP
+                    (NP (DT the) (NN time))
+                    (PP (IN of)
+                      (NP (NN night)))))
+                (NP (PRP I))
+                (VP (VBD visited)
+                  (SBAR
+                    (S
+                      (NP (PRP they))
+                      (VP (VBP 're)
+                        (ADVP (RB understandably) (RB not) (RB all))
+                        (VP (VBN replenished)
+                          (ADVP (RB continuously)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (JJ small) (NN selection))
+      (PP (IN of)
+        (NP (NN sushi))))
+    (VP (VBD was)
+      (ADVP (RB also))
+      (ADJP (JJ evident))
+      (SBAR (IN although)
+        (S
+          (NP (CC neither)
+            (NP (PRP myself))
+            (CC or)
+            (NP (PRP$ my) (NN companion)))
+          (VP (VBN sampled)
+            (NP (DT this))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT All))
+      (PP (IN in)
+        (NP
+          (NP (DT all))
+          (PP
+            (ADVP (RB then))
+            (IN on)
+            (NP
+              (NP (DT a) (NN par))
+              (PP (IN with)
+                (NP (NNP Jimmy) (NNP Chung))))))))
+    (VP (VBZ 's)
+      (NP (CC &)
+        (NP
+          (NP (DT the) (NNS others))
+          (PP (IN of)
+            (NP (PRP$ its) (NN ilk))))
+        (: -)
+        (NP
+          (NP (DT a) (NN means))
+          (PP (TO to)
+            (NP (DT an) (NN end))))))
+    (. .)))
+
+

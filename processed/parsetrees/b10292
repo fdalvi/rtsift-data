@@ -1,0 +1,208 @@
+(ROOT
+  (S
+    (S
+      (ADVP (RB im))
+      (S
+        (ADVP (RB definitely))
+        (NP
+          (NP (DT a) (NN fan))
+          (, ,)
+          (NP (PRP$ its)
+            (NP
+              (NP (DT a) (NN coupon) (NN book))
+              (PP (IN for)
+                (NP
+                  (NP (CD 30) (NNS bucks) (JJ last))
+                  (NP (DT a) (JJ ful) (NN year)))))))
+        (ADVP (RB there))
+        (VP (VBP are)
+          (ADVP (RB always))
+          (NP
+            (NP (JJ high) (NN end) (NNS buffets))
+            (PP (IN for)
+              (NP (DT half) (NN price))))))
+      (IN so)
+      (S
+        (NP (PRP you))
+        (ADVP (RB easily))
+        (VP (VBP make)
+          (NP (PRP$ your) (NN money))
+          (ADVP (RB back)
+            (PP (IN on)
+              (NP (DT the) (NN buffet))))
+          (ADVP (RB alone))))
+      (, ,)
+      (S
+        (NP (EX there))
+        (VP (VBP are)
+          (NP
+            (NP (DT some) (NNS deals))
+            (PP (IN on)
+              (NP (NNS hotels))))
+          (ADVP (RB as) (RB well)))))
+    (, ,)
+    (VP (VBP have)
+      (VP (VBN used)
+        (NP (PRP it))))
+    (NP
+      (NP (DT all))
+      (PP (IN over)
+        (NP (DT the) (NN city))))
+    (. .)))
+
+(ROOT
+  (SBAR (IN if)
+    (S
+      (NP (PRP you))
+      (VP (VBP are)
+        (NP
+          (NP (DT a) (NNS vegas))
+          (SBAR
+            (S
+              (NP (JJ local) (NNS i))
+              (VP (MD would)
+                (VP (VB say)
+                  (VP (VB check)
+                    (NP (PRP it))
+                    (PRT (RP out))))))))))))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD went)
+      (ADVP (RB here))
+      (S
+        (VP (TO to)
+          (VP (VB get)
+            (S
+              (NP (PRP$ my) (NNP Las))
+              (NP
+                (NP (NNP Vegas) (NNP Advisor)
+                  (PRN (-LRB- -LRB-)
+                    (NP (NNP LVA))
+                    (-RRB- -RRB-))
+                  (NNP Pocketbook))
+                (PP (IN of)
+                  (NP
+                    (NP (NNP Value))
+                    (PRN (-LRB- -LRB-)
+                      (NP (NNP POV))
+                      (-RRB- -RRB-))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP
+      (VP (VBZ includes)
+        (NP (JJ 132)
+          (PRN (-LRB- -LRB-)
+            (NP (DT this) (NN year))
+            (-RRB- -RRB-))
+          (NNS coupons)))
+      (CC and)
+      (VP (VBZ offers)
+        (PP (IN for)
+          (NP (NNS places)))
+        (PP (IN in)
+          (CC and)
+          (IN around)
+          (NP (NNP Vegas)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP stop)
+      (PP (IN in)
+        (NP (RB here)))
+      (NP
+        (NP
+          (QP (CD 2)
+            (CC or)
+            (CD 3) (NNS times)))
+        (NP (DT a) (NN year))
+        (PP (IN for)
+          (NP
+            (NP (JJ other) (JJ various) (NN gaming) (NNS books))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBP are)
+                  (NP
+                    (NP (NN value))
+                    (VP (VBN priced)
+                      (PP (IN from)
+                        (NP (NN time)))
+                      (PP (TO to)
+                        (NP (NN time))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN selection))
+      (PP (IN of)
+        (NP
+          (NP (NNS books))
+          (CC and)
+          (NP (PRP$ their) (NN price) (NN tag)))))
+    (VP (VBZ varies)
+      (PP (IN throughout)
+        (NP (DT the) (NN year))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBN snagged)
+      (NP
+        (NP (DT a) (JJ great) (NN poker) (NN book))
+        (PP (IN for)
+          (NP (DT a) (JJ few) (NNS bucks))))
+      (PP (IN on)
+        (NP
+          (NP (NN clearance))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (ADVP (RB normally))
+              (VP (VBZ retails)
+                (PP (IN for)
+                  (NP
+                    (QP (RB around) ($ $) (CD 25))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (PRP$ my) (NN experience)))
+    (, ,)
+    (NP (DT the) (NN staff))
+    (VP (VBZ is)
+      (ADVP (RB always))
+      (ADJP (JJ friendly)
+        (CC and)
+        (JJ helpful)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBZ is)
+        (ADVP (RB never))
+        (NP (DT a) (NN wait))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBP get)
+        (NP (PRP you))
+        (ADVP (IN in)
+          (CC and)
+          (IN out))
+        (ADVP (RB quickly))))
+    (. .)))
+
+

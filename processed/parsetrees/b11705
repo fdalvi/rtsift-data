@@ -1,0 +1,190 @@
+(ROOT
+  (S
+    (NP (NNP Big))
+    (VP (VBZ branch)
+      (NP (NN building))
+      (FRAG (RB not)
+        (ADVP (RB usually))
+        (ADJP (RB too) (JJ busy))))
+    (. .)))
+
+
+(ROOT
+  (FRAG
+    (ADVP (JJR Worse))
+    (NP (NN bank) (RB ever))
+    (. !)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP it))
+        (VP (VBD was) (RB n't)
+          (ADJP (RB so) (JJ difficult)
+            (S
+              (VP
+                (VP (TO to)
+                  (VP (VB switch)))
+                (CC and)
+                (VP (TO to)
+                  (VP (VB open)
+                    (NP (DT a) (JJ new) (NN business) (NN account))))))))))
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB have)
+        (VP
+          (ADVP (RB already))
+          (VBN done)
+          (S
+            (NP (PRP it))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Do) (RB not)
+      (VP (VB open)
+        (NP (DT an) (NN account))
+        (PP (IN with)
+          (NP
+            (NP (NNP Bank))
+            (PP (IN of)
+              (NP (NNP America)))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (INTJ (UH No))
+    (VP (VB tellers))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Really))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Hire))
+    (VP (VBP hire)
+      (VP (VB hire)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Today))
+    (QP (CD 2) (CD tellers))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NN Yesterday))
+    (PP (IN At)
+      (NP (JJ 4pm) (CD 1) (NN teller)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN bank))
+    (ADVP (RB really))
+    (VP (VBZ sucks))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP
+        (NP (DT a) (NN greeter)
+          (CC and)
+          (NN plenty))
+        (PP (IN of)
+          (NP (NNS personnel)
+            (S
+              (VP (TO to)
+                (VP
+                  (VP (VB open)
+                    (NP (NNS accounts)))
+                  (CC and)
+                  (VP (VB do)
+                    (NP (NNS loans))))))))))
+    (. .)))
+
+(ROOT
+  (FRAG (CC But)
+    (ADVP (RB no) (RB tellers))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Really))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP (DT the) (JJS worst) (NN branch))
+      (ADVP (RB ever)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (ADVP (RB always))
+      (NP
+        (NP (DT a) (JJ long) (NN line))
+        (CC and)
+        (RB not)
+        (NP (JJ enough) (NNS tellers)))
+      (S
+        (VP (TO to)
+          (VP (VB help)
+            (NP (PRP you))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 'm)
+        (VP (VBG using)
+          (NP (JJ different) (NN branch))
+          (PP (DT all) (IN over)
+            (NP (NNS vegas))))))
+    (CC and)
+    (S
+      (S
+        (NP
+          (NP (DT all))
+          (PP (IN of)
+            (NP (PRP them))))
+        (VP (VBP have)
+          (NP (JJ enough)
+            (NX (NNS tellers)))))
+      (, ,)
+      (CC and)
+      (S
+        (ADVP (RB usually))
+        (NP (PRP I))
+        (VP (VBP 'm)
+          (ADVP (IN in)
+            (CC and)
+            (IN out))
+          (PP (IN in)
+            (NP (CD 5) (NNS minutes))))))
+    (CC but)
+    (S
+      (NP (DT this) (NN branch))
+      (VP (VBZ is)
+        (ADJP
+          (NP
+            (QP (IN at) (JJS least) (CD 25))
+            (NNS minutes))
+          (JJ wait))))
+    (. .)))
+
+

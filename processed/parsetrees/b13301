@@ -1,0 +1,73 @@
+(ROOT
+  (FRAG
+    (NP (JJ Wonderful) (JJ professional) (NN company))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP
+        (VP (VBN Arrived)
+          (PP (IN on)
+            (NP (NN time))))
+        (CC and)
+        (VP (VBD did)
+          (NP
+            (NP (DT an)
+              (ADJP (JJ outstanding) (JJ job.The))
+              (NN owner))
+            (`` ``)
+            (NP (NNP Ron))
+            ('' '')))))
+    (VP (VBD was)
+      (ADJP (JJ pleasant)
+        (CC and)
+        (JJ informative)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD will)
+      (ADVP (RB definitely))
+      (VP (VB use)
+        (NP (PRP him))
+        (ADVP (RB again)
+          (ADJP
+            (WHADVP (WRB when))
+            (JJ necessary)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Very))
+      (ADJP (NN professional) (, ,) (JJ friendly)
+        (CC and)
+        (JJ punctual)))
+    (VP (VBP recommend)
+      (ADJP (RB highly)
+        (PP (IN on)
+          (NP
+            (NP (NN time)
+              (CC and)
+              (JJ great) (NN work))
+            (SBAR
+              (S
+                (NP (PRP he))
+                (VP (VBD fixed)
+                  (S
+                    (NP
+                      (NP (DT some) (NNS locks))
+                      (PP (RB instead) (IN of)
+                        (S
+                          (VP (VBG replacing)
+                            (SBAR
+                              (S
+                                (NP (PRP it))
+                                (VP (VBD was)
+                                  (ADJP (RB very) (NN cost)))))))))
+                    (ADJP (JJ effective))))))))))))
+
+

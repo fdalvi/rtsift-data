@@ -1,0 +1,198 @@
+(ROOT
+  (S
+    (SBAR (RB Just)
+      (S
+        (VP (VBP hope)
+          (NP (PRP$ your) (NN ID)))))
+    (VP (VBZ is) (RB not)
+      (VP (VBN compromised)
+        (PP (IN with)
+          (NP (DT this) (NN bank)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBD alerted)
+        (NP (PRP me))
+        (PP (TO to)
+          (NP (DT an) (NNP ATM) (NN fraud)))
+        (PP (IN with)
+          (NP (PRP$ their) (JJ own) (NN system)))))
+    (, ,)
+    (NP (RB then))
+    (VP (VBD denied)
+      (NP (PRP$ my) (NN claim))
+      (SBAR (IN because)
+        (S
+          (NP (PRP they))
+          (VP (MD could) (RB not)
+            (VP (VB figure)
+              (PRT (RP out))
+              (SBAR
+                (WHADVP (WRB how))
+                (S
+                  (NP (PRP it))
+                  (VP (VBD was)
+                    (VP (VBN compromised))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (ADVP (RB Essentially))
+      (VBG accusing)
+      (NP (PRP me))
+      (PP (IN of)
+        (NP (NN theft))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN amount))
+      (PP (IN of)
+        (NP (DT the) (NNP ATM) (NN withdrawal))))
+    (VP (VBD was)
+      (NP
+        (NP ($ $) (CD 502.50))
+        (PP (IN by)
+          (NP
+            (NP (DT some) (NN thief))
+            (PP (IN at)
+              (NP (DT the) (NNP Longhorn) (NNP Casino)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD were)
+      (NP
+        (NP (DT no) (NN help))
+        (PP (IN with)
+          (NP (JJ video) (NN record))))
+      (ADVP (RB either)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN As)
+      (NP
+        (NP (DT a) (NN result))
+        (PP (IN of)
+          (NP (DT this) (NN fiasco)))))
+    (NP (PRP I))
+    (VP (VBD closed)
+      (NP (PRP$ my) (NNS savings))
+      (PP (IN with)
+        (NP (NNP WAMU)))
+      (S
+        (VP (VBG exceeding)
+          (NP ($ $) (CD 50,000)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ Your) (NN money))
+    (VP (VBZ is) (RB not)
+      (ADJP (JJ safe)
+        (PP (IN with)
+          (NP (NNP WAMU)
+            (CC or)
+            (NNP Chase)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (FW i))
+    (ADVP (RB normally))
+    (VP
+      (ADVP (RB really))
+      (VBP like)
+      (NP (DT this) (NN bank)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT every) (NN time) (NN i))
+    (VP (VBP go)
+      (SBAR (IN in)
+        (S
+          (NP (EX there))
+          (VP (VBZ is)
+            (NP
+              (NP (DT no) (NN one))
+              (PP (IN in)
+                (NP (RB there))))
+            (SBAR (IN so)
+              (S
+                (NP (FW i))
+                (ADVP (RB never))
+                (VP (VBP have)
+                  (S
+                    (VP (TO to)
+                      (VP (VB wait)))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (ADVP (RB so)
+      (ADVP (RB as) (RB far))
+      (PP (IN as)
+        (NP (NNS banks))))
+    (VP (VBP go)
+      (NP (FW i))
+      (ADVP (RB really))
+      (PP (IN like)
+        (NP (PRP it))))
+    (NP
+      (NP (PRP$ its) (JJ quick))
+      (CC and)
+      (NP
+        (ADJP (JJ easy)
+          (S
+            (VP (TO to)
+              (VP (VB pay)
+                (NP (PRP$ my))))))
+        (NNS bills)))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (NNP Super) (NNP efficient))
+    (, ,)
+    (NP (JJ friendly) (NN spot))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Free) (NN coffee))
+    (PP (TO to)
+      (NP (NN boot)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VP (VBN Stopped)
+        (PRT (RP in))
+        (PP (IN over)
+          (NP (NN lunch)))
+        (PP (TO to)
+          (NP
+            (NP (NN wire) (NNS funds))
+            (PP (IN in)
+              (NP (NN escrow))))))
+      (CC and)
+      (VP (VBD was)
+        (ADJP (JJ in-and-out))
+        (PP (IN in)
+          (NP
+            (QP (JJR less) (IN than) (CD 10))
+            (NNS minutes)))))
+    (. .)))
+
+

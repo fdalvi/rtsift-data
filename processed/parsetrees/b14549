@@ -1,0 +1,76 @@
+(ROOT
+  (NP
+    (NP (NN Best) (NN service))
+    (PP (IN in)
+      (NP (DT the) (NNP Pharmacy)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (NNP Tom)
+      (CC and)
+      (NNP Alma))
+    (DT both)
+    (VP (VBP provide)
+      (NP (JJ great) (NN customer) (NN service)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Sad)
+      (SBAR
+        (S
+          (NP (PRP we))
+          (VP (MD wo) (RB n't)
+            (VP (VB be)
+              (ADJP (JJ able)
+                (S
+                  (VP (TO to)
+                    (VP (VB use)
+                      (NP (NNS Walgreens))
+                      (PP (IN after)
+                        (NP
+                          (NP (NNP Dec) (CD 31))
+                          (ADJP (JJ due)
+                            (PP (TO to)
+                              (NP (NN insurance) (NN contract) (NNS issues)))))))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT These) (NNS guys))
+    (VP (VBP give)
+      (NP (CD 15) (NN %))
+      (NP
+        (NP
+          (NP (NN discount))
+          (PP (TO to)
+            (NP (JJ active) (NN duty))))
+        (CC and)
+        (NP
+          (NP (VBN retired) (NN military))
+          (PP (IN on)
+            (NP (NNP Thursday) (POS 's))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT Every) (NN week))
+      (CC and)
+      (NP (PRP they)))
+    (VP (VBP give)
+      (NP (PRP you))
+      (NP
+        (NP (CD 20) (NN %))
+        (PP (IN off)
+          (NP (DT the) (NNP Walgreens) (NN brand)))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Alright))
+    (. !)))
+
+

@@ -1,0 +1,476 @@
+(ROOT
+  (S
+    (NP (NNP Nice))
+    (VP (VBP place))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (JJ Kind) (NNS folks))
+    (ADVP (RB here))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Samantha))
+    (VP (VBD checked)
+      (NP (PRP me))
+      (ADVP (IN in)
+        (CC and)
+        (IN out)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (VBD was)
+      (ADJP (JJ kind) (RB enough)
+        (S
+          (VP (TO to)
+            (VP (VB discount)
+              (NP (PRP$ my) (NN overage))
+              (PP (IN in)
+                (NP (PRP$ my) (NNS miles)))
+              (PRN (-LRB- -LRB-)
+                (S
+                  (NP (PRP I))
+                  (VP (VBD was)
+                    (ADVP (RB off))
+                    (PP (IN by)
+                      (NP (CD 28) (NNS miles)))))
+                (-RRB- -RRB-)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Normally))
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (NP
+          (QP ($ $) (CD 0.74) (CD /))
+          (NN mile))))
+    (CC but)
+    (S
+      (NP (PRP she))
+      (VP (VBD lowered)
+        (NP (PRP it))
+        (PP (TO to)
+          (NP
+            (QP ($ $) (CD 0.63))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB also))
+    (VP (VBD used)
+      (NP
+        (NP (DT the) (NN discount))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBD received)
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (VP (VBG changing)
+                    (NP (PRP$ my) (NN address)
+                      (S
+                        (VP (TO to)
+                          (VP (VB buy)
+                            (NP (DT the) (NN truck) (NN rental))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (PP (IN for)
+        (ADVP
+          (NP (CD 25) (NN %))
+          (RB off))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ My) (NN total))
+      (PP (IN with)
+        (NP
+          (NP (NNS fees))
+          (CC and)
+          (NP (PRP$ my) (NN overage)))))
+    (VP (VBD was)
+      (NP ($ $) (CD 79.74)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (RB Still) (JJR cheaper))
+    (PP (IN than)
+      (NP (NNP U-haul)))
+    (. .)))
+
+(ROOT
+  (S
+    (INTJ (UH Oh))
+    (, ,)
+    (ADVP (CC but))
+    (NP (PRP$ their) (CD 10) (NN foot) (NN truck))
+    (VP (VBZ does) (RB n't)
+      (VP (VB come)
+        (PP (IN with)
+          (NP (DT a) (NN ramp)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VB Returned)
+      (NP
+        (NP (DT a) (JJ small) (VBG moving) (NN truck))
+        (PP (TO to)
+          (NP (DT this) (NN location)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD told)
+      (NP (PRP them))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBD was)
+            (VP (VBN charged)
+              (S
+                (NP (JJ full) (CD 4) (NNS days))
+                (ADJP (`` ``) (JJ flatrate) ('' ''))
+                (SBAR (RB even) (IN if)
+                  (S
+                    (NP (PRP$ my) (NN reservation) (NN confirmation))
+                    (ADVP (RB only))
+                    (VP (VBZ states)
+                      (NP (CD 3) (NNS days)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP do) (RB n't)
+      (VP (VB care)
+        (SBAR (IN if)
+          (S
+            (NP (PRP I))
+            (VP (VBD showed)
+              (NP (PRP them))
+              (NP (PRP$ my) (NN reservation) (NN confirmation)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB only))
+    (VP (VBD used)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (NN truck))
+            (PP (IN for)
+              (NP
+                (NP
+                  (QP (JJR less) (IN than) (CD 3))
+                  (NNS days))
+                (PP (IN for)
+                  (NP
+                    (NP (PRP$ my) (NN move))
+                    (CC &)
+                    (NP (PRP they)))))))
+          (VP (MD wo) (RB n't)
+            (VP (VB prorate))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD wanted)
+      (NP (DT the) (NN fuel))
+      (ADVP (RB exactly))
+      (PP (IN on)
+        (NP
+          (NP (DT the) (`` ``) (NN F) ('' ''))
+          (PRN (-LRB- -LRB-)
+            (ADJP (JJ full))
+            (-RRB- -RRB-))))
+      (SBAR (RB even) (IN if)
+        (S
+          (NP (PRP we))
+          (VP (VBD were)
+            (VP (VBG explaining)
+              (PP (TO to)
+                (NP (PRP them)))
+              (SBAR (IN that)
+                (S
+                  (NP (PRP we))
+                  (VP (VBD filled)
+                    (SBAR
+                      (S
+                        (NP (PRP it))
+                        (ADVP (RB up)
+                          (PP (IN until)
+                            (NP (DT the) (NN gaspump))))
+                        (VP (VBD stopped)
+                          (ADVP
+                            (NP (RB just) (DT a) (JJ few) (NNS minutes))
+                            (RB ago)))))))))))))
+    (. .)))
+
+(ROOT
+  (SINV (`` ``)
+    (S
+      (S
+        (NP (PRP We))
+        (VP (MD could)
+          (VP (VB do)
+            (NP
+              (NP (DT this))
+              (NP (DT all) (NN day))))))
+      (, ,)
+      (CC but)
+      (S
+        (NP (PRP it))
+        (ADVP (RB still))
+        (VP (MD wo) (RB n't)
+          (VP (VB go)
+            (PP (TO to)
+              (NP (NN F)))))))
+    ('' '')
+    (VP
+      (ADVP (RB annoyingly))
+      (VBZ says))
+    (NP (DT the) (NN lady))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD went)
+      (S
+        (VP (TO to)
+          (VP (VB overfill)
+            (NP (DT the) (NN truck))
+            (SBAR (IN so)
+              (S
+                (NP (PRP I))
+                (VP (MD wo) (RB n't)
+                  (VP (VB get)
+                    (VP (VBN charged)
+                      (NP
+                        (NP (DT another) ($ $) (CD 30))
+                        (PP (IN for)
+                          (NP (DT the) (NN gas)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP
+        (NP (NNP Bad) (NN customer) (NN service))
+        (CC &)
+        (NP (PRP they) (NN overcharge))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (MD Wo) (RB n't)
+      (VP (VB be)
+        (VP (VBG using)
+          (NP (NNP Budget))
+          (ADVP (RB anymore)))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (VP (VBN Attempted)
+      (S
+        (VP (TO to)
+          (VP (VB return)
+            (NP (PRP$ our) (NN truck))
+            (ADVP (RB here))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN owner)
+        (CC or)
+        (NN lady))
+      (PP (IN at)
+        (NP (DT the) (NN desk))))
+    (VP (VBD was)
+      (ADJP (RB so) (JJ RUDE)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (VBD appeared)
+      (ADJP (JJ annoyed))
+      (NP
+        (NP (DT the) (NN instant))
+        (SBAR
+          (S
+            (NP (PRP we))
+            (VP (VBD walked)
+              (PRT (RP in)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (MD Would) (RB n't)
+      (VP (VB accept)
+        (NP (PRP$ our) (NN truck))
+        (PP (IN without)
+          (NP (NNP ALL) (NNP paperwork)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VB Come)
+        (S
+          (VP (TO to)
+            (VP (VB find)
+              (PRT (RP out))
+              (PP (IN after)
+                (S
+                  (VP (VBG calling)
+                    (NP (NN budget))))))))))
+    (, ,)
+    (NP (PRP she))
+    (VP (MD could)
+      (VP (VB 've)
+        (VP (VBN looked)
+          (PRT (RP up))
+          (NP (PRP$ our) (NN info))
+          (PP (IN on)
+            (NP (DT the) (NN computer))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Lazy)
+      (CC and)
+      (VB rude))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN customer) (NN service) (NN rep))
+      (VP (VBD called)
+        (NP (PRP her))))
+    (, ,)
+    (NP (PRP she))
+    (VP (MD would) (RB n't)
+      (VP (VB answer)
+        (SBAR (IN so)
+          (S
+            (NP (PRP they))
+            (VP (VBD left)
+              (S
+                (NP (PRP her))
+                (NP (DT a) (NN message))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP we))
+        (VP (VBD returned)
+          (NP (DT the) (JJ second) (NN time)))))
+    (NP (PRP she))
+    (VP (VBD was)
+      (PP (IN on)
+        (NP
+          (NP (DT the) (NN phone))
+          (VP (VBG arguing)
+            (PP (IN with)
+              (NP
+                (NP (NN customer) (NN service))
+                (PP (IN about)
+                  (NP (PRP us)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD told)
+      (NP (PRP her))
+      (SBAR
+        (S
+          (NP (PRP we))
+          (VP (MD would)
+            (ADVP (RB just))
+            (VP (VB return)
+              (NP (DT the) (NN truck))
+              (PP (TO to)
+                (NP (DT a) (JJ corporate) (NN office))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (ADVP (RB then))
+    (VP (VBD stated)
+      (ADJP (`` ``) (JJ fine)))
+    (. !)))
+
+(ROOT
+  (S ('' '')
+    (NP (NNP and))
+    (VP (VBD threw)
+      (NP (DT the) (NNS keys))
+      (PP (IN at)
+        (NP (PRP us))))
+    (. .)))
+
+(ROOT
+  (NP (NNS YIKES) (. .)))
+
+(ROOT
+  (S
+    (SBAR (RB Not)
+      (S
+        (ADVP (RB only))
+        (VP (MD will)
+          (ADVP
+            (NP (CD I))
+            (RB not))
+          (VP (VB be)
+            (VP (VBG using)
+              (NP (NN budget)))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (MD wo) (RB n't)
+      (VP (VB be)
+        (VP (VBG using)
+          (NP
+            (NP (DT this) (NN place))
+            (PP (IN for)
+              (NP (NN storage))))
+          (ADVP (RB either)))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Attitude)
+      (NP (NN adjustment) (NN ma'am)))
+    (. .)))
+
+

@@ -1,0 +1,198 @@
+(ROOT
+  (S
+    (NP (DT This) (NN coffee) (NN shop))
+    (VP (VBZ is)
+      (VP (VBN located)
+        (PP (IN in)
+          (NP (DT the) (NNP Mesa) (NNP Riverview) (NN shopping) (NN district) (NN close)))
+        (PP (TO to)
+          (NP (NNP Bass) (NNP Pro) (NNPS Shops)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (NP (DT a)
+        (ADJP (NN family) (VBN owned))
+        (NN coffee) (NN shop)
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ has)
+              (NP
+                (NP (NN coffee))
+                (, ,)
+                (NP (NN tea))
+                (, ,)
+                (CC and)
+                (NP (PDT all) (DT the) (NNS goodies)))))))
+      (SBAR (IN that)
+        (S
+          (NP (DT a) (NN coffee) (NN shop))
+          (VP (MD should)
+            (VP (VB have))))))
+    (. .)))
+
+(ROOT
+  (S (CC Plus)
+    (, ,)
+    (ADVP (RBS most) (RB importantly))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP have)
+      (NP (JJ free) (JJ wireless) (NN internet)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP (JJ wonderful) (NNS hours))
+      (, ,)
+      (PP (IN for)
+        (NP (PRP$ your) (NN internet)
+          (CC and)
+          (NN coffee) (NNS pleasures))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ only) (NN thing))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBD held)
+            (NP (PRP me))
+            (ADVP (RB back))
+            (PP (IN on)
+              (S
+                (VP (VBG giving)
+                  (NP (PRP them))
+                  (NP (CD 5) (NNS stars)))))))))
+    (VP (VBZ is)
+      (NP (DT the) (NN seating)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP have)
+        (NP
+          (NP (NNS tables))
+          (CC and)
+          (NP (JJ such)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT the)
+        (ADJP (RB only) (JJ comfortable))
+        (NN seating))
+      (VP (VBZ is)
+        (NP
+          (NP (DT a) (NN set))
+          (PP (IN of)
+            (NP (NNS couches))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN rest))
+    (VP (VBP are)
+      (NP (JJ square) (NNS tables)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP do) (RB not)
+      (VP (VB find)
+        (S
+          (NP (PRP them))
+          (VP (TO to)
+            (VP
+              (VP (VB be)
+                (ADJP (JJ comfortable)
+                  (PP (IN in)
+                    (NP (NNP regards)))
+                  (PP (TO to)
+                    (S
+                      (VP
+                        (VP (VBG kicking)
+                          (ADVP (RB back)))
+                        (, ,)
+                        (VP (VBG relaxing)))))))
+              (CC and)
+              (VP (VB condusive)
+                (PP (TO to)
+                  (NP (JJ extensive) (NN internet) (NN surfing)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Makes))
+    (NP (PRP me))
+    (VP (VBP feel)
+      (SBAR (IN like)
+        (S
+          (NP (PRP I))
+          (VP (VBP am)
+            (VP (VBG surfing)
+              (NP (DT the) (NN net))
+              (PP (IN at)
+                (NP (PRP$ my) (NN kitchen) (NN table))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Otherwise))
+    (, ,)
+    (NP (DT this))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ great) (JJ little) (NN location) (NNS thats))
+        (SBAR
+          (S
+            (NP (DT a) (NN non))
+            (VP (VBZ starbucks)
+              (NP (NN type) (NN coffee) (NN shop)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Wonderfully))
+      (VP (VBN decorated)
+        (PP (IN with)
+          (NP (JJ local) (NNS artists)))
+        (NP
+          (ADJP (JJ artwork) (, ,) (JJ clean) (, ,) (JJ neat) (, ,) (JJ close))
+          (NN parking))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (NN service))
+      (ADVP (RB so) (RB far))
+      (VP (VBZ has)
+        (VP (VBN been)
+          (ADJP (JJ good)))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (NN aloha))
+    (: :)
+    (NP
+      (NP (JJ great) (NN place) (JJ great) (NN coffee) (NN aaa) (NNS +))
+      (NP
+        (QP (CD +) (CD +))
+        (JJ nice) (JJ folks)
+        (ADJP (RB very) (JJ high))
+        (NN speed) (NN wi) (NN fi)
+        (CC and)
+        (NN wire)))))
+
+

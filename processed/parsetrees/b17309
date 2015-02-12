@@ -1,0 +1,577 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB recently))
+    (VP (VBD flew)
+      (NP (NNP Northwest))
+      (PP (IN from)
+        (NP
+          (NP
+            (NP (NNP Phoenix))
+            (PP (TO to)
+              (NP (NNP Detroit))))
+          (, ,)
+          (ADVP (RB then))
+          (NP
+            (NP (DT a) (JJR smaller) (NN plane))
+            (PP (IN from)
+              (NP (NNP Detroit))))))
+      (PP (TO to)
+        (NP
+          (NP (NNP Pellston))
+          (PRN (-LRB- -LRB-)
+            (NP (NNP northern) (NNP Michigan))
+            (-RRB- -RRB-)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Overall))
+    (, ,)
+    (NP (DT the) (NN flight))
+    (VP (VBD was)
+      (ADJP (RB pretty) (JJ lousy)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's)
+        (ADJP (JJ hard)
+          (S
+            (VP (TO to)
+              (VP (VB make)
+                (NP (CD 5) (NNS hours))
+                (PP (IN in)
+                  (NP
+                    (NP (DT a) (NN plane))
+                    (VP (VBG appealing))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (NNP Northwest))
+      (VP (VBD did) (RB n't)
+        (VP (VB try)
+          (S
+            (VP (TO to)
+              (VP (VB make)
+                (NP
+                  (NP (NNS things))
+                  (ADJP (DT any) (JJR easier)))))))))
+    (. .)))
+
+(ROOT
+  (NP (: -) (JJ No) (NN movie) (. .)))
+
+(ROOT
+  (S
+    (NP (NNP NW) (NNPS Airlines))
+    (ADVP (RB only))
+    (VP (VBZ shows)
+      (NP
+        (NP (NNS films))
+        (PP (IN on)
+          (NP (JJ international) (NNS flights)))))
+    (. .)))
+
+(ROOT
+  (NP (: -) (JJ No) (JJ in-flight) (NN radio) (. .)))
+
+(ROOT
+  (NP (: -) (NNP No) (NNP peanuts) (. .)))
+
+(ROOT
+  (SINV
+    (VP (VBZ Is) (RB n't)
+      (NP (DT that)))
+    (NP
+      (NP (PRP$ our) (NN reward))
+      (PP (IN for)
+        (S
+          (VP (VBG being)
+            (NP (JJ good) (JJ little) (NNS passengers) (NNS ?!?))))))))
+
+(ROOT
+  (NP (: -)
+    (NP
+      (NP (JJ Scarce) (NNS pillows)
+        (CC and)
+        (NNS blankets))
+      (PRN (-LRB- -LRB-)
+        (S
+          (NP (DT this))
+          (VP (VBD was)
+            (ADJP (JJ important)
+              (S
+                (VP (TO to)
+                  (VP (VB note)
+                    (SBAR (IN because)
+                      (S
+                        (NP (DT the) (NN plane))
+                        (VP (VBD was)
+                          (NP (NN soooo) (NN cold)))))))))))
+        (-RRB- -RRB-)))
+    (. .)))
+
+(ROOT
+  (S (: -)
+    (NP (NNP Flight) (NNP Attendents))
+    (VP (VBP use)
+      (S
+        (NP (DT the) (NN intercom))
+        (VP (TO to)
+          (VP (VB try)
+            (CC and)
+            (VB sell)
+            (NP
+              (NP (PRP$ their) (NNS rewards) (NNS progams))
+              (CC and)
+              (NP (JJ special) (NNS deals)))
+            (PP (IN for)
+              (NP (DT the) (NNP SkyMall) (NN cataloge)))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Booo))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP do) (RB n't)
+      (VP (VB want)
+        (S
+          (VP (TO to)
+            (VP (VB hear)
+              (NP
+                (NP (PRP$ your) (NN freakin) (POS '))
+                (JJ sales) (NN pitch)))))))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VB Leave)
+      (NP (PRP me))
+      (PP (IN in)
+        (NP (NN peace))))
+    (. !)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Why))
+    (SQ (VBD did)
+      (NP (PRP I))
+      (VP
+        (ADVP (RB even))
+        (VB give)
+        (NP (PRP them))
+        (NP (CD 2) (NNS stars))))
+    (. ?)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP have)
+        (VP (VBN assigned)
+          (NP
+            (NP (NN seating))
+            (PRN (-LRB- -LRB-)
+              (PP (IN unlike)
+                (NP (NNP SW)))
+              (-RRB- -RRB-))))))
+    (CC and)
+    (S
+      (NP (PRP we))
+      (VP (VBD did) (RB n't)
+        (VP (VB crash)
+          (CC and)
+          (VB die))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The)
+        (ADJP (RBS most) (JJ important))
+        (NN thing))
+      (PP (TO to)
+        (NP (PRP me)))
+      (PP (IN in)
+        (NP (DT an) (NN airline))))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (PRP we))
+          (VP (VBP do) (RB not)
+            (VP (VB fall)
+              (PRT (RP out))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (NN sky))
+                  (PP (IN in)
+                    (NP (DT an) (JJ uncontrolled) (NN fashion))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN After)
+      (NP (DT all)))
+    (NP (NN landing))
+    (VP (VBZ is)
+      (NP (DT a) (JJ controlled) (NN crash)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (IN So) (RB far))
+    (NP (PRP they))
+    (VP (VBP have)
+      (VP (VBN done)
+        (ADVP (RB well))
+        (PP (IN in)
+          (NP (DT this) (NN area)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ seems)
+      (NP
+        (NP (DT each) (NN flight))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP have)
+              (VP (VBN had)
+                (PP (IN with)
+                  (NP
+                    (NP (DT this) (NN airline))
+                    (SBAR
+                      (S
+                        (NP (DT the) (NN seat))
+                        (VP (VBZ is) (RB not)
+                          (VP (VBG working)
+                            (SBAR (IN as)
+                              (S
+                                (NP (PRP it))
+                                (VP (MD should))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP
+      (VP
+        (ADVP (RB always))
+        (VBZ leans)
+        (ADVP (RB back)))
+      (CC and)
+      (VP (MD will) (RB not)
+        (VP (VB set)
+          (ADVP (RB straight)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP One))
+    (VP (VBZ gets)
+      (ADJP (JJ tired)
+        (PP (IN of)
+          (S
+            (VP (VBG telling)
+              (NP (DT the) (NN attendant))
+              (SBAR (IN that)
+                (S
+                  (NP (DT no) (NN I))
+                  (VP (MD can) (RB not)
+                    (VP (VB bring)
+                      (NP (DT the) (NN seat))
+                      (PRT (RP up))
+                      (PP (TO to)
+                        (NP (JJ upright) (NN position))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT This) (JJ last) (NN flight) (NN seat))
+      (VP (VBD was)
+        (ADJP (RB quite) (JJ uncomfortable))))
+    (, ,)
+    (NP (PRP$ my) (NN rump))
+    (VP (VBD was)
+      (VP (VBN sore)
+        (ADVP (RB soon))
+        (SBAR (IN after)
+          (S
+            (NP (PRP we))
+            (VP (VBD took)
+              (PRT (RP off)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP
+        (NP
+          (NP (DT the) (JJ second) (NN thing) (NN past))
+          (VP (VBG crashing)
+            (SBAR (IN that)
+              (S
+                (NP (PRP I))
+                (VP (VBP think)
+                  (SBAR
+                    (S
+                      (NP (DT an) (NN airline))
+                      (VP (MD should)
+                        (VP (VB consider))))))))))
+        (, ,)
+        (NP
+          (NP (NN comfort))
+          (PP (IN of)
+            (NP (DT the) (VBG seating) (NN area))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Arriving)
+        (PRT (RP back))
+        (PP (IN in)
+          (NP (NNP Phoenix) (CD one)))))
+    (VP (VBZ goes)
+      (S
+        (VP (TO to)
+          (VP (VB pick)
+            (PRT (RP up))
+            (NP (DT the) (JJ checked) (NN bag))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP one))
+    (VP
+      (VP (VBZ waits)
+        (CC and)
+        (VBZ waits)
+        (CC and)
+        (VBZ waits)
+        (NP (DT some) (JJR more)))
+      (, ,)
+      (NP
+        (NP (CD two) (JJ other) (NNS flights))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD landed)
+              (SBAR (IN since)
+                (S
+                  (NP (PRP we))
+                  (VP (VBD arrived)
+                    (SBAR
+                      (S
+                        (VP (VBP have)
+                          (VP (VBN come)
+                            (CC and)
+                            (VBN gone)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN bunch))
+      (PP (IN of)
+        (NP
+          (ADJP (RB grumpy) (VBN tired))
+          (NNS travelers))))
+    (VP (VBZ is) (RB not)
+      (NP
+        (NP (DT a) (JJ pretty) (NN sight))
+        (PP (TO to)
+          (NP
+            (NP
+              (NP (NN behold))
+              (, ,)
+              (NP
+                (NP (NNP Luckily))
+                (SBAR
+                  (S
+                    (NP (PRP they))
+                    (ADVP (RB only))
+                    (VP (VBD had)
+                      (S
+                        (VP (TO to)
+                          (VP (VB look)
+                            (PRT (RP over))
+                            (PP (IN at)
+                              (NP (PRP me))))))
+                      (S
+                        (VP (TO to)
+                          (VP (VB see)
+                            (NP
+                              (NP (DT the) (NN face))
+                              (PP (IN of)
+                                (NP (NN calm)
+                                  (CC and)
+                                  (NN patience) (NNS ;-{)))))))))))
+              (-RRB- -RRB-))
+            (SBAR
+              (S
+                (NP (PRP We))
+                (ADVP (RB finally))
+                (VP (VBD got)
+                  (NP (NN home))
+                  (PP (IN at)
+                    (NP (CD 12:01) (RB am)))
+                  (PP (IN after)
+                    (NP
+                      (NP (NN landing))
+                      (PP (IN at)
+                        (NP (CD 10:40) (RB p.m.))))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (ADVP (RB hey))
+    (NP (PRP we))
+    (VP (VBD did) (RB not)
+      (VP (VB crash)
+        (SBAR (IN so)
+          (S
+            (NP (PRP they))
+            (VP (VBP are)
+              (VP (VBG A-OK)
+                (PP (IN with)
+                  (NP (PRP me)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Oh)
+      (CC and)
+      (PRP we))
+    (VP (VBP know)
+      (SBAR
+        (S
+          (NP (NNS airlines))
+          (VP (VBP do) (RB not)
+            (VP (VB pamper)
+              (ADVP (RB anymore))
+              (, ,)
+              (ADVP (RB well)
+                (SBAR (IN unless)
+                  (S
+                    (NP (PRP we))
+                    (VP (VBP are)
+                      (PP (IN on)
+                        (NP (DT an) (JJ international) (NN flight))))))))))))
+    (. .)))
+
+(ROOT
+  (S (IN So)
+    (NP (PRP we))
+    (VP (VBP know)
+      (S
+        (VP (TO to)
+          (VP (VB take)
+            (SBAR
+              (WHNP (WP what))
+              (S
+                (NP (PRP we))
+                (VP (VBP need)
+                  (S
+                    (VP (TO to)
+                      (VP (VB keep)
+                        (S
+                          (NP (PRP us))
+                          (ADJP (JJ happy)
+                            (PP (IN in)
+                              (NP (DT the) (NN air)))))))))))))))
+    (. .)))
+
+
+(ROOT
+  (NP (JJ Bad) (NN service) (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Noisy))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Plane))
+    (VP (VBZ is) (RB not)
+      (VP (VBN maintained)
+        (S
+          (ADJP (JJ clean)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP do) (RB not)
+        (VP (VB prep)
+          (S
+            (NP (DT the) (NN plane))
+            (ADJP (RB well) (RB mechanically))
+            (ADVP (RB thus))))))
+    (NP (PRP$ our) (NN flight))
+    (VP (VBD broke)
+      (PRT (RP down))
+      (PP (IN in)
+        (NP (NNP Tokyo))))
+    (. .)))
+
+(ROOT
+  (NP (FW Wonderful) (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (ADVP (DT all))
+    (VP (VBD had)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (VP (VBN bussed)
+              (PP (TO to)
+                (NP
+                  (NP (DT the) (NN middle))
+                  (PP (IN of)
+                    (NP (RB nowhere)))))
+              (PP (IN in)
+                (NP (NNP Japan)))))))
+      (SBAR
+        (WHADVP (WRB where))
+        (S
+          (NP
+            (NP (DT all) (NNS forms))
+            (PP (IN of)
+              (NP (NN communication))))
+          (VP (VBD were)
+            (VP (VBN severed)
+              (NP (NN w))
+              (S
+                (VP (VBG /)
+                  (NP (PRP$ our) (NNS families)))))))))
+    (. .)))
+
+(ROOT
+  (PRN (-LRB- -LRB-)
+    (S
+      (NP (PRP we))
+      (VP (VBZ passnegers)
+        (SBAR
+          (S
+            (VP (VBD had)
+              (NP (DT no) (JJ local) (NN currency)))))))
+    (-RRB- -RRB-)))
+
+

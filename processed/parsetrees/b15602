@@ -1,0 +1,171 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD needed)
+      (S
+        (VP (TO to)
+          (VP (VB stop)
+            (PP (IN at)
+              (NP (DT the) (NNP ATM)))
+            (NP (JJ last) (NN night))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is) (RB not)
+      (PP
+        (PP (IN inside)
+          (NP (DT the) (NNP Lucky) (NNP Center)))
+        (CONJP (CC but)
+          (RB rather))
+        (PP (IN along)
+          (NP (NNP Trop)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBD was)
+        (ADJP (JJ easy))
+        (ADVP (IN in)
+          (CC and)
+          (IN out))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (PP (IN on)
+          (NP (PRP$ my) (NN way)))
+        (ADVP (RB quickly))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX there))
+    (VP (VBZ 's) (RB not)
+      (ADJP (RB much) (JJ else)
+        (S
+          (VP (TO to)
+            (VP (VB review)
+              (PP (IN about)
+                (NP (DT an) (NNP ATM) (NN machine))))))))
+    (. .)))
+
+
+(ROOT
+  (FRAG
+    (ADVP (RB Its))
+    (NP (DT a) (NN bank) (. .))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJS Most))
+      (PP (IN of)
+        (NP (DT the)
+          (NX (NNS tellers)))))
+    (VP (VBP are)
+      (ADJP (JJ friendly)
+        (SBAR
+          (S
+            (NP (PRP they))
+            (VP (VBP get)
+              (NP (PRP you))
+              (ADVP (IN in)
+                (CC and)
+                (IN out)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Get)
+      (NP
+        (NP (DT any) (NNS questions))
+        (VP (VBN answered))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Tons))
+      (PP (IN of)
+        (NP
+          (NP (NNP Wells) (NNP Fargos))
+          (PP (IN in)
+            (NP
+              (NP (DT the) (NN area))
+              (PP (CC but)
+                (NP (DT this))))))))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the)
+          (QP (RB only) (CD one)))
+        (ADJP
+          (ADJP
+            (ADJP (JJ open)
+              (PP (IN on)
+                (NP (NNP Sundays))))
+            (PRN (-LRB- -LRB-)
+              (NP (CD 11-5))
+              (-RRB- -RRB-)))
+          (CC and)
+          (ADJP (RB open) (JJ late))))
+      (PP (IN till)
+        (NP (JJ 7pm) (NN mon-sat))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT These))
+    (VP (VBP are)
+      (NP
+        (NP (DT the) (NNP Vegas) (NNS conveniences))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (ADVP (RB really))
+            (VP (VBD missed)
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (PRP I))
+                  (VP (VBD moved)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's)
+        (NP (DT a) (JJ small))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (JJ full) (NN service) (NN branch))
+      (VP (VBP nside)
+        (NP (DT an) (NNS albertsons))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Pretty)
+      (NP (JJ long) (NNS lines))
+      (PP (IN on)
+        (NP (DT a) (NNP Sunday)))
+      (, ,)
+      (SBAR (CC but)
+        (S
+          (NP (PRP$ my) (NN teller))
+          (VP (VBD was)
+            (ADJP
+              (ADJP (JJ quick))
+              (, ,)
+              (ADJP (JJ friendly))
+              (CC and)
+              (ADJP (RB super) (JJ helpful)))))))))
+
+

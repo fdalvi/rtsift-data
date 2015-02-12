@@ -1,0 +1,261 @@
+(ROOT
+  (S
+    (SBAR (IN As)
+      (S
+        (NP (NN snack) (NNS kiosks))
+        (VP (VBP go))))
+    (, ,)
+    (NP
+      (NP (DT the) (NNP Circle) (NNP K))
+      (PP (IN on)
+        (NP (NNP McDowell))))
+    (VP (VBZ is)
+      (ADJP (RB pretty) (JJ top))
+      (S
+        (VP (VB notch))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (RB So) (JJ many) (NNP Circle) (NNP Ks))
+      (VP (VBD let)
+        (SBAR
+          (S
+            (NP (DT the) (JJ hot) (NN food))
+            (VP (VBP sit)
+              (PRT (RP out))
+              (ADVP (RB forever)))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (MD can)
+        (ADVP (RB always))
+        (VP (VB get)
+          (NP (DT a) (JJ fresh) (NNP Diamondback) (NN Dog)
+            (CC or)
+            (NN Rib) (NN sandwich)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS people))
+    (ADVP (RB there))
+    (VP (VBP are)
+      (ADJP (JJ great)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Friendly) (NN staff))
+    (, ,)
+    (ADVP (CC but))
+    (VP (VBP wish)
+      (S
+        (NP (PRP they))
+        (VP (VB keep)
+          (S
+            (NP (DT the) (NN store))
+            (ADJP
+              (NP (DT a) (RB little))
+              (JJR cleaner))))))
+    (. .)))
+
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Why))
+    (SQ
+      (VP (VBP talk)
+        (PP (IN about)
+          (NP
+            (NP (DT a) (NN gas) (NN station))
+            (PP (IN on)
+              (NP (NN yelp)))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD dunno) (: ...)
+      (SQ (VBZ Is)
+        (NP (PRP it))
+        (PP (IN in)
+          (NP (DT a) (JJ convenient) (NN location)))))
+    (. ?)))
+
+(ROOT
+  (S
+    (INTJ (UH Yes))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (PP (IN like) (IN in)
+        (NP
+          (NP (DT the) (NN middle))
+          (PP (IN of)
+            (NP
+              (NP (NNP Galvin))
+              (PP (IN on)
+                (NP (DT the) (NN way)))))))
+      (PP (IN in)
+        (PP (TO to)
+          (NP (NNP Scottsdale)))))
+    (. .)))
+
+(ROOT
+  (SQ (VBZ Is)
+    (NP (PRP it))
+    (NP (JJ spic) (NN 'n) (NN span))
+    (. ?)))
+
+(ROOT
+  (S
+    (INTJ (UH No))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (NP (DT a) (NN gas) (NN station)))
+    (. .)))
+
+(ROOT
+  (SQ (VBP Do)
+    (NP (PRP they))
+    (VP (VB have)
+      (NP (DT a) (NN beer) (NN cave)))
+    (. ?)))
+
+(ROOT
+  (S
+    (INTJ (UH Yes))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (NP
+        (NP (RB just) (RB as) (JJ glorious))
+        (PP (IN as)
+          (NP (DT any) (JJ other)))))
+    (. .)))
+
+(ROOT
+  (SQ (VBZ Is)
+    (NP (PRP it))
+    (VP
+      (ADVP (RB over))
+      (VBN run)
+      (PP (IN with)
+        (NP (JJ homeless) (NNS people))))
+    (. ?)))
+
+(ROOT
+  (S
+    (INTJ (UH Nope))
+    (, ,)
+    (NP (PRP you))
+    (VP (MD should)
+      (VP (VB feel)
+        (ADJP (RB as) (JJ comfortable))
+        (SBAR (IN as)
+          (S
+            (NP (PRP one))
+            (VP (MD can)
+              (PP (IN at)
+                (NP (DT a) (NN gas) (NN station))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP stop)
+        (ADVP (RB here) (RB pretty) (RB regularly))
+        (S
+          (VP (VBG being)
+            (SBAR (IN that)
+              (S
+                (NP (PRP it))
+                (VP (VBZ 's)
+                  (PP (IN on)
+                    (NP
+                      (NP (DT the) (NN way) (NN home))
+                      (PP (IN from)
+                        (NP (NN work))))))))))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP have)
+      (NP (NN gas)
+        (CC and)
+        (NN beer)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Good) (NN enough))
+    (PP (IN for)
+      (NP (PRP me)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP Have)
+      (VP (VBN been)
+        (VP (VBG going)
+          (PP (IN into)
+            (NP
+              (NP (DT this) (NN circle) (NN k) (NN store))
+              (PP (IN for)
+                (NP
+                  (NP (NNS years))
+                  (, ,)
+                  (NP
+                    (NP (DT The) (NNS people))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP (VBP work)
+                          (SBAR
+                            (S
+                              (NP (EX there))
+                              (VP (VBP are)
+                                (ADVP (RB so))
+                                (NP
+                                  (NP (NN fun))
+                                  (, ,) (RB especially)
+                                  (NP (NNP Betty)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP She))
+      (VP (VBZ makes)
+        (NP (PRP$ my) (NN day))))
+    (CC and)
+    (S
+      (NP
+        (NP (DT the) (NN rest))
+        (PP (IN of)
+          (NP (DT the) (NN staff))))
+      (VP (VBP are) (RB all)
+        (ADJP (JJ great))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN store))
+      (VP (VBZ is)
+        (ADJP (JJ clean))))
+    (CC and)
+    (S
+      (NP (RB outside))
+      (VP (VBZ is)
+        (ADJP (RB always) (JJ clean))
+        (ADVP (RB also))))
+    (. .)))
+
+

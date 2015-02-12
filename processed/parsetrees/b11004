@@ -1,0 +1,452 @@
+(ROOT
+  (SQ (VBZ Is)
+    (NP (PRP it))
+    (ADVP (RB cloudy))
+    (. ?)))
+
+(ROOT
+  (SQ (VBZ Is)
+    (NP (PRP it))
+    (ADJP (JJ green))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (FRAG
+      (ADJP (JJ Worried)
+        (PP (IN about)
+          (NP (NNS things))))
+      (ADJP (JJ growing)))
+    (: ...)
+    (FRAG
+      (ADJP (JJ unseen))
+      (. ?))))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Paying)
+        (NP
+          (NP (DT a) (NN service))
+          (PP (IN for)
+            (NP (PRP$ your) (NN pool))))))
+    (, ,) (IN but)
+    (S
+      (NP (PRP you))
+      (VP (VBP feel)
+        (PP (IN like)
+          (NP (DT a) (NN fool)))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJS best) (NN test))
+      (PP (IN for)
+        (NP (PRP me))))
+    (, ,)
+    (VP (VBZ is)
+      (NP
+        (NP (NNP Leslie))
+        (SBAR
+          (S
+            (VP (VBZ 's)
+              (SBAR
+                (S (-LRB- -LRB-)
+                  (NP (PRP$ its))
+                  (VP (VBP free)))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB -RRB-))
+      (NP (PRP They))
+      (VP (MD 'll)
+        (VP (VB go)
+          (PP (IN through)
+            (NP (DT the) (NNS motions)))
+          (S
+            (VP (TO to)
+              (VP (VB sell)
+                (NP (PRP you))
+                (NP (PRP$ their) (NNS potions))))))))
+    (, ,)
+    (CC But)
+    (S
+      (S
+        (NP (PRP you))
+        (VP (MD 'll)
+          (ADVP (IN at) (JJS least))
+          (VP (VB be)
+            (NP (DT the) (NN wiser)))))
+      (, ,)
+      (CC and)
+      (S
+        (S
+          (SBAR (IN if)
+            (S
+              (NP (PRP you))
+              (VP (VBP 're)
+                (NP (DT a) (NN miser)))))
+          (, ,)
+          (NP (PRP You))
+          (VP (MD can)
+            (VP (VB get)
+              (S
+                (NP (DT the) (JJ same) (NN stuff))
+                (ADJP (JJR cheaper)))
+              (PP (IN at)
+                (NP (DT any) (JJ big) (NN box)
+                  (CC or)
+                  (NN grocery) (NN store))))))
+        (, ,)
+        (CC or)
+        (S
+          (NP (PRP you))
+          (VP (MD can)
+            (VP
+              (VP (VB confront)
+                (NP (DT that) (JJ questionable) (NN pool) (NN company))
+                (PP (IN with)
+                  (NP
+                    (NP (PRP$ their) (NN printout))
+                    (VP (VBG showing)
+                      (SBAR
+                        (WHADJP (RB exactly) (WP what))
+                        (S
+                          (NP (PRP they))
+                          (VP (VBP 've)
+                            (VP (VBN put)
+                              (PP (IN in)
+                                (NP (DT the) (NN water))))))))))
+                (SBAR (IN that)
+                  (S
+                    (NP (PRP you))
+                    (VP (VBP let)
+                      (NP (PRP$ your) (NNS kids))))))
+              (, ,)
+              (VP (VB play))
+              (, ,)
+              (VP (VB splash))
+              (, ,)
+              (CC and)
+              (VP
+                (ADVP (RB ultimately))
+                (VB drink)
+                (NP
+                  (NP (RB too) (RB much))
+                  (PP (IN of)
+                    (NP
+                      (SBAR (IN as)
+                        (S
+                          (NP (PRP they))
+                          (VP (VBP play)
+                            (NP (FW marco) (FW ...) (FW pollo)))))
+                      (: ...)
+                      (NP (NNP FISH) (NNP OUTA) (NNP WATER)))))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Whew))
+      (: ...)
+      (NP
+        (NP (NNP Bottom) (NN line))
+        (: ...)
+        (S
+          (NP (NNP Leslie) (POS 's))
+          (VP (MD will)
+            (VP
+              (VP (VB test)
+                (PP (IN for)
+                  (ADJP (JJ free))))
+              (CC and)
+              (VP (VB tell)
+                (NP (PRP you))
+                (SBAR
+                  (WHNP (WP what))
+                  (S
+                    (VP (TO to)
+                      (VP (VB get))))))))))
+      (, ,))
+    (ADVP (RB just))
+    (VP (VBP go)
+      (ADVP (RB elsewhere))
+      (S
+        (VP (TO to)
+          (VP (VB get)
+            (S
+              (NP (PRP it))
+              (ADJP (JJR cheaper)))))))
+    (. .)))
+
+
+(ROOT
+  (FRAG (RB Not)
+    (ADJP (RB too) (JJ bad))
+    (. .)))
+
+(ROOT
+  (S
+    (INTJ (JJ Good))
+    (VP (VB price)
+      (PP (IN on)
+        (NP (DT the) (JJ super) (NN shock))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Biggest) (NNP RIP) (NNP OFF))
+    (VP (VBP store)
+      (PP (IN in)
+        (NP (NNP Vegas))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Store))
+      (VP (VBZ sells)
+        (NP
+          (NP (NN part))
+          (PP (IN for)
+            (NP (CD 31.29))))))
+    (, ,)
+    (NP (NN web) (NN site))
+    (VP (VBZ says)
+      (NP (CD 13.19)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VP (VB Call))
+      (CC and)
+      (VP (VB talk)
+        (PP (TO to)
+          (NP (NN mgr)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S (CC and)
+      (NP (PRP he))
+      (VP (VBZ says)
+        (SBAR
+          (S
+            (NP (PRP he))
+            (VP (MD 'll)
+              (VP (VB match)
+                (NP (PRP it))))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP ask)
+        (SBAR (IN if)
+          (S
+            (S
+              (NP (PRP I))
+              (VP (MD should)
+                (VP (VB bring)
+                  (NP (DT the) (NN part))
+                  (PP (IN in)))))
+            (CC and)
+            (S
+              (NP (PRP he))
+              (VP (VBZ says)
+                (NP (RB no))))))))
+    (. .)))
+
+(ROOT
+  (S (CC So)
+    (S
+      (NP (PRP I))
+      (VP (VBD put)
+        (PP (IN in)
+          (NP (DT the) (NN part)))))
+    (CC and)
+    (S
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP I))
+          (VP (VB return)
+            (PP (IN for)
+              (NP (DT the) (NN refund))))))
+      (NP (PRP he))
+      (VP (VBZ says)
+        (SBAR
+          (S
+            (NP (DT no) (NN I))
+            (VP (VBD sold)
+              (S
+                (NP (PRP you))
+                (NP
+                  (NP (DT the) (JJ manufactures) (NN part))
+                  (CC and)
+                  (NP (RB not) (JJ theirs)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Basic))
+    (VP (VBP bait)
+      (CC and)
+      (VBP switch))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (MD 'll)
+      (ADVP (RB Never))
+      (VP (VB shop)
+        (ADVP (RB there))
+        (ADVP (RB again))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP NPS))
+    (PP (IN from)
+      (NP (RB now)))
+    (PP (IN on))))
+
+
+(ROOT
+  (S
+    (VP (VB Went)
+      (PP (IN in)
+        (S
+          (VP
+            (ADVP (RB already))
+            (VBG having)
+            (VP
+              (VP (VBN worked)
+                (PP (IN for)
+                  (NP (DT a) (NNP Leslie) (POS 's)))
+                (PP (IN in)
+                  (NP (DT the) (NN past))))
+              (CC but)
+              (VP (VBN forgot)
+                (PP (IN about)
+                  (NP
+                    (NP (DT some))
+                    (PP (IN of)
+                      (NP (DT the) (JJ different) (NNS products)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD needed)
+      (NP
+        (NP (DT a) (NN shock))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (MD would)
+              (VP
+                (VP (VB remove)
+                  (S
+                    (NP (DT all))
+                    (NP (DT the) (`` ``)
+                      (VP (VBN used))
+                      ('' '') (NN chlorine))))
+                (CC and)
+                (VP (VB leave)
+                  (NP (PDT all) (DT the) (JJ free) (NN chlorine))
+                  (PP (IN in)
+                    (NP (DT the) (NN pool))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (RB Only) (CD one) (NN kid))
+    (VP (VBD was)
+      (VP (VBG working)
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP
+              (VP (VBD did) (RB n't)
+                (VP (VB seem)
+                  (S
+                    (VP (TO to)
+                      (VP (VB know)
+                        (NP (NN anything))
+                        (PP (IN about)
+                          (NP (PRP it))))))))
+              (CC and)
+              (VP (VBD was)
+                (VP (VBG arguing)
+                  (PP (IN with)
+                    (S
+                      (NP (PRP me))
+                      (VP (VBG saying)
+                        (SBAR (IN that)
+                          (S
+                            (SBAR
+                              (WHNP (WP what))
+                              (S
+                                (NP (PRP I))
+                                (VP (VBD was)
+                                  (VP (VBG saying)))))
+                            (VP (VBD was) (RB not)
+                              (ADJP (JJ true)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S (IN So)
+    (NP (PRP I))
+    (VP
+      (VP (VBD went)
+        (PRT (RP down))
+        (S
+          (VP (TO to)
+            (VP (VB nps)
+              (PRT (RP across))
+              (NP
+                (NP (DT the) (NN street))
+                (PRN (-LRB- -LRB-)
+                  (VP
+                    (ADVP (RB fully))
+                    (VBN staffed))
+                  (-RRB- -RRB-))
+                (CC and)
+                (NP
+                  (NP (DT the) (JJ first) (NN guy))
+                  (SBAR
+                    (S
+                      (NP (PRP I))
+                      (VP (VBD talked)
+                        (S
+                          (VP (TO to)
+                            (VP (VBD was)
+                              (ADJP (RB very) (JJ knowledgable))))))))))))))
+      (CC and)
+      (VP (VBD helped)
+        (NP (PRP me))
+        (PRT (RP out))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Leslie) (POS 's))
+    (VP (VBZ needs)
+      (NP (NNS professionals)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (RB Not) (JJ low))
+    (VP (VBD paid)
+      (NP (NNS kids))
+      (PP (IN with)
+        (NP (DT no) (NN knowledge))))
+    (. .)))
+
+

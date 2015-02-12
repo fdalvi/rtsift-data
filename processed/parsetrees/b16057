@@ -1,0 +1,94 @@
+(ROOT
+  (FRAG
+    (ADVP (RB Just))
+    (SBAR (IN like)
+      (S
+        (NP (DT the) (NN rating))
+        (VP (VBZ says)
+          (S (`` ``)
+            (NP (NNP Woohoo))))))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB As) (RB good))
+    (SBAR (IN as)
+      (S
+        (NP (PRP it))
+        (VP (VBZ gets))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (NNP Gary))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ compassionate) (NN therapist))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBZ takes)
+              (NP (DT the) (NN time)
+                (S
+                  (VP (TO to)
+                    (VP (VB get)
+                      (S
+                        (VP (TO to)
+                          (VP (VB know)
+                            (NP (PRP you))
+                            (PP (IN as)
+                              (NP (DT an) (NN individual)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ His) (JJ genuine) (NN nature))
+    (VP (VBZ helps)
+      (SBAR
+        (S
+          (NP (PRP you))
+          (VP (VBP feel)
+            (ADJP (JJ safe))
+            (PP (IN in)
+              (NP (DT the) (JJ therapeutic) (NN environment)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VP (VBZ has)
+        (NP (JJ incredible) (NN insight)))
+      (CC and)
+      (VP (VBZ helps)
+        (S
+          (NP (PRP you))
+          (VP (TO to)
+            (VP (VB understand)
+              (NP (PRP yourself))
+              (PP (IN in)
+                (NP
+                  (ADJP
+                    (ADJP (JJ new))
+                    (CC and)
+                    (ADJP (RBR more) (JJ meaningful)))
+                  (NNS ways))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Working))
+      (PP (IN with)
+        (NP (NNP Gary))))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN collaborative))
+        (CC &)
+        (S
+          (VP (VBG fulfilling)
+            (NP (NN experience))))))
+    (. .)))
+
+

@@ -1,0 +1,71 @@
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP do) (RB n't)
+      (VP (VB accept)
+        (NP
+          (NP (NNP Arby) (POS 's))
+          (NN gift) (NNS cards))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Shame)
+      (PP (IN on)
+        (NP (PRP them))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Roast) (NNP Beef) (NNP Sandwich))
+      (PP (IN on)
+        (NP
+          (NP
+            (NP (NNP King) (POS 's))
+            (JJ Hawaiian) (NN Roll))
+          (PP (IN with)
+            (NP (JJ swiss) (NN cheese)
+              (CC and)
+              (NNS pickles))))))
+    (VP (VBZ is)
+      (ADJP (JJ delicious)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB However))
+    (, ,)
+    (NP (PRP it))
+    (VP (MD will)
+      (VP (VB run)
+        (S
+          (NP (PRP you))
+          (NP
+            (NP ($ $) (CD 6.50))
+            (PP (IN for)
+              (NP (DT a) (JJ fast) (NN food) (NN sandwich)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Jr.) (. .) (NNP Chicken) (NNP sandwich))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN hit))
+        (PP (IN with)
+          (NP (PRP$ my) (NN daughter)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Fries))
+      (CC &)
+      (NP (JJ curly) (NNS fries)))
+    (VP (VBP are) (RB not)
+      (ADJP (JJ good)))
+    (. .)))
+
+

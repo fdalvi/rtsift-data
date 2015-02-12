@@ -1,0 +1,439 @@
+(ROOT
+  (S
+    (VP (VB Went)
+      (PP (TO to)
+        (NP (NNP Bakery) (NNP King)))
+      (NP (DT this) (NN morning))
+      (PP (IN for)
+        (NP (NNS donuts))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD were)
+      (NP (JJ perfect) (NNS donuts)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (NN Substantial)
+        (CC and)
+        (NN tender))
+      (, ,)
+      (ADJP
+        (ADJP (RB not) (RB too) (JJ sweet))
+        (, ,)
+        (CC and)
+        (ADJP (RB pretty) (JJ big))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP are)
+      (PP (IN like)
+        (NP
+          (QP (CD 1.5) (NNS times))
+          (JJ normal-size) (NNS donuts))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD got)
+        (NP (DT a)
+          (ADJP (NN vanilla))
+          (JJ iced) (NN donut))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBD was)
+      (ADJP (JJ great)))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP have)
+      (NP
+        (NP (RB quite) (RB possibly) (DT the) (JJS best) (NN boston) (NN cream) (NN donut))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP 've)
+              (ADVP (RB ever))
+              (VP (VBD had)
+                (S
+                  (S
+                    (NP (-LRB- -LRB-) (NN well) (, ,) (JJ my) (NNS husbad))
+                    (VP (VBD had)))
+                  (CC and)
+                  (S
+                    (NP (PRP I))
+                    (VP (VBD stole))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG -RRB-)
+        (NP (RB Not)
+          (ADJP (RB too) (JJ sweet))
+          (NN filling)
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBD tasted)
+                (NP (NN homemade))
+                (PP (IN with)
+                  (NP (JJ real) (NNS ingredients)))
+                (, ,)
+                (PP (IN with)
+                  (NP
+                    (NP (RB not) (RB too) (JJ strong/fake))
+                    (ADJP (RB chocolatey) (VBG frosting))))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBD was)
+      (ADJP (JJ perfect)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP hate)
+        (NP (JJ boston) (NN cream) (NNS donuts))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP$ their) (NNS 's))
+      (VP (VBZ is)
+        (ADJP (JJ fantastic))))
+    (. .)))
+
+(ROOT
+  (S
+    (S (CC And)
+      (NP (PRP it))
+      (VP (VBD was)
+        (ADJP (JJ cheap))))
+    (: -)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (PP (IN like)
+          (NP
+            (NP ($ $) (CD 3.50))
+            (PP (IN for)
+              (NP (CD 3) (JJ big) (NNS donuts)))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (ADJP (JJ Kind))
+    (PP (IN of)
+      (NP (JJ confusing) (NN store) (NN front)))
+    (, ,)
+    (VP (VBD did) (RB n't)
+      (VP (VB seem)
+        (SBAR (IN like)
+          (S
+            (NP (PRP they))
+            (VP (VBD were)
+              (VP (VBN geared)
+                (PP (IN towards)
+                  (NP (DT the) (JJ individual) (NN customer)))
+                (, ,)
+                (PP (IN with)
+                  (NP (DT no) (NNS tables)
+                    (CC and)
+                    (NN gas) (JJ station-style) (NN coffee) (NN machine)))
+                (, ,)))))))
+    (NP
+      (NP (NN sugar) (NNS packets))
+      (, ,)
+      (NP
+        (NP (JJ non-dairy) (NN creamer))
+        (: -)
+        (S
+          (NP (PRP we))
+          (VP (VBD passed)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (MD should)
+        (VP (VB be)
+          (ADJP (JJ glad)
+            (SBAR
+              (S
+                (NP (PRP they))
+                (VP (VBD did) (RB n't)
+                  (VP (VB have)
+                    (NP
+                      (NP (DT an) (NN espresso) (NN machine))
+                      (CC or)
+                      (NP (JJR fancier) (NNS coffees)))))))))))
+    (, ,)
+    (ADVP (RB otherwise))
+    (S
+      (NP (PRP I))
+      (VP (MD 'd)
+        (ADVP (RB probably))
+        (VP (VB have)
+          (NP (NNS donuts))
+          (PP (IN from)
+            (NP (RB here)))
+          (PP (IN for)
+            (NP (NN breakfast)))
+          (PP (IN for)
+            (NP
+              (NP (DT the) (NN rest))
+              (PP (IN of)
+                (NP (PRP$ my) (NN life))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Conclusion))
+    (: :)
+    (NP
+      (NP (JJ Get) (NNS donuts))
+      (PP (IN from)
+        (NP (RB here))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Grab)
+      (NP
+        (NP (NN coffee))
+        (PP (IN from)
+          (NP (NNP Sunrise))))
+      (ADVP (RB just))
+      (PP (IN down)
+        (NP (DT the) (NN street))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (VP
+      (ADVP (RB definitely))
+      (VB get)
+      (NP
+        (NP (NNS donuts))
+        (PP (IN from)
+          (NP (RB here)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT The) (NNS doughnuts))
+    (VP (VBD were)
+      (ADJP (JJ great)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ wonderful) (NN lady))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBD assisted)
+            (NP (PRP me))))))
+    (VP (VBD was)
+      (ADJP (RB very) (JJ kind)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (JJ commercial) (NN bakery))
+    (VP (VBD was)
+      (VP
+        (VP
+          (ADVP (RB recently))
+          (VBN relocated))
+        (CC and)
+        (PRN (, ,)
+          (PP (IN in)
+            (NP (DT the) (NN process)))
+          (, ,))
+        (VP (VBD opened)
+          (NP (DT a) (JJ small) (JJ retail) (NN outlet)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The)
+          (ADJP (RB long) (VBN established))
+          (JJ commercial) (NN side))
+        (PP (IN of)
+          (NP (DT the) (NN bakery))))
+      (VP (VBZ supplies)
+        (NP
+          (NP (NNP Mandalay) (NNP Bay))
+          (, ,)
+          (NP (NNP Luxor))
+          (CC and)
+          (NP (NNP Hilton) (NNP Grand) (NNPS Vacations)))
+        (PP (IN with)
+          (NP (JJ baked) (NNS goods)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ seems)
+        (SBAR
+          (S
+            (NP (DT the) (JJ retail) (NN end))
+            (VP (VBD was)
+              (NP
+                (NP (DT an)
+                  (ADJP (IN after))
+                  (NN thought))
+                (SBAR (IN as)
+                  (S
+                    (NP (PRP it))
+                    (VP (VBZ is)
+                      (ADVP (RB poorly))
+                      (VP (VBN set)
+                        (PRT (RP up))
+                        (PP (IN with)
+                          (NP
+                            (NP (DT no) (NNS tables))
+                            (CC and)
+                            (NP
+                              (QP (RB only) (DT a) (JJ few))
+                              (JJ upholstered) (NNS chairs))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (JJ special))
+      (PP (IN of)
+        (NP
+          (NP (DT a) (NN coffee)
+            (CC and)
+            (NN choice))
+          (PP (IN of)
+            (NP (DT any) (JJ baked) (NN good))))))
+    (VP (VBD was)
+      (VP (VBG being)
+        (VP (VBN offered)
+          (PP (IN for)
+            (NP ($ $) (CD 1.50))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP do) (RB n't)
+        (VP (VB drink)
+          (NP (NN coffee)
+            (CC or)
+            (NN tea))
+          (SBAR (IN so)
+            (S
+              (NP (PRP I))
+              (VP (VBD was)
+                (VP (VBG planning)
+                  (PP (IN on)
+                    (S
+                      (VP (VBG ordering)
+                        (NP (RB just) (DT a) (NN donut))))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT the) (NN clerk))
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP she))
+            (VP (MD could)
+              (VP (VB substitute)
+                (NP (NN milk))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD ended)
+      (PRT (RP up))
+      (S
+        (VP (VBG sharing)
+          (NP (DT a) (NN cheese) (JJ Danish)
+            (CC and)
+            (JJ old) (NNS fashioned) (NN donut))
+          (PP (IN with)
+            (S
+              (NP (DT both))
+              (VP (VBG being)
+                (ADJP (RB pretty) (JJ ordinary))))))))))
+
+
+(ROOT
+  (NP
+    (S
+      (S
+        (VP (VBN Tried)
+          (S
+            (VP (TO to)
+              (VP (VB go)
+                (ADVP (RB here))
+                (NP (DT this) (NN morning)))))
+          (PP (IN with)
+            (NP
+              (NP (NNS directions))
+              (PP (IN from)
+                (NP (NNP GoogleMaps)))))))
+      (CC and)
+      (S
+        (NP (PRP it))
+        (VP (VBD was)
+          (ADVP (RB nowhere))
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (VP (VBN found)
+                  (S (: ...)
+                    (S
+                      (NP (PRP I))
+                      (VP (VBD drove)
+                        (PP (IN around)
+                          (NP (DT the) (NN parking) (NN lot)))
+                        (PP (IN for)
+                          (NP
+                            (NP (CD 10) (NNS mins))
+                            (VP (VBG looking))))))
+                    (: ...)
+                    (S
+                      (ADVP (RB maybe))
+                      (NP (PRP I))
+                      (VP (VBD missed)
+                        (SBAR
+                          (S
+                            (NP (PRP it))
+                            (VP (VBZ ??))))))))))))))))
+
+(ROOT
+  (S
+    (ADVP (RB Not) (RB sure))
+    (ADVP (WRB how))
+    (VP (VBZ thats)
+      (ADJP (JJ possible)))
+    (: ...)))
+
+

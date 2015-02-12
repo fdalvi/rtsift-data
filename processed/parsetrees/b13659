@@ -1,0 +1,351 @@
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (MD can)
+      (NP (PRP I))
+      (VP
+        (VP (VB say) (, ,)
+          (SBAR
+            (S
+              (NP (DT this) (NN place))
+              (VP (VBZ is)
+                (NP (DT an) (NNPS Albertsons))))))
+        (: ...)
+        (VP (VB Definitely)
+          (NP
+            (NP
+              (NP (RB not) (JJ high-end))
+              (PP (IN like)
+                (NP (JJ Whole) (NNPS Foods))))
+            (, ,)
+            (CONJP (CC but)
+              (RB not))
+            (NP
+              (NP (NN bottom))
+              (PP (IN of)
+                (NP (DT the) (NN barrel)))))
+          (ADVP (RB either)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (UCP
+        (ADVP (RB always))
+        (ADJP (JJ clean))
+        (, ,)
+        (ADJP (JJ bright))
+        (, ,)
+        (CC and)
+        (NP (JJ organized))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN selection))
+      (VP (VBZ is)
+        (ADJP (JJ vast))))
+    (, ,)
+    (CC and)
+    (S
+      (SBAR (IN since)
+        (S
+          (NP (PRP I))
+          (VP (VBP 've)
+            (VP (VBN seen)
+              (NP (NNS things))
+              (PP (IN behind)
+                (NP (DT the) (NNS scenes)))))))
+      (, ,)
+      (NP (PRP I))
+      (VP (VBP know)
+        (SBAR
+          (S
+            (NP (PRP they))
+            (VP (VBP work)
+              (ADJP (JJ hard)
+                (S
+                  (VP (TO to)
+                    (VP (VB keep)
+                      (NP (JJ only)
+                        (ADJP (JJ fresh)
+                          (CC and)
+                          (JJ undamaged))
+                        (NN food))
+                      (PP (IN on)
+                        (NP (DT the) (NNS shelves))))))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NN disclosure))
+    (: :)
+    (S
+      (NP (PRP I))
+      (VP (VBD used)
+        (S
+          (VP (TO to)
+            (VP (VB work)
+              (ADVP (RB here)))))))))
+
+
+(ROOT
+  (S
+    (INTJ (JJ Good))
+    (VP (VB clean)
+      (NP (NN store))
+      (PP (IN with)
+        (NP (JJ helpful) (NN staff))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP wish)
+      (SBAR
+        (S
+          (S
+            (ADVP (RB someday))
+            (NP (EX there))
+            (VP (MD could)
+              (VP (VB be)
+                (NP
+                  (NP
+                    (NP (DT the) (JJ perfect) (NN mix))
+                    (PP (IN of)
+                      (NP (NNP Costco) (, ,) (NNP Fresh)
+                        (CC and)
+                        (NNP Easy))))
+                  (, ,)
+                  (CC and)
+                  (NP
+                    (NP (DT a) (NN store))
+                    (PP (IN like)
+                      (NP (DT this))))))))
+          (, ,) (IN so)
+          (S
+            (NP (PRP I))
+            (VP (MD could)
+              (ADVP (RB finally))
+              (VP (VB shop)
+                (PP (IN in)
+                  (NP (CD one) (NN place)))))))))
+    (. .)))
+
+
+(ROOT
+  (NP (NNP Great) (NNP Place) (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Clean) (NNP and))
+    (VP (VBP cool)
+      (PP (IN in)
+        (NP (DT the) (NNS summers))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNPS Starbucks))
+    (ADVP (RB inside))
+    (VP (VBZ is)
+      (ADJP (JJ awesome)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Better))
+      (PP (IN than)
+        (NP (NNP Safeway)
+          (CC or)
+          (NNP Fry))))
+    (VP (VBZ 's))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD ca) (RB n't)
+      (VP (VB say)
+        (NP (RB enough) (RB about) (DT this) (NN grocery) (NN store))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP have)
+        (NP (JJ excellent) (NN customer) (NN service))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (ADVP (RB never))
+      (VP (VBP experience)
+        (NP
+          (NP (NN cashier) (NNS lines))
+          (ADJP
+            (ADJP
+              (QP (JJR more) (IN than) (CD one)))
+            (CC or)
+            (ADJP
+              (NP (CD two) (NNS people))
+              (JJ deep))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP have)
+        (NP
+          (NP (DT a) (JJ small) (NN selection))
+          (PP (IN of)
+            (NP (NNP Organic) (NNS vegetables))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT the) (NN quality))
+      (VP (VBZ is)
+        (ADJP (RB very) (JJ high))))
+    (: ;)
+    (S
+      (NP
+        (NP (DT a) (JJ decent) (NN selection))
+        (PP (IN of)
+          (NP
+            (NP (NN beer))
+            (PRN (: -)
+              (PP (IN beyond)
+                (NP (DT the) (JJ usual) (NN bud) (NN light)))
+              (: /)))))
+      (VP (VBZ coors)
+        (NP (JJ light) (NN offering))))
+    (CC and)
+    (S
+      (NP
+        (NP (DT the) (NN selection))
+        (PP (IN of)
+          (NP (VBG baking) (NNS supplies))))
+      (VP (VBZ is)
+        (ADJP (RB as) (JJ good))
+        (SBAR (IN as)
+          (S
+            (NP (PRP I))
+            (VP (VBP 've)
+              (VP (VBN seen)
+                (PP (IN at)
+                  (NP (DT a) (NN grocery) (NN store)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD 'll)
+      (VP (VB go)
+        (PRT (RP out))
+        (PP (IN of)
+          (NP (PRP$ my) (NN way)
+            (S
+              (VP (TO to)
+                (VP (VB shop)
+                  (ADVP (RB here)))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (SBAR
+        (WHADVP (WRB When))
+        (S
+          (NP (PRP I))
+          (VP (VBP think)
+            (PP (IN of)
+              (NP (NNP Albertsons))))))
+      (NP (PRP I))
+      (ADVP (RB always))
+      (VP (VBP think)
+        (PP (IN of)
+          (NP
+            (NP (DT the) (JJ sketchy) (NN one))
+            (PP (IN near)
+              (NP
+                (NP (PRP$ my) (NN house))
+                (PP (IN in)
+                  (NP (NNP Tucson)))))))))
+    (, ,) (IN so)
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (ADJP (RB pleasantly) (JJ surprised))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP I))
+            (VP (VBD walked)
+              (PP (IN into)
+                (NP (DT this) (NN one))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP
+      (VP (VBZ 's)
+        (ADJP (JJ clean)))
+      (CC and)
+      (ADVP (RB well))
+      (VP (VBD lit)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP (JJ easy)
+        (S
+          (VP (TO to)
+            (VP (VB navigate))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN line)
+      (S
+        (VP (TO to)
+          (VP (VB check)
+            (PRT (RP out))))))
+    (VP (VBD was) (RB n't)
+      (ADVP (RB long) (IN at) (DT all)))
+    (. .)))
+
+(ROOT
+  (NP
+    (S
+      (S
+        (NP (PRP I))
+        (ADVP (RB really))
+        (VP (VBD liked)
+          (NP (PRP$ their) (NN wine) (NN selection))))
+      (CC and)
+      (S
+        (NP (PRP they))
+        (VP (VBD had)
+          (NP (PRP$ my) (JJ favorite) (NNP Chateau) (NNP Ste.)))))))
+
+(ROOT
+  (S
+    (NP (NNP Michelle) (NNP Riesling))
+    (VP (VBD refrigerated))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Win))
+    (. !)))
+
+

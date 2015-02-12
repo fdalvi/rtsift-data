@@ -1,0 +1,111 @@
+(ROOT
+  (S
+    (PP (IN From)
+      (NP (PRP$ my) (NN one)))
+    (NP (NN time))
+    (VP (VBP visit))
+    (: ...) (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NN Person))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBD took)
+            (NP (PRP$ my) (NN order))))))
+    (VP (VBD spoke)
+      (ADJP (RBR less) (JJ English))
+      (PP (IN than)
+        (NP (DT a) (NNP Swahili) (NNP immigrant))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (ADJP (JJ annoying)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Food))
+      (VP (VBD was)
+        (ADVP (RB luke))
+        (ADJP (JJ warm))))
+    (CC and)
+    (S
+      (NP (DT the) (NN string) (NNS beans))
+      (VP (VBD were)
+        (ADJP (RB very) (JJ wilted))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (RB Only) (JJ good) (NN part))
+    (VP (VBD was)
+      (NP (DT the) (JJ awesome) (NN Mt.)))))
+
+(ROOT
+  (S
+    (VP (VB Dew)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBD had)
+            (PP (IN on)
+              (NP (NN tap)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB advise)
+        (NP (DT a) (JJ different) (NNP Panda) (NNP Express))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Still))
+      (VP (VBZ sucks)))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NNP YELP))
+      (VP (VBZ is)
+        (ADVP (RB still))
+        (VP (VBN biased))))
+    (. !)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Why))
+    (SQ (VBP do)
+      (NP (PRP I))
+      (VP (VB bother)))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (NNP Service) (NNP sucks))
+    (, ,)
+    (NP
+      (NP (JJ tiny) (NNS portions))
+      (, ,)
+      (NP (NNP WAY) (NNP OVER) (NNP PRICED)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (NNP Will))
+    (RB not)
+    (VP (VBP return))
+    (. .)))
+
+

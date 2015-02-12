@@ -1,0 +1,183 @@
+(ROOT
+  (S
+    (NP
+      (ADJP (RB Very) (JJ homey))
+      (NNP Koran))
+    (VP (VBP place)
+      (PP (IN with)
+        (NP (JJ decent) (NN food))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP like)
+      (S
+        (NP (DT the) (NN side) (NNS dishes))
+        (ADJP (RB very) (JJ much))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP
+        (NP (DT a) (NN lot))
+        (PP (IN of)
+          (NP (NN food))))
+      (SBAR
+        (ADVP (RB here))
+        (IN that)
+        (S
+          (NP (PRP you))
+          (VP (MD 'd)
+            (ADVP (RB usually))
+            (VP (VB see)
+              (SBAR (IN if)
+                (S
+                  (S
+                    (VP (VBG visiting)
+                      (NP (PRP$ your) (JJ Korean) (NN friend))))
+                  (VP (VBZ 's)
+                    (NP
+                      (NP (NN mom) (POS 's))
+                      (NN house))))))))))
+    (. .)))
+
+
+(ROOT
+  (S (RB Only)
+    (VP (VB place)
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBP know)
+            (PP (IN in)
+              (NP
+                (NP (NNP AZ))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBZ serves)
+                      (NP
+                        (NP (NNP Kimchi) (NNP Fried) (NNP Rice)
+                          (CC and)
+                          (NNP Ramyun))
+                        (PP (IN with)
+                          (NP (DT the) (JJ noodle) (NN cake) (NNS things)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT That))
+    (ADVP (RB alone))
+    (VP (VBZ is)
+      (NP (JJ enough) (NN reason)
+        (S
+          (VP (TO to)
+            (VP (VB eat)
+              (ADVP (RB here)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB However))
+    (, ,)
+    (NP (DT that))
+    (VP (VBZ does) (RB n't)
+      (VP (VB mean)
+        (SBAR
+          (S
+            (NP
+              (NP (DT any))
+              (PP (IN of)
+                (NP (PRP$ their) (JJ other) (NNS dishes))))
+            (VP (VBP are)
+              (VP (VBG lacking)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP GF))
+      (CC and)
+      (NP
+        (NP (PRP I))
+        (NP
+          (NP (DT some) (NN sort))
+          (PP (IN of)
+            (NP
+              (NP (JJ clam/seafood) (JJ clear) (NN broth) (NN soup))
+              (CC and)
+              (NP (PRP it)))))))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (JJ light))
+        (, ,)
+        (CC but)
+        (ADJP (RB still) (JJ good))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB Only) (NN thing))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (MD can)
+            (VP (VB think)
+              (PP (IN of)
+                (S
+                  (VP (VBG avoiding)))))))))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN lunch))
+        (SBAR
+          (S
+            (VP (VBZ bowls))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT A) (NN buddy))
+        (PP (IN of)
+          (NP (NN mine))))
+      (VP (VBD ordered)
+        (NP (DT the) (NNP Chicken) (CD one))))
+    (CC and)
+    (S
+      (NP (PRP we))
+      (VP
+        (VP (VBD were) (RB n't)
+          (ADJP (JJ sure))
+          (SBAR (IN if)
+            (S
+              (NP (DT the) (NN chicken))
+              (VP (VBD was)
+                (ADJP (JJ rubbery))
+                (SBAR (IN because)
+                  (S
+                    (NP (PRP it))
+                    (VP (VBD was)
+                      (ADJP (RB super) (JJ processed)))))))))
+        (CC or)
+        (RB not)
+        (VP (VBD cooked)
+          (NP (PDT all) (DT the) (NN way))
+          (PP (IN through)))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP **) (NNP Update))
+    (: -)
+    (NP
+      (NP (CD 12/8/09))
+      (: -)
+      (NP (NNP Closed)))
+    (X (SYM **))))
+
+

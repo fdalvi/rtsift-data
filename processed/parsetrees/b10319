@@ -1,0 +1,836 @@
+(ROOT
+  (NP
+    (NP (JJ Convenient) (NN location))
+    (PRN (-LRB- -LRB-)
+      (NP
+        (NP (JJS closest) (NN intersection))
+        (: :)
+        (NP (NNP Jones)
+          (CC and)
+          (NNP Spring) (NNP Mountain)))
+      (-RRB- -RRB-))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP
+      (QP (CD 1) (CD ATM)))
+    (PP (IN in)
+      (NP
+        (NP (DT the) (NN front))
+        (, ,)
+        (NP
+          (NP (RB possibly) (CD 2))
+          (PP (IN in)
+            (NP
+              (NP (DT the) (NN drive))
+              (PP (IN thru)
+                (NP
+                  (NP (NN area))
+                  (PP (IN in)
+                    (NP (DT the) (NN back)))))
+              (PRN (-LRB- -LRB-)
+                (VP
+                  (ADVP (RB never))
+                  (VBN used)
+                  (PP (IN before)))
+                (-RRB- -RRB-)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (CD one) (NN time))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBD had)
+            (S
+              (VP (TO to)
+                (VP (VB go)
+                  (PRT (RP in))
+                  (S
+                    (VP (TO to)
+                      (VP
+                        (VP (VB deposit)
+                          (NP (DT a) (NN check)))
+                        (CC and)
+                        (VP (VB pull)
+                          (PRT (RP out))
+                          (NP
+                            (NP (JJ extra) (NN cash))
+                            (PP (IN for)
+                              (NP (NN rent)))))))))))))))
+    (, ,)
+    (NP (DT the) (NN line))
+    (VP (VBD was)
+      (UCP
+        (ADJP (RB not) (RB too) (JJ long))
+        (CC and)
+        (VP (VBN moved)
+          (ADVP (RB quickly))
+          (PRN (-LRB- -LRB-)
+            (S
+              (VP (VB think)
+                (SBAR
+                  (S
+                    (NP (PRP it))
+                    (VP (VBD was)
+                      (NP
+                        (NP (DT a) (NNP Wednesday))
+                        (PP (IN around)
+                          (NP (NN noon)))))))))
+            (-RRB- -RRB-)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Staff))
+    (VP (VBD was)
+      (VP
+        (VP (VBN pleasant)
+          (S
+            (VP (TO to)
+              (VP (VB interact)
+                (PP (IN with))))))
+        (, ,)
+        (NP
+          (NP (RB just) (DT the) (NN way))
+          (SBAR
+            (S
+              (NP (PRP they))
+              (VP (VBD were)
+                (VP (VBN trained)
+                  (S
+                    (VP (TO to)
+                      (VP (VB do)
+                        (PP (IN by)
+                          (NP
+                            (NP (JJ corporate))
+                            (CC or)
+                            (NP (DT the) (NN branch) (NN manager))))))))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Plenty))
+    (PP (IN of)
+      (NP
+        (NP (NN parking) (NNS spaces))
+        (SBAR
+          (WHADVP (WRB whenever))
+          (S
+            (NP (PRP I))
+            (VP (VBP am)
+              (ADVP (RB here)))))))
+    (. .)))
+
+(ROOT
+  (S (IN So)
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB say)
+        (SBAR
+          (S
+            (NP (DT this))
+            (VP (VBZ is)
+              (NP
+                (NP (DT a) (JJ good) (NN branch))
+                (PP (IN for)
+                  (NP
+                    (NP (NNS customers))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (ADVP (RB mainly))
+                        (VP (VBZ utilizes)
+                          (S
+                            (NP (NNP ATM))
+                            (VP (TO to)
+                              (VP (VB conduct)
+                                (NP (PRP$ their) (NNP WF) (NNS transactions))
+                                (, ,)
+                                (PP (IN with)
+                                  (NP (DT the) (JJ occasional) (JJ in-branch) (NN visit)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Getting)
+        (PRT (RP out))
+        (PP (IN of)
+          (NP (DT the) (NN parking) (NN lot)))
+        (S
+          (VP (TO to)
+            (VP (VB head)
+              (NP
+                (NP (NNP North))
+                (PP (IN on)
+                  (NP (NNP Jones)))))))))
+    (VP (MD can)
+      (VP (VB be)
+        (NP (DT a) (NN pain))
+        (, ,)
+        (SBAR (IN if)
+          (S
+            (NP (PRP you))
+            (VP (VBP are)
+              (ADVP (RB there))
+              (PP (IN during)
+                (NP (JJ peak) (NN traffic) (NNS hours))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (NP (NN case))
+          (VP (VBP try)
+            (S
+              (VP (TO to)
+                (VP (VB use)
+                  (NP
+                    (NP
+                      (NP (DT the) (NN center))
+                      (VP (VBG turning)
+                        (NP (NN lane))))
+                    (, ,)
+                    (CC and)
+                    (NP (NNP Frogger))))))))))
+    (NP (PRP$ your) (NN way))
+    (ADVP (RB over) (RB as))
+    (VP (VBD needed))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Just))
+    (VP (VB be)
+      (ADJP (JJ careful)
+        (PP (IN of)
+          (NP
+            (NP (JJ north-bound) (NNS vehicles))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBP want)
+                  (S
+                    (VP (TO to)
+                      (VP (VB turn)
+                        (VP (VBN left)
+                          (PP (IN onto)
+                            (NP (NNP Spring) (NNP Mountain) (NNP Rd.))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Do) (RB n't)
+      (VP (VB want)
+        (NP
+          (NP (DT no) (JJ real) (NN life) (NN Game))
+          (PP (NNP Over)
+            (NP (NN head))))
+        (PP (IN on)
+          (NP (NN collision)
+            (CC or)
+            (NNS hassles)))
+        (PP (IN with)
+          (NP (NN insurance) (NNS companies)
+            (CC and)
+            (NNS Five-Os)))))
+    (. .)))
+
+(ROOT
+  (NP (CD 4) (NNS stars) (. .)))
+
+(ROOT
+  (SQ
+    (VP (VB Be)
+      (ADJP (JJ safe)))
+    (. !)))
+
+(ROOT
+  (NP
+    (NP (NNP Peace))
+    (PP (IN in)
+      (NP (DT the) (NNP South) (NNP China) (NNP Sea)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD needed)
+        (S
+          (VP (TO to)
+            (VP (VB stop)
+              (PP (IN at)
+                (NP (DT an) (NNP ATM)))
+              (NP (JJ last) (NN night)))))))
+    (CC and)
+    (S
+      (NP (DT this) (NN location))
+      (VP (VBD was)
+        (PP (IN on)
+          (NP (PRP$ my) (NN way)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ 's) (RB not)
+      (NP
+        (NP (DT a) (JJ whole) (NN lot))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (MD can)
+              (VP (VB say)
+                (PP (IN about)
+                  (NP (DT the) (NN experience)))
+                (SBAR (IN except)
+                  (S
+                    (NP (PRP it))
+                    (VP (VBD was)
+                      (ADJP (JJ quick)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBD was)
+        (ADVP (RB no)
+          (NP (CD one)))
+        (ADVP (RB there))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP
+        (VP (VBD drove)
+          (ADVP (RB right) (RB up))
+          (PP (TO to)
+            (NP (DT the) (NN machine))))
+        (CC and)
+        (VP (VBD was)
+          (VP
+            (PP (IN on)
+              (NP (PRP$ my) (NN way)))
+            (ADVP (RB quickly))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ only) (NN thing))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBD threw)
+            (NP (PRP me))))))
+    (VP (VBD was)
+      (NP (DT the) (NN fact))
+      (SBAR (IN that)
+        (S
+          (NP (PRP$ their) (NN ATM))
+          (VP (VBZ is)
+            (VP (VBG opposite)
+              (NP
+                (ADJP (RB almost) (DT every))
+                (JJ other) (NNP Wells) (NNP Fargo)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB Instead) (IN of)
+      (S
+        (VP (VBG being)
+          (PP (IN on)
+            (NP (DT the) (JJ outside) (NN lane))))))
+    (, ,)
+    (NP (DT the) (NNP ATM))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN one))
+        (PP (IN against)
+          (NP (DT the) (NN wall))))
+      (SBAR (IN as)
+        (S
+          (NP (PRP you))
+          (VP (VBP drive)
+            (PRT (RP in))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP (JJ Strange))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (CD 45) (NNS mins))
+    (PP (IN on)
+      (NP (DT a) (NN wait)))
+    (PP (IN for)
+      (NP (DT a) (NN banker)))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (DT All) (NNS bankers))
+    (VP (VBP are)
+      (PP (IN with)
+        (NP
+          (NP (NNS customers))
+          (VP (VBG talking)
+            (PP (IN about)
+              (NP (PRP$ their) (NN life) (NNS stories)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP One))
+    (VP
+      (VP (VBD was)
+        (PP (IN on)
+          (NP
+            (NP (DT the) (NN phone))
+            (VP (VBG acting)
+              (SBAR (IN like)
+                (S
+                  (NP (PRP she))
+                  (VP
+                    (VP (VBD was)
+                      (VP (VBG working)
+                        (SBAR (IN until)
+                          (S
+                            (NP (PRP it))
+                            (VP (VBD was)
+                              (NP (PRP$ her) (NN lunch) (NN time)))))))
+                    (CC and)
+                    (VP (VBD got)
+                      (PRT (RP up))))))))))
+      (CC and)
+      (VP (VBD dipped)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Longest))
+    (VP (VBP wait)
+      (ADVP (RB ever)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN review))
+    (VP
+      (VP (VBZ is)
+        (ADJP (RB long) (JJ overdue)))
+      (, ,)
+      (CC but)
+      (VP
+        (ADVP (RB just))
+        (MD ca) (RB n't)
+        (VP (VB forget)
+          (NP
+            (NP (DT the) (JJ bad) (NN experience))
+            (SBAR
+              (S
+                (NP (PRP I))
+                (VP (VBD had)
+                  (ADVP (RB here)))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD had)
+      (NP
+        (NP ($ $) (CD 200))
+        (PP (IN in)
+          (NP (NN cash)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHNP (WP What))
+      (S
+        (NP (PRP I))
+        (VP (VBD wanted))))
+    (VP (VBD was)
+      (NP
+        (NP ($ $) (CD 100))
+        (SBAR
+          (S
+            (VP
+              (VP (TO to)
+                (VP (VB go)
+                  (PP (IN toward)
+                    (NP (PRP$ my) (NN credit) (NN card)))))
+              (CC and)
+              (VP (TO to)
+                (VP (VB exchange)
+                  (NP
+                    (NP (DT the) (JJ other)
+                      (ADJP ($ $) (CD 100))
+                      (NN bill))
+                    (PP (IN for)
+                      (NP ($ $) (CD 20s)))))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP
+      (NP (CD Sounds) (NN simple))
+      (RB enough))
+    (, ,)
+    (ADVP (RB right))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Apparently))
+    (RB not) (. !)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN teller))
+      (PRN (-LRB- -LRB-)
+        (S
+          (VP (VBP wish)
+            (SBAR
+              (S
+                (NP (PRP I))
+                (VP (VBD remembered)
+                  (NP (PRP$ her) (NN name)))))))
+        (-RRB- -RRB-)))
+    (VP
+      (VP (VBD took)
+        (NP (DT the) (JJ first)
+          (ADJP ($ $) (CD 100))
+          (NN bill)))
+      (, ,)
+      (VP (VBD processed)
+        (NP (DT the) (NN payment)))
+      (CC and)
+      (VP (VBD printed)
+        (PRT (RP out))
+        (NP (DT the) (NN receipt))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Then))
+    (, ,)
+    (NP (DT another) (NN employee))
+    (VP
+      (VP (VBZ comes)
+        (PRT (RP up))
+        (PP (TO to)
+          (NP (PRP her))))
+      (CC and)
+      (VP (VBZ asks)
+        (SBAR (IN if)
+          (S
+            (NP (PRP she))
+            (VP (VBD saw)
+              (NP
+                (NP
+                  (NP (DT a) (NN cashier) (POS 's))
+                  (NN check))
+                (VP (`` ``) (VBG lying) (IN around)
+                  (NP (RB somewhere)))))))))
+    (. .)))
+
+(ROOT
+  (S ('' '')
+    (NP (PRP She))
+    (VP
+      (VP (VBZ looks)
+        (PRT (RP around))
+        (NP (PRP$ her) (NN area)))
+      (CC and)
+      (VP (VBZ tells)
+        (NP (PRP him) (DT no))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Then))
+      (NP (PRP she))
+      (VP
+        (VP (VBZ takes)
+          (NP (PRP$ my) (JJ other)
+            (ADJP
+              (QP ($ $) (CD 100)))
+            (NN bill)))
+        (, ,)
+        (VP (VBZ puts)
+          (NP (PRP it))
+          (PP (IN in)
+            (NP (PRP$ her) (NN drawer))))
+        (CC and)
+        (VP (VBZ asks) (`` ``)
+          (S
+            (S
+              (VP (VBZ is)
+                (ADVP (RB there))
+                (NP (NN anything))))
+            (ADJP (RB else))))))
+    (NP (PRP I))
+    (VP (MD can)
+      (VP (VB help)
+        (NP (PRP you))
+        (PP (IN with))))
+    (. ?)))
+
+(ROOT
+  (S ('' '')
+    (S
+      (S
+        (VP (VBG Me) (: :) (`` ``)
+          (NP (NNP Ummm))))
+      (, ,)
+      (NP (PRP I))
+      (VP (VBP 'm)
+        (VP (VBG waiting)
+          (PP (IN for)
+            (NP (PRP$ my)
+              (ADJP ($ $) (CD 20))
+              (NNS bills)))
+          (PP (IN for)
+            (NP
+              (NP (DT the) (JJ other)
+                (ADJP ($ $) (CD 100))
+                (NN bill))
+              (SBAR
+                (S
+                  (NP (PRP I))
+                  (VP
+                    (VP (VBD gave)
+                      (NP (PRP you)))
+                    (: ...)
+                    (VP ('' '')
+                      (NP (NNP Her)))
+                    (: :) (`` ``)
+                    (VP (VBD Did))))))))))
+    (RB n't)
+    (S
+      (NP (PRP you))
+      (ADVP (RB only))
+      (VP (VBP give)
+        (NP (PRP me))
+        (NP (DT a) ($ $) (CD 100))))
+    (. ?)))
+
+(ROOT
+  (NP ('' '')
+    (CC Me)
+    (NP (: :)
+      (NP (`` ``) (NNP No) (, ,) (NN I))
+      (PP (VBG gave)
+        (NP
+          (NP (PRP you))
+          (NP (CD two)
+            (ADJP ($ $) (CD 100))
+            (NNS bills)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP '') (NNP Her))
+    (: :) (`` ``)
+    (S
+      (VP (VBD Did)
+        (NP (PRP you))
+        (ADVP (RB really))))
+    (. ?)))
+
+(ROOT
+  (S ('' '')
+    (NP (RB So) (PRP she))
+    (VP
+      (VP (VBZ calls)
+        (NP (PRP$ her) (NN manager))
+        (PRT (RP over)))
+      (CC and)
+      (VP (VBZ tells)
+        (NP
+          (NP (PRP her))
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (VP (VBD happened)))))))
+    (. .)))
+
+(ROOT
+  (S (RB Then)
+    (NP (PRP she))
+    (VP (VBD said)
+      (S (`` ``)
+        (NP (PRP I))
+        (VP
+          (VP (VBD got)
+            (VP (VBN distracted)
+              (PP (IN because)
+                (S
+                  (VP (VBG ______) (JJ interrupted)
+                    (NP (PRP me)))))))
+          (CC and)
+          (VP (VBD asked)
+            (S
+              (NP (PRP me))
+              (NP (DT a) (NN question)))))))
+    (. .)))
+
+(ROOT
+  (S ('' '')
+    (NP (DT The) (NN manager))
+    (VP (VBZ tells)
+      (S
+        (NP (PRP her))
+        (VP (TO to)
+          (VP (VB count)
+            (NP (PRP$ her) (NN drawer))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (RB Just) (JJ great))
+    (. .)))
+
+(ROOT
+  (S (IN So)
+    (NP (PRP I))
+    (VP (VBP have)
+      (S
+        (VP (TO to)
+          (VP (VB stand)
+            (S
+              (NP (EX there))
+              (VP (VBG waiting)
+                (PP (IN for)
+                  (NP (DT another) (CD 10) (NNS minutes)))
+                (SBAR (IN because)
+                  (S
+                    (NP (PRP she))
+                    (VP (VBD did) (RB n't)
+                      (VP (VB do)
+                        (NP (PRP$ her) (NN job))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB BS))
+    (NP (PRP I))
+    (VP (VBP tell)
+      (NP (PRP you)))
+    (. !)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP she))
+        (VP (VBD was)
+          (VP (VBN done)))))
+    (, ,)
+    (NP (PRP she))
+    (VP
+      (VP (VBD laughed))
+      (CC and)
+      (VP (VBD said)
+        (S (`` ``)
+          (INTJ (UH Oh))
+          (, ,)
+          (NP (PRP you))
+          (VP (VBD were)
+            (ADJP (JJ right))))))
+    (. .)))
+
+(ROOT
+  (NP (NNP '') (NNP Duh) (NNP !!)))
+
+(ROOT
+  (NP (NNP Seriously) (, ,) (NNP WTF) (NNPS ?!?!)))
+
+(ROOT
+  (X
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (MD ca) (RB n't)
+          (VP (VB multi-task)
+            (CC and/or)
+            (VB pay)
+            (NP (NN attention))
+            (PP (TO to)
+              (SBAR
+                (WHNP (WP what))
+                (S
+                  (NP (PRP you) (NNS customers))
+                  (VP (VBP are)
+                    (VP (VBG giving)
+                      (NP (PRP you)))))))))))
+    (, ,)
+    (X
+      (ADVP (RB maybe))
+      (NP (PRP you)))
+    (NP
+      (SQ (MD SHOULD)
+        (NP (NNP NOT))
+        (VP (VB be)
+          (NP (DT a) (NN teller))))
+      (VP (VB ?!?!)))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD did)
+      (SBAR
+        (SBAR
+          (S
+            (VP (VBP complain)
+              (PP (TO to)
+                (NP
+                  (NP (NNP Wells) (NNP Fargo))
+                  (PP (IN over)
+                    (NP
+                      (NP (DT the) (NN phone))
+                      (PP (IN about)
+                        (NP (DT the) (NN incident))))))))))
+        (, ,)
+        (CC but)
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBZ knows)
+              (SBAR (IN if)
+                (S
+                  (NP (DT that))
+                  (ADVP (RB even))
+                  (VP (VBD did)
+                    (NP (NN anything))))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Ugh))
+    (: ...)
+    (FRAG
+      (ADVP (RB never))
+      (ADVP (RB again)))
+    (. !)))
+
+

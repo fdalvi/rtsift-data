@@ -1,0 +1,88 @@
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP
+        (NP (CD one))
+        (PP (IN of)
+          (NP
+            (NP (DT these) (JJ rare) (NNS finds))
+            (, ,)
+            (NP
+              (NP (DT A) (JJ traditional) (NN butcher))
+              (VP (VBG selling)
+                (NP (JJ excellent) (NN quality) (NN meat))
+                (PP (IN at)
+                  (NP (DT a)
+                    (ADJP (RB very) (JJ reasonable))
+                    (NN price)))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (ADVP (RB Tasty))
+    (VP (VBZ chicken))
+    (NP
+      (NP (NNS fillets))
+      (PRN (-LRB- -LRB-)
+        (PP (IN with)
+          (NP (DT no) (JJ added) (NN water)))
+        (-RRB- -RRB-))
+      (, ,)
+      (NP
+        (NP (JJ lovely) (NN steak) (NNS mince))
+        (CC and)
+        (NP (NN pork) (NN loin))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Steak))
+    (VP (VBD looked)
+      (ADJP
+        (ADJP (RB very) (JJ appealing))
+        (CC and)
+        (ADJP (RB well) (JJ hung))
+        (, ,)
+        (SBAR
+          (S
+            (VP (MD will)
+              (VP (VB be)
+                (VP (VBG trying)
+                  (NP
+                    (NP (DT this))
+                    (PP (IN at)
+                      (NP (DT the) (NN weekend)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Word))
+      (PP (IN of)
+        (S
+          (VP (VBG warning)
+            (NP (PRP they))))))
+    (VP (VBP are)
+      (VP (VBG Cash)
+        (ADVP (RB Only))
+        (S (RB so)
+          (VP (VB make)
+            (ADJP (JJ sure)
+              (SBAR
+                (S
+                  (NP (PRP you))
+                  (VP (VBP take)
+                    (ADJP (JJ enough))))))))
+        (SBAR (IN as)
+          (S
+            (NP (PRP you))
+            (VP (MD 'll)
+              (VP (VB want)
+                (S
+                  (VP (TO to)
+                    (VP (VB stock)
+                      (PRT (RP up)))))))))))
+    (. !)))
+
+

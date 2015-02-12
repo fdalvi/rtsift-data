@@ -1,0 +1,95 @@
+(ROOT
+  (S
+    (NP (NNP Great))
+    (VP (VBP place)
+      (PP (IN for)
+        (NP
+          (NP (NNS suits))
+          (CC and)
+          (NP (DT a) (JJ great) (NN price)))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (NNP Henderson))
+    (NP (NN location))
+    (. .)))
+
+(ROOT
+  (FRAG (RB Not)
+    (PP (IN as)
+      (NP (JJ many) (NNS suits)
+        (S
+          (VP (TO to)
+            (VP (VB choose)
+              (PP (IN from))))))
+      (. .))))
+
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN middle))
+        (PP (IN of)
+          (NP (DT the) (NN road) (NN kinda) (NN place)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 'm)
+        (ADJP (JJ sure)
+          (SBAR
+            (S
+              (NP (EX there))
+              (VP (VBP are)
+                (NP (JJR better) (NNS places))
+                (ADVP (IN out) (RB there))))))))
+    (CC but)
+    (, ,)
+    (S
+      (NP (EX there))
+      (VP (VBP are)
+        (ADVP (RB also))
+        (ADJP (RB far) (JJR worse))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD felt)
+      (ADJP (JJ satisfied)
+        (S
+          (VP (VBG buying)
+            (PP (IN from)
+              (NP (PRP them)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD got)
+      (NP (DT a) (JJ decent) (NN vest))
+      (PP (IN from)
+        (NP
+          (NP (PRP them))
+          (CC and)
+          (NP (DT a) (JJ decent) (NN blazer)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ works)
+      (PP (IN for)
+        (NP
+          (NP (PRP me))
+          (CC and)
+          (NP (PRP$ my) (NN budget)))))
+    (. .)))
+
+

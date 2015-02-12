@@ -1,0 +1,166 @@
+(ROOT
+  (NP
+    (NP (JJ Typical) (NN jack))
+    (PP (IN in)
+      (NP (DT the) (NN box)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Clean))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Staff))
+    (VP (VBZ is)
+      (ADJP (JJ friendly)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Drive) (NNP thru))
+    (VP (VBP open)
+      (NP (CD 24) (NNS hours)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP
+        (NP (DT the) (JJ self-serve) (NN kiosk))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ means)
+              (SBAR
+                (S
+                  (NP (PRP you))
+                  (VP (MD can)
+                    (VP (VB get)
+                      (NP (JJ free) (NNS tacos))
+                      (PP (IN from)
+                        (NP (NN time)))
+                      (PP (TO to)
+                        (NP (NN time))))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (S
+      (NP (JJ Personal) (NNS favorites))
+      (VP (VBP include) (: :)
+        (NP (NN egg) (NN nog))))
+    (VP (VBP shake)
+      (PP (IN during)
+        (NP (DT the) (NN holiday) (NN season))))
+    (NP (CD tacos) (JJ ultimate) (NN cheeseburger))))
+
+
+(ROOT
+  (S
+    (S
+      (VP (VBN Got)
+        (NP (DT the) (NN waffle) (NN breakfast) (NN sandwich))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBD was)
+      (NP
+        (NP (NNP ok) (. .))
+        (SBAR
+          (S
+            (VP (VBP Make)
+              (ADJP (JJ sure)
+                (SBAR
+                  (S
+                    (NP (PRP you))
+                    (VP (VBP get)
+                      (NP
+                        (NP (DT a) (NN pack))
+                        (PP (IN of)
+                          (NP (NN syrup)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ gets)
+      (ADJP (RB really) (JJ messy)))
+    (. !)))
+
+(ROOT
+  (NP (NNP DONT) (NNP EAT)
+    (CC AND)
+    (NNP DRIVE) (. !)))
+
+
+(ROOT
+  (S
+    (PP (IN On)
+      (NP
+        (NP (NNP Thursday))
+        (, ,)
+        (NP (CD 5/8/14))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD ordered)
+      (NP
+        (NP (NN chicken) (NNS nuggets))
+        (, ,)
+        (NP (NNS fries))
+        (, ,)
+        (CC and)
+        (NP (NNS mini-churros)))
+      (PP (IN from)
+        (NP (DT this) (NNP Jack)))
+      (PP (IN In)
+        (NP (DT the) (NNP Box))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD got)
+      (NP (DT the) (JJS worst) (NN food) (NN poisoning)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD had)
+        (S
+          (VP (TO to)
+            (VP (VB go)
+              (PP (TO to)
+                (NP (DT the) (NNP ER))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT that))
+      (VP (VBZ is)
+        (NP
+          (NP (DT the) (JJ first) (NN time))
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (VBP have)
+                (VP (VBN been)
+                  (ADVP (RB there))
+                  (PP (IN in)
+                    (NP (CD 20) (NNS years))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB stay)
+        (PRT (RP away))
+        (PP (IN from)
+          (NP (DT this) (NN restaurant)))))
+    (. .)))
+
+

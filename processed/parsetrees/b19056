@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (NP (NNP Decent))
+    (VP (VBP place)
+      (S
+        (VP (TO to)
+          (VP (VB have)
+            (NP (DT a) (JJ quick) (NN lunch))
+            (SBAR (IN if)
+              (S
+                (NP (PRP you))
+                (VP (VBP are)
+                  (VP (VBG attending)
+                    (NP (DT an) (NN event))
+                    (PP (IN at)
+                      (NP (DT the) (NN hotel)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ Our) (NN server))
+    (VP
+      (VP (VBD was)
+        (ADJP (RB extremely) (JJ friendly)))
+      (CC and)
+      (VP (VBD made)
+        (SBAR
+          (S
+            (NP (PRP us))
+            (VP (VBP feel)
+              (ADJP (JJ welcome)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ grilled) (NN cheese))
+      (PP (IN with)
+        (NP (NN tomato))))
+    (VP (VBD was)
+      (ADJP (JJ tasty) (RB too)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Kristen))
+      (, ,)
+      (NP (DT the) (NN bartender))
+      (, ,))
+    (VP (VBD was)
+      (ADJP (JJ nice)))
+    (. .)))
+
+

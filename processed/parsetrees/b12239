@@ -1,0 +1,131 @@
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP I))
+        (VP (VBP 'm)
+          (NP
+            (NP (NN craving) (JJ Chinese) (NN food))
+            (PP (IN in)
+              (NP (NNP Las) (NNP Vegas)))))))
+    (, ,)
+    (NP (PRP I))
+    (ADVP (RB always))
+    (VP (VBP stroll)
+      (PRT (RP down))
+      (PP (TO to)
+        (NP (DT the) (NNP Buffet) (NNP Orient))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN Although)
+      (S
+        (NP (PRP$ their) (NN selection))
+        (VP (VBZ is) (RB n't)
+          (ADJP (JJ comparable)
+            (PP (TO to)
+              (NP (DT the) (JJ massive) (CD 4) (NNP Star) (NNP Hotel) (NNS neighbors))))
+          (ADVP (RB down)
+            (NP (DT the) (NN block))))))
+    (, ,)
+    (NP (PRP$ their) (JJ Chinese) (NN food))
+    (VP (VBZ is)
+      (NP
+        (NP (CD one))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (JJS best))
+            (SBAR
+              (S
+                (NP (PRP I))
+                (VP (VBP have)
+                  (VP (VBN tasted)
+                    (ADVP (RB so) (RB far))
+                    (PP (IN in)
+                      (NP (DT the) (NN city)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (SBAR (IN If)
+        (S
+          (NP (PRP you))
+          (VP (VBP 're)
+            (VP (VBG thinking)
+              (PP (IN about)
+                (S
+                  (VP (VBG going)
+                    (S
+                      (VP (TO to)
+                        (VP (VB grab)
+                          (NP (JJ fast) (NN food))))))))))))
+      (, ,)
+      (VP (VB think)
+        (ADVP (RB again))))
+    (: ...)
+    (S
+      (PP (IN For)
+        (PP (IN under)
+          (NP
+            (NP ($ $) (CD 6))
+            (PP (IN per)
+              (NP (NN person))))))
+      (, ,)
+      (NP (PRP it))
+      (VP (MD 'll)
+        (VP (VB get)
+          (S
+            (NP (PRP you))
+            (ADJP (JJ salads) (, ,) (JJ entrees)
+              (CC and)
+              (JJ desserts))))))
+    (. .)))
+
+(ROOT
+  (S (CC Or)
+    (, ,)
+    (NP (PRP you))
+    (VP (MD can)
+      (ADVP (RB also))
+      (VP
+        (ADVP (RB just))
+        (VB load)
+        (NP (PRP$ your) (NN plate))
+        (PP (IN with)
+          (NP (JJ french) (NNS fries)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD 'd)
+      (VP (VB suggest)
+        (S
+          (NP (PRP you))
+          (VP (VB call)
+            (ADVP (RB first))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT This) (NN place))
+      (VP (VBZ seems)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (ADJP (IN out)
+                (PP (IN of)
+                  (NP (NN business)))))))))
+    (: ...)
+    (S
+      (VP (VBN replaced)
+        (PP (IN with)
+          (NP (DT a) (NN mexican) (NN restaurant)))))
+    (. .)))
+
+

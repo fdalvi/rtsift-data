@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (JJ chile) (NN cheese) (NNS fries))
+    (ADVP (RB deluxe))
+    (VP (VBP are)
+      (VP (VBN recomeneded)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP am) (RB not)
+        (VP (VBN impressed)
+          (PP (IN with)
+            (NP (PRP$ their) (NN food))))))
+    (, ,)
+    (NP (NNP Taco) (NNP Bell))
+    (VP (VBZ is)
+      (ADJP (RB far) (JJR better)))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (ADJP
+      (ADJP
+        (ADJP (RBR Better))
+        (PP (IN than)
+          (NP (NNP Taco) (NNP Bell))))
+      (, ,)
+      (CONJP (RB just) (RB not) (IN as))
+      (ADJP (JJ cheap)))
+    (NNPS !!)))
+
+

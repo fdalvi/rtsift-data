@@ -1,0 +1,83 @@
+(ROOT
+  (S
+    (NP (DT This) (NN location))
+    (VP (VBZ does) (RB not)
+      (VP (VB exist)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (ADVP (RB Yes))
+    (NP (PRP it))
+    (VP (VBZ does)
+      (VP (VB exist)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have)
+      (VP (VBN used)
+        (NP (DT this) (NN branch))
+        (NP (JJ many) (NNS times))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Maybe))
+    (NP (NNP Enrique))
+    (VP (VBD was)
+      (ADJP (RB too) (JJ drunk)
+        (S
+          (VP (TO to)
+            (VP (VB see)
+              (NP (PRP it)))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (VP (VB Lol)
+      (NP
+        (NP (JJ Great) (NN location))
+        (CC and)
+        (NP (JJ easy) (NN access))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN location))
+    (VP
+      (VP (VBZ does)
+        (S
+          (VP (VB exist))))
+      (CC and)
+      (VP (VBZ is)
+        (ADJP (JJ open)
+          (PP (IN for)
+            (NP (NN business))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP (JJ next)
+        (PP (TO to)
+          (NP (NNP Jersey) (NNPS Mikes) (NNP Sandwich) (NNP Shop)))))
+    (. !)))
+
+(ROOT
+  (NP
+    (NP (NNP Open) (NNP 9-5) (NNP Mon))
+    (: -)
+    (NP
+      (NP (NNP Thurs) (, ,) (NNP 9-6) (NNP Friday)
+        (CC and)
+        (NNP 10-2))
+      (PP (IN on)
+        (NP (NNP Saturday))))
+    (. .)))
+
+

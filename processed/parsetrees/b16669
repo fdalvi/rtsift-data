@@ -1,0 +1,73 @@
+(ROOT
+  (S
+    (VP (VB Hands)
+      (PRT (RP down))
+      (NP (PRP$ my) (JJ favorite) (NN place))
+      (PP (TO to)
+        (NP (NN shop))))
+    (. !)))
+
+(ROOT
+  (S
+    (PP (IN Amber)
+      (NP (DT the) (JJ assistant) (NN store) (NN mgr) (NNS ROCKS)))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP am)
+      (VP (VBN treated)
+        (PP (IN like)
+          (NP (NN royalty)))
+        (NP
+          (NP (DT every) (NN time))
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (VBP visit)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NAC (NN Way)
+        (PP (IN beyond)
+          (NP (`` ``) (DT a) (JJ plain) (JJ white) (NN shirt) ('' ''))))
+      (, ,) (NNP Anne) (NNP Fontaine))
+    (VP (VBZ offers)
+      (NP
+        (NP (DT a) (JJ super) (JJ tailored) (NN spin))
+        (PP (IN on)
+          (NP (NN classic))))
+      (PP (TO to)
+        (ADJP (JJ edgy))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Very))
+      (VP
+        (VP
+          (ADVP (RB well))
+          (VBN made))
+        (CC and)
+        (VP
+          (ADVP (RB well))
+          (PP (IN worth)
+            (NP (DT the) (NN price))))))
+    (, ,)
+    (NP (NNP Anne) (NNP Fontaine))
+    (VP (VBZ offers)
+      (NP
+        (NP (NN statement) (NNS pieces))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (MD can) (RB not)
+              (VP (VB be)
+                (VP (VBN found)
+                  (ADVP (RB anywhere) (RB else))
+                  (PP (IN for)
+                    (NP (DT any) (NN price))))))))))
+    (. .)))
+
+

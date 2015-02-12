@@ -1,0 +1,68 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Desert) (NNP Palm))
+      (VP (VBZ has)
+        (VP (VBN been)
+          (VP (VBG servicing)
+            (NP (PRP$ my) (NN pool))
+            (PP (IN for)
+              (NP (DT a) (NN year)
+                (CC or)
+                (RB so)))
+            (, ,)
+            (ADVP (RB maybe) (RBR more))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP
+        (NP (NNP Juan))
+        (, ,)
+        (NP (DT the) (NN service) (NN tech))
+        (, ,))
+      (VP (VBZ has)
+        (VP (VBN been)
+          (VP (VBG doing)
+            (NP (DT a) (JJ wonderful) (NN job))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP He))
+      (VP (VBZ comes)
+        (NP
+          (ADVP (RB once))
+          (DT a) (NN week))
+        (, ,)
+        (PP (IN on)
+          (NP (NN time)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (NN pool))
+      (VP (VBZ looks)
+        (ADJP (JJ perfect))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP he))
+            (VP (VBZ is)
+              (VP (VBN done)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Great) (NN service))
+      (, ,)
+      (CC and)
+      (NP
+        (NP (JJ reasonable) (NN price))
+        (SBAR
+          (WHNP (WDT which)))))
+    (VP (VBZ includes)
+      (NP (NNS chemicals)))
+    (. .)))
+
+

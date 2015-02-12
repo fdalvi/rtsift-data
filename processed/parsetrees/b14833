@@ -1,0 +1,70 @@
+(ROOT
+  (NP
+    (NP (NN can))
+    (: ;)
+    (S
+      (NP (NN t))
+      (VP (VBP seem)
+        (S
+          (VP (TO to)
+            (VP (VB locate)
+              (NP (DT another) (NN one))
+              (PP (IN at)
+                (NP
+                  (NP (DT any))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (NNS airports))
+                      (SBAR
+                        (S
+                          (NP (PRP I))
+                          (VP (VBP have)
+                            (VP (VBN been)
+                              (VP (VBG traveling)
+                                (ADVP (RB too))))))))))))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (DT This) (NN place))
+      (VP (VBD was)
+        (VP (VBN ok))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (ADVP (RB just))
+      (NP
+        (NP (DT a) (JJ convience) (NN store))
+        (PP (IN in)
+          (NP (DT the) (NN airport)
+            (S
+              (VP (TO to)
+                (VP (VB grab)
+                  (S
+                    (NP
+                      (NP (DT some) (NN candy))
+                      (CC or)
+                      (NP (JJ other)
+                        (ADJP (JJ bad)
+                          (PP (IN for)
+                            (NP (PRP you))))
+                        (NNS munchies)))
+                    (VP (TO to)
+                      (VP (VB take)
+                        (PP (IN on)
+                          (NP (DT the) (NN plane)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP
+        (NP (JJ typical) (NN airport) (NN pricing))
+        (CC and)
+        (NP (NN selection))))
+    (. .)))
+
+

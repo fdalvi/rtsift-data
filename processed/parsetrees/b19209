@@ -1,0 +1,144 @@
+(ROOT
+  (NP (JJ Great) (NN food) (. .)))
+
+(ROOT
+  (NP (JJ Friendly) (NN staff) (. .)))
+
+
+(ROOT
+  (NP
+    (NP (JJ Good) (NN food))
+    (, ,)
+    (NP (JJ great) (NN value))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (JJ favourite) (NNP KW) (NN breakfast))
+    (VP (VBP place))
+    (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (MD can) (RB not)
+        (VP (VB speak)
+          (PP (IN for)
+            (NP (PRP$ their) (NN lunch)
+              (CC and)
+              (NN dinner) (NN service))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (MD will)
+        (VP (VB vouch)
+          (PP (IN for)
+            (NP (DT the) (JJ excellent) (NN breakfast) (NNS options))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT This))
+      (VP (VBZ is)
+        (NP (DT a) (JJ Greek) (NN restaurant))
+        (SBAR (IN so)
+          (S
+            (NP (EX there))
+            (VP (VBP are)
+              (NP
+                (NP (DT some) (JJ wonderful) (NNS options))
+                (SBAR (IN that)
+                  (S
+                    (NP (PRP you))
+                    (VP (MD wo) (RB n't)
+                      (VP (VB see)
+                        (ADVP (RB elsewhere))))))))))))
+    (, ,)
+    (NP (JJ Greek) (NN style) (NN sausage) (, ,) (NNS olives)
+      (CC and)
+      (NNS feta))
+    (ADVP (RB often))
+    (VP (VBP join)
+      (SBAR
+        (S
+          (NP
+            (NP (NNS omelettes))
+            (CC and)
+            (NP (JJ other)
+              (ADJP (RBR more) (JJ traditional))
+              (NN breakfast)))
+          (VP (VBP fare)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Breakfasts))
+    (VP
+      (VP (VBP are)
+        (ADJP
+          (ADJP (JJ big))
+          (CC but)
+          (RB not)
+          (ADJP (RB absurdly) (JJ overlarge))))
+      (CC and)
+      (VP
+        (VP (VBP include))
+        (: ;)
+        (NP
+          (NP (NN bacon)
+            (CC &)
+            (NNS eggs))
+          (, ,)
+          (NP (NNS waffles))
+          (, ,)
+          (NP (NNP eggs) (NNP Benedict))
+          (CC and)
+          (NP (NN meat) (NN lover) (NNS options)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Vegetarian))
+    (ADJP (JJ friendly))
+    (ADVP (RB too))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Never))
+    (VP (VBD found)
+      (NP
+        (NP (DT a) (JJ errant) (NN bacon))
+        (VP (VBN shard)
+          (PP (IN in)
+            (NP
+              (NP (DT the) (NNS taters))
+              (, ,)
+              (NP (NN whew)))))))
+    (. !)))
+
+(ROOT
+  (S
+    (VP
+      (VP (VB Try)
+        (NP (PRP it)))
+      (CC and)
+      (VP (VB let)
+        (S
+          (NP (PRP me))
+          (VP (VB know)
+            (SBAR
+              (WHADVP (WRB how))
+              (S
+                (NP (DT the) (NNS dinners))
+                (VP (VBP are))))))))
+    (. !)))
+
+(ROOT
+  (NP (NNP Cheers) (NNP ;-RRB-)))
+
+

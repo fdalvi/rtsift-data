@@ -1,0 +1,463 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (PP (IN in)
+        (NP
+          (NP (NN search))
+          (PP (IN for)
+            (NP
+              (NP (DT the) (JJS best) (NN Pastrami))
+              (PP (IN in)
+                (NP (NNP Las) (NNP Vegas))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (LST (JJ First))
+    (VP (VB stop)
+      (NP (NNP Subway)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD ordered)
+      (NP (DT the) (CD 6))
+      (PP (IN in)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Pastrami))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN portion))
+      (PP (IN of)
+        (NP (NNP Pastrami))))
+    (VP (VBD was)
+      (ADJP (JJ small))
+      (PP (VBN compared)
+        (SBAR
+          (S
+            (VP (TO to)
+              (VP (VB add)
+                (NP (NN ons))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN meat))
+    (VP (VBD lacked)
+      (SBAR
+        (S
+          (NP
+            (NP (NN flavor))
+            (, ,) (RB even)
+            (NP
+              (NP (DT the) (NNS jalapenos))
+              (SBAR
+                (S
+                  (NP (PRP I))
+                  (VP (VBD added))))))
+          (VP (VBD had)
+            (NP (DT no) (NN heat))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB So))
+    (, ,)
+    (ADVP
+      (NP (DT no) (NN suprise))
+      (RB here))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP
+      (VP (VBN Was)
+        (PP (IN in)
+          (NP (DT the) (NN area))))
+      (CC and)
+      (VP (VBN stopped)
+        (PP (IN by)
+          (PP (IN for)
+            (NP (NN lunch))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBD was)
+        (PP (IN around)
+          (NP (CD 1) (NN pm)))))
+    (CC and)
+    (S
+      (NP (DT the) (NN restaurant))
+      (VP (VBD was)
+        (ADJP
+          (ADJP (JJ empty))
+          (: ...)
+          (ADJP (JJ perfect)))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD ordered)
+      (NP (DT a)
+        (ADJP (CD 12))
+        ('' '') (NN BMT))
+      (, ,)
+      (ADVP (RB toasted))
+      (, ,)
+      (PP (IN on)
+        (NP
+          (NP (JJ Italian) (NNS Herbs))
+          (CC and)
+          (NP
+            (NP (NNP Cheese) (NNP Bread))
+            (PRN (-LRB- -LRB-)
+              (NP ($ $) (CD 6))
+              (-RRB- -RRB-))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNP Sandwich) (NN Artist))
+      (VP (VBD made)
+        (NP (PRP$ my) (NN sammie))
+        (PP (TO to)
+          (NP (NN order)))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD tasted)
+        (ADJP (RB very) (JJ good))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (DT Another) (JJ great) (NN visit))
+    (PP (TO to)
+      (NP (NNP Subway)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP 're)
+        (ADJP (RB pretty) (JJ consistent))))
+    (CC and)
+    (S
+      (NP (DT that))
+      (VP (VBZ 's)
+        (SBAR
+          (WHADVP (WRB why))
+          (S
+            (NP (PRP they))
+            (VP (VBP 're)
+              (NP
+                (NP (CD one))
+                (PP (IN of)
+                  (NP (PRP$ my) (JJ favorite) (NNS places)))
+                (S
+                  (VP (TO to)
+                    (VP (VB go)
+                      (SBAR
+                        (WHADVP (WRB when))
+                        (S
+                          (NP (PRP I))
+                          (VP (VBP want)
+                            (NP (DT a) (JJ quick) (, ,) (JJ cheap) (NN meal))))))))))))))
+    (. .)))
+
+(ROOT
+  (SQ (MD Will)
+    (NP (PRP I))
+    (VP (VB return))
+    (. ?)))
+
+(ROOT
+  (INTJ (JJ Sure) (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD walked)
+        (PP (IN in)
+          (NP
+            (NP (RBR earlier) (DT this) (NN week))
+            (PP (IN at)
+              (NP
+                (NP (NNS 7an))
+                (PP (IN in)
+                  (NP (DT the) (NN morning)))))))
+        (, ,)
+        (ADVP (RB no)
+          (NP (CD one))
+          (PP (IN in)
+            (NP (DT the) (NN place))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (MD would) (RB n't)
+        (VP (VB toast)
+          (NP
+            (NP
+              (QP (RB only) (CD 1/2)))
+            (PP (IN of)
+              (NP (PRP$ my) (NN foot) (JJ long) (NN sandwich))))
+          (, ,)
+          (SBAR (IN although)
+            (S
+              (NP (PRP it))
+              (VP (VBD was)
+                (NP
+                  (NP (JJ only) (NN tuna))
+                  (, ,)
+                  (NP
+                    (NP (NN nothing) (RB else))
+                    (PP (IN on)
+                      (NP (DT the) (NN sandwich)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD contacted)
+        (NP (NN subway) (JJ corporate))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBD had)
+        (S
+          (NP (DT the) (NN store) (NN manager))
+          (VP (VB reach)
+            (PRT (RP out))
+            (PP (TO to)
+              (NP (PRP me)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN store) (NN manager))
+      (VP (VBD gave)
+        (NP (PRP me))
+        (NP
+          (NP (DT a) (CD 1) (NN min) (NN story))
+          (PP (IN about)
+            (NP (NN employee) (NN theft))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (ADVP (RB just))
+      (VP (VBD zoned)
+        (PRT (RP out))
+        (SBAR (IN after)
+          (S
+            (NP (DT that) (NN point))
+            (VP (VBP cause)
+              (SBAR
+                (S
+                  (NP (DT this) (NN guy))
+                  (VP (VBZ has)
+                    (NP
+                      (NP (DT no) (NN idea))
+                      (SBAR
+                        (S
+                          (NP (DT the) (NN customer))
+                          (VP (VBZ comes)
+                            (ADVP (RB first))
+                            (, ,)
+                            (PP (IN before)
+                              (NP (PRP$ his) (JJ internal) (NNS challenges)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Fix)
+      (NP (DT the) (NN prob))
+      (ADVP (RB internally))
+      (PP (IN without)
+        (S
+          (VP (VBG affecting)
+            (NP (NN customer) (NN service))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Huh))
+    (. .)))
+
+(ROOT
+  (S (RB Not)
+    (S
+      (VP (VBG going)
+        (PRT (RP back))
+        (PP (TO to)
+          (NP
+            (NP (DT this) (NN subway) (NN store))
+            (, ,)
+            (SBAR
+              (WHADVP (RB especially) (WRB when))
+              (S
+                (NP (CD 2) (JJ other) (NNS subways))
+                (NP (PRP I))))))))
+    (VP (MD frequent)
+      (VP (VB honor)
+        (NP (PRP$ my) (NN request))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB only))
+    (VP (VBP come)
+      (ADVP (RB here))
+      (PP (IN for)
+        (NP
+          (NP (DT the) (NN convenience))
+          (PP (IN of)
+            (NP (NN location))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ Their) (NN turn))
+      (PP (IN over)
+        (NP (NN rate))))
+    (VP (VBZ is)
+      (ADJP (JJ ridiculous)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBP are)
+      (ADVP (RB always))
+      (NP
+        (NP (NN brand) (JJ new) (NNS employees))
+        (VP
+          (ADVP (RB always))
+          (VBG working)
+          (ADVP (RB alone))
+          (PP (IN with)
+            (NP (DT no) (JJ extra) (NN help))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (PRP I))
+        (VP (VB return)
+          (ADVP
+            (NP (DT a) (JJ few) (NNS weeks))
+            (RB later)))))
+    (NP (DT those) (NNS employees))
+    (VP (VBP are)
+      (VP (VBN replaced)
+        (PP (IN with)
+          (NP (NN brand) (JJ new) (NNS ones)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN food))
+      (VP (VBZ is)
+        (VP (VBN prepared)
+          (ADVP (RB well)))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP do) (RB n't)
+      (VP (VB have)
+        (NP
+          (NP (DT a) (NN complaint))
+          (PP (IN about)
+            (NP (DT that))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (RB maybe) (DT the) (NN owner))
+          (VP
+            (VP (VBZ is)
+              (ADJP (JJ cheap)))
+            (CC and)
+            (VP (VBZ does) (RB n't)
+              (VP (VB have)
+                (NP
+                  (NP (CD 2) (NNS people))
+                  (PP (IN on)
+                    (NP (DT every) (NN shift))))
+                (SBAR (IN in) (NN order)
+                  (S
+                    (VP (TO to)
+                      (VP (VB save)
+                        (NP (NN money))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP hate)
+      (S
+        (VP (VBG coming)
+          (ADVP (RB here)
+            (CC and)
+            (RB damn))
+          (NP (PRP myself))))
+      (NP
+        (NP (DT every) (NN time))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP leave)
+              (SBAR (IN because)
+                (S
+                  (NP
+                    (NP (DT the) (NN length))
+                    (PP (IN of)
+                      (NP
+                        (NP (NN time))
+                        (SBAR
+                          (S
+                            (NP (PRP it))
+                            (VP (VBZ takes)
+                              (S
+                                (VP (TO to)
+                                  (VP (VB make)
+                                    (NP (CD 3) (NNS sandwiches)))))))))))
+                  (VP (VBZ is)
+                    (ADJP (JJ unbearable))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Hire)
+      (NP (JJR more) (NNS employees)))
+    (. !)))
+
+

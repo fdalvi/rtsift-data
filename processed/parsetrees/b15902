@@ -1,0 +1,104 @@
+(ROOT
+  (S
+    (VP (VB Aweful))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (ADVP (RB never))
+    (VP (VBP get)
+      (NP (DT a) (NN call))
+      (ADVP (RB back)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (ADVP (RB never))
+    (VP (VBP know)
+      (SBAR
+        (WHADVP (WRB where))
+        (S
+          (NP (NNS issues))
+          (VP (VBP are)
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP you))
+                (VP (VBP 've)
+                  (VP (VBN brought)
+                    (NP (PRP it))
+                    (PP (TO to)
+                      (NP (PRP$ their) (NN attention)))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (DT some))
+    (VP (VBP are) (RB not)
+      (ADJP (RB very) (JJ helpful)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would) (RB not)
+      (VP (VB recommend)
+        (NP (PRP them))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJS worst) (NN Management) (NN Company))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP have)
+              (VP (VBN seen)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP play)
+      (NP (NNS favorites))
+      (PP
+        (ADVP (RB especially))
+        (TO to)
+        (NP
+          (NP (NNS people))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBP own)
+                (NP (JJ multiple) (NNS properties)))))))
+      (, ,)
+      (SBAR
+        (SBAR
+          (S
+            (NP (PRP They))
+            (VP (VBP ignore)
+              (NP (NNS emails)))))
+        (CC and)
+        (SBAR (IN as)
+          (S
+            (NP (DT the) (JJ other) (NN review))
+            (VP (VBZ says)
+              (SBAR
+                (S
+                  (NP (PRP they))
+                  (VP (VBP do) (RB n't)
+                    (VP (VB call)
+                      (NP (NNS people))
+                      (ADVP (RB back)))))))))))
+    (. .)))
+
+(ROOT
+  (NP (NNP STAY) (NNP AWAY)))
+
+

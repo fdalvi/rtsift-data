@@ -1,0 +1,694 @@
+(ROOT
+  (FRAG
+    (NP (NNP Wal) (NNP mart) (NNP Neighborhood) (NNP Store))
+    (: -)
+    (S
+      (NP (DT These) (NNP mini) (NNP Wal) (NNP Marts))
+      (VP (VBP are)
+        (NP
+          (NP (DT all))
+          (PP (IN over)
+            (NP (DT the) (NNP Las) (NNP Vegas) (NN area))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP are)
+      (ADJP (JJ open)
+        (NP (CD 24/7))
+        (PP (IN except)
+          (NP (NNP Christmas)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN night) (NNS employees))
+    (VP
+      (VP (VBP do)
+        (NP
+          (NP (DT a) (NN lot))
+          (PP (IN of)
+            (S
+              (VP (VBG stocking)
+                (CC and)
+                (VBG cleaning))))))
+      (CC but)
+      (VP (MD can)
+        (VP
+          (VP (VB ring)
+            (NP (PRP you))
+            (PRT (RP up)))
+          (CC or)
+          (VP (VB answer)
+            (NP (DT a) (NN question))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT These))
+    (VP
+      (VP (VBP are)
+        (ADJP
+          (ADJP (JJR more))
+          (PP
+            (PP (IN like)
+              (NP
+                (NP (DT a) (JJ small) (NN Albertson) (POS 's))
+                (CC or)
+                (NP (NNP Vons))))
+            (, ,)
+            (PP (IN with)
+              (NP (NNP Wal) (NNP Mart) (NNS prices))))))
+      (CC and)
+      (VP (VBZ emphasizes)
+        (NP (NN food) (NNS items))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBP are)
+      (NP
+        (NP (DT no) (NN lawn) (NNS mowers))
+        (, ,)
+        (NP (NNS televisions))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNS appliances))
+    (, ,)
+    (CC nor)
+    (NP
+      (NP (NN clothing))
+      (PP (IN of)
+        (NP (PRP$ their) (NNS Supercenters))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT This) (NN store))
+      (VP (VBZ has)
+        (NP
+          (NP (NN none))
+          (PP (IN of)
+            (NP (DT the) (NN ghetto))))))
+    (, ,)
+    (S
+      (ADJP (JJ dirty)))
+    (, ,)
+    (S
+      (NP
+        (NP (NN barf))
+        (PP (IN on)
+          (NP (DT the) (NN floor))))
+      (VP (VBZ smells)
+        (PP (IN of)
+          (NP (DT the) (NNP Craig) (NNP St.) (NNP Wal) (NNP Mart) (NNP Supercenter)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP
+        (NP (DT a) (JJ few))
+        (PP (IN of)
+          (NP
+            (NP (DT a) (NN lot))
+            (PP (IN of)
+              (NP (NNS items)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Prices))
+    (VP (VBP are)
+      (ADVP (RB usually))
+      (NP
+        (NP (DT the) (JJ same))
+        (PP (IN as)
+          (NP (PRP$ their) (NNP Supercenter) (NNS stores)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (NN example)))
+    (PRN (, ,)
+      (S
+        (NP (PRP$ their) (JJ whole) (NN chicken))
+        (VP (VBZ is)
+          (ADVP (RB regularly))
+          (NP
+            (NP (CD 79) (NNS cents))
+            (NP (DT a) (NN pound)))))
+      (, ,))
+    (S
+      (NP
+        (NP (DT an) (CD 18) (NN pack))
+        (PP (IN of)
+          (NP (JJ large) (NNS eggs))))
+      (VP (VBP are)
+        (NP ($ $) (CD 2.49))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBP carry)
+        (NP
+          (NP (JJS most))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NNP Wal) (NNP Mart) (NN line))
+              (PP (IN of)
+                (NP (JJ generic) (NNS medicines))))))
+        (PP (IN like)
+          (NP
+            (NP
+              (NP (NN ibuprofen))
+              (PRN (-LRB- -LRB-)
+                (NP (JJ generic) (NN Advil))
+                (-RRB- -RRB-)))
+            (, ,)
+            (NP
+              (NP (NN calcium) (NNS tablets))
+              (, ,)
+              (NP (NNS bandages))
+              (, ,)
+              (NP
+                (NP (NN cough) (NNS medicines))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBP are)
+                      (ADJP
+                        (ADJP (RB far) (JJR cheaper))
+                        (PP (IN than)
+                          (NP (NN anyone) (RB else)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (TO To)
+        (VP (VB get)
+          (NP (JJR more) (NNS items))
+          (PP (IN in)
+            (NP (DT a) (JJR smaller) (NN store))))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBD stack)
+      (NP (NNS things))
+      (PRT (RP up))
+      (PP (IN on)
+        (NP (JJR higher) (NNS shelves))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNS Employees))
+      (VP (MD will)
+        (VP (VB be)
+          (ADJP (JJ glad)
+            (S
+              (VP (TO to)
+                (VP (VB help))))))))
+    (CC but)
+    (S
+      (NP (PRP you))
+      (VP (VBP have)
+        (S
+          (VP (TO to)
+            (VP (VB wait))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP SoI))
+    (ADVP (RB often))
+    (VP (VBP have)
+      (S
+        (NP (JJ old) (NNS ladies))
+        (VP (VB ask)
+          (S
+            (NP (PRP me))
+            (VP (TO to)
+              (VP (VB get)
+                (NP (NN something))
+                (PP (IN off)
+                  (NP (DT the) (JJ high) (NNS shelves)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB though))
+    (NP (PRP I))
+    (VP (VBP am)
+      (ADVP (RB only)
+        (NP (CD 5)))
+      (VP ('' '')
+        (NP (CD 7))))
+    ('' '') (. .)))
+
+(ROOT
+  (S
+    (PP (IN On)
+      (S
+        (VP (VBG preparing)
+          (PP (IN for)
+            (NP
+              (NP (DT a) (NN feast))
+              (PP (IN on)
+                (NP
+                  (NP (NNS holidays))
+                  (PP (IN like)
+                    (NP (NNP Thanksgiving)
+                      (CC and)
+                      (NNP Christmas) (NNP Eve))))))))))
+    (, ,)
+    (NP (DT this) (NN store))
+    (VP (VBZ is)
+      (NP (DT a) (NN savior)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP You))
+      (VP (MD can)
+        (VP (VB get)
+          (PRT (RP in)
+            (CC and)
+            (RP out))
+          (PP (IN within)
+            (NP (DT a) (NN hour))))))
+    (, ,)
+    (CC but)
+    (S
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP they))
+          (VP (VBP have)
+            (S
+              (NP (PRP$ their) (NN self))
+              (VP (VB serve)
+                (NP (NN line)))))))
+      (, ,)
+      (NP (PRP I))
+      (VP (VBP 've)
+        (VP (VBN been)
+          (VP
+            (ADVP (IN in)
+              (CC and)
+              (IN out)
+              (PP (IN in)
+                (NP (CD 10) (NNS minutes))))
+            (VBG buying)
+            (NP (CD five) (NNS items))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP
+        (NP
+          (NP (DT a) (JJ small) (NNS deli))
+          (, ,)
+          (NP (JJ small) (NN bakery))
+          (, ,)
+          (NP
+            (NP (JJ bottled) (NN water) (NN machine))
+            (PP (IN in)
+              (NP
+                (NP (NN store))
+                (, ,)
+                (NP (DT a) (NN pharmacy))
+                (, ,)
+                (NP (JJ clean) (NNS bathrooms))
+                (, ,)
+                (CC and)
+                (NP (DT some) (JJ seasonal) (NNS sales)))))
+          (, ,)
+          (PP (IN like)
+            (NP
+              (NP (NN bedding) (NNS plants))
+              (PP (IN in)
+                (NP (NN spring))))))
+        (, ,)
+        (NP
+          (NP (JJ pumpkins) (NN galore))
+          (PP (IN during)
+            (NP (NNP Halloween))))
+        (, ,)
+        (CC and)
+        (NP (NNS pointsettias))
+        (CC and)
+        (NP
+          (NP (NNP Christmas) (NNS trees))
+          (PP (IN in)
+            (NP (NNP December))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) ($ $) (CD 8.00))
+        (NP (NNS pointsettias)))
+      (VP (VBD were)
+        (NP
+          (NP ($ $) (CD 1.00))
+          (PP (IN on)
+            (NP (NNP Christmas) (NNP Eve))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (NNS cheapskates))
+      (VP (VBD were)
+        (VP (VBG buying)
+          (NP
+            (NP (JJ several))
+            (PP (IN as)
+              (NP (NNS gifts)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Employees))
+    (VP (VBP are)
+      (ADJP
+        (ADJP (RB pretty) (JJ nice))
+        (, ,)
+        (CC and)
+        (ADJP (JJ willing)
+          (S
+            (VP (TO to)
+              (VP (VB help)
+                (S
+                  (NP (PRP you))
+                  (VP (VB find)
+                    (NP (NN something))
+                    (SBAR (IN if)
+                      (S
+                        (NP (PRP you))
+                        (VP (VBP need)
+                          (NP (PRP it)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Overall))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP am)
+      (NP (DT a) (NN fan)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP
+      (VP (VBZ is)
+        (ADJP (JJR less))
+        (PP (IN than)
+          (NP
+            (NP (DT a) (NN mile))
+            (PP (IN from)
+              (NP (PRP$ my) (NNS relatives))))))
+      (, ,)
+      (CC and)
+      (VP (VBP am)
+        (ADJP (RB so) (JJ glad)
+          (SBAR
+            (S
+              (NP (PRP they))
+              (VP (VBP 're)
+                (VP (VBN around.And)
+                  (ADVP (RB so) (RB far))
+                  (, ,)
+                  (PP (IN like)
+                    (NP
+                      (NP (JJ many) (NNP Vegas) (NN grocery))
+                      (CC and)
+                      (NP (NN dept.)))))))))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS stores))
+      (, ,) (RB there)
+      (NP (NN aren) (NNS -LSB-))
+      ('' '))
+    (VP (VBP t)
+      (NP (DT any) (CD one) (JJ armed) (NN bandit) (NN gambling) (NNS machines)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP love)
+      (NP (PRP it))
+      (, ,)
+      (PP (IN because)
+        (NP (PRP$ its)
+          (ADJP (JJR better)
+            (PP (IN than)
+              (S
+                (VP (VBG going)
+                  (PP (TO to)
+                    (NP (DT a) (JJ actual) (NN Walmart)))
+                  (SBAR
+                    (WHADVP (WRB when))
+                    (S
+                      (NP (PRP you))
+                      (ADVP (RB just))
+                      (VP (VBP need)
+                        (NP (DT a) (JJ few) (NNS items))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Store))
+    (VP (VBD was)
+      (ADVP (RB well))
+      (VP (VBN lit) (, ,)
+        (CC and)
+        (VBN stocked)))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (DT the) (NNS employees))
+    (VP
+      (VP (VBD were)
+        (ADJP (JJ friendly)))
+      (CC and)
+      (VP (VBD worked)
+        (ADVP (RB fast))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP like)
+      (S
+        (VP (TO to)
+          (VP (VB go)
+            (ADVP (RB here) (RB early))
+            (PP (IN in)
+              (NP (DT the) (NN morning)))
+            (SBAR (IN because)
+              (S
+                (NP (PRP it))
+                (VP (VBZ is)
+                  (ADJP (JJ quiet)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (MD can)
+      (VP (VB get)
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (NP (PRP you))
+            (VP (VBP need)
+              (ADVP (RB quickly))
+              (PP (IN without)
+                (NP
+                  (NP (DT the) (NN drama))
+                  (PP (IN of)
+                    (S
+                      (VP (VBG going)
+                        (PP (TO to)
+                          (NP (DT the) (JJ big) (NNP Wally) (NNP World)))
+                        (PP (IN on)
+                          (NP (NNP Decatur)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB only))
+    (VP (VBP go)
+      (PP (TO to)
+        (NP (DT the) (JJ big) (NN one)))
+      (SBAR (IN if)
+        (S
+          (NP (PRP I))
+          (ADVP (RB absolutely))
+          (VP (MD can) (RB not)
+            (VP (VB avoid)
+              (NP (PRP it)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB almost))
+    (VP (VBD everything)
+      (SBAR
+        (S
+          (NP (PRP you))
+          (VP (MD would)
+            (VP (VB need)
+              (S (RB so)
+                (VP (VB check)
+                  (NP (PRP it))
+                  (PRT (RP out)))))))))
+    (. !)))
+
+(ROOT
+  (S (CC Plus)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (ADVP
+        (ADVP (RB right) (JJ next)
+          (PP (TO to)
+            (NP (PRP$ my) (NN gym))))
+        (SBAR (IN so)
+          (S
+            (NP (PRP it))
+            (VP (VBZ 's)
+              (NP (JJ super) (NN coveinent)))))))
+    (. !)))
+
+
+(ROOT
+  (S (RB So)
+    (VP (VB prefer)
+      (NP
+        (NP (DT this))
+        (PP (IN over)
+          (NP
+            (NP (DT the) (JJ super) (NN center))
+            (PP (IN on)
+              (NP (NN decatur)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADJP (JJ Ready)
+        (S
+          (VP (TO to)
+            (VP (VB navigate))))))
+    (CC and)
+    (S
+      (ADVP (RB well))
+      (VP (VBN laid)
+        (PRT (RP out))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP feel)
+      (SBAR (IN like)
+        (S
+          (NP (DT this))
+          (VP (VBZ is)
+            (NP (DT an) (JJ average) (, ,) (JJ good) (NN Walmart))))))
+    (. !)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP I))
+        (VP (VBP buy)
+          (NP (NN something)))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ exceeds)
+      (NP (PRP$ my) (NNS expectations) (NN lol)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP buy)
+        (NP (NN dinner))
+        (ADVP (RB here)
+          (NP (DT a) (RB lot)))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP I))
+            (VP (VBP run)
+              (PRT (RP out))
+              (PP (IN of)
+                (NP (NN money))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (JJ hot) (NNS wings))
+      (VP (VBP are)
+        (NP (PRP$ my) (NN favorite))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (VP (VBN got)
+        (NP (DT a) (NN pharmacy)
+          (CC and)
+          (CD 2) (NN redbox) (NNS machines))
+        (ADVP (RB inside))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN store))
+    (VP (VBZ is)
+      (ADVP (RB probs))
+      (NP
+        (NP (DT the) (NN gem))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN corner))
+            (PP (IN of)
+              (NP
+                (NP (NNS stores))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBP surround)
+                      (S
+                        (NP (PRP it))
+                        (ADJP (JJ ;-RRB-))))))))))))))
+
+

@@ -1,0 +1,172 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN staff))
+      (PP (IN at)
+        (NP (DT this) (NNPS Walgreens))))
+    (VP (VBZ is)
+      (ADJP (JJ amazing)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP are)
+      (ADVP (RB consistently))
+      (ADJP (JJ friendly)
+        (CC and)
+        (JJ helpful)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (ADVP (RB apparently))
+      (NP
+        (NP (DT a) (NN prescription) (NN program))
+        (SBAR
+          (SBAR
+            (WHADVP (WRB where))
+            (S
+              (NP (PRP you))
+              (VP (VB pay)
+                (NP ($ $) (CD 20))
+                (NP
+                  (NP (DT a) (NN year))
+                  (PP (IN per)
+                    (NP (NN person)))))))
+          (, ,)
+          (CC and)
+          (SBAR (RB after) (IN that)
+            (S
+              (NP (PRP$ your) (NNS prescriptions))
+              (VP (VBP are)
+                (ADVP
+                  (ADVP (RB only) (RB up))
+                  (PP (TO to)
+                    (NP ($ $) (CD 15))))
+                (NP (DT a) (NN script))))))))
+    (: ...)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBD was)
+      (NP
+        (NP (DT the) (JJ only) (NN store))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD told)
+              (NP (PRP us))
+              (PP (IN about)
+                (NP (DT the) (NN program))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBD saved)
+      (NP (PRP us))
+      (PP (IN around)
+        (NP ($ $) (CD 500)))
+      (PP (IN on)
+        (NP (RB just) (CD one) (NN prescription))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN store))
+      (VP (VBZ has)
+        (NP (NN everything))
+        (PRN (-LRB- -LRB-)
+          (PP (IN from)
+            (NP
+              (NP (NN kitsch))
+              (PP (TO to)
+                (NP (NNP Jim) (NNP Beam)))))
+          (-RRB- -RRB-))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NN everyone))
+      (VP (VBZ 's)
+        (ADJP (RB pretty) (JJ nice))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB organize)
+        (NP (PRP it))
+        (ADJP
+          (ADJP
+            (NP (DT a) (RB little))
+            (JJR better))
+          (, ,)
+          (CC but)
+          (ADJP (RB no) (JJ biggie)))))
+    (: ...)))
+
+
+(ROOT
+  (S
+    (NP (DT A) (JJ full) (NN hour))
+    (VP (TO to)
+      (VP (VB fill)
+        (NP (DT a) (NN prescription))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Seriously))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD 'll)
+      (VP (VB go)
+        (NP (RB somewhere) (RB else) (JJ next) (NN time))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Store))
+      (VP (VBZ is)
+        (ADVP (RB always))
+        (ADJP (RB very) (JJ clean))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBP have)
+        (NP (RB very) (JJ friendly) (NNS employees)
+          (CC and)
+          (NN staff))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (PP (IN Like)
+      (NP
+        (NP (DT the) (JJ new) (NN design))
+        (SBAR (IN that)
+          (S
+            (NP (PRP they))
+            (VP (VBD did)
+              (PP (IN inside)
+                (NP (DT the) (NN store))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Keep)
+      (PRT (RP up))
+      (NP (DT the) (JJ great) (NN work)))))
+
+

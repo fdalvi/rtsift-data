@@ -1,0 +1,168 @@
+(ROOT
+  (FRAG
+    (ADJP
+      (ADJP (RB Not) (RB very) (JJ impressive))
+      (PP (IN on)
+        (NP (JJ first) (NN view)
+          (PRN (, ,)
+            (CC but)
+            (ADJP
+              (ADJP (JJ clean))
+              (, ,)
+              (ADJP (JJ comfortable))
+              (CC and)
+              (ADJP (RB reasonably) (VBN priced)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP
+      (VP (VBD stayed)
+        (ADVP (RB there))
+        (NP (CD three) (NNS nights)))
+      (CC and)
+      (VP (MD would)
+        (VP (VB recommend)
+          (NP (PRP it)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (`` ``) (NNP Continental) (NNP Breakfast) ('' ''))
+    (VP (VBD was)
+      (NP
+        (NP
+          (NP (DT a) (NN joke))
+          (: -)
+          (NP
+            (NP (JJ not-too-fresh) (NNS bagels))
+            (PP (IN with)
+              (NP (NN cream) (NN cheese)
+                (CC and)
+                (NNS jellies)))))
+        (, ,)
+        (NP (JJ weak) (NN coffee))
+        (CC and)
+        (NP
+          (NP (DT a) (JJ nice) (NN choice))
+          (PP (IN of)
+            (NP
+              (NP (NNS teas))
+              (CC and)
+              (NP (JJ hot) (NN chocolate)))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Other))
+    (PP (IN than)
+      (NP
+        (NP (DT that))
+        (, ,)
+        (ADJP (RB not) (JJ bad))))
+    (PP
+      (PP (IN at)
+        (NP (DT all)))
+      (: -) (RB especially)
+      (PP (IN for)
+        (NP (NNP Gila) (NNP Bend))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (DT The) (JJ front) (NN desk) (NN receptionist))
+    (NP (JJ Rere) (NNS rocks))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT This) (NN place))
+      (VP (VBD was)
+        (NP (DT a) (JJ fantastic) (NN place)
+          (S
+            (VP (TO to)
+              (VP (VB stay)))))))
+    (, ,)
+    (S
+      (NP (PRP she))
+      (VP (VBD made)
+        (SBAR
+          (S
+            (NP (PRP us))
+            (VP
+              (VP (VBP smile))
+              (CC and)
+              (VP (NN laugh)))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (ADVP (RB highly))
+      (VP (VBP recommend)
+        (NP (DT a) (NN stay))
+        (ADVP (RB here))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN place))
+    (VP (VBZ is) (RB not)
+      (ADJP (JJ new))
+      (SBAR (IN so)
+        (S
+          (S
+            (S
+              (VP (VB get)
+                (PRT (RP over))
+                (NP (PRP it))))
+            (, ,)
+            (NP (DT the) (NNS rooms))
+            (VP (VBP are)
+              (ADJP (JJ spacious))))
+          (CC and)
+          (S
+            (NP (EX there))
+            (VP (VBD were)
+              (NP
+                (NP (CD 4) (NNS adults))
+                (PP (IN in)
+                  (NP (PRP$ our) (NN group)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (JJ continental) (NN breakfast))
+      (VP (VBD was)
+        (NP
+          (NP (CD one))
+          (PP (IN of)
+            (NP (DT the) (JJS best))))))
+    (, ,)
+    (NP (PRP I))
+    (ADVP (RB even))
+    (VP (VBD asked)
+      (PP (IN for)
+        (NP (DT the) (NN breakfast) (NN burrito) (NN recipe))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (NP (DT a) (JJ great) (NN place)
+        (S
+          (VP (TO to)
+            (VP
+              (VP (VB stay))
+              (, ,)
+              (VP (VB clean)
+                (NP (NNS rooms)))
+              (CC and)
+              (VP (VB courteous)
+                (NP (NN staff))))))))
+    (. .)))
+
+

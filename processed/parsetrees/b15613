@@ -1,0 +1,106 @@
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP (JJ next)
+        (PP (TO to)
+          (NP (PRP$ my) (NN house))))
+      (SBAR (IN so)
+        (S
+          (NP (PRP I))
+          (VP (VBP have)
+            (S
+              (VP (TO to)
+                (VP (VB give)
+                  (NP (PRP it))
+                  (NP
+                    (NP (DT a) (CD 3) (NNS stars))
+                    (SBAR (IN since)
+                      (S
+                        (NP (PRP we))
+                        (ADVP (RB always))
+                        (VP (VB fill)
+                          (NP (DT the) (NN car))
+                          (ADVP (RB there))
+                          (PP (IN before)
+                            (NP
+                              (NP (DT any) (NN trip))
+                              (SBAR
+                                (S
+                                  (NP (PRP we))
+                                  (VP (VBP take)))))))))))))))))))
+
+
+(ROOT
+  (S
+    (NP (PRP$ my) (NN morning) (NN coffee))
+    (VP (VBP stop)
+      (PP (IN on)
+        (NP (DT the) (NN way)
+          (S
+            (VP (TO to)
+              (VP (VB work)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Staff))
+    (VP (VBZ is)
+      (ADVP (RB always))
+      (ADJP (JJ nice))
+      (SBAR (RB even)
+        (S
+          (VP (VBD thought)
+            (SBAR
+              (S
+                (NP (PRP it))
+                (VP (VBZ is)
+                  (NP
+                    (NP (CD 6))
+                    (PP (IN in)
+                      (NP (DT the) (NN morning)))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (ADJP (RB Reasonably) (VBN priced))
+      (NN gas))
+    (VP (VBP station/store)
+      (ADVP (JJ next))
+      (PP (TO to)
+        (NP (NNP Fox) (JJ Rental) (NN car))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBZ is) (RB n't)
+      (NP (RB here))
+      (ADVP (RB anymore)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJ 5th) (NN time))
+        (PP (IN on)
+          (NP (PRP$ our) (NN trip))))
+      (SBAR (IN that)
+        (S
+          (NP (NN yelp))
+          (VP (VBZ has)
+            (VP (VBP do)
+              (S
+                (VP (VBG e)
+                  (S
+                    (NP (DT this))
+                    (VP (TO to)
+                      (VP (VBZ is)))))))))))
+    (. .)))
+
+

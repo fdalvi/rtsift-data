@@ -1,0 +1,79 @@
+(ROOT
+  (S
+    (NP (JJ Nicest) (NNS ladies))
+    (VP (VBP run)
+      (NP (JJ dry) (NNS cleaners)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (ADJP (RB Perfectly) (JJ dry))
+      (NNS cleaned))
+    (VP (VBZ clothes.Always)
+      (ADJP (JJ ready)
+        (PP (IN on)
+          (NP (NN time)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP use)
+      (S
+        (NP (PRP them))
+        (NP
+          (NP (DT a) (NN couple))
+          (PP (IN of)
+            (NP
+              (NP (NNS times))
+              (NP (DT a) (NN month)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP$ My) (NNS clothes))
+      (VP (VBP are)
+        (ADVP (RB always))
+        (ADJP (JJ ready)
+          (PP (IN on)
+            (NP (NN time))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP 've)
+        (ADVP (RB never))
+        (VP (VBN had)
+          (NP (DT an) (NN issue)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VB Altered)
+      (NP (PRP$ my) (NN dress))
+      (PP (IN in)
+        (NP (DT a) (NN day))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP
+      (VP (VBD came)
+        (PRT (RP out))
+        (NP (JJ perfect)))
+      (CC and)
+      (VP (VBD was)
+        (ADJP (RB reasonably) (VBN priced))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Very))
+    (NP (JJ happy) (NN customer))
+    (. .)))
+
+

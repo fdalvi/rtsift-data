@@ -1,0 +1,78 @@
+(ROOT
+  (S
+    (S
+      (NP (NN Morning) (NN crew))
+      (VP (VBZ sees)
+        (NP (PRP me))
+        (NP (NN everyday))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBP are)
+        (ADJP (JJ awesome)
+          (CC and)
+          (JJ nice))))
+    (. !)))
+
+
+(ROOT
+  (NP
+    (NP (JJ Typical) (NN gas))
+    (NP (NN station))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Staff))
+    (VP (VBZ is)
+      (ADJP (JJ nice)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Food))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (JJ decent))
+        (CC and)
+        (ADJP (RB usually) (JJ ready)))
+      (S
+        (VP (TO to)
+          (VP (VB go)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Gas) (JJ digital) (NNS readers))
+    (VP (MD can)
+      (VP (VB be)
+        (ADJP (JJ hard)
+          (S
+            (VP (TO to)
+              (VP (VB see)
+                (PP (IN in)
+                  (NP
+                    (NP (DT the) (NN sunlight))
+                    (PP (IN at)
+                      (NP (NNS times)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Overall))
+    (S
+      (NP (DT a) (JJ good) (NN spot)
+        (S
+          (VP (TO to)
+            (VP (VB stop)
+              (PP (IN for)
+                (NP (DT a) (JJ quick)))))))
+      (VP (VBP fill)
+        (PRT (RP up))))
+    (CC and)
+    (S
+      (NP (DT a) (JJ few))
+      (VP (VBZ snacks)))
+    (. .)))
+
+

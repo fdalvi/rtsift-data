@@ -1,0 +1,205 @@
+(ROOT
+  (S
+    (NP (NNS Slurpees))
+    (VP (VBP are)
+      (ADVP (RB always))
+      (PP (IN in)
+        (NP
+          (NP
+            (NP (JJ top) (JJ notch) (NN condition))
+            (ADVP (RB here)))
+          (CC and)
+          (NP
+            (NP (RB plenty))
+            (PP (IN of)
+              (NP
+                (NP (NN coffee))
+                (PP (IN in)
+                  (NP (DT the) (NN morning))))))))
+      (, ,)
+      (PP (VBG including)
+        (NP
+          (NP (DT the)
+            (ADJP (JJ delicious) (JJ blueberry))
+            (NN coffee))
+          (SBAR
+            (S
+              (NP (PRP they))
+              (VP (VBP have)
+                (VP (VBN been)
+                  (NP
+                    (NP (NN brewing))
+                    (PP (IN of)
+                      (NP (JJ late)))))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Plus) (JJ friendly) (NN staff))
+    (PP (IN on)
+      (NP
+        (NP (NN top))
+        (PP (IN of)
+          (NP (PRP it)))))
+    (, ,)
+    (NP
+      (NP (CD one))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (JJS best) (NN 7-11s))
+          (PP (IN in)
+            (NP (NN town))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB often))
+    (VP (VBP stop)
+      (PP
+        (ADVP (RB here))
+        (IN for)
+        (NP
+          (NP (PRP$ my) (NN coffee))
+          (PP (IN on)
+            (NP (DT the) (NN way)))))
+      (UCP
+        (PP (IN into)
+          (NP (NN work)))
+        (CC and)
+        (S
+          (VP (TO to)
+            (VP (VB get)
+              (NP (NN gas)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Service))
+    (VP (VBZ is)
+      (ADVP (RB usually))
+      (ADJP (JJ fast)
+        (CC and)
+        (JJ friendly)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP
+        (NP (DT a) (RB fairly) (JJ regular) (NN staff))
+        (ADVP (RB here))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (NP (DT all))
+            (VP (VBP know)
+              (SBAR
+                (WHNP (WP what))
+                (S
+                  (NP (PRP they))
+                  (VP (VBP 're)
+                    (VP (VBG doing))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (JJ Hot) (NN day))
+    (, ,)
+    (NP
+      (NP (DT no) (NN water))
+      (UCP
+        (PP (IN in)
+          (NP (DT the) (NN car)))
+        (CC and)
+        (ADJP (RB basically) (JJ hungry)
+          (CC and)
+          (JJ thirsty))
+        (CC and)
+        (ADVP (RB there))))
+    (VP (VBZ 's)
+      (NP
+        (NP (JJ good) (NN ol') (NN 7-11))
+        (PP (IN with)
+          (NP
+            (NP (DT the) (JJ usual) (NN assortment))
+            (CC or)
+            (NP (NNS drinks)
+              (CC and)
+              (NNS snacks))
+            (, ,) (FW etc.)))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NN water))
+      (, ,)
+      (NP (NN granola) (NN bar))
+      (CC and)
+      (NP (PRP I)))
+    (VP (VBP 'm)
+      (PRT (RP out))
+      (PP (IN in)
+        (NP (CD 3) (NNS minutes))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP come)
+      (ADVP (RB here))
+      (PP (IN during)
+        (NP
+          (NP (PRP$ my) (NN lunch))
+          (PP (IN for)
+            (NP (DT a) (JJ small) (NN snack)
+              (CC or)
+              (NN drink))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ Its) (JJ quick))
+      (CC and)
+      (NP
+        (NP (NN convient))
+        (PP (IN for)
+          (NP (PRP me)))
+        (PP (IN since)
+          (NP (PRP I)))))
+    (VP (VBP go)
+      (ADVP (RB usually))
+      (PP (IN during)
+        (NP (PRP$ my) (NN lunch))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN staff))
+    (VP (VBZ is)
+      (ADJP (RB really) (JJ nice)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB As) (RB soon)
+      (SBAR (IN as)
+        (S
+          (NP (PRP I))
+          (VP (VBP walk)
+            (PRT (RP in))))))
+    (NP (PRP they))
+    (VP
+      (ADVP (RB always))
+      (VBP greet)
+      (NP (PRP me))
+      (PP (IN with)
+        (NP (DT a) (NN smile))))
+    (. .)))
+
+

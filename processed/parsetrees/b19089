@@ -1,0 +1,130 @@
+(ROOT
+  (S
+    (NP (DT This) (NN radio) (NN station))
+    (VP (VBZ is)
+      (ADJP (JJ awesome)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJS Best))
+    (NP
+      (NP (JJ rock/classic) (NN rock) (NN radio) (NN station))
+      (PP (IN in)
+        (NP (DT the) (NN valley))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT All) (NNP DJs))
+    (VP (VBP are)
+      (ADJP (JJ excellent)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (VB Check))
+    (PP (IN out)
+      (NP
+        (NP (NNP Sludge))
+        (CC and)
+        (NP
+          (NP (DT the) (NN crew))
+          (PP (IN for)
+            (NP (PRP$ their) (NN morning) (NN show)))))
+      (NP (NNP Monday) (CD thru)))
+    (NP (NNP Friday))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (SBAR
+        (WHADVP (WRB When))
+        (S
+          (NP (PRP I))
+          (VP (VBP want)
+            (PP (TO to)
+              (NP (NNP Rock-out))))))
+      (NP (PRP I))
+      (VP (VBP tune)
+        (PP (IN in)
+          (PP (TO to)
+            (NP (NNP KDKB))))))
+    (: ...)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (NP (NN hardcore) (NN rock) (NN baby))))
+    (. !)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP I))
+        (VP (VBP head)
+          (PP (TO to)
+            (NP (DT the) (NN gym))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (MD 'll)
+      (VP (VB listen)
+        (PP (TO to)
+          (NP (DT this) (NN station)
+            (S
+              (VP (TO to)
+                (VP (VB get)
+                  (NP (PRP me))
+                  (PP (IN in)
+                    (NP (DT that) (NN aggro-beast-mode))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP play)
+      (NP
+        (NP (DT all))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NNS classics))
+            (PP (IN from)
+              (NP (PRP$ my) (NN childhood))))))
+      (PP (TO to)
+        (NP (JJ early)
+          (NP (CD 20) (POS 's)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Metallica)
+        (CC and)
+        (NNP Led) (NNP Zeppelin))
+      (VP (VBP get)
+        (NP
+          (NP (DT a) (NN lot))
+          (PP (IN of)
+            (NP
+              (NP (NN play))
+              (PP (IN on)
+                (NP (RB here))))))))
+    (CC and)
+    (S
+      (NP (DT that))
+      (VP (VBZ 's)
+        (ADJP (RB just) (JJ fine)
+          (PP (IN by)
+            (NP (PRP me))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Return) (NNP Factor))
+    (: -)
+    (NP (CD 66.6) (NN %))))
+
+

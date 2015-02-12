@@ -1,0 +1,110 @@
+(ROOT
+  (NP
+    (NP
+      (NP (JJR More))
+      (PP (IN like)
+        (NP (`` ``) (JJ not-worthy) ('' '') (NN piano))))
+    (VP (VBG moving))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Owner))
+    (VP (VBZ is)
+      (NP
+        (ADJP (JJ grumpy) (, ,) (JJ bad))
+        (NN service)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBN Failed)
+      (S
+        (VP (TO to)
+          (VP (VB deliver)
+            (NP (NN piano))
+            (PP (IN on)
+              (NP (JJ scheduled) (NN date)))))))
+    (. .)))
+
+
+(ROOT
+  (FRAG
+    (ADVP (RB Gurmpy))
+    (, ,)
+    (NP (JJ bad) (NN service))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NN Trouble))
+    (PP (IN with)
+      (NP (NN follow-trough)
+        (CC and)
+        (NN delivery)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (VP (VBN Scheduled)
+        (PP (IN with)
+          (NP
+            (NP (NNP Noteworthy))
+            (PP (IN for)
+              (NP (NNP Wednesday) (CD 1/15/14)))))))
+    (: -)
+    (S
+      (NP (NNP Owner))
+      (VP (VBD called)
+        (NP (DT the) (NN night))
+        (SBAR (IN before)
+          (S
+            (VP (TO to)
+              (VP (VB confirm)
+                (NP (NN appointment))
+                (PP (IN for)
+                  (NP
+                    (NP (NNP Wed) (NNP arrival))
+                    (PP (IN between)
+                      (NP (CD 8:30)
+                        (CC and)
+                        (CD 9:00) (NNS AM)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBN Arrived)
+        (PP (IN as))))
+    (VP (VBN scheduled)
+      (PP (IN at)
+        (NP (CD 8:35)))
+      (NP (DT the) (JJ next) (NN morning)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBN Moved)
+      (PP (IN in)
+        (NP (DT a) (NN baby) (JJ grand)))
+      (PP (IN with)
+        (NP (NN precision)
+          (CC and)
+          (NN care))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN delivery)
+      (CC and)
+      (NN set))
+    (ADVP (RB up))
+    (VP (VBD was)
+      (VP (VBN completed)
+        (PP (IN within)
+          (NP (CD 30) (NNS minutes)))))
+    (. .)))
+
+

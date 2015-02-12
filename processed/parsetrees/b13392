@@ -1,0 +1,60 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (DT The) (NNS employees))
+        (ADVP (RB here)))
+      (, ,)
+      (ADVP (RB well))
+      (NP
+        (NP (DT the) (NNS ones))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP 've)
+              (VP (VBN encountered)
+                (PP (IN with)))))))
+      (, ,))
+    (VP (VBP are)
+      (ADJP (JJ friendly)
+        (CC and)
+        (JJ helpful)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP
+        (NP
+          (ADJP (RB pretty) (JJ good))
+          (NNS deals))
+        (ADVP (RB too))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Check)
+      (PRT (RP out))
+      (NP (PRP$ their) (NNS ads)))
+    (. !)))
+
+
+(ROOT
+  (SINV
+    (ADVP (RB Just))
+    (VP (VBD transfered)
+      (NP (PRP$ my) (NN rx))
+      (ADVP (RB here) (RB so) (RB far)))
+    (NP
+      (NP (NN ok))
+      (, ,)
+      (NP
+        (NP (NN dont))
+        (PP (IN like)
+          (NP
+            (NP (PRP$ their) (NN phone) (NN system))
+            (ADVP (RB though))))))
+    (. .)))
+
+

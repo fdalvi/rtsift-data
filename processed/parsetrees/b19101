@@ -1,0 +1,89 @@
+(ROOT
+  (S
+    (S
+      (NP (DT This))
+      (VP (VBZ is)
+        (NP (DT a) (JJ great) (JJ little) (NN market))))
+    (CC and)
+    (S
+      (NP (DT the) (NN owner))
+      (VP (VBZ is)
+        (ADJP (RB super) (JJ friendly))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP love)
+      (NP
+        (NP (DT the) (NN labne))
+        (CC and)
+        (NP (DT the) (JJ braided) (NN string) (NN cheese))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS pitas))
+      (VP (VBP are)
+        (ADJP (JJ great))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (NNS hummus))
+      (VP (VBZ is)
+        (ADJP (JJ excellent))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP
+      (NP (NNS thanks))
+      (PP (TO to)
+        (NP (DT this) (NN market))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD was)
+      (ADJP (JJ able)
+        (S
+          (VP (TO to)
+            (VP (VB introduce)
+              (NP (PRP$ my) (NN family))
+              (PP (TO to)
+                (NP (NN sumac))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP I))
+        (VP (VBD 'd)
+          (VP (VBN had)
+            (NP (JJR more) (NN time))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB have)
+        (VP (VBN perused)
+          (NP (DT the) (NNS shelves))
+          (ADVP
+            (ADVP
+              (NP (DT a) (RB little))
+              (RBR more))
+            (SBAR (IN for)
+              (S
+                (NP (JJR more) (NNS Mediterranean))
+                (VP (VBZ treats))))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Nice) (NN place))
+      (CC and)
+      (NP (JJ great) (NN customer) (NN service)))
+    (ADJP (RB just) (JJ pricey))))
+
+

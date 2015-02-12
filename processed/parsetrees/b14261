@@ -1,0 +1,251 @@
+(ROOT
+  (S
+    (NP (NNP Nice) (NN staff)
+      (CC and)
+      (NN store))
+    (, ,)
+    (ADVP (RB however))
+    (NP
+      (NP (DT the) (NN wait) (NN time))
+      (PP (IN for)
+        (NP
+          (NP (NNS prescriptions))
+          (PP (IN in)
+            (NP (DT the) (NN drive) (NN thru))))))
+    (VP (MD can)
+      (VP (VB be)
+        (ADJP
+          (NP (DT a) (RB little))
+          (JJ long))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ 's)
+            (ADVP (RB probably))
+            (NP (DT a) (JJ good) (NN idea)
+              (S
+                (VP (TO to)
+                  (VP
+                    (VP (VB go)
+                      (PRT (RP in)))
+                    (CC and)
+                    (VP (VB pick)
+                      (PRT (RP up)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB also))
+    (VP (VBP have)
+      (NP (DT a) (NNP Redbox)
+        (CC and)
+        (JJ good) (NNS deals)
+        (CC and)
+        (NN wine)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (DT This) (NN company))
+      (VP (VBZ is)
+        (ADVP
+          (NP
+            (QP (RB about) (CD three))
+            (NN time))
+          (RB as))
+        (ADJP (JJ expensive)
+          (PP (IN as)
+            (NP (NNP Walmart))))))
+    (: ;)
+    (S
+      (NP (PRP I))
+      (ADVP (RB also))
+      (VP (VBP have)
+        (NP
+          (NP (DT a) (NN prescription))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBZ is)
+                (VP (VBN supposed)
+                  (S
+                    (VP (TO to)
+                      (VP (VB be)
+                        (VP (VBN filled)
+                          (PP (IN on)
+                            (NP
+                              (NP (DT the) (JJ third))
+                              (PP (IN of)
+                                (NP (DT each) (NN month))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (JJ Last) (NN month))
+      (NP (PRP I))
+      (VP (VBD picked)
+        (PRT (RP up))
+        (NP (PRP$ my) (NN prescription))
+        (NP (CD four) (NNS days) (RB late))
+        (SBAR
+          (ADVP
+            (ADVP (RB so) (RB now))
+            (NP (DT this) (NN month)))
+          (IN as)
+          (S
+            (NP (PRP I))
+            (VP (VBP am)
+              (PRT (RP out))
+              (PP (IN of)
+                (NP (NN medication))))))))
+    (NP (PRP they))
+    (VP (MD will) (RB not)
+      (VP (VB refill)
+        (NP (PRP$ my) (NN prescription))
+        (PP (IN until)
+          (NP
+            (NP (DT the) (CD eight))
+            (PP (IN of)
+              (NP (DT the) (NN month)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP am)
+      (VP (VBG going)
+        (S
+          (VP (TO to)
+            (VP (VB have)
+              (S
+                (VP (TO to)
+                  (VP (VB call)
+                    (NP (PRP$ my) (NNS doctors) (NN office))
+                    (S
+                      (VP (TO to)
+                        (VP
+                          (VP (VB get)
+                            (NP (DT a) (JJ new) (NN prescription)))
+                          (CC and)
+                          (VP (VB have)
+                            (S
+                              (NP (PRP it))
+                              (VP (VBN filled)
+                                (PP (IN at)
+                                  (NP
+                                    (NP (NNP Walmart))
+                                    (PRN (-LRB- -LRB-)
+                                      (SBAR
+                                        (WHADVP (WRB where))
+                                        (S
+                                          (NP (PRP I))
+                                          (VP (MD should)
+                                            (VP (VB be)
+                                              (VP (VBG doing)
+                                                (NP (PRP$ my) (NN business) (NNS anyways)))))))
+                                      (-RRB- -RRB-))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Next) (NN month))
+    (S
+      (NP (PRP I))
+      (VP (MD will)
+        (VP (VB be)
+          (ADJP (IN out)
+            (PP (IN of)
+              (NP
+                (NP (NN town))
+                (PP (IN for)
+                  (NP (CD five) (NNS days))))))
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (DT the) (NN prescription))
+              (VP (VBZ needs)
+                (S
+                  (VP (TO to)
+                    (VP (VB be)
+                      (VP (VBN picked)
+                        (PRT (RP up))))))))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP am)
+        (ADJP (JJ confident)
+          (SBAR (IN that)
+            (S
+              (NP (NNP Walmart))
+              (VP (MD will) (RB not)
+                (VP (VB deliver)
+                  (NP (JJ such) (JJ poor) (NN service))
+                  (PP (IN at)
+                    (NP (JJ such) (JJ high) (NNS rates))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VB Do) (RB n't)
+      (ADVP (RB ever))
+      (VP (VB come)
+        (ADVP (RB here))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN Because)
+      (NP (DT no) (NN one)))
+    (VP (VBZ works))
+    (NP (RB here))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (MD will)
+      (VP (VB wait)
+        (NP (NNS 30mins))
+        (SBAR (IN if)
+          (S
+            (NP (PRP you))
+            (VP (VBP need)
+              (NP (NN something)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP see))))
+    (VP (VBP do) (RB n't)
+      (VP (VB stop)
+        (VP (VB go)
+          (PP (TO to)
+            (NP (DT the) (JJ next) (CD one) (NNS please))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Do) (RB n't)
+      (VP (VB say)
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBD did) (RB n't)
+              (VP (VB warn)
+                (NP (PRP you))))))))))
+
+

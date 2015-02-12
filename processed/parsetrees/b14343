@@ -1,0 +1,134 @@
+(ROOT
+  (S
+    (NP (JJ Online) (NN check))
+    (ADVP (RB in))
+    (VP (VBZ makes)
+      (NP
+        (NP (DT the) (JJ whole) (NN hair) (NN cut) (NN process))
+        (ADJP
+          (NP (DT a) (RB lot))
+          (JJR easier))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD gave)
+      (NP (DT this))
+      (NP (DT a) (CD 4) (NN star))
+      (SBAR (IN because)
+        (S
+          (NP (PRP I))
+          (VP (VBD liked)
+            (NP
+              (NP (PRP$ my) (NN haircut))
+              (CC and)
+              (NP (DT the) (NN check)))
+            (PP (IN in))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NN service)
+      (CC and)
+      (NN quality))
+    (VP (VBP are)
+      (ADJP (JJ unreliable))
+      (: :)
+      (NP
+        (NP (CD one))
+        (PP (IN of)
+          (NP (DT the)
+            (UCP
+              (NP
+                (NP (JJS best) (NNS haircuts))
+                (SBAR
+                  (S
+                    (NP (PRP I))
+                    (VP (VBP 've)
+                      (ADVP (RB ever))
+                      (VP (VBN had))))))
+              (, ,)
+              (CC but)
+              (ADJP
+                (ADJP (RB mostly) (JJ mediocre))
+                (CC and)
+                (ADJP (RB sometimes) (RB really) (JJ awful))))
+            (NN service)))))))
+
+
+(ROOT
+  (S
+    (NP (DT This) (JJ great) (NNS clips))
+    (VP (VBZ is) (RB not)
+      (ADJP (VBN crowded)))
+    (. .)))
+
+(ROOT
+  (FRAG (CC But)
+    (RB not)
+    (NP
+      (NP (DT the) (JJS best))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (VP
+            (VP (VBN compared)
+              (PP (TO to)
+                (NP (JJ 34th) (NN ave))))
+            (CC and)
+            (VP
+              (NP (DT some) (NNS others))
+              (ADVP (RB nearby)))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (NNP Went))
+      (SBAR
+        (FRAG
+          (PP (IN in)
+            (NP
+              (NP (RB once))
+              (CC and)
+              (S
+                (NP (PRP they))
+                (VP (VBD started)
+                  (S
+                    (VP (VBG cutting)
+                      (NP (PRP$ my) (NN hair))))))))
+          (. .)))
+      (. .))
+    (X
+      (NP (DT No) (NN question))
+      (SBAR
+        (SBAR
+          (WHPP (IN on)
+            (WHNP (WP what)))
+          (S
+            (NP (PRP you))
+            (VP (VBP want)
+              (S
+                (VP (TO to)
+                  (VP (VB do)))))))
+        (CC or)
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (VP (VBP clipper)
+              (SBAR
+                (S
+                  (NP (PRP you))
+                  (VP (VBP use)
+                    (NP
+                      (NP (SYM &))
+                      (SBAR
+                        (S
+                          (NP (PRP I))
+                          (VP (VBD was)
+                            (NP (JJ first) (NN time))
+                            (ADVP (RB there))))))))))))))))
+
+

@@ -1,0 +1,58 @@
+(ROOT
+  (S
+    (NP (NNP Called) (NNP Frontier))
+    (VP (VBZ movers)
+      (PP (IN on)
+        (NP
+          (NP (DT the) (NN recommendation))
+          (PP (IN of)
+            (NP (JJ several) (NNS friends))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP
+      (VP (VBD were)
+        (VP (VBG swapping)
+          (NP (NNS houses))))
+      (CC and)
+      (VP (VBD needed)
+        (NP (DT a) (NN company))
+        (SBAR
+          (S
+            (NP (PRP we))
+            (VP (MD could)
+              (VP (VB trust)
+                (S
+                  (VP (VBG moving)
+                    (NP
+                      (NP (CD two) (NNS households))
+                      (PP (IN in)
+                        (NP (CD one) (NN day))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT These) (NNS guys))
+    (VP (VBD were)
+      (ADJP (JJ great)))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (JJ Incredibly) (JJ hard) (NNS workers))
+      (, ,)
+      (ADJP (JJ courteous)
+        (CC and)
+        (JJ fast)))
+    (. .)))
+
+(ROOT
+  (SQ (MD Would)
+    (NP (NNP highly))
+    (VP (VB recommend))
+    (. !)))
+
+

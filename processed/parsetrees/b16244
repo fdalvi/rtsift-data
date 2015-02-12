@@ -1,0 +1,140 @@
+(ROOT
+  (S (IN So)
+    (NP (PRP I))
+    (VP (VBD had)
+      (S
+        (VP (TO to)
+          (VP (VB return)
+            (NP
+              (NP (DT a) (NN box))
+              (PP (IN via)
+                (NP (NNP FedEx)))))))
+      (SBAR (CC but)
+        (S
+          (NP (PRP I))
+          (VP (VBD had)
+            (NP
+              (NP (NN duct))
+              (VP (VBN taped)
+                (NP (PRP it))
+                (SBAR (IN because)
+                  (S
+                    (NP (PRP I))
+                    (VP (VBD did) (RB not)
+                      (VP (VB have)
+                        (S
+                          (VP (VBG packing)
+                            (NP (NN tape))
+                            (PP (IN at)
+                              (NP (NN home)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN owner/employee))
+    (VP (VBZ -LRB-))
+    (. ?)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP -RRB-))
+      (VP (MD could)
+        (VP
+          (VP (VB have)
+            (VP (VBN cared)
+              (S
+                (ADJP (JJR less)))))
+          (CC and)
+          (VP (VB let)
+            (S
+              (NP (PRP me))
+              (VP (VB ship)
+                (PRT (RP out))
+                (NP (PRP$ my) (NN box))))
+            (SBAR (IN as)
+              (S
+                (VP (VBZ is))))))))
+    (CC but)
+    (ADVP (RB instead))
+    (S
+      (NP (PRP she))
+      (VP (VBD retaped)
+        (NP (PRP it))
+        (PP (IN with)
+          (NP (NN packaging) (NN tape)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (WHNP (WRB How) (JJ nice))
+    (PP (IN of)
+      (NP (PRP her)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (VBD said)
+      (SBAR
+        (SBAR (IN that)
+          (S
+            (NP (PRP I))
+            (VP (VBD was) (RB n't)
+              (VP (VBP suppose)
+                (S
+                  (VP (TO to)
+                    (VP (VB send)
+                      (NP (NNS boxes))
+                      (PP (IN with)
+                        (NP (JJ duct) (NN tape))))))))))
+        (CC and)
+        (SBAR (IN that)
+          (S
+            (NP (NNP FedEx))
+            (ADVP (RB probably))
+            (VP (MD would) (RB n't)
+              (VP (VB have)
+                (VP (VBN retaped)
+                  (NP (PRP it))
+                  (PP (IN for)
+                    (NP (PRP me))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB really))
+    (VP
+      (VP (VB appreciate)
+        (NP (JJ good) (NNS businesses))
+        (PP (IN like)
+          (NP (DT these))))
+      (CC and)
+      (VP (VB appreciate)
+        (NP (DT the) (NN tip))))
+    (. !)))
+
+
+(ROOT
+  (FRAG
+    (ADVP (RB Very))
+    (NP (JJ nice) (NNS people))
+    (. .)))
+
+(ROOT
+  (NP (JJ Great) (NN service) (. .)))
+
+(ROOT
+  (S
+    (PP (TO To)
+      (NP (DT the) (NN owner)))
+    (, ,)
+    (ADVP (RB never))
+    (VP (VB sell)
+      (NP (DT this) (NN business))
+      (, ,)
+      (ADVP (RB ever)))
+    (. !)))
+
+

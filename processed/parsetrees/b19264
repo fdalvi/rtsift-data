@@ -1,0 +1,204 @@
+(ROOT
+  (S
+    (NP (NN Support))
+    (VP (VBP independant)
+      (NP
+        (NP (NN mom) (NN n) (POS '))
+        (NN pop) (NN chain)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Amazing) (NN selection))
+      (, ,)
+      (NP
+        (NP (NN quality))
+        (, ,)
+        (NP (NNS prices)))
+      (, ,))
+    (VP (VBP knowledgable)
+      (NP (JJ friendly) (NN staff)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJ only) (NN place))
+        (PP (IN in)
+          (NP (DT the) (NN tri-cities)
+            (S
+              (VP (TO to)
+                (VP (VB buy)
+                  (NP
+                    (ADJP (JJ new)
+                      (CC or)
+                      (JJ used))
+                    (NN music)))))))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (JJ Good) (NN music))
+    (NP (NN selection))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Good) (NNS prices))
+      (NP (PRP They)))
+    (ADVP (RB also))
+    (VP (VBP have)
+      (NP (NNS movies)
+        (CC and)
+        (NNS posters)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN vinyl) (NN selection))
+    (VP (VBZ is)
+      (ADJP (JJ good)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP try)
+      (S
+        (VP (TO to)
+          (VP (VB go)
+            (PP (TO to)
+              (NP (DT this) (NN store)))
+            (SBAR (IN as)
+              (S
+                (ADVP (RB sparingly))
+                (ADJP (RB as) (JJ possible)))))))
+      (SBAR (IN because)
+        (S
+          (NP (EX there))
+          (VP (VBZ is)
+            (NP
+              (NP (DT no) (NN end))
+              (PP (IN of)
+                (NP (JJ good) (NN music))))
+            (SBAR (IN that)
+              (S
+                (NP (PRP I))
+                (VP (VBP wish)
+                  (S
+                    (VP (TO to)
+                      (VP (VB purchase)
+                        (PP (IN at)
+                          (NP (DT any) (VBN given) (NN time)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN By)
+      (NP (JJ Kitchener-Waterloo) (NNS standards)))
+    (, ,)
+    (NP (DT this) (NN place))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN treasure-trove))
+        (PP (IN of)
+          (NP (NN music)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's)
+        (ADJP (JJ worth))
+        (S
+          (VP (VBG going)
+            (PP (IN for)
+              (NP
+                (NP (DT the) (JJ used) (NNS CDs))
+                (ADJP (RB alone))
+                (, ,)
+                (SBAR
+                  (WHPP (IN of)
+                    (WHNP (WDT which)))
+                  (S
+                    (NP (PRP I))
+                    (VP (VBP strike)
+                      (NP (NN gold))
+                      (NP (DT every) (NN time)))))))))))
+    (NP (PRP I))
+    (VP (VBP visit))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ Their) (JJ new) (NN music) (NN selection))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ little) (NN taste))
+        (PP (IN of)
+          (NP (NN heaven))))
+      (, ,)
+      (SBAR (IN though)
+        (S
+          (NP (PRP it))
+          (VP (VBZ shows)
+            (PP (IN in)
+              (NP (PRP$ their) (NNS prices)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP suppose)
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (MD should)
+            (VP (VB thank)
+              (NP (PRP them))
+              (PP (IN for)
+                (S
+                  (VP (VBG having)
+                    (S
+                      (NP (DT this))
+                      (VP (VBG limiting)
+                        (NP (NN factor))
+                        (SBAR (IN so)
+                          (S
+                            (NP (PRP I))
+                            (VP (VBP do) (RB n't)
+                              (VP (VB walk)
+                                (PRT (RP out))
+                                (PP (TO to)
+                                  (NP
+                                    (NP (PRP$ their) (NN store))
+                                    (ADJP
+                                      (NP (DT a) (CD thousand) (NNS dollars))
+                                      (JJR poorer))))
+                                (NP
+                                  (NP (DT each) (NN time))
+                                  (, ,)
+                                  (SBAR
+                                    (WHNP (WDT which))
+                                    (S
+                                      (VP (VBZ is)
+                                        (ADJP (RB pretty) (JJ much))
+                                        (SBAR
+                                          (WHNP (WP what))
+                                          (S
+                                            (NP (PRP I))
+                                            (ADVP (RB always))
+                                            (VP (VBP want)
+                                              (S
+                                                (VP (TO to)
+                                                  (VP (VB do)))))))))))))))))))))))))
+    (. .)))
+
+

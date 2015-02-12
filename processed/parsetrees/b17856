@@ -1,0 +1,178 @@
+(ROOT
+  (FRAG (RB Not)
+    (ADJP (RB kid) (JJ friendly))
+    (. .)))
+
+(ROOT
+  (NP (DT No) (NN h/c) (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP are)
+        (NP
+          (NP (DT the) (JJ only) (NNS ones))
+          (PP (IN in)
+            (NP
+              (NP (DT the) (NN neighborhood))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (ADVP (RB still))
+                  (VP (VBP have)
+                    (NP (NN seafood)
+                      (CC and)
+                      (NN crab) (NN salad))))))))))
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBD happened)
+        (S
+          (VP (TO to)
+            (VP (VB get)
+              (NP
+                (NP (DT the) (NN bottom))
+                (PP (IN of)
+                  (NP (DT the) (NN pale))))
+              (SBAR (IN so)
+                (S
+                  (NP (PRP it))
+                  (VP (VBD was)
+                    (NP
+                      (NP (NN kind))
+                      (PP (IN of)
+                        (NP (JJ gross))))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (MD 'd)
+        (VP (VB say)
+          (SBAR (IN as)
+            (S
+              (NP (NNP Subway) (POS 's))
+              (VP (VBP go)))))))
+    (, ,)
+    (NP (DT this) (NN one))
+    (VP (VBZ is)
+      (ADJP (JJ average)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB How)
+        (ADJP (JJ good)
+          (CC or)
+          (JJ bad)))
+      (S
+        (NP (PRP$ your) (NN sub))
+        (VP (VBZ is)
+          (ADVP (RB really)))))
+    (VP (VBZ depends)
+      (PP (IN on)
+        (NP
+          (NP (DT the) (NN luck-of-the-draw))
+          (PP (IN on)
+            (NP (PRP$ your) (`` ``) (NN sandwich) (NN artist))))))
+    (. .)))
+
+(ROOT
+  (S ('' '')
+    (NP (EX There))
+    (VP (VBP are)
+      (NP
+        (NP (NNS times))
+        (SBAR
+          (S
+            (NP (PRP you))
+            (VP (VBP get)
+              (NP
+                (NP (DT a) (CD 4?1/2) ('' '') (NNS sub))
+                (SBAR
+                  (WHNP (WDT which))
+                  (S
+                    (VP (VBZ is)
+                      (ADVP (RB mainly))
+                      (NP
+                        (NP (NN lettuce))
+                        (, ,)
+                        (CC and)
+                        (NP
+                          (NP (JJ other) (NNS times))
+                          (NP (PRP$ its) (NN 6?1/2)))
+                        ('' ''))))))))))
+      (PP (IN with)
+        (NP (DT an) (JJ actual) (NN filling))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD will)
+      (VP (VB say)
+        (SBAR (IN that)
+          (S
+            (NP (PRP I))
+            (VP (VBP 've)
+              (ADVP (RB also))
+              (VP (VBN been)
+                (ADVP (RB there))
+                (PP (IN on)
+                  (NP
+                    (NP (JJ several) (NNS occasions))
+                    (SBAR
+                      (WHADVP (WRB where))
+                      (S
+                        (NP (EX there))
+                        (ADVP (RB ingredients))
+                        (VP (VBD looked)
+                          (ADVP (RBR less))
+                          (PP (IN than) (`` ``)
+                            (ADJP (JJ fresh))))))))))))))
+    (. .)))
+
+(ROOT
+  (S ('' '')
+    (PP (IN Like)
+      (NP
+        (NP (NN wilted))
+        (ADJP (VBN lettuce)
+          (CC and)
+          (JJ black))))
+    (VP (VBP guacamole))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP
+      (NP (RB then) (RB again))
+      (, ,)
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (VP (VBP do)))))
+    (VP (VBP expect)
+      (PP (IN for)
+        (NP ($ $) (CD 3))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP want)
+          (NP
+            (NP (NNP Ruths) (NNP Chris))
+            (, ,)
+            (NP (PRP$ its)))
+          (FRAG (RB not)
+            (ADVP (RB far) (RB away))))))
+    (. .)))
+
+

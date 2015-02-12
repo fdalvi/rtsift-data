@@ -1,0 +1,113 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN food))
+      (ADVP (RB here))
+      (VP (VBZ is)
+        (ADJP (JJ great))))
+    (CC but)
+    (S
+      (NP (PRP I))
+      (ADVP (RB recently))
+      (VP
+        (VP (VBD had)
+          (NP (DT a) (NN slip))
+          (ADVP (RB up)))
+        (CC but)
+        (VP
+          (ADJP (JJ other))
+          (PP (IN than)
+            (NP (DT that) (PRP$ its) (NNS delicious))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN atmosphere))
+    (VP
+      (VP (VBZ feels)
+        (PP (IN like)
+          (NP (DT an) (JJ old) (NN hotel)))
+        (PP (IN from)
+          (NP
+            (NP
+              (ADVP (RB up) (RB north))
+              (NN service))
+            (SBAR
+              (S
+                (VP (VBZ is)
+                  (ADJP (JJ OK))))))))
+      (CC but)
+      (VP (VBZ needs)
+        (NP (NN improvement))))))
+
+
+(ROOT
+  (S
+    (NP (DT The) (NN service))
+    (VP (VBD was)
+      (ADJP (JJ okay)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN food) (NN menu))
+    (VP (VBZ is)
+      (VP (VBN limited)
+        (PP (TO to)
+          (NP (DT a) (JJ few) (NNS things)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD felt)
+      (SBAR (RB as) (IN if)
+        (S
+          (NP (PRP I))
+          (VP (MD might)
+            (ADVP (RB as) (RB well))
+            (VP (VBD had)
+              (VP
+                (VP (VBN stayed)
+                  (ADVP (RB home)))
+                (CC and)
+                (VP (VBN cooked))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN food))
+    (VP (VBD was)
+      (ADJP (JJ hot)
+        (CC and)
+        (JJ tasty))
+      (ADVP (RB though)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD had)
+        (NP (PRP$ my) (NNS kids))
+        (PP (IN with)
+          (NP (PRP me)))))
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBD seemed)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (ADJP (RB mostly)
+                (PP (IN for)
+                  (NP
+                    (NP (JJR older) (NNS men))
+                    (SBAR
+                      (WHNP (WP who))
+                      (S
+                        (VP (VBP play)
+                          (NP (NN golf)))))))))))))
+    (. .)))
+
+

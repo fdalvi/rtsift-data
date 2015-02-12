@@ -1,0 +1,38 @@
+(ROOT
+  (NP
+    (NP (PRP$ Your) (JJ average) (NN run))
+    (PP (IN of)
+      (NP (DT the) (NN mill) (JJ everyday) (NN burger) (NN king)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Food))
+    (VP (VBZ is)
+      (ADJP (JJ stale)
+        (CC and)
+        (JJ bland)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (VBP get)
+      (NP
+        (NP (DT a) (JJ nice) (NN mouth))
+        (PP (JJ full) (IN of)
+          (NP
+            (NP (JJ byproduct) (NN aka) (NN meat/chicken))
+            (PP (IN with)
+              (NP (DT each) (NN bite)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Service))
+    (VP (VBZ is)
+      (ADJP (JJ slow)))
+    (. .)))
+
+

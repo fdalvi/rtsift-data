@@ -1,0 +1,148 @@
+(ROOT
+  (S
+    (NP (PRP$ Your) (JJ typical) (NN Wendy))
+    (VP (VBZ 's))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS servers))
+      (ADVP (RB here))
+      (VP (VBP are)
+        (ADJP (JJ friendly))))
+    (CC and)
+    (S
+      (NP (DT the) (NN restaurant))
+      (VP (VBZ is)
+        (ADJP (JJ clean))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NN burger))
+    (VP (VBD came)
+      (ADJP (RB perfectly) (JJ assembled)))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Staff))
+      (VP (VBD was)
+        (ADJP
+          (NP (DT a) (RB bit))
+          (JJ flustered)
+          (PP (IN behind)
+            (NP (DT the) (NN counter))))))
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBD did)
+        (VP (VB get)
+          (NP (PRP$ my) (NN meal))
+          (PP (IN in)
+            (NP (NNS minutes)))
+          (SBAR (IN as)
+            (S
+              (VP (VBD promised)))))))
+    (. .)))
+
+(ROOT
+  (FRAG (CC And)
+    (PP (IN with)
+      (NP
+        (NP (DT a) (NN smile))
+        (VP
+          (ADVP (RB too))
+          (VBG :--RRB-)
+          (NP (NNP Awesome))))
+      (. !))))
+
+
+(ROOT
+  (S
+    (NP (NNP Pretty) (JJ regular) (NN Wendy))
+    (VP (VBZ 's))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Always))
+      (VP (VB order)
+        (ADVP (RB here))))
+    (, ,)
+    (NP (DT either) (NN drive) (NN thru)
+      (CC or)
+      (NN restaurant) (NN service))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (JJ fast))
+        (, ,)
+        (ADJP (JJ orderly))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Place))
+    (VP
+      (VP (VBZ is)
+        (ADJP (JJ clean)))
+      (, ,)
+      (ADVP (RB never))
+      (VP (VBD had)
+        (NP
+          (NP (DT a) (NN problem))
+          (PP (IN with)
+            (NP (PRP$ my) (NNS orders))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NN food))
+    (VP (VBZ is)
+      (NP (JJ good) (, ,) (JJ quick) (NN delivery) (, ,) (JJ good) (NN price)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBD was)
+      (ADJP (JJ able)
+        (S
+          (VP (TO to)
+            (VP (VB sit)
+              (CC and)
+              (VB relax)
+              (SBAR (IN while)
+                (S
+                  (VP (VBG eating)
+                    (NP (PRP$ my) (NN food))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Cashiers))
+    (VP (VBD were)
+      (UCP
+        (ADJP (JJ friendly))
+        (CC and)
+        (VP (VBN brought)
+          (NP (PRP me))
+          (NP
+            (NP (PRP$ my) (NN food))
+            (PP (IN within)
+              (NP
+                (NP (NNS minutes))
+                (PP (IN of)
+                  (S
+                    (VP (VBG ordering)
+                      (SBAR
+                        (WHNP (WDT which))
+                        (S
+                          (VP (VBD was)
+                            (ADJP (JJ good))))))))))))))
+    (. .)))
+
+

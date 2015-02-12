@@ -1,0 +1,522 @@
+(ROOT
+  (S
+    (NP (NNP Fairview) (NNP Park) (NNP Mall))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJ local) (NN mall))
+        (PP (IN in)
+          (NP (NNP Kitchener)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ 's)
+            (NP
+              (NP (DT the) (JJS best) (JJ large) (JJ indoor) (NN mall))
+              (PP (IN in)
+                (NP (NNP Kitchener))))
+            (, ,)
+            (SBAR
+              (ADVP (RB probably))
+              (IN because)
+              (S
+                (NP (PRP it))
+                (VP (VBZ is)
+                  (NP
+                    (NP (DT the) (RB only) (JJ large) (JJ indoor) (NN mall))
+                    (PP (IN in)
+                      (NP (NNP Kitchener)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN lot))
+        (PP (IN of)
+          (S
+            (VP (VBG parking)
+              (ADJP (JJ available))
+              (PP (IN for)
+                (NP
+                  (NP (DT the) (NN size))
+                  (PP (IN of)
+                    (NP (DT the) (NN mall))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBP are)
+      (NP
+        (NP (DT a) (JJ great) (NN number)
+          (CC and)
+          (NN variety))
+        (PP (IN of)
+          (NP
+            (NP (NNS shops))
+            (ADJP (JJ available))
+            (, ,)
+            (PP (VBG including)
+              (NP
+                (NP (NNP Walmart))
+                (, ,)
+                (NP (DT The) (NNP Bay))
+                (, ,)
+                (NP (NNP Sears))
+                (, ,)
+                (CC and)
+                (NP
+                  (NP (NNP Addition-Elle))
+                  (PP (IN among)
+                    (NP (JJ many) (NNS others))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN number))
+      (PP (IN of)
+        (NP (JJ excellent) (NN jewelry) (NNS stores))))
+    (VP (VBP are)
+      (ADVP (RB also))
+      (VP (VBN located)
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN mall))
+            (PP (VBG including)
+              (NP
+                (NP (NNP Overgaard))
+                (CC and)
+                (NP (NNP Ben) (NNP Moss))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (NP
+        (NP (DT an) (JJ excellent) (NN food) (NN court))
+        (PP (IN with)
+          (NP
+            (NP (DT an)
+              (ADJP (JJ eclectic))
+              (NN mix))
+            (PP (IN of)
+              (NP
+                (NP (NNS restaurants))
+                (PP (VBG including)
+                  (NP
+                    (NP (NNP A&W))
+                    (, ,)
+                    (VP (VBN Made)
+                      (PP (IN in)
+                        (NP (NNP Japan)
+                          (CC and)
+                          (NNP Tim) (NNPS Hortons))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have)
+      (VP (VBN found)
+        (SBAR (IN that)
+          (S
+            (NP (EX there))
+            (ADVP (RB truly))
+            (VP (VBZ is)
+              (NP
+                (NP (NN something))
+                (PP (IN for)
+                  (NP (NN everyone)))))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (SBAR
+      (WHNP (WP What))
+      (S
+        (VP (VBZ 's)
+          (S
+            (NP (EX there))
+            (VP (TO to)
+              (VP (VB say)))))))
+    (: ...)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADVP (RB just))
+        (NP (DT another) (NN mall))))
+    (, ,)
+    (CC and)
+    (S
+      (ADVP (RB actually))
+      (, ,)
+      (SBAR (IN because)
+        (FRAG
+          (PP (IN of)
+            (NP (DT the) (NN layout)))))
+      (, ,)
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADJP (RB pretty) (JJ annoying))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP C'mon) (NNP Canada))
+    (, ,)
+    (VP (VB build)
+      (NP
+        (NP (DT some) (CD two) (NN story) (NNS malls))
+        (PP (IN for)
+          (NP (DT a) (NN change)))))
+    (. !)))
+
+(ROOT
+  (SBARQ
+    (S
+      (NP (NNP Fairview) (NNP Park) (NNP Mall))
+      (VP (VBZ includes)
+        (NP (DT a)
+          (PRN (: :)
+            (NP (NNP Sears))
+            (: -))
+          (NN Yeah))))
+    (, ,)
+    (WHNP (WP who))
+    (SQ
+      (VP
+        (ADVP (RB actually))
+        (VBZ shops)
+        (ADVP (RB here))
+        (ADVP (RB anymore))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Really))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (DT The) (NNP Bay))
+    (: -)
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's)
+        (UCP
+          (PP (IN like)
+            (NP
+              (NP (DT a) (NN wannabe))
+              (NP (NNP Macy) (POS 's))))
+          (, ,)
+          (CC but)
+          (SBAR (RB even)
+            (S
+              (NP (NNP Macy) (POS 's))
+              (VP (VBZ is) (RB n't)
+                (ADJP (RB that) (JJ great))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (X
+      (NP (NNS Roots))
+      (: -)
+      (PP
+        (ADVP (RB Much))
+        (IN like)
+        (NP (NNP American) (NNP Eagle))))
+    (: ...)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (ADJP (RB very) (JJ passe)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (X
+        (NP (NNP Aldo))
+        (: -)
+        (PP (IN After)))
+      (S
+        (NP (PRP you))
+        (VP (VBP wear)
+          (NP
+            (NP (DT an) (JJ aldo) (NN shoe))
+            (PP (IN for)
+              (NP (DT a) (NN month)))))))
+    (NP (PRP it))
+    (VP (MD 'll)
+      (VP (VBD looked)
+        (SBAR (IN like)
+          (S
+            (NP (PRP you))
+            (VP (VBP 've)
+              (VP (VBN loved)
+                (NP (PRP it))
+                (PP (IN for)
+                  (NP (NNS years)))))))))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Tim) (NNPS Hortons))
+    (: -)
+    (S
+      (PP (IN Of)
+        (NP (NN course)))
+      (NP (EX there))
+      (VP (VBZ 's)
+        (NP (DT a) (NNP TM))
+        (ADVP (RB here))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBZ 's)
+        (NP (CD one))
+        (ADVP (RB everywhere))))
+    (: ...)
+    (S
+      (NP (PRP You))
+      (VP (VBP know)
+        (SBAR
+          (WHNP (WP what))
+          (, ,)
+          (S
+            (NP (PRP I))
+            (VP (MD 'll)
+              (ADVP (RB actually))
+              (VP (VB raise)
+                (NP
+                  (NP (DT the) (NN rating))
+                  (PP (IN of)
+                    (NP (DT the) (NN mall))))
+                (PP (IN by)
+                  (NP (CD one) (NN star)))
+                (SBAR (IN if)
+                  (S
+                    (NP (PRP they))
+                    (VP (VB remove)
+                      (NP (PRP it)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN popularity))
+      (PP (IN of)
+        (NP (NNP TH))))
+    (ADVP (RB really))
+    (VP (VBZ makes)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBP look)
+            (SBAR (IN like)
+              (S
+                (NP (NNPS Canadians))
+                (VP (VBP have)
+                  (NP (DT no) (NN taste) (NNS buds)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Anyway))
+    (, ,)
+    (NP (DT The) (NN list))
+    (VP (VBZ goes)
+      (PRT (RP on)))
+    (: ...)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ 's)
+      (NP (NN nothing))
+      (ADVP (RB here))
+      (, ,)
+      (NP (NNS kids)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Check)
+      (PRT (RP out))
+      (NP
+        (NP (NNP St.) (NNP Jacobs) (NNP Farmers) (NNP Market))
+        (SBAR (IN if)
+          (S
+            (NP (PRP you))
+            (VP (VBP want)
+              (S
+                (VP (TO to)
+                  (VP (VB see)
+                    (S
+                      (NP (NN something))
+                      (ADJP (JJ interesting)))))))))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (JJ Decent) (NN mall))
+    (, ,)
+    (NP
+      (NP (RB much) (JJR better))
+      (SBAR (IN than)
+        (S
+          (NP (PRP it))
+          (VP (VBD used)
+            (S
+              (VP (TO to)
+                (VP (VB be))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Wal-Mart))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (RB pretty) (JJ sketchy))
+        (, ,)
+        (ADJP (RBR more) (JJ clientele))
+        (PP (IN than)
+          (NP
+            (NP (NN store))
+            (PP (CC but)
+              (NP (JJ overall) (DT a) (JJ decent) (NN mall)))))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (NNP Meh))
+    (, ,)
+    (NP (NN nothing) (NN special))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (SBAR (IN Unless)
+      (S
+        (NP (PRP you))
+        (VP (VBP 're)
+          (NP
+            (NP (CD one))
+            (PP (IN of)
+              (NP
+                (NP (DT those) (NNS people))
+                (SBAR
+                  (WHNP (WP who))
+                  (S
+                    (VP (VBP want)
+                      (S
+                        (VP (TO to)
+                          (VP (VB see)
+                            (NP
+                              (NP (CD one))
+                              (PP (IN of)
+                                (NP (DT the) (JJ last) (NNS Wal-Marts))))
+                            (PP (IN in)
+                              (NP
+                                (NP (DT the) (JJ old) (NN design))
+                                (, ,)
+                                (NP (RB again) (NN nothing) (JJ special))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN food) (NN court))
+      (VP (VBZ has)
+        (NP (DT some)
+          (ADJP (JJ nice) (JJ unique))
+          (NNS restaurants))))
+    (, ,)
+    (CC and)
+    (S
+      (NP
+        (NP (DT the) (NN mall))
+        (SBAR
+          (S
+            (NP (PRP itself))
+            (VP (VBZ does)))))
+      (VP (VBP have)
+        (NP
+          (NP (DT the) (NN region) (POS 's))
+          (JJ only) (NN Hollister) (NN store))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN bus) (NN terminal))
+    (ADVP (RB here))
+    (VP (VBZ is)
+      (ADJP (JJ dangerous)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 've)
+      (VP (VBN seen)
+        (NP (JJ many) (NN close) (NNS calls))
+        (PP (IN with)
+          (NP
+            (NP (NNS pedestrians))
+            (VP (VBG being)
+              (VP (VBN hit)
+                (PP (IN by)
+                  (NP (CC either)
+                    (NNS buses)
+                    (CC or)
+                    (NNS cars)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP wish)
+        (S
+          (NP (PRP they))
+          (VP (VBN designed)
+            (S
+              (NP (PRP it))
+              (ADJP (JJR better)))))))
+    (: ...)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADJP (RB particularly) (JJ bad)
+          (PP (IN between)
+            (NP
+              (NP
+                (QP (CD 3)
+                  (CC and)
+                  (CD 3:30)))
+              (NP (CD pm) (NNS weekdays)))))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PDT all) (DT the) (JJ high) (NN school) (NNS kids))
+            (VP (VB get)
+              (PRT (RP off))
+              (NP (PRP$ their) (NNS buses)))))))
+    (. .)))
+
+

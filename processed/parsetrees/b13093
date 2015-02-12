@@ -1,0 +1,274 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP Lombardo) (NN family))
+    (VP (VBZ is)
+      (ADJP (JJ passionate)
+        (PP (IN about)
+          (NP (PRP$ their) (NN gelato)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP
+        (NP (CD 3) (NNS locations))
+        (, ,)
+        (NP
+          (NP (DT all))
+          (VP (VBN housed)
+            (PP (IN in)
+              (NP
+                (NP (JJ bright) (, ,) (JJ tidy) (NNS kiosks))
+                (PP (IN inside)
+                  (NP (JJ various) (NNP Valley) (NNS malls)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN service))
+    (VP (VBZ is)
+      (ADJP (RB extremely) (JJ friendly))
+      (PRN (CC and)
+        (NP
+          (NP (DT the) (NN gelato))
+          (, ,)
+          (NP (NNP delicious)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB also))
+    (VP (VBD thought)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD was)
+            (NP (DT a) (JJ nice) (NN touch))
+            (SBAR (IN that)
+              (S
+                (NP (DT the) (NNS signs))
+                (VP (VBD were)
+                  (VP (VBN written)
+                    (PP (IN in)
+                      (ADJP (JJ Italian)))
+                    (, ,)
+                    (PP (IN with)
+                      (NP
+                        (NP (DT the) (JJ English) (NNS translations))
+                        (PP (IN below)
+                          (NP (PRP them)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP offer)
+      (NP
+        (NP
+          (QP (RB approximately) (CD 18))
+          (NNS flavors))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VB rotate)
+              (PP (VBG depending)
+                (PP (IN on)
+                  (SBAR
+                    (WHNP (WP what))
+                    (S
+                      (NP (DT the) (NNPS Lombardos))
+                      (VP (VBP decide)
+                        (S
+                          (VP (TO to)
+                            (VP (VB make)
+                              (NP (DT that) (NN day)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP I))
+        (ADVP (RB last))
+        (VP (VBD visited)
+          (SBAR
+            (S
+              (NP (DT the) (NN line-up))
+              (VP (VBD included)
+                (NP
+                  (NP (JJ seasonal) (NNS flavors))
+                  (PP (JJ such) (IN as)
+                    (NP
+                      (NP (NN mango)
+                        (CC and)
+                        (NN tangerine))
+                      (, ,)
+                      (CONJP (RB as) (RB well) (IN as))
+                      (NP (JJ regional) (NNS specialties)))))))))))
+    (, ,)
+    (VP (VB like)
+      (NP
+        (NP (NN horchata)
+          (CC and)
+          (JJ prickly) (NN pear))
+        (PRN (-LRB- -LRB-)
+          (NP (NNP !))
+          (-RRB- -RRB-))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (PP (IN of)
+      (NP (NN course)))
+    (, ,)
+    (NP (EX there))
+    (VP (VBP are)
+      (NP
+        (NP (DT the) (JJR more) (JJ traditional) (NN vanilla) (NN bean))
+        (, ,)
+        (NP (NN chocolate))
+        (, ,)
+        (NP (NN coffee))
+        (CC and)
+        (NP (JJ sweet) (NN cream))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP
+      (NP (JJ Good) (NN news))
+      (PP (IN for)
+        (NP (DT the) (JJ west) (NN valley))))
+    (: --)
+    (S
+      (NP (EX there))
+      (VP (VBP are)
+        (ADVP
+          (NP (CD 2) (NNS Lombardos))
+          (RB there))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Lombardo) (POS 's))
+      (NNP Gelato))
+    (VP (VBZ is)
+      (ADVP (RB no) (RB longer))
+      (PP (IN in)
+        (NP (DT the) (NNP Fiesta) (NN Mall))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP are)
+      (PP (IN in)
+        (NP (NNP Arizona) (NNP Mills) (NNP Mall)
+          (CC and)
+          (NNP Metro) (NNP Center) (NN Mall))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ Their) (NN gelato))
+    (VP (VBZ is)
+      (ADJP (RB absolutely) (JJ amazing)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP they))
+        (VP (VBP say)
+          (SBAR (IN that)
+            (S
+              (NP (PRP it))
+              (VP (VBZ is)
+                (NP (DT a) (JJ certain) (NN flavor))))))))
+    (, ,)
+    (NP (PRP you))
+    (VP (MD can)
+      (VP (VB guarantee)
+        (SBAR (IN that)
+          (S
+            (NP (PRP it))
+            (VP (MD will)
+              (VP (VB be)
+                (NP (DT that) (NN flavor))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is) (RB all)
+      (ADJP (JJ natural) (, ,) (RB no) (JJ preservatives)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP have)
+          (NP (DT an) (NN opportunity)
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (SBAR
+                    (WHADVP (WRB where))
+                    (S
+                      (NP (PRP they))
+                      (VP (VBP have)
+                        (NP (DT a) (NN location))))))))))))
+    (, ,)
+    (NP (PRP I))
+    (ADVP (RB highly))
+    (VP (VBP recommend)
+      (S
+        (NP (PRP you))
+        (VP (VBG trying)
+          (NP (DT a) (NN sample)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VB Try)
+        (ADJP (RB as) (JJ many))
+        (SBAR (IN as)
+          (S
+            (NP (PRP you))
+            (VP (VBP like))))))
+    (, ,)
+    (NP (PRP you))
+    (VP (MD will) (RB not)
+      (VP (VB be)
+        (ADJP (JJ disappointed))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP$ My) (NN favorite))
+      (VP (VBZ is)
+        (NP (DT the) (JJ pink) (NN grapefruit))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (NN coconut)
+        (CC and)
+        (NN pineapple))
+      (VP (VBP are)
+        (ADJP (JJ wonderful))
+        (ADVP (RB as) (RB well))))
+    (. .)))
+
+

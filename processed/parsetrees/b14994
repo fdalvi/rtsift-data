@@ -1,0 +1,252 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS Mariscos))
+      (, ,)
+      (NP
+        (NP
+          (NP (NNP Las) (NNP Islas) (NNP Del) (NNP Capitan))
+          (NP (NNP 27th) (NNP Ave)
+            (CC &)
+            (NNP Camelback) (NNP Cost)))
+        (: :)
+        (NP
+          (NP ($ $) (CD 3))
+          (NP (NNP Service)))
+        (: :)
+        (NP
+          (NP (CD 5))
+          (PP (IN of)
+            (NP (CD 5)))))
+      (, ,))
+    (VP (VBP sit)
+      (PRT (RP down))
+      (NP
+        (NP (NN place))
+        (CC and)
+        (NP (JJ nice))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (CD Presentation) (: :) (CD 5))
+      (PP (IN of)
+        (NP (CD 5))))
+    (, ,)
+    (VP
+      (VP (VBD came)
+        (PP (IN with)
+          (NP (NNS chips))))
+      (CC and)
+      (VP (VBP consume)
+        (NP (NN soup))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NN Taste) (CD 4))
+      (PP (IN of)
+        (NP (CD 5))))
+    (, ,)
+    (INTJ (JJ Good) (NN taste))
+    (, ,)
+    (NP (DT this))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (JJR more))
+        (PP (IN for)
+          (NP (DT the) (NN shrimp)
+            (CC and)
+            (NN fish) (NNS tacos)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN place))
+      (VP (VBP need)
+        (NP
+          (NP (DT a) (NN bid))
+          (PP (IN of)
+            (NP (NN upgrade))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT the) (NN food))
+      (VP (VBZ is)
+        (ADJP (JJ awesome))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD got)
+      (NP (DT the) (NNP Campechana) (NN cocktail)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN shrimp))
+      (VP (VBD tasted)
+        (ADJP (JJ fresh))))
+    (CC but)
+    (S
+      (NP (DT the) (NN meal))
+      (VP (VBD was)
+        (ADVP (RB WAY))
+        (VP
+          (ADVP (RB over))
+          (VBN priced))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (CD 10) (RB very) (JJ small) (NN shrimp))
+    (, ,)
+    (NP (DT a) (JJ small) (NN salad))
+    (, ,)
+    (NP
+      (NP
+        (NP (DT a) (JJ small) (NN portion))
+        (PP (IN of)
+          (NP (JJ refried) (NNS beans))))
+      (, ,)
+      (CC and)
+      (NP
+        (NP (DT a) (JJ small) (NN portion))
+        (PP (IN of)
+          (NP
+            (NP (NN rice))
+            (PP (IN for)
+              (NP ($ $) (CD 12.95)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD wo) (RB n't)
+      (VP (VB be)
+        (ADVP (RB back))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBD had)
+        (NP (JJ high) (NNS expectations)))
+      (CC but)
+      (VP (VBD was)
+        (ADVP (VB let) (RB down))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN quality))
+      (PP (IN of)
+        (NP (NN food))))
+    (VP (VBD was)
+      (ADJP (NN nothing) (JJ special)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN For)
+        (NP (DT the) (NN price)))
+      (NP (PRP I))
+      (VP (VBD paid)))
+    (, ,)
+    (NP (PRP I))
+    (VP (MD could)
+      (VP (VB get)
+        (NP
+          (ADJP (RB much) (JJR more))
+          (NN food))
+        (PP (IN at)
+          (NP
+            (NP (NNS restaurants))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBP prepare)
+                  (PP (IN from)
+                    (NP (NN scratch))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD felt)
+      (VP (VBN ripped)
+        (PRT (RP off))
+        (PP (IN after)
+          (S
+            (VP (VBG paying)
+              (NP (PRP$ my) (NN bill)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBN come)
+      (PRT (RP in))
+      (ADVP (IN at) (JJS least))
+      (NP (RB once) (DT a) (NN month))
+      (SBAR (IN since)
+        (S
+          (NP (FW i))
+          (VP (VBP work)
+            (ADJP (JJ close)
+              (PP (IN by)))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (JJ Fast) (NN service))
+    (: ...)
+    (S
+      (NP (NN ceviche))
+      (VP (VBZ is)
+        (ADVP (RB always))
+        (ADJP (JJ great))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VB Have)
+        (VP (VBN had)
+          (NP
+            (NP (DT the) (NNS sopes)
+              (CC and)
+              (NNS flautas))
+            (CC and)
+            (NP (FW i))))))
+    (VP (VBP have)
+      (VP (VBN paid)
+        (ADVP (RBR more))
+        (PP (IN for)
+          (NP
+            (ADJP (RB really) (JJ bad))
+            (NN food)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP think)
+      (NP (PRP$ its)
+        (ADJP (DT a) (JJ great))
+        (NN spot)))
+    (. !)))
+
+

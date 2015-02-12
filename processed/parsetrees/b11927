@@ -1,0 +1,138 @@
+(ROOT
+  (S
+    (NP (NNP Poorly))
+    (VP (VBD laid)
+      (PRT (RP out))
+      (NP (NN course))
+      (PP (IN with)
+        (NP
+          (NP (NN landscaping))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBZ is)
+                (ADJP (JJ unkept))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Disrespectful)
+      (NP (NN management)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Overall))
+    (NP (JJ bad) (NN experience))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Do) (RB n't)
+      (VP (VB make)
+        (NP
+          (NP (DT the) (NN mistake))
+          (PP (IN of)
+            (S
+              (VP (VBG going)
+                (ADVP (RB here))))))))))
+
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP (DT a) (JJ decent) (NN place)
+        (S
+          (VP (TO to)
+            (VP (VB play)
+              (NP (NN golf))
+              (PP (IN for)
+                (ADJP (RB really) (JJ cheap))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (VBP get)
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP (PRP you))
+          (VP (VBP pay)
+            (PP (IN for))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (VP (VBP Do) (RB n't)
+      (VP (VB come)
+        (ADVP (RB here))
+        (S
+          (VP (VBG expecting)))))
+    (NP (DT a) (JJ super) (JJ nice) (JJ high) (NN end) (NN golf) (NN course))
+    (, ,)
+    (CC but)
+    (S
+      (SBAR (IN if)
+        (S
+          (NP (PRP you))
+          (VP (VBP are)
+            (VP (VBG looking)
+              (PP (IN for)
+                (NP (DT an) (JJ inexpensive) (NN place)))
+              (S
+                (VP (TO to)
+                  (VP
+                    (VP (VB play)
+                      (NP (NN golf)))
+                    (CC or)
+                    (VP (VB get)
+                      (NP (DT some) (NN practice))))))))))
+      (, ,)
+      (NP (DT this))
+      (VP (MD might)
+        (VP (VB be)
+          (NP
+            (NP (DT the) (NN place))
+            (PP (IN for)
+              (NP (PRP you)))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP ($ $) (CD 7))
+    (PP (IN for)
+      (NP
+        (NP (DT a) (JJ big) (NN bucket))
+        (PP (IN of)
+          (NP (NNS balls)))))
+    (S
+      (VP (TO to)
+        (VP (VB take)
+          (PP (TO to)
+            (NP (DT the) (VBG driving) (NN range))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP ($ $) (CD 9))
+      (PP (IN for)
+        (NP
+          (NP (DT a) (NN round))
+          (PP (IN of)
+            (NP
+              (NP (NN golf))
+              (PRN (-LRB- -LRB-)
+                (NP (CD 9) (NNS holes))
+                (-RRB- -RRB-)))))))
+    (PP (IN before)
+      (NP
+        (NP (NN noon))
+        (CC or)
+        (NP ($ $) (CD 12))))
+    (PP (IN after)
+      (NP (NN noon)))))
+
+

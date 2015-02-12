@@ -1,0 +1,133 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN Anyone))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBZ 's)
+            (VP (VBN been)
+              (PP (IN in)
+                (NP (NNP Vegas)))
+              (PP (IN for)
+                (ADVP (RB awhile))))))))
+    (VP (VBZ knows)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (NN coffee) (NNS shops))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBP are) (RB n't)
+                  (NP
+                    (NP (DT the) (NNP GlobalMegaCorp) (NNP Starbucks))
+                    (PRN (-LRB- -LRB-)
+                      (S
+                        (ADVP (CC but))
+                        (VP (VB have)
+                          (S
+                            (NP (DT a) (NNP Seattle) (NN coffeehouse))
+                            (VP (VB feel)))))
+                      (-RRB- -RRB-)))))))
+          (VP (VBP are)
+            (ADJP (JJ few))
+            (ADVP (CC and)
+              (RB far) (IN between))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP
+        (VP (VBP live)
+          (PP (IN in)
+            (NP (NNP Seattle))))
+        (, ,)
+        (CC and)
+        (VP (MD can)
+          (VP (VB vouch)
+            (PP (IN for)
+              (NP (DT the) (NN fact)))
+            (SBAR (IN that)
+              (S
+                (NP (DT every) (NN time))
+                (NP (PRP I))
+                (VP (VBP come)
+                  (ADVP (RB here)))))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP feel)
+      (SBAR (IN like)
+        (S
+          (NP (PRP I))
+          (VP (VBP 've)
+            (VP (VBN been)
+              (VP (VBN transported)
+                (PRT (RP back))
+                (PP
+                  (PP (IN into)
+                    (NP (NNP Seattle)))
+                  (, ,)
+                  (CONJP (IN if) (RB only))
+                  (PP (IN for)
+                    (NP
+                      (NP (DT a) (JJ short) (NN amount))
+                      (PP (IN of)
+                        (NP (NN time))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Excellent)
+      (NP
+        (NP (NN coffee))
+        (, ,)
+        (NP (JJ friendly) (NNS baristas))
+        (, ,)
+        (CC and)
+        (NP (JJ huge) (NN comfy) (NNS sofas))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBD closed)
+      (NP (NNS years))
+      (ADVP (IN ago))
+      (, ,)
+      (SBAR
+        (WHADVP (WRB why))
+        (S
+          (VP (VBZ is)
+            (NP (PRP it))
+            (ADVP (RB even))
+            (PP (IN on)
+              (NP (DT the) (NN list)))))))
+    (. ?)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBD used)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (NP (PDT such) (DT a) (NN blast))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (CD One))
+      (PP (IN of)
+        (NP (DT the) (JJ final) (JJ great) (NN coffee))))
+    (VP (VBZ houses)
+      (PP (IN in)
+        (NP (NNS vegas))))
+    (. !)))
+
+

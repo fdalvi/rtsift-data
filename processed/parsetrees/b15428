@@ -1,0 +1,334 @@
+(ROOT
+  (NP
+    (NP (JJ Great) (NN customer))
+    (NP (NN service))
+    (. .)))
+
+(ROOT
+  (NP (JJ Friendly) (NN staff) (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Very))
+    (VP (VB prompt))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NN complaint))
+    (VP (VBZ is)
+      (PP (IN with)
+        (NP (DT the) (NNP UPS) (NN service)))
+      (SBAR (IN that)
+        (S
+          (NP (PRP I))
+          (VP (VBD received)
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP I))
+                (VP (VBN shipped)
+                  (PP (IN at)
+                    (NP (DT this) (NN store))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD spoke)
+        (PP (TO to)
+          (NP (DT a) (NN business)))
+        (PP (IN in)
+          (NP (DT another) (NN state)))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBD asked)
+        (S
+          (NP (PRP me))
+          (VP (TO to)
+            (VP (VB ship)
+              (NP (DT a) (NN package))
+              (PP (IN by)
+                (NP (NNP FEDEX))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD decided)
+      (PRT (RP out))
+      (PP (IN of)
+        (NP (NN convenience)))
+      (S
+        (VP (TO to)
+          (VP (VB go)
+            (PP (TO to)
+              (NP
+                (NP (DT the) (NNP UPS) (NNP Store))
+                (PP (IN near)
+                  (NP (PRP$ my) (NN home)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN staff))
+      (VP (VBD was)
+        (ADJP (RB very) (JJ nice))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBD said)
+        (SBAR (IN that)
+          (S
+            (NP (NNP UPS))
+            (VP (MD would)
+              (VP (VB guarantee)
+                (S
+                  (VP (TO to)
+                    (VP (VB deliver)
+                      (NP (DT the) (NN package))
+                      (NP (DT the) (JJ next) (NN day)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD paid)
+        (NP (DT the) (NN rate))
+        (SBAR (IN because)
+          (S
+            (NP (PRP it))
+            (VP (VBD was)
+              (VP (VBN called)
+                (NP (JJ NEXT) (NNP DAY) (CD AIR))))))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (ADJP (`` ``) (JJ GUARENTEED) ('' '')
+          (S
+            (VP (TO to)
+              (VP (VB arrive)
+                (PP (IN in)
+                  (NP (CD 24) (NNS hours)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN package))
+    (VP (VBD was) (RB not)
+      (VP (VBN delivered)
+        (PP (IN in)
+          (NP (CD 24) (NNS hours)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN staff))
+      (VP (VBD was)
+        (ADJP (RB very) (JJ apologetic))))
+    (CC but)
+    (S
+      (NP (DT the) (NN result))
+      (VP (VBD was)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (DT a) (NN package))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBD was)
+                    (VP (VBN guaranteed)
+                      (S
+                        (VP (TO to)
+                          (VP (VB be)
+                            (VP (VBN delivered)
+                              (PP (IN in)
+                                (NP (CD 24) (NNS hours))))))))))))
+            (VP (VBD was)
+              (VP (VBN delivered)
+                (PP (IN in)
+                  (NP (CD 48) (NNS hours)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (ADVP (RB quickly))
+      (VP (VBD processed)
+        (NP (DT a) (NN refund))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (MD would) (RB rather)
+        (VP (VB have)
+          (VP (VBN had)
+            (NP
+              (NP (DT the) (NN package))
+              (VP (VBN delivered)
+                (PP (IN on)
+                  (NP (NN time)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD learned)
+      (NP (PRP$ my) (NN lesson)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD will)
+      (ADVP (RB NEVER))
+      (VP (VB ship)
+        (PP (IN with)
+          (NP (NNP UPS)))
+        (ADVP (RB again))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (VP (VBD Had)
+        (NP
+          (NP (DT a) (NN mailbox))
+          (PP (IN with)
+            (NP (PRP them))))
+        (PP (IN for)
+          (NP (DT a) (JJ few) (NNS months)))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (ADVP (RB really))
+      (VP (VBP like)
+        (NP (PRP$ their) (NN service))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP 're)
+      (ADVP (RB always))
+      (ADJP (RB really) (JJ polite)
+        (PP (IN on)
+          (NP (DT the) (NN phone))))
+      (ADVP (RB too)))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Why))
+    (SQ
+      (VP
+        (ADVP (RB not)
+          (NP (CD 5)))
+        (VBZ stars)
+        (ADVP (RB then))))
+    (. ?)))
+
+(ROOT
+  (S
+    (SBAR (IN Because)
+      (S
+        (NP (PRP they))
+        (VP (VBP do) (RB n't))))
+    (VP (VBP seem)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (VP (VBG reading)
+              (NP (PRP$ my) (NNS emails)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD sent)
+        (NP (DT the) (JJ same) (NN email) (NN request))
+        (NP
+          (NP (DT a) (NN couple))
+          (PP (IN of)
+            (NP
+              (NP (NNS times))
+              (PP (VBG regarding)
+                (NP
+                  (NP (DT an) (NN account) (NN info) (NN change))
+                  (SBAR (IN before)
+                    (S
+                      (NP (PRP I))
+                      (VP (VBD decided)
+                        (S
+                          (VP (TO to)
+                            (VP (VB call)
+                              (PP (IN in)
+                                (NP (PRP myself))))))))))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP$ my) (NN account) (NN info))
+      (VP (VBD was)
+        (VP (VBN updated)
+          (ADVP (RB immediately))
+          (PP (IN upon)
+            (S
+              (VP (VBG calling)))))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP
+      (NP (JJ Great) (NN customer) (NN service))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBD was)
+            (ADJP (RB very) (JJ knowledgeable))))))
+    (PP (IN in)
+      (NP (DT the) (JJS best) (NN approach)))
+    (PP (TO to)
+      (S
+        (VP (VBG picking)
+          (PRT (RP up))
+          (NP (NNS packages)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD had)
+        (NP
+          (NP (DT no) (NN clue))
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (NP (PRP I))
+              (VP (VBD was)
+                (VP (VBG doing))))))))
+    (, ,)
+    (CC but)
+    (S
+      (S
+        (NP (PRP they))
+        (VP (VBD did)))
+      (CC and)
+      (S
+        (NP (PRP it))
+        (VP (VBD helped))))
+    (. .)))
+
+

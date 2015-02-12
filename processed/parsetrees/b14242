@@ -1,0 +1,80 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Prompt))
+      (PP (CC but)
+        (NP (DT the) (NN soda))))
+    (VP (VBZ is)
+      (ADJP
+        (ADVP (RB always) (RB off))
+        (NN tasting)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN parking) (NN lot))
+    (VP (VBZ smells)
+      (PP (IN like)
+        (NP
+          (NP (NN sewer) (NN gas))
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (MD can)
+                (VP (VB be)
+                  (NP (DT a) (JJ definite) (NN turn)
+                    (PRT (RP off))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Employees))
+    (VP (VBP are)
+      (ADJP (JJ nice)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN one))
+    (VP (VBZ sucks)
+      (SBAR (IN because)
+        (S
+          (NP
+            (NP (PRP$ its))
+            (NP (DT a) (NN franchise)
+              (CC and)
+              (NN everything)))
+          (VP (VBZ is)
+            (ADJP (RBR more) (JJ expensive))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP (NNP TACO) (NNP BELL)))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP You))
+      (VP (VBP get)
+        (SBAR
+          (WHADJP (RB exactly) (WP what))
+          (S
+            (NP (PRP you))
+            (VP (VB order)
+              (NP (DT every) (NN time)))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (NN quality))
+      (VP (VBZ is)
+        (ADVP (RB always))
+        (ADJP (JJ good))))
+    (. !)))
+
+

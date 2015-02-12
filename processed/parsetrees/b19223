@@ -1,0 +1,117 @@
+(ROOT
+  (FRAG
+    (NP (JJ Nice) (NN patio))
+    (, ,)
+    (PP (IN for)
+      (NP (DT the) (NN summer)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (X
+        (ADVP (RB Often))
+        (NP (NNS times)))
+      (S
+        (NP (PRP they))
+        (VP (VBP have)
+          (VP (VBP live)
+            (NP (NN music))
+            (ADVP (CC both)
+              (RB inside)
+              (CC and)
+              (RB outside))))))
+    (, ,)
+    (NP (DT the) (NN menu))
+    (VP (VBZ is)
+      (NP
+        (NP (JJ typical) (NN pub) (NN fare))
+        (, ,)
+        (NP
+          (NP (NN nothing))
+          (PP (RB out) (IN of)
+            (NP (DT the) (JJ ordinary))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (MD would)
+        (VP (VB say)
+          (NP
+            (NP (DT the) (NN pricing))
+            (, ,)
+            (SBAR
+              (S
+                (VP (VBZ is)
+                  (ADJP
+                    (NP (DT a) (RB little))
+                    (JJ high))
+                  (ADVP (RB up)))))))))
+    (, ,)
+    (CC and)
+    (FRAG
+      (X
+        (X (SYM a))
+        (NP
+          (NP
+            (QP (JJ little) (TO to) (JJ much)))
+          (PP (IN for)
+            (NP (NN beer)))))
+      (: /)
+      (NP (NN liquor)))
+    (. .)))
+
+
+(ROOT
+  (NP (JJ Decent) (NN food) (. .)))
+
+(ROOT
+  (S
+    (VP (VB Ice)
+      (NP (JJ cold) (NN beer)))
+    (. .)))
+
+(ROOT
+  (NP (CD Chillin) (NN atmosphere)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBZ is)
+      (NP
+        (NP (JJ great))
+        (CC and)
+        (NP (DT a) (NNP Kitchener) (JJ classic) (NN bar))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (NNS sports)))
+    (NP (PRP they))
+    (VP (VBP have)
+      (NP
+        (NP (DT the) (JJ big) (NNS games))
+        (PP (IN on)
+          (NP (PDT all) (DT the) (NN LCD) (NNS screens)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN Food))
+      (VP (VBZ is)
+        (ADVP (RB always))
+        (ADJP (JJ good))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBP have)
+        (NP (JJ great) (NNS deals))
+        (NP (NN everyday))))
+    (. .)))
+
+

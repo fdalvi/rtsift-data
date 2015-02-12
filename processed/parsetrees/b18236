@@ -1,0 +1,46 @@
+(ROOT
+  (FRAG
+    (NP (NNP Update))
+    (: -)
+    (S
+      (NP (DT this) (NN place))
+      (VP (VBZ sucks)))
+    (. !)))
+
+
+(ROOT
+  (NP
+    (NP (NNP Closed))
+    (: ...)
+    (NP
+      (NP (NNS signs))
+      (PP (IN on)
+        (NP (NN door) (NN listing) (NNS violations)))
+      (, ,) (FW etc.))
+    (. .)))
+
+(ROOT
+  (SINV (VBD Had)
+    (NP (DT a) (NN review) (NN I))
+    (VP (VBN started)
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (VP (VBD picked)
+            (PRT (RP up))
+            (NP
+              (NP (DT a) (`` ``)
+                (S
+                  (VP (TO to)
+                    (VP (VB go))))
+                ('' '') (NN order))
+              (SBAR
+                (FRAG (: -)
+                  (VP (VBD was)
+                    (ADJP (RB pretty) (JJ decent)))
+                  (. .))))))))))
+
+(ROOT
+  (NP (CD Oh) (RB well) (. .)))
+
+

@@ -1,0 +1,205 @@
+(ROOT
+  (NP
+    (NP (JJS Worst) (NN customer) (NN service))
+    (PP (IN in)
+      (NP (NN pharmacy)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (CD 5) (NNS people))
+    (VP
+      (VP (VBG working))
+      (CC and)
+      (VP (VBG takes)
+        (ADVP (RB forever))
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN acknowledged)))))))
+    (. .)))
+
+(ROOT
+  (S (RB Then)
+    (NP (PRP they))
+    (VP (VBP argue)
+      (PP (IN with)
+        (NP (PRP you)))
+      (PP (IN over)
+        (NP (PRP$ your) (NN coverage))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD 'd)
+      (ADVP (RB just))
+      (VP (VB go)
+        (PP (TO to)
+          (NP (NNP Walgreens)))
+        (SBAR (IN if)
+          (S
+            (NP (PRP$ my) (NN rx) (NN coverage))
+            (VP (MD would)
+              (VP (VB let)
+                (NP (PRP me))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (MD should)
+      (S
+        (ADJP (RB too)
+          (SBAR (IN if)
+            (S
+              (NP (PRP you))
+              (VP (VBP want)
+                (S
+                  (VP (TO to)
+                    (ADVP (RB actually))
+                    (VP (VB be)
+                      (VP (VBN helped)))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN store))
+    (VP (VBZ is)
+      (NP (DT a) (JJ decent) (NN store))
+      (, ,)
+      (SBAR (IN although)
+        (S
+          (S
+            (NP
+              (NP (DT the) (NN day))
+              (SBAR
+                (S
+                  (NP (PRP I))
+                  (VP (VBD went)
+                    (PP (IN in)
+                      (NP (RB there)))))))
+            (, ,)
+            (NP (PRP I))
+            (VP (VBD was)
+              (PP (IN in)
+                (NP
+                  (NP (NN search))
+                  (PP (IN of)
+                    (NP (JJ cold) (NN medicine)))))))
+          (CC and)
+          (S
+            (NP (PRP$ their) (NN pharmacy))
+            (VP (VBD was) (RB not)
+              (ADJP (JJ open)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBD did) (RB not)
+        (VP (VB have)
+          (NP
+            (NP (DT the) (NN type))
+            (PP (IN of)
+              (NP (NN product)))))))
+    (PRN
+      (S
+        (NP (PRP I))
+        (VP (VBD was)
+          (PP (IN in)
+            (NP
+              (NP (NN need))
+              (PP (IN of))))))
+      (, ,))
+    (IN so)
+    (S
+      (NP (PRP I))
+      (VP
+        (VP (VBD left))
+        (CC and)
+        (VP (VBD went)
+          (ADVP (RB up)
+            (NP (DT the) (NN road))
+            (PP (TO to)
+              (NP (NNP Walgreen) (POS 's)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Faye))
+      (NP (DT the) (NN cashier))
+      (VP (VBZ is)
+        (NP
+          (NP (CD one))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (JJS most) (VBG uplifting) (NNS people))
+              (PP (IN in)
+                (NP (NN retail))))))))
+    (NP (PRP I))
+    (VP (VBP 've)
+      (ADVP (RB ever))
+      (VP (VBN come)
+        (PRT (RP across))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (ADVP (RB Seriously))
+        (DT every) (NN time))
+      (NP (PRP I))
+      (VP (VBP 'm)
+        (PP (IN in)
+          (NP (RB there)))))
+    (NP (PRP she))
+    (VP (VBZ is)
+      (ADJP (RB so) (JJ sweet)))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP work)
+        (NP (NN retail))
+        (ADVP
+          (ADVP (RB as) (RB well))
+          (SBAR (IN so)
+            (S
+              (NP (PRP I))
+              (VP (VBP know)
+                (SBAR
+                  (WHADVP (WRB how)
+                    (ADJP (JJ daunting)))
+                  (S
+                    (NP (PRP it))
+                    (VP (MD can)
+                      (VP (VB be)))))))))))
+    (CC but)
+    (S
+      (NP (DT this) (NN girl))
+      (VP (VBZ is)
+        (ADJP (RB so) (JJ full)
+          (PP (IN of)
+            (NP (NN life))))))
+    (. !)))
+
+(ROOT
+  (S
+    (ADVP (RB Anyway))
+    (NP (JJ good) (NN job))
+    (VP (VBP CVS)
+      (PP (IN for)
+        (S
+          (VP (VBG having)
+            (NP (DT an) (JJ awesome) (NN employee))))))
+    (. !)))
+
+

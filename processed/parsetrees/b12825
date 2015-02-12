@@ -1,0 +1,66 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ 3,000-square-foot) (, ,) (JJ bilevel) (NN nightclub))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ is)
+            (VP (VBN operated)
+              (PP (IN by)
+                (NP
+                  (NP (DT the) (JJ former) (NNS owners))
+                  (PP (IN of)
+                    (NP (NNP Sail) (NNP Inn)))))))))
+      (, ,))
+    (VP (VBZ features)
+      (NP
+        (ADJP (JJ DJs)
+          (CC and)
+          (JJ live))
+        (NN music))
+      (ADVP (RB nightly))
+      (PP (IN in)
+        (NP (DT a) (NN lounge) (NN setting))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBP are)
+      (NP
+        (NP (JJ cozy) (NNS sofas))
+        (, ,)
+        (NP (DT a) (JJ small) (NN dance) (NN floor))
+        (, ,)
+        (CC and)
+        (NP (DT a) (NN martini)
+          (CC and)
+          (NN food) (NN menu))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (MD 'll)
+      (VP (VB find)
+        (NP
+          (NP (DT a) (NN lot))
+          (PP (IN of)
+            (NP
+              (NP
+                (NP (NN college) (NNS students))
+                (VP (VBG hanging)
+                  (PRT (RP out))
+                  (ADVP (RB here))))
+              (CC and)
+              (NP
+                (NP (JJ local) (NN music) (NNS fans))
+                (VP (VBG kicking)
+                  (ADVP (RB back))
+                  (PP (IN at)
+                    (NP (DT this) (NN chill) (NNP Mill) (NNP Avenue) (NN hangout))))))))))
+    (. .)))
+
+

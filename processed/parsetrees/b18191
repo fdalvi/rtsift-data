@@ -1,0 +1,196 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBD went)
+            (NP (DT a) (JJ little))
+            (PP (IN over)
+              (NP (DT the) (NN top)))
+            (PP (IN with)
+              (NP (DT the) (JJ Hawaiian) (NN theme)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (NP (PDT all)
+        (NP
+          (NP (DT the) (JJ typical) (NN tourist))
+          (NP (JJ Hawaiian) (NN stuff)))
+        (: :)
+        (NP
+          (NP (NNS surfers))
+          (PP (IN on)
+            (NP (DT the) (NN tv) (, ,) (NN nut) (NN shell) (NNS necklaces) (, ,) (NN macadamian) (NNS nuts) (, ,) (NNS leis) (, ,) (FW etc.))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP like)
+        (NP (DT the) (NNS umbrellas))
+        (PP (IN with)
+          (NP (DT the) (NN smoothie)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP
+        (NP (DT the) (NN cup))
+        (PP (IN of)
+          (NP (NN coffee))))
+      (VP (VBD was)
+        (ADJP
+          (ADJP (JJ overpriced))
+          (, ,)
+          (CC and)
+          (ADJP (RB not)
+            (ADVP (DT all) (DT that))
+            (JJ special)))
+        (SBAR (RB even) (IN if)
+          (S
+            (NP (PRP it))
+            (VP (VBZ is)
+              (NP (NNP Kona)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (RB Even) (DT the) (NN bathroom))
+      (VP (VBZ has)
+        (NP
+          (NP (DT the) (JJ same) (NN lei/palm) (NN tree) (NN design))
+          (PP (IN as)
+            (NP (PDT all) (DT the) (JJ other) (NNS tables) (IN outside))))))
+    (: ...)
+    (S
+      (NP (PRP it))
+      (VP (VBD made)
+        (SBAR
+          (S
+            (NP (PRP me))
+            (VP (VBP think)
+              (NP (NN wtf)))))))
+    (. .)))
+
+(ROOT
+  (FRAG (WRB Why) (. ?)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP have)
+        (NP (JJ free) (NNS wifi))))
+    (, ,)
+    (CC but)
+    (S
+      (S
+        (ADVP (RB sometimes))
+        (NP (PRP it))
+        (VP (VBZ gets)
+          (ADJP (JJ loud))))
+      (, ,)
+      (CC and)
+      (S
+        (NP (PRP I))
+        (VP (VBD did) (RB n't)
+          (VP (VB find)
+            (NP
+              (ADJP (RB too) (JJ many))
+              (NNS places))
+            (S
+              (VP (TO to)
+                (VP (VB plug)
+                  (PRT (RP in)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ Its))
+    (VP (VBN located)
+      (PP (IN in)
+        (NP
+          (NP (DT the) (JJ new) (NNP SanTan) (NN mall))
+          (RRC
+            (ADVP (RB so))
+            (NP (PRP$ its)
+              (NP (DT a)
+                (ADJP (JJ decent))
+                (NN place))))))
+      (S
+        (VP (TO to)
+          (VP (VB pick)
+            (PRT (RP up))
+            (NP (DT a) (NN drink))
+            (SBAR (IN while)
+              (S
+                (NP
+                  (NP (NN shopping))
+                  (ADJP (IN if) (NN nothing)))
+                (ADJP (RB else))))))))
+    (. .)))
+
+
+(ROOT
+  (SINV
+    (VP (VBZ says))
+    (NP
+      (NP
+        (NP (DT this))
+        (SBAR
+          (S
+            (VP (VBZ has)
+              (VP (VBN gone)
+                (PRT (RP out))
+                (PP (IN of)
+                  (NP (NN business)))
+                (PP (IN in)
+                  (NP (CD 2009))))))))
+      (: ...)
+      (NP (NN http://www.mauiwowi.com/findmw/locations.htm)))))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (ADJP (JJ sorry)
+        (S
+          (VP (TO to)
+            (VP (VB see)
+              (S
+                (NP (DT this))
+                (ADJP (VBN gone))))))))
+    (. .)))
+
+(ROOT
+  (S (: ...)
+    (S
+      (ADVP (RB However))
+      (, ,)
+      (NP (EX there))
+      (VP (VBZ is)
+        (NP
+          (NP (DT another) (NNP Maui) (NNP Wowi))
+          (PP (IN at)
+            (NP (DT the) (NNP Santan) (NNP Village) (JJ outdoor) (NN mall)))
+          (PP (IN in)
+            (NP (NNP Gilbert))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It) (POS 's) (NN kona) (NN coffee))
+    (VP (VBZ is)
+      (S
+        (VP (VBG *)
+          (NP (NNS delicious))
+          (X (SYM *)))))))
+
+

@@ -1,0 +1,91 @@
+(ROOT
+  (NP
+    (NP (NNP Sort))
+    (PP (IN of)
+      (NP (JJ competent) (NN staff)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Mostly)
+      (ADJP (JJ hollow-eyed)
+        (CC and)
+        (JJ dull)))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (SBAR
+      (WHNP (WDT whatever))
+      (S
+        (NP (PRP you))
+        (VP (VBP do)
+          (S
+            (VP (VB speak)
+              (PRT (RP up))
+              (PP (IN about)
+                (NP (PRP$ your) (NN sandwich))))))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP make)
+      (SBAR
+        (S
+          (NP (PRP them))
+          (VP (VBP like)
+            (SBAR
+              (S
+                (NP (DT the) (NNS ingredients))
+                (VP (VBP are)
+                  (VP (VBG coming)
+                    (PRT (RP out))
+                    (PP (IN of)
+                      (NP (PRP$ their) (NN wage)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Ask)
+      (SBAR (IN for)
+        (S
+          (NP (JJ extra))
+          (VP (VBZ napkins) (, ,)
+            (S
+              (NP (PRP they))
+              (VP (VB give)
+                (NP (PRP you))
+                (NP (CD 1) (CD one)))))))
+      (: ...)
+      (ADVP (RB always)))))
+
+
+(ROOT
+  (NP (JJ Horrible) (NN service) (. !)))
+
+(ROOT
+  (NP (NNP Unfriendly) (: ...)))
+
+(ROOT
+  (NP
+    (NP
+      (NP (JJ Worst) (NN subway))
+      (PP (IN in)
+        (NP (DT the) (NNP East) (NNP Valley))))
+    (: ...)
+    (NP
+      (NP (NNS skips))
+      (PP (IN on)
+        (NP (NNS ingredients))))
+    (. .)))
+
+(ROOT
+  (S (: ...)
+    (NP (PRP I))
+    (ADVP (RB highly))
+    (VP (VBP DON)
+      (NP
+        (NP (NNP RECCOMEND))
+        (: ...)
+        (NP (NNP PLEASE) (NNP USE) (NNP ANOTHER) (NNP SUBWAY))))
+    (: ...)))
+
+

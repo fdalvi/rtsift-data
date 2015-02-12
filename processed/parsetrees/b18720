@@ -1,0 +1,95 @@
+(ROOT
+  (S
+    (VP (VB Crap))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP Bud) (NNP Light))
+      (, ,)
+      (NP (NNP Miller) (NNP Lite))
+      (, ,)
+      (NP
+        (NP (NNP Coors) (NNP Light))
+        (PP (IN on)
+          (NP (NN tap))))
+      (CC and)
+      (NP (RB not) (RB much)))
+    (ADJP (RB else))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Guinness))
+    (PP (IN from)
+      (NP (DT a) (NN can)))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Seriously))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Cold) (JJ fried) (NN food))
+      (CC and)
+      (NP (NN way) (VBN overpriced) (NN appetizer)))
+    (VP (VBP sampler))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NN Server))
+    (ADVP (RB never))
+    (VP (VBD offered)
+      (NP (NN silverware)
+        (CC or)
+        (NNS condiments))
+      (PP (IN like)
+        (NP (NN salt))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBN Avoid))
+    (. .)))
+
+
+(ROOT
+  (X
+    (X (SYM Wow))
+    (: -)
+    (ADJP (RB not) (JJ good))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN place))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (RB really) (RB not))
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (NP (PRP I))
+            (VP (VBD expected)
+              (ADVP (IN at) (DT all)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS selections))
+    (VP (VBD were)
+      (NP
+        (NP (JJ few))
+        (, ,)
+        (CC and)
+        (NP (DT the) (NN food))
+        (: -))
+      (ADVP (NN cold)))
+    (. .)))
+
+

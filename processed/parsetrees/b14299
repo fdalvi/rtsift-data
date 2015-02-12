@@ -1,0 +1,290 @@
+(ROOT
+  (NP
+    (NP (JJ Good) (NN food))
+    (, ,)
+    (NP
+      (NP (JJ good) (NNS prices))
+      (, ,)
+      (CC and)
+      (NP (JJ good) (NN service)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (NN Nothing))
+      (ADJP (RB too) (`` ``) (JJ Extreme) ('' ''))
+      (PP (IN about)
+        (NP (NNP Extreme) (NNP Pita))))
+    (, ,)
+    (PP (IN except)
+      (NP
+        (NP (RB maybe) (DT the) (JJ welcome) (NN alternative))
+        (PP (TO to)
+          (NP
+            (NP (DT a) (NN burger))
+            (CC and)
+            (NP (NNS fries))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (ADVP (RB also))
+    (VP (VBZ has)
+      (NP
+        (NP (DT an) (JJ over-lit) (, ,) (JJ generic) (, ,) (JJ fast-food) (NN decor))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ inhibits)
+              (NP (NN digestion)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP have)
+        (S
+          (VP (TO to)
+            (VP (VB agree)
+              (PP (IN with)
+                (NP (NNP Michael) (NNP C))))))))
+    (, ,)
+    (NP (EX there))
+    (VP (VBZ 's)
+      (ADJP (NN nothing) (JJ extreme))
+      (ADVP (RB here)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN food))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (JJ A-OK)
+          (CC and)
+          (JJR better))
+        (PP (IN than)
+          (NP (NNP McWendyKing) (POS 's)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD did)
+      (SBAR
+        (SBAR
+          (S
+            (VP (VBP find)
+              (SBAR
+                (S
+                  (NP (DT the) (NN service)
+                    (CC and)
+                    (NN presentation))
+                  (VP (VBP fit)
+                    (NP
+                      (NP (DT the) (NN mold))
+                      (PP (IN of)
+                        (NP (JJ other) (JJ fast) (NN food) (NNS joints))))))))))
+        (CC and)
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ 's) (RB not)
+              (NP (DT a) (JJ good) (NN thing)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (CD One))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (NNS guys))
+          (PP (IN behind)
+            (NP (DT the) (NN counter))))))
+    (VP (VBD was)
+      (NP
+        (NP (DT a) (JJ persistent) (NN up-seller))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (ADVP (RB quickly))
+            (VP (VBD became)
+              (ADJP (JJ annoying)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBP hang)
+        (PRT (RP out))
+        (PP (IN in)
+          (NP
+            (NP
+              (NP (DT this) (NN complex))
+              (NP (DT a) (NN lot)))
+            (PRN (-LRB- -LRB-)
+              (PP (IN at)
+                (NP (NNP Gold) (NNP Bar)))
+              (-RRB- -RRB-)))))
+      (CC and)
+      (VP
+        (ADVP (RB finally))
+        (VP (VBD broke)
+          (PRT (RP down)))
+        (CC and)
+        (VP (VBD ate)
+          (ADVP (RB here) (RB recently)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (RB Here))
+    (VP (VBZ 's)
+      (NP
+        (NP (PRP$ my) (NNS thoughts))
+        (PP (IN on)
+          (NP (DT the) (JJ whole) (NN place)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Extreme) (NNP Pita))
+    (VP (VBZ is) (RB n't)
+      (ADJP (JJ bad)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADVP (RB just))
+      (RB not)
+      (ADJP (JJ great)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP mean)))
+    (, ,)
+    (S
+      (NP (NNS theres))
+      (NP (DT a) (JJ decent) (NN menu)))
+    (, ,)
+    (S
+      (NP (NNS prices))
+      (VP (VBP are)
+        (ADJP (JJ okay))))
+    (, ,)
+    (S
+      (NP (NN service))
+      (VP (VBZ is)
+        (ADJP (JJ mediocre))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (, ,)
+    (S
+      (NP
+        (NP (NN something))
+        (PP (IN about)
+          (NP (PRP it))))
+      (VP (VBZ feels)
+        (PP (IN like)
+          (NP
+            (NP (DT a) (NN subway))
+            (PP (IN with)
+              (NP (NNS pitas)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP (PRP I))
+        (VP (VBD got)
+          (NP (DT the) (NN gyro) (NN pita))))
+      (, ,)
+      (CC and)
+      (S
+        (NP (PRP it))
+        (VP (VBD was)
+          (ADJP (JJ fine)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (ADVP (RB just))
+      (VP (VB isnt)
+        (NP (NN anything))
+        (SBAR (IN that)
+          (S
+            (NP (PRP I))
+            (VP (MD would)
+              (VP (VB crave/miss)
+                (S
+                  (NP (NN food))
+                  (ADJP (JJ wise)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Like)
+      (NP
+        (NP (NNP Micheal) (NNP C))
+        (VP (VBD said))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ has)
+      (NP
+        (NP (DT an) (JJ overlit) (, ,) (JJ generic) (JJ fast) (NN food) (NN decor))
+        (VP (VBG feeling)
+          (PP (TO to)
+            (NP (PRP it))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBD said)
+            (SBAR
+              (S
+                (NP (PRP it))
+                (VP
+                  (ADVP
+                    (ADVP (RB best)
+                      (PP (IN in)
+                        (NP
+                          (NP (PRP$ his) (NN review))
+                          (PP (IN of)
+                            (NP (DT this) (NN place))))))
+                    (, ,)
+                    (CC and)
+                    (ADVP (RB pretty) (RB much)))
+                  (VBD covered)
+                  (SBAR
+                    (WHADVP (WRB how))
+                    (S
+                      (NP (PRP I))
+                      (VP (VBP feel)
+                        (PP (IN about)
+                          (NP (NNP Extreme) (NNP Pita)))))))))))))
+    (. .)))
+
+(ROOT
+  (NP (NNP Go) (NNP Micheal) (NNP C) (. !)))
+
+

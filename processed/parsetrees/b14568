@@ -1,0 +1,172 @@
+(ROOT
+  (S
+    (NP (PRP$ My) (NN company))
+    (VP (VBZ uses)
+      (NP
+        (NP (DT this) (NN Enterprise))
+        (PP (IN on)
+          (NP (DT a) (JJ weekly) (NN basis)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBP need)
+      (NP
+        (NP
+          (NP
+            (NP (DT a) (NN car))
+            (NP (DT each)))
+          (NP (NNP Tuesday)))
+        (, ,)
+        (NP (NNP Wednesday))
+        (CC and)
+        (NP (DT every) (JJ other) (NNP Thursday))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Since)
+      (NP (NNP October)))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP have)
+      (VP (VBN been)
+        (PP (IN on)
+          (NP (NN time)))
+        (ADVP (RB only) (RB twice))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (SBAR
+        (WHADVP (WRB When))
+        (S
+          (NP (PRP they))
+          (VP (VBP are)
+            (ADJP (JJ late)))))
+      (, ,)
+      (NP (PRP$ our) (NN schedule))
+      (VP (VBZ is)
+        (VP (VBN affected))))
+    (CC and)
+    (S
+      (NP (PRP we))
+      (VP (MD must)
+        (VP (VB use)
+          (NP (PRP$ our) (JJ own) (NN vehicle)))))
+    (. .)))
+
+
+(ROOT
+  (UCP
+    (VP (VBN Picked)
+      (NP (PRP me))
+      (ADVP (RB up))
+      (, ,)
+      (PP (RB not)
+        (NP
+          (NP (DT a) (NN selection))
+          (PP (IN of)
+            (NP
+              (NP (NNS cars))
+              (ADVP (IN at) (DT all))))))
+      (, ,))
+    (CC and)
+    (ADJP (RB very) (JJ slow))))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD rent)
+      (PP (IN from)
+        (NP (NN enterprise)))
+      (NP (PDT all) (DT the) (NN time)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB just))
+    (VP (VBD was) (RB n't)
+      (VP (VBG feeling)
+        (NP (DT the) (NN customer) (NN service) (NN love))
+        (SBAR (IN so)
+          (S
+            (NP (PRP I))
+            (VP (VBD split)
+              (SBAR
+                (S
+                  (NP (CC &))
+                  (VP (VBD hit)
+                    (NP (DT another) (NN enterprise))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (DT This))
+      (VP (VBD was)
+        (NP
+          (NP (DT an) (NN office))
+          (PP (IN in)
+            (NP (DT the) (NNP Frys) (NNP Grocery) (NN center))))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ is)
+        (ADJP (JJ empty))
+        (ADVP (RB now))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Far))
+    (ADVP (RB right))
+    (VP (VBP storefront) (, ,)
+      (ADVP (JJ next))
+      (PP (TO to)
+        (NP (NNP Great) (NNPS Clips))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Makes))
+    (NP (PRP me))
+    (VP (VBP wonder)
+      (SBAR
+        (SBAR (IN if)
+          (S
+            (NP
+              (NP (DT some))
+              (PP (IN of)
+                (NP (DT the) (NNS reviewers))))
+            (VP (VBD got)
+              (SBAR
+                (S
+                  (NP (PRP it))
+                  (VP (VBN mixed)
+                    (PRT (RP up))
+                    (PP (IN with)
+                      (NP (DT the) (NN one)))
+                    (ADVP
+                      (ADVP (RBR further))
+                      (PP (IN down)
+                        (NP (NNP Baseline))))))))))
+        (CC or)
+        (SBAR (IN if)
+          (S
+            (NP (PRP they))
+            (ADVP (RB just))
+            (VP (VBD came)
+              (ADVP (RB here))
+              (SBAR (IN before)
+                (S
+                  (NP (PRP it))
+                  (VP (VBD closed)))))))))
+    (. .)))
+
+

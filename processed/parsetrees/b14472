@@ -1,0 +1,153 @@
+(ROOT
+  (S
+    (VP (VB Try)
+      (NP (DT the) (NN coffee)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (SBAR (IN Ok)
+      (S
+        (NP (PRP I))
+        (VP (MD 'll)
+          (VP (VB admit)
+            (NP (PRP it))))))
+    (, ,)
+    (NP (PRP I))
+    (ADVP (RB really))
+    (VP
+      (ADVP (RB just))
+      (VBP like)
+      (NP
+        (NP (DT this) (NN place))
+        (PP (IN for)
+          (NP
+            (NP (PRP it) (POS 's))
+            (NN name)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VB Love)
+      (NP (DT the) (NN layout)
+        (S
+          (VP (TO to)
+            (VP (VB fuel)
+              (PRT (RP up))
+              (NP (PRP$ your) (NN car)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBZ is)
+        (NP
+          (NP (RB plenty))
+          (PP (IN of)
+            (NP
+              (NP (NN room))
+              (PP (IN for)
+                (NP (NNS cars)
+                  (S
+                    (VP (TO to)
+                      (VP
+                        (ADVP (RB safely))
+                        (VB use)
+                        (NP (DT all) (NNS pumps))))))))))))
+    (CC and)
+    (S
+      (NP (DT the) (NN turn)
+        (S
+          (VP (TO to)
+            (VP
+              (VP (VB get)
+                (PP (TO to)
+                  (NP (DT a) (JJ different) (NN aisle))))
+              (CC or)
+              (VP (VB pump))))))
+      (VP (VBZ is)
+        (ADJP (RB easy) (JJ due)
+          (PP (TO to)
+            (NP (DT the) (JJ wide) (NNS lanes))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN gas) (NNS prices))
+      (PP (IN at)
+        (NP (NNP Superpumpers))))
+    (VP (VBP are)
+      (ADJP (RB generally) (RBR more) (JJ expensive))
+      (, ,)
+      (ADVP (RB thus)
+        (NP (DT the) (NN deduction))
+        (PP (IN of)
+          (NP (DT a) (NN star)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN convenience) (NN store))
+    (VP (VBZ is)
+      (ADJP (JJ awesome))
+      (SBAR (IN with)
+        (S
+          (NP
+            (NP (RB plenty))
+            (PP (IN of)
+              (NP
+                (NP (JJ delicious) (NN coffee))
+                (, ,)
+                (NP (NNS slurpees))
+                (, ,)
+                (NP (JJ hot) (NNS dogs))
+                (, ,)
+                (CC and)
+                (NP (DT any) (JJ other) (NN gas) (NN store) (NN food)))))
+          (VP (VBP item/beverage)
+            (SBAR
+              (S
+                (NP (PRP you))
+                (VP (MD could)
+                  (VP (VB want)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN store))
+    (VP
+      (VP (VBZ is)
+        (ADVP (RB always))
+        (ADJP (JJ clean)))
+      (CC and)
+      (VP
+        (ADVP (RB well))
+        (VBD lit)
+        (ADVP (CC both)
+          (RB inside)
+          (CC and)
+          (RB outside))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ is)
+              (NP
+                (NP (DT a) (JJ huge) (NN bonue))
+                (SBAR
+                  (WHADVP (WRB when))
+                  (S
+                    (NP (PRP you))
+                    (VP (VBP are)
+                      (VP (VBG filling)
+                        (PRT (RP up))
+                        (NP (PRP$ your) (NN tank))
+                        (PP (IN at)
+                          (NP (NN night)))))))))))))
+    (. .)))
+
+

@@ -1,0 +1,158 @@
+(ROOT
+  (NP
+    (NP (NNP Jerk) (NNP Chicken) (NNP Rice) (NNP Bowl))
+    (: -)
+    (NP
+      (NP (NN takeout))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBD went)
+            (PP (IN over)
+              (NP (NN lunchtime)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NN order))
+    (VP (VBD took)
+      (PP (IN over)
+        (NP (CD 15) (NNS minutes)))
+      (S
+        (VP (TO to)
+          (VP (VB fill)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (MD 'd)
+        (VP (VB give)
+          (NP (DT a) (JJR lower) (NN rating)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT the) (NN food))
+      (VP (VBZ is)
+        (ADJP (JJ tremendous))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD 'll)
+      (ADVP (RB definitely))
+      (VP (VB be)
+        (ADVP (RB back))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN place))
+    (VP (VBZ closes)
+      (PP (IN at)
+        (NP (CD 8PM))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 've)
+        (VP (VBN been)
+          (PP (TO to)
+            (NP (NNP Saboten)))
+          (ADVP (RB twice)))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (ADJP (RB very) (JJ good))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (UCP
+        (ADJP (JJ basic) (JJ fair))
+        (, ,)
+        (X
+          (NP (NN nothing) (NN special)))
+        (, ,)
+        (CC but)
+        (VP (VBN done)
+          (ADVP (RB very) (RB well)))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Basic) (NN noodle)
+      (CC or)
+      (JJ rice-bowl) (NN type) (NNS dishes))
+    (, ,)
+    (NP
+      (NP (DT some) (NN sushi))
+      (, ,)
+      (NP (FW etc.)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJS biggest) (NN draw))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP
+            (VP (VBZ is)
+              (ADJP (RB locally) (VBN owned)))
+            (CC and)
+            (VP (VBZ has)
+              (NP
+                (ADJP (RB very) (JJ reasonable))
+                (NNS prices)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ My) (NN wife))
+      (CC and)
+      (NP (PRP I)))
+    (ADVP (RB recently))
+    (VP
+      (VP (VBD went)
+        (ADVP (RB there))
+        (PP (IN for)
+          (NP (DT a) (JJ quick) (NN dinner))))
+      (CC and)
+      (VP (VBD had)
+        (NP
+          (NP (CD two) (NNS entres))
+          (CC and)
+          (NP
+            (NP (DT an) (NN order))
+            (PP (IN of)
+              (NP (NN sushi)))))
+        (PP (IN for)
+          (NP
+            (QP (IN under) ($ $) (CD 20))))))
+    (. .)))
+
+
+(ROOT
+  (FRAG
+    (ADJP (VBN Closed))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (JJ big) (JJ fat) (NN greek))
+    (VP (VBP express)
+      (ADVP (RB now)))
+    (. !)))
+
+

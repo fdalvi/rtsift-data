@@ -1,0 +1,56 @@
+(ROOT
+  (FRAG
+    (NP (NNP No))
+    (ADJP
+      (ADJP (RB very) (JJ busy))
+      (SBAR (IN since)
+        (S
+          (NP (PRP it))
+          (VP (VBZ 's)
+            (PP (IN on)
+              (NP
+                (NP (DT the) (NN corner))
+                (PP (IN of)
+                  (NP (DT the) (NN world)))))))))))
+
+
+(ROOT
+  (S
+    (NP (JJS Worst) (NN bank))
+    (VP
+      (ADVP (RB ever))
+      (VBN !!!))))
+
+(ROOT
+  (SINV
+    (NP (PRP They))
+    (VP (VBN screwed)
+      (NP (PRP us))
+      (PRT (RP out))
+      (PP (IN of)
+        (NP (DT a) (NN house) (NN !!))))))
+
+
+(ROOT
+  (NP (JJ Wonderful) (NN service) (. !)))
+
+(ROOT
+  (FRAG (RB So)
+    (ADJP (JJ honest)
+      (CC and)
+      (JJ friendly))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Thank)
+      (NP (PRP you))
+      (PP (IN for)
+        (S
+          (VP (VBG being)
+            (ADJP (RB so) (JJ thorough)
+              (CC and)
+              (JJ clear))))))
+    (. .)))
+
+

@@ -1,0 +1,77 @@
+(ROOT
+  (FRAG
+    (NP
+      (NP (JJ Great) (NN service))
+      (, ,)
+      (NP (JJ great) (NN fish) (NN taco))
+      (, ,)
+      (NP (NNP CHEAP) (NNPS DrINkS) (NNP !!)))))
+
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (JJ Great) (NN value))
+        (, ,)
+        (NP
+          (ADJP (JJ helpful) (JJ chatty))
+          (NN staff))
+        (, ,))
+      (VP (VBZ kinda)
+        (NP (DT a) (NNS locals) (NN hangout))))
+    (: ...)
+    (S
+      (NP (PRP we))
+      (VP (VBP are)
+        (PP (IN from)
+          (NP
+            (NP (NN out))
+            (PP (IN of)
+              (NP (NN town)))))
+        (VP
+          (ADVP (RB yet))
+          (VBN made)
+          (S
+            (VP (TO to)
+              (VP (VB feel)
+                (ADJP (RB very) (JJ comfortable))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NN Fish) (NNS tacos))
+      (VP (VBD were)
+        (ADJP (JJ good))
+        (PP (RB not)
+          (ADJP (JJ great)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (NN everything) (RB else))
+      (VP (VBD was)
+        (ADJP (JJ perfect))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP 're)
+          (VP (VBG looking)
+            (PP (IN for)
+              (NP (NN something)))
+            (ADVP (JJ other)
+              (PP (IN than)
+                (NP (DT the) (VBN overpriced) (NN strip) (NN stuff))))))))
+    (, ,)
+    (NP (NNP Charlie) (NNP 's))
+    (VP (MD could)
+      (VP (VB be)
+        (PP (IN on)
+          (NP (PRP$ your) (NN list)))))
+    (. !)))
+
+

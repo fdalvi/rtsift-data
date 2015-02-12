@@ -1,0 +1,78 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP CH) (POS 's))
+        (JJ interior) (NN design))
+      (VP
+        (VP (VBZ is)
+          (ADJP (JJ great)))
+        (, ,)
+        (VP (NN walk)
+          (PP (IN in)))))
+    (CC and)
+    (S
+      (NP (DT the) (NN store))
+      (VP (VBZ makes)
+        (S
+          (NP (PRP you))
+          (VP (VB forget)
+            (NP (PRP$ your))
+            (PP (IN in)
+              (NP
+                (NP (DT a) (NN sea))
+                (PP (IN of)
+                  (NP
+                    (NP (JJ other) (NNS stores))
+                    (PRN (-LRB- -LRB-)
+                      (NP (NN mall))
+                      (-RRB- -RRB-))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (ADVP (RB Mostly))
+    (VP (VBZ womens)
+      (NP (NN fashion))
+      (ADVP (RB however)))
+    (NP
+      (NP (DT a) (JJ nice) (NN selection))
+      (PP (IN of)
+        (NP
+          (NP (NN dress) (NNS shirts)
+            (CC and)
+            (NNS coats))
+          (PP (IN for)
+            (NP (NNS men))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBN Got)
+        (S
+          (NP (PRP me))
+          (NP (DT a) (JJ red) (NN button)))))
+    (ADVP (RB down) (RB long))
+    (VP (VBD sleeve)
+      (NP (NN shirt))
+      (PP (IN from)
+        (NP (RB here)))
+      (PP (IN with)
+        (NP (DT a) (JJ velvety) (NN finish)))
+      (PP (TO to)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Great) (NN style))
+    (, ,)
+    (NP
+      (NP (NN fun) (NN design))
+      (CC and)
+      (NP
+        (ADJP (RB very) (JJ helpful))
+        (NN staff)))
+    (. .)))
+
+

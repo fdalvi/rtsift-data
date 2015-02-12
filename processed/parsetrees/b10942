@@ -1,0 +1,121 @@
+(ROOT
+  (FRAG
+    (ADJP
+      (ADVP (RB Always))
+      (JJ easy))
+    (: ...)))
+
+(ROOT
+  (S
+    (NP (NNP Always))
+    (ADJP (JJ quick))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Self))
+      (VP (VBP serve)
+        (NP (NN car) (NN wash))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (NP (DT a) (NNP Chevron)))
+      (. .))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBD was)
+      (ADJP (JJ right)
+        (PP (IN across)
+          (NP (DT the) (NN street))))
+      (PP (IN from)
+        (NP (PRP$ my) (NN apartment))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP (RB very) (JJ Convenient))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP$ Their))
+    (VP (VBD was)
+      (ADVP (RB never))
+      (NP (DT a) (JJ long) (NN line)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Great) (NN gas))
+      (CC and)
+      (NP (PRP it)))
+    (VP (VBZ 's)
+      (ADJP (RB super) (JJ quick))
+      (S
+        (VP (TO to)
+          (VP (VB refuel)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP do) (RB n't)
+      (VP (VB like)
+        (S
+          (VP (TO to)
+            (VP (VB take)
+              (PP (TO to)
+                (NP (JJ much) (NN time)))
+              (PP (IN at)
+                (NP (DT the) (NN pump))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Staff))
+    (VP (VBZ is)
+      (ADVP (RB always))
+      (NP
+        (NP (NNP friendly)
+          (CC &)
+          (NNP automatic) (NNP Carwash))
+        (SBAR
+          (S
+            (VP
+              (VP (VBZ is)
+                (VP (VBN priced)
+                  (ADVP (RB right))))
+              (CC and)
+              (VP (VBZ makes)
+                (NP (PRP$ my) (NN ride) (NN sparkle))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBP 've)
+        (VP (VBN been)
+          (VP (VBG frequenting)
+            (NP (DT this) (NN business))
+            (PP (IN since)
+              (NP (CD 2006)
+                (CC or)
+                (CD 2007))))))
+      (CC and)
+      (ADVP (RB never))
+      (VP (VBD had)
+        (NP (DT a) (JJ bad) (NN experience))))
+    (. .)))
+
+

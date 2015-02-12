@@ -1,0 +1,194 @@
+(ROOT
+  (SQ (VBZ Is)
+    (NP (DT a) (JJ clean) (NN toilet) (NN seat))
+    (ADJP (RB too) (JJ much))
+    (S
+      (VP (TO to)
+        (VP (VB ask))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB How))
+    (S
+      (NP (RB about) (NN working))
+      (VP (VBG lighting)
+        (NP (NNS fixtures))))
+    (. ?)))
+
+(ROOT
+  (NP
+    (NP (NNS Carpets))
+    (PP (IN without)
+      (NP (JJ crusty) (JJ white) (NNS stains)))
+    (. ?)))
+
+(ROOT
+  (S
+    (ADVP (RB Just))
+    (VP (VB shy)
+      (PP (IN of)
+        (NP
+          (NP ($ $) (CD 100))
+          (NP (DT a) (NN night)))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Really))
+    (. ?)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (MD would)
+        (VP (VB give)
+          (NP (DT this) (NN hotel))
+          (NP (CD 0) (NNS stars)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT that))
+      (VP (VBZ is) (RB not)
+        (NP (DT an) (NN option))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD took)
+      (NP
+        (QP (RB nearly) (CD 3))
+        (NNS hours))
+      (S
+        (VP (TO to)
+          (VP (VB check)
+            (PP (IN in)
+              (NP
+                (NP
+                  (ADJP (JJ due)
+                    (PP (TO to)
+                      (NP (DT a) (NN communication))))
+                  (NN problem))
+                (PP (IN with)
+                  (NP
+                    (NP (NNP Expedia))
+                    (PRN (-LRB- -LRB-)
+                      (NP
+                        (NP (DT another) (NN subject))
+                        (PP (IN of)
+                          (NP (DT a) (JJ terrible) (NN review))))
+                      (-RRB- -RRB-))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP$ Their) (NN fax) (NN machine))
+      (VP (VBD did) (RB not)
+        (VP (VB work))))
+    (CC and)
+    (S
+      (NP (DT the) (NN clerk))
+      (VP (VBD was)
+        (ADJP (JJ content)
+          (S
+            (VP (TO to)
+              (VP (VB say)
+                (SBAR (IN that)
+                  (S
+                    (SBAR (IN if)
+                      (S
+                        (NP (PRP he))
+                        (VP (VBD did) (RB not)
+                          (VP (VB get)
+                            (NP (DT a) (NN fax))))))
+                    (, ,)
+                    (NP (PRP I))
+                    (VP (MD could) (RB not)
+                      (VP (VB check)
+                        (PRT (RP on))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (SBAR (IN Once)
+        (S
+          (NP (PRP I))
+          (VP (VBD did)
+            (S
+              (VP (VB get)
+                (VP (VBN checked)
+                  (PP (IN in))))))))
+      (, ,)
+      (NP (PRP I))
+      (VP (VBD asked)
+        (PP (IN for)
+          (NP (DT an) (JJ extra) (NN blanket)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (JJ same) (NN clerk))
+      (VP (VBD informed)
+        (NP (PRP me))
+        (SBAR (IN that)
+          (S
+            (S
+              (NP (NNP housekeeping))
+              (VP (VBD had)
+                (VP (VBN locked)
+                  (NP (NN everything))
+                  (PRT (RP up)))))
+            (CC and)
+            (S
+              (NP (PRP he))
+              (VP (VBD had)
+                (NP (DT no) (NN access))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN room))
+    (VP (VBD was)
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP (PRP you))
+          (VP (MD would)
+            (VP (VB expect)
+              (PP (IN for)
+                (NP
+                  (NP (DT the) (NN price))
+                  (, ,)
+                  (NP (DT no) (NNS frills)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN service))
+    (VP (VBD made)
+      (NP (PRP it))
+      (NP (DT a) (JJ bad) (NN experience)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Do) (RB n't)
+      (VP
+        (VP (VB waste)
+          (NP (PRP$ your) (NN money)))
+        (: ...)
+        (VP (VB sleep)
+          (PP (IN in)
+            (NP (PRP$ your) (NN car)))
+          (SBAR (IN if)
+            (S
+              (NP (DT this) (NN hotel))
+              (VP (VBZ is)
+                (NP (DT the) (JJ only) (NN option))))))))
+    (. .)))
+
+

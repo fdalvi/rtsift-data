@@ -1,0 +1,80 @@
+(ROOT
+  (S
+    (NP (NNP Good))
+    (VP (VBP place)
+      (S
+        (VP (TO to)
+          (VP (VB spend)
+            (NP (DT some) (JJ extra) (NN cash))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Very)
+      (NP (JJ nice) (NN quality) (NNS clothes)
+        (CC and)
+        (NNS accessories)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN staff))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (JJ helpful))
+        (CC and)
+        (ADJP (RB very) (JJ positive))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN layout))
+        (PP (IN of)
+          (NP (DT the) (NN store))))
+      (VP (VBZ is)
+        (VP
+          (NP (DT a) (JJ little))
+          (VBN overlooked))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ has)
+      (NP
+        (NP (DT the) (NN feel))
+        (PP (IN of)
+          (NP (NN something) (VBG missing)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ has)
+      (NP (DT the) (JJ good) (NN location))
+      (, ,)
+      (SBAR (RB just) (IN that)
+        (S
+          (S
+            (NP
+              (NP (DT the) (NN front))
+              (PP (IN of)
+                (NP (DT the) (NN store))))
+            (VP (VBZ is)
+              (ADJP
+                (ADVP (NN kind) (IN of))
+                (JJ plain))))
+          (CC and)
+          (S
+            (NP (PRP you))
+            (VP (MD could)
+              (ADVP (RB easily))
+              (VP (VB pass)
+                (PP (IN by)
+                  (NP (PRP it)))
+                (PP (IN without)
+                  (S
+                    (VP (VBG seeing)
+                      (NP (PRP it)))))))))))
+    (. .)))
+
+

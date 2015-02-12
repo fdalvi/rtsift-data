@@ -1,0 +1,85 @@
+(ROOT
+  (S
+    (NP (NNP Lutece))
+    (VP (VBZ is)
+      (NP (DT a) (JJ French) (NN institution)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP are)
+      (ADJP (JJ famous)
+        (PP (IN in)
+          (ADJP
+            (ADJP (RB culinary) (JJ lore))
+            (PP (IN for)
+              (S
+                (VP (VBG being)
+                  (NP (DT the)
+                    (ADJP (JJ first)
+                      (PP (TO to)
+                        (S
+                          (VP
+                            (ADVP (RB ever))
+                            (VBG charging)
+                            (S
+                              (NP (NNS people))
+                              (NP
+                                (NP ($ $) (CD 30))
+                                (PP (IN for)
+                                  (NP (NN dover)))))))))
+                    (NN sole)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN At)
+      (NP (DT the) (NN time)))
+    (, ,)
+    (NP (PRP it))
+    (VP
+      (VP (VBD was)
+        (VP (VBN considered)
+          (NP (DT a) (NN trash) (NN fish))))
+      (CC and)
+      (VP (VBD was) (RB not)
+        (VP (VBN prepared)
+          (PP (IN in)
+            (NP (DT any) (JJ major) (NNS restaurants))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Now))
+    (, ,)
+    (NP (NN dover) (NN sole))
+    (VP (VBZ is)
+      (NP (DT THE) (NN thing)
+        (S
+          (VP (TO to)
+            (VP (VB order)
+              (PP (IN in)
+                (NP
+                  (NP (DT any) (JJ french) (NN restaurant))
+                  (VP (VBG pretending)
+                    (S
+                      (VP (TO to)
+                        (VP (VB be)
+                          (NP (JJ fine) (NN dining)))))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Chef) (NNP Keven) (NNP Lee))
+    (VP (VBD made)
+      (NP (DT this) (NN place))
+      (NP (DT the) (JJ amazing) (NN establishment))
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (VBD was)))))
+    (. .)))
+
+

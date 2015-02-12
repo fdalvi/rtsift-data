@@ -1,0 +1,141 @@
+(ROOT
+  (NP
+    (NP (NNP Food))
+    (: ...)
+    (NP
+      (NP (RB not) (RB as) (JJ bad))
+      (SBAR (IN as)
+        (S
+          (NP (PRP I))
+          (VP (VBD thought)
+            (SBAR
+              (S
+                (NP (PRP it))
+                (VP (MD would)
+                  (VP (VB be)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNS Pancakes))
+      (VP (VBD were)
+        (ADJP (JJ hot)
+          (CC and)
+          (JJ fluffy))))
+    (, ,)
+    (NP (NN coffee))
+    (VP (VBD was)
+      (ADJP (JJ good)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Ambiance))
+    (: ...)
+    (NP
+      (NP (JJ dirty))
+      (, ,)
+      (ADJP (JJ crowded) (, ,)
+        (CC and)
+        (JJ loud)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP Staff))
+        (: ...)
+        (ADJP (RB abysmally) (JJ slow)))
+      (PP (IN on)
+        (NP (DT a) (NNP Saturday))))
+    (VP (VBP am))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Verdict))
+    (: ...)
+    (S
+      (SBAR (IN if)
+        (S
+          (NP (PRP you))
+          (VP (VBP have)
+            (S
+              (VP (TO to)
+                (VP (VB get)
+                  (NP (PRP$ your) (JJ all-you-can-eat) (NN pancake) (NN fix))))))))
+      (, ,)
+      (NP (PRP I))
+      (VP (VBP guess)))
+    (. .)))
+
+
+(ROOT
+  (SINV
+    (ADVP (RB Dirty))
+    (VP (VBP drink)
+      (SBAR
+        (S
+          (S
+            (NP
+              (NP (NN glass))
+              (, ,) (RB overly)
+              (NP
+                (NP (NN salt) (NNS potatoes))
+                (PP (IN in)
+                  (NP (NN skillet))))
+              (, ,))
+            (VP (VBD grease)
+              (PP (IN beyond)
+                (NP (NN belief)))
+              (PP (IN on)
+                (NP
+                  (NP (NN bottom))
+                  (PP (IN of)
+                    (NP (NN skillet)))))))
+          (CC and)
+          (S
+            (NP (DT the) (NN bathroom))
+            (VP (VBD was)
+              (ADJP (RBR more) (JJ filthy)
+                (CC and)
+                (JJ deplorable)))))))
+    (SBAR (IN than)
+      (S
+        (NP (JJ proper) (NN etiquette))
+        (VP (MD can)
+          (VP (VB speak)
+            (ADVP (IN of) (DT a))))))))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP take)
+        (NP (PRP$ my) (NNS kids))
+        (PP (IN on)
+          (NP (NNP Thursdays)))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBP eat)
+        (ADJP (JJ free))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN food))
+      (VP (VBZ is)
+        (ADVP (RB always))
+        (ADJP (JJ excellent))))
+    (CC and)
+    (S
+      (NP (DT the) (NN service))
+      (ADJP (JJ great)))
+    (. .)))
+
+

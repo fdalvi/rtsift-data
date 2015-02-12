@@ -1,0 +1,47 @@
+(ROOT
+  (FRAG
+    (NP
+      (NP (JJ Great) (NN liquor) (NN distributor))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (ADVP (RB really))
+          (VP (VBZ does)
+            (NP (PRP$ their) (NN part))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBD went)
+        (PP (TO to)
+          (NP (DT the) (NNP FIT) (NNP Benefit)))))
+    (CC and)
+    (S
+      (NP (DT this) (NN company))
+      (VP (VBD was)
+        (ADVP (IN beyond))
+        (ADJP (JJ generous))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VP (VBD donated)
+        (PP (IN in)
+          (NP (DT a)
+            (ADJP (RB very) (JJ big))
+            (NN way))))
+      (CC and)
+      (VP (VBP have)
+        (VP (VBN done)
+          (ADVP (RB so) (RB much))
+          (S
+            (VP (TO to)
+              (VP (VB support)
+                (NP (DT the) (NNP Las) (NNP Vegas) (NN community))))))))
+    (. !)))
+
+

@@ -1,0 +1,562 @@
+(ROOT
+  (FRAG
+    (ADJP (RB Iffy) (JJ haircuts)
+      (CC but)
+      (JJ cheap))
+    (S
+      (NP (CC &))
+      (ADVP (RB usually))
+      (VP (VBZ quick)))
+    (. ?)))
+
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Usually))
+      (ADJP (JJ quick)))
+    (, ,)
+    (NP (NNS haircuts))
+    (VP (VBP are)
+      (ADJP
+        (NP (DT a) (RB bit))
+        (JJ iffy)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP
+            (NP (DT a) (NN couple))
+            (PP (IN of)
+              (NP (PRP$ their) (NNS stylists))))
+          (VP (VBP are)
+            (ADJP
+              (NP (DT a) (RB bit))
+              (JJ rude))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (VBP get)
+      (NP
+        (NP (DT the) (NN service))
+        (SBAR
+          (S
+            (NP (PRP you))
+            (VP (VBP pay)
+              (PP (IN for)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (DT the) (NN price)))
+    (, ,)
+    (VP (VB see)
+      (NP
+        (NP (NNP Fabian))
+        (ADVP (JJ next) (NN door)
+          (PP (IN at)
+            (NP (DT the) (NNP Canyon) (NN salon))))
+        (PP (IN for)
+          (NP
+            (NP (DT a)
+              (ADJP ($ $) (CD 5))
+              (NN haircut))
+            (PP (IN for)
+              (NP (NNS kids)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (ADVP (RB actually))
+    (VP (VBD did)
+      (NP
+        (NP (DT a)
+          (ADJP (JJ superb))
+          (NN job))
+        (PP (IN for)
+          (NP (PDT half) (DT the) (NN price)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (JJ Good) (NN hair))
+    (VP (VBZ cuts)
+      (ADJP (JJ quick)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD arrived)
+      (NP (NN yesterday))
+      (PP (IN for)
+        (NP (PRP$ my) (JJ usual))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (DT A) (JJ long) (NN overdue))
+    (VP (VBG trimming))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBD was)
+        (NP (RB approximately) (CD 6:30) (NN pm))))
+    (CC and)
+    (S
+      (NP (EX there))
+      (VP (VBD were)
+        (NP
+          (NP (DT no) (NNS customers))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBZ is)
+                (ADVP (RB usually))
+                (NP (DT a) (JJ bad) (NN sign))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Alexia))
+    (VP
+      (VP (VBD came)
+        (PP (IN from)
+          (NP (DT the) (NN back))))
+      (CC and)
+      (VP (VBD checked)
+        (NP (PRP me))
+        (PP (IN in)
+          (ADVP (RB right) (RB away)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (VBD said)
+      (SBAR
+        (SBAR (IN that)
+          (S
+            (NP (PRP it))
+            (VP (VBD had)
+              (VP (VBN been)
+                (ADJP (RB real) (JJ busy))
+                (NP (DT all) (NN day))))))
+        (CC and)
+        (SBAR (IN that)
+          (S
+            (NP (PRP I))
+            (VP (VBD had)
+              (VP (VBN arrived)
+                (PP (IN at)
+                  (NP (RB just) (DT the) (JJ right) (NN moment)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP believe)
+        (NP (PRP her))))
+    (, ,)
+    (NP (DT this) (NN place))
+    (ADVP (RB usually))
+    (VP (VBZ has)
+      (NP
+        (NP (DT a) (JJ steady) (NN stream))
+        (PP (IN of)
+          (NP (NNS customers)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD sat)
+        (PRT (RP down))))
+    (CC and)
+    (S
+      (NP (PRP she))
+      (VP (VBD asked)
+        (SBAR
+          (WHADVP (WRB how))
+          (S
+            (NP (PRP I))
+            (VP (VBD wanted)
+              (NP (PRP it)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB usually))
+    (VP (VBP wait)
+      (ADVP (RB too) (RB long))
+      (PP (IN between)
+        (NP (NNS cuts)))
+      (SBAR (IN so)
+        (S
+          (NP (PRP I))
+          (VP (VBP want)
+            (NP
+              (NP (DT a) (NN lot))
+              (VP (VBN taken)
+                (PRT (RP off))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB always))
+    (VP (VBP try)
+      (S
+        (VP (TO to)
+          (VP (VB talk)
+            (NP (PRP you))
+            (PRT (RP out))
+            (PP (IN of)
+              (NP (JJ drastic) (NNS changes)))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (VP
+      (VP (VB Are)
+        (S
+          (NP (PRP you))
+          (ADJP (JJ sure))
+          (SBAR
+            (S
+              (NP (PRP you))
+              (VP (VBP want)
+                (NP
+                  (NP (DT that) (NN size))
+                  (, ,)
+                  (SBAR
+                    (WHADVP (WRB how))
+                    (S
+                      (NP (RB about) (PRP we))
+                      (VP (VBP start)
+                        (PP (IN with)
+                          (NP (DT this) (NN size))))))))))))
+      (CC and)
+      (VP (VB work)
+        (PRT (RP down))))
+    (. .)))
+
+(ROOT
+  (S ('' '')
+    (ADVP (RB Okay))
+    (, ,)
+    (VP (VBZ okay))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD relented))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Then))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBD went)
+      (PP (TO to)
+        (NP (DT the) (NN size)))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBD wanted)
+            (PP (IN in)
+              (NP (DT the) (JJ first) (NN place)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (VBD did)
+      (NP (DT a) (JJ good) (NN job)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (ADJP (JJ pleased)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (VBD put)
+      (NP (PRP$ my) (NNS notes))
+      (PP (IN in)
+        (NP (DT the) (NN computer)))
+      (SBAR (IN so)
+        (S
+          (NP (DT the) (JJ next) (NN stylist))
+          (VP (MD would)
+            (VP (VB know))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ whole) (NN thing))
+    (VP (VBD took)
+      (NP (CD 15) (NNS minutes)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN fee))
+    (VP (VBD was)
+      (NP
+        (NP ($ $) (CD 12))
+        (PRN (-LRB- -LRB-)
+          (PP (CC plus)
+            (NP (NN tip)))
+          (-RRB- -RRB-))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP (RB Very) (JJ reasonable))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Us) (NNS men))
+    (VP (VBP prefer)
+      (ADJP (JJ quick)
+        (CC and)
+        (JJ cheap))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP it))
+          (VP (VBZ comes)
+            (PP (TO to)
+              (NP (NNS haircuts)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT This) (NN place))
+      (VP (VBZ is) (RB not)
+        (ADJP (RB so) (JJ different)
+          (PP (IN from)
+            (NP (JJ many) (JJ other) (NN barber) (NNS shops))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ is)
+        (ADJP (JJ close)
+          (PP (TO to)
+            (NP (PRP$ my) (NN home))))
+        (SBAR (IN so)
+          (S
+            (NP (PRP I))
+            (VP (MD will)
+              (VP (VB be)
+                (VP (VBG coming)
+                  (ADVP (RB back)))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Quick))
+    (, ,)
+    (NP (JJ cheap) (, ,) (JJ good) (NN job))
+    (, ,)
+    (CC and)
+    (NP
+      (NP (NN close))
+      (PP (TO to)
+        (NP (PRP$ my) (NN home))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Yep))
+      (, ,)
+      (SBAR (IN that)
+        (FRAG
+          (ADJP (IN about)))))
+    (VP (VBZ sums)
+      (NP (PRP it))
+      (PRT (RP up)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (INTJ (UH Oh))
+      (, ,)
+      (NP (PRP I))
+      (VP (MD will)
+        (VP (VB complain)
+          (PP (IN about)
+            (NP (CD one) (NN thing))))))
+    (: :)
+    (S
+      (NP (PRP I))
+      (ADVP (RB always))
+      (VP (VB walk)
+        (PRT (RP out))
+        (PP (IN with)
+          (NP
+            (NP (DT a) (NN ton))
+            (PP (IN of)
+              (NP
+                (NP (NN hair) (NNS clippings))
+                (PP (IN on)
+                  (NP (PRP$ my) (NN head)
+                    (CC and)
+                    (NN shirt)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have)
+      (S
+        (VP (TO to)
+          (VP (VB brush)
+            (PRT (RP off))
+            (PP (IN for)
+              (NP
+                (QP (RB about) (CD 2))
+                (NNS minutes)))
+            (PP (IN before)
+              (S
+                (VP (VBG getting)
+                  (PP (IN into)
+                    (NP (PRP$ my) (NN truck))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (INTJ (UH Oh))
+    (INTJ (UH well))
+    (, ,)
+    (NP (DT that))
+    (VP (VBZ 's)
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP (PRP you))
+          (VP (VBP get)
+            (PP (IN for)
+              (NP ($ $) (CD 12)))))))
+    (. .)))
+
+
+(ROOT
+  (SINV
+    (ADVP (RB Usually))
+    (VP
+      (VP (VBP go)
+        (PP (TO to)
+          (NP (NNS sports) (NNS clips))))
+      (CC but)
+      (VP (VBD got)))
+    (NP
+      (NP (JJ tired))
+      (PP (IN of)
+        (NP (PRP$ their) (JJ high) (NNS prices))))
+    (: ...)))
+
+(ROOT
+  (S
+    (S
+      (VP (VB Went)
+        (ADVP (RB here))
+        (PP
+          (PP (IN for)
+            (NP (DT the) (JJ first) (NN time)))
+          (CC and)
+          (PP
+            (ADVP (RB immediately))
+            (IN after)
+            (S
+              (VP (VBG signing)
+                (PRT (RP up))))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD was)
+      (ADJP (JJ next)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN haircut))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (NN professional))
+        (CC and)
+        (ADJP (JJ quick))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Excellent) (NN service))
+    (PP (IN for)
+      (NP (DT a)
+        (ADJP ($ $) (CD 12))
+        (NN haircut)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (DT Every) (NN time))
+    (NP (PRP I))
+    (VP (VBP come)
+      (SBAR
+        (S
+          (NP (DT the) (NNS ladies))
+          (VP (VBP are)
+            (ADJP (RB super) (JJ sweet)
+              (CC and)
+              (JJ friendly))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP are)
+        (ADJP (JJ awesome)
+          (PP (IN at)
+            (SBAR
+              (WHNP (WP what))
+              (S
+                (NP (PRP they))
+                (VP (VBP do))))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (ADVP (RB always))
+      (VP (VBP leave)
+        (ADJP (JJ happy))))
+    (. .)))
+
+

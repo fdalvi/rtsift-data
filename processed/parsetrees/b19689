@@ -1,0 +1,104 @@
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (MD can)
+      (VP (VB make)
+        (NP (DT a) (NN person))
+        (PP (IN like)
+          (NP
+            (NP (CD one) (NN gas) (NN center))
+            (PP (IN over)
+              (NP (DT another)))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is) (RB not)
+      (NP
+        (NP (DT the) (VBG intoxicating) (NNS scents))
+        (PP (IN from)
+          (NP (DT the) (NN fuel)))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ 's)
+              (PP (IN for)
+                (ADJP (JJ sure))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ is)
+        (ADJP (JJ simple)
+          (PP (IN for)
+            (NP (PRP me))))))
+    (, ,)
+    (S
+      (NP (PRP it))
+      (ADJP (JJ close)
+        (PP (TO to)
+          (NP (NN home)))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (MD can)
+        (VP (VB go)
+          (NP
+            (NP (JJ late) (NN night)
+              (CC or)
+              (JJ early) (NN morning))
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (DT no) (NN one) (RB else))
+                (VP (VBZ is)
+                  (ADVP (RB there))
+                  (SBAR (IN since)
+                    (S
+                      (NP (PRP it))
+                      (VP (VBZ is)
+                        (ADJP (JJ automated))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP I))
+      (PP (IN for)
+        (NP (DT some) (NN reason))))
+    (VP (VBP like)
+      (S
+        (VP (VBG being)
+          (NP
+            (NP (DT the) (JJ only) (NN one))
+            (VP (VBG pumping))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Gas))
+    (VP (VBD was)
+      (ADJP
+        (ADJP
+          (NP
+            (NP ($ $) (CD .40))
+            (NP (DT a) (NN gallon)))
+          (JJR cheaper))
+        (PP (IN than)
+          (PP (IN in)
+            (NP (NNP CA)))))
+      (PP (IN for)
+        (SBAR (IN that)
+          (S
+            (ADVP (RB alone))
+            (NP (PRP I))
+            (VP (MD will)
+              (VP (VB be)
+                (ADVP (RB back) (RB there))))))))
+    (. .)))
+
+

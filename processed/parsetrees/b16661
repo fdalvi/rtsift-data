@@ -1,0 +1,120 @@
+(ROOT
+  (S
+    (NP (RB About) (DT the) (RB only) (JJ positive))
+    (PRN
+      (S
+        (NP (PRP I))
+        (VP (MD can)
+          (VP (VB think)
+            (PP (IN of)
+              (PP (IN for)
+                (NP (DT this) (NN location))))))))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (VBZ is)
+            (ADJP (JJ open)
+              (NP (CD 24) (NNS hours)))))))
+    (. .)))
+
+(ROOT
+  (SINV (RB Then)
+    (ADVP (IN ago))
+    (, ,)
+    (ADVP (RB so))
+    (VP (VBP are))
+    (NP (NNP ALL) (NNP 7-Eleven) (NNP 's))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Store))
+      (ADVP (RB just))
+      (VP (VBZ does) (RB not)
+        (VP (VB have)
+          (NP (RB much))
+          (PP
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NN way))
+                (PP (IN of)
+                  (NP (NN selection)))))
+            (, ,)
+            (CC and)
+            (RB as)
+            (PP (IN with)
+              (NP (DT all) (JJ convienience) (NNS stores)))))))
+    (, ,)
+    (NP (NNS prices))
+    (VP (VBP are)
+      (ADJP (RB quite) (JJ high)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Have)
+      (ADVP (RB never))
+      (VP (VBN had)
+        (NP
+          (NP (DT any) (JJ bad) (NNS experiences))
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (PP (IN at)
+                (NP (DT this) (NN store)))
+              (, ,)
+              (NP (PRP it))
+              (VP (VBZ 's)
+                (ADVP (RBR more))
+                (NP
+                  (NP (DT a) (NN matter))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (NN store))
+                      (VP
+                        (VP (VBG being)
+                          (ADJP (JJ small)))
+                        (CC and)
+                        (VP (VBG lacking)
+                          (NP
+                            (NP (RB much))
+                            (PP (IN of)
+                              (NP (DT a) (NN selection)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Workers))
+      (PP (IN at)
+        (NP (DT this) (NN location))))
+    (VP (VBP have)
+      (ADVP (RB always))
+      (VP (VBN been)
+        (ADJP (JJ nice))
+        (, ,)
+        (SBAR (IN so)
+          (S
+            (NP (DT that))
+            (VP (VBZ is)
+              (NP (DT a) (NN place)))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (, ,)
+    (NP (DT this) (NN location))
+    (VP (VBZ has)
+      (NP
+        (NP (DT a) (NNP Redbox))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ is)
+              (NP (DT another) (NN plus)))))))
+    (. .)))
+
+

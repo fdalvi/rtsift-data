@@ -1,0 +1,378 @@
+(ROOT
+  (X
+    (NP (JJ Great) (NN store))
+    (: -)
+    (VP
+      (ADVP (RB nicely))
+      (VBN organized) (, ,)
+      (S
+        (UCP
+          (ADJP (RB always) (JJ clean))
+          (, ,)
+          (CC and)
+          (NP
+            (NP (JJ nice) (JJ friendly) (NN staff))
+            (SBAR
+              (S (-LRB- -LRB-)
+                (NP (NNP welcoming))
+                (VP
+                  (VP (VBZ smiles))
+                  (CC and)
+                  (`` ``)
+                  (VP (VBZ Are)
+                    (S
+                      (NP (PRP you))
+                      (VP (VBG finding)
+                        (NP (NN everything) (NN alright))))))))))))
+    (. ?)))
+
+(ROOT
+  (S ('' '')
+    (NP (NNS greetings))
+    (VP (VBZ -RRB-))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Convenient) (NN location))
+    (: -)
+    (NP (JJ near) (NN Best))
+    (NP (NNP Buy) (, ,) (NNP Barnes)
+      (CC &)
+      (NNP Noble))
+    (, ,)
+    (CC and)
+    (NP
+      (NP (NNP Seafood) (NNP City))
+      (-LRB- -LRB-)
+      (NP
+        (NP (DT the))
+        (NP (NNP Blvd.))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NN Mall))
+    (VP (VBZ is)
+      (ADVP (RB just))
+      (PP (IN around)
+        (NP (DT the) (NN corner))))
+    (-RRB- -RRB-) (. .)))
+
+(ROOT
+  (S
+    (PP (IN Like)
+      (S
+        (NP (PRP I))
+        (VP (VBD said))))
+    (, ,)
+    (S
+      (NP (NN everything))
+      (VP (VBZ is)
+        (PP (IN in)
+          (NP (NN order)))))
+    (PRN (, ,)
+      (S
+        (NP (NN everything))
+        (VP (VBZ is)
+          (ADJP (RB relatively) (JJ easy))
+          (S
+            (VP (TO to)
+              (VP (VB find))))))
+      (, ,))
+    (CC and)
+    (S
+      (NP (DT the) (NN clearance) (NNS prices))
+      (VP (VBP are)
+        (VP (VBN cleared)
+          (S
+            (ADJP (JJ marked))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN store))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ good) (NN size) (NN store))
+        (PP (IN with)
+          (NP (JJ ample) (NN space)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN client) (NN base))
+    (VP (VBZ is)
+      (ADJP (RB surprisingly) (JJ normal)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ nice) (NN selection))
+        (PP (IN of)
+          (NP (NNS cards)))
+        (, ,)
+        (PP (IN for)
+          (NP
+            (NP
+              (NP
+                (NP (NNS birthdays))
+                (PRN (: -)
+                  (NP
+                    (NP (NNS females))
+                    (CC or)
+                    (NP (NNS males)))
+                  (: -)))
+              (PRN (-LRB- -LRB-)
+                (NP (JJ left) (NN side))
+                (-RRB- -RRB-)))
+            (PP (VBG including)
+              (NP
+                (NP (DT a)
+                  (ADJP
+                    (QP (CD 99) (NNS cents)))
+                  (NN section))
+                (PRN (-LRB- -LRB-)
+                  (FRAG
+                    (NP (JJ left) (NN side) (NN section))
+                    (, ,) (RB not)
+                    (PP (IN against)
+                      (NP (DT the) (NN wall))))
+                  (-RRB- -RRB-))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ seasonal) (NN section))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN front))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NN store))
+                (PRN (-LRB- -LRB-)
+                  (NP (JJ cute) (NN stuff))
+                  (-RRB- -RRB-))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ nice) (NN selection))
+        (PP (IN of)
+          (NP (NNP Yankee) (NNPS Candles)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBP are)
+      (NP
+        (NP (DT a) (NN variety))
+        (PP (IN of)
+          (NP (NNS gifts)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NNP Disney) (NN section))
+        (PP (IN of)
+          (NP (NNS figurines)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN gift) (NN wrap) (NN section))
+        (PP (IN on)
+          (NP (DT the)
+            (ADJP (RB far) (JJ right))
+            (NN side)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (ADVP (RB also))
+      (NP
+        (NP (DT a) (NN section))
+        (PRN (-LRB- -LRB-)
+          (NP
+            (NP (JJ back) (NN middle))
+            (PP (IN of)
+              (NP (DT the) (NN store))))
+          (-RRB- -RRB-))
+        (PP (IN for)
+          (NP
+            (NP (NN custom))
+            (VP (VBN made)
+              (NP (NN stationery)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN clearance) (NN section))
+    (VP (VBZ is)
+      (VP (VBN located)
+        (PP (IN in)
+          (NP
+            (NP (DT the) (JJ back) (NN right) (NN side))
+            (PP (IN of)
+              (NP (DT the) (NN store)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ circular) (NN cashier) (NN station))
+    (VP (VBZ is)
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN middle))
+          (PP (IN of)
+            (NP (DT the) (NN store))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ 's)
+      (NP
+        (NP (DT all) (NNS kinds))
+        (PP (IN of)
+          (NP
+            (NP (NN candy) (NNS gifts))
+            (PP (IN in)
+              (NP (DT the)
+                (NP (DT this) (NN section))
+                (PP (IN around)
+                  (NP
+                    (NP (DT the) (JJ entire) (NN perimeter))
+                    (PP (IN of)
+                      (NP (DT the) (NN cashier) (NN station)))))
+                (: -)
+                (NP
+                  (NP (NN kinda))
+                  (PP (IN like)
+                    (NP
+                      (SBAR
+                        (WHNP (WP what))
+                        (S
+                          (NP (PRP they))
+                          (VP (VBP do)
+                            (PP (IN at)
+                              (NP (NN grocery) (NNS stores))))))
+                      (: -)
+                      (NP (JJ nice) (NN marketing) (NN ploy)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP prefer)
+      (NP (DT this) (NN one))
+      (PP (TO to)
+        (NP
+          (NP (DT the) (NNP Meadows) (NN Mall) (POS 's))
+          (NN store)))
+      (SBAR (IN since)
+        (S
+          (NP (DT this) (NN one))
+          (VP (VBZ is)
+            (ADJP (JJR larger))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP are)
+          (NP (DT a) (NN crown) (NNS rewards) (NN member)))))
+    (, ,)
+    (NP (PRP you))
+    (VP (MD will)
+      (VP (VB earn)
+        (NP (NNS points))
+        (PP (IN on)
+          (NP (DT every) (NN purchase)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (MD will)
+      (VP (VB earn)
+        (NP (NN reward) (NNS certificates))
+        (ADVP (RB periodically))
+        (PP (VBN based)
+          (PP (IN on)
+            (NP (PRP$ your) (NNS purchases))))
+        (, ,)
+        (PP (VBG depending)
+          (PP (IN on)
+            (NP
+              (NP (DT the) (NN level))
+              (PRN (-LRB- -LRB-)
+                (NP
+                  (NP (NN silver))
+                  (, ,)
+                  (NP (NN gold)))
+                (-RRB- -RRB-)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Sometimes))
+    (NP (PRP you))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBN given)
+          (NP (DT a) (NN chance)
+            (S
+              (VP (TO to)
+                (VP (VB participate)
+                  (PP (IN in)
+                    (NP
+                      (NP (DT a) (NN survey))
+                      (, ,)
+                      (PRN (-LRB- -LRB-)
+                        (PP (IN on)
+                          (NP (DT the) (NN receipt)))
+                        (-RRB- -RRB-))))
+                  (SBAR
+                    (WHNP (WDT which))
+                    (S
+                      (VP (MD will)
+                        (VP (VB earn)
+                          (NP (PRP you))
+                          (NP
+                            (NP (DT a) (NN coupon))
+                            (PP (IN for)
+                              (NP
+                                (NP (JJ additional) (NNS savings))
+                                (PP (IN for)
+                                  (NP (DT a) (JJ future) (NN visit)))))))))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT No) (JJR longer))
+    (VP (VBZ exists))
+    (. .)))
+
+

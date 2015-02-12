@@ -1,0 +1,158 @@
+(ROOT
+  (SQ (MD Could)
+    (NP (DT the) (NN optician))
+    (VP (VB be)
+      (ADVP (RB anymore))
+      (UCP
+        (NP (JJ lethargic))
+        (CC or)
+        (ADJP (JJ uncaring))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (ADJP (JJ Geez))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD had)
+        (NP
+          (NP (DT a) (JJ major) (NN problem))
+          (PP (IN with)
+            (NP
+              (NP (PRP$ my) (JJ first) (NN pair))
+              (PP (IN of)
+                (NP (NN glasses/prescription))))))))
+    (, ,) (IN so)
+    (S
+      (NP (PRP I))
+      (VP (VBD had)
+        (S
+          (VP (TO to)
+            (VP (VB buy)
+              (NP (JJ new) (NNS frames)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VP (VBD helped)
+        (NP (PRP me)))
+      (CC but)
+      (VP (VBD did)
+        (ADVP (RB so))
+        (PP (IN under)
+          (NP (NNS duress)))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP he))
+    (VP (VBD did) (RB n't)
+      (ADVP (RB even))
+      (VP (VB check)
+        (NP (DT the) (NN fit))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP they))
+            (VP (VBD were)
+              (VP (VBN finished)))))))
+    (. .)))
+
+(ROOT
+  (SQ (VBP Do)
+    (NP
+      (NP (DT any))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (NNS people))
+          (PP (IN at)
+            (NP (NNP Lenscrafters))))))
+    (VP
+      (ADVP (RB really))
+      (VB know)
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP (PRP they))
+          (VP (VBP are)
+            (VP (VBG doing))))))
+    (. ?)))
+
+
+(ROOT
+  (NP (JJ Terrible) (NN service) (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBN Paid)
+        (PP (IN for))))
+    (VP (VBP express)
+      (S
+        (VP (VBG shipping)
+          (ADVP (RB only))
+          (S
+            (VP (TO to)
+              (VP (VB get)
+                (NP (DT the) (JJ wrong) (NN pair))
+                (PP (IN after)
+                  (NP
+                    (NP (CD 3) (NNS weeks))
+                    (PP (IN of)
+                      (NP (VBG waiting)))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (ADVP (RB Still))
+    (VP (VBP have) (RB not)
+      (ADVP (RB yet))
+      (VP (VBN got)))
+    (NP (PRP$ my) (NNS glasses))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD went)
+      (ADVP (RB there))
+      (PP (IN for)
+        (NP
+          (NP (DT a) (NN repair))
+          (PP (IN of)
+            (NP (PRP$ my) (NNS glasses)))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBD broke)
+                (SBAR (IN while)
+                  (S
+                    (NP (PRP I))
+                    (VP (VBD was)
+                      (VP (VBG staying)
+                        (ADVP (RB there))
+                        (PP (IN for)
+                          (NP (DT a) (NN conference)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS people))
+    (VP
+      (VP (VBD were)
+        (ADJP (RB very) (JJ helpful)))
+      (CC and)
+      (VP (VBD made)
+        (NP (DT the) (NN repair))
+        (PP (IN at)
+          (NP (DT no) (NN charge)))))
+    (. .)))
+
+

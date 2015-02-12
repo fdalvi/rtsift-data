@@ -1,0 +1,97 @@
+(ROOT
+  (NP
+    (NP (NNP Run))
+    (PP (IN by)
+      (NP
+        (NP (CD one) (NN guy))
+        (PRN (-LRB- -LRB-)
+          (NP (NNP Dale))
+          (-RRB- -RRB-))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP
+        (VP (VBP 've)
+          (VP (VBN lived)
+            (ADVP (RB here))
+            (PP (IN since)
+              (NP (CD 8/2001)))))
+        (CC and)
+        (VP (VBP have)
+          (VP (VBN had)
+            (NP
+              (NP (DT a) (NN variety))
+              (PP (IN of)
+                (NP (NNS vehicles))))))))
+    (: -)
+    (S
+      (NP (PRP he))
+      (VP (VBZ 's)
+        (VP (VBN done)
+          (NP (DT the) (NN tint))
+          (PP (IN on)
+            (NP
+              (NP (DT all))
+              (PP (IN of)
+                (NP (PRP them))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VP (VBZ does)
+        (NP (DT a) (JJ great) (NN job)))
+      (, ,)
+      (VP (VBZ takes)
+        (NP (NN pride))
+        (PP (IN in)
+          (NP (PRP$ his) (NN work))))
+      (, ,)
+      (CC and)
+      (VP (VBZ is)
+        (ADJP (RB very) (JJ reliable))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBP have)
+      (VP (VBN utilized)
+        (NP
+          (NP (NNP Dale))
+          (PP (IN for)
+            (NP
+              (NP (DT all))
+              (PP (IN of)
+                (NP (PRP$ our) (NN tinting))))))
+        (PP (IN in)
+          (NP
+            (NP (PRP$ our) (NN home))
+            (CC and)
+            (NP (PRP$ our) (NN family) (NNS vehicles))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Very))
+    (VP (VBP relible)
+      (SBAR (IN while)
+        (S
+          (VP (VBG providing)
+            (NP (NN quality) (NN work))
+            (PP (IN at)
+              (NP (DT a) (JJ fair) (NN price)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Strongly))
+    (VP (VB recommend))
+    (. !)))
+
+

@@ -1,0 +1,189 @@
+(ROOT
+  (S
+    (S
+      (S
+        (NP
+          (NP (NN Ok))
+          (SBAR (IN if)
+            (S
+              (NP (PRP you))
+              (VP (VBP 've)
+                (ADVP (RB never))
+                (VP (VBD had)
+                  (VP (VBN frozen)))))))
+        (VP (VBD custard)
+          (ADVP (RB before))))
+      (: ...)
+      (CC and)
+      (S
+        (NP (PRP you))
+        (PP (IN like)
+          (NP (NN ice) (NN cream)))))
+    (: ...)
+    (S
+      (ADVP (RB then))
+      (NP (PRP you))
+      (VP (VBD got)
+        (SBAR
+          (S
+            (NP (NN ta))
+            (VP (VBP try)
+              (NP (DT this)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP make)
+      (NP (PRP$ their) (JJ own) (NN custom) (NNS flavors))
+      (ADVP (CC plus))
+      (SBAR
+        (S
+          (NP (EX there))
+          (VP (VBP are)
+            (NP (NN mix) (NN ins))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Usually))
+    (NP (DT every) (NN week))
+    (ADVP (RB there))
+    (VP (VBZ 's)
+      (NP (NN something) (JJ different)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Always))
+    (NP
+      (NP (PRP$ your) (JJ standard) (NN chocolate))
+      (, ,)
+      (NP (NN vanilla))
+      (, ,)
+      (CC and)
+      (NP (NN strawberry)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (ADVP (RB Sometimes))
+        (NN coffee))
+      (, ,)
+      (NP (NN banana))
+      (, ,))
+    (VP
+      (VP (VB peach) (, ,)
+        (FRAG
+          (X (NN etc.))
+          (: ...)
+          (NP (RB very) (JJ creamy))))
+      (CC and)
+      (VP (VB smooth)
+        (NP (NN texture))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Yea) (: ...)
+      (ADVP (RB very) (RB fattening)))
+    (: ...)))
+
+
+(ROOT
+  (NP
+    (NP (JJ Only))
+    (VP (VBN been)
+      (ADVP
+        (ADVP (RB here) (RB once))
+        (S (CC but)
+          (NP (PRP it))
+          (VP (VBD was)
+            (ADJP (JJ good))))))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (ADJP (JJ Good) (RB enough))
+    (SBAR (IN that)
+      (S
+        (NP (PRP we))
+        (VP (VBD took)
+          (NP
+            (NP
+              (NP (NN home))
+              (NP (CD 2) (NNS pints)))
+            (CC &)
+            (NP
+              (NP (DT a) (CD 6) (NN pack))
+              (PP (IN of)
+                (NP (PRP$ their) (NNP Frozen) (NNP Custard) (NNS sandwiches))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBD were)
+            (VP (VBN called)
+              (NP
+                (NP (NN bear) (NNS paws)
+                  (CC or)
+                  (NN something))
+                (PP (IN like)
+                  (NP (DT that)))))))))
+    (: ...)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have) (RB n't)
+      (VP (VBN been)
+        (PP (TO to)
+          (NP (NNP Luv-It) (POS 's)))
+        (SBAR
+          (ADVP (RB yet))
+          (IN so)
+          (S
+            (NP (PRP I))
+            (VP (MD ca) (RB n't)
+              (VP (VB compare)
+                (NP (DT the) (CD two))))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (SBAR
+      (WHNP (WP what))
+      (S
+        (NP (PRP I))
+        (VP (MD can)
+          (VP (VB say)
+            (SBAR
+              (S
+                (VP (VBZ is)
+                  (SBAR (IN that) (IN if)
+                    (S
+                      (S
+                        (NP (PRP you))
+                        (VP (VBP 're)
+                          (NP (DT an) (NN ice) (NN cream) (NN lover))))
+                      (CC and)
+                      (S
+                        (NP (PRP you))
+                        (VP (VBP 're)
+                          (PP (IN in)
+                            (NP (NNP North) (NNP Las) (NNP Vegas))))))))))))))
+    (, ,)
+    (NP (PRP YOU))
+    (VP (VBP GOT)
+      (NP
+        (NP (NNP TA) (NNP TRY) (NNP RITTER) (POS 'S))
+        (NNP FROZEN) (NNP CUSTARD) (NNP !!)))))
+
+

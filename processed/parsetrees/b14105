@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (S
+      (VP
+        (ADVP (RB Absolutely))
+        (VBN baffled)
+        (PP (IN by)
+          (NP
+            (NP (DT the) (JJ rude) (NN attitude)
+              (CC and)
+              (NN lack))
+            (PP (IN of)
+              (NP (NN product) (NN knowledge)))))))
+    (NP (PRP I))
+    (VP (VBD experienced)
+      (PP (IN by)
+        (NP (DT a) (NN team) (NN member)))
+      (PP (IN at)
+        (NP (DT this) (NN location))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (MD Wo) (RB n't)
+      (VP (VB see)
+        (NP (PRP me))
+        (PRT (RP back))
+        (PP (IN at)
+          (NP
+            (NP (DT this) (NN location))
+            (, ,)
+            (NP
+              (ADJP (RB not) (JJ worth))
+              (DT the) (NN headache))))))
+    (. !)))
+
+
+(ROOT
+  (NP (JJ Helpful) (NN staff) (. !)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Very))
+    (NP (NNP Helpful))
+    (. !)))
+
+

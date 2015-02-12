@@ -1,0 +1,147 @@
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ good) (NN fishmonger))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN heart))
+            (PP (IN of)
+              (NP (DT the) (NNP West) (NN End)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (DT A) (JJ good) (NN array))
+        (PP (IN of)
+          (NP (JJ filleted) (NN fish)))
+        (PRN (-LRB- -LRB-)
+          (NP
+            (NP (DT some) (NN whole))
+            (, ,)
+            (NP
+              (NP (NNS trout))
+              (CC &)
+              (NP (NN salmon) (RB mostly))))
+          (-RRB- -RRB-)))
+      (, ,)
+      (NP (NNS mussels))
+      (, ,))
+    (VP
+      (VP (VBZ scallops))
+      (CC and)
+      (VP (VBZ prawns)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN majority))
+        (PP (IN of)
+          (NP (DT the) (NN shellfish))))
+      (VP (VBZ has)
+        (VP (VBN been)
+          (VP (VBN thawed)
+            (PP (IN from)
+              (NP
+                (NP (JJ frozen))
+                (PRN (-LRB- -LRB-)
+                  (SBAR (IN as)
+                    (S
+                      (NP (PRP you))
+                      (VP (MD 'll)
+                        (VP (VB find)
+                          (NP
+                            (QP (RB just) (RB about) (RB anywhere)))
+                          (NP (DT these) (NNS days))))))
+                  (-RRB- -RRB-))))))))
+    (, ,)
+    (ADVP (RB however))
+    (S
+      (NP
+        (NP (RB quite) (DT a) (NN lot))
+        (PP (IN of)
+          (NP (DT the) (NNS fillets))))
+      (VP (VBP are)
+        (ADJP (JJ fresh))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (MD can)
+      (ADVP (RB also))
+      (VP (VB buy)
+        (ADJP (JJ frozen))
+        (SBAR (IN if)
+          (S
+            (NP (PRP it))
+            (VP (VBZ suits)
+              (NP (PRP$ your) (NNS needs)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBP have)
+        (VP (VBN been)
+          (PP (IN in)
+            (NP
+              (QP (JJ many) (NNS times))))
+          (ADVP (RB now))))
+      (CC and)
+      (VP (VBP have)
+        (VP (VBN been)
+          (ADJP
+            (ADVP (RBR more) (IN than))
+            (JJ happy)
+            (PP (IN with)
+              (NP
+                (NP (PDT both) (PRP$ their) (NN fish))
+                (CC and)
+                (NP
+                  (NP
+                    (NP (NN shellfish))
+                    (: -)
+                    (S
+                      (NP
+                        (NP (PRP$ their) (JJ uncooked) (NN king) (NNS prawns))
+                        (PRN (-LRB- -LRB-)
+                          (VP (VBN sourced)
+                            (PP (IN from)
+                              (NP (NNP Spain))))
+                          (-RRB- -RRB-)))
+                      (VP (VBP are)
+                        (UCP
+                          (PP (IN of)
+                            (NP (JJ excellent)
+                              (NX
+                                (NX (NN quality))
+                                (CC and)
+                                (NX
+                                  (NX (NN size))
+                                  (PRN (-LRB- -LRB-)
+                                    (FRAG
+                                      (X
+                                        (ADVP (RB avg))
+                                        (NP (CD 12-14) (NNS prawns)))
+                                      (: /)
+                                      (NP (NN kg)))
+                                    (-RRB- -RRB-))))))
+                          (CC and)
+                          (PP (VBN given)
+                            (NP (DT the) (NN quality)))
+                          (, ,)
+                          (ADJP (RB reasonably) (VBN priced))))))
+                  (PRN (-LRB- -LRB-)
+                    (NP
+                      (QP (RB about) (# #) (CD 14/kg)))
+                    (-RRB- -RRB-)))))))))
+    (. .)))
+
+

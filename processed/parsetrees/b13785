@@ -1,0 +1,276 @@
+(ROOT
+  (NP (NNP Great) (NNP Taco) (NNP Bell) (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (ADVP (RB always))
+      (VP (VBP ask)
+        (NP
+          (NP (DT a) (NN couple))
+          (PP (IN of)
+            (NP (NNS times))))
+        (SBAR (IN if)
+          (S
+            (NP (PRP you))
+            (VP (VBP want)
+              (NP (NN sauce)))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP 've)
+        (S
+          (ADVP (RB never))
+          (NP (NNP NEVER))
+          (VP (VBD had)
+            (NP
+              (NP (PRP$ my) (NN order))
+              (VP (VBN messed)
+                (PRT (RP up))
+                (ADVP (RB here))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (MD ca) (RB n't)
+      (VP (VB be)
+        (VP (VBN said)
+          (PP (IN for)
+            (NP
+              (NP (DT a) (NN lot))
+              (PP (IN of)
+                (NP (JJ other) (JJ fast) (NN food) (NNS places)))))
+          (ADVP (RB nowadays)))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (NNP Quick) (NN service))
+    (, ,)
+    (NP
+      (NP (JJ excellent) (NN value))
+      (PP (IN for)
+        (NP (NN money))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Dining) (NNP Room))
+    (VP (VBD closed)
+      (PP (IN at)
+        (NP (CD 10PM)))
+      (PP (IN on)
+        (NP (DT a) (NNP Friday))))
+    (. ?)))
+
+(ROOT
+  (SQ (VBP Are)
+    (NP (PRP you))
+    (VP (VBG kidding)
+      (NP (PRP me)))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ My)
+        (ADJP
+          (NP (CD four) (NN year))
+          (JJ old))
+        (NN son))
+      (CC and)
+      (NP (PRP I)))
+    (VP (VBD ended)
+      (PRT (RP up))
+      (S
+        (VP (VBG having)
+          (S
+            (VP (TO to)
+              (VP (VB eat)
+                (NP (PRP$ our) (NN meal))
+                (PP (IN in)
+                  (NP (PRP$ my) (NN truck)))
+                (SBAR (IN because)
+                  (S
+                    (NP (DT the) (NN dining) (NN room))
+                    (VP (VBD was)
+                      (VP (VBN closed)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Anyways))
+    (, ,)
+    (NP (DT the) (NN food))
+    (VP (VBZ is)
+      (ADVP (RB always))
+      (ADJP (JJ fresh)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (ADVP (RB Reasonably))
+      (VBN priced))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Employees))
+    (VP (VBP are)
+      (ADJP (JJ competent)
+        (CC and)
+        (JJ happy)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have)
+      (VP (VBN had)
+        (NP (DT no) (JJ bad) (NN experience))
+        (ADVP (RB here))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP love)
+      (S
+        (VP (TO to)
+          (VP (VB get)
+            (S
+              (NP (PRP$ my) (NN order))
+              (ADJP (JJ wrong)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Tuesday))
+      (PP (IN at)
+        (NP (CD 5))))
+    (VP (VBP pm))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (LST (LS 1) (-RRB- -RRB-))
+        (NP (DT No) (NN a.c.))
+        (PP (IN in)
+          (S
+            (VP (VBG building)
+              (NP (CD 2) (NNS fans))
+              (VP (VB set)
+                (PRT (RP up))
+                (PP (IN for)
+                  (NP (NN ventilation)))
+                (NP (CD 2))
+                (-RRB- -RRB-)
+                (ADVP (RB Not)
+                  (NP (JJ good) (NN food))))))))
+      (CC and)
+      (NP
+        (NP
+          (NP (NN sorta))
+          (ADJP (JJ luke) (JJ warm)))
+        (NP
+          (LST (LS 3) (-RRB- -RRB-))
+          (NP (NNP Bathrooms) (NNP smell))
+          (PP (IN like)
+            (NP (JJ raw) (NN sewage) (NNS !!!))))))))
+
+(ROOT
+  (SINV
+    (S
+      (NP (PRP It))
+      (VP (VBZ is)
+        (ADJP (RB very) (JJ sad))
+        (SBAR (IN that)
+          (S
+            (NP (DT a) (NN company))
+            (VP (VBZ makes)
+              (NP
+                (NP
+                  (NP
+                    (QP (CD 500) (CD million)))
+                  (NP (DT a) (NN year)))
+                (CC and)
+                (NP
+                  (NP (DT the) (NN CEO))
+                  (PP (IN of)
+                    (NP (DT the) (NN company))))))))))
+    (VP (VBZ makes)
+      (NP
+        (QP (CD 40) (CD million)))
+      (NP (DT a) (NN year))
+      (SBAR (CC but)
+        (S
+          (NP (EX there))
+          (VP (VBZ resteraunts)
+            (SBAR (IN that)
+              (S
+                (S
+                  (VP (VB have)
+                    (NP
+                      (NP (JJ hard) (VBG working) (NNS employees))
+                      (PP (IN at)
+                        (NP (JJ minimum) (NN wage))))))
+                (VP (MD must)
+                  (VP
+                    (VP (VB suffer))
+                    (: ...)
+                    (VP
+                      (ADJP (RB so) (JJ sad))
+                      (SBAR (IN that)
+                        (S
+                          (NP (DT this))
+                          (VP (MD can)
+                            (VP (VB be)
+                              (ADJP (JJ legal))
+                              (PRN (-LRB- -LRB-)
+                                (S
+                                  (NP (PRP I))
+                                  (VP
+                                    (VP (VBP work)
+                                      (PP (IN for)
+                                        (NP (NNP Fire) (NN safety))))
+                                    (CC and)
+                                    (VP (VBP am)
+                                      (PP (IN in)
+                                        (NP
+                                          (NP (JJ fast) (NN food))
+                                          (CC and)
+                                          (NP
+                                            (NP (NNS resteraunts))
+                                            (RB almost)
+                                            (SBAR
+                                              (S
+                                                (SBAR
+                                                  (WHNP
+                                                    (WHNP (DT all) (NN day))
+                                                    (ADVP (RB long)
+                                                      (CC and)
+                                                      (RB no)))
+                                                  (S
+                                                    (NP (DT this))
+                                                    (VP (VBZ is) (RB not)
+                                                      (NP (RB just) (CD one) (NN occurrence)))))
+                                                (, ,)
+                                                (NP (NN stuff))
+                                                (ADVP (RB never))
+                                                (VP (VBZ gets)
+                                                  (VP (VBN fixed)))))))))))
+                                (-RRB- -RRB-)))))))))))))))
+    (NP (NNP SO) (NNP SAD))))
+
+

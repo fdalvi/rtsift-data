@@ -1,0 +1,310 @@
+(ROOT
+  (S
+    (S
+      (NP (DT This))
+      (VP (VBD used)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (NP (PRP$ my) (JJ favorite) (NN weekday) (NN hangout)))))))
+    (, ,)
+    (CC and)
+    (S
+      (PP (IN on)
+        (NP (NNP Thursdays)))
+      (NP (PRP it))
+      (VP (VBD was)
+        (ADVP (RB usually))
+        (VP (VBN packed)
+          (S
+            (VP
+              (PRN (-LRB- -LRB-)
+                (PP (IN with)
+                  (NP (JJ underage) (NNS drinkers)))
+                (-RRB- -RRB-))
+              (PP (IN for)
+                (NP (FW karaoke))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB eventually))
+    (VP
+      (VP (VBD caught)
+        (PRT (RP on)))
+      (CC and)
+      (VP (VBD hired)
+        (NP (DT a) (NN bouncer))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN bar))
+      (ADVP (RB soon))
+      (VP (VBD went)
+        (ADJP (JJ empty))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT this))
+      (VP (VBD was)
+        (ADJP (JJ okay)
+          (PP (IN with)
+            (NP
+              (NP (PRP me))
+              (CC and)
+              (NP (PRP$ my) (NNS friends)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD got)
+      (ADJP (JJ rid))
+      (PP (IN of)
+        (NP (DT the) (`` ``) (NNP Ohmigod)))
+      (, ,)
+      (PP (IN like))
+      (, ,)
+      (ADVP (RB totally)))
+    (. !)))
+
+(ROOT
+  (S ('' '')
+    (S
+      (NP
+        (NP (NNS girls))
+        (, ,)
+        (CC and)
+        (NP (DT the) (`` ``) (JJ oh) (, ,) (JJ yeah) (NN bro))
+        ('' ''))
+      (VP (VBZ guys)))
+    (, ,)
+    (CC and)
+    (S
+      (NP
+        (NP (JJ left) (NN room))
+        (PP (IN for)
+          (NP (PRP us))))
+      (ADVP (RB twenty))
+      (VP (VBZ somethings)
+        (S
+          (VP (TO to)
+            (VP (VB stretch)
+              (PRT (RP out))
+              (NP (DT a) (NN bit)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBP are)
+        (ADVP (RB still))
+        (NP
+          (NP (DT some) (JJR older) (NNS regulars))
+          (CC and)
+          (NP
+            (NP (DT the) (JJ occasional) (NN slip))
+            (PP (IN of)
+              (NP (DT the) (NN under-ager)))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ does) (RB n't)
+        (VP (VB effect)
+          (NP (PRP us)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBZ is)
+        (NP
+          (NP (DT a) (NN jukebox))
+          (, ,)
+          (NP (NN pool) (NN table))
+          (, ,)
+          (CC and)
+          (NP (NN dart) (NN board)))
+        (SBAR (IN if)
+          (S
+            (NP (PRP you))
+            (VP (VBP get)
+              (ADJP (VBN bored)
+                (PP (IN with)
+                  (NP (DT the) (JJ video) (NN poker) (NNS machines)))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (NNS bartenders))
+      (VP (VBP are)
+        (ADVP (RB always))
+        (ADJP (JJ friendly))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN food))
+      (VP (VBZ is)
+        (ADJP (JJ decent))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (EX there))
+      (VP (VBZ is)
+        (NP (DT a) (JJ cozy) (NN dining) (NN room)
+          (S
+            (VP (TO to)
+              (VP (VB sit)
+                (PRT (RP in))
+                (ADVP (RB as) (RB well))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Red) (NNP Hawk))
+    (VP (VBZ is)
+      (NP
+        (NP
+          (NP (DT a) (JJ nice) (NN bar))
+          (PRN (-LRB- -LRB-)
+            (ADVP (RB now))
+            (-RRB- -RRB-)))
+        (PP (IN for)
+          (NP
+            (NP (DT a) (JJ casual) (NN drink)
+              (CC or)
+              (NN game))
+            (PP (IN of)
+              (NP (NN pool))))))
+      (SBAR (IN if)
+        (S
+          (NP (PRP you))
+          (VP (VBP 're)
+            (ADJP (VBN bored)
+              (PP (IN on)
+                (NP (DT a) (NN weekday) (NN night))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP
+      (VP (VBZ has)
+        (NP (CD 2) (NN pool) (NNS tables)))
+      (CC and)
+      (VP (VBD shuffleboard)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (ADVP (RB also))
+      (NP (JJ weekly) (NN karaoke)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN bar) (NN staff))
+    (VP (VBZ is)
+      (ADJP (JJ friendly))
+      (SBAR (IN as)
+        (S
+          (VP (VBP are)
+            (NP (DT the) (NN patrons))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBP have) (RB n't)
+        (VP (VBN been)
+          (ADVP (RB here))
+          (ADVP (RB before))))
+      (CC and)
+      (VP (VBD felt)
+        (ADVP (RB quite) (IN at) (NN home))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT That) (JJ last) (NN reviewer))
+    (VP (MD must)
+      (VP (VB have)
+        (VP (VBN been)
+          (VP (VBG smoking)
+            (NP
+              (NP (NN crack))
+              (, ,)
+              (CC or)
+              (NP (DT a) (JJ fired) (NN employee)
+                (CC or)
+                (NN something)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Nice))
+    (VP (VBP place)
+      (S
+        (VP (TO to)
+          (VP (VB hang)
+            (PRT (RP out))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Red) (NNP Hawk))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NNS locals) (NN bar))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ is)
+              (ADJP (JJ good)
+                (PP (IN for)
+                  (NP
+                    (NP (NNS gamers))
+                    (PP
+                      (PP (IN during)
+                        (NP (DT the) (NN day)))
+                      (CC and)
+                      (PP (IN for)
+                        (NP
+                          (NP (DT the) (NN partier))
+                          (PP (IN at)
+                            (NP (NN night))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Come)
+      (SBAR (IN as)
+        (S
+          (NP (PRP you))
+          (VP (VBP are)))))
+    (, ,)
+    (NP (JJ casual))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Great))
+    (NP
+      (NP (NN food))
+      (CC and)
+      (NP (JJ great) (NNS people)))
+    (. .)))
+
+

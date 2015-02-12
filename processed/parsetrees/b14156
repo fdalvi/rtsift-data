@@ -1,0 +1,125 @@
+(ROOT
+  (FRAG
+    (ADVP (RB Its))
+    (NP (DT a) (NNPS Walgreens))
+    (. !)))
+
+
+(ROOT
+  (S
+    (INTJ (UH Oh))
+    (VP (VB Walgreens))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP You))
+      (VP (VBP have)
+        (VP (VBN -LSB-)
+          (NP
+            (NP (RB nearly) (JJ -RSB-) (NN everything))
+            (SBAR
+              (S
+                (NP (PRP I))
+                (VP (VBP need)
+                  (PP (IN for)
+                    (NP
+                      (NP (PRP$ my) (NN health))
+                      (: :)
+                      (NP
+                        (NP (JJ first) (NN aid) (, ,) (NN pharmacy) (, ,) (NN bath)
+                          (CC and)
+                          (NN body) (NNS products))
+                        (, ,)
+                        (NP (JJ cheap) (NN makeup))))))))))))
+    (: ...)
+    (CC but)
+    (S
+      (PP (IN for)
+        (NP (DT some) (NN reason)))
+      (NP (PRP you))
+      (VP (VBP do) (RB n't)
+        (VP (VB sell)
+          (NP (NNP EAS) (NNP Myoplex)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Walgreens))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ little) (NN kid) (POS 's))
+        (NN paradise))
+      (, ,)
+      (PP (IN with)
+        (NP
+          (NP (DT an) (JJ expansive) (NN candy) (NN aisle))
+          (, ,)
+          (NP (NN snack) (NN selection))
+          (, ,)
+          (NP (JJ flimsy) (NNS toys))
+          (CC and)
+          (NP (JJ little) (NNS gadgets)))))
+    (. .)))
+
+(ROOT
+  (SQ
+    (VP (VB Need)
+      (NP (DT some) (NN wine)))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (NNS Walgreens))
+    (VP (VBZ sells)
+      (NP (NN wine)))
+    (. .)))
+
+(ROOT
+  (FRAG (CC And)
+    (NP (DT some) (NN beer) (. .))))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (ADJP (JJ unheard)
+        (PP (IN of)
+          (PP (IN in)
+            (NP (NNP Colorado))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Sometimes))
+      (S
+        (VP (VBG checking)
+          (PRT (RP out))))
+      (VP (VBZ is)
+        (NP (RB painstakingly) (JJ slow))))
+    (: ...)
+    (S
+      (NP (JJ other) (NNS times))
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADJP (RB quite) (JJ speedy))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (ADVP (RB never))
+    (VP (VBP know)
+      (SBAR
+        (WHNP (WP what) (JJ new) (NNS things))
+        (S
+          (NP (PRP you))
+          (VP (MD 'll)
+            (VP (VB walk)
+              (PRT (RP out))
+              (PP (IN with)))))))
+    (. .)))
+
+

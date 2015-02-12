@@ -1,0 +1,137 @@
+(ROOT
+  (NP
+    (NP (JJ Great) (NN location))
+    (, ,)
+    (NP
+      (NP (JJ fair) (NN pricing))
+      (, ,)
+      (NP
+        (ADJP (JJ accurate))
+        (NN gender) (NNS scan)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (RB Early) (NN detection))
+    (VP (VBD was)
+      (NP (DT the) (JJS best)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (VP
+      (VP (VB Came)
+        (ADVP (RB here))
+        (PP (IN for)
+          (NP (DT a) (NN gender) (NN check))))
+      (CC and)
+      (VP
+        (SBAR (IN so)
+          (S
+            (NP (PRP we))
+            (VP (VBP go)
+              (PRT (RP in)))))
+        (, ,)
+        (VP (VB do)
+          (NP
+            (NP (DT a) (NN fun) (NN ultrasound))
+            (VP (VBG anticipating)
+              (NP
+                (NP (DT the) (JJ big) (NN reveal))
+                (PP (IN of)
+                  (NP
+                    (NP (PRP$ our) (NN baby))
+                    (CC and)
+                    (NP (DT the) (NN gender))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN gal))
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBD was)
+              (NP (DT a) (NN boy)))))))
+    (: ...)
+    (S
+      (PP
+        (ADVP
+          (NP (CD two) (NNS weeks))
+          (RBR later))
+        (IN at)
+        (NP (DT the) (NNS physicians) (NN office)))
+      (NP (PRP we))
+      (VP (VBD found)
+        (PRT (RP out))
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBD was)
+              (NP (DT a) (NN girl)))))))
+    (. .)))
+
+(ROOT
+  (S (CC So)
+    (S
+      (NP (PRP we))
+      (VP (VBD went)
+        (ADVP (RB back))
+        (PP (IN for)
+          (NP (DT a) (JJ fresh) (NN ultrasound)))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBD were)
+        (ADVP (NN kind))
+        (ADJP (JJ enough)
+          (S (RB not)
+            (VP (TO to)
+              (VP (VB charge)
+                (NP (PRP us))
+                (ADVP (RB again))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ second) (NN time))
+    (ADVP (RB around))
+    (VP (VBD was)
+      (ADJP (JJ wonderful)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NN advice))
+    (, ,)
+    (VP (VBP do) (RB not)
+      (VP (VB go)
+        (PP (IN in)
+          (S
+            (VP (VBG looking)
+              (PP (IN for)
+                (NP (DT a) (NN gender) (NN check))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is) (RB n't)
+      (VP
+        (VP (VBN guaranteed)
+          (ADVP (RB here)))
+        (, ,)
+        (CC but)
+        (VP
+          (SBAR
+            (WHADVP (WRB why))
+            (S
+              (VP (VBP get)
+                (NP (PRP$ your) (NNS hopes))
+                (PRT (RP up))))))))
+    (. ?)))
+
+

@@ -1,0 +1,183 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (MD wo) (RB n't)
+        (VP (VB speak)
+          (PP (IN for)
+            (NP (DT the) (JJ whole) (NN company))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (MD will)
+        (VP (VB tell)
+          (SBAR
+            (S
+              (NP (DT this) (NN branch))
+              (VP
+                (VP (VBZ is)
+                  (VP (VBN undertrained)
+                    (S
+                      (ADJP (RB very) (JJ unfriendly)))))
+                (CC and)
+                (VP (VBZ makes)
+                  (NP (DT no) (NNS apologies))
+                  (PP (IN for)
+                    (NP (PRP it))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN branch))
+    (VP (VBZ is)
+      (VP (VBN located)
+        (ADVP (RB inside))
+        (PP (IN of)
+          (NP (DT the) (NNP Albertson) (POS 's)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (NP
+        (NP (DT an) (NNP ATM))
+        (CC and)
+        (NP
+          (NP (DT a) (JJ small) (NN counter))
+          (PP (IN with)
+            (NP
+              (NP
+                (QP (RB about) (CD 3))
+                (NX (NNS tellers)))
+              (PP (IN for)
+                (NP (PRP$ your) (NN convenience))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP have)
+        (ADVP (RB always))
+        (VP (VBN found)
+          (NP (DT the) (NN wait) (NN time))
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (PP (IN under)
+                  (NP (CD 5) (NNS minutes)))
+                (NP (DT each) (NN time))))))))
+    (NP (PRP I))
+    (VP (VBP have)
+      (VP (VBN used)
+        (NP (DT a) (NN teller))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VP (VBP are)
+        (ADJP (JJ friendly)))
+      (CC and)
+      (VP (VBP ask)
+        (SBAR (IN if)
+          (S
+            (NP (PRP you))
+            (VP (VBP need)
+              (NP (JJ other) (NN assistance)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP do)
+      (VP (VB ask)
+        (SBAR (IN that)
+          (S
+            (NP (PRP you))
+            (VP (VBP take)
+              (PRT (RP off))
+              (NP (NNS hats)
+                (CC and)
+                (NNS sunglasses))
+              (PP (IN while)
+                (S
+                  (VP (VBG using)
+                    (NP
+                      (NP (DT the) (NN facility))
+                      (SBAR
+                        (WHNP (WDT which))
+                        (S
+                          (VP (VBZ is)
+                            (ADJP (RB totally) (JJ understandable)
+                              (PP (RB because) (IN of)
+                                (NP (NN safety) (NNS concerns))))))))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (ADVP (RB sometimes))
+      (NP
+        (NP (DT a) (NN wait))
+        (CC and)
+        (NP (DT no) (NN matter)))
+      (SBAR
+        (WHADVP (WRB how) (RB often))
+        (S
+          (NP (PRP I))
+          (VP (VBP come)
+            (SBAR (IN in)
+              (S
+                (NP (PRP they))
+                (ADVP (RB never))
+                (VP (VBP recognize)
+                  (NP (PRP me)))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have)
+      (NP (DT an) (JJ e-checking) (NN account))
+      (, ,)
+      (VP (VBN joined)
+        (SBAR (IN after)
+          (S
+            (NP (PRP$ my) (NN husband))
+            (VP (VBD opened)
+              (NP (DT the) (NN account)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Cost)
+      (NP
+        (NP ($ $) (CD 5.00))
+        (PP (IN for)
+          (NP (NN face))))
+      (S
+        (VP (TO to)
+          (VP (VB face)
+            (PP
+              (PP (IN with)
+                (NP (NN credit) (NN union) (NN staff)))
+              (CC or)
+              (PP (IN by)
+                (NP
+                  (NP (DT a) (JJ real) (JJ live) (NN person))
+                  (PP (IN on)
+                    (NP (DT the) (NN phone))))))
+            (: ;)
+            (FRAG
+              (ADJP (JJ pathetic)))))))
+    (. .)))
+
+

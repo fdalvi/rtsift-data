@@ -1,0 +1,228 @@
+(ROOT
+  (FRAG
+    (ADVP (RB Tasty))
+    (, ,)
+    (NP (RB somewhat) (NN gourmet) (NNS sandwiches))
+    (. .)))
+
+(ROOT
+  (NP (FW Hot) (. .)))
+
+(ROOT
+  (NP (FW Cold) (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (VBP name)
+      (NP (PRP it)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Great) (JJ little) (NNS sides))
+    (VP
+      (ADVP (RB as) (RB well)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Subway))
+    (NP (DT this) (NN place))
+    (VP (VBZ is) (RB not))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Also))
+    (, ,)
+    (VP (VBZ doubles)
+      (PP (IN as)
+        (NP (DT a) (JJ respectable) (JJ little) (NNS deli))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBD did) (RB n't)
+          (VP (VB think)
+            (S
+              (NP (PRP you))
+              (VP (VBG spending)
+                (NP (JJ enough) (NN money))
+                (PP (IN on)
+                  (NP (NN cheese)))))))))
+    (, ,)
+    (VP
+      (VP (VB stop)
+        (PP (IN in)
+          (NP (RB here))))
+      (CC and)
+      (VP (VB buy)
+        (NP (DT some)
+          (ADJP ($ $) (CD 14))
+          (NN havarti))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Simply))
+    (VP (VBZ mah-vo-lis))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Divine) (NNS sandwiches)
+      (CC and)
+      (NNS deli))
+    (VP (VBZ salads))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VP (MD can)
+        (VP (VB be)
+          (ADJP
+            (NP (DT a) (RB little))
+            (JJ slow)
+            (PP (IN with)
+              (NP (DT the) (JJ hot) (NNS sandwiches))))))
+      (CC but)
+      (VP (VBP are)
+        (ADVP (RB well))
+        (PP (IN worth)
+          (NP (DT the) (NN wait)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (IN Besides))
+    (, ,)
+    (NP (PRP you))
+    (VP (VBP get)
+      (S
+        (VP (TO to)
+          (VP (VB play)
+            (NP (JJ Trivial) (NN Pursuit))
+            (SBAR (IN while)
+              (S
+                (NP (PRP you))
+                (VP (VBP wait))))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP I))
+    (ADVP (RB always))
+    (VP
+      (VP (VBP buy)
+        (NP (PRP$ my) (NN cheese))
+        (ADVP (RB there)))
+      (: ...)
+      (CC and)
+      (VP
+        (ADVP (RB then))
+        (VBP buy)
+        (NP
+          (NP (DT some) (NN wine))
+          (ADVP (RB down)
+            (NP (DT the) (NN street))
+            (PP (IN at)
+              (NP (NNP Barriques)))))))
+    (. .)))
+
+
+(ROOT
+  (SINV
+    (ADVP (RB Just))
+    (VP (VBD had)
+      (NP (PRP$ my) (JJ first) (NN lunch)))
+    (NP (RB here))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD chose)
+      (NP
+        (NP (DT the) (JJ avocado) (NN BLT))
+        (CC and)
+        (NP
+          (NP (DT a) (NN cup))
+          (PP (IN of)
+            (NP (PRP$ their) (JJ squash) (NN soup))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP ($ $) (CD 6))
+      (CC and)
+      (NP (PRP it)))
+    (VP (VBD hit)
+      (NP (DT the) (NN spot)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP (DT The) (NN soup))
+        (VP (VBD was)
+          (ADJP
+            (NP (DT a) (RB little))
+            (RB too) (JJ sweet))))
+      (CC and)
+      (S
+        (NP (PRP I))
+        (VP (MD could) (RB n't)
+          (VP (VB finish)
+            (NP (PRP it))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT the) (NNP BLT))
+      (VP (VBD was)
+        (ADJP (JJ perfect))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBD did) (RB n't)
+        (VP (VB try)
+          (NP (DT the) (NN cheese))))
+      (, ,)
+      (CC but)
+      (VP (MD will)
+        (ADVP (JJ next))
+        (VP (VB time))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Service))
+    (VP (VBD was)
+      (ADJP (JJ prompt)
+        (S
+          (VP (VBG considering)
+            (SBAR
+              (S
+                (NP (EX there))
+                (VP (VBD was) (RB n't)
+                  (NP
+                    (NP (DT an) (JJ empty) (NN seat))
+                    (PP (IN in)
+                      (NP (DT the) (NN house)))))))))))
+    (. .)))
+
+(ROOT
+  (NP (CD 4) (NNS stars) (. .)))
+
+

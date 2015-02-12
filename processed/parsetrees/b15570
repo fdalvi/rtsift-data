@@ -1,0 +1,153 @@
+(ROOT
+  (FRAG
+    (NP (JJ Great) (NN service))
+    (ADVP (RB here))
+    (. !)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (NNP Jack))
+        (VP (VBZ is)
+          (VP (VBG working)
+            (NP (DT the) (NN window) (NN everything))))))
+    (VP (VBZ is)
+      (ADVP (RB always))
+      (ADJP (JJ perfect)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBZ makes)
+      (ADJP (JJ sure)
+        (SBAR
+          (S
+            (NP (PRP your))
+            (VP (VBN taken)
+              (NP (VB care) (IN of))
+              (, ,)
+              (PP
+                (ADVP (RB always))
+                (IN with)
+                (NP
+                  (NP (DT a) (NN smile))
+                  (PP (IN on)
+                    (NP (PRP$ his) (NN face))))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (JJ Nice) (NNS people))
+    (VP (VBP make)
+      (NP
+        (NP (PRP$ your) (JJ eating) (NN experience)
+          (CC and)
+          (NN mood) (NN change))
+        (ADJP (RB completely) (JJ !!!))))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB give)
+        (NP (DT this) (NN location))
+        (NP
+          (NP (CD 5) (NNS stars))
+          (SBAR (IN if)
+            (S
+              (NP (PRP they))
+              (VP (VBD did) (RB n't)
+                (VP (VB close)
+                  (NP
+                    (ADJP
+                      (ADVP (RBR earlier) (IN than))
+                      (JJ normal))
+                    (NNP Taco) (NNPS Bells)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP are)
+      (NP
+        (NP (PRP$ my) (JJS closest) (NN location))
+        (PP (IN from)
+          (NP (NN home)))))
+    (: ...)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN location))
+    (ADVP (RB always))
+    (VP (VBZ has)
+      (NP (JJ great)
+        (NX
+          (NX (NN food) (NN quality))
+          (CC and)
+          (NX
+            (ADJP (JJ excellent))
+            (NN customer) (NN service)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Taco) (NNP Bell))
+      (VP (VBZ is)
+        (VP (VBN known)
+          (PP (IN for)
+            (NP (PRP$ its) (JJ fast) (NN service))))))
+    (CC and)
+    (S
+      (NP (DT this) (NN location))
+      (VP (VBZ is)
+        (NP (DT no) (NN exception))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Food))
+      (VP (VBZ comes)
+        (NP (JJ fresh) (NNS minutes))
+        (SBAR (IN after)
+          (S
+            (NP (PRP you))
+            (VP (VB order)
+              (NP (PRP it)))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP have)
+        (ADVP (RB never))
+        (VP (VBN seen)
+          (S
+            (NP (DT this) (NN one))
+            (VP (VB get)
+              (ADJP (RB too) (JJ busy)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (MD must)
+      (VP (VB get)
+        (NP
+          (NP (DT the) (NNP Dorito) (POS 's))
+          (NNP Locos) (NN taco))
+        (ADVP
+          (ADVP (RB as) (RB well))
+          (SBAR (IN if)
+            (S
+              (NP (PRP you))
+              (VP (VBP 're)
+                (NP
+                  (NP (DT a) (NNP Dorito) (POS 's))
+                  (NN fan))))))))))
+
+

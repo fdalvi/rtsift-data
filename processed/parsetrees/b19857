@@ -1,0 +1,62 @@
+(ROOT
+  (S
+    (NP (DT A)
+      (ADJP
+        (ADJP (RB very) (JJ comfortable))
+        (, ,)
+        (CC but)
+        (ADJP (JJ expensive)))
+      (NN bar))
+    (, ,)
+    (ADVP (RB though))
+    (NP (DT the) (NNS prices))
+    (VP (VBP are)
+      (ADJP (JJ par)
+        (PP (IN for)
+          (NP
+            (NP (DT the) (NN course))
+            (PP (IN in)
+              (NP
+                (NP (DT this) (NN area))
+                (PP (IN of)
+                  (NP (NN town)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN setting))
+    (VP (VBZ is)
+      (ADJP (RB fantastically) (JJ plush)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB However))
+    (, ,)
+    (NP
+      (NP (DT the) (NN staff))
+      (NP (DT a) (JJ little)))
+    (VP (VB slow) (, ,)
+      (SBAR (RB even)
+        (WHADVP (WRB when))
+        (S
+          (NP (DT the) (NN bar))
+          (VP (VBZ is)
+            (ADJP (JJ quiet))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN food))
+    (VP (VBZ looks)
+      (NP (JJ good) (NN value))
+      (, ,)
+      (SBAR (IN though)
+        (S
+          (NP (PRP I))
+          (VP (VBP have) (RB n't)
+            (VP (VBN tried)
+              (NP (PRP it)))))))
+    (. .)))
+
+

@@ -1,0 +1,62 @@
+(ROOT
+  (S
+    (NP (NNP Bree))
+    (VP (VBD was)
+      (ADJP (JJ cool)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (NNP Lacey))
+    (VP
+      (VP (VBD was)
+        (ADJP (RB super) (JJ nice)))
+      (CC and)
+      (VP (VBZ knows)
+        (NP (PRP$ her) (NN stuff))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Customers))
+    (VP (VBP seem)
+      (S
+        (VP (TO to)
+          (VP
+            (VP (VB like)
+              (NP (DT the) (NN staff)))
+            (CC and)
+            (VP (VB come)
+              (PP (IN in)
+                (ADVP (RB regularly))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Very))
+    (VP (VB clean))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Daniel))
+    (VP (VBD was)
+      (ADJP (JJ great)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJS Best))
+    (VP (VBD cut)
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBP have)
+            (VP (VBN had)
+              (PP (IN in)
+                (NP (DT a) (JJ long) (NN time))))))))
+    (. .)))
+
+

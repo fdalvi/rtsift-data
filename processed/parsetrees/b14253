@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (NNP Availablity))
+    (VP
+      (VP (VBZ is)
+        (VP (VBN hit)))
+      (CC or)
+      (VP (VB miss))
+      (, ,)
+      (VP (VBP have)
+        (VP (VBN been)
+          (VP (VBG trying)
+            (S
+              (VP (TO to)
+                (VP (VB rent)
+                  (NP
+                    (NP (DT a) (JJ new) (NN release))
+                    (PP (IN for)
+                      (NP
+                        (QP (RB about) (CD 3))
+                        (NNS weeks))))
+                  (ADVP (RB now)))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (NNP Service))
+    (VP (VBZ has)
+      (ADVP (RB also))
+      (VP (VBN been)
+        (PP (IN below)
+          (FRAG
+            (ADJP (JJ average) (. .))
+            (. .)))
+        (SBAR
+          (ADVP (RB also))
+          (WHNP (WDT whatever))
+          (S
+            (NP (PRP you))
+            (VP (VBP do)
+              (S
+                (NP (NN dont))
+                (VP (VB forget)
+                  (NP (PRP$ your) (NN card) (NN !!!)))))))))))
+
+

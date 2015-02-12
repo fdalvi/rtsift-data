@@ -1,0 +1,264 @@
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBP are)
+      (ADVP (RB quite))
+      (NP
+        (NP (DT a) (JJ few) (NN gas) (NN station))
+        (PP (IN around)
+          (SBAR
+            (WHADVP (WRB where))
+            (S
+              (NP (PRP I))
+              (VP (VBP live)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT Many))
+      (VP (VBP have)
+        (NP (DT the) (JJ same) (NNS prices))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (ADVP (RB always))
+      (VP (VB get)
+        (NP (PRP$ my) (NN gas))
+        (PP (IN at)
+          (NP (DT this) (NN station)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN place))
+    (VP (VBZ is)
+      (ADVP (RB always))
+      (ADJP (JJ spotless)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS restrooms))
+    (VP (VBP are)
+      (ADJP
+        (ADJP (JJ clean))
+        (CC and)
+        (ADJP (RB not) (JJ grungy))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS people))
+      (VP (VBG working)
+        (ADVP (RB here))))
+    (VP (VBP are)
+      (ADJP (JJ efficient))
+      (, ,)
+      (ADJP (JJ friendly)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS drinks))
+      (VP (VBP are) (RB n't)
+        (ADJP (RB as) (JJ cheap)
+          (PP (IN as)
+            (NP (NNP Circle) (NNP K))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBP prefer)
+        (S
+          (VP (TO to)
+            (VP
+              (VP (VB reuse)
+                (NP (PRP$ my) (NN cup)))
+              (CONJP (RB instead) (IN of))
+              (VP (VB throw)
+                (NP (NN styrofoam))
+                (ADVP (RB away))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP guess)
+        (SBAR
+          (S
+            (NP (DT the) (JJ only) (NN downside))
+            (VP (VBZ is)
+              (SBAR
+                (S
+                  (NP (EX there))
+                  (VP (VBP tend)
+                    (S
+                      (VP (TO to)
+                        (VP (VB be)
+                          (ADJP (JJ cops))
+                          (ADVP (RB there) (RB frequently))
+                          (PP (IN at)
+                            (NP (NN night))))))))))))))
+    (, ,)
+    (NP (DT this))
+    (VP (MD might) (RB not)
+      (VP (VB be)
+        (ADJP (JJ great)
+          (PP (IN for)
+            (NP (NN everyone))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS cops))
+      (VP (VBP are) (RB n't)
+        (NP
+          (NP (RB there))
+          (PP (RB because) (IN of)
+            (NP (NN trouble))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP they))
+      (VP (VBP get)
+        (NP (NN stuff))
+        (PP (IN from)
+          (NP (DT this) (NN store)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Personally))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (DT this))
+          (VP (VBZ recommends)
+            (NP (DT this) (NN station))))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (NNP Quick) (NNP Trip))
+    (, ,)
+    (NP
+      (NP (NNP Quick) (NNP Trip))
+      (, ,)
+      (NP (NNP Quick) (NNP Trip)))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB hooray))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (JJS best) (NN gas) (NN station))
+    (VP (VBP eva))
+    (. !)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Tons))
+      (PP (IN of)
+        (NP
+          (NP
+            (NP (NN drink) (NNS options))
+            (, ,)
+            (NP (NNS coffees))
+            (, ,)
+            (NP (NNS slushies))
+            (, ,)
+            (NP (NN griller) (NN food))
+            (, ,)
+            (NP (NNS doughnuts))
+            (, ,)
+            (NP (NNS snacks))
+            (, ,)
+            (NP
+              (NP (NNS tons))
+              (PP (IN of)
+                (NP (NNS beverages))))
+            (, ,)
+            (NP
+              (NP (JJS best) (NN pricing))
+              (PP (IN on)
+                (NP (NN gas)))))
+          (, ,)
+          (NP
+            (NP (JJ clean) (NNS restrooms))
+            (, ,)
+            (NP (NN list))))))
+    (VP (VBZ goes)
+      (PP (IN on)
+        (NP
+          (NP (SYM &))
+          (PP (IN on)))))))
+
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (NNP Friendly))
+      (, ,)
+      (ADJP (JJ clean)
+        (CC and)
+        (JJ fast)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NN Love))
+      (SBAR
+        (WHADVP (WRB how))
+        (S
+          (S
+            (NP (DT all) (NNP QTs))
+            (VP (VBP are)
+              (PP (IN like)
+                (NP (DT this)))))
+          (, ,)
+          (CC and)
+          (S
+            (PP (IN in)
+              (ADJP (JJ glad)))
+            (NP (DT this) (NN one))
+            (VP (VBZ is)
+              (NP
+                (ADJP (JJ close)
+                  (PP (TO to)
+                    (NP (PRP$ my) (NNS husbands))))
+                (NN fam))
+              (, ,)
+              (ADVP (RB always)))))))
+    (VP (VBP have)
+      (S
+        (VP (TO to)
+          (VP (VB stop)
+            (ADVP (RB here))
+            (PP (IN for)
+              (NP (NNS snacks)
+                (CC or)
+                (NNS drinks)))
+            (PP (IN before)
+              (S
+                (VP (VBG going)
+                  (S
+                    (VP (TO to)
+                      (VP (VB see)
+                        (NP (PRP them))))))))))))
+    (. !)))
+
+

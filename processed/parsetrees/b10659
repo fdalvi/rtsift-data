@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (VP (VB Wierd)
+      (SBAR (IN that)
+        (S
+          (NP (DT this) (NN place))
+          (VP (VBZ is)
+            (ADVP (RB still))
+            (PP (IN in)
+              (NP (DT the) (NN database)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN closed)
+          (PP (IN for)
+            (NP (DT a) (JJ long) (NN time))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD watched)
+      (NP (DT the) (NN implosion)))
+    (. !)))
+
+

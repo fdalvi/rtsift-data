@@ -1,0 +1,405 @@
+(ROOT
+  (S
+    (NP (PRP$ Its) (JJR better))
+    (VP
+      (PP (IN than)
+        (NP (NN taco) (NN bell))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (VBP get)
+      (NP (JJR more) (NN meat)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN menu))
+      (VP (VBZ has)
+        (NP (JJR more) (NN diversity))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBZ shakes)
+        (SBAR
+          (S
+            (VP (VBP are)
+              (ADJP (JJ delicious)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB also))
+    (VP (VBP prefer)
+      (NP (DT this) (NN place))
+      (PP (TO to)
+        (NP
+          (NP (NNP Taco) (NNP Bell))
+          (NP (DT any) (NN day)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (JJ specific) (NN location))
+    (VP (VBZ is)
+      (ADJP (JJ open))
+      (NP
+        (NP (CD 24) (NNS hours))
+        (NP (DT a) (NN day))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB As) (RB far)
+      (SBAR (IN as)
+        (S
+          (NP (PRP I))
+          (VP (VBP know)))))
+    (, ,)
+    (NP (EX there))
+    (VP (VBZ is) (RB not)
+      (NP
+        (NP
+          (QP (DT a) (CD 24) (NN hour))
+          (NNP Taco) (NNP Bell))
+        (PP (IN in)
+          (NP (NN town)))
+        (PRN (-LRB- -LRB-)
+          (SBAR
+            (UCP
+              (ADVP (RB again))
+              (, ,)
+              (PP (IN as)
+                (ADVP (RB far) (RB as))))
+            (S
+              (NP (PRP I))
+              (VP (VBP know))))
+          (-RRB- -RRB-))))
+    (. .)))
+
+(ROOT
+  (S (CC So)
+    (SBAR (IN if)
+      (S
+        (NP (PRP I))
+        (VP (VBD preferred)
+          (NP (NNP Taco) (NNP Bell)))))
+    (PRN (, ,)
+      (S
+        (NP (PRP I))
+        (VP (MD could) (RB n't)
+          (VP (VB access)
+            (NP (PRP it))
+            (SBAR
+              (WHADVP (WRB whenever))
+              (S
+                (NP (PRP I))
+                (VP (VBD wanted)))))))
+      (, ,))
+    (VP (VBZ thumbs)
+      (PRT (RP down)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The)
+      (ADJP (# #) (CD 5)))
+    (VP (VBZ is)
+      (NP (DT an) (JJ excellent) (NN choice)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (CD Two) (JJ big) (JJ fat) (NN chicken) (NNS tacos))
+    (, ,)
+    (NP
+      (NP (NNS fries))
+      (, ,)
+      (CC and)
+      (NP (DT a) (NN drink)))
+    (. .)))
+
+(ROOT
+  (S (CC Or)
+    (, ,)
+    (NP (PRP you))
+    (VP (MD could)
+      (VP (VB go)
+        (PP (IN with)
+          (NP
+            (NP (DT a)
+              (QP (# #) (CD 4)))
+            (, ,)
+            (NP
+              (NP (CD two) (NN chicken) (NNS tacos))
+              (, ,)
+              (NP (NNS fries))
+              (, ,))
+            (CC and)
+            (NP (DT a) (NN drink))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Yes))
+    (NP (PRP I))
+    (VP (VBP like)
+      (NP (PRP$ their) (NN chicken) (NNS tacos)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT Both) (NNS combos))
+    (VP (VBP are)
+      (VP (VBG satisfying)
+        (PP (TO to)
+          (NP (PRP$ my) (NN tummy)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Even))
+    (NP (PRP$ their) (JJ hot) (NN sauce))
+    (VP (VBZ is)
+      (ADJP (JJ hotter)
+        (CC and)
+        (JJR tastier)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD will)
+      (VP (VB continue)
+        (S
+          (VP (TO to)
+            (VP (VB go)
+              (PP (TO to)
+                (NP (NNP Del) (NNP Taco)))
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (DT that) (JJ late) (NN night) (NN craving))
+                  (VP (VBZ takes)
+                    (PRT (RP over))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP (DT a)
+        (NP
+          (NP (NNP Del) (NNP Taco))
+          (, ,)
+          (NP (NNP Service) (NN standard))
+          (, ,))
+        (NN food) (NN standard)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (PRP$ Its) (NN definitely) (RB not))
+    (NP (NNP Cafe) (NNP Rio))))
+
+
+(ROOT
+  (S
+    (NP (RB Not) (JJ bad) (NNS prices))
+    (VP (VBP are)
+      (VP (VBN ok)
+        (CONJP (RB as) (RB well))
+        (VBN :-RRB-)))))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NNP Del) (NNP Taco))
+    (VP (VBZ has)
+      (NP
+        (ADJP (RB very) (JJ poor))
+        (NN management)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN size))
+      (PP (IN of)
+        (NP (PRP$ your) (NN order))))
+    (VP (MD will)
+      (VP (VB vary)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (VP (VB Make)
+          (ADJP (JJ sure))))
+      (NP (PRP you))
+      (VP (VBP get)
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (NP (PRP you))
+            (VP (VBP pay)
+              (PP (IN for)))))))
+    (: :)
+    (S
+      (NP (PRP They))
+      (VP (VBP have)
+        (NP (DT a) (NN tendency)
+          (S
+            (VP (TO to)
+              (VP (VB make)
+                (S
+                  (NP (DT the) (NN order))
+                  (ADJP (JJ small)
+                    (S
+                      (VP (TO to)
+                        (VP (VB save)
+                          (NP (NN money))
+                          (PP (IN for)
+                            (NP (DT the) (NN company))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (VP (VBN had)
+        (NP
+          (NP
+            (QP (CD three)
+              (CC or)
+              (CD four))
+            (NNS managers))
+          (PP (IN in)
+            (NP (CD 2013))))
+        (PP (IN at)
+          (NP (DT this) (NN location)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN On)
+      (NP (NNP Taco) (NNP Tuesday)))
+    (NP (PRP they))
+    (VP (VBD did) (RB not)
+      (VP (VB have)
+        (NP
+          (NP (NN sugar))
+          (PP (IN for)
+            (NP (DT the) (NN ice) (NN tea))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP
+      (NP (CD Three) (NNS days))
+      (RB later))
+    (NP (PRP they))
+    (ADVP (RB still))
+    (VP (VBD did) (RB not)
+      (VP (VB have)
+        (NP (NN sugar))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP guess)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBP expect)
+            (S
+              (NP (PRP us))
+              (VP (TO to)
+                (VP (VB poison)
+                  (NP (PRP ourselves))
+                  (PP (IN with)
+                    (NP (NNP aspartame))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN As)
+      (S
+        (NP (PRP you))
+        (VP (MD can)
+          (VP (VB tell)
+            (PP (IN by)
+              (NP (PRP$ my) (NN review)))))))
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (ADJP (RB pretty) (VBN upset)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB issue)
+        (NP (RB only) (CD one) (NN star))
+        (SBAR (IN for)
+          (S
+            (NP (DT this) (NN restaurant))
+            (VP (VBZ accepts)
+              (SBAR
+                (S
+                  (NP (NN food))
+                  (VP (VBZ is)
+                    (ADJP (JJ good))
+                    (SBAR
+                      (WHADVP (WRB when))
+                      (S
+                        (NP (PRP you))
+                        (ADVP (RB finally))
+                        (VP (VBP get)
+                          (SBAR
+                            (WHNP (WP what))
+                            (S
+                              (NP (PRP you))
+                              (VP (VB order)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD heard)
+      (PP (IN from)
+        (NP (DT a) (JJ former) (NN manager)))
+      (SBAR (IN that)
+        (S
+          (NP (DT this) (NN restaurant))
+          (VP (VBD got)
+            (NP (CD 33) (NNS demerits))
+            (PP (IN during)
+              (NP (PRP$ its) (JJ last) (NN health) (NN department) (NN department) (NN inspection)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP have)
+          (NP (DT a) (NN choice)))))
+    (, ,)
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB pick)
+        (NP
+          (NP (DT a) (JJ different) (NNP Del) (NNP Taco) (NN restaurant))
+          (PP (IN for)
+            (NP (PRP$ your) (NN business))))))
+    (: :)))
+
+

@@ -1,0 +1,214 @@
+(ROOT
+  (FRAG
+    (ADJP (RB Very) (JJ nice))
+    (S
+      (VP (VB irish)
+        (NP (NN bar))
+        (PP (IN in)
+          (NP (NNP Waterloo)))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (NNP Beer))
+    (VP (VBZ 's) (RB not)
+      (NP
+        (ADJP
+          (ADJP (RB too) (JJ expensive))
+          (PRN (-LRB- -LRB-)
+            (NP
+              (PP (IN about)
+                (NP (CD 15)))
+              (NP
+                (NP ($ $)
+                  (QP (IN for) (DT a)))
+                (NP (NN pitcher))))
+            (-RRB- -RRB-)))
+        (, ,) (JJ good) (NN atmosphere)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP You))
+      (VP (VBP have)
+        (NP
+          (NP (NNS musicians))
+          (VP (VBG coming)
+            (S
+              (VP (TO to)
+                (VP (VB perform)
+                  (PP (IN in)
+                    (NP (DT the) (NN evening))))))))))
+    (, ,)
+    (NP (PRP it))
+    (ADVP (RB really))
+    (VP (VBZ adds)
+      (NP (DT a) (JJ nice) (NN touch))
+      (PP (TO to)
+        (NP (DT the) (NN place))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP (DT a) (JJ good) (NN pub)
+        (S
+          (VP (TO to)
+            (VP (VB come)
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (PRP you))
+                  (VP (VBP 're)
+                    (PP (IN with)
+                      (NP (NNS friends)))))))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (NNP Molly) (POS 's))
+    (VP (VBZ is)
+      (NP (DT a) (JJ great) (NN place)
+        (S
+          (VP (TO to)
+            (VP (VB come)
+              (VP (VB hang)
+                (PRT (RP out))
+                (PP (IN with)
+                  (NP (NNS friends)))
+                (SBAR (IN if)
+                  (S
+                    (NP (PRP you))
+                    (VP (VBP 're)
+                      (VP (VBG looking)
+                        (S
+                          (VP (TO to)
+                            (VP
+                              (ADVP (RB just))
+                              (VB chill))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (SBAR (IN Whether)
+        (S
+          (NP (PRP you))
+          (VP (VBP want)
+            (S
+              (VP (TO to)
+                (VP
+                  (VP (VB watch)
+                    (NP (DT the) (NN game))
+                    (PP (IN on)
+                      (NP (NN TV))))
+                  (, ,)
+                  (CC or)
+                  (VP (VB take)
+                    (PP (IN in)
+                      (NP (DT the) (JJ live) (NN music))))))))))
+      (NP (PRP they))
+      (ADVP (RB often))
+      (VP (VBP have)))
+    (, ,)
+    (NP (PRP you))
+    (VP (MD 'll)
+      (VP (VB enjoy)
+        (NP (PRP yourself))
+        (ADVP (RB here))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (ADVP (RB Sorry))
+    (, ,)
+    (NP (NNP Molly) (NNP Bloom))
+    (VP (VBZ 's))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP (PRP I))
+        (VP (VBD was)
+          (NP (DT a) (NN fan))))
+      (, ,)
+      (CC and)
+      (RB then)
+      (S
+        (NP (PRP I))
+        (VP (VBD went)
+          (ADVP (RB back))
+          (PP (IN for)
+            (NP (DT a) (JJ second) (NN time))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (NN waitress))
+      (VP (VBD was)
+        (ADVP (RB just))
+        (NP (JJ super) (NNS rude))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS burgers))
+      (VP (VBD were)
+        (ADJP (JJ fine))))
+    (PRN (, ,)
+      (S
+        (NP (DT the) (NNS drinks))
+        (VP (VBD were)
+          (ADJP (JJ fine))))
+      (, ,))
+    (CC but)
+    (S
+      (NP (PRP she))
+      (ADVP (RB really))
+      (VP (VBD took)
+        (PRT (RP away))
+        (PP (IN from)
+          (NP
+            (NP (DT the) (NN experience))
+            (SBAR
+              (S
+                (NP (PRP I))
+                (VP (VBD was)
+                  (VP (VBG hoping)
+                    (S
+                      (VP (TO to)
+                        (VP (VB have)
+                          (PP (IN with)
+                            (NP (NNS friends))))))))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (X (DT The)
+      (ADJP (JJ good)))
+    (: :)
+    (NP
+      (NP (NN fun) (NN place))
+      (SBAR
+        (S
+          (VP (TO to)
+            (VP (VB hang)
+              (PRT (RP out)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ bad))
+    (: :) (: ...)
+    (NP (JJ unless) (DT the) (NN waitress))
+    (VP (VBZ is)
+      (VP (VB mean)))
+    (. .)))
+
+

@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (S
+      (NP (DT This))
+      (VP (VBZ is)
+        (NP (DT a)
+          (ADJP (RB really) (JJ nice))
+          (NNP Deseret) (NN Book))))
+    (, ,)
+    (NP (PRP it))
+    (ADVP (RB also))
+    (VP (VBZ has)
+      (NP
+        (NP (DT the) (NN church) (NN distribution) (NN center) (NN upstairs))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ is)
+              (ADJP (RB really) (JJ convenient)))))))
+    (. !)))
+
+

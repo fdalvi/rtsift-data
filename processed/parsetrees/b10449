@@ -1,0 +1,80 @@
+(ROOT
+  (S
+    (NP (DT This) (JJ little) (NN thrift) (NN store))
+    (VP (VBZ is)
+      (UCP
+        (VP (VBN tucked)
+          (PRT (RP away))
+          (PP (IN in)
+            (NP (DT a) (NNP Plaza))))
+        (CC and)
+        (ADJP (JJ easy)
+          (S
+            (VP (TO to)
+              (VP (VB miss)))))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (VP
+        (PRN (-LRB- -LRB-)
+          (FRAG
+            (X
+              (ADVP (JJ next)
+                (PP (TO to)
+                  (NP (NNS toys))))
+              (NP (SYM r)))
+            (NP (PRP us)))
+          (-RRB- -RRB-))
+        (PP (IN For)
+          (NP (PDT such) (DT a) (JJ tiny) (NN store)))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (VP (VBN loaded)
+        (PP (IN with)
+          (NP
+            (NP (JJ cheap) (NN knick) (NNS knacks))
+            (, ,)
+            (NP (NN clothing))
+            (, ,)
+            (NP (NNS quilts))
+            (, ,)
+            (NP (NNS books))
+            (CC and)
+            (NP (RB much) (JJR more))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Definitely))
+    (NP
+      (NP (DT a) (JJ hidden) (JJ little) (NN gem))
+      (PP (IN of)
+        (NP (DT a) (NN thrift) (NN shop)))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBZ 's)
+            (PP (IN worth)
+              (NP (DT a) (NN trip)))))))
+    (. !)))
+
+
+(ROOT
+  (NP (JJ Friendly) (NN staff) (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP AS) (NNP Organized))
+      (PP (IN as)
+        (NP (PRP they))))
+    (VP (MD can)
+      (VP (VB be)
+        (PP (IN with)
+          (NP (DT the) (JJ limited) (NN space)))))
+    (. .)))
+
+

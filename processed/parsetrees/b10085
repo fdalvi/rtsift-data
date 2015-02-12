@@ -1,0 +1,82 @@
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (ADVP (RB extremely))
+      (VP (VB slow)))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADJP (JJ cold))
+        (S
+          (VP (VB bring)
+            (NP (DT a) (NN jacket))))))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VB Make)
+      (NP (DT an) (NN appointment))
+      (SBAR (IN if)
+        (S
+          (NP (PRP you))
+          (VP (MD can)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBD went)
+        (PRT (RP in))
+        (PP (IN without)
+          (NP (DT an) (NN appointment))))
+      (CC and)
+      (VP
+        (ADVP (RB only))
+        (VBD waited)
+        (PP (IN about)
+          (NP (JJ 40-ish) (NNS minutes)))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN doctor))
+    (PRN (-LRB- -LRB-)
+      (S
+        (NP (PRP I))
+        (VP (VBP think)
+          (SBAR
+            (S
+              (NP (PRP$ his) (NN name))
+              (VP (VBZ is)
+                (NP (NNP Neil)))))))
+      (-RRB- -RRB-))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (RB super) (JJ nice))
+        (CC and)
+        (ADJP (NN professional))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP
+      (VP (VBZ is)
+        (ADVP (RB also))
+        (ADJP (RB very) (JJ clean)))
+      (CC and)
+      (VP (VBD was) (RB n't)
+        (ADJP (RB very) (JJ crowded))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP I))
+            (VP (VBD went))))))
+    (. .)))
+
+

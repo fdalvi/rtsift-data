@@ -1,0 +1,33 @@
+(ROOT
+  (NP
+    (NP (JJ Decent) (NN meat))
+    (, ,)
+    (NP (JJ great) (NNS pepperettes))))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Great) (NN service))
+      (PP (IN from)
+        (NP
+          (NP (NN staff))
+          (, ,)
+          (NP (NNS meats)))))
+    (VP (VBP are)
+      (PP (IN of)
+        (NP (DT a)
+          (ADJP (RB very) (JJ high))
+          (NN quality))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Always))
+    (VP (VBP enjoy)
+      (S
+        (VP (VBG coming)
+          (ADVP (RB here)))))
+    (. .)))
+
+

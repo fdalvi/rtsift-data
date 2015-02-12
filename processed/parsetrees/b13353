@@ -1,0 +1,241 @@
+(ROOT
+  (SINV
+    (ADVP (RB Yummy))
+    (VP (VBZ Thrifty))
+    (NP
+      (NP (NN ice) (NN cream))
+      (, ,)
+      (NP (JJ snowie)
+        (ADJP (JJ treats) (, ,)
+          (CC and)
+          (NN world) (JJ famous))
+        (NNS smoothies)))
+    (: ...)))
+
+
+(ROOT
+  (S
+    (VP (VB Found)
+      (NP (DT this) (NN place))
+      (PP (IN by)
+        (NP (NN accident))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBP love)
+      (NP (DT the) (NNP Thrifty) (NNP Ice) (NN Cream) (NN shop)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (MD will)
+      (VP (VB be)
+        (NP (JJ frequent) (NNS customers))
+        (PP
+          (ADVP (RB here))
+          (IN for)
+          (NP (PDT both)
+            (NP (DT the) (NN ice) (NN cream))
+            (CC and)
+            (NP (DT the) (JJ bottled) (NN water))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (DT This))
+      (VP (VBP place)))
+    (, ,)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (NP
+          (NP (NNS owners))
+          (, ,)
+          (NP (PRP$ their) (NN candy))
+          (CC and)
+          (NP (NN ice) (NN cream) (NNS selections)))))
+    (CC and)
+    (S
+      (NP (PRP$ their) (NNS deals))
+      (VP (VBP are)
+        (NP (DT a) (NN godsend))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP ($ $) (CD 19.95))
+    (VP
+      (VP (VBD got)
+        (S
+          (NP (PRP us))
+          (NP
+            (NP (DT a)
+              (ADJP (NN brand) (JJ new))
+              (ADJP (CD 5) (NN gallon))
+              (NN jug))
+            (PP (IN with)
+              (NP
+                (NP
+                  (NP (DT a)
+                    (ADJP (JJ spigot)
+                      (CC and)
+                      (JJ wide))
+                    (NN mouth) (NN opening))
+                  (PP (IN on)
+                    (NP (NN top))))
+                (PRN (-LRB- -LRB-)
+                  (VP
+                    (VP (VBN perfect)
+                      (PP (IN for)
+                        (NP
+                          (NP (NN Burning) (NN Man))
+                          (CC and)
+                          (NP (JJ other) (JJ such) (NN summer) (NNS festivals)))))
+                    (CC and)
+                    (VP (VBZ makes)
+                      (S
+                        (NP (PRP it))
+                        (ADJP (JJ easy)
+                          (PP (IN for)
+                            (S
+                              (VP (VBG putting)
+                                (NP
+                                  (NP (NN ice)
+                                    (CC and)
+                                    (JJ other) (NNS things))
+                                  (PP (IN in)
+                                    (NP (PRP it)))))))))))
+                  (-RRB- -RRB-))
+                (VP (VBN filled)
+                  (PP (IN with)
+                    (NP (JJ clean) (NN water)))))))))
+      (CC and)
+      (VP (MD will)
+        (ADVP (RB only))
+        (VP (VB cost)
+          (NP
+            (NP (CD 25) (NNS cents))
+            (NP (DT a) (NN gallon)))
+          (S
+            (VP (TO to)
+              (VP (VB refill)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Owner))
+    (VP (VBD assured)
+      (NP (PRP me))
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP (VBP 're)
+            (VP (VBG working)
+              (PP (IN on)
+                (S
+                  (VP (VBG securing)
+                    (NP (JJ Alkaline) (NN water))
+                    (ADVP (RB also))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBN sanitized)
+        (NP
+          (NP (DT the) (NN bottle))
+          (PP (IN for)
+            (NP (PRP us))))
+        (PP (IN before)
+          (S
+            (VP (VBG filling)
+              (NP (PRP it)))))))
+    (CC and)
+    (S
+      (NP (NN everything))
+      (VP (VBD came)
+        (PP (IN with)
+          (NP
+            (NP (DT a) (JJ friendly) (NN smile))
+            (CC and)
+            (NP (JJ little) (NNS jokes))))
+        (ADVP (RB here)
+          (CC and)
+          (RB there))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Great) (NN energy))
+    (PP (IN in)
+      (NP (DT this) (NN place)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Highly))
+    (VP (VBD recommended))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (NNP Good))
+    (VP (VBP place)
+      (S
+        (VP (TO to)
+          (VP (VB get)
+            (NP
+              (NP (NN ice) (NN cream) (NN water))
+              (SBAR
+                (WHNP (WDT whatever))
+                (S
+                  (VP (VBP u)
+                    (SBAR
+                      (S
+                        (NP (NN need) (NN staff))
+                        (VP (VBZ is)
+                          (ADJP (JJ awesome)
+                            (SBAR
+                              (S
+                                (NP (RB only) (NN downside))
+                                (VP (VBZ is)
+                                  (SBAR
+                                    (S
+                                      (NP (PRP they))
+                                      (VP (VBP do) (RB n't)
+                                        (VP (VB have)
+                                          (NP (JJ enough) (NN room)
+                                            (S
+                                              (VP (TO to)
+                                                (VP (VB keep)
+                                                  (ADVP (IN out) (DT all))
+                                                  (NP
+                                                    (NP (DT the) (NN ice) (NN cream) (NN flavor))
+                                                    (SBAR
+                                                      (S
+                                                        (NP (PRP they))
+                                                        (VP (VBP have)
+                                                          (ADVP (IN out) (RB so))
+                                                          (SBAR (IN if)
+                                                            (S
+                                                              (NP (NN u))
+                                                              (VP (VBP have)
+                                                                (NP
+                                                                  (NP (DT a) (NN taste))
+                                                                  (PP (IN for)
+                                                                    (NP (NN something)))
+                                                                  (SBAR
+                                                                    (S
+                                                                      (NP (PRP it))
+                                                                      (VP (MD may) (RB not)
+                                                                        (VP (VB be)
+                                                                          (ADJP (RP out)))))))))))))))))))))))))))))))))))))))
+
+

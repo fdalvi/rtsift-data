@@ -1,0 +1,382 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP Goelet) (NNP A.C.) (NNP Beuf) (NNP Community) (NNP Center))
+    (VP (VBZ is)
+      (VP (VBN located)
+        (PP (IN on)
+          (NP (JJ 35th) (NNP Ave.)
+            (CC &)
+            (NNP Pinnacle) (NNP Peak) (NNP Road)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP (DT an) (JJ awesome) (NN community) (NN center))
+      (PP (IN with)
+        (NP (JJ several) (NNS ammenities)))
+      (PP (VBG including) (: :)
+        (NP
+          (NP (NNS classrooms))
+          (, ,)
+          (NP (DT a) (NN gym/weightroom))
+          (, ,)
+          (NP (JJ indoor) (NN track))
+          (, ,)
+          (CC and)
+          (NP (JJ dance/exercise) (NN room)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ indoor) (NN track))
+    (VP
+      (VP (VBZ is)
+        (ADJP (JJ free)
+          (S
+            (VP (TO to)
+              (VP (VB walk))))))
+      (CC and)
+      (VP (VBZ is)
+        (NP
+          (NP
+            (NP (NN air))
+            (VP (VBN conditioned)))
+          (: -)
+          (NP
+            (NP (NN bonus))
+            (PP (IN for)
+              (NP (DT those) (NNS walkers)))
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBZ dread)
+                  (NP (DT the) (NN summer) (NN heat)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NN Use))
+        (PP (IN of)
+          (NP (DT the) (NN gym))))
+      (VP (VBZ is)
+        (PP (IN at)
+          (NP (DT a) (NN cost)))))
+    (: -)
+    (S
+      (NP (PRP I))
+      (VP (VBP think)
+        (PP (IN around)
+          (NP
+            (NP ($ $) (CD 60))
+            (PP (IN for)
+              (NP (DT the) (NN year)))))
+        (, ,)
+        (SBAR (IN so)
+          (S
+            (NP (PRP it))
+            (VP (VBZ 's)
+              (ADJP (RB pretty) (JJ inexpensive))
+              (SBAR (CC but)
+                (S
+                  (NP (DT the) (NN gym))
+                  (VP (VBZ is)
+                    (ADJP (RB pretty) (JJ small))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP offer)
+      (NP
+        (NP (DT a) (NN variety))
+        (PP (IN of)
+          (NP (JJ fitness/dance) (NNS classes)))
+        (, ,)
+        (PP (IN at)
+          (NP (DT a) (NN cost))))
+      (, ,)
+      (PP (VBG including) (: :)
+        (NP
+          (NP (NN aerobics))
+          (, ,)
+          (NP
+            (NP (JJ ballet) (, ,) (JJ belly) (NN dance) (, ,) (NN kickboxing) (, ,) (NN pilates)
+              (CC and)
+              (NN yoga) (NNS +))
+            (ADJP (RB many) (JJR more))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB also))
+    (VP (VBP offer)
+      (NP (NN specialty) (NN education) (NNS classes))
+      (PP (VBG including) (: :)
+        (NP
+          (NP (NN oil) (NN painting))
+          (, ,)
+          (NP (NNS computers))
+          (CC and)
+          (NP (NNP spanish)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP (PRP I))
+        (VP (VBP have)
+          (VP (VBN taken)
+            (NP
+              (NP (DT a) (JJ few))
+              (PP (IN of)
+                (NP (DT the) (NNS classes)))))))
+      (CC and)
+      (S
+        (NP (PRP they))
+        (VP (VBP are)
+          (ADJP
+            (ADJP (RB pretty) (JJ inexpensive)
+              (CC and)
+              (JJ last))
+            (PP (IN for)
+              (NP
+                (NP (DT a) (JJ few) (NNS months))
+                (PP (IN at)
+                  (NP (DT a) (NN time)))))))))
+    (: -)
+    (FRAG
+      (ADVP (DT either) (RB once)
+        (CC or)
+        (RB twice))
+      (ADVP (RB weekly)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ seems)
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP (VBP offer)
+            (NP
+              (NP (DT a) (NN lot))
+              (PP (IN of)
+                (NP (NNS classes)
+                  (CC and)
+                  (NNS activities))))
+            (PP (IN for)
+              (NP (NNS kids)
+                (CC and)
+                (NNS seniors)))
+            (ADVP (RB as) (RB well))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Other) (NNS amenities))
+    (VP (VBP include)
+      (NP
+        (NP (JJ indoor) (NN basketball) (NN court))
+        (, ,)
+        (NP (NN softball) (NNS fields))
+        (, ,)
+        (NP (NN soccer) (NN field))
+        (, ,)
+        (NP (NN basketball)
+          (CC and)
+          (NN volleyball) (NNS courts))
+        (, ,)
+        (NP (NNS playgrounds))
+        (, ,)
+        (CC and)
+        (NP (NN picnic) (NNS areas))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN center))
+      (VP (VBZ is)
+        (ADVP (RB always))
+        (ADJP (JJ clean))))
+    (CC and)
+    (S
+      (NP (DT the) (NN staff))
+      (VP (VBZ is)
+        (ADJP (RB incredibly) (JJ helpful))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (PP (IN in)
+          (NP
+            (NP
+              (QP (CC or)
+                (RB close)))
+            (PP (TO to)
+              (NP (DT the) (NN neighborhood)))))
+        (NP (DT this))
+        (VP (VBZ is)
+          (NP (DT a) (JJ great) (NN community)))))
+    (VP (VBP center)
+      (S
+        (VP (TO to)
+          (VP (VB have)
+            (NP (NN access))
+            (PP (TO to))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Great) (NNP rec))
+    (VP (VBP center))
+    (. !)))
+
+(ROOT
+  (NP
+    (NP (NNP Indoor) (NNP Basketball))
+    (, ,)
+    (NP
+      (NP (VBG walking)
+        (NX
+          (NX (NN track))
+          (CC and)
+          (NX (JJ small) (NN work))))
+      (PP (IN out)
+        (NP (NN room))))
+    (. !)))
+
+(ROOT
+  (S
+    (ADVP (RB Basically))
+    (NP
+      (NP (DT all))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (NN equipment))
+          (NP (PRP$ your) (JJ normal) (NN gym)))))
+    (VP (VBZ has)
+      (ADVP (RB just))
+      (VP (VBN scaled)
+        (PRT (RP down))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP (RB Very) (JJ inexpensive)
+      (PP (IN for)
+        (NP (DT a) (NN year))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP
+      (NP ($ $) (CD 10))
+      (NP (DT a) (NN year)))
+    (VP (VBZ rec)
+      (NP
+        (NP (NN pass))
+        (, ,)
+        (CC and)
+        (NP
+          (NP ($ $) (CD 50))
+          (S
+            (VP (TO to)
+              (VP (VB use)
+                (NP (DT the) (NN work))
+                (PRT (RP out)))))
+          (PRN (-LRB- -LRB-)
+            (NP (NN weight) (NN room))
+            (-RRB- -RRB-)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Site))
+    (ADVP (RB also))
+    (VP (VBZ offers)
+      (NP
+        (NP (DT a) (NN lot))
+        (PP (IN of)
+          (NP
+            (NP (NNS classes))
+            (PP
+              (PP (IN for)
+                (NP (DT the) (NNS kids)))
+              (CC and)
+              (PP (IN for)
+                (NP (DT the) (NNS adults))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Yoga))
+    (, ,)
+    (NP
+      (NP (NNP Senior) (NNP Center))
+      (, ,)
+      (NP (FW etc.)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Great))
+    (VP (VBP place)
+      (PP (IN for)
+        (NP (PRP$ your) (NNS kids))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBZ is)
+      (ADJP (JJ clean)
+        (CC and)
+        (JJ affordable)))
+    (: -)))
+
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP
+        (NP (DT a)
+          (ADJP (JJ VERY) (JJ nice))
+          (JJ indoor) (NN walking))
+        (PRN (: /)
+          (NP (NN jog) (NN track) (NNS !!!!)))))))
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP Indoor))
+      (CC and)
+      (NP (NN air)))
+    (ADJP (JJ conditioned)
+      (CC and)
+      (JJ inexpensive))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Center))
+    (VP (VBZ offers)
+      (NP (JJ MANY) (JJ other) (NNS classes)
+        (CC and)
+        (NNS options)))
+    (. .)))
+
+

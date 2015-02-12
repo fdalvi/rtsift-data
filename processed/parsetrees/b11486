@@ -1,0 +1,122 @@
+(ROOT
+  (FRAG
+    (SBAR
+      (WHADVP (WRB Where))
+      (S
+        (NP (PRP one))
+        (VP (MD can)
+          (VP (VB find)
+            (PP (IN by)
+              (NP
+                (NP
+                  (ADVP (RB far)
+                    (NP (DT the) (NN coolest)))
+                  (NP (NNS things))
+                  (, ,)
+                  (PP (IN from)
+                    (NP
+                      (NP (NN art))
+                      (PP (TO to)
+                        (NP (NNS antiques))))))
+                (CC and)
+                (NP
+                  (NP (RB quite) (DT the) (JJ nice) (NN furniture))
+                  (PP (IN for)
+                    (NP (DT a)
+                      (ADJP (RB very) (JJ cheap))
+                      (NN price))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (ADVP (IN by) (RB far))
+      (NP
+        (NP
+          (NP (CD one))
+          (PP (IN of)
+            (X (DT the) (JJR better))))
+        (CC &)
+        (NP
+          (NP (JJR bigger) (NNP GW) (POS 's))
+          (PP (IN in)
+            (NP (DT the) (NN valley))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ Their) (NNS prices))
+    (VP (VBP are)
+      (ADJP
+        (ADJP (JJR more))
+        (PP (IN in)
+          (NP (NN line))))
+      (PP (IN with)
+        (NP (NNP Savers)
+          (CC or)
+          (NNP Epic))))
+    (. .)))
+
+(ROOT
+  (S (: -)
+    (NP
+      (NP (RB Not) (NN crazy)
+        (CC or)
+        (NN sizist))
+      (PRN (-LRB- -LRB-)
+        (S
+          (NP (NNP smells))
+          (VP (VBP are)
+            (ADJP
+              (ADJP (RBR more) (JJ expensive)
+                (PP (IN than)
+                  (NP (NNP Larges))))
+              (, ,)
+              (CC or)
+              (ADJP (JJ vice-versa)))))
+        (-RRB- -RRB-)))
+    (VP (VBP like)
+      (NP
+        (NP (DT a) (JJ few))
+        (PP (IN of)
+          (NP (DT the) (JJ other) (JJ Goodwill) (NNS locations)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP are)
+      (ADJP
+        (ADJP (RB pretty) (VBN organized))
+        (FRAG
+          (NP
+            (NP (SYM &))
+            (SBAR
+              (S
+                (NP (PRP$ their) (NN staff))
+                (VP (VBZ is)
+                  (ADJP (JJ friendly)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP try)
+      (S
+        (VP (TO to)
+          (VP (VB make)
+            (NP (DT a) (NN stop))
+            (ADVP (RB here))
+            (SBAR
+              (WHADVP (WRB whenever))
+              (S
+                (NP (PRP I))
+                (VP (VBP 'm)
+                  (ADJP (RB even) (RB remotely)
+                    (PP (IN near)
+                      (NP (DT the) (NN area)))))))))))
+    (. .)))
+
+

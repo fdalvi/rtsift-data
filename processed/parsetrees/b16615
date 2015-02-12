@@ -1,0 +1,125 @@
+(ROOT
+  (S
+    (INTJ (UH Hey))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (NP
+        (NP (DT the) (NN club))
+        (PP (IN with)
+          (NP
+            (NP (DT a) (JJ nice) (NN restaurant))
+            (PP (IN on)
+              (NP
+                (NP (DT the) (NN side))
+                (PP (IN inside)
+                  (NP (PRP$ your) (NN mall)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP You))
+      (VP (VBP look)
+        (PRT (RP around))
+        (ADVP (RB inside))))
+    (CC and)
+    (S
+      (NP (PRP you))
+      (VP (MD could)
+        (VP (VB swear)
+          (SBAR (IN that)
+            (S
+              (NP (PRP you))
+              (VP (VBP 're)
+                (PP (IN in)
+                  (NP (NNP NYC)
+                    (CONJP (CC and)
+                      (RB not))
+                    (NNP LV)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (INTJ (UH Well))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (NP
+        (NP (DT a) (JJ great) (NN mixture))
+        (PP (IN of)
+          (NP (DT both)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Lovely))
+    (VP (VB wait)
+      (NP
+        (NP (NN staff))
+        (, ,)
+        (CC and)
+        (NP (JJ energetic) (NNS bartenders))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (CD one) (NN dance) (NN floor))
+    (VP (VBZ gets)
+      (ADJP (JJ crazy)
+        (PP (RB only) (IN after)
+          (NP (CD 1AM)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP VIP) (NN table) (NN service))
+      (VP (VBZ is)
+        (ADJP (JJ solid))))
+    (: --)
+    (FRAG (IN though) (RB not)
+      (PP (IN as)
+        (NP (NNP omnipresent)))
+      (PP (IN as)
+        (NP
+          (NP (DT that))
+          (PP (IN at)
+            (NP (NNP Pure))))))
+    (. .)))
+
+(ROOT
+  (S
+    (INTJ (UH Oh))
+    (, ,)
+    (NP (CC and)
+      (NP
+        (NP (DT the) (NN food))
+        (PP (IN at)
+          (NP (DT the) (NN restaurant)))))
+    (VP (VBZ is)
+      (ADJP (JJ fine) (RB too)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN club))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a)
+          (ADJP (JJ nice) (VBG looking))
+          (NN club))
+        (, ,)
+        (VP
+          (ADVP (RB newly))
+          (VBN opened) (, ,)
+          (ADJP (JJ empty))
+          (, ,)
+          (S
+            (VP
+              (ADVP (RB terribly))
+              (VBN promoted))))))
+    (. .)))
+
+

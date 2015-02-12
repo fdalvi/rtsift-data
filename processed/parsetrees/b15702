@@ -1,0 +1,135 @@
+(ROOT
+  (NP
+    (NP (NN Caution))
+    (PP (IN on)
+      (NP (NN gas) (NN price)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN company))
+    (VP (VBZ uses)
+      (NP
+        (NP
+          (ADJP (RB very) (JJ small))
+          (NN print))
+        (PP (IN on)
+          (NP (PRP$ their) (JJ low) (NN gas) (NN price)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP you))
+        (VP (VBP get)
+          (PP (TO to)
+            (NP (DT the) (NN pump))))))
+    (VP (VBZ is)
+      (ADJP
+        (NP (CD 10) (NNS cents))
+        (JJR higher))
+      (SBAR
+        (ADVP (RB then))
+        (WHNP (WP what))
+        (S
+          (NP (PRP you))
+          (VP (VBP expect)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN print))
+      (PP (IN on)
+        (NP (DT the) (NN gas) (NN sign))))
+    (VP (VBZ is)
+      (ADJP (RB very) (JJ small)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB call)
+        (NP (DT this) (JJ deceptive) (NN advertising))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (JJS Best) (NN gas) (NN station))
+    (PP (IN in)
+      (NP (NN north) (NNP Las) (NNP Vegas)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (JJ Great) (NN food))
+    (ADVP (RB inside))
+    (. .)))
+
+(ROOT
+  (S (CC Plus)
+    (NP (PRP they))
+    (VP (VBP have)
+      (NP (DT a) (JJ live) (NN DJ)
+        (CC and)
+        (NN taco) (NN truck)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Check)
+      (NP (DT this) (NN place))
+      (PRT (RP out)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (MD 'll)
+      (VP (VB get)
+        (NP
+          (NP (DT the) (JJ real) (NN feel))
+          (PP (IN of)
+            (NP (NN north) (NNP Las) (NNP Vegas))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (RB Just) (CD one))
+      (PP (IN of)
+        (NP (DT those) (JJ little) (NN neighborhood) (NN niche))))
+    (VP (VBZ markets)
+      (SBAR
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (S
+              (NP (DT the) (NNS employees))
+              (VP (VBP end)
+                (PRT (RP up))
+                (S
+                  (VP (VBG remembering)
+                    (NP (PRP you))))))
+            (CC and)
+            (S
+              (NP (PRP it))
+              (VP (VBZ is) (RB n't)
+                (ADJP (JJ fancy))))))
+        (CC but)
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBZ needs)
+              (S
+                (NP (PRP it))
+                (VP (TO to)
+                  (VP (VB be)))))))))
+    (. ?)))
+
+

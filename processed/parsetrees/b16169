@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP (NNS Pumps))
+    (VP (VBP stop)
+      (PP (IN at)
+        (NP ($ $) (CD 95.00))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT This))
+      (VP (VBZ is)
+        (NP (CD 2014))))
+    (CC and)
+    (S
+      (NP (NN gas))
+      (VP (VBZ is)
+        (NP
+          (NP ($ $) (CD 4.00))
+          (NP (DT a) (NN gallon)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Time))
+    (VP (TO to)
+      (VP (VB recalibrate)
+        (NP (PRP$ your) (NNS pumps))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT Some) (NNS people))
+    (ADVP (RB actually))
+    (VP (VBP drive)
+      (NP (JJ big) (NN boy) (NNS vehicles)))
+    (. .)))
+
+

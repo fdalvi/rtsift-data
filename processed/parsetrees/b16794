@@ -1,0 +1,108 @@
+(ROOT
+  (S
+    (ADVP (RB Always))
+    (NP
+      (NP (DT a) (JJ sure) (NN thing))
+      (, ,)
+      (NP
+        (NP (JJ big) (NN fan))
+        (PP (IN of)
+          (NP
+            (NP (NNP Walgreens))
+            (CC and)
+            (NP (DT this) (NN store))))))
+    (VP (VBZ is)
+      (NP
+        (NP (JJ solid) (NN everytime))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP go))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 've)
+        (VP (VBN been)
+          (VP (VBG going)
+            (PP (TO to)
+              (NP
+                (NP (DT this) (NN drug) (NN store))
+                (PP (IN for)
+                  (NP (CD 6) (NNS years)))))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (ADVP (RB just))
+      (VP (VBP adore)
+        (NP (DT this) (NN store))))
+    (. .)))
+
+(ROOT
+  (NP
+    (S
+      (S
+        (NP (DT The) (NNS people))
+        (VP (VBP are)
+          (ADJP (JJ friendly))))
+      (CC and)
+      (S
+        (NP (DT the) (NN service))
+        (VP (VBZ is)
+          (ADJP (JJ wonderful)))))))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN customer) (NN service))
+      (PP (IN at)
+        (NP (DT this) (JJ particular) (NNS Walgreens))))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (JJ horrendous) (: -)
+          (PP (IN from)
+            (ADVP
+              (NP (PDT both) (DT the) (NN checkout))
+              (RB counter))))
+        (PP (TO to)
+          (NP (DT the) (NN pharmacy)))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (ADVP (RB Never))
+    (VBP have)
+    (NP (PRP I))
+    (VP (VBN experienced)
+      (NP (PDT such) (DT a) (JJ lackluster) (NN attitude))
+      (PP (IN towards)
+        (NP (NNS customers))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 'm)
+        (ADVP (RB generally))
+        (NP
+          (NP (DT a) (NN fan))
+          (PP (IN of)
+            (NP (NNP Walgreens))))))
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (MD will)
+        (VP (VB drive)
+          (NP (DT the) (JJ extra) (NN mile))
+          (S
+            (VP (TO to)
+              (VP (VB avoid)
+                (NP (DT this) (JJ particular) (NNS Walgreens))))))))
+    (. .)))
+
+

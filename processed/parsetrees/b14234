@@ -1,0 +1,134 @@
+(ROOT
+  (SINV
+    (VP (VBZ Locally))
+    (NP
+      (NP (JJ owned))
+      (, ,)
+      (NP (SYM f)))))
+
+
+(ROOT
+  (NP
+    (NP (NNP POP) (NNP QUIZ))
+    (: :)
+    (S
+      (NP (NNP THIS) (NNP 7-11))
+      (VP (VBZ is)
+        (NP
+          (NP (SYM a))
+          (: :)
+          (NP (JJ a.) (JJ great) (NN place)
+            (S
+              (VP (TO to)
+                (VP (VB get)
+                  (NP (DT a) (JJ flat) (NN soda)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NN b.))
+    (VP (VBP get)
+      (VP (VBN hit)
+        (PRT (RP up))
+        (PP (IN for)
+          (NP (NN change)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NN c.))
+    (ADVP (RB almost))
+    (VP (VBP get)
+      (S
+        (VP (VBN robbed))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB d.)
+      (NP
+        (NP (DT all))
+        (PP (IN of)
+          (NP (DT the) (JJ above)))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ correct) (NN answer))
+    (: :)
+    (NP (SYM d))))
+
+
+(ROOT
+  (S
+    (PP (IN On)
+      (NP
+        (QP (JJR more) (IN than) (CD one))
+        (NN occasion)))
+    (NP (PRP I))
+    (VP (VBP have)
+      (VP (VBN had)
+        (S
+          (VP (TO to)
+            (VP (VB point)
+              (PRT (RP out))
+              (SBAR (IN that)
+                (S
+                  (NP
+                    (NP (NN something))
+                    (SBAR
+                      (S
+                        (NP (PRP I))
+                        (VP (VBD was)
+                          (VP (VBG purchasing))))))
+                  (VP (VBD was)
+                    (PP (IN on)
+                      (NP (NN sale)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP have)
+        (ADVP (RB also))
+        (VP (VBN picked)
+          (PRT (RP up))
+          (NP
+            (NP (NNP Mountain) (NNP Dew))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBD was)
+                  (NP
+                    (NP (DT a) (NN month))
+                    (VP (VBN expired))))))))))
+    (CC and)
+    (S
+      (NP (NN yesterday))
+      (NP
+        (NP (DT a) (NNP Fat) (NNP Tire) (NN beer))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD was)
+              (VP (VBN expired)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP it))
+        (VP (VBD was) (RB n't)
+          (NP
+            (NP (DT a) (CD two) (NN minute) (NN walk))
+            (PP (IN from)
+              (NP (PRP$ my) (NN apartment)))))))
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB avoid)
+        (NP (PRP it))))
+    (. .)))
+
+

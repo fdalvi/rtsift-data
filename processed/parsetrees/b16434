@@ -1,0 +1,135 @@
+(ROOT
+  (S
+    (NP (NNP Andrea) (NNP Solis))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (CD one) (NN u))
+        (SBAR
+          (S
+            (VP (MD can)
+              (VP (VB talk)
+                (PP (TO to))
+                (, ,)
+                (PP (IN with)
+                  (NP
+                    (NP (DT no) (NN problem))
+                    (ADVP (IN at) (DT all))))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (VBZ 's)
+      (NP (DT a) (JJ super) (JJ nice) (NN lady)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Fuchi))
+    (VP (VBZ speaks)
+      (ADJP (JJ Chinese)))
+    (. !)))
+
+(ROOT
+  (S
+    (FRAG
+      (INTJ (UH Wow)))
+    (: ...)
+    (S
+      (NP (NNP Good))
+      (VP (VB explore)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Rude))
+      (, ,)
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBZ 's) (RB all)
+            (NP (FW i))))))
+    (VP (VBP have)
+      (S
+        (VP (TO to)
+          (VP (VB stay)
+            (PP (IN about)
+              (NP
+                (NP (DT the) (NN staff)
+                  (CC and)
+                  (NN service))
+                (PP (IN at)
+                  (NP (DT this) (NN branch)))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (DT This) (NNP Bank))
+      (PP (IN of)
+        (NP (NNP America))))
+    (VP (VBZ is)
+      (PP (IN by)
+        (NP
+          (NP (RB far) (DT the) (JJS best) (NN one))
+          (PP (IN in)
+            (NP (NN town))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN staff))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (RB very) (JJ friendly)
+          (CC and)
+          (JJ quick))
+        (PP (IN with)
+          (NP (DT the) (NNS transactions)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP
+        (NP (JJ multiple) (JJ drive-thru) (NNS lanes))
+        (SBAR (IN so)
+          (S
+            (NP (PRP I))
+            (ADVP (RB never))
+            (VP (VBP have)
+              (S
+                (VP (TO to)
+                  (VP (VB wait)
+                    (ADVP (RB long))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP have)
+        (VP (VBN been)
+          (ADVP
+            (NP (CD 20) (NNS times))
+            (CC or)
+            (ADVP (RB so)
+              (PP (IN within)
+                (NP (DT the) (JJ last) (NN year))))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (ADVP (RB always))
+      (VP (VBP leave)
+        (PP (IN with)
+          (NP
+            (NP (DT a) (NN smile))
+            (PP (IN on)
+              (NP (PRP$ my) (NN face)))))))
+    (. .)))
+
+

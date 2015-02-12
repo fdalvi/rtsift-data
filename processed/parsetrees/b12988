@@ -1,0 +1,79 @@
+(ROOT
+  (NP
+    (NP (PRP$ My) (JJ favorite) (NN soul) (NN food))
+    (NP
+      (NP (JJ joint))
+      (PP (IN in)
+        (NP (NNP Vegas) (NNP !!))))))
+
+(ROOT
+  (NP
+    (NP (JJ Very) (JJ small) (NN restaurant))
+    (PP (IN with)
+      (NP (DT a) (JJ simple) (NN decor)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJS best) (NN seafood))
+    (VP (VBD gumbo)
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBP have)
+            (VP (VBN had)
+              (PP (IN in)
+                (NP (DT a)
+                  (ADJP (RB very) (JJ long))
+                  (NN time))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (S
+      (S
+        (NP (NNP Catfish))
+        (VP (VBZ is)
+          (ADVP (RB always))
+          (ADJP (JJ fresh))))
+      (CC and)
+      (S
+        (NP (DT the) (NN cornbread))
+        (VP (VBZ is)
+          (NP
+            (NP (NN pipin) (POS '))
+            (JJ hot) (NN !!)))))))
+
+(ROOT
+  (S
+    (VP (VB Make)
+      (ADJP (JJ sure)
+        (S
+          (VP (TO to)
+            (VP (VB check)
+              (PRT (RP out))
+              (NP (DT the) (JJ live) (NN jazz) (NNS bands))
+              (PP (IN throughout)
+                (NP (DT the) (NN week) (NN !!))))))))))
+
+(ROOT
+  (NP
+    (NP (NNP Perfect))
+    (VP (VBG setting)
+      (PP (IN for)
+        (NP
+          (NP (DT a) (NN glass))
+          (PP (IN of)
+            (NP
+              (NP (NN wine))
+              (, ,)
+              (NP (JJ good) (NN food))
+              (CC and)
+              (NP (JJ great) (NN music)))))))
+    (. !)))
+
+
+(ROOT
+  (ADJP (JJ closed)))
+
+

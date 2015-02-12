@@ -1,0 +1,182 @@
+(ROOT
+  (S
+    (S
+      (S
+        (NP (PRP I))
+        (VP (VBD went)
+          (S
+            (VP (VBG thru)
+              (NP (DT the) (NN drive) (NN thru))
+              (PP (IN during)
+                (NP (DT the) (NN afternoon) (NN lunch) (NN rush)))))))
+      (CC and)
+      (S
+        (NP (PRP they))
+        (VP (VBD were)
+          (ADJP (RB super) (JJ fast)))))
+    (, ,)
+    (NP (PRP I))
+    (ADVP (RB only))
+    (VP (VBD waited)
+      (PP (IN for)
+        (NP (CD 2) (JJ mins) (NNS :-RRB-))))))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP have)
+        (NP
+          (ADJP (RB really) (JJ fast))
+          (NN service))))
+    (CC and)
+    (S
+      (NP (DT the) (NN food))
+      (VP (VBZ is)
+        (ADVP (RB always))
+        (ADJP (JJ warm))
+        (S
+          (ADJP (RB always) (JJ friendly)
+            (SBAR
+              (S
+                (NP (PRP I))
+                (PP (IN like)
+                  (NP (DT the) (NN fact)))
+                (NP (DT the) (NN manger))
+                (ADVP (RB personally))
+                (VP
+                  (VP (VBZ takes)
+                    (NP (DT the) (NN food))
+                    (PP (TO to)
+                      (NP (PRP you))))
+                  (CC and)
+                  (VP (VBZ treats)
+                    (S
+                      (NP (PRP you))
+                      (ADJP (JJ awesome)))))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (S
+      (NP (PRP He))
+      (ADVP (RB also))
+      (VP (VBD gave)
+        (NP (PRP me))
+        (NP
+          (NP (DT a) (JJ whole) (NN bunch))
+          (PP (IN of)
+            (NP (NNS coupons))))))))
+
+
+(ROOT
+  (S
+    (VP (VB ok)
+      (SBAR (IN so)
+        (S
+          (NP (PRP I))
+          (VP (VBP understand)
+            (SBAR
+              (S
+                (NP (PRP you))
+                (VP (VBP get)
+                  (SBAR
+                    (WHNP (WP what))
+                    (S
+                      (S
+                        (NP (PRP you))
+                        (VP (VBP pay)
+                          (PP (IN for))))
+                      (CC and)
+                      (S
+                        (NP (JJ fast) (NN food))
+                        (VP (VBZ is) (RB n't)
+                          (NP
+                            (NP (CD 5) (NN star))
+                            (VP (VBG dining)
+                              (ADVP (CC but))))))))))))))
+      (: ...)
+      (S
+        (S
+          (NP
+            (NP (DT this) (NN visit))
+            (PP (TO to)
+              (NP (NN taco) (NN bell))))
+          (VP (VBD was)
+            (ADJP (JJ horrible))))
+        (S
+          (NP (PRP I))
+          (VP (VBD ordered)
+            (SBAR
+              (S
+                (NP
+                  (NP (DT the) (NN box) (NN meal))
+                  (CC and)
+                  (NP (PRP$ my) (CD two) (NNS tacos)))
+                (VP (VBD had)
+                  (NP
+                    (NP (DT a)
+                      (ADJP (RB barely) (DT any))
+                      (NN meat))
+                    (PP (IN in)
+                      (NP (PRP them)))))))))
+        (S
+          (S
+            (NP (PRP I))
+            (VP (VBD was) (RB n't)
+              (VP (VBG going)
+                (S
+                  (VP (TO to)
+                    (VP (VB pay)
+                      (PP (IN for)
+                        (NP (DT a) (NN cheese)
+                          (CC and)
+                          (NN lettuce) (NN taco)))))))))
+          (IN so)
+          (S
+            (NP (PRP I))
+            (VP (VBD asked)
+              (PP (IN for)
+                (NP (JJR more) (NN meat)))))
+          (CC and)
+          (S
+            (NP (PRP she))
+            (VP (VBD said)
+              (SBAR
+                (S
+                  (NP (PRP she))
+                  (VP (VBD had)
+                    (S
+                      (VP (TO to)
+                        (VP (VB charge)
+                          (NP (PRP me))
+                          (SBAR (IN so)
+                            (S
+                              (NP (PRP I))
+                              (VP (VBD asked)
+                                (PP (IN for)
+                                  (NP (DT a) (NN refund)))
+                                (PP (IN on)
+                                  (NP
+                                    (NP (NN top))
+                                    (SBAR
+                                      (WHPP (IN of)
+                                        (WHNP (WDT that)))
+                                      (S
+                                        (NP (PRP we))
+                                        (VP (VBD were)
+                                          (PP (IN in)
+                                            (NP
+                                              (NP (DT the) (NN drive))
+                                              (PP (IN thru)
+                                                (NP
+                                                  (NP (DT a) (NN total))
+                                                  (PP (IN of)
+                                                    (NP (CD 15-20) (NNS mins))))))))))))))))))))))))
+        (S
+          (NP (JJS worst) (NN taco) (NN bell))
+          (VP (VBP experience)
+            (ADVP (RB ever))))))))
+
+

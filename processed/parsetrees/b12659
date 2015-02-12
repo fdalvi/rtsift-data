@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP love)
+      (NP (DT this) (NN magazine)))
+    (. .)))
+
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ 's)
+      (NP (PRP$ their) (NN circulation)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Where))
+    (SQ (VBZ 's)
+      (NP (PRP$ their) (JJ postal) (NN receipts)))
+    (. ?)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBP are)
+        (PP (IN in)
+          (NP (PRP$ their) (NN target) (NN market)))))
+    (CC but)
+    (S
+      (NP (DT no) (NN one))
+      (VP (VBZ has)
+        (ADVP (RB ever))
+        (VP (VBN seen)
+          (NP (DT this) (NN magazine)))))
+    (. .)))
+
+

@@ -1,0 +1,304 @@
+(ROOT
+  (S
+    (NP (NNP Van) (NNP Galder))
+    (VP (VBZ uses)
+      (NP
+        (NP
+          (ADJP (JJ clean) (, ,) (JJ comfortable))
+          (NNS buses))
+        (PP (IN in)
+          (NP (JJ good) (JJ working) (NN order)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS drivers))
+    (VP (VBP are)
+      (ADJP
+        (ADJP (JJ courteous))
+        (, ,)
+        (ADJP (JJ helpful))
+        (, ,)
+        (CC and)
+        (ADJP (RB sometimes) (RB even) (JJ funny))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP are)
+      (ADJP (RB as) (JJ punctual)
+        (SBAR (IN as)
+          (S
+            (NP (PRP they))
+            (VP (MD can)
+              (VP (VB be))))))
+      (, ,)
+      (SBAR (IN although)
+        (S
+          (NP (PRP they))
+          (VP (MD can) (RB not)
+            (VP (VB control)
+              (NP (NN traffic)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT This) (NN experience))
+      (VP (VBD was)
+        (ADVP (RB way) (RBR better))
+        (PP (IN than)
+          (NP (JJ other) (NNS buses)))))
+    (NP (PRP I))
+    (VP (VBP have)
+      (VP (VBN ridden)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Van) (NNP Galder))
+    (VP (VBZ is)
+      (NP (DT a) (JJ good) (, ,) (JJ affordable) (NN way))
+      (S
+        (VP (TO to)
+          (VP (VB travel)
+            (PP (IN between)
+              (NP (NNP Madison)
+                (CC and)
+                (NNP Chicago)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Buy)
+      (NP
+        (NP (PRP$ your) (NNS tickets))
+        (PP (IN at)
+          (NP (DT the) (NNP Memorial) (NNP Union))))
+      (S
+        (VP (TO to)
+          (VP (VB get)
+            (NP (DT the) (NNP Wisconsin) (NN student) (NN discount))))))
+    (. .)))
+
+
+(ROOT
+  (FRAG
+    (NP (NNP Clean))
+    (, ,)
+    (PP
+      (ADVP (RB reliably))
+      (IN on)
+      (NP
+        (NP (NN time) (NN bus) (NN service))
+        (PP (IN between)
+          (NP (NNP Madison)
+            (CC and)
+            (NNP Chicago)))
+        (PP (IN for)
+          (NP
+            (NP
+              (QP (RB just) ($ $) (CD 27)))
+            (NP (DT each) (NN way))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNS Beats))
+    (VP (VBG driving)
+      (PP (IN by)
+        (NP (DT a) (JJ long) (NN shot))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (MD can)
+      (VP
+        (VP (VB pay)
+          (PP (IN on)
+            (NP (NN board))))
+        (CC or)
+        (VP (VB buy)
+          (NP (NNS tickets))
+          (PP (IN at)
+            (NP
+              (NP (NNP UW) (NNP Memorial) (NNP Union))
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (VBP are)
+                    (ADJP (JJ good)
+                      (PP (IN for)
+                        (NP (DT any) (NN departure))))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD needed)
+        (S
+          (VP (TO to)
+            (VP (VB get)
+              (PP (IN from)
+                (NP
+                  (NP (NNP O'Hare))
+                  (PP (IN in)
+                    (NP (NNP Chicago)))))
+              (PP (TO to)
+                (NP (NNP Madison))))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBD did) (RB n't)
+        (ADVP (RB really))
+        (VP (VB feel)
+          (PP (IN like)
+            (S
+              (VP
+                (VP (VBG renting)
+                  (NP (DT a) (NN car)))
+                (, ,)
+                (CC or)
+                (VP (VBG driving))
+                (, ,)
+                (CC or)
+                (VP (VBG getting)
+                  (VP (VBN fined)
+                    (NP ($ $) (CD 30))
+                    (PP (IN for)
+                      (S
+                        (ADVP (RB accidentally))
+                        (VP (VBG missing)
+                          (NP
+                            (NP (CD one))
+                            (PP (IN of)
+                              (NP
+                                (NP (DT those) (JJ dumb) (CD 50) (NN cent) (NNS tollbooths))
+                                (SBAR
+                                  (WHNP (WDT that))
+                                  (S
+                                    (VP (VBP are)
+                                      (VP (VBN spaced)
+                                        (PRT (RP out))
+                                        (PP (IN about)
+                                          (NP
+                                            (NP (DT every) (CD 20) (NNS miles))
+                                            (PRN (-LRB- -LRB-)
+                                              (SBAR (IN like)
+                                                (S
+                                                  (NP (PRP I))
+                                                  (VP (VBD did)
+                                                    (NP
+                                                      (NP (DT the) (JJ last) (NN time))
+                                                      (SBAR
+                                                        (S
+                                                          (NP (PRP I))
+                                                          (VP (VBD drove)
+                                                            (PP (IN from)
+                                                              (NP (NNP Chicago)))
+                                                            (PP (TO to)
+                                                              (NP (NNP Madison))))))))))
+                                              (-RRB- -RRB-))))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S (IN So)
+    (NP (PRP I))
+    (VP (VBD took)
+      (NP (DT the) (NN bus)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 'm)
+        (ADJP
+          (NP (DT a) (RB little))
+          (JJ old)
+          (PP (IN for)
+            (NP (DT the) (NN bus))))))
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (ADJP
+          (ADJP (JJ cheap))
+          (, ,)
+          (ADJP
+            (ADJP (JJ fast))
+            (PRN (-LRB- -LRB-)
+              (NP (CD 3) (NNS hours))
+              (-RRB- -RRB-)))
+          (CC and)
+          (ADJP (JJ clean)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (ADVP (NN sort) (IN of))
+      (VP (VBD needed)
+        (S
+          (VP (TO to)
+            (VP (VB pee)
+              (PP (IN at)
+                (PP (IN about)
+                  (NP (DT the) (CD 2:30) (NN point)))))))))
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBD held)
+        (NP (PRP it))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Sparking)
+        (ADJP (JJ clean)
+          (CC or)
+          (RB not))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (ADVP (RB WAY))
+      (ADJP (RB too) (JJ old)
+        (S
+          (VP (TO to)
+            (VP (VB pee)
+              (PP (IN on)
+                (NP (DT a) (NN bus))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (VP (VBG taking)
+        (NP (DT the) (JJ same) (NN bus))
+        (ADVP (RB back)
+          (PP (TO to)
+            (NP (NNP Chicago))))
+        (PP (IN in)
+          (NP (DT a) (JJ few) (NNS days)))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP I))
+    (VP (MD will)
+      (VP (VB pee)
+        (SBAR (IN before)
+          (S
+            (NP (PRP I))
+            (VP (VBP get)
+              (PRT (RP on)))))))
+    (. .)))
+
+

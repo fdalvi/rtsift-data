@@ -1,0 +1,330 @@
+(ROOT
+  (S
+    (NP (DT The) (NNPS Commons))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN coffee) (NN shop)
+          (CC and)
+          (NN christian) (NN bookstore))
+        (VP (VBN located)
+          (PP (IN on)
+            (NP
+              (NP (DT the) (NN edge))
+              (PP (IN of)
+                (NP (NNP Gilbert)
+                  (CC and)
+                  (NNP Chandler))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN building))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN AWESOMELY))
+        (VP (VBN designed)
+          (NP (NN place))
+          (PP (IN with)
+            (NP
+              (NP (NNS tons))
+              (PP (IN of)
+                (NP (NN glass)))))
+          (PRN (-LRB- -LRB-)
+            (PP (VBG including)
+              (PP
+                (NP
+                  (NP (DT an) (JJ entire) (NN wall))
+                  (PP (IN of)
+                    (NP (NN roll))))
+                (IN up)
+                (NP
+                  (NP (NN glass))
+                  (`` ``)
+                  (NP (NN garage) (NNS doors))
+                  ('' ''))))
+            (-RRB- -RRB-))
+          (SBAR (IN that)
+            (S
+              (VP (VBZ allows)
+                (S
+                  (NP
+                    (NP (DT the) (NN outside))
+                    (CC and)
+                    (NP (DT the) (NN inside)))
+                  (VP (TO to)
+                    (VP (VB intermingle))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN roofline))
+    (ADVP (RB alone))
+    (VP (VBZ is)
+      (NP (NN reason)
+        (S
+          (VP (TO to)
+            (VP (VB check)
+              (NP (PRP it))
+              (PRT (RP out))))))
+      (SBAR (IN as)
+        (S
+          (S
+            (NP (PRP it))
+            (VP (VBZ has)
+              (NP (DT a)
+                (ADJP (RB very) (JJ cool))
+                (JJ gull) (NN wing) (NN style))))
+          (CC and)
+          (S
+            (NP (PRP it))
+            (VP (VBZ looks)
+              (ADJP (JJ amazing)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN coffee))
+      (VP (VBZ is)
+        (PP (IN from)
+          (NP (NNP Starbucks) (NNP brewed)))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBP do)
+        (NP (DT a) (JJ great) (NN job))
+        (PP (IN with)
+          (NP
+            (NP (DT all))
+            (PP (IN of)
+              (NP (DT the) (JJ different) (NNS drinks)))))
+        (SBAR (IN that)
+          (S
+            (NP (PRP one))
+            (VP (MD would)
+              (VP (VB expect)
+                (PP (IN at)
+                  (NP (DT a) (JJ upscale) (NN coffee) (NN shop)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN space))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (JJ open))
+        (, ,)
+        (ADJP (JJ airy))
+        (, ,)
+        (CC and)
+        (ADJP (JJ modern))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (MD could)
+      (VP (VB seat)
+        (ADVP
+          (NP
+            (QP (RB about) (CD 100))
+            (NNS people))
+          (RB inside))
+        (PP (IN by)
+          (NP
+            (NP (DT the) (NN look))
+            (PP (IN of)
+              (NP (PRP it)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Free) (NNP Wi-fi))
+      (CC and)
+      (NP
+        (NP (DT a) (NN bank))
+        (PP (IN of)
+          (NP
+            (NP (NNS iMacs))
+            (PP (IN for)
+              (NP (NN customer) (NN use)))))))
+    (VP (VBP are)
+      (ADVP (RB also))
+      (ADJP (JJ available)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN Although)
+      (S
+        (NP (PRP it))
+        (VP (VBZ is)
+          (NP
+            (NP (SYM a))
+            (PP (IN on)
+              (NP (DT a) (NN church) (NN campus)))))))
+    (, ,)
+    (NP
+      (NP (DT the) (NN building))
+      (SBAR
+        (S
+          (NP (PRP itself))
+          (VP (VBZ is)
+            (ADVP (RB completely))))))
+    (VP
+      (VP (VBP stand)
+        (ADVP (RB alone)))
+      (CC and)
+      (VP (VBZ is)
+        (VP (VBN run)
+          (ADVP (RB independently)))))
+    (. .)))
+
+(ROOT
+  (S (-LRB- -LRB-)
+    (NP (NNP Although) (PRP it))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ great) (NN church))
+        (PP (IN on)
+          (NP
+            (NP (PRP it) (POS 's))
+            (JJ own)))))
+    (-RRB- -RRB-) (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT The) (NN common))
+    (VP (VBP have)
+      (NP
+        (NP
+          (NP (DT a) (JJ splendid) (NN soy) (NN chi) (NN tea))
+          (VP (VBN iced)
+            (PP (IN in)
+              (NP (DT the) (NN summer)))))
+        (, ,)
+        (CC and)
+        (NP
+          (NP (DT a) (JJ warm) (NN one))
+          (PP (IN in)
+            (NP (DT the) (NN winter))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (NNP A))
+    (VP (MD must)
+      (VP (VB try)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (DT The) (NNPS Commons))
+    (VP (VBZ makes)
+      (NP
+        (NP (JJ amazing) (NNS coffees))
+        (, ,)
+        (NP (NNS teas))
+        (, ,)
+        (CC and)
+        (NP
+          (NP (NN fruit) (NNS smoothies))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBP are) (RB not)
+                (ADJP (JJ full)
+                  (PP (IN of)
+                    (NP (NNP HFCS))))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN staff))
+      (VP (VBZ is)
+        (ADJP (JJ personable))))
+    (CC and)
+    (S
+      (NP (DT the) (NNS prices))
+      (VP (VBP are)
+        (ADJP (RB just) (JJ right))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB also))
+    (VP (VBP have)
+      (NP (NNS sandwiches)
+        (CC and)
+        (NNS cookies)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (JJ Great) (NN atmosphere))
+    (S
+      (VP (TO to)
+        (VP
+          (VP
+            (ADVP (RB just))
+            (VB hang)
+            (PRT (RP out))
+            (PP (IN between)
+              (NP (NNS services))))
+          (CC and)
+          (VP (VB fellowship)
+            (PP (IN with)
+              (NP (NNS friends)))))))
+    (. !)))
+
+
+(ROOT
+  (NP
+    (NP (NNP Great) (, ,) (NNP personable))
+    (, ,)
+    (CC &)
+    (NP
+      (ADJP (JJ friendly))
+      (NN staff))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (DT The) (JJ perfect) (JJ dry) (NN cappuccino))
+    (QP (CD ;-RRB-) (CD 3))
+    (. .)))
+
+(ROOT
+  (NP ('' Bright)
+    (CC &)
+    (NP
+      (NP (JJ sunny) (NN atmosphere))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBZ 's)
+            (UCP
+              (ADJP (JJ perfect)
+                (PP (IN for)
+                  (NP (NN coffee) (NNS chats))))
+              (CC or)
+              (VP (VBG hanging)
+                (ADVP (RB solo))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Will))
+    (VP
+      (ADVP (RB definitely))
+      (VB be)
+      (VP
+        (ADVP (RB back))
+        (VBN :-RRB-)))))
+
+

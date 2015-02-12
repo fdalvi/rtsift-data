@@ -1,0 +1,81 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (JJ great) (NN variety))
+      (PP (IN of)
+        (NP
+          (NP (JJ soft) (NN rock))
+          (PP (IN from)
+            (NP (DT the) (CD 70))))))
+    (VP (VBZ 's)
+      (PP (TO to)
+        (NP (NN today))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT All))
+      (PP (IN of)
+        (NP (DT the) (NNP DJs) (POS '))))
+    (VP (VBP are)
+      (ADJP (JJ bubbly)
+        (CC and)
+        (JJ full))
+      (PP (IN of)
+        (NP (NN life)))
+      (, ,)
+      (VP (VBG giving)
+        (NP (PRP you))
+        (NP
+          (NP (PDT all) (DT the) (NN information))
+          (SBAR
+            (S
+              (NP (PRP you))
+              (VP (VBP need)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ major) (NN disappointment))
+      (NP (DT this) (NN year))
+      (PP (IN with)
+        (NP (PRP$ your) (NNS christmas))))
+    (VP (VBZ musioc.Its)
+      (NP (DT the) (JJ same) (NNS loops))
+      (ADVP (RP over)
+        (CC and)
+        (RP over)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBD used)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (UCP
+                (NP
+                  (NP (DT some) (NN fun)
+                    (CC and)
+                    (JJ different) (NN variety))
+                  (PP (CC but)
+                    (NP (PRP$ its)
+                      (NX
+                        (NX
+                          (NP (DT the) (JJ same) (NNS loops))
+                          (PP (IN over)))
+                        (CC and)))))
+                (CC and)
+                (ADVP (RB again))))))))
+    (: -)
+    (S
+      (NP (PRP I))
+      (VP (VBD found)
+        (NP (DT a) (JJ different) (NN station))))))
+
+

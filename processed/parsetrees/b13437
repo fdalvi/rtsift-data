@@ -1,0 +1,254 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP Fry) (POS 's))
+      (NNP Pharmacy))
+    (VP (VBZ is)
+      (ADJP (RB SOOOO) (JJ slow)))
+    (: ...)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP have)
+        (NP
+          (NP (JJ great) (NNS prices))
+          (PP (VBN compared)
+            (PP (TO to)
+              (NP (NNP CVS)))))))
+    (CC but)
+    (S
+      (NP
+        (NP (DT the) (NN service))
+        (PP (IN at)
+          (NP (NNP CVS))))
+      (VP (VBZ is)
+        (ADJP (RB so) (RB much) (JJR better))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNS Frys))
+      (VP (VBZ does) (RB n't)
+        (VP (VB go)
+          (NP (DT the) (JJ extra) (NN mile))
+          (S
+            (VP (TO to)
+              (VP (VB help)
+                (S
+                  (NP (PRP you))
+                  (VP (VB get)
+                    (S
+                      (NP (DT the) (NN prescription))
+                      (ADJP (JJ refilled)))))))))))
+    (: -)
+    (S
+      (NP (PRP they))
+      (VP (VBP make)
+        (SBAR
+          (S
+            (NP (PRP you))
+            (VP (VBP do)
+              (NP (PDT all) (DT the) (NN work)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP CVS))
+    (VP (VBD was)
+      (ADJP (JJ willing)
+        (S
+          (VP (TO to)
+            (VP (VB make)
+              (NP (PDT all) (DT the) (JJ necessary) (NNS contacts)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Also))
+    (, ,)
+    (SBAR (IN if)
+      (S
+        (NP (DT the) (NN prescription))
+        (VP (VBZ is)
+          (ADJP (JJ pricey)))))
+    (NP (PRP they))
+    (VP (VBP do) (RB n't)
+      (VP (VB fill)
+        (NP (PRP it))
+        (SBAR (IN until)
+          (S
+            (NP (PRP you))
+            (VP (VBP ask)
+              (PP (IN for)
+                (NP
+                  (NP (PRP it))
+                  (ADVP (RB again))
+                  (NP (DT a) (JJ second) (NN time)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB just))
+    (VP (VBP assume)
+      (SBAR
+        (S
+          (NP (PRP you))
+          (VP (VBP do) (RB n't)
+            (VP (VB want)
+              (NP (PRP it))
+              (SBAR (IN because)
+                (S
+                  (NP (PRP it))
+                  (VP (VBZ 's)
+                    (ADVP (RBR more) (IN than))
+                    (NP (DT the)
+                      (ADJP ($ $) (CD 4) (JJ cheap))
+                      (NNS prescriptions))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS lines))
+      (PP (IN for)
+        (NP (DT the) (NN pharmacy))))
+    (VP (VBP are)
+      (ADJP
+        (ADJP (JJ ridiculous))
+        (: -)
+        (CC and)
+        (ADJP (RB very) (JJ slow))))
+    (. !)))
+
+(ROOT
+  (S
+    (ADVP (RB As) (RB long)
+      (SBAR (IN as)
+        (S
+          (NP (PRP you))
+          (VP (VBP have)
+            (ADVP
+              (ADVP (IN at) (JJS least))
+              (NP (CD 30) (NNS minutes)))
+            (S
+              (VP (TO to)
+                (VP (VB wait)
+                  (PP (IN in)
+                    (NP (NN line))))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (NP
+        (NP (NNP ok) (. .))
+        (SBAR
+          (S
+            (PP (IN For)
+              (NP (DT the) (JJR lower) (NN pharmacy) (NN pricing)))
+            (NP (PRP you))
+            (VP (VBP have)
+              (S
+                (VP (TO to)
+                  (VP (VB weigh)
+                    (NP (DT the) (JJ other) (NNS factors))
+                    (PP (IN in)
+                      (ADVP (RB as) (RB well)))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S (RB Not)
+      (NP (PRP$ my))
+      (VP (VBP go)
+        (PP (TO to)
+          (NP (NN grocery) (NN store)))))
+    (, ,)
+    (CC but)
+    (S
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP I))
+          (VP (VBP need)
+            (NP
+              (NP (DT a) (JJ quick) (NN fix))
+              (PP (IN for)
+                (NP (DT a) (NN dessert) (NN craving)))))))
+      (NP (PRP I))
+      (VP (VBP come)
+        (ADVP (RB here))))
+    (. !)))
+
+(ROOT
+  (NP
+    (NP
+      (NP (PRP They))
+      (ADVP (RB usually))
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP (PRP I))
+          (VP (VBP 'm)
+            (VP (VBG looking)
+              (PP (IN for)
+                (NP
+                  (NP (NN wether))
+                  (SBAR
+                    (S
+                      (NP (PRP it))
+                      (VP (VB be)
+                        (NP
+                          (NP (DT a) (JJ certain) (NN chocolate) (NN bar))
+                          (, ,)
+                          (CC or)
+                          (NP (DT a)
+                            (ADJP (JJ tasty))
+                            (NN cream) (NN cheese)))))))))))))
+    (VP (VBN filled)
+      (S
+        (ADJP (JJ croissant))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN Like)
+        (NP (JJS most) (NN grocery) (NNS stores)))
+      (NP
+        (NP (DT the) (NN cashier))
+        (PP (TO to)
+          (NP (NN customer) (NN ratio))))
+      (VP (VBZ sucks)))
+    (, ,)
+    (CC but)
+    (FRAG (RB not)
+      (ADJP (RB as) (JJ bad)
+        (PP (IN as)
+          (NP (NNP Walmart)))))
+    (. !)))
+
+(ROOT
+  (S
+    (SBAR (IN Since)
+      (S
+        (NP (PRP I))
+        (VP (VBP 'm)
+          (NP (DT the) (NNS duchess)))))
+    (NP (PRP you))
+    (ADVP (RB already))
+    (VP (VBP know)
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (MD 'll)
+            (VP (VB be)
+              (ADVP (RB back))
+              (PP (IN for)
+                (NP (JJR more) (NN nom) (NNS noms))))))))
+    (. .)))
+
+

@@ -1,0 +1,256 @@
+(ROOT
+  (NP
+    (NP ($ $) (CD 7))
+    (PP (IN per)
+      (NP (NN hour)))
+    (PP (IN for)
+      (NP (NN racquetball)))
+    (PP (IN with)
+      (NP
+        (NP (NN equipment))
+        (PP (IN for)
+          (NP (CD 2) (NNS players)))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Sweet))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Thank)
+      (S
+        (NP (PRP you))
+        (NP
+          (NP (NNP Chunk) (NNP Minker))
+          (PP (IN for)
+            (NP
+              (NP
+                (NP (PRP$ your) (JJ apparent) (NNS sports))
+                (ADJP (JJ complex) (JJ nestled))
+                (ADVP (RB just) (JJ east)))
+              (PP (IN of)
+                (NP (JJ old) (NN downtown))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN With)
+      (NP
+        (NP (PRP$ my) (NN brother))
+        (PP (IN in)
+          (NP (NN town)))))
+    (, ,)
+    (S
+      (NP (PRP we))
+      (VP (VBD drove)
+        (PP (IN from)
+          (NP (NNP Rec) (NN center)))
+        (, ,)
+        (PP (TO to)
+          (NP (NNP YMCA)))
+        (, ,)
+        (S
+          (VP (TO to)
+            (VP (VB finally)
+              (NP (DT the) (NNP Chuck) (NNP Minker) (NNPS Sports) (NNP Complex)))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP 'm)
+        (ADJP (JJ glad)
+          (SBAR
+            (S
+              (NP (PRP we))
+              (VP (VBD did)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD were)
+      (NP
+        (NP (DT the) (JJ only) (NN game))
+        (PP (IN in)
+          (NP (NN town)))
+        (, ,)
+        (VP (VBG providing)
+          (NP
+            (NP (PDT all) (DT the) (NN gear))
+            (SBAR
+              (S
+                (NP (PRP we))
+                (VP (VBD needed)
+                  (S
+                    (VP (TO to)
+                      (VP (VB get)
+                        (S
+                          (VP (VBG going)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN price))
+      (VP (VBD was)
+        (ADJP (JJ right))))
+    (CC and)
+    (S
+      (NP (DT no) (NNS forms))
+      (VP (VBD were)
+        (VP (VBN filled)
+          (PRT (RP out)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP 're)
+          (VP (VBN used)
+            (PP (TO to)
+              (NP
+                (NP (DT a) (CD 24) (NNP Hour) (NNP Fitness))
+                (CC and)
+                (NP
+                  (NP
+                    (NP (NNP Bally) (POS 's))
+                    (ADJP (, ,) (RB as) (JJ opposed)
+                      (PP (TO to)
+                        (NP (DT a) (JJ municipally) (NN run))))
+                    (NN fitness) (NN center))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (VBZ 's) (RB not)
+                        (VP (VBN located)
+                          (PP (IN in)
+                            (NP (DT a) (JJ shiny) (JJ new) (NN suburb))))))))))))))
+    (, ,)
+    (ADVP (RB then))
+    (VP (VB remove)
+      (NP (CD 1) (NN star)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Being)
+        (ADJP (JJ urban-inclined))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (VP (VBN used)
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NN idea))
+            (PP (IN of)
+              (NP
+                (NP (DT a) (JJ few) (JJ topical) (NNS blemishes))
+                (CC and)
+                (NP (DT that) (JJ lived-in) (NN odor))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB also))
+    (VP (VBP have)
+      (NP
+        (NP (NN basketball) (NNS courts))
+        (, ,)
+        (NP (DT a) (NN workout) (NN gym))
+        (, ,)
+        (CC and)
+        (NP
+          (NP (RB plenty))
+          (PP (IN of)
+            (NP
+              (NP (JJ other) (NNS corridors))
+              (VP (VBG containing)
+                (NP
+                  (SBAR
+                    (WHNP (WP who))
+                    (S
+                      (VP (VBZ knows)
+                        (WHNP (WP what)))))
+                  (: ...)
+                  (NP
+                    (NP (DT a) (NN pool))
+                    (ADVP (RB maybe))))))))))
+    (. ?)))
+
+
+(ROOT
+  (FRAG
+    (NP
+      (NP ($ $) (CD 130))
+      (PP (IN for)
+        (NP (DT a) (CD one) (NN year)))
+      (PP (IN of)
+        (NP
+          (NP (NN gym) (NN membership))
+          (, ,)
+          (NP (NNS classes))
+          (, ,)
+          (NP (NN raquetball))
+          (, ,)
+          (CC and)
+          (NP
+            (NP (DT a) (NN suana))
+            (PP (IN in)
+              (NP (DT the) (NN locker) (NN room)))))))
+    (: ...)
+    (S
+      (NP (DT That))
+      (VP (VBZ sounds)
+        (PP (IN like)
+          (NP (DT a) (JJ good) (NN deal)))
+        (PP (TO to)
+          (NP (PRP me)))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's)
+        (NP
+          (NP (DT a) (JJ tiny) (NN community) (NN gym))
+          (PP (IN with)
+            (NP (VBN limited) (NN equipment))))))
+    (CC but)
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's)
+        (ADJP (JJ cheap))))
+    (CC and)
+    (S
+      (S
+        (NP (EX there))
+        (VP (VBP are)
+          (NP
+            (NP (DT no) (NNS contracts))
+            (VP (VBN included)))))
+      (CC and)
+      (S
+        (NP (PRP$ your) (NN money))
+        (VP (MD will)
+          (VP (VB be)
+            (VP (VBG going)
+              (PP (TO to)
+                (NP
+                  (NP (DT the) (NN community))
+                  (CC and)
+                  (RB not)
+                  (NP (`` ``) (DT The) (NN Man) ('' '')))))))))
+    (: ...)))
+
+
+(ROOT
+  (NP (JJ Vball) (NN baby) (. !)))
+
+

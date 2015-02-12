@@ -1,0 +1,174 @@
+(ROOT
+  (S
+    (NP (NNP Quick))
+    (VP (VBP place)
+      (S
+        (VP (TO to)
+          (VP (VB grab)
+            (NP (DT a) (NN bite))
+            (PP (IN during)
+              (NP (NN lunch)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (LST (LS 2) (. .))
+    (VP (VB decent)
+      (NP (NN service)))
+    (. .)))
+
+(ROOT
+  (S
+    (LST (LS 3) (. .))
+    (ADVP (RB decently))
+    (VP (VB clean)
+      (NP (NN place)))
+    (. .)))
+
+(ROOT
+  (NP (RB Just) (VB OK)))
+
+
+(ROOT
+  (S
+    (NP (NNP Great))
+    (VP (VBP place)
+      (S
+        (VP (TO to)
+          (VP (VB eat)
+            (NP (NN lunch))))))))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD had)
+        (ADVP (RB never))
+        (VP (VBN been)
+          (PP (TO to)
+            (NP (DT an) (NNP Arizona) (NNP Blimpie))))))
+    (, ,) (IN so)
+    (S
+      (NP (PRP I))
+      (VP (VBD dropped)
+        (PP (IN in)
+          (NP (RB here)))
+        (NP (DT this) (NN morning))
+        (PP
+          (NP (DT a) (JJ little))
+          (IN after)
+          (NP (CD 11)))
+        (S
+          (VP (TO to)
+            (VP (VB see)
+              (NP (NN wuzup)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ good-sized) (NN place))
+        (, ,)
+        (NP
+          (NP (VBG seating))
+          (PP (IN about)
+            (NP (CD 60))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBD were) (RB n't)
+      (NP
+        (NP (DT any) (NNS booths))
+        (PRN (, ,)
+          (S
+            (NP (CC but)
+              (NP (DT the) (NN table) (NN seating))
+              (CC &)
+              (NP (DT the) (NN dining) (NN room)))
+            (ADVP (RB overall))
+            (VP (VBD were)
+              (ADJP (JJ comfortable)))))
+        (CC &)
+        (NP (JJ pleasant))
+        (, ,)
+        (PP (IN with)
+          (NP
+            (NP (DT the) (NN place))
+            (VP (VBG getting)
+              (ADJP (RB rather) (JJ busy)
+                (PP (IN by)
+                  (NP (CD 11:20)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD ordered)
+      (NP
+        (NP (DT a) (CD 12) ('' '') (NN Hot) (NN Pastrami))
+        (PP (IN on)
+          (NP
+            (NP (JJ Whole) (NN Wheat))
+            (PRN (-LRB- -LRB-)
+              (NP ($ $) (CD 8.09))
+              (-RRB- -RRB-))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD came)
+      (SBAR (IN with)
+        (S
+          (NP
+            (NP (NNS slices))
+            (PP (IN of)
+              (NP
+                (NP (JJ Swiss) (JJ Cheese) (NN onboard))
+                (CC &)
+                (NP (DT the) (JJ open) (NN face)))))
+          (VP (MD may)
+            (VP (VB have)
+              (VP (VBN been)
+                (VP (VBN dipped)
+                  (ADVP
+                    (ADVP (RB just) (RB quickly))
+                    (, ,)
+                    (ADVP (IN at) (JJS least)))
+                  (PP (IN on)
+                    (NP (CD one) (NN side))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT This) (NN place))
+      (VP (VBZ is)
+        (NP
+          (NP (DT no) (NNP Capriotti))
+          (VP (VBZ 's)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP
+        (NP (PRP$ my) (NN sub))
+        (CC and)
+        (NP (DT the) (NN service)))
+      (VP (VBD were) (DT both)
+        (ADJP (`` ``) (JJ A-OK))
+        ('' '')))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP :--RRB-) (NNP Open) (NNP Monday))
+    (PP (IN through)
+      (NP (NNP Friday)))
+    (. .)))
+
+

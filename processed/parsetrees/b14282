@@ -1,0 +1,88 @@
+(ROOT
+  (S
+    (VP (VB Went)
+      (ADVP (RB here))
+      (PP (IN after)
+        (NP
+          (NP (DT the) (NNP Yelp) (NNP Western) (NN Adventure))
+          (SBAR (IN as)
+            (S
+              (NP (PRP we))
+              (VP (VBD received)
+                (NP
+                  (NP ($ $) (CD 10))
+                  (PP (IN in)
+                    (NP (NN slot) (NN play))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ My) (JJ main) (NN gripe))
+      (PP (IN about)
+        (NP (DT this) (NN casino))))
+    (VP (VBZ is)
+      (NP (DT the) (NN smoke)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (SBAR (IN so)
+        (S
+          (NP (JJ much) (NN cigarette))
+          (VP (VBP smoke)
+            (NP (VBG lingering))
+            (PP (IN in)
+              (NP (DT this) (NN casino)))
+            (, ,)
+            (SBAR (IN if)
+              (S
+                (NP (PRP you))
+                (VP (VBP are) (RB not)
+                  (NP
+                    (NP (DT a) (NN smoker))
+                    (SBAR
+                      (S
+                        (NP (PRP you))
+                        (VP (MD will)
+                          (VP (VB leave)
+                            (S
+                              (VP (VBG smelling)
+                                (PP (IN like)
+                                  (NP (CD one)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (JJ Other))
+        (PP (IN than)
+          (NP (DT that)))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (NP (PRP$ your) (JJ average) (NN casino)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NN Nothing))
+    (VP
+      (VP (VBP like)
+        (NP (NNP Vegas)))
+      (, ,)
+      (CC but)
+      (VP (MD will)
+        (VP (VB do)
+          (SBAR (IN if)
+            (S
+              (NP (PRP you))
+              (VP (VBP do) (RB not)
+                (VP (VB mind)
+                  (NP (PDT all) (DT the) (NN smoke)))))))))
+    (. .)))
+
+

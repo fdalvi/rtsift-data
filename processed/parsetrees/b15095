@@ -1,0 +1,163 @@
+(ROOT
+  (S
+    (NP (NNP Fiddlesticks) (NNP Scottsdale))
+    (VP (VBZ has)
+      (NP
+        (NP
+          (NP (JJ similar) (NNS attractions))
+          (PP (IN as)
+            (NP (DT the) (NNP Tempe) (NN location))))
+        (, ,)
+        (CC and)
+        (NP
+          (NP (NN opother) (NN amusement) (NNS parks))
+          (: --)
+          (NP
+            (NP (NN mini-golf))
+            (, ,)
+            (NP (NNS go-karts))
+            (, ,)
+            (NP (NN bumper) (NNS boats))
+            (, ,)
+            (NP (JJ batting) (NNS cages))
+            (, ,)
+            (NP (DT an) (NN arcade))
+            (, ,)
+            (CC and)
+            (NP (DT a) (NN snack) (NN bar))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP (NNP Fiddlesticks) (NNP Scottsdale) (NNP ALSO))
+    (VP (VBZ has)
+      (NP
+        (NP (NNP Atlantis) (NNP Laser) (NNP Odyssey))
+        (: -)
+        (NP (DT a) (JJ two-story) (JJ laser-tag) (NN maze))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Also))
+    (, ,)
+    (NP (NNP Scottsdale))
+    (VP (VBZ has)
+      (NP
+        (NP (DT a) (JJ 7-ride) (NNP Kiddie) (NNP Land))
+        (PP (VBG including)
+          (NP
+            (NP (`` ``) (JJ Rookie) ('' '') (NNS go-karts))
+            (, ,)
+            (NP (NN roller) (NN coaster))
+            (, ,)
+            (CC and)
+            (NP (NN bumper) (NNS cars))))))
+    (. .)))
+
+(ROOT
+  (NP (DT A) (JJ genuine) (NN fun) (NN time) (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Growing)
+        (PRT (RP up))
+        (PP (IN in)
+          (NP (NNP Scottsdale)))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD attended)
+      (NP (JJ many)
+        (NP
+          (NP (DT a) (NN birthday) (NN party)
+            (CC or)
+            (NN orthodontist) (NN party))
+          (-LRB- -LRB-)
+          (NP
+            (NP (NNP Dr.) (NNP Steig))
+            (NP (NN anyone))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (VP (VB -RRB-)
+      (PP (IN at)
+        (NP (DT this) (NN place))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (ADVP (RB always))
+      (NP (DT a) (NN fun) (NN time))
+      (PP (IN with)
+        (NP
+          (NP (DT the) (JJ mini) (NN golf))
+          (, ,)
+          (NP (NN bumper) (NNS boats))
+          (, ,)
+          (NP (JJ arcade) (NNS games))
+          (, ,)
+          (CC and)
+          (NP (DT the) (NNS go-karts)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN laser) (NN tag))
+    (VP (VBD was)
+      (ADJP (RB pretty) (JJ awesome)
+        (PP (IN as)
+          (ADVP (RB well))))
+      (PP (IN despite)
+        (NP
+          (NP (PRP$ my) (NN lack))
+          (PP (IN of)
+            (NP
+              (NP (NN skill))
+              (, ,)
+              (NP (NN haha)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP (DT a) (JJ good) (NN place)
+        (S
+          (VP (TO to)
+            (VP (VB take)
+              (NP (DT the) (NNS kids))
+              (PP (IN during)
+                (NP
+                  (NP (DT the) (JJR cooler) (NNS months))
+                  (PP (IN of)
+                    (NP (DT the) (NN year)))))
+              (, ,)
+              (SBAR (IN as)
+                (S
+                  (NP
+                    (NP (DT a) (NN lot))
+                    (PP (IN of)
+                      (NP (DT the) (NNS attractions))))
+                  (VP (VBP are)
+                    (ADJP (JJ outdoors))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP
+        (ADJP (JJ good))
+        (: ...)
+        (ADJP (RB not) (JJ great))
+        (, ,)
+        (CC but)
+        (ADJP (JJ good))))
+    (. .)))
+
+

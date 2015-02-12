@@ -1,0 +1,104 @@
+(ROOT
+  (FRAG (RB Not)
+    (ADJP (JJ bad))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Small))
+    (VP (VBP place)
+      (PP (IN with)
+        (NP
+          (NP (DT a) (JJ good) (NN selection))
+          (CC and)
+          (NP (JJ tasty) (NN food)))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Nice) (NNS people))
+    (, ,)
+    (NP (JJ good) (NN price))
+    (. .)))
+
+
+(ROOT
+  (S (: ...)
+    (NP (CD .) (. .))
+    (VP (VBD closed))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP (NNP D))
+    (: :)
+    (S
+      (S
+        (S
+          (NP (POS ')))
+        (NP (PRP It))
+        (ADVP (RBS most) (RB definitely))
+        (VP (VBD was) (RB n't)
+          (ADJP (RB really) (JJ good))))
+      (, ,)
+      (CC but)
+      (S
+        (NP (EX there))
+        (VP (VBZ 's)
+          (NP
+            (NP (NN something))
+            (PP (IN about)
+              (NP
+                (NP (NNP MSG)
+                  (CC and)
+                  (NNP Sodium) (NNP saturated))
+                (, ,)
+                (NP
+                  (NP (JJ super-Americanized) (, ,)
+                    (ADJP (JJ low) (NN quality))
+                    (JJ Chinese) (NN food))
+                  (PP (IN in)
+                    (NP
+                      (NP (DT a) (NN buffet))
+                      (VP (VBG setting)
+                        (PP (IN for)
+                          (NP
+                            (QP (JJR less) (IN than) (CD 10))
+                            (NNS bucks))))))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (ADVP (RB just))
+                      (VP (VBZ hits)
+                        (NP (DT the) (NN spot))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (SBAR (RB Even) (IN though)
+        (S
+          (NP (PRP it))
+          (VP (VBD had)
+            (VP (VBN been)
+              (PP (IN over)
+                (NP (DT a) (NN year)))
+              (PP (IN since)
+                (NP (PRP$ my) (JJ last) (NN visit)))))))
+      (, ,)
+      (NP (PRP I))
+      (VP (MD ca) (RB n't)
+        (VP (VB lie))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP am)
+      (VP (VBG gon)
+        (S
+          (VP (TO na)
+            (VP (VB miss)
+              (NP
+                (NP (DT the) (NN place))
+                (NP (DT a) (NN bit))))))))
+    (. .)))
+
+

@@ -1,0 +1,449 @@
+(ROOT
+  (S
+    (NP (NNP Clean))
+    (, ,)
+    (ADVP (RB well))
+    (VP (VBN staffed))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Well))
+    (VP (VBN stocked))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Full) (NN service) (NNP CVS))
+      (, ,)
+      (ADJP (RB as) (JJS most)))
+    (VP (VBP are))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Photo))
+    (, ,)
+    (NP
+      (NP (NN pharmacy) (NN w) (NNP /) (NNP drive-thru))
+      (, ,)
+      (NP (DT the) (JJ typical) (JJ abundant) (NN convenience))
+      (CC and)
+      (NP (JJ health-care) (NNS items)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (RB Still) (JJ expensive))
+    (, ,)
+    (PP (CC but)
+      (NP (JJ friendly) (NNS people)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (MD Would) (RB not)
+      (VP (VB recommend)
+        (S
+          (VP (VBG using)
+            (NP (DT the) (NN pharmacy))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Everything))
+    (VP (VBD changed)
+      (SBAR (IN after)
+        (S
+          (NP (DT this) (NN location))
+          (VP (VBD had)
+            (S
+              (VP (TO to)
+                (VP (VB absorb)
+                  (NP
+                    (NP
+                      (NP (DT a) (JJR larger) (NN cvs) (POS '))
+                      (NN pharmacy))
+                    (PP (RB because) (IN of)
+                      (NP (NN store) (NN closure)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VP (VBD were))
+      (CC and)
+      (VP
+        (ADVP (RB still))
+        (VBP are)
+        (ADJP (RB completely) (JJ unprepared)
+          (S
+            (VP (TO to)
+              (VP (VB handle)
+                (NP (DT the) (NN change))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD went)
+      (PP (IN from)
+        (S
+          (VP (VBG being)
+            (NP
+              (NP (DT a) (JJ nice) (JJ little) (NN neighborhood) (NN drugstore))
+              (PP (TO to)
+                (NP (DT an)
+                  (ADJP (JJ unprofessional) (, ,) (JJ understaffed))
+                  (JJ chaotic) (NN pharmacy))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP
+      (VP (VBD bailed)
+        (CC and)
+        (VBD transferred)
+        (PP (TO to)
+          (NP (DT another) (NN neighborhood) (NN pharmacy)))
+        (SBAR (IN after)
+          (S
+            (NP (PRP they))
+            (VP (VBD refilled)
+              (NP
+                (NP (PRP$ my) (NN husband) (POS 's))
+                (JJ high) (NN blood) (NN pressure) (NN medicine))
+              (ADVP (RB wrong))))))
+      (CC and)
+      (VP (VBD argued)
+        (PP (IN with)
+          (NP (PRP him)))
+        (PP (IN about)
+          (NP (PRP it)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (JJ last)
+        (CC and)
+        (JJ final) (NN ordeal))
+      (VP (VBD was)
+        (S
+          (NP (PRP them))
+          (VP (VBG telling)
+            (NP (PRP us))
+            (SBAR
+              (S
+                (NP (PRP I))
+                (VP (VBD had)
+                  (NP
+                    (NP (DT no) (NN record))
+                    (PP (IN of)
+                      (NP (NN prescription)))))))))))
+    (, ,)
+    (S
+      (ADVP (RB also))
+      (, ,)
+      (NP (JJ high) (NN blood) (NN pressure))
+      (VP (VBZ meds)
+        (S
+          (VP (TO to)
+            (VP (VB refill))))))
+    (, ,)
+    (SBAR (RB even) (IN though)
+      (S
+        (NP
+          (NP (DT the) (JJ meds) (NN bottle))
+          (PP (IN from)
+            (NP (PRP them))))
+        (VP (VBZ reads)
+          (NP
+            (NP (CD 2) (NNS refills))
+            (VP (VBN left))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (VP (VBG feeling)
+          (PP (IN under)
+            (NP (DT the) (NN weather))))))
+    (CC and)
+    (S
+      (NP (PRP$ my) (NN boss))
+      (VP (VBD encouraged)
+        (S
+          (NP (PRP me))
+          (VP (TO to)
+            (VP (VB go)
+              (S
+                (VP (VB get)
+                  (VP (VBN checked)
+                    (PRT (RP out))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBP pass)
+        (S
+          (NP (DT this) (NNP CVS))
+          (ADJP (RB almost) (JJ daily))))
+      (CC and)
+      (VP (VBD noticed)
+        (NP (DT the) (NNP Minute) (NNP Clinic) (NN sign))
+        (SBAR (IN so)
+          (S
+            (NP (PRP I))
+            (VP (VBD decided)
+              (S
+                (VP (TO to)
+                  (VP (VB give)
+                    (NP (PRP it))
+                    (NP (DT a) (NN try))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD signed)
+        (PRT (RP in))
+        (PP (IN via)
+          (NP (PRP$ their) (NN computer) (NN kiosk)))))
+    (, ,) (RB not)
+    (S
+      (NP (CD 2) (NNS minutes) (RB later))
+      (NP (PRP I))
+      (VP (VBD was)
+        (VP (VBN called)
+          (PRT (RP back))
+          (PP (IN for)
+            (NP (PRP$ my) (NN check)))
+          (ADVP (RB up)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (VP (VBN evaluated)
+          (PP (IN by)
+            (NP (PRP$ their) (NN ANP))))))
+    (CC and)
+    (S
+      (NP (PRP she))
+      (VP
+        (VP (VBN decided)
+          (PP (IN on)
+            (NP (PRP$ my) (NN diagnosis))))
+        (, ,)
+        (VP (VBN prescribed)
+          (NP (PRP$ my) (NN medication)))
+        (CC and)
+        (VP (VBD told)
+          (NP (PRP me))
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (NP (RB else) (PRP I))
+              (VP (MD can)
+                (VP (VB do)
+                  (S
+                    (VP (TO to)
+                      (VP (VB get)
+                        (ADVP (RBR better))))))))))))
+    (. .)))
+
+(ROOT
+  (FRAG (CC And)
+    (SBAR (IN if)
+      (S
+        (NP (PRP I))
+        (VP
+          (VP (VBD was) (RB n't)
+            (VP (VBG feeling)
+              (ADVP (RBR better))))
+          (CC or)
+          (VP (VBD got)
+            (ADVP (RBR worse))
+            (S
+              (VP (TO to)
+                (VP
+                  (ADVP (RB just))
+                  (VB call)
+                  (NP (DT the) (NN clinic)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (ADJP (JJ fast)
+        (CC and)
+        (JJ easy)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (MD can)
+      (ADVP (RB even))
+      (VP (VB have)
+        (NP
+          (NP (PRP$ your) (NNS meds))
+          (VP (VBN filled)
+            (ADVP
+              (ADVP (RB right) (RB there))
+              (SBAR (IN if)
+                (S
+                  (NP (PRP you))
+                  (VP (VBP like)))))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP they))
+    (VP (VBP take)
+      (NP (JJS most) (NNS insurances)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (ADJP (RB very) (JJ convenient)
+        (S
+          (VP (RB not) (TO to)
+            (VP (VB have)
+              (S
+                (VP (TO to)
+                  (VP (VB sit)
+                    (PP (IN in)
+                      (NP
+                        (NP (DT a) (NN room))
+                        (PP (JJ full) (IN of)
+                          (NP
+                            (NP (JJ other) (`` ``) (NNS sickies) ('' ''))
+                            (PP (IN for)
+                              (NP (NNS hours)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Hopefully))
+      (NP (PRP I))
+      (VP (MD wo) (RB n't)
+        (VP (VB need)
+          (NP (PRP them))
+          (ADVP (RB again)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (MD 'd)
+        (VP (VB go)
+          (ADVP (RB back))
+          (SBAR (IN if)
+            (FRAG
+              (ADJP (JJ necessary)))))))
+    (. .)))
+
+
+(ROOT
+  (FRAG
+    (NP (JJ Great) (NN pharmacy) (NN staff))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP are)
+        (ADVP (RB always))
+        (ADJP (JJ timely)
+          (PP (IN in)
+            (S
+              (VP (VBG making)
+                (ADJP (JJ sure)
+                  (SBAR
+                    (S
+                      (NP (PRP$ my) (NNS prescriptions))
+                      (VP (VBP are)
+                        (VP (VBN filled)
+                          (PP (IN on)
+                            (NP (NN time))))))))))))))
+    (, ,)
+    (CC and)
+    (S
+      (SBAR (IN if)
+        (S
+          (NP (EX there))
+          (VP (VBZ is)
+            (NP
+              (NP (DT any) (NN kind))
+              (PP (IN of)
+                (NP (DT a) (NN delay)))))))
+      (NP (PRP they))
+      (VP (MD will)
+        (VP (VB call)
+          (CC and)
+          (VB advise))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (ADVP (RB always))
+      (VP (VBN been)
+        (ADJP (RB so) (JJ helpful))))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (NNP Super) (NNP helpful))
+      (SBAR
+        (S
+          (VP (TO to)
+            (VP (VB use)
+              (NP (DT the) (NN text) (NNS alerts)))))))
+    (: -)
+    (VP (VBZ lets)
+      (SBAR
+        (S
+          (NP (PRP you))
+          (VP (VBP know)
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP$ your) (NNS prescriptions/refills))
+                (VP (VBP are)
+                  (ADJP (JJ ready)
+                    (PP (IN for)
+                      (S
+                        (VP (VB pick)
+                          (PRT (RP up)))))))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VB Use)
+      (NP (PRP$ your) (JJ extra) (NNS rewards) (NNS cards))
+      (PP (IN for)
+        (NP (NNS points))))
+    (. !)))
+
+

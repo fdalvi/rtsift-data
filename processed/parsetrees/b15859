@@ -1,0 +1,182 @@
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP (NNP MY) (NNP Avis)))
+    (. !)))
+
+(ROOT
+  (NP (NNP :--RRB-) (NNP LOL) (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Seriously))
+    (: --)
+    (S
+      (NP
+        (NP (NNP Phylis))
+        (, ,)
+        (NP
+          (NP (DT the) (NN owner))
+          (PP (IN of)
+            (NP (DT this) (JJ wonderful) (NN establishment))))
+        (, ,))
+      (VP (VBZ is)
+        (NP (DT the) (NN BEST))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Avis) (POS 's))
+      (NNP St.) (NNP Rose) (NNP Parkway) (NN branch))
+    (VP (VBZ is)
+      (NP (DT a) (JJ small)
+        (PRN (, ,)
+          (S
+            (VP
+              (ADVP (RB independently))
+              (VB run)
+              (NP
+                (NP (NN car) (JJ rental) (NN agency))
+                (VP (VBG serving)
+                  (NP (DT the) (JJR greater))
+                  (: ...)
+                  (S
+                    (ADJP (JJ 7-Hills/Green))))))))
+        (NN Valley) (NN area)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP have)
+        (ADVP (RB only))
+        (VP (VBN used)
+          (S
+            (NP (PRP them))
+            (NP
+              (NP (DT a) (NN couple))
+              (PP (IN of)
+                (NP
+                  (NP (NNS times))
+                  (PP (IN before)
+                    (NP (NNP and))))))))))
+    (: ...)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (NP (DT a) (JJ typical) (NN car) (JJ rental) (NN place))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNS Prices))
+      (VP (MD can)
+        (VP (VB range)
+          (PP (IN from)
+            (NP
+              (NP ($ $) (CD $))
+              (ADJP ($ $)
+                (QP ($ $) (CD $)))))
+          (PP (TO to)
+            (NP (NN dirt) (NN cheap))))))
+    (CC but)
+    (S
+      (NP (PRP they))
+      (VP (VBP do)
+        (VP
+          (VP (VB try))
+          (CC and)
+          (VP (VB stay)
+            (ADJP (JJ competitive))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP guess)
+        (SBAR
+          (SBAR (IN if)
+            (S
+              (NP (PRP you))
+              (VP (VBP need)
+                (NP
+                  (NP (DT a) (JJ rental) (NN car))
+                  (PP (IN for)
+                    (NP (DT a) (NN weekend) (NN trip)))))))
+          (CC or)
+          (SBAR (IN because)
+            (S
+              (NP (PRP$ your) (NN car))
+              (VP (VBZ breaks)
+                (PRT (RP down))))))))
+    (, ,)
+    (NP (DT this))
+    (VP (MD would)
+      (VP (VB be)
+        (NP (DT the) (NN place)
+          (S
+            (VP (TO to)
+              (VP (VB go)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP
+        (NP (PRP$ my) (NN go-to))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP I))
+            (VP (VBP need)
+              (S
+                (VP (TO to)
+                  (VP (VB rent)
+                    (NP (DT a) (NN car))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN woman))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBZ runs)
+            (NP (PRP it))))))
+    (VP (VBZ is)
+      (NP
+        (NP
+          (ADJP (RB very) (JJ helpful)))
+        (, ,)
+        (ADJP (JJ friendly)
+          (CC and)
+          (VBG accommodating))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS vehicles))
+      (VP (VBP are)
+        (ADVP (RB always))
+        (PP (IN in)
+          (NP (JJ great) (NN condition)))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP 've)
+        (ADVP (RB never))
+        (VP (VBN had)
+          (NP (DT a) (NN problem)))))
+    (. .)))
+
+

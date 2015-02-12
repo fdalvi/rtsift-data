@@ -1,0 +1,148 @@
+(ROOT
+  (NP
+    (NP (NNP Awesome) (NNP Bank))
+    (PP (IN in)
+      (NP (DT a) (NNP Safeway)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Great) (NN customer))
+    (NP (NN service))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Jim) (NNP Simmons))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ wonderful) (NNP Senior) (NNP Banker))
+        (, ,)
+        (NP
+          (NP (CD one))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP
+                (VP (VBD took)
+                  (NP
+                    (NP (JJ great) (NN care))
+                    (PP (IN of)
+                      (NP (PRP me)))))
+                (, ,)
+                (CC and)
+                (VP (VBD went)
+                  (PP (TO to)
+                    (NP (JJ great) (NNS lengths)))
+                  (S
+                    (VP (TO to)
+                      (VP (VB make)
+                        (ADJP (JJ sure))
+                        (SBAR (IN that)
+                          (S
+                            (NP (JJ corporate) (NNP US) (NNP Bank))
+                            (VP (VBD took)
+                              (NP
+                                (NP (NN care))
+                                (PP (IN of)
+                                  (NP (PRP me)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS hours))
+    (VP (VBP are)
+      (ADJP (JJ wonderful)
+        (SBAR (IN as)
+          (S
+            (NP (PRP they))
+            (VP (VBP are)
+              (ADJP (JJ open))
+              (NP (NN everyday))))))
+      (, ,)
+      (PP (VBG including)
+        (NP (NNP Sunday))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (MD 'll)
+        (VP (VB be)
+          (ADJP (JJ honest)))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP hate)
+      (S
+        (VP (VBG going)
+          (PP (TO to)
+            (NP (DT the) (NN bank))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Totally))
+    (VP (VBP hate)
+      (NP (PRP it)))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (ADVP (RB as) (RB far)
+      (SBAR (IN as)
+        (S
+          (NP (NNS banks))
+          (VP (VBP go)))))
+    (, ,)
+    (NP (DT this) (NN place))
+    (VP (VBZ is)
+      (NP (JJ top) (NNS notch)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN staff))
+    (VP
+      (VP (VBZ is)
+        (ADJP (NN professional)))
+      (CC and)
+      (VP (VBZ courteous)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN service))
+    (VP (VBZ is)
+      (ADVP (RB always))
+      (ADVP
+        (NP (DT a) (NN step))
+        (IN above)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP have)
+          (VP
+            (PP (TO to)
+              (NP (NN bank)))))))
+    (PRN (-LRB- -LRB-)
+      (CC and)
+      (S
+        (NP (PRP we))
+        (ADVP (DT all))
+        (VP (VBP do)))
+      (-RRB- -RRB-))
+    (, ,)
+    (NP (PRP you))
+    (VP (MD might)
+      (ADVP (RB as) (RB well))
+      (VP (VBP bank)
+        (ADVP (RB here))))
+    (. .)))
+
+

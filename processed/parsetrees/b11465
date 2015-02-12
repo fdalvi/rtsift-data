@@ -1,0 +1,124 @@
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBP are)
+        (ADVP
+          (NP (CD three) (NNS Starbucks))
+          (RB here))
+        (PP (IN in)
+          (NP (DT the) (NNP Valley)))
+        (SBAR (IN that)
+          (S
+            (NP (PRP I))
+            (VP (VBP go)
+              (PP (TO to))
+              (PP (IN on)
+                (NP (DT a) (JJ regular) (NN basis))))))))
+    (CC and)
+    (S
+      (NP (DT the) (NN service))
+      (VP (VBZ is)
+        (ADJP (JJ consistent))
+        (SBAR (IN as)
+          (S
+            (VP (VBZ is)
+              (NP (DT the) (NN product)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN location))
+    (VP (VBZ is)
+      (NP
+        (NP (CD one))
+        (PP (IN of)
+          (NP (PRP them)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN staff))
+    (VP (VBZ is)
+      (ADJP (JJ awesome))
+      (, ,)
+      (NP
+        (NP (DT the) (NN manager))
+        (, ,)
+        (NP
+          (NP (NNP Terry) (-LRB- -LRB-) (NNP sorry))
+          (SBAR (IN if)
+            (S
+              (NP (PRP I))
+              (VP (VBN spelled)
+                (S
+                  (NP (PRP$ her) (NN name))
+                  (ADJP (JJ wrong)))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP -RRB-))
+      (VP (VBZ is)
+        (PP (IN on)
+          (NP (DT the) (NN ball)))))
+    (CC and)
+    (S
+      (NP (NNP and))
+      (VP (VBZ has)
+        (NP (DT a)
+          (ADJP (RB well) (JJ trained))
+          (, ,) (JJ oiled) (NN team))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD can) (RB not)
+      (VP (VB say)
+        (NP
+          (ADJP (RB enough) (JJ great))
+          (NNS things))
+        (PP (IN about)
+          (NP (DT this) (NNPS Starbucks)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP love)
+      (NP (DT this) (NN place)))))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP live)
+        (NP (DT this) (NNPS Starbucks))
+        (PP (IN because)
+          (NP
+            (NP (PRP$ its) (NN right))
+            (PP (IN around)
+              (NP (DT the) (NN corner)))))))
+    (PRN (, ,)
+      (S
+        (NP (DT the) (NN staff))
+        (VP (VBZ remembers)
+          (NP
+            (NP (PRP$ my) (NN name))
+            (CC and)
+            (NP (PRP$ my) (NN drink)))))
+      (, ,))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADVP (RB conveniently)
+          (PP (IN by)
+            (NP (JJ chase) (NN bank))))))
+    (. .)))
+
+

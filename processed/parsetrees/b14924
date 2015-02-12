@@ -1,0 +1,287 @@
+(ROOT
+  (S
+    (VP (VB Do) (RB n't)
+      (VP (VB feel)
+        (PP (IN like)
+          (S
+            (VP (VBG spending)
+              (NP
+                (NP ($ $) (CD $))
+                (PP (IN on)
+                  (NP (DT a) (NNP Costco) (NN membership)))))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (NNP Smart)
+      (CC &)
+      (NNP Final))
+    (VP (VBZ is)
+      (NP (PRP$ your) (NN way)
+        (S
+          (VP (TO to)
+            (VP (VB go)
+              (ADVP (RB then))
+              (SBAR (IN if)
+                (S
+                  (NP (PRP you))
+                  (VP (VBP are)
+                    (ADJP (JJ interested)
+                      (PP (IN in)
+                        (NP (NN food) (VBN related) (NNS items))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT No) (NN membership) (NN fee))
+    (VP (VBZ is)
+      (VP (VBN required) (, ,)
+        (SBAR (IN although)
+          (S
+            (NP (PRP$ their) (NNS prices))
+            (VP (MD may)
+              (VP (VB be)
+                (ADJP
+                  (ADJP (RB slightly) (JJR higher))
+                  (PP (IN than)
+                    (NP (NNP Costco))))
+                (PP (IN as)
+                  (NP (DT a) (NN result)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VP (VBP sell)
+        (NP
+          (NP
+            (NP (NN restaurant) (NN type) (NNS supplies))
+            (, ,)
+            (NP (NN bbq) (NNS supplies))
+            (, ,))
+          (ADJP (JJ fresh) (, ,) (JJ frozen))))
+      (, ,)
+      (CC and)
+      (VP (VBD prepackaged)
+        (NP (NNS foods))
+        (PP (IN in)
+          (NP (NN bulk)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (S
+      (NP (PRP They))
+      (ADVP (RB also))
+      (VP (VBP have)
+        (NP
+          (NP (DT a) (JJ wide) (NN selection))
+          (PP (IN of)
+            (NP
+              (NP (NNS alcohols))
+              (PP (IN in)
+                (NP (JJR larger) (NNS sizes))))))
+        (, ,)
+        (PP (IN with)
+          (NP
+            (NP (DT some) (JJ good) (NNS brands))
+            (PP (IN for)
+              (NP
+                (NP (NN sale))
+                (PRN (-LRB- -LRB-)
+                  (NP (NNP Patron) (NNP tequila))
+                  (, ,)
+                  (NP (NNP Mt.)))))))))))
+
+(ROOT
+  (S
+    (VP (VBG Gay)
+      (PRN
+        (NP
+          (NP (NN rum))
+          (, ,)
+          (NP (FW etc)))
+        (-RRB- -RRB-)))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (CD 5) (NNS stars))
+    (PP (IN for)
+      (NP (NNP Sean)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBZ is)
+      (NP
+        (NP (JJ great) (NN eye) (NN candy))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP I))
+            (VP (VB shop)
+              (ADVP (RB here)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB No)
+      (NP (NNS complaints))
+      (ADVP (RB though))
+      (: ...)
+      (ADVP (IN At) (JJS least) (RB not) (RB yet)))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (JJ Good) (NNS prices))
+    (PP (IN on)
+      (NP
+        (NP (JJ many) (NNS items))
+        (, ,)
+        (CONJP (CC but)
+          (RB not))
+        (NP (NN everything))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP like)
+      (SBAR (IN that)
+        (S
+          (NP (PRP you))
+          (VP (MD can)
+            (VP (VB get)
+              (NP
+                (NP (NNS boxes))
+                (PP (IN of)
+                  (NP (JJ full) (NN size) (NN candy) (NNS bars)))
+                (SBAR
+                  (WHPP (IN in)
+                    (WHNP (WDT which)))
+                  (S
+                    (NP (PRP it))
+                    (VP (VBZ calculates)
+                      (PP (TO to)
+                        (ADVP (RB about))))))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP ($ $) (CD .51))
+    (NP (DT a) (NN bar))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Sometimes))
+    (NP (PRP they))
+    (VP (VBP have)
+      (NP
+        (NP (DT a) (NN deal))
+        (PP (IN on)
+          (NP
+            (NP (JJ whole) (NNS cases))
+            (PP (IN of)
+              (NP (NN fruit))))))
+      (, ,)
+      (SBAR (IN like)
+        (S
+          (NP
+            (NP (NNS bananas))
+            (PP (IN for)
+              (NP ($ $) (CD 0.47))))
+          (VP (VBP lb)
+            (PP (RB instead) (IN of)
+              (NP
+                (NP (DT the) (JJ regular) (NN price))
+                (PP (IN of)
+                  (NP ($ $) (CD 0.57)))))
+            (NP
+              (NP (NN sale) (NN price))
+              (PP (IN per)
+                (NP (NN pound))))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP they))
+    (VP (VBP have)
+      (VP (VBN tomatoes)
+        (ADJP (JJ available)
+          (PP (IN like)
+            (NP (DT this))))
+        (ADVP (RB too))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN As)
+        (NP (DT a) (JJ past) (NN cake) (NN decorating) (NN instructor)))
+      (NP (PRP I))
+      (VP (MD will)
+        (ADVP (RB also))
+        (VP (VB tell)
+          (NP (PRP you)))))
+    (NP (DT this))
+    (VP (VBZ is)
+      (NP (DT the) (NN place)
+        (S
+          (VP (TO to)
+            (VP (VB get)
+              (NP
+                (NP (NNP Pastry) (NNP Pride))
+                (, ,)
+                (NP
+                  (NP (NN non-dairy))
+                  (VP (VBN whipped)
+                    (S
+                      (VP (VBG topping)
+                        (SBAR (IN that)
+                          (S
+                            (NP (PRP you))
+                            (VP (VBP use)
+                              (PP (IN in)
+                                (NP (JJ homemade) (NN buttercream) (NN icing))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Mmm))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VP (VB Check)
+        (NP (DT the) (NNS ads)))
+      (CC and)
+      (VP (VB compare)
+        (NP (NNS prices))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Good))
+    (VP (VBP place)
+      (S
+        (VP (TO to)
+          (VP (VB come)
+            (SBAR (IN if)
+              (S
+                (NP (PRP you))
+                (VP (VBP plan)
+                  (S
+                    (VP (TO to)
+                      (VP (VB entertain)
+                        (NP (DT a) (NN crowd))))))))))))
+    (. .)))
+
+

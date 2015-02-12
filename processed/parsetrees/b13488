@@ -1,0 +1,177 @@
+(ROOT
+  (S
+    (NP (NNP Arizona) (NNP Music) (NNP Academy))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ private) (NN studio))
+        (PP (IN for)
+          (NP
+            (NP (NN music) (NN education))
+            (VP (VBG offering)
+              (NP (NN instruction))
+              (PP (IN through)
+                (NP (NNS lessons))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Arizona) (NNP Music) (NNP Academy))
+    (VP (VBZ has)
+      (NP
+        (NP (CD 2) (JJ convenient) (NNS locations))
+        (, ,)
+        (NP
+          (NP (CD one))
+          (PP (IN in)
+            (NP (NNP Tempe))))
+        (CC and)
+        (NP
+          (NP (CD one))
+          (PP (IN in)
+            (NP (NNP Chandler))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBP offer)
+      (NP
+        (NP (NNS lessons))
+        (PP (IN in)
+          (NP
+            (NP (NN piano))
+            (, ,)
+            (NP (JJ classical) (NN guitar))
+            (, ,)
+            (NP (JJ electric) (NN guitar))
+            (, ,)
+            (NP (JJ acoustic) (NN guitar))
+            (, ,)
+            (NP (NN bass) (NN guitar))
+            (, ,)
+            (NP (NNP drum))
+            (, ,)
+            (NP (NN voice))
+            (, ,)
+            (NP (NN band))
+            (, ,)
+            (CC and)
+            (NP (NN orchestra) (NN instrument) (NNS lessons))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBP are)
+      (NP
+        (NP (NN beginner))
+        (, ,)
+        (ADJP (JJ intermediate))
+        (, ,)
+        (CC and)
+        (NP
+          (NP (VBN advanced) (NN music) (NNS classes))
+          (PP (IN for)
+            (NP
+              (NP (NNS ages))
+              (UCP
+                (NP (CD 5))
+                (CC and)
+                (ADJP (IN over))))))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP
+      (NP (DT This))
+      (NP (DT a) (JJ wonderful) (NN place)))
+    (SBAR
+      (S
+        (VP (TO to)
+          (VP (VB learn)
+            (NP (NN music))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP are)
+      (ADJP
+        (ADJP (RB very) (JJ patient)
+          (CC and)
+          (JJ compassionate))
+        (PP (IN with)
+          (NP (NNS children)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Ive))
+      (VP (VBD observed)
+        (NP
+          (NP (DT some))
+          (PP (IN of)
+            (NP (DT the) (NNS lessons))))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBP 're)
+        (ADJP (JJ great)
+          (PP (IN with)
+            (NP (NNS kids) (RB particularly) (JJ young) (NNS kids))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD did) (RB n't)
+      (VP (VB have)
+        (NP
+          (NP (JJ rigid) (NNS requirements))
+          (PP (IN about)
+            (NP (NN age))))
+        (SBAR (IN so)
+          (S
+            (SBAR (IN if)
+              (S
+                (NP (PRP you))
+                (VP (VBP want)
+                  (S
+                    (VP (TO to)
+                      (VP (VB start)
+                        (NP (NN tour) (NN child))
+                        (ADVP (RB early))))))))
+            (, ,)
+            (NP (DT this))
+            (VP (VBZ is)
+              (NP (DT the) (NN place)
+                (S
+                  (VP (TO to)
+                    (VP (VB go))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NN child))
+    (VP (VBZ is)
+      (ADJP (JJ excited)
+        (S
+          (VP (TO to)
+            (VP (VB come)
+              (ADVP (RB here))
+              (PP (IN for)
+                (NP (NNS classes))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ Their) (NN pricing))
+    (VP (VBZ is)
+      (ADJP
+        (ADVP (RBR more) (IN than))
+        (JJ reasonable)))
+    (. .)))
+
+

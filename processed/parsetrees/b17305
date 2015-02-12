@@ -1,0 +1,110 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Tasty))
+      (ADJP (RB locally) (VBN owned)
+        (CC and)
+        (VBN operated)))
+    (VP (VBP sub)
+      (NP (NN sandwich) (NN shop)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Previously))
+    (NP
+      (NP (DT an) (NN instance))
+      (PP (IN of)
+        (NP (NNP Zero))))
+    (VP (VBZ 's))
+    (. .)))
+
+
+(ROOT
+  (FRAG
+    (S
+      (S
+        (INTJ (UH Yes))
+        (NP (DT this))
+        (VP (VBD was)
+          (NP (DT a) (CD 5) (NN star))))
+      (, ,)
+      (CC but)
+      (S
+        (NP (PRP it))
+        (VP (VBZ is)
+          (ADJP (JJ closed)
+            (PP (IN for)
+              (ADVP (RB ever)))))))))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD loved)
+      (NP
+        (NP (NNP Brenda) (POS 's))
+        (NNS Subs)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP are)
+        (ADVP (RB now))
+        (ADJP (IN out)
+          (PP (IN of)
+            (NP (NN business))))
+        (PP (IN at)
+          (NP (DT this) (NN location)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP do) (RB n't)
+        (VP (VB think)
+          (SBAR
+            (S
+              (NP (EX there))
+              (VP (VBP are)
+                (NP (DT any) (JJ other) (NNS locations))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD had)
+      (NP
+        (NP (NNP Philly) (NN cheese) (NN steak) (NNS sandwiches))
+        (CC and)
+        (NP
+          (NP (NNP Philly) (NN chicken) (NN cheese) (NNS sandwiches))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBD were)
+                (NP
+                  (NP (DT the) (JJS best))
+                  (SBAR
+                    (S
+                      (NP (PRP I))
+                      (VP (VBP 've)
+                        (ADVP (RB even))
+                        (VP (VBN had))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP Brenda) (POS 's))
+        (NNS Subs)))
+    (, ,)
+    (NP (PRP you))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBN missed))))
+    (. .)))
+
+

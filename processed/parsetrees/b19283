@@ -1,0 +1,808 @@
+(ROOT
+  (S
+    (NP (NNP Conestoga) (NNP Mall))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJ local) (NN mall))
+        (PP (IN in)
+          (NP (NNP Waterloo)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ 's)
+            (NP
+              (NP (DT the) (JJS best) (JJ large) (JJ indoor) (NN mall))
+              (PP (IN in)
+                (NP (NNP Waterloo))))
+            (, ,)
+            (SBAR
+              (ADVP (RB probably))
+              (IN because)
+              (S
+                (NP (PRP it))
+                (VP (VBZ is)
+                  (NP
+                    (NP (DT the) (RB only) (JJ large) (JJ indoor) (NN mall))
+                    (PP (IN in)
+                      (NP (NNP Waterloo)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN lot))
+        (PP (IN of)
+          (S
+            (VP (VBG parking)
+              (ADJP (JJ available))
+              (PP (IN for)
+                (NP
+                  (NP (DT the) (NN size))
+                  (PP (IN of)
+                    (NP (DT the) (NN mall))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Shopping) (NNS opportunities))
+    (VP (VBP abound)
+      (PP (IN with)
+        (NP
+          (NP (DT the) (JJ vast) (NN array))
+          (PP (IN of)
+            (NP
+              (NP (NNS shops))
+              (ADJP (JJ available))
+              (, ,)
+              (PP (VBG including)
+                (NP
+                  (NP (NNP Old) (NNP Navy))
+                  (, ,)
+                  (NP
+                    (NP
+                      (NP (DT The) (NN Gap))
+                      (, ,)
+                      (NP (DT The) (NNP Bay))
+                      (, ,)
+                      (NP (NNP Zellers))
+                      (CC and)
+                      (NP (NNP Zehrs)))
+                    (PRN (-LRB- -LRB-)
+                      (S
+                        (NP (RB yes))
+                        (, ,)
+                        (NP (EX there))
+                        (VP (VBZ is)
+                          (NP
+                            (NP (DT a) (NN supermarket))
+                            (PP (IN in)
+                              (NP (DT the) (NN mall))))))
+                      (-RRB- -RRB-))
+                    (, ,)
+                    (PP (IN among)
+                      (NP (JJ many) (NNS others)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (NP
+        (NP (DT an) (JJ excellent) (NN food) (NN court))
+        (PP (IN with)
+          (NP
+            (NP (DT an)
+              (ADJP (JJ eclectic))
+              (NN mix))
+            (PP (IN of)
+              (NP
+                (NP (NNS restaurants))
+                (PP (VBG including)
+                  (NP
+                    (NP (NNP A&W))
+                    (, ,)
+                    (NP (NNP Spring) (NNP Rolls))
+                    (CC and)
+                    (NP (NNP Tim) (NNP Hortons))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have)
+      (VP (VBN found)
+        (SBAR (IN that)
+          (S
+            (NP (EX there))
+            (VP (VBZ is)
+              (NP
+                (NP (NN something))
+                (PP (IN for)
+                  (NP (NN everyone)))))))))
+    (. !)))
+
+
+(ROOT
+  (SBARQ
+    (S
+      (VP (VB Yep) (, ,)
+        (S
+          (S
+            (NP (PRP it))
+            (VP (VBZ 's)
+              (NP (DT a) (NN mall))))
+          (, ,)
+          (CC but)
+          (S
+            (S
+              (VP (VBG being)
+                (PP (IN from)
+                  (NP (DT The) (NNPS States)))))
+            (CC and)
+            (S
+              (VP (VBG seeing)
+                (NP
+                  (NP (DT an)
+                    (ADJP (RB entirely) (JJ new))
+                    (NN variety))
+                  (PP (IN of)
+                    (NP (NNS stores))))))))))
+    (, ,)
+    (WHNP (WRB how))
+    (SQ (MD could)
+      (NP (PRP I))
+      (ADVP (RB not))
+      (VP (VB be)
+        (NP (DT a) (NN fan))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBP are)
+      (NP
+        (NP (JJ many) (JJ international) (NNS favorites))
+        (, ,)
+        (PP (JJ such) (IN as)
+          (NP
+            (NP (NNP Gap))
+            (CC and)
+            (NP (NNP Old) (NNP Navy))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB even))
+    (VP (VBD noticed)
+      (SBAR
+        (S
+          (NP
+            (NP (DT a) (NNP Victoria) (POS 's))
+            (NNP Secret))
+          (ADVP (RB finally))
+          (VP (VBD made)
+            (NP (PRP$ its) (NN way))
+            (PRT (RP up))
+            (PP (TO to)
+              (NP (NNP Canada)))
+            (, ,)
+            (SBAR (IN although)
+              (S
+                (NP (PRP I))
+                (ADVP (RB still))
+                (VP (VBP prefer)
+                  (S
+                    (VP (TO to)
+                      (VP (VB have)
+                        (NP
+                          (NP (DT a) (NN browse))
+                          (PP (IN around)
+                            (NP (NNP La) (NNP Senza))))
+                        (SBAR
+                          (WHADVP (WRB when))
+                          (S
+                            (NP (PRP I))
+                            (VP (VBP visit))))))))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (JJ Other) (NNS stores))
+      (ADJP (JJ new)
+        (PP (TO to)
+          (NP
+            (NP (DT the) (JJ American) (NN eye))
+            (: :)
+            (NP (NNP -) (NNP Bluenotes))
+            (: -)
+            (NP (NNP Garage))
+            (: -)
+            (NP (NNP Gizmo) (NNP 's))
+            (: -)
+            (NP (NNP Jacob))
+            (: -)
+            (NP (NNP Roots))
+            (: -)
+            (NP (NNP Sirens))
+            (: -)
+            (NP (DT The) (NNP Bay))
+            (: ...)
+            (CC and)
+            (NP (JJ many))))))
+    (ADJP
+      (ADJP (JJR more))
+      (SBAR (IN that)
+        (S
+          (NP (PRP I))
+          (VP (VBD did) (RB n't)
+            (VP (VB have)
+              (NP (NN time))
+              (S
+                (VP (TO to)
+                  (VP (VB explore)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (ADVP (RB also))
+      (VP
+        (ADVP (RB pleasantly))
+        (VBN surprised)
+        (UCP
+          (PP (IN by)
+            (NP
+              (NP (DT the) (NN food) (NN court) (POS 's))
+              (JJ diverse) (NNS options)))
+          (, ,)
+          (CC and)
+          (SBAR (IN that)
+            (S
+              (NP (DT the) (NN food))
+              (ADVP (RB actually))
+              (VP (VBD looked)
+                (ADJP (JJ good))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT The) (NNPS States)))
+    (, ,)
+    (NP (PRP$ our) (NN selection))
+    (VP (VBZ includes)
+      (NP
+        (NP (JJ soft) (NNS pretzels))
+        (, ,)
+        (NP (DT a) (NNP McDonalds))
+        (, ,)
+        (NP (CD three) (JJ Chinese) (NNS stands))
+        (, ,)
+        (CC and)
+        (NP
+          (NP (DT a) (NNP Sbarro))
+          (PRN (-LRB- -LRB-)
+            (NP (JJ reheated) (NN pizza))
+            (-RRB- -RRB-)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBD ate)
+        (PP (IN at)
+          (NP (NNP New) (NNP York) (NNPS Fries) (NNP http://www.yelp.com/biz/new-york-fries-waterloo#hrid:bR3To-CoFVXXXgUaXkwDEQ/src:self))))
+      (CC and)
+      (VP (VBD had)
+        (NP (DT some) (JJ decent) (NN poutine))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBD were)
+      (ADVP (RB also))
+      (NP
+        (NP (JJ Greek))
+        (, ,)
+        (NP (NNP Indian))
+        (, ,)
+        (CC and)
+        (NP (NN health) (NN food) (NNS restaurants))))
+    (. !)))
+
+(ROOT
+  (S
+    (S (CC But)
+      (VP (VB wait)))
+    (, ,)
+    (NP (EX there))
+    (VP (VBZ 's)
+      (ADJP (JJR more)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (NNP Conestoga) (NNP Mall))
+    (ADVP (RB also))
+    (VP (VBZ has)
+      (NP
+        (NP (DT a) (NNPS Zellers)
+          (CC and)
+          (NNPS Zehrs))
+        (: :)
+        (NP
+          (NP (DT a) (NN grocery) (NN story))
+          (PP (IN in)
+            (NP (DT the) (NN mall))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP (DT a) (JJ vast) (NN store))
+      (ADVP (RB too)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ My) (NN friend))
+      (CC and)
+      (NP (PRP I)))
+    (VP (VBD picked)
+      (PRT (RP up))
+      (NP
+        (NP (NN everything))
+        (SBAR
+          (S
+            (NP (PRP she))
+            (VP (VBD needed)
+              (PP (IN for)
+                (NP (PRP$ her) (NN cookout)))))))
+      (PP (IN after)
+        (S
+          (VP (VBG coming)
+            (PP (TO to)
+              (NP
+                (NP (DT the) (NN mall))
+                (PP (IN for)
+                  (NP (PRP$ her) (NN hair) (NN appointment)))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Great) (NN stuff))
+    (, ,)
+    (NP (NNP Conestoga))
+    (. !)))
+
+
+(ROOT
+  (S
+    (PP (IN Out)
+      (PP (IN of)
+        (NP (DT the) (JJ few) (JJ different) (NNS malls))))
+    (NP (PRP I))
+    (VP (VBD visited)
+      (SBAR (IN while)
+        (S
+          (PP (IN in)
+            (NP (DT the) (NNP Waterloo) (NN area)))
+          (, ,)
+          (NP (DT this))
+          (VP (VBD was)
+            (ADVP (RB probably))
+            (NP
+              (NP (CD one))
+              (PP (IN of)
+                (NP (DT the) (JJR better) (NNS ones))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VP (VBD had)
+        (NP
+          (NP (DT a) (JJ nice) (NN selection))
+          (PP (IN at)
+            (NP (DT the) (NN food) (NN court)))))
+      (CC and)
+      (VP (VBD had)
+        (NP (PDT all) (DT the) (JJ essential) (NNS shops))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (JJ high-end) (NN retail)))
+    (NP (PRP you))
+    (VP (MD should)
+      (ADVP (RB probably))
+      (VP (VB visit)
+        (NP (JJ downtown) (NNP Toronto))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN mall))
+    (VP (VBZ is)
+      (ADVP (RB probably))
+      (NP
+        (NP (DT the) (JJS best))
+        (SBAR
+          (S
+            (NP (PRP you))
+            (VP (MD can)
+              (VP (VB get)
+                (PP (IN in)
+                  (NP
+                    (NP (NNP Waterloo) (NNP Region))
+                    (PP (IN in)
+                      (NP
+                        (NP (NNS terms))
+                        (PP (IN of)
+                          (NP (NN ambience)
+                            (CC and)
+                            (NN selection)))))))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Oh))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP it))
+      (ADVP (RB even))
+      (VP (VBZ has)
+        (NP (DT an) (NNP Apple) (NN store))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Good) (NN transit) (NNS connections))
+      (UCP
+        (CONJP (RB as) (RB well))
+        (PP (IN from)
+          (NP (NNP UW) (, ,) (NNP Laurier) (, ,)))
+        (CC and)
+        (ADVP (RB well))))
+    (: ...)
+    (NP
+      (NP (JJS most))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (NNP Waterloo) (NN core))
+          (PP (IN since)
+            (NP (DT the)
+              (ADJP (RB very) (JJ frequent)))))))
+    (VP (VBZ routes)
+      (S
+        (NP (CD 7)
+          (CC and)
+          (CD 200))
+        (DT both)
+        (VP (VB serve)
+          (ADVP (RB there)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (MD can)
+      (ADVP (RB even))
+      (VP (VB do)
+        (NP (PRP$ your) (NN grocery) (NN shopping))
+        (ADVP (RB inside))
+        (SBAR (IN as)
+          (S
+            (NP (EX there))
+            (VP (VBZ 's)
+              (NP
+                (NP (DT a) (NNP Zehrs) (NNP Market))
+                (VP (VBN connected)
+                  (PP (TO to)
+                    (NP (DT the) (NN mall))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN food) (NN court))
+      (VP (VBZ has)
+        (NP (DT the) (JJ usual) (NNS selections))
+        (, ,)
+        (SBAR (IN though)
+          (S
+            (NP
+              (NP (DT the) (NN addition))
+              (PP (IN of)
+                (NP (DT a) (NNP Spring) (NNP Rolls))))
+            (VP (TO To)
+              (VP (VB Go)))))))
+    (CC and)
+    (S
+      (NP (DT a) (NNP Tandori))
+      (VP (VBZ makes)
+        (S
+          (NP (PRP it))
+          (ADJP
+            (ADJP (RB slightly) (RBR more) (JJ unique))
+            (PP (IN than)
+              (NP (NNS others)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Love)
+      (NP
+        (NP (DT the) (JJ open) (NN concept))
+        (PP (IN of)
+          (NP (PRP it))))
+      (PP (IN by)
+        (NP (DT the) (NN way))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS washrooms))
+    (VP (VBP are)
+      (ADJP
+        (ADJP (RB very) (RB environmentally) (JJ friendly))
+        (SBAR (IN as)
+          (S
+            (NP (PRP they))
+            (VP (VBP encourage)
+              (S
+                (NP (PRP you))
+                (VP (TO to)
+                  (VP (VB use)
+                    (NP
+                      (NP (DT the) (JJ reusable) (NNS towels))
+                      (SBAR
+                        (S
+                          (NP (PRP they))
+                          (VP (VBP offer)
+                            (PP (IN by)
+                              (NP (DT the) (NNS sinks)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (INTJ (UH No))
+    (VP (VB need)
+      (S
+        (VP (TO to)
+          (VP (VB use)
+            (NP
+              (NP (NN paper) (NNS towels))
+              (, ,)
+              (NP (DT no) (NN need)
+                (S
+                  (VP (TO to)
+                    (VP (VB worry)
+                      (PP (IN about)
+                        (NP
+                          (NP (NNS bacteria))
+                          (PP (IN from)
+                            (NP (DT the) (NNS dryers))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (ADVP (RB rarely))
+      (VP (VBP rate)
+        (NP (NNS malls))
+        (SBAR
+          (NP (DT a) (CD 5))
+          (IN as)
+          (S
+            (NP (PRP I))
+            (VP (VBP believe)
+              (SBAR
+                (S
+                  (NP (NNS malls))
+                  (VP (VBP are)
+                    (NP
+                      (NP (DT a) (NN hindrance))
+                      (PP (TO to)
+                        (NP (JJ good) (JJ urban) (NN development))))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (ADVP (IN at) (JJS least))
+      (NP (DT this) (NN mall))
+      (VP (VBZ incorporates)
+        (NP (JJ environmental) (NNS concepts))
+        (PP (TO to)
+          (NP (PRP it)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT THE) (NN place))
+    (VP (TO to)
+      (VP
+        (VP (VB hangout))
+        (CC and)
+        (VP (VB get)
+          (PRT (RP away))
+          (PP (IN from)
+            (NP
+              (NP (PRP$ your) (NN study) (NN life))
+              (PP (IN in)
+                (NP (NNP Waterloo))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (VP (VBN got)
+        (NP
+          (NP (RB quite) (DT a) (NN number))
+          (PP (IN of)
+            (NP (NN brand) (NNS stores))))
+        (PP (IN in)
+          (NP (DT all) (NNS diversities)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADVP (RB also))
+      (VP
+        (VP (VBN got)
+          (NP (DT a) (NN movie) (NN theatre))
+          (SBAR
+            (WHADVP (WRB where))
+            (S
+              (NP (PRP you))
+              (VP (MD can)
+                (VP (VB relax))))))
+        (CC and)
+        (VP
+          (NP (DT a) (NN food) (NN court))
+          (S
+            (VP (TO to)
+              (VP (VB fight)
+                (NP (PRP$ your) (NN hunger))
+                (SBAR (IN if)
+                  (S
+                    (NP (PRP you))
+                    (ADVP (RB ever))
+                    (VP (VBP get)
+                      (NP
+                        (NP (VBG starving) (NN while))
+                        (VP (VBG hanging)
+                          (PRT (RP out))
+                          (ADVP (RB there)))))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VB Definately)
+      (NP
+        (NP (DT the) (JJ nicest) (NN mall))
+        (PP (IN in)
+          (NP (NNP K-W))))
+      (PP (IN with)
+        (NP
+          (NP (DT a) (JJ good) (NN selection))
+          (PP (IN of)
+            (NP
+              (NP (NNS stores))
+              (CC and)
+              (NP (DT a) (JJ decent) (NN food) (NN court)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (MD 'll)
+      (VP (VB find)
+        (NP
+          (NP (NNS groceries))
+          (, ,)
+          (NP (NNP Target))
+          (, ,)
+          (NP (NNP Apple))
+          (, ,)
+          (NP (JJ many) (NN fashion))
+          (CC and)
+          (NP (NN electronics) (NNS options)))
+        (ADVP (RB here))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (NNP Waterloo)))
+    (NP (CD 4))
+    (VP (VBZ stars))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (DT this))
+        (VP (VBD was)
+          (PP (IN in)
+            (NP (NNP Toronto))))))
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB give)
+        (NP (PRP it))
+        (NP (CD 3))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Good) (NN selection))
+    (PP (IN of)
+      (NP
+        (NP (NNS stores))
+        (PP (VBG including)
+          (NP (DT an) (NN apple) (NN store)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Spring) (NNS rolls))
+    (VP (VBZ is)
+      (ADVP
+        (ADVP (RB here) (RB too))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ is)
+              (ADVP (RB always))
+              (NP
+                (NP (DT a) (JJ nice) (NN option))
+                (PP (IN for)
+                  (NP (NN lunch)
+                    (CC or)
+                    (NN dinner)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Target))
+    (ADVP (RB here))
+    (VP (VBZ is)
+      (S
+        (NP
+          (NP (NNP alright) (. .))
+          (. .)
+          (S
+            (VP
+              (ADVP (RB also))
+              (VB have)
+              (NP (DT a) (NNPS Zehrs)))))))
+    (. .)))
+
+

@@ -1,0 +1,211 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB just))
+    (VP (VBP do) (RB n't)
+      (VP (VB like)
+        (NP (NN Baja))
+        (ADVP (DT any) (RBR more))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP I))
+        (VP (VBD was)
+          (PP (IN in)
+            (NP (JJ high) (NN school))))))
+    (NP (PRP we))
+    (VP (MD would)
+      (VP (VB come)
+        (NP (PDT all) (DT the) (NN time))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD got)
+        (NP (DT the) (NN chicken) (NN burrito))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (S
+          (NP (RB just) (NNP OK) (. .) (NNP Way))
+          (ADJP (RBR more) (JJ tortilla)
+            (PP (IN than)
+              (NP (NN filling)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBD came)
+        (PP (IN with)
+          (NP (NNS chips)))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBD got)
+        (NP (DT a) (JJ large) (JJ refillable) (NN cup))))
+    (CC but)
+    (S
+      (NP (PRP they))
+      (ADVP (RB only))
+      (VP (VBP have)
+        (NP (DT the) (JJ nasty) (JJ golden) (NN peak) (NN cartridge) (NN tea))))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Why))
+    (SQ (MD ca) (RB n't)
+      (NP (NNS people))
+      (VP (VB stick)
+        (PP (TO to)
+          (NP (JJ good) (JJ ole) (JJ fresh) (NNS brewed))))
+      (. .))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN staff))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (RB super) (JJ nice))
+        (SBAR
+          (WHADVP
+            (ADVP (DT both))
+            (WRB when))
+          (S
+            (S
+              (NP (PRP they))
+              (VP (VBD took)
+                (NP (PRP$ my) (NN order))))
+            (CC and)
+            (S
+              (NP (PRP I))
+              (VP (VBD let)
+                (SBAR
+                  (S
+                    (NP (PRP them))
+                    (VP (VBP know)
+                      (SBAR
+                        (S
+                          (NP (PRP they))
+                          (VP (VBD were)
+                            (ADVP (RB out))
+                            (PP (IN of)
+                              (NP (NN ice))))))))))
+              (. .)))
+          (. .))
+        (PP (IN for)
+          (FRAG
+            (NP
+              (NP (CD 10) (NNS $))
+              (SBAR
+                (S
+                  (NP (PRP$ my) (NN meal))
+                  (VP (VBD was)
+                    (ADJP (RB just) (JJ ok)))))
+              (. .))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Food))
+      (VP (VBD was)
+        (ADJP (JJ good))))
+    (PRN (, ,)
+      (S
+        (NP (NN service))
+        (VP (VBD was)
+          (ADJP (JJ fast))))
+      (, ,))
+    (CC and)
+    (S
+      (NP (NN salsa))
+      (VP (VBD was)
+        (ADVP (RB spicy))))
+    (. .)))
+
+(ROOT
+  (NP
+    (S
+      (S
+        (ADVP (RB Overall))
+        (NP (PRP it))
+        (VP (VBD was)
+          (NP (DT a) (JJ good) (NN experience))))
+      (CC and)
+      (S
+        (NP (PRP I))
+        (VP (MD would)
+          (VP (VB return)
+            (SBAR (IN if)
+              (FRAG
+                (PP (IN in)
+                  (NP (DT the) (NN area)))))))))))
+
+
+(ROOT
+  (S
+    (NP (NNP Food))
+    (VP (VBZ is)
+      (ADJP (JJ delicious)))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Service))
+      (VP (VBZ is)
+        (ADJP (JJ great))))
+    (: ...)
+    (S
+      (NP (PRP$ my) (NN salad))
+      (VP (VBD was)
+        (ADJP (JJ delicious))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB There))
+    (NP
+      (NP (JJ new) (NN surf))
+      (CC and)
+      (NP (NN turf)))
+    (VP (VBZ is)
+      (ADJP (JJ great)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN staff))
+    (VP (VBZ is)
+      (ADVP (RB always))
+      (ADJP (RB very) (JJ nice)
+        (PP (TO to)
+          (S
+            (S
+              (NP (PRP me))
+              (VP (VBZ is)
+                (NP (DT a) (JJ great) (NN place)
+                  (S
+                    (VP (TO to)
+                      (VP (VB grab)
+                        (PP (IN on)
+                          (NP (DT the) (NN go)))))))))
+            (CC and)
+            (S
+              (NP (PRP it))
+              (ADJP (JJ fresh)))))))
+    (. !)))
+
+

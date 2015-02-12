@@ -1,0 +1,68 @@
+(ROOT
+  (NP
+    (NP (DT The) (JJS best) (NN thing))
+    (PP (IN about)
+      (NP
+        (NP (NNP Circus) (NNP Circus))
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (NP (DT this) (NNP Subway))
+            (VP (VBZ is)
+              (VP (VBN located)))))))
+    (. .)))
+
+
+(ROOT
+  (FRAG
+    (ADJP (RB Super) (RB expensive) (. .))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NN Nothing) (NN special))
+    (PP (IN about)
+      (NP
+        (NP (DT this) (`` ``) (NN circus) (NN circus) ('' '') (NN location))
+        (, ,)
+        (SBAR (IN if)
+          (S
+            (NP (PRP you))
+            (VP (VBP are)
+              (VP (VBN used)
+                (PP (TO to)
+                  (NP (NNP Subway)))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP
+      (ADJP (JJ Giving)
+        (NP (CD one)))
+      (NN star))
+    (PP (JJ due) (TO to)
+      (NP
+        (NP
+          (NP (DT the)
+            (ADJP ($ $)
+              (QP ($ $) (CD $) (CD $)))
+            (, ,) (JJ holy) (NN cow))
+          (, ,)
+          (NP (NN highway) (NN robbery))
+          (, ,))
+        (ADJP (RB just) (JJ wrong))))
+    (. .) ('' !!!!)))
+
+(ROOT
+  (NP
+    (NP ($ $) (CD 29))
+    (PP (IN for)
+      (NP
+        (NP (JJ 2-foot) (NNS longs))
+        (, ,)
+        (NP (JJ 1-six) (NN inch))
+        (CC and)
+        (NP (DT a) (NN drink))))
+    (: ...)))
+
+

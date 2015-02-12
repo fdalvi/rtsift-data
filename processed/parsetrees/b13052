@@ -1,0 +1,293 @@
+(ROOT
+  (S
+    (NP (DT This) (NN movie) (NN theater))
+    (VP (VBZ is)
+      (ADJP (JJR smaller)
+        (CC and)
+        (JJR older)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (MD can)
+      (VP (VB be)
+        (PP (CC either)
+          (NP
+            (NP (DT a) (JJ bad) (NN thing))
+            (CC or)
+            (NP (DT a) (JJ good) (NN thing))))
+        (PP (VBG depending)
+          (PP (IN on)
+            (SBAR
+              (WHNP (WP what))
+              (S
+                (NP (PRP you))
+                (VP (VBP want)
+                  (PP (IN in)
+                    (NP (DT a) (NN theater) (NN experience))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (VBP 're) (RB not)
+      (VP (VBG going)
+        (S
+          (VP (TO to)
+            (VP (VB get)
+              (NP
+                (NP (VBG reclining) (NNS chairs))
+                (CC and)
+                (NP (NN stadium) (VBG seating))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Sometimes))
+    (NP (DT the) (NN staff))
+    (VP (VBP are)
+      (ADJP (JJ neglectful)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN popcorn))
+    (VP (MD might)
+      (VP (VB be)
+        (ADJP (JJ stale))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (SBAR (IN if)
+      (S
+        (NP (PRP you))
+        (VP (VBP want)
+          (ADVP
+            (NP (DT a) (NN theater))
+            (RB all))
+          (PP (TO to)
+            (NP (PRP yourself))))))
+    (, ,)
+    (NP (DT this))
+    (VP (VBZ is)
+      (NP (PRP$ your) (NN place)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBN Tucked)
+        (PRT (RP away))
+        (PP (IN behind)
+          (NP (NNP MCC)
+            (CC and)
+            (NNP Fiesta) (NNP Mall)))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ seems)
+      (SBAR (RB as) (IN if)
+        (S
+          (NP (NNS people))
+          (VP (VBP have)
+            (ADVP (RB almost))
+            (VP (VBN forgotten)
+              (SBAR
+                (S
+                  (NP (DT this) (NN place))
+                  (VP (VBZ is)
+                    (ADVP (RB here))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (MD can)
+      (VP (VB see)
+        (NP (DT a) (NN movie))
+        (PP (IN without)
+          (S
+            (VP
+              (VP (VBG fighting)
+                (PP (IN for)
+                  (NP (DT a) (NN parking) (NN place))))
+              (CC or)
+              (VP (VBG being)
+                (VP (NN overrun)
+                  (PP (IN with)
+                    (NP (JJ rowdy) (NNS teenagers))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is) (RB not)
+      (NP
+        (NP (DT a) (NN place))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (MD would)
+              (VP (VB take)
+                (NP (PRP$ my) (NN wife)
+                  (CC and)
+                  (NN child))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (INTJ (UH Yes))
+      (, ,)
+      (S
+        (NP (PRP it))
+        (VP (VBZ is)
+          (ADJP (JJ old))))
+      (CC and)
+      (S
+        (NP (PRP I))
+        (VP (VBP guess)
+          (SBAR (IN that)
+            (S
+              (VP (VBZ is)
+                (SBAR
+                  (WHNP (WP what))
+                  (S
+                    (NP (PRP you))
+                    (VP (MD could)
+                      (VP (VB call)
+                        (NP
+                          (NP (NN part))
+                          (PP (IN of)
+                            (NP (PRP it)))
+                          (SBAR
+                            (S
+                              (VP (VBZ 's)))))
+                        ('' '')
+                        (NP (NN charm))
+                        ('' '')))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT the) (NN theatre))
+      (VP (VBZ is) (RB not)
+        (VP
+          (ADVP (RB that) (RB well))
+          (VBN maintained))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP (PRP It))
+        (VP (VBZ 's)
+          (ADJP (JJ dark)
+            (CC and)
+            (JJ creepy))))
+      (, ,)
+      (CC and)
+      (S
+        (NP (DT the) (NN staff))
+        (VP (VBZ is)
+          (ADVP (RB usually))
+          (NP
+            (NP (NNS highschoolers))
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBZ is)
+                  (ADVP (RB normally))
+                  (ADJP (JJ fine)))))))))
+    (, ,)
+    (CC but)
+    (S
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP they))
+          (VP (VBP are)
+            (VP (VBN unsupervised)))))
+      (NP (PRP it))
+      (ADVP (RB just))
+      (VP (VBZ means)
+        (NP (JJ lazy) (NN service))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (JJ new) (NNS movies))
+        (VP (VBP come)
+          (PRT (RP out)))))
+    (NP (DT this))
+    (VP (VBZ is)
+      (NP (DT the) (NN place)
+        (S
+          (VP (TO to)
+            (VP (VB go))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (SBAR (IN As)
+        (S
+          (NP (NNS others))
+          (VP (VBP have)
+            (VP (VBD said)))))
+      (, ,)
+      (NP (PRP it))
+      (VP (VBZ is)
+        (ADJP (JJ small))))
+    (PRN (, ,)
+      (S
+        (NP (PRP it))
+        (VP (VBZ is)
+          (ADJP (JJ old))))
+      (, ,))
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ is)
+        (ADJP
+          (ADJP (JJ quiet))
+          (CC and)
+          (ADJP
+            (NP (DT a) (RB little))
+            (JJR cheaper)))
+        (PP (IN than)
+          (NP (DT the) (JJR bigger) (NNS theatres)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Being)
+        (VP (VBN married)
+          (PP (IN with)
+            (NP (DT no) (NNS kids))))))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (NP (DT a) (JJ great) (NN place)
+        (S
+          (VP (TO to)
+            (VP (VB go)
+              (PP (IN for)
+                (NP (DT a) (NN movie))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN theatre))
+    (VP (VBZ is)
+      (ADJP (JJ closed)))
+    (. .)))
+
+

@@ -1,0 +1,188 @@
+(ROOT
+  (S
+    (NP
+      (NP (CD One))
+      (PP (IN of)
+        (NP (DT the) (JJR better) (NNP Home) (NNP Depot) (NNS locations))))
+    (, ,)
+    (SBAR (IN because)
+      (S
+        (S
+          (NP (PRP it))
+          (VP (VBZ is)
+            (ADJP (RB rather) (JJ quiet))))
+        (CC and)
+        (S
+          (NP (DT the) (NN staff))
+          (VP (VBZ is) (RB n't)
+            (ADJP (JJ overworked))))))
+    (NP (CC &))
+    (VP (VBP seem)
+      (ADJP (JJ nice)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Staff))
+    (VP (VBD was)
+      (ADJP (JJ polite)
+        (S
+          (VP (TO to)
+            (VP (VB give)
+              (NP (PRP me))
+              (NP
+                (NP (DT a) (JJ few) (NNS cuts))
+                (, ,)
+                (NP
+                  (NP (RB even) (DT a) (NN precision) (NN cut))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (VBD was)
+                        (PP (IN against)
+                          (NP (DT the) (JJ official) (NNS rules)))))))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Huge) (NN parking))
+    (NP (NN area))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (NNP Great) (NNP Home) (NNP Depot))
+    (NP (NN location))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's)
+        (ADJP
+          (ADJP (RB usually) (JJ quiet))
+          (CC and)
+          (ADJP (RB not) (VBN crowded)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (EX there))
+      (VP (VBP are)
+        (ADVP (RB always))
+        (NP
+          (NP (NNS people))
+          (ADJP (JJ available)
+            (S
+              (VP (TO to)
+                (VP (VB help))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's)
+        (ADJP (JJR smaller))
+        (SBAR (IN than)
+          (S
+            (NP (DT the) (NNP Lowe))
+            (VP (VBZ 's)
+              (ADVP (RB down)
+                (NP (DT the) (NN road))))))))
+    (CC but)
+    (S
+      (NP (NNS prices))
+      (VP (VBP seem)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (ADJP
+                (NP (DT a) (RB little))
+                (JJR less)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS christmas) (NN tree) (NN lot))
+    (ADVP (RB here))
+    (VP
+      (VP
+        (VP (VBZ is)
+          (ADJP (JJ fantastic)))
+        (: -)
+        (NP
+          (NP (JJ great) (NN selection))
+          (PP (IN of)
+            (NP
+              (NP (NNS trees))
+              (, ,)
+              (NP (JJ friendly) (NN service))
+              (, ,)))))
+      (CC and)
+      (ADVP (RB pretty) (RB nicely))
+      (VP (VBN decorated)
+        (S
+          (VP (VBG considering)
+            (SBAR
+              (S
+                (NP (PRP it))
+                (VP (VBZ 's)
+                  (NP (DT a) (NNP Home) (NNP Depot)))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Always))
+    (VP (VBP find)
+      (NP (NN stuff))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP I))
+          (VP (VBP come)
+            (ADVP (RB here))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Good) (NNS choices))
+      (PP (IN for)
+        (NP
+          (NP (NN everything))
+          (CC and)
+          (NP (DT the) (NNS possibilities)))))
+    (VP (VBP are)
+      (ADJP (JJ endless)
+        (PP (IN of)
+          (S
+            (VP (VBG trying)
+              (S
+                (VP (TO to)
+                  (VP (VB narrow)
+                    (PRT (RP down))
+                    (NP (PRP$ your) (NNS choices))
+                    (PP (TO to)
+                      (NP (RB just) (CD one) (NN thing)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Employees))
+    (VP
+      (VP (VBP are)
+        (ADJP (JJ nice)))
+      (CC and)
+      (ADVP (RB always))
+      (VP (VBP ask)
+        (SBAR (IN if)
+          (S
+            (NP (PRP you))
+            (VP (MD need)
+              (VP (VB help)))))))
+    (. .)))
+
+

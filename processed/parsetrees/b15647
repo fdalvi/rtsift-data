@@ -1,0 +1,74 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Nice) (JJ friendly) (NN service))
+      (CC and)
+      (NP (PRP it)))
+    (VP (VBZ 's)
+      (ADVP (RB down)
+        (NP (DT the) (NN street))
+        (PP (IN from)
+          (NP (PRP$ my) (NNS moms))))
+      (NP (NN house) (NNS :--RRB-)))))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Friendly) (NN staff))
+      (, ,)
+      (NP (JJ clean) (NN bathroom))
+      (, ,)
+      (NP
+        (NP (NNP ATM))
+        (VP (VBN worked)))
+      (, ,))
+    (ADVP (RB cheap))
+    (VP (VBZ drinks)
+      (PP (IN in)
+        (NP (NN comparison)))
+      (PP (TO to)
+        (NP
+          (NP (JJ other) (NNS places))
+          (PP (IN in)
+            (NP (DT the) (NN area))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD 'll)
+      (VP (VB be)
+        (ADVP (RB back) (RB often))))
+    (: ...)))
+
+
+(ROOT
+  (S
+    (SBAR (IN Considering)
+      (S
+        (NP (PRP I))
+        (VP (VBP live)
+          (PP (IN near)
+            (NP (DT this) (NN area))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (NP (DT a) (JJ quick) (NN convenience) (NN spot)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Nice)
+      (S
+        (UCP
+          (NP (NN atmosphere) (, ,) (JJ courteous) (NN service))
+          (, ,)
+          (CC and)
+          (ADVP (RB always))
+          (ADJP (JJ busy)
+            (PP (IN in)
+              (NP (DT a) (JJ good) (NN way)))))))
+    (. .)))
+
+

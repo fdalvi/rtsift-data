@@ -1,0 +1,116 @@
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP (DT an) (JJ excellent) (NNP UPS) (NNP Store)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS employees))
+    (VP (VBP are)
+      (UCP
+        (ADVP (RB always))
+        (ADJP (JJ fast))
+        (, ,)
+        (ADJP (JJ friendly))
+        (, ,)
+        (CC and)
+        (NP (JJ professional))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN store))
+    (VP (MD will)
+      (VP (VB let)
+        (S
+          (NP (PRP you))
+          (VP (VB use)
+            (NP (PRP$ their) (NNS pens)
+              (CC and)
+              (NN tape))
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP you))
+                (VP (VBP need)
+                  (S
+                    (VP (TO to)
+                      (VP (VB pack)
+                        (NP
+                          (NP (NNS items))
+                          (PP (IN for)
+                            (NP (NN shipping))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB always))
+    (VP (VBP have)
+      (NP
+        (NP (DT a) (NN notary))
+        (PP (IN on)
+          (NP (NN staff)))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ is)
+              (ADJP (JJ knowledgeable)
+                (CC and)
+                (JJ efficient)))))))
+    (. .)))
+
+(ROOT
+  (S (IN So) (, ,)
+    (SBAR (IN if)
+      (S
+        (NP (PRP you))
+        (VP (VBP need)
+          (S
+            (VP (TO to)
+              (VP
+                (VP (VB ship)
+                  (NP (NNS items)))
+                (, ,)
+                (VP (VB get)
+                  (S
+                    (NP (NNS documents))
+                    (ADJP (JJ notarized))))
+                (, ,)
+                (CC or)
+                (VP (VB make)
+                  (NP (NNS copies)))))))))
+    (NP (DT this))
+    (VP (VBZ is)
+      (NP (DT a) (JJ good) (NN place)
+        (S
+          (VP (TO to)
+            (VP (VB do)
+              (NP (NN business))
+              (PP (IN with)))))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (NNP Great))
+    (NP (JJ great) (NN customer) (NN service))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT Every) (NN time))
+    (NP (PRP I))
+    (VP (VBP come)
+      (SBAR
+        (S
+          (PP (IN in)
+            (NP (RB here)))
+          (NP (PRP I))
+          (VP (VBP get)
+            (NP (JJ great) (NN service))))))
+    (. .)))
+
+

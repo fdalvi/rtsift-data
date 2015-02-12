@@ -1,0 +1,131 @@
+(ROOT
+  (S (IN For)
+    (NP
+      (NP (DT any) (NNP Phoenix) (NN native))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBZ listens)
+            (PP (TO to)
+              (NP (JJ rock-this) (NN station)))))))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (ADVP (RB around))
+        (ADVP (RB forever))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP are)
+        (ADVP (RB now) (RB strictly))
+        (NP (JJ classic) (NN rock))))
+    (, ,)
+    (CC but)
+    (S
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (NNP KDKB))
+          (VP (VBZ has)
+            (NP
+              (NP (NNS commercials))
+              (CC or)
+              (NP (DT a) (NN bunk) (NN song))))))
+      (, ,)
+      (NP (DT this))
+      (VP (MD would)
+        (VP (VB be)
+          (NP
+            (NP (NN station))
+            (ADJP (# #) (CD 2))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Plus))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (NP (JJ hella) (NN fun)
+        (S
+          (VP (TO to)
+            (VP (VB do)
+              (NP (DT the) (JJ sound) (NN effect))
+              (PP (IN like)
+                (NP
+                  (NP (NNS swords))
+                  (VP (VBG making)
+                    (NP (DT an) (NNP X.))))))))))))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD listened)
+      (PP (TO to)
+        (NP (DT these) (NNS guys)))
+      (SBAR (IN as)
+        (S
+          (NP (DT the) (NNP Silver) (NNP Spur) (NNP Saloon)
+            (CC &)
+            (NNP Beer) (NNP Garden))
+          (VP (VBD had)
+            (NP (PRP them))
+            (PP (IN on))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP play)
+      (NP
+        (NP (DT a) (JJ great) (NN variety))
+        (PP (IN of)
+          (NP (JJ classic) (NN rock))))
+      (: :)
+      (UCP
+        (NP
+          (NP (NNP Tom) (NNP Peddy)
+            (CC &)
+            (NNP The) (NNP Heart) (NNP Breakers))
+          (, ,)
+          (NP (NNP Phill) (NNP Collins)
+            (CC &)
+            (NNP Genesis))
+          (, ,)
+          (NP (NNP ACDC))
+          (, ,)
+          (NP (NNP Crosby))
+          (, ,)
+          (NP (NNP Stills))
+          (, ,)
+          (CC and)
+          (NP (NNP Nash)))
+        (, ,)
+        (CC and)
+        (ADJP (RB so) (JJ forth))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNP DJs))
+    (VP (VBP are)
+      (ADJP (RB very) (JJ bubbly)
+        (CC and)
+        (JJ full))
+      (PP (IN of)
+        (NP (NN life)))
+      (, ,)
+      (VP (VBG giving)
+        (NP (PRP you))
+        (NP
+          (NP (PDT all) (DT the) (NN information))
+          (SBAR
+            (S
+              (NP (PRP you))
+              (VP (VBP need)))))))
+    (. .)))
+
+

@@ -1,0 +1,82 @@
+(ROOT
+  (S
+    (NP (NNP Shop))
+    (ADVP (RB here))
+    (VP (VBZ quite)
+      (NP
+        (ADJP (RB often) (JJ good))
+        (NN selection)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Pretty))
+      (ADJP (JJ good)
+        (NP
+          (NP (NN veggie)
+            (CC &)
+            (NN health) (NNS foods))
+          (, section)
+          (CC and)
+          (NP (JJ enormous) (NN energy)))))
+    (VP (VBP drink)
+      (S
+        (NP (NN selection))
+        (VP (SYM =)
+          (NP (DT a) (JJ consistent) (NN site))))
+      (PP (IN for)
+        (NP (PRP$ my) (JJ weekly) (NN grocery) (NN trip))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN store))
+    (VP (VBZ has)
+      (NP
+        (NP (DT a) (JJ great) (NN selection))
+        (CC and)
+        (NP (JJ friendly) (NN staff))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (JJ weekly) (NN grocery))
+    (VP (VBP stop))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Great))
+    (VP (VBP store)
+      (NP (JJ friendly) (NNS associates)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (JJ Good) (NN quality) (NNS foods))
+    (ADJP (JJ available))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VP (VB Have)
+        (NP
+          (NP (DT a) (NNP Fry) (POS 's))
+          (NN card)
+          (S
+            (VP (TO to)
+              (VP (VB get)
+                (NP (PDT all) (DT the) (NNS discounts)))))))
+      (CC and)
+      (VP (VB save)
+        (PP (IN on)
+          (NP (NN gas)))))
+    (. .)))
+
+

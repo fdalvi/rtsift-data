@@ -1,0 +1,451 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Das) (NNP Point) (NNP Hotel) (NN liegt) (NN wenige) (NNP Gehminuten) (NNP von))
+      (VP (VBP der)
+        (NP (NNP Princess) (NNP Street))))
+    (, ,)
+    (NP (NNP der) (NNP Haupteinkaufsstrasse))
+    (VP (VBP entfernt))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Man) (NN kann) (NN vom) (NNP Hotel) (NNP aus) (NNP im) (NNP Prinzip))
+    (VP (VBP die)
+      (NP (JJ gesamte) (NNP Innenstadt) (NNP zu) (NNP Fuss) (NNP erkunden)))
+    (. .)))
+
+(ROOT
+  (SINV
+    (VP (VB Das))
+    (NP (NNP Hotel) (NNP ist) (NN f?r) (NNP Edinburgh) (JJ preiswert) (NN und) (NN auch) (NN wirklich) (NN seinen) (NNP Preis) (NNP wert) (NNP !!))))
+
+(ROOT
+  (S
+    (NP (NNP Es) (NNP gibt))
+    (VP (VBP eine)
+      (NP (JJ gro?z?gige) (NN lobby) (NN mit) (NN kostenlosem) (NN wlan)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Im) (NNP Erdgeschoss))
+    (VP (VBP befindet)
+      (NP (JJ sich) (NN eine) (NN sehr) (NN stylische) (NN Bar)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Die) (NNP Zimmer))
+    (VP (VBD sind)
+      (NP (JJ gross) (, ,) (JJ ebenso) (NN das) (NNS Bad)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Mein) (NNP Zimmer) (NN war))
+    (VP (VBZ etwas)
+      (NP
+        (NP (NN abgewohnt) (, ,) (NN aber) (NN das) (NN nimmt) (NN man) (NN beim) (NNS Zimmerpreis))
+        (ADJP (JJ gerne) (JJ hin))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Auf) (NNP Nachfrage) (NN ?ber))
+    (VP (VBP die)
+      (S
+        (NP (NNP Zufriedenheit) (NNP zum) (NNP Aufenthalt) (NN kommt) (NN auf) (NNP Kritik) (NNP hierzu))
+        (VP (VB tats?chlich)
+          (NP (JJ eine) (JJ personalisierte) (NNP Antwort) (NNP von) (NNP der) (NNP Hoteldirektion)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Das) (NN hab) (NN ich) (NN bisher))
+    (VP (VBP noch)
+      (NP (JJ nicht) (NN erlebt)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Insgesamt) (NN eine) (JJ empfehlenswerte) (NN location) (NN f?r) (NN einen))
+    (VP (VBP wirklich)
+      (NP (JJ super) (NNS Preis)))
+    (. .)))
+
+(ROOT
+  (S
+    (LST (LS 4))
+    (VP (VB Sterne))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (NNP Gro?es) (NNP Pro))
+    (VP (VBZ dieses)
+      (NP
+        (NP (NNPS Hotels))
+        (: :)
+        (VP (VB die)
+          (NP (NNP Lage)))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (FRAG
+      (NP
+        (NP (NNP Grassmarket))
+        (, ,)
+        (NP (NNP Royal) (NNP Mile))
+        (, ,)
+        (NP
+          (NP (NNP Edinburgh) (NNP Castle) (JJ sind) (NN innerhalb))
+          (NP (NNP von) (CD 5)))
+        (, ,)))
+    (VP (VBP die))
+    (NP (NNP Princes) (NNP Street) (NN innerhalb) (NNP von) (NNP ca.))))
+
+(ROOT
+  (S
+    (NP (CD 10-15) (NNP Minuten) (NNPS zu) (NNP Fu?))
+    (VP (VBP zu)
+      (NP (NN erreichen)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Ein) (NNP Sainsbury) (NNP Local))
+      (PRN (-LRB- -LRB-)
+        (NP (JJ ein) (NN kleiner) (NN Express-Supermarkt))
+        (-RRB- -RRB-)))
+    (VP (VBP ist)
+      (SBAR
+        (S
+          (NP (NN nur))
+          (VP (MD ca)
+            (VP (VB 100-150m)
+              (NP (NN entfernt)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NN der) (NN stylischen) (NNP Lobby) (NN gibt) (NN es) (NNS kostenfreies) (NNS WLAN)))
+    (, ,)
+    (NP (NNP das) (NNP Hotel-eigene) (NNP Restaurant))
+    (VP (VBP bzw))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VP (VB die)
+        (NP
+          (NP (NNP Bar) (NNP lohnen) (JJ sich) (NN eher) (NN nicht))
+          (: -)
+          (NP (JJ gegen?ber) (NN gibt) (NN es) (NN zwei) (NNS Pubs))))
+      (, ,)
+      (VP (VB die)
+        (NP (JJ beide) (NNS besseres)))
+      (NP (NNP Essen))
+      (PP (IN in)
+        (NP (JJ authentischerer) (NNP Atmosph?re) (NN f?r) (NN weniger) (JJ Geld) (NNS bieten))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Das) (NNP Personal) (NN war) (NN sehr) (NN freundilich) (NN und) (NN ist) (NN bei) (NNP Bedarf))
+    (VP (VBD mehrsprachig))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Unser) (NNP Zimmer) (NN war))
+      (PP (IN in)
+        (NP (NNP Ordnung))))
+    (, ,)
+    (VP (VBG einzig)
+      (NP
+        (NP (JJ im)
+          (ADJP (JJ Bad) (JJ befand))
+          (NN sich) (NNS etwas) (NN Schimmel))
+        (PRN (-LRB- -LRB-)
+          (NP
+            (NP (JJ mehr) (JJ dazu) (NN unten) (NN bei))
+            (NP (NNP Contra) (CD 2)))
+          (-RRB- -RRB-))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Der) (NNP versprochene) (NN castle) (NN view) (NN war))
+      (VP (VBZ allerdings)
+        (NP (NN nur) (NN erahnbar))))
+    (, ,)
+    (NP (NN wenn) (NN man))
+    (VP (VBP sich)
+      (NP (JJ ausreichend) (NN verrenkt) (NN hat)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Gro?es) (NNP Contra) (CD 1))
+    (: :)
+    (NP (NNP Die) (NNP Lautst?rke))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Weniger) (NNP von) (NN draussen) (NN als) (NN viel) (NN mehr) (NNP vom) (NNP Flur))
+    (VP (VBP und)
+      (NP (NNP den) (NNP Zimmernachbarn)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Die) (NNP W?nde) (NN bestehen) (NN scheinbar) (NNP aus) (NNP Papier))
+    (VP (VBP und)
+      (SBAR
+        (S
+          (NP (NN man) (NN h?rt) (NN wirklich))
+          (VP (VBZ alles)
+            (NP (-LRB- -LRB-) (NN ja) (, ,) (NN leider) (NNS alles))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (NNP -RRB-))
+    (VP (VBD was)
+      (NP (FW im) (FW Nachbarzimmer))
+      (SBAR (IN so)
+        (S
+          (NP (PRP vor))
+          (VP (VBP sich)
+            (NP (NN geht))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Hinzu)
+        (NP (NN kommt))))
+    (, ,)
+    (NP (NNS dass))
+    (VP (VBP die)
+      (NP
+        (NP (NNP T?ren) (NNP konstruktionsbedingt) (NNP von) (NN selbst) (NN zufallen))
+        (: -)
+        (NP (NN und) (NN das) (NN ziemlich) (NN laut))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Besonders) (NN sch?n) (NN mit) (NN den) (NNP d?nnen) (NNP W?nden))
+    (ADVP (RB So))
+    (VP (VBD wird)
+      (NP
+        (NP (NN man) (NN zwischen))
+        (SBAR
+          (S
+            (NP (CD 22) (NNP und) (CD 3) (NNP Uhr) (NN immer) (NN mal))
+            (VP (VBP wieder)
+              (SBAR
+                (S
+                  (NP (NNP von) (NN vermeintlichen) (NNP mittelschweren) (NNP Erdbeben))
+                  (VP (VBP aus)
+                    (NP (DT dem) (NNP Schlaf) (NN gerissen))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Wir) (NNP haben) (NN uns) (NN dann) (NNP Ohrenst?psel) (NNP besorgt))
+      (: -)
+      (NP (NN das) (NN erste) (NN Mal))
+      (, ,))
+    (VP (VBZ dass)
+      (S
+        (NP (NN ich))
+        (VP (VB die)
+          (NP (JJ Teile) (JJ ben?tigte) (NN um) (NN schlafen) (NN zu) (NNS k?nnen)))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Gro?es) (NNP Contra) (CD 2))
+    (: :)
+    (NP (NNP Die) (NNP Luft))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Das) (NNP Hotel))
+    (VP (VBP besteht)
+      (NP (NN aus) (NN einem) (NN alten) (NNP Bau) (NN und) (NN einem) (NN modernen) (NNP Anbau) (NNP mit) (NNP Glasfront)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Hierzu))
+      (VP (VBZ muss)
+        (NP (NN ich) (NN sagen))))
+    (, ,)
+    (NP (NNS dass))
+    (VP (VBZ dieses)
+      (S
+        (NP
+          (NP (NNP Problem) (NNP scheinbar))
+          (PP (IN in)
+            (NP (NNP den) (NNP Zimmern) (NN im) (NN alten) (NNP Teil) (NNP des) (NNPS Hotels) (NNP nicht))))
+        (ADJP (JJ besteht))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Im) (NNP neuen) (NNP Teil))
+      (VP (VBZ allerdings)
+        (SBAR
+          (S
+            (NP (NN lassen) (NN sich))
+            (VP (VBP die)
+              (SBAR
+                (S
+                  (NP (NNP Fenster))
+                  (VP (VBD aufgrund)
+                    (NP
+                      (NP (NN der) (NN stylischen) (NN Glasfront) (NN nicht) (NN ?ffnen))
+                      (: -)
+                      (SQ (VBD Was)
+                        (NP (JJ dazu) (NN f?hrt))))))))))))
+    (, ,)
+    (NP (NNS dass))
+    (VP (VBP die)
+      (S
+        (NP (JJ einzige) (NN Frischluft) (NN durch))
+        (VP (VB die)
+          (S
+            (NP (JJ schwachbr?stige) (NN und) (JJ nicht) (NN regelbare) (NNP Klimaanlage))
+            (ADJP (JJ kommt))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNS Besonders))
+      (VP (VBP interressant)
+        (NP (JJ wird) (NN das) (NN dann))))
+    (, ,)
+    (NP (NN wenn) (NNS Morgens))
+    (VP (VBP nacheinander)
+      (NP (CD 2) (NNP Personen) (NNS duschen))
+      (: -)
+      (S
+        (NP (NNP Abends) (NNP ist) (NN es) (NN dann) (NN im) (NNP Zimmer) (NNP immer))
+        (VP (VB noch)
+          (NP (JJ warm-feucht) (NN und) (NN muffig)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (ADJP (JJ Dadurch) (, ,) (JJ dass))
+      (NNP die) (NNP Feuchtigkeit) (NN nicht) (NN anst?ndig) (NN abziehen) (NN konnte) (NN hat) (NN sich) (NN im) (NNP Bad) (NNP auch))
+    (VP (VBD entsprechend)
+      (NP (NNP Schimmel) (NN gebildet)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Abgesehen) (NN davon) (NN ist) (NNP das) (NNP Hotel))
+    (VP (VBP eigentlich)
+      (NP (NN empfehlenswert)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (FRAG
+      (NP (NNP Meine) (NNP Priorit?ten) (NN lagen) (NN hier))
+      (S
+        (VP (VBG eindeutig)
+          (NP (NNP auf) (NNP der) (NNP Lage)))))
+    (, ,)
+    (FRAG
+      (NP (NN daher) (NN war) (NN ich) (NN mit))
+      (: dem)
+      (S
+        (NP (DT The) (NNP Point) (NN zum) (NN bezahlten))
+        (VP (VBZ Preis)
+          (NP (JJ eigentlich) (NN recht) (NN zufrieden))))
+      (. .))))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Nettes) (NNP Hotel))
+      (PP (IN in)
+        (NP (NN sehr) (NN zentraler) (NNP Lage) (, ,) (NNP das))))
+    (VP (VBZ allerdings)
+      (NP
+        (NP (NN schon) (NNS etwas))
+        (PP (IN in)
+          (NP (NNP die) (NNP Jahre) (NN gekommen) (NN ist)))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Die)
+      (NP (NNP Einrichtung) (NN der) (NNP Zimmer) (NNP und) (NNP v.a.)))))
+
+(ROOT
+  (S
+    (VP (VB die)
+      (S
+        (NP (NNP Teppiche) (JJ ?berall) (NN haben))
+        (VP (VB die)
+          (S
+            (NP (NNP besten) (NNP Jahre) (NN schon) (NN hinter) (NN sich) (NNP Zimmer) (NNP und) (NNP Bad) (NN waren) (NN aber) (NNP gro?) (NNP und))
+            (ADJP (JJ sauber))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Ein))
+    (VP (VBZ dickes)
+      (S
+        (NP (NNP Minus) (NN gibt) (NN es) (NN f?r))
+        (VP (VB die)
+          (NP (NNP Tatsache) (, ,) (NNP da?) (NN es) (NN im) (NNP Bad) (NN keine) (NNP Heizung) (NNP gab)))))
+    (. !)))
+
+(ROOT
+  (SINV
+    (VP
+      (ADVP (RB Also))
+      (VBN hie?)
+      (NP (NN es)))
+    (: :)
+    (NP (NNP Nach) (NNP dem) (NNP Aufstehen) (NNP und) (NNP v.a.))))
+
+(ROOT
+  (S
+    (VP (VB nach)
+      (NP (DT dem) (NNP Duschen) (NNP FRIEREN)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (NNP Das) (NNP Fr?hst?cksbuffel) (NN bot) (NN eine) (NN ausreichende) (NN Auswahl) (NN und) (NN wurde) (NN bis) (NN zum) (NNP Schlu?))
+    (VP (VBP immer)
+      (NP (NN wieder) (NN aufgef?llt)))
+    (. .)))
+
+

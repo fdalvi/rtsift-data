@@ -1,0 +1,267 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP love)
+      (NP
+        (NP (DT the) (NN city))
+        (PP (IN of)
+          (NP (NNP Las) (NNP Vegas)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP Home))
+        (PP (IN of)
+          (NP (NN drunken) (NNS girls))))
+      (VP (VBG walking)
+        (NP (NN barefoot))
+        (PP (IN after)
+          (NP
+            (NP (DT the) (NNS hours))
+            (PP (IN of)
+              (NP (CD 1AM)))))))
+    (CC and)
+    (S
+      (NP (NNS hobos))
+      (VP (VBG being)
+        (ADJP (JJ blunt)
+          (SBAR (IN that)
+            (S
+              (NP (PRP they))
+              (ADVP (RB just))
+              (VP (VBP want)
+                (NP
+                  (NP (NN money))
+                  (PP (IN for)
+                    (NP (NN beer))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Las) (NNP Vegas))
+    (VP
+      (VP (VBZ is)
+        (NP (DT a) (JJ big) (NN tourist) (NN spot)))
+      (CC and)
+      (VP (VBZ stays)
+        (ADJP (JJ true)
+          (PP (TO to)
+            (S
+              (VP (VBG making)
+                (ADJP (JJ sure)
+                  (SBAR
+                    (S
+                      (NP (EX there))
+                      (VP (VBZ 's)
+                        (NP
+                          (NP (NN something))
+                          (PP (IN for)
+                            (NP (NN everyone))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN strip))
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ is)
+            (NP
+              (NP (DT the) (NN storefront))
+              (PP (IN of)
+                (NP (DT the) (NN city))))))))
+    (VP (VBZ has)
+      (ADVP (RB much))
+      (S
+        (VP (TO to)
+          (VP (VB offer)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN hotel) (NNS buildings))
+      (VP (VBP are) (RB all)
+        (ADJP (RB uniquely) (VBN built))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP have)
+      (NP (JJ free) (NNS shows))
+      (PP (IN during)
+        (NP
+          (NP (DT the) (NN night))
+          (, ,)
+          (CC and)
+          (NP
+            (NP (NNS bridges))
+            (PP (IN for)
+              (NP (NNS pedestrians))))))
+      (S
+        (VP (TO to)
+          (VP (VB walk)
+            (PRT (RP over))
+            (PP (RB instead) (IN of)
+              (S
+                (VP (VBG waiting)
+                  (PP (IN for)
+                    (NP (DT the) (NN walk) (NN sign))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Because)
+      (PP (IN of)
+        (NP (PRP$ its) (NN popularity))))
+    (, ,)
+    (NP
+      (NP (NNP Las) (NNP Vegas) (NNP Blvd))
+      (PP (IN on)
+        (NP (JJS most) (NNS weekends))))
+    (VP (VBP are)
+      (VP (VBN jammed)
+        (ADJP (VBN packed)
+          (PP (IN with)
+            (NP
+              (NP (NNS cars))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (MD 'll)
+                    (VP (VB move)
+                      (PP (IN at)
+                        (PP (IN like)
+                          (NP
+                            (NP (CD 5) (NN mph))
+                            (ADVP (RB up)
+                              (CC and)
+                              (RB down)
+                              (NP (DT the) (NN strip)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (MD will)
+      (VP (VB be)
+        (NP
+          (NP
+            (ADJP (JJ crazy)
+              (CC and)
+              (JJ impatient))
+            (NN taxi) (NNS drivers))
+          (CC and)
+          (NP (DT all)))))
+    (. .)))
+
+(ROOT
+  (SBARQ (RB So)
+    (WHNP (WP what))
+    (SQ (VBZ 's)
+      (NP (PRP$ my) (NN complaint)))
+    (. ?)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP 're)
+          (NP
+            (NP (CD one))
+            (PP (IN of)
+              (NP
+                (NP (DT those) (NNS people))
+                (SBAR
+                  (WHNP (WP who))
+                  (S
+                    (VP (VBP walk)
+                      (SBAR
+                        (SBAR
+                          (WHADVP (WRB when))
+                          (S
+                            (NP (DT the) (NN walk) (NN sign))
+                            (VP (VBZ is) (RB n't)
+                              (PP (IN on)))))
+                        (, ,)
+                        (CC and)
+                        (SBAR (IN because)
+                          (S
+                            (PP (IN of)
+                              (NP (PRP you)))
+                            (NP
+                              (NP (DT the) (NN car))
+                              (SBAR
+                                (WHNP (WP$ whose) (NNS suppose))
+                                (S
+                                  (VP (TO to)
+                                    (VP (VB be)
+                                      (VP (VBG turning)))))))
+                            (VP (MD can) (RB not)
+                              (VP (VB turn)))))))))))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP hope)
+      (S
+        (NP (PRP you))
+        (VP (VB lose)
+          (NP (PRP$ your) (NN money)
+            (CC and)
+            (NNS shoes))
+          (PP (IN in)
+            (NP (NNP Vegas))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBZ 's)
+      (ADJP (RB just) (JJ inconsiderate)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Come)
+      (PP (IN across)
+        (NP
+          (NP (NN way))
+          (ADJP (RB too) (JJ many))
+          (PP (IN of)
+            (NP
+              (NP (DT these))
+              (PP (IN in)
+                (NP (NNP Vegas))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP love)
+      (NP
+        (NP (JJ old))
+        (CC and)
+        (NP (NNP New) (NNP Las) (NNP Vegas))))
+    (. !)))
+
+
+(ROOT
+  (NP
+    (NP (JJ Always) (NN something) (JJ new))
+    (VP (VBG going)
+      (UCP
+        (PP (IN on))
+        (CC or)
+        (S
+          (VP (TO to)
+            (VP (VB explore))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Never))
+    (ADJP (VBG boring))))
+
+

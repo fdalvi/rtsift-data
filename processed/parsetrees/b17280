@@ -1,0 +1,164 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD loved)
+        (NP (DT the) (NN vegetarian) (NN selection))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (NNS prices))
+      (VP (VBD were)
+        (ADJP (RB quite) (JJ reasonable))
+        (PP (IN for)
+          (NP (NNP Vegas) (NNP dining)))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD liked)
+      (S
+        (NP (PRP it))
+        (ADJP (RB so) (JJ much)
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (VBD dragged)
+                (NP (PRP$ my) (NNS friends))
+                (PP (IN in)
+                  (PP (IN for)
+                    (NP (DT a) (JJ second) (NN meal))))
+                (ADVP (RB here))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD had) (: :)
+        (PRN (: -)
+          (NP
+            (NP (NN potato))
+            (CC &)
+            (NP (NN onion) (NN omelette/tortilla) (NN espanola))))))
+    (: -)
+    (S
+      (NP
+        (NP
+          (NP
+            (NP (JJ marinated) (NN manchego) (NN cheese/queso) (NN manchego))
+            (NP (NNP al) (NNP romero)))
+          (: -)
+          (NP
+            (NP (JJ spicy) (NNS potatoes))
+            (PP (IN with)
+              (NP (NN tomato) (NNS alioli/patatas) (NNS bravas))))
+          (: -)
+          (NP
+            (NP (NN goat) (NN cheese) (NNS baked))
+            (PP (IN in)
+              (NP (NN tomato) (NN sauce/queso) (NNP de) (NNP cabra) (NNP al) (NNP horno))))
+          (: -)
+          (NP
+            (NP (NN mushroom) (NN empanada))
+            (, ,)
+            (NP (NNS porcini) (NN alioli/empanada) (IN de) (NN setas)))
+          (: -)
+          (NP
+            (NP
+              (ADJP (JJ roasted) (JJ red))
+              (NN pepper))
+            (NP (JJ spanish) (NN pizza)))
+          (: -)
+          (NP
+            (NP (JJ black) (NN raspberry) (NN sangria))
+            (NP (DT The) (NN porcini))))
+        (NP (NNS alioli)))
+      (VP (VBD was)
+        (ADVP (RB heavenly))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (CD two) (NN favorite) (NNS dishes))
+    (VP (VBD were)
+      (NP
+        (NP
+          (NP (DT the) (NN goat) (NN cheese))
+          (VP (VBN baked)
+            (PP (IN in)
+              (NP (NN tomato) (NN sauce)))))
+        (, ,)
+        (CC and)
+        (NP (DT the) (NN mushroom) (NN empanada))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ Spanish) (NNS pizzas))
+    (VP (VBP are)
+      (NP
+        (NP (DT a)
+          (ADJP (RB surprisingly) (JJ good))
+          (NN deal))
+        (PRN (-LRB- -LRB-)
+          (NP
+            (NP (NNS lots))
+            (PP (IN of)
+              (NP (NN food)))
+            (PP (IN for)
+              (FRAG (RB not)
+                (ADVP (RB too) (RB much)))))
+          (-RRB- -RRB-))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD looooooooved)
+      (NP (DT the) (NN sangria)))
+    (. .)))
+
+
+(ROOT
+  (SINV
+    (VP (VBD closed))
+    (NP (CD 2/14/10))))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (ADJP (RB so) (JJ sad)
+        (SBAR (IN that)
+          (S
+            (NP (PRP they))
+            (VP
+              (VP (VBD closed)
+                (NP (DT this) (NN place))
+                (PRT (RP down)))
+              (CC and)
+              (VP (VBD turned)
+                (NP (PRP it))
+                (PP (IN into)
+                  (NP (DT a) (JJ Mexican) (NN cantina)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD had)
+      (NP
+        (NP (DT the)
+          (ADJP
+            (ADJP (RBS best) (JJ tapas))
+            (CC and)
+            (ADJP (JJ sangria) (JJ happy)))
+          (NN hour))
+        (PP (IN in)
+          (NP (NNP Las) (NNP Vegas)))))
+    (. !)))
+
+
