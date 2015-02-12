@@ -1,0 +1,134 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT All))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBP have)
+            (S
+              (VP (TO to)
+                (VP (VB say))))))))
+    (VP (VBZ is)
+      (NP
+        (NP (CD 24) (NN hour))
+        (VP (VBG betting)))
+      (, ,)
+      (SBAR
+        (S
+          (NP (DT every) (NN casino))
+          (VP (MD should)
+            (VP (VB do)
+              (NP
+                (NP (DT this))
+                (, ,)
+                (ADJP (RB very) (JJ convient))))))))))
+
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ 's)
+      (NP
+        (NP (DT no) (NN sound))
+        (PP (IN on)
+          (NP
+            (NP (DT any))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NN TV) (POS 's))
+                (PP (IN for)
+                  (NP
+                    (NP (DT any))
+                    (PP (IN of)
+                      (NP (DT the) (NNS games)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (RB Barely)
+      (NP (DT any) (NN waitress) (NN service))
+      (CC and)
+      (NP (DT no) (NN table) (NN side)))
+    (VP (VB service)
+      (PP (IN for)
+        (NP (NN food))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP want)
+          (SBAR
+            (S
+              (NP (PRP you))
+              (VP (MD can)
+                (VP (VB go))))))))
+    (VP
+      (VP
+        (VP (VB wait)
+          (PP (IN in)
+            (NP
+              (NP (DT the) (JJ long) (NN line))
+              (PP (IN at)
+                (NP (DT the) (NNS deli))))))
+        (CC and)
+        (ADVP (RB then))
+        (VP (VB wait)
+          (NP (DT some)
+            (X (SYM *)))
+          (ADVP
+            (ADVP (RBR more) (RB *))
+            (SBAR (IN while)
+              (S
+                (NP (DT the))
+                (VP (VBP make)
+                  (NP (PRP$ your) (NN food))))))))
+      (CC and)
+      (VP (VB call)
+        (NP (PRP$ your) (NN number))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's)
+        (ADJP (JJ open)
+          (NP (CD 24/7)))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBP have)
+        (NP
+          (NP
+            (NP (DT the) (NN football) (NN etc))
+            (PP (IN on)
+              (NP (CD one) (NN side))))
+          (CC and)
+          (NP
+            (NP (DT the) (NN horse) (NN racing))
+            (PP (IN on)
+              (NP (DT the) (JJ other)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHNP (WDT Which))
+      (S
+        (NP (PRP I))
+        (VP (VBP think))))
+    (VP (VBZ works)
+      (ADVP (RB well))
+      (PP (IN for)
+        (NP
+          (NP (DT both))
+          (PP (IN of)
+            (NP (DT the) (NNS books))))))
+    (. .)))
+
+

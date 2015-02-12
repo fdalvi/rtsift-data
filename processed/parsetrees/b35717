@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ is) (RB not)
+        (ADJP (JJ perfect))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP$ its))
+      (VP (VBZ definitely)
+        (PP (IN worth)
+          (NP (DT the) (NN price)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP
+        (ADJP (JJ clean))
+        (CC but)
+        (ADJP
+          (NP (DT a) (RB bit))
+          (JJ noisy)))
+      (PP (IN in)
+        (NP (DT the) (NN morning))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Loved)
+      (NP (PRP it)))
+    (. .)))
+
+

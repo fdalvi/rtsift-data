@@ -1,0 +1,136 @@
+(ROOT
+  (S (IN So)
+    (NP (PRP we))
+    (VP (VBD stopped)
+      (ADVP (RB here))
+      (SBAR (IN before)
+        (S
+          (NP (PRP$ our) (NN flight))
+          (VP (VBD left)
+            (NP
+              (QP (IN at) (IN around) (CD 8) (CD pm)))
+            (PP (IN on)
+              (NP (NNP Friday)))
+            (NP (NN night))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN bartender))
+    (VP (VBD was)
+      (ADJP (JJ friendly)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD offered)
+      (NP (NN food))
+      (PP (IN from)
+        (NP
+          (NP (DT the) (JJ neighboring) (NN Subway))
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBD was)
+                (VP (VBN overpriced)
+                  (ADVP (RB even))
+                  (PP (IN for)
+                    (NP (DT the) (NN airport))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS beers))
+    (VP (VBD were) (RB n't)
+      (VP (VBN priced)
+        (ADVP (RB badly))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP$ My) (JJ major) (NN gripe))
+      (VP (VBD was)
+        (SBAR (IN that)
+          (S
+            (NP (PRP they))
+            (VP (VBD had)
+              (NP
+                (NP (DT a) (JJ full) (NN bar))
+                (PP (IN on)
+                  (NP (DT a) (NNP Friday) (NN night)))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBD closed)
+        (PP (IN at)
+          (NP (CD 9:00)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD could) (RB n't)
+      (VP (VB believe)
+        (NP (PRP it))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD were)
+      (VP (VBG turning)
+        (NP (NNS people))
+        (ADVP (RB away))
+        (PP (IN at)
+          (NP (CD 8:45)))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Crazy))
+    (PP (TO to)
+      (NP (PRP me)))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (JJ Terrible) (NN service))
+    (: ;)
+    (NP
+      (NP (NN waiter))
+      (SBAR
+        (S
+          (VP (MD must)
+            (VP (VB be)
+              (NP (NN union)))))))))
+
+
+(ROOT
+  (S
+    (NP (NNP Nice))
+    (VP (VBP place)
+      (S
+        (VP (TO to)
+          (VP (VB hang)
+            (PRT (RP out))
+            (PP (IN while)
+              (S
+                (VP (VBG waiting)
+                  (PP (IN for)
+                    (NP (PRP$ your) (NN flight)
+                      (S
+                        (VP (TO to)
+                          (VP (VB be)
+                            (ADJP (JJ ready)
+                              (PP (TO to)
+                                (NP (NN board))))))))))))))))
+    (. .)))
+
+(ROOT
+  (INTJ (JJ Good) (NN service) (. .)))
+
+

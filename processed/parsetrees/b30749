@@ -1,0 +1,163 @@
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP (PRP it))
+          (VP (VBZ is) (, ,)
+            (ADVP (RB fast))
+            (NP
+              (NP (NN food))
+              (CC and)
+              (NP (NNP Wienerschnitzel)))))))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (S
+      (NP
+        (NP (RB Not) (PRP$ my) (NN favorite))
+        (PP (CC but)
+          (NP (PRP it))))
+      (VP (VBZ is)
+        (NP
+          (NP (CD one))
+          (PP (IN of)
+            (NP (PRP$ my) (NNS husbands)
+              (CC and)
+              (NN hey))))))
+    (, ,)
+    (WHNP (WP who))
+    (SQ
+      (VP (VBZ does) (RB n't)
+        (VP (VB like)
+          (NP (NN ice) (NN cream)))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN counter) (NNS people))
+    (VP (VBD were)
+      (ADJP (RB very) (JJ friendly)
+        (CC and)
+        (JJ helpful)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN order))
+      (VP (VBD was)
+        (ADJP (JJ accurate))))
+    (CC and)
+    (S
+      (NP (DT the) (NN restaurant))
+      (ADJP (JJ clean)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Everything))
+      (VP (VBD was)
+        (ADJP (JJ hot))))
+    (CC and)
+    (S
+      (NP (PRP we))
+      (VP (VBD had)
+        (NP (DT a) (NNP sunday))
+        (SBAR (IN after)
+          (S
+            (NP (DT that))
+            (VP (VBD was)
+              (ADVP (RB yummy)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD returned)
+      (NP
+        (NP
+          (NP
+            (NP (RB tonight))
+            (PP (IN for)
+              (NP (DT an) (NN ice) (NN cream))))
+          (, ,)
+          (ADVP (RB again)))
+        (ADJP (JJ friendly) (, ,) (JJ fast) (, ,) (JJ effecient)
+          (CC and)
+          (JJ accurate))))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What) (JJR more))
+    (SQ (MD can)
+      (NP (PRP you))
+      (VP (VB ask) (, ,)
+        (SBAR (IN if)
+          (S
+            (NP (PRP you))
+            (VP (VBP are)
+              (VP (VBG going)
+                (S
+                  (VP (TO to)
+                    (VP (VB go)
+                      (PP (TO to)
+                        (NP (NNP Wienerschnitzel))))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Let))
+      (VP (VBZ 's) (RB not)
+        (NP (NN rate) (NN food))
+        (SBAR (IN because)
+          (S
+            (NP (PRP it))
+            (VP (VBZ 's)
+              (NP (DT a) (NN chain)))))))
+    (: ...)
+    (S
+      (NP (PRP it))
+      (ADVP (DT all))
+      (VP (VBZ tastes)
+        (NP (DT the) (JJ same))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN staff))
+    (ADVP (RB here))
+    (VP (VBZ is)
+      (ADJP (JJ friendly)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP
+        (NP (CD one))
+        (PP (IN of)
+          (NP
+            (NP (PRP$ my) (JJ favorite) (JJ quick) (NNS stops))
+            (PP (IN on)
+              (NP (DT the) (NN way) (NN to/from) (NNP California)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (ADVP (RB Too) (RB bad))
+    (NP (PRP they))
+    (VP (VBD closed)
+      (NP (DT this) (NN location)))
+    (. .)))
+
+

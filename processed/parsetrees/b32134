@@ -1,0 +1,113 @@
+(ROOT
+  (S
+    (S
+      (NP (DT This) (NN place))
+      (VP (VBD had)
+        (VP (VBN escaped)
+          (NP (PRP$ my) (NN attention))
+          (PP (IN until)
+            (NP (RB now))))))
+    (, ,) (IN so)
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (ADJP
+          (ADJP (RB very) (RB pleasantly) (JJ surprised))
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (PRP I))
+              (VP (VBD popped)
+                (PP (IN in)
+                  (PP (IN for)
+                    (NP (NN lunch))))
+                (, ,)
+                (ADVP (RB earlier) (NN today))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Overall))
+    (: :)
+    (SBAR (`` ``)
+      (S
+        (NP (PRP I))
+        (VP (VBD was)
+          (ADJP (RB very) (JJ impressed)
+            (PP (IN with)
+              (NP (NNP Crolla) (POS 's)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN fact))
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (NN lunch))
+            (PRN (-LRB- -LRB-)
+              (NP
+                (NP (NN soup))
+                (CC and)
+                (NP (DT a) (JJ filled) (NN roll)))
+              (-RRB- -RRB-)))
+          (VP (VBD cost)
+            (NP
+              (NP (DT a) (NN total))
+              (PP (IN of)
+                (NP
+                  (NP (# #) (CD 3.70))
+                  (, ,)
+                  (SBAR
+                    (WHNP (WDT which))
+                    (S
+                      (VP (VBD struck)
+                        (NP (PRP me))
+                        (PP (IN as)
+                          (NP
+                            (ADJP (RB exceptionally) (JJ good))
+                            (NN value)))
+                        (, ,)
+                        (ADVP (RB only))))))))))))
+    (VP (VBD served)
+      (S
+        (VP (TO to)
+          (VP (VB add)
+            (NP (DT a) (NN cherry))
+            (PP (IN on)
+              (NP (DT the) (NN top)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD 'd)
+      (VP (VB suggest)
+        (S
+          (NP (PRP you))
+          (VP (VB seek)
+            (S
+              (NP (PRP it))
+              (ADVP (RB out))
+              (VP (VB give)
+                (NP (PRP it))
+                (NP (DT a) (NN try))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN From)
+      (ADVP (RB now) (RB on)))
+    (, ,)
+    (NP (PRP it))
+    (VP (MD 'll)
+      (VP (VB be)
+        (PP (IN on)
+          (NP
+            (NP (PRP$ my) (JJ regular) (NN rotation))
+            (PP (IN of)
+              (NP (NN lunch) (NNS places)))))))
+    (. .)))
+
+

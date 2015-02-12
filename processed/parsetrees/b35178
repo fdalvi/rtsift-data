@@ -1,0 +1,62 @@
+(ROOT
+  (S
+    (NP (NNP LOVE) (NNP ROSS))
+    (VP (VBD Picked)
+      (PRT (RP up))
+      (NP (DT some) (NNP Awesome) (NNS deals))
+      (SBAR (IN that)
+        (S
+          (NP (PRP you))
+          (VP (MD cant)
+            (VP (VB get)
+              (NP (DT an)))))))))
+
+
+(ROOT
+  (NP
+    (NP (NNP Tiny) (NNP Ross))
+    (PP (VBN compared)
+      (PP (TO to)
+        (NP
+          (NP (NNS others))
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (VBP have)
+                (VP (VBN been)
+                  (PP (IN in)))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (JJ Fairly) (JJ friendly) (NN service))
+    (ADVP (RB though))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VB Minus)
+        (NP (CD one) (NN star))
+        (SBAR (IN because)
+          (S
+            (NP (PRP they))
+            (VP (VBP need)
+              (S
+                (VP (TO to)
+                  (VP (VB stock)
+                    (NP (PRP$ their) (NNS shelves))
+                    (ADVP (RBR more) (RB often))))))))))
+    (, ,)
+    (NP (EX there))
+    (VP (VBD were)
+      (NP
+        (NP (DT a) (NN lot))
+        (PP (IN of)
+          (NP
+            (NP (JJ huge) (JJ empty) (NNS spaces))
+            (CC and)
+            (NP (NNS gaps))))))
+    (. .)))
+
+

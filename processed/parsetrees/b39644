@@ -1,0 +1,118 @@
+(ROOT
+  (NP
+    (NP (JJ Big) (NN wheel))
+    (, ,)
+    (NP (NN ice) (NN rink))
+    (, ,)
+    (NP
+      (NP (NN plethora))
+      (PP (IN of)
+        (NP
+          (NP (NNS stalls))
+          (VP (VBG selling)
+            (S
+              (NP (DT all) (NNS things))
+              (NP (NNP Christmas)
+                (CC &)
+                (NNP liquid) (NNP Christmas) (NN cheer)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (WP What))
+    (VP (VBZ 's) (RB not)
+      (S
+        (VP (TO to)
+          (VP (VB love)
+            (PP (IN about)
+              (NP (DT the) (NNP Winter) (NNP Wonderland)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (INTJ (UH Yes))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (ADJP (JJ mobbed)
+        (PRN (CC but)
+          (ADVP (RB surely)))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ 's)
+              (NP (DT the) (NN point)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBZ is)
+        (NP
+          (NP (DT a) (JJ fair) (NN bit))
+          (PP (IN of)
+            (NP (NN repetition))))
+        (PP (IN amongst)
+          (NP (DT the) (NNS stalls)))))
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (VP (VBN laid)
+          (PRT (RP out))
+          (NP (RBR better) (DT this) (NN year))
+          (PP (VBN compared)
+            (PP (TO to)
+              (NP (JJ last)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP like)
+      (NP (DT the) (NN fact))
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NN ice-rink))
+          (VP (VBZ is)
+            (ADJP (JJ st)
+              (SBAR
+                (S
+                  (NP
+                    (NP (DT the) (NN top))
+                    (CC &)
+                    (NP (PRP I)))
+                  (ADVP (RB much))
+                  (VP (VBP prefer)
+                    (NP (DT the) (JJ new) (NN style) (JJ big) (NN wheel))))))
+            (PRN (-LRB- -LRB-)
+              (ADJP (JJ pods)
+                (PP (TO to)
+                  (S
+                    (VP
+                      (VP (VBG shelter)
+                        (PRT (RP in)))
+                      (CONJP (RB rather) (IN than))
+                      (VP (VBG being)
+                        (VP (JJ open)
+                          (PP (TO to)
+                            (NP (DT the) (NNS elements)))))))))
+              (-RRB- -RRB-))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (DT A) (JJ great) (NN way))
+    (PP (TO to)
+      (NP (NN while)))
+    (ADVP (RB away)
+      (NP (DT a) (JJ few) (NNS hours))
+      (PP (IN with)
+        (NP
+          (NP (NNS friends))
+          (PP (IN on)
+            (NP (DT a) (JJ wintry) (NN afternoon))))))
+    (. .)))
+
+

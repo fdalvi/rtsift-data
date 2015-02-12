@@ -1,0 +1,190 @@
+(ROOT
+  (SBARQ
+    (WHADVP (WRB How))
+    (SQ (MD could)
+      (NP (PRP you))
+      (VP (VB go)
+        (ADJP (JJ wrong))
+        (PP (IN with)
+          (NP (NNP Wetzels) (NNPS Pretzels)))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (NNP Soft))
+    (PRN (, ,)
+      (S
+        (NP (NN hand))
+        (VP (VBD rolled)))
+      (, ,))
+    (VP (VBD buttered)
+      (CC and)
+      (VBD salted)
+      (NP
+        (NP (NNS pretzels))
+        (VP (VBN made)
+          (PP (IN throughout)
+            (NP (DT the) (NN day))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJ very) (NN reason))
+        (SBAR
+          (S
+            (NP (PRP you))
+            (VP (MD can) (RB not)
+              (VP (VB be)
+                (PP (IN on)
+                  (NP (DT a) (NN diet)))
+                (SBAR
+                  (WHADVP (WRB when))
+                  (S
+                    (NP (PRP you))
+                    (VP (VBP go)
+                      (PP (TO to)
+                        (NP (DT the) (NN mall))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Seriously))
+    (, ,)
+    (NP (PRP you))
+    (VP (MD may)
+      (VP (VB try)
+        (S
+          (VP (TO to)
+            (VP
+              (VP (VB play)
+                (S
+                  (NP (PRP it))
+                  (ADJP (JJ cool))))
+              (CC and)
+              (VP (VB pretend)
+                (S
+                  (S
+                    (NP (DT the)
+                      (ADJP (JJ delicious))
+                      (NN smell))
+                    (VP (VBZ does) (RB not)
+                      (VP (VB affect)
+                        (NP (PRP you))
+                        (PP (IN in)
+                          (NP (DT any) (NN way)))
+                        (SBAR (IN as)
+                          (S
+                            (NP (PRP you))
+                            (VP (VBP stroll)
+                              (VP (VB pass)))))))
+                    (, ,))
+                  (CC but)
+                  (SBARQ
+                    (WHNP (WP who))
+                    (SQ (VBP are)
+                      (NP (PRP we))
+                      (VP (VBG kidding)))
+                    (. ?)))))))))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB highly))
+    (VP (VBP recommend)
+      (NP
+        (NP (DT the) (NN cheese))
+        (ADJP (JJ pretzel)
+          (CC and)
+          (JJ Cin-A-Yum))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN After)
+      (S
+        (VP (VBG eating)
+          (NP
+            (NP (DT a) (JJ few))
+            (PP (IN of)
+              (NP (DT these)))))))
+    (PRN
+      (S
+        (NP (PRP you))
+        (VP (MD will)
+          (VP (VB be)
+            (VP (VBG telling)
+              (NP (NNS people))))))
+      (, ,))
+    (`` ``)
+    (NP (PRP I))
+    (VP (VBP wash)
+      (NP (PRP myself))
+      (PP (IN with)
+        (NP
+          (NP (DT a) (NN rag))
+          (PP (IN on)
+            (NP (DT a) (NN stick))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (JJS Best) (NN pretzel))
+    (VP (VBZ bites)
+      (PRT (RP around)))
+    (. !)))
+
+
+(ROOT
+  (FRAG
+    (ADVP (RB Very))
+    (NP (JJ bad) (NN customer) (NN service))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Look)
+      (PRT (RP out))
+      (PP (IN for)
+        (NP
+          (NP (DT the) (NN lady) (NN ismara))
+          (PP (IN behind)
+            (NP (DT the) (NN counter))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (VBZ 's)
+      (NP (DT the) (JJ wetzel) (JJ pretzel) (NN devil)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ My) (NN family))
+      (CC and)
+      (NP (PRP I)))
+    (ADVP (RB never))
+    (VP (VBP make)
+      (NP
+        (NP (DT a) (NN trip))
+        (PP (TO to)
+          (NP (DT the) (NN mall))))
+      (PP (IN without)
+        (S
+          (VP (VBG stopping)
+            (PP (IN by)
+              (PP (IN for)
+                (NP (PRP$ our) (NN fav))))
+            (NP
+              (NP (DT the) (JJ wetzel) (NNS bits))
+              (PP (IN with)
+                (NP (JJ jalapeno) (NN cheese))))))))
+    (. !)))
+
+

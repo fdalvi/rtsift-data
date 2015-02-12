@@ -1,0 +1,77 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Fun) (NNP pub))
+      (PP (IN on)
+        (NP (NNP Leith))))
+    (VP (VBP Walk)
+      (PP (IN with)
+        (NP
+          (NP (DT a) (JJ good) (NN range))
+          (PP (IN of)
+            (NP (NNS beverages)))))
+      (PP (IN behind)
+        (NP (DT the) (NN bar)))
+      (, ,)
+      (ADVP (IN albeit)
+        (PP (IN at)
+          (NP (NN city) (NN centre) (NNS prices)))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Plenty))
+    (PP (IN of)
+      (NP
+        (NP (NNS boardgames))
+        (PP (TO to)
+          (NP (NN while)))))
+    (ADVP (RB away)
+      (NP (DT a) (JJ slow) (NN afternoon))
+      (PP (IN with)
+        (ADVP (RB too))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (ADJP (RB Really) (JJ nice))
+        (NN wee) (NN bar))
+      (PP (IN on)
+        (NP (NN leith))))
+    (VP (VBP walk))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN atmosphere))
+      (VP (VBZ is)
+        (ADJP (RB very) (JJ chilled))))
+    (, ,)
+    (S
+      (NP (DT the) (NN staff))
+      (VP (VBP are)
+        (ADJP (JJ friendly))))
+    (CC and)
+    (S
+      (NP (DT the) (NN music))
+      (VP (VBZ is)
+        (ADJP (JJ good))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Drinks) (NN selection))
+    (VP (VBZ is)
+      (ADJP (JJ decent)
+        (PP (IN with)
+          (NP
+            (NP (JJ black) (NN isle))
+            (PP (IN on)
+              (NP (NN tap)))))))
+    (. .)))
+
+

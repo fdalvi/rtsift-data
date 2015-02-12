@@ -1,0 +1,118 @@
+(ROOT
+  (S
+    (VP (VBN Tried)
+      (NP (DT this))
+      (NP (RBR earlier) (DT this) (NN year))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (S
+            (VP (VBG working)
+              (ADVP (RB nearby))))
+          (CC and)
+          (S
+            (VP (MD must)
+              (VP (VB admit)
+                (ADJP (RB very) (JJ impressed))
+                (PP (DT both) (IN with)
+                  (NP
+                    (NP (NN quality))
+                    (PP (IN of)
+                      (NP (NN food)
+                        (CC and)
+                        (NN service)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (RB Not) (JJ many))
+    (VP (VBZ places)
+      (SBAR
+        (S
+          (NP (FW i))
+          (VP (VBP go)
+            (S
+              (VP (TO to)
+                (VP (MD can)
+                  (VP (VB rustle)
+                    (PRT (RP up))
+                    (NP (DT a) (NN toastie))
+                    (SBAR (IN that)
+                      (FRAG
+                        (ADVP (RB quickly))))))))
+            (, ,)
+            (ADJP
+              (ADJP
+                (ADJP
+                  (ADJP (NN bit) (JJ similar))
+                  (PP (TO to)
+                    (NP (NNS subways))))
+                (CC but)
+                (ADJP (RB very) (RB well) (JJ staffed)))
+              (CC and)
+              (RB very)
+              (ADJP (RB reasonably) (VBN priced)))))))
+    (. .)))
+
+
+(ROOT
+  (FRAG
+    (NP (RB Quite) (JJ nice))
+    (, ,)
+    (SBAR (IN although)
+      (S
+        (NP (DT the) (NN meal) (NNS deals))
+        (VP (VBP are)
+          (ADJP (RB quite) (JJ specific)
+            (PP (IN about)
+              (SBAR
+                (WHNP (WP what))
+                (S
+                  (NP (PRP they))
+                  (VP (VBP contain)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP I))
+        (VP (VBP 'm) (RB not)
+          (VP (VBG having)
+            (NP
+              (NP (DT a) (NN Subway))
+              (PP (IN at)
+                (NP (NN lunch))))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (MD 'll)
+      (VP
+        (VP (VB come)
+          (ADVP (RB here)))
+        (CC and)
+        (VP (VB have)
+          (NP (DT a) (NN baguette)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Service))
+      (VP (VBZ is)
+        (ADJP (RB generally) (JJ good))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP you))
+      (VP (MD can)
+        (ADVP (RB usually))
+        (VP (VB get)
+          (NP
+            (NP (CD one))
+            (PP (IN of)
+              (NP (DT the) (CD three) (NNS seats))))
+          (PP (IN at)
+            (NP (DT the) (NN window))))))
+    (. .)))
+
+

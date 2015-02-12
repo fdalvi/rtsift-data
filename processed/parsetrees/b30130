@@ -1,0 +1,531 @@
+(ROOT
+  (NP
+    (NP (JJ Good) (NN work))
+    (, ,)
+    (VP (VBN completed)
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (VP (VBD promised)
+            (PP (IN at)
+              (NP (DT the) (JJ agreed) (NN price)))))))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What) (JJR more))
+    (SQ
+      (VP (MD could)
+        (VP (VB youask)
+          (PP (IN for)
+            (PP (IN in)
+              (NP (DT a) (NN mechanic)))))))
+    (. ?)))
+
+
+(ROOT
+  (NP
+    (NP (CD One))
+    (PP (IN of)
+      (NP (DT a) (JJ two-part) (NN review)))
+    (: ...)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have)
+      (NP
+        (NP (DT an)
+          (QP (CD '05) (CD CBR600RR)))
+        (, ,)
+        (PP (IN in)
+          (NP
+            (NP (DT a) (JJ complete) (NN state))
+            (PP (IN of)
+              (NP (NN disrepair)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD called)
+        (SBAR
+          (S
+            (NP (NNP Cycle) (NNP Tech) (, ,) (NNP David))
+            (VP (VBD was)
+              (NP
+                (NP
+                  (SBAR
+                    (WHNP (WP who))
+                    (S
+                      (VP (VBN answered))))
+                  (, ,)
+                  (NP
+                    (NP (NN call))
+                    (VP (VBN dropped))))
+                (PRN (-LRB- -LRB-)
+                  (NP (NNP thanks) (NNP AT&T))
+                  (-RRB- -RRB-))))))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD called)
+      (NP (PRP me))
+      (ADVP (RB right) (RB back)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT This))
+      (VP (VBD was)
+        (NP
+          (NP (CD 10) (RB am))
+          (NP (NNP Tuesday) (CD 19)))
+        (NP (NNP June) (CD 2012))))
+    (, ,)
+    (S
+      (NP (PRP I))
+      (VP (VBD told)
+        (NP (PRP him))
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (NP (DT all))
+            (VP (VBD was)
+              (ADJP (JJ wrong)
+                (PP (IN with)
+                  (NP (PRP it)))))))))
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP (VBD said)
+        (S
+          (VP (TO to)
+            (VP (VB bring)
+              (NP (PRP it))
+              (PP (IN in)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (ADVP (RB even))
+    (VP (VBD offered)
+      (S
+        (VP (TO to)
+          (VP (VB pick)
+            (NP (PRP it))
+            (ADVP (RB up)
+              (PP (IN from)
+                (ADVP
+                  (NP (CD 15) (NNS miles))
+                  (RB away))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD got)
+        (PP (TO to)
+          (NP (PRP$ his) (NN shop)))
+        (PP (IN at)
+          (NP (NN noon)))))
+    (, ,)
+    (S
+      (NP (PRP he))
+      (VP (VBD went)
+        (ADJP (JJ right)
+          (S
+            (VP (TO to)
+              (VP (VB work)
+                (PP (IN on)
+                  (NP (DT an) (NN estimate)))))))))
+    (CC and)
+    (S
+      (PP (IN before)
+        (NP (CD 12:30)))
+      (NP (PRP I))
+      (VP (VBD was)
+        (VP (VBG leaving)
+          (NP (PRP$ my) (NN bike))
+          (PP (IN with)
+            (NP (PRP him))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP 've)
+          (ADVP (RB ever))
+          (VP (VBN had)
+            (NP
+              (NP (NN someone) (NN act))
+              (SBAR (IN like)
+                (S
+                  (NP (PRP they))
+                  (VP (VBP 're) (RB not)
+                    (ADJP (JJ interested)
+                      (PP (IN in)
+                        (NP (PRP$ your) (NN business))))))))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP suggest)
+      (S
+        (NP (PRP you))
+        (VP (VB try)
+          (NP (NNP Cycle) (NNP Tech)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP I))
+        (VP (VBD saw)
+          (NP
+            (NP (DT the) (NNS dozens))
+            (PP (IN of)
+              (NP
+                (NP (NNS bikes))
+                (PP (IN in)
+                  (NP (PRP$ his) (NN shop)))))
+            (SBAR
+              (S
+                (NP (PRP he))
+                (VP (VBD was)
+                  (VP (VBG working)
+                    (PRT (RP on))))))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD realized)
+      (SBAR
+        (WHADJP (WRB how) (JJ important))
+        (S
+          (NP (NNP MY) (NN project))
+          (VP (VBZ is)
+            (PP (TO to)
+              (NP (PRP him)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD dropped)
+      (NP (NN everything))
+      (S
+        (VP (TO to)
+          (VP (VB get)
+            (S
+              (NP (PRP it))
+              (ADJP
+                (ADJP (VBN written)
+                  (PRT (RP up)))
+                (CC and)
+                (ADJP (JJ ready)
+                  (S
+                    (VP (TO to)
+                      (VP (VB go)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT This) (NN bike))
+      (VP (VBZ needs)
+        (NP
+          (NP (DT a) (NN lot))
+          (PP (IN of)
+            (NP (NN attention))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP he))
+            (VP (MD should)
+              (VP (VB have)
+                (NP (PRP it) (JJ ready))
+                (`` ``)
+                (PP (IN in)
+                  (NP (DT a) (NN couple) (NNS days)))
+                ('' '')))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Watch)
+      (PP (IN for)
+        (NP (DT a) (JJ post-repair) (NN review))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD called)
+        (NP (NNP Thursday) (CD 21))
+        (NP
+          (NP (NNP June))
+          (PP (IN at)
+            (NP (CD 5:45))))))
+    (CC and)
+    (S
+      (NP (NNP David))
+      (VP (VBD had)
+        (S
+          (NP (PRP it))
+          (ADJP (JJ ready)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP (JJ incredible))
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBD got)
+            (SBAR
+              (S
+                (NP (PRP it))
+                (VP (RB all) (VBN done)
+                  (PP (IN within)
+                    (NP (DT the) (`` ``) (NN couple) (NNS days) ('' '')))))))))
+      (SBAR (IN as)
+        (S
+          (VP (VBD suggested)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBP 'm)
+        (VP (VBG picking)
+          (NP (PRP it))
+          (ADVP (RB up)
+            (NP (DT this) (NN morning)))))
+      (CC and)
+      (VP (MD will)
+        (VP (VB write)
+          (NP (DT a) (NN follow-up))
+          (SBAR (IN after)
+            (S
+              (NP (PRP I))
+              (VP (VBP peel)
+                (NP (PRP myself))
+                (PP (IN off)
+                  (NP (PRP it)))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (INTJ (UH OK))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD did)
+      (S
+        (NP (DT a) (JJ few) (NNS things))
+        (ADJP (JJ unexpected))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN turn) (NN signal) (NN switch))
+    (VP (VBD was)
+      (UCP
+        (ADJP (`` ``) (JJ sticky) ('' ''))
+        (, ,)
+        (CONJP (RB as) (RB well) (IN as))
+        (NP (DT the) (JJ brake) (JJ light) (NN switch))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (MD must)
+      (VP (VB have)
+        (VP (VBN cleaned)
+          (NP (PRP them))
+          (SBAR (IN as)
+            (S
+              (NP (PRP they))
+              (VP (VBP work)
+                (ADVP (RB just))
+                (PP (IN like)
+                  (NP (JJ new)))
+                (ADVP (RB now))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN As)
+      (PP (IN for)
+        (NP (DT the) (JJ other) (NNS issues))))
+    (, ,)
+    (NP (NNS tires))
+    (VP (VBD -)
+      (NP (NNS take-offs))
+      (PP (CC but)
+        (PP (IN of)
+          (NP
+            (ADJP (RB very) (JJ good))
+            (ADJP (NN quality)
+              (CC and)
+              (JJ excellent))
+            (NN condition)))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNS Brakes))
+    (: -)
+    (NP
+      (ADVP (RB all)
+        (NP (CD three) (NNS sets)))
+      (NP (NNP EBC))
+      (, ,)
+      (NP (JJ final) (NN drive)))
+    (: -)
+    (NP
+      (NP (NNP DID) (CD 520))
+      (CC and)
+      (NP (NNS sprockets) (NN front)
+        (CC and)
+        (NN rear)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NN Oil) (NN change))
+    (: -)
+    (NP
+      (NP (NNP Royal) (NNP Purple))
+      (NP (JJ synthetic)
+        (CC and)
+        (NNP Hiflo) (NN filter)))
+    (. .)))
+
+(ROOT
+  (X
+    (NP (CD Fork) (NNS seals))
+    (: -)
+    (VP (VBN replaced)
+      (ADVP (RB as) (RB well))
+      (PP (IN as)
+        (NP (NN fork) (NN oil))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT All))
+      (VP (VBD told)
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP am)
+              (ADJP
+                (ADJP (JJ VERY) (JJ happy))
+                (PP (IN with)
+                  (NP (NNP Cycle) (NNP Techs) (NN work)))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (NN pricing))
+      (VP (VBD was)
+        (ADVP (RB well))
+        (PP (IN below)
+          (NP
+            (NP (DT any) (NN dealer))
+            (SBAR
+              (S
+                (VP (MD would)
+                  (VP (VB dream)
+                    (PP (IN of))))))))))
+    (. .)))
+
+(ROOT
+  (FRAG (RB Not)
+    (VP (TO to)
+      (VP (VB mention)
+        (NP
+          (NP (DT this))
+          (SBAR
+            (S
+              (NP (DT all))
+              (VP (VBD was)
+                (VP (VBN completed)
+                  (PP (IN in)
+                    (NP (DT an) (JJ amazing) (CD two) (NNS days))))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VB Thank)
+      (S
+        (NP (PRP you))
+        (NP
+          (NP (NNP David))
+          (, ,)
+          (CC and)
+          (NP (NNP Cycle) (NNP Tech)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VB Give)
+        (NP (PRP them))
+        (NP (DT a) (NN shot))))
+    (, ,)
+    (NP (PRP you))
+    (VP (MD wo) (RB n't)
+      (VP (VB be)
+        (ADJP (JJ disappointed))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Great))
+    (VP (VBP work)
+      (ADVP
+        (ADVP (RB as) (RB always))
+        (CC and)
+        (ADVP
+          (NP (DT the) (NNS prices))
+          (RB too))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Dave))
+    (VP (VBZ is)
+      (ADVP (RB always))
+      (NP
+        (NP (JJ top) (NN knotch))
+        (PP (IN in)
+          (S
+            (VP (VBG getting)
+              (NP
+                (NP (NNS things))
+                (VP (VBN done)
+                  (PP (IN for)
+                    (NP (PRP you)))
+                  (PP (IN in)
+                    (NP
+                      (NP (DT the) (NN time) (NN frame))
+                      (VP (VBN promised)))))))))))
+    (. .)))
+
+

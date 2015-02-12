@@ -1,0 +1,417 @@
+(ROOT
+  (FRAG
+    (SBAR
+      (WHNP (WP what))
+      (S
+        (NP (DT a) (JJ great) (JJ comic) (NN book))
+        (VP (VBP store))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD happened)
+        (PP (IN upon)
+          (NP (PRP it)))
+        (PP (IN during)
+          (NP (PRP$ my) (NN stroll)))
+        (PP (IN around)
+          (NP
+            (NP (NNP Fremont) (NNP St.))
+            (SBAR
+              (S
+                (NP (PRP it))
+                (VP (VBZ 's) (RB not)
+                  (NP (NN giant)))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (EX there))
+      (VP (VBZ is)
+        (NP (DT a) (NN lot))
+        (ADVP (RB there))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT the) (NN guy) (NN working))
+      (VP (VBD was)
+        (ADJP (RB super) (JJ nice))))
+    (CC and)
+    (S
+      (NP (PRP we))
+      (VP (VBD chatted)
+        (NP
+          (QP (RB about) (CD comics)))
+        (PP (IN for)
+          (NP
+            (NP (DT a) (JJ good) (NN amount))
+            (PP (IN of)
+              (NP (NN time)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD 'll)
+      (ADVP (RB definitely))
+      (VP (VB stop)
+        (SBAR (IN in)
+          (S
+            (ADVP (RB again))
+            (NP (JJ next) (NN time))
+            (NP (PRP I))
+            (VP (VBP 'm)
+              (PP (IN in)
+                (NP (NNP Vegas))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP (DT a)
+        (ADJP (RB very) (JJ nice))
+        (JJ comic) (NN book) (NN store)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (VP (VBN surprised)
+        (SBAR (IN that)
+          (S
+            (NP (EX there))
+            (VP (VBD was)
+              (ADJP (RB so) (JJ much)
+                (S
+                  (VP (TO to)
+                    (VP (VB look)
+                      (PP (IN at)
+                        (SBAR (IN since)
+                          (S
+                            (NP (DT the) (NN store))
+                            (VP (VBZ is) (RB n't)
+                              (ADJP (RB really) (JJ big)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBD were)
+        (NP
+          (NP (NNS aisles))
+          (PP (JJ full) (IN of)
+            (NP
+              (NP (JJ comic) (NNS books))
+              (CC and)
+              (NP (NN action) (NNS figures)))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP they))
+      (ADVP (RB even))
+      (VP (VBD had)
+        (NP
+          (NP (DT some) (NNS shirts))
+          (PP (IN for)
+            (NP (VB sell))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN backroom))
+      (VP (VBD was)
+        (ADJP (JJ full)
+          (PP (IN of)
+            (NP (JJ back) (NNS issues))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (NN guy))
+      (VP (VBG working)
+        (SBAR
+          (S
+            (NP (EX there))
+            (VP (VBD said)
+              (SBAR (IN that)
+                (S
+                  (NP (JJR more) (NNS issues))
+                  (VP (VBD were)
+                    (PP (IN on)
+                      (NP (DT the) (NN way)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (ADJP (RB very) (JJ pleased)
+        (PP (IN with)
+          (NP
+            (NP (DT the) (NN service))
+            (SBAR
+              (S
+                (NP (PRP I))
+                (VP (VBD got)
+                  (NP (NN while))
+                  (PP (IN in)
+                    (NP (DT the) (NN store))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN guy))
+      (VP (VBD was)
+        (ADJP (RB very) (JJ helpful)
+          (PP (IN with)
+            (NP
+              (NP (DT any) (NNS questions))
+              (SBAR
+                (S
+                  (NP (PRP I))
+                  (VP
+                    (VP (VBD had))
+                    (CC and)
+                    (VP
+                      (ADVP (RB even))
+                      (VBD recommended)
+                      (NP (JJ other) (NNS stores))
+                      (PP (IN for)
+                        (NP (DT the) (NN stuff))))))))))))
+    (NP (PRP he))
+    (VP (VBD did) (RB n't)
+      (VP (VB have)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN With)
+      (NP
+        (NP (DT the) (NN exception))
+        (PP (IN of)
+          (NP
+            (ADJP (RB newly) (VBN released))
+            (NNS issues)))))
+    (, ,)
+    (NP
+      (NP (JJS most))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (NNS items))
+          (PP (IN in)
+            (NP (DT the) (NN store))))))
+    (VP (VBP are)
+      (ADJP (VBN discounted)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ is)
+              (ADJP (JJ great)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP 're)
+          (NP
+            (NP (DT a) (NN fan))
+            (PP (IN of)
+              (NP (NNS comics)))))))
+    (, ,)
+    (ADVP (RB definitely))
+    (VP (VB check)
+      (NP (DT this) (NN place))
+      (PRT (RP out))
+      (SBAR (IN because)
+        (S
+          (NP (EX there))
+          (VP (VBZ is)
+            (NP
+              (NP (NN something))
+              (PP (IN for)
+                (NP (NN everyone)))
+              (S
+                (VP (TO to)
+                  (VP (VB read)))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP (DT a) (JJ great) (NNP Comic) (NNP Book) (NNP Store)))
+    (. !)))
+
+(ROOT
+  (NP
+    (NP
+      (NP (VBN Experienced))
+      (CC and)
+      (NP (JJ friendly) (NN staff)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (NNP A))
+    (VP (MD must)
+      (VP (VB see)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBZ is)
+      (NP (DT an) (JJ amazing) (NN environment))
+      (, ,)
+      (PP (IN with)
+        (NP (JJ awesome) (NNS treasures)
+          (S
+            (VP (TO to)
+              (VP (VB find)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN guy))
+        (PP (IN from)
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBZ owns)
+                (NP (DT this) (NN shop)))))))
+      (VP (VBZ is)
+        (ADJP (JJ awesome))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (MD would)
+        (ADVP (RB extremely))
+        (VP (VB recommend)
+          (S
+            (VP (VBG hitting)
+              (PRT (RP up))
+              (NP (DT this) (NN place)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (ADVP (RB really))
+    (VP (VBZ cares)
+      (PP (IN about)
+        (NP
+          (NP (PRP$ his) (NNS customers))
+          (VP (VBG having)
+            (NP
+              (NP (DT a) (JJ great) (NN time))
+              (PP (IN in)
+                (NP (PRP$ his) (NN shop))))))))
+    (. .)))
+
+(ROOT
+  (NP (NNP GO) (NNP THERE) (NNP YOU) (NNP WO) (NNP N'T) (NNP B) (NNP SORRY) (. !)))
+
+
+(ROOT
+  (NP
+    (NP (JJ Great) (NN shop))
+    (PP (IN near)
+      (NP
+        (NP (NNP Fremont) (NN area)
+          (CC and)
+          (NN close))
+        (PP (TO to)
+          (NP (DT those) (NNS hotels)))
+        (PRN (-LRB- -LRB-)
+          (S
+            (VP (VB walk)
+              (PP (IN towards)
+                (NP (NNP Denny) (NNP s)
+                  (CC and)
+                  (NNP Walgreens)))))
+          (-RRB- -RRB-))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Small) (NN shop))
+    (PP (CC but)
+      (S
+        (VP
+          (ADJP (RB really) (JJ nice))
+          (VBG looking)
+          (NP (NN layout))
+          (PP (IN of)
+            (NP (NNS toys) (, ,) (NNS comics) (, ,) (NNS books)
+              (CC and)
+              (NNS statues))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VP (VB Has)
+        (NP
+          (NP (JJ great) (NN selection))
+          (PP (IN of)
+            (NP (JJR newer) (NNS toys)
+              (CC and)
+              (NNS collectables)))))
+      (CC and)
+      (VP (MD could)
+        (VP (VB have)
+          (ADVP (RB easily))
+          (VP (VBN spent)
+            (NP
+              (NP ($ $) (CD 300))
+              (PP (IN in)
+                (NP (RB there))))
+            (PP (IN on)
+              (NP (NNS collectables)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Did))
+    (VP (VBP buy)
+      (SBAR
+        (S
+          (NP
+            (NP (DT a) (JJ cool) (NN mystery) (NN box) (NN dc) (NN vinyl))
+            (CC and)
+            (NP (DT a) (NN figure)))
+          (VP (VBD had)
+            (VP (VBN been)
+              (VP (VBG looking)
+                (PP (IN for)
+                  (PP (IN in)
+                    (NP (JJ several) (JJ other) (NNS places))))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Great) (NN staff))
+    (, ,)
+    (NP
+      (NP
+        (ADJP (RB very) (JJ friendly))
+        (NN atmosphere))
+      (CC and)
+      (NP (JJ clean) (, ,) (JJ modern) (NN store)))
+    (. .)))
+
+

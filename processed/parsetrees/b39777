@@ -1,0 +1,157 @@
+(ROOT
+  (NP (JJ Great) (NN facility) (. !)))
+
+(ROOT
+  (S
+    (VP (VBG Parking)
+      (PP (IN for)
+        (NP (JJ alternative) (NN fuel) (NNS vehicles)
+          (CC and)
+          (NN bicycle) (NNS racks))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Inside))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (JJ neat) (JJ clean))
+        (CC and)
+        (ADJP (JJ new))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Great) (NN improvement))
+    (PP (IN over)
+      (NP (JJ old) (NN facility)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (VP (VBN denied)
+        (NP (NN care))
+        (PP (IN at)
+          (NP
+            (NP (DT this) (NN facility))
+            (PP (IN over)
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (PRP it))
+                  (VP (VBZ is)
+                    (ADJP (JJ appropriate)
+                      (S
+                        (VP (TO to)
+                          (VP (VB ask)
+                            (NP
+                              (NP (NNS patients))
+                              (PP (IN for)
+                                (NP (DT the) (NN copay))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (MD will) (RB not)
+        (VP (VB pay)
+          (PP (IN for)
+            (NP (NNS services)))
+          (SBAR (IN before)
+            (S
+              (NP (PRP they))
+              (VP (VBP are)
+                (VP (VBN rendered))))))))
+    (: ;)
+    (S
+      (ADVP (RB thus))
+      (, ,)
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP I))
+          (VP (VBD objected)
+            (PP (TO to)
+              (S
+                (VP (VBG paying)
+                  (PP (IN before)
+                    (S
+                      (VP (VBG seeing)
+                        (NP (DT the) (NN doctor)))))))))))
+      (, ,)
+      (NP (PRP I))
+      (VP (VBD was)
+        (VP (VBN told)
+          (S
+            (VP (TO to)
+              (VP (VB leave)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP I))
+        (VP (VBD told)
+          (NP (DT the) (NN staff))
+          (SBAR (IN that)
+            (S
+              (SBAR (IN if)
+                (S
+                  (NP (PRP I))
+                  (VP (VBD had)
+                    (NP
+                      (NP (DT a) (JJ serious) (NN condition))
+                      (CC and)
+                      (NP (DT that)))
+                    (PP (IN by)
+                      (S
+                        (VP (VBG refusing)
+                          (NP (NN treatment))))))))
+              (NP (PRP they))
+              (VP (VBD were)
+                (ADVP (RB potentially))
+                (VP (VBG opening)
+                  (NP (PRP themselves))
+                  (PP (TO to)
+                    (NP
+                      (NP (DT the) (NN possibility))
+                      (PP (IN of)
+                        (NP (DT a) (NN lawsuit))))))))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD was)
+      (VP (VBN told)
+        (S (`` ``)
+          (VP
+            (VP (VB go)
+              (ADVP (RB ahead)))
+            (CC and)
+            (VP (VB sue)
+              (NP (PRP us)))))))
+    (. .)))
+
+(ROOT
+  (S ('' '')
+    (NP (DT This) (NN behavior))
+    (VP (VBZ is)
+      (ADJP (JJ abhorrent)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBG reporting)
+          (NP (DT this) (NN facility))
+          (PP (TO to)
+            (NP (DT the) (NN state) (JJ medical) (NN board))))))
+    (. .)))
+
+

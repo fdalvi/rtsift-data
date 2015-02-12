@@ -1,0 +1,120 @@
+(ROOT
+  (S
+    (NP (NNP Beautiful))
+    (VP (VBZ views))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Nice)
+      (NP (NN menu)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBD Had)
+      (NP
+        (NP (NN lunch))
+        (PP (IN on)
+          (NP (NN patio)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBN Loved)
+        (SBAR (IN that)
+          (S
+            (NP (PRP it))
+            (VP (VBD was) (RB not)
+              (ADJP (VBN crowded)
+                (PP (IN with)
+                  (NP (DT a) (CD hundred) (NNS tables)))))))))
+    (VP (VBD crammed)
+      (PRT (RP in)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (MD Could)
+      (VP (VB enjoy)
+        (NP (DT the) (NN desert)
+          (CC and)
+          (NNS conversations))
+        (PP (IN with)
+          (NP (NNS friends)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD 'll)
+      (VP (VB go)
+        (ADVP (RB again))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Cute))
+    (VP (VBP place)
+      (PP (IN with)
+        (NP (DT some) (JJ nice) (NNS views))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN breakfast) (NN menu))
+      (VP (VBZ is)
+        (ADJP
+          (ADJP (JJ small))
+          (CC and)
+          (ADJP (NN nothing) (JJ outstanding)))))
+    (, ,)
+    (S
+      (NP (NN everything))
+      (VP (VBD was)
+        (ADJP (JJ good))))
+    (CC and)
+    (S
+      (NP (PRP$ our) (NN waitress) (NN Lia))
+      (VP (VBD was)
+        (ADJP (JJ wonderful))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN bacon))
+      (VP (VBD was)
+        (ADJP (JJ crisp))))
+    (CC and)
+    (S
+      (NP (DT the) (NNS waffles))
+      (VP (VBD were)
+        (ADJP (JJ tasty))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN sausage) (NNS links))
+      (VP (VBD were)
+        (VP
+          (ADVP (RB nicely))
+          (VBN cooked))))
+    (CC and)
+    (S
+      (NP (DT the) (NNS portions))
+      (VP (VBD were)
+        (ADJP (RB perfectly) (JJ sized))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Overall))
+    (NP (DT a) (JJ positive) (NN experience))
+    (. .)))
+
+

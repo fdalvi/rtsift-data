@@ -1,0 +1,20 @@
+(ROOT
+  (FRAG
+    (WHNP (WDT What))
+    (PP (FW a)
+      (NP (JJ great) (JJ new) (NN location)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNS LOTS))
+    (PP (IN of)
+      (NP
+        (NP (NN variety))
+        (CC and)
+        (NP (DT a)
+          (ADJP (RB very) (JJ big))
+          (NNS accessories) (NN section))))
+    (. .)))
+
+

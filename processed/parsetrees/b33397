@@ -1,0 +1,270 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Sands) (NNP Carstar))
+      (VP (VBZ is)
+        (ADVP (RB actually))
+        (NP (NNP Sands) (NNP Chevrolet))))
+    (CC but)
+    (S
+      (NP (PRP they))
+      (VP (VB service)
+        (NP (NN everything))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB recently))
+    (VP (VBD had)
+      (NP
+        (NP (DT some) (NN body) (NN work))
+        (VP (VBN done)
+          (PP (TO to)
+            (NP (PRP$ my) (NNP Toyota) (NNS Rav4)))
+          (PP (IN by)
+            (NP (NNP Sands)))))
+      (, ,)
+      (PP (IN at)
+        (NP
+          (NP (DT the) (NN recommendation))
+          (PP (IN of)
+            (NP (PRP$ my) (NN insurance) (NN company))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP (PRP I))
+        (VP
+          (VP (MD could) (RB not)
+            (VP (VB find)
+              (NP (DT any) (NNS reviews))
+              (PP (IN on)
+                (NP (NNP Sands) (NNP Carstar)))))
+          (CC and)
+          (VP (VBD was)
+            (ADJP
+              (NP (DT a) (RB bit))
+              (JJ reluctant)))))
+      (CC but)
+      (S
+        (NP (PRP I))
+        (VP (MD could) (RB n't)
+          (VP (VB find)
+            (NP (DT any) (JJ other) (NN body) (NN shop))
+            (PP (IN with)
+              (NP
+                (ADJP (JJ consistent) (JJ positive))
+                (NNS reviews)))))))
+    (, ,) (IN so)
+    (S
+      (NP (PRP I))
+      (VP (VBD gave)
+        (NP (PRP them))
+        (NP (DT a) (NN chance))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NN Everyone))
+      (VP (VBD was)
+        (ADJP (NN professional))))
+    (, ,)
+    (S
+      (NP (DT the) (NN lot))
+      (VP (VBD was)
+        (ADJP (JJ secure))))
+    (CC and)
+    (S
+      (NP (DT the) (NNS repairs))
+      (VP (VBD performed)
+        (SBAR
+          (S
+            (VP (VBD were)
+              (VP (VBN done)
+                (ADVP (RB right))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP am)
+        (ADJP
+          (ADJP
+            (NP (DT a) (RB bit))
+            (JJ picky))
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (PRP it))
+              (VP (VBZ comes)
+                (PP (TO to)
+                  (NP (NN vehicle) (NNS repairs)))))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (ADJP (JJ pleased))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN body) (NNS lines))
+      (VP (VBD matched)
+        (PRT (RP up))))
+    (, ,)
+    (S
+      (NP (DT the) (NN paint))
+      (VP (VBD matched)
+        (ADVP (RB perfectly))))
+    (CC and)
+    (S
+      (NP (NN everything))
+      (VP (VBD was)
+        (VP (VBN done)
+          (ADVP (RB right)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (ADVP (RB also))
+        (VP (VBN concerned)
+          (PP (IN with)
+            (NP
+              (NP (DT the) (NN use))
+              (PP (IN of)
+                (NP (JJ aftermarket) (NNS parts))))))))
+    (CC and)
+    (S
+      (NP (PRP$ my) (NN estimator))
+      (VP (VBD assured)
+        (NP (PRP me))
+        (SBAR
+          (S
+            (S
+              (NP (PRP they))
+              (VP (MD would)
+                (VP (VB use)
+                  (NP (NNP OEM) (NNS parts)))))
+            (CC and)
+            (S
+              (NP (DT the) (NN insurance) (NN company))
+              (VP (MD would) (RB not)
+                (VP (VB let)
+                  (S
+                    (NP (PRP them))
+                    (VP (VB use)
+                      (S
+                        (NP (NN anything))
+                        (ADJP (RB else))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBP have)
+        (VP (VBN had)
+          (NP (DT the) (NN car))
+          (ADVP (RB back)
+            (PP (IN for)
+              (NP (RB about) (DT a) (NN month)))))))
+    (CC and)
+    (S
+      (ADVP (RB so) (RB far))
+      (NP (PRP I))
+      (VP (VBP have) (RB not)
+        (VP (VBN noticed)
+          (NP (DT any) (NNS problems)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBD took)
+        (NP (PRP$ our) (NNP Chevy) (NNP Suburban)
+          (CC and)
+          (NNP Acura) (NNS TL))
+        (PP (IN into)
+          (NP (DT the) (NNP Surprise) (NN location)))))
+    (CC and)
+    (S
+      (NP (NNP Matt))
+      (VP (VBD took)
+        (NP
+          (NP (NN care))
+          (PP (IN of)
+            (NP (NN everything))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD had)
+      (NP
+        (NP (NN body) (NN work))
+        (VP (VBN done)
+          (PP (IN on)
+            (NP (DT both) (NNS cars))))
+        (: --)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBD were) (DT both)
+              (VP (VBN completed)
+                (PP (IN with)
+                  (PP (IN in)
+                    (NP (DT a) (CD two) (NN day) (NN time) (NN period))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (ADJP (JJ convenient)
+        (S
+          (VP (TO to)
+            (VP
+              (VP (VB go)
+                (PP (TO to)
+                  (NP
+                    (NP (PRP$ my) (JJ local) (NNPS Sands))
+                    (PP (IN for)
+                      (NP (NNS estimates))))))
+              (CC and)
+              (VP (VB drop)
+                (NP (NN off/pick))
+                (PRT (RP up))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Will))
+    (VP (VBP use)
+      (ADVP (RB again))
+      (SBAR (IN if)
+        (S
+          (VP (VBD needed)))))
+    (. .)))
+
+
+(ROOT
+  (NP (NNP Great) (NNP People) (. !)))
+
+(ROOT
+  (NP (NNP Great) (NNP Service) (. !)))
+
+(ROOT
+  (NP (NN :oD)))
+
+

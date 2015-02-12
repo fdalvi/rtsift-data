@@ -1,0 +1,80 @@
+(ROOT
+  (S
+    (NP (DT A) (JJ little))
+    (VP
+      (VP (VBD understaffed))
+      (CC but)
+      (VP
+        (ADVP (RB still))
+        (NP (DT a) (JJ Starbucks) (, ,) (JJ good) (NN stuff))))))
+
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP
+        (NP (DT a) (NN target))
+        (SBAR
+          (S
+            (S
+              (NP (NNP Starbucks))
+              (ADVP (RB always))
+              (VP (VB understaff)
+                (CC and)
+                (VB slow)))
+            (CC but)
+            (S
+              (NP (PRP it))
+              (VP (VBZ 's)
+                (NP
+                  (NP (CD one))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (JJ only) (NNS ones))
+                      (PP (IN in)
+                        (NP (DT the) (NN area))))))
+                (SBAR (IN so)
+                  (S
+                    (NP (PRP it))
+                    (VP (VBZ 's) (RB not)
+                      (NP (DT a) (JJ bad) (NN place)
+                        (S
+                          (VP (TO to)
+                            (VP (VB go))))))))))))))))
+
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ 's)
+      (NP
+        (NP (DT the) (NN point))
+        (PP (IN of)
+          (S
+            (VP (VBG having)
+              (NP
+                (NP (DT a) (NNPS Starbucks))
+                (SBAR (IN if)
+                  (S
+                    (NP (PRP it))
+                    (VP (VBZ does) (RB n't)
+                      (VP (VB open)
+                        (PP (IN till)
+                          (PP (IN after)
+                            (NP (JJ 8am) (NNS ?!?!))))))))))))))))
+
+(ROOT
+  (S
+    (NP (JJS Most) (NNS people))
+    (VP (VBP are)
+      (ADVP (RB already))
+      (PP (IN at)
+        (S
+          (VP (VB work)
+            (PP (IN by)
+              (NP (RB then)))
+            (. .)))))
+    (. .)))
+
+

@@ -1,0 +1,401 @@
+(ROOT
+  (S
+    (FRAG
+      (WHNP (WDT WHAT)))
+    (: :)
+    (S
+      (PP (IN For)
+        (NP
+          (NP (DT those))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBP are) (RB not)
+                (ADJP (JJ familiar)))))))
+      (NP (NNP USO) (NNS centers))
+      (VP (VBP are)
+        (ADJP (JJ available)
+          (PP (IN for)
+            (NP
+              (NP (JJ military) (NNS personnel))
+              (PP (IN as)
+                (NP
+                  (NP (DT a) (NN comfort) (NN lounge))
+                  (ADJP (RB fully) (VBN equipped))
+                  (PP (IN with)
+                    (NP (NNS couches) (, ,) (NN food) (, ,) (NNS computers) (, ,) (FW etc.))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Quality))
+    (VP (VBZ varies)
+      (PP (VBG depending)
+        (PP (IN on)
+          (SBAR
+            (WHNP (WP what) (NN airport))
+            (S
+              (NP (PRP you))
+              (VP (VBP are)
+                (PP (IN at))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (ADVP (RB usually))
+      (VP (VBN located)
+        (PP (IN before)
+          (NP (DT the) (NN security) (NN check) (NNS points)))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP LOCATION))
+    (: :)
+    (NP
+      (NP (NNP Terminal) (CD 2))
+      (PP (IN in)
+        (NP
+          (NP (NNP Sky) (NNP Harbor) (NNP Airport))
+          (PP (IN on)
+            (NP (NNP Mezzanine) (NN level))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VB Go)
+        (PP (TO to)
+          (NP (DT the) (NNS stairs)))
+        (PP (IN by)
+          (NP (DT the) (NN food) (NN court)))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADVP (RB down)
+          (NP (DT the) (NN hall)))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP ATMOSPHERE))
+    (: :)
+    (NP
+      (NP (NNP VERY))
+      (ADJP (RB very) (JJ nice)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (NNP Everything))
+    (VP (VBZ looks)
+      (ADJP (JJ clean)
+        (CC and)
+        (JJ new)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP
+        (NP (JJ several) (NNS rooms))
+        (ADVP (RB here))
+        (: -)
+        (NP
+          (NP (DT a) (NN movie) (NN room))
+          (, ,)
+          (NP (NNS kids) (NN play) (NN room))
+          (, ,)
+          (NP
+            (NP (JJ video) (NN game) (NN room))
+            (PP (IN with)
+              (NP (NN gaming) (NNS chairs))))
+          (CC and)
+          (NP (CD 2) (JJ video) (NN game) (NNS systems)))
+        (, ,)
+        (NP (NN kitchen))
+        (, ,)
+        (NP
+          (NP (JJ main) (NN area))
+          (PP (IN with)
+            (NP
+              (NP (NNS couches))
+              (, ,)
+              (NP (NNS tables))
+              (, ,)
+              (NP (NN computer) (NN lab))
+              (, ,)
+              (CC and)
+              (NP (NN mini-library)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Books))
+    (VP (VBP are)
+      (ADJP (JJ free)
+        (S
+          (VP (TO to)
+            (VP (VB take)
+              (PP (IN from)
+                (NP (DT the) (NN library)))
+              (ADVP (RB as) (RB well)))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (NNP Flat))
+    (VP (VBZ screens)
+      (PP (IN in)
+        (NP (DT every) (NN room)
+          (QP (RB just) (RB about)))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBG Military)
+      (NP
+        (NP (NNS memorabilia)
+          (CC and)
+          (JJ neat) (NNS artifacts))
+        (ADJP (RB hanging) (DT every)))
+      (FRAG
+        (WHADVP (WRB where))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNS PERKS))
+    (: :)
+    (NP
+      (NP (DT All) (NNS kinds))
+      (PP (IN of)
+        (NP
+          (NP (NNS movies))
+          (, ,)
+          (NP (NN internet) (NN access))
+          (, ,)
+          (NP (NN cable) (NN tv))
+          (CC and)
+          (NP (JJ free) (NNS snacks)))))
+    (. !)))
+
+(ROOT
+  (X
+    (ADVP (RB Candy))
+    (, ,)
+    (NP
+      (NP (NN granola) (NNS bars))
+      (, ,)
+      (NP (NNS drinks))
+      (, ,)
+      (NP
+        (NP (NN fruit))
+        (PP (IN with)
+          (NP (NN microwave))))
+      (, ,)
+      (NP (NN coffee) (NN machine) (NN access)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Great))
+    (PP (IN for)
+      (NP (JJ carry-on) (NNS snacks)))
+    (PP (IN on)
+      (NP (DT a) (JJ long) (NN flight)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ cleanest) (NNS bathrooms))
+      (PP (IN in)
+        (NP (DT the) (NN airport))))
+    (VP (VBP are)
+      (ADVP (RB down)
+        (NP (DT the) (NN hall)))
+      (ADJP (JJ !!)))))
+
+(ROOT
+  (NP
+    (NP (NNP SERVICE))
+    (: :)
+    (NP (NNP EXCELLENT))
+    (. !)))
+
+(ROOT
+  (NP
+    (NP (CD 2) (NNS attendants))
+    (PP (IN in)
+      (NP
+        (NP (DT the) (NN lounge))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBD were)
+              (ADJP (RB so) (RB very) (JJ nice)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP
+      (VP (VBD came)
+        (PP
+          (NP (CD 15) (NNS minutes))
+          (IN before)
+          (S
+            (VP (VBG closing)
+              (PP (IN at)
+                (NP (CD 8pm)))))))
+      (CC but)
+      (VP
+        (VP (VBD were)
+          (ADJP (RB so) (JJ welcoming)))
+        (CC and)
+        (VP (VBD offered)
+          (NP (PRP us)))
+        (NP
+          (NP (NN everything))
+          (SBAR (IN that)
+            (S
+              (NP (PRP they))
+              (VP (MD could)
+                (VP (VB offer))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP CONCLUSION))
+    (: :)
+    (S
+      (NP (PRP I))
+      (VP (MD would)
+        (ADVP (RB definitely))
+        (VP (VB visit)
+          (ADVP (RB here))
+          (ADVP (RB again)))))
+    (. !)))
+
+(ROOT
+  (NP
+    (NP (JJ Very) (JJ comfortable) (NN lounge))
+    (PP (IN with)
+      (NP (JJ superb) (NN service)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN Although)
+      (S
+        (NP
+          (NP (RB not) (DT the) (JJS biggest) (NN USO))
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (VBP 've)
+                (VP (VBN been)
+                  (PP (TO to)
+                    (NP (PRP it))))))))
+        (VP (VBZ 's)
+          (ADVP (RB definitely))
+          (NP (DT the) (JJS best) (NN USO)))))
+    (NP (PRP I))
+    (VP (VBP have)
+      (ADVP (RB ever))
+      (VP (VBN been)
+        (PP (TO to))))
+    (. !)))
+
+
+(ROOT
+  (VP (VBN Located)
+    (PP (IN at)
+      (NP (JJ #SkyHarborAirport) (JJ Terminal) (CD 4) (NN level) (CD 2)))))
+
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (MD would)
+      (VP (VB be)
+        (NP (DT a) (JJ great) (NN USO))
+        (SBAR (IN if)
+          (S
+            (NP (PRP it))
+            (VP (VBD was)
+              (ADJP (JJ open)
+                (NP (CD 24) (NNS hours)))
+              (NP (DT a) (NN day)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (CD 8) (NNP AM) (CD -8) (NN PM))
+    (VP (VBZ is)
+      (NP (JJ civilian) (NNS hours)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VBD Was)
+      (NP (DT a) (JJ good) (NN place)
+        (S
+          (VP (TO to)
+            (VP (VB hang)
+              (PRT (RP out))
+              (PP (IN at)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP
+      (VP (VBD Had)
+        (S
+          (VP (TO to)
+            (VP (VB stay))))
+        (ADVP (RB here))
+        (PP (IN for)
+          (NP
+            (NP
+              (NP (NN couple) (NNS hours))
+              (SBAR
+                (FRAG
+                  (PP (IN while)
+                    (S
+                      (VP (VBG waiting)
+                        (PP (IN for)
+                          (FRAG
+                            (NP (DT a) (NN flight))
+                            (NP (JJ back) (NN home) (. .))
+                            (. .)))
+                        (SBAR
+                          (S
+                            (NP (PRP it))
+                            (VP (VBD was)
+                              (ADJP (JJ okay)))))))
+                    (. .))
+                  (. .))))
+            (ADJP (JJ nice) (JJ clean)))))
+      (CC and)
+      (VP (VBD had)
+        (NP
+          (NP (RB plenty))
+          (PP (IN of)
+            (NP (NNS restaurants)
+              (CC and)
+              (NNS bars)))
+          (S (TO to)
+            (VP (VB choose)
+              (PP (IN from))
+              (. .))))))
+    (. .)))
+
+

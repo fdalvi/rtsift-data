@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (NNP Pharmacy))
+    (ADVP (RB always))
+    (VP (VBZ gives)
+      (NP (JJ good) (NN service)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBD was)
+      (NP (PRP$ my) (JJ third) (NN stop)
+        (S
+          (VP (TO to)
+            (VP (VB try)
+              (S
+                (VP (TO to)
+                  (VP (VB get)
+                    (NP (DT a) (NN flu) (NN shot))
+                    (PP (IN at)
+                      (NP
+                        (NP (RB about) (CD 6:30) (NN pm))
+                        (NP (DT an) (JJ noooo) (NN problem))))))))))))
+    (. .)))
+
+
+(ROOT
+  (FRAG
+    (ADVP (RB Very))
+    (NP (JJ friendly) (NN bunch))
+    (. .)))
+
+(ROOT
+  (NP (JJ Great) (NN service) (. !)))
+
+

@@ -1,0 +1,114 @@
+(ROOT
+  (S
+    (S
+      (NP (FW i))
+      (VP (VBP do) (RB n't)
+        (VP (VB get)
+          (NP (PRP it)))))
+    (: -)
+    (S
+      (NP (JJ other) (NNP Tesco) (NNS 's))
+      (VP (VBP seem)
+        (S
+          (VP (TO to)
+            (VP (VB have)
+              (NP
+                (ADJP (RB much) (JJR better))
+                (NN stock))
+              (PP (IN than)
+                (NP (DT this) (NN one))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ takes)
+      (NP (DT an) (NN age)
+        (S
+          (VP (TO to)
+            (VP (VB find)
+              (NP (NN anything))
+              (PP (IN with)
+                (NP
+                  (NP (DT a)
+                    (ADJP (RB slightly)
+                      (PP (IN off)
+                        (NP (NN kilter))))
+                    (NN layout))
+                  (PP (IN from)
+                    (NP (NNP Tesco) (POS 's)))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (VBZ has)
+                        (S
+                          (NP (PRP me))
+                          (ADJP (RB all) (VBN confused)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN number))
+      (PP (IN of)
+        (NP
+          (NP (NNS times))
+          (PP (IN on)
+            (NP (DT the) (NN way)))))
+      (ADVP (NN home)
+        (PP (IN from)
+          (NP (NN work)))))
+    (, ,)
+    (NP (PRP I))
+    (VP
+      (VP (VBP 've)
+        (VP (VBN stopped)
+          (PP (IN in)
+            (ADVP (RB only)))
+          (S
+            (VP (TO to)
+              (VP (VB find)
+                (SBAR (IN that)
+                  (S
+                    (NP
+                      (NP (DT the) (NN item))
+                      (SBAR
+                        (S
+                          (NP (PRP I))
+                          (VP (VBP am)
+                            (VP (VBG looking)
+                              (PP (IN for)))))))
+                    (VP (VBZ is) (RB n't)
+                      (ADJP (JJ available))
+                      (ADVP (RB here))))))))))
+      (: ...)
+      (CC but)
+      (VP (VBZ is)
+        (PP (IN at)
+          (NP (PRP$ my) (JJ local) (NN store)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP guess)
+      (SBAR
+        (S
+          (NP (PRP$ my) (NN question))
+          (ADVP (RB really))
+          (VP
+            (VP (VBZ is))
+            (, ,)
+            (NP
+              (NP (NNP Tesco) (NNP Superstore))
+              (, ,)
+              (NP (NNP Hermiston) (NNP Gait))
+              (, ,)
+              (SBAR
+                (WHNP (WP what))
+                (S
+                  (VP (VBZ is)
+                    (NP (PRP$ your) (NN point))))))))))
+    (. ?)))
+
+

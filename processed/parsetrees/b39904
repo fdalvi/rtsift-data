@@ -1,0 +1,112 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (VP (VBN flabbergasted)
+        (S
+          (VP (TO to)
+            (VP (VB see)
+              (SBAR (IN that)
+                (S
+                  (NP (JJ many) (NN bus) (NNS operators))
+                  (VP (MD can)
+                    (VP (VB work)
+                      (PP (IN in)
+                        (NP (DT the) (JJ same) (NN city)))
+                      (PP (IN at)
+                        (NP (DT the) (JJ same) (NN time)))
+                      (, ,)
+                      (PP (IN from)
+                        (NP (DT the) (JJ same) (NN bus) (NNS stops)))
+                      (, ,)
+                      (S
+                        (VP (VBG doing)
+                          (NP (JJ similar) (NNS routes))
+                          (ADVP (RB !!)))))))))))))))
+
+(ROOT
+  (S
+    (NP (NNP First))
+    (VP
+      (VP (VBZ costs)
+        (NP (DT the) (JJ same))
+        (PP (IN as)
+          (NP (NNP Lothian))))
+      (, ,)
+      (CC but)
+      (VP (VBD did) (RB n't)
+        (VP (VB seem)
+          (S
+            (VP (TO to)
+              (VP
+                (VP (VB be)
+                  (PP (IN on)
+                    (NP (NN time))))
+                (, ,)
+                (VP (VB go)
+                  (SBAR
+                    (WHADVP (WRB where))
+                    (S
+                      (NP (PRP we))
+                      (VP (VBD needed)
+                        (S
+                          (NP (PRP it))
+                          (VP (TO to)
+                            (VP (VB go))))))))
+                (, ,)
+                (CC or)
+                (VP
+                  (ADVP (RB even))
+                  (VB run)
+                  (ADVP (IN at) (DT all))
+                  (PP (IN at)
+                    (NP
+                      (NP (DT the) (NN time))
+                      (SBAR
+                        (S
+                          (NP (PRP we))
+                          (VP (VBD needed)
+                            (S
+                              (VP (TO to)
+                                (VP (VB take)
+                                  (S
+                                    (NP (PRP it))
+                                    (ADJP (JJ !!))))))))))))))))))))
+
+(ROOT
+  (NP (-LRB- -LRB-)
+    (NP (NNS 8pm))
+    (PP (IN towards)
+      (NP (DT a) (JJ main) (NN train) (NN station) (NN !!)))))
+
+(ROOT
+  (S
+    (VP (VB -RRB-)
+      (NP
+        (NP (DT All))
+        (PP (IN in)
+          (NP (DT all)
+            (ADJP
+              (ADVP (RB seriously))
+              (JJ bad))
+            (NN service)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD 'd)
+      (VP (VB recommend)
+        (S
+          (VP (VBG avoiding)
+            (NP (DT these) (NNS buses))))
+        (, ,)
+        (S
+          (VP (TO to)
+            (VP
+              (ADVP (RBR better))
+              (VB enjoy)
+              (NP (PRP$ your) (NN visit)))))))
+    (. .)))
+
+

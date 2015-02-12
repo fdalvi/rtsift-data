@@ -1,0 +1,101 @@
+(ROOT
+  (S
+    (NP (JJ Typical) (NNS Starbucks))
+    (VP (VBN located)
+      (PP (IN in)
+        (NP
+          (NP (NNP ASU) (NNP Tempe) (NNP campus) (POS 's))
+          (NNP Memorial) (NNP Union))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VP (VBP do) (RB not)
+        (VP (VB serve)
+          (NP (DT the) (JJ toasted) (NN breakfast) (NNS sandwiches))))
+      (CC and)
+      (VP (VBP do) (RB n't)
+        (VP (VB accept)
+          (NP (JJ certain) (NNP Starbucks) (NNS incentives/coupons)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Hours))
+    (VP (MD may)
+      (VP (VB vary)
+        (PP (IN with)
+          (NP
+            (NP (NN semester) (NNS breaks))
+            (CC and)
+            (NP (NNP MU) (NN building) (NNS closures))))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (DT A) (JJ typical) (NNP Starbucks)
+      (CC but)
+      (NNP STAY) (NNP AWAY))
+    (PP (IN from)
+      (NP (DT all) (NNPS Starbucks)))
+    (PP (IN on)
+      (NP (NN campus)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (DT some) (NN reason)))
+    (NP (PRP they))
+    (VP (VBP have)
+      (NP (DT the) (JJ WORST) (NN service)))
+    (. .) (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ blonde) (NN guy))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBZ works)))))
+    (ADVP (RB there))
+    (VP (VBZ is)
+      (ADVP (RB SO))
+      (ADJP (JJ cute)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP
+      (NP (JJ Happy) (NNS baristas))
+      (CC and)
+      (NP
+        (NP (JJ quick) (NN service))
+        (PRN (-LRB- -LRB-)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBZ is)
+                (ADJP (JJ surprising))
+                (S
+                  (VP (VBG considering)
+                    (SBAR
+                      (S
+                        (NP (PRP it))
+                        (VP (VBZ is)
+                          (NP
+                            (NP (CD one))
+                            (PP (IN of)
+                              (NP
+                                (NP (DT the) (JJS busiest))
+                                (PP (IN in)
+                                  (NP (DT the) (NN nation))))))))))))))
+          (-RRB- -RRB-))))
+    (. !)))
+
+

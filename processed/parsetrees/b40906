@@ -1,0 +1,93 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN food))
+        (PP (IN at)
+          (NP (DT this) (JJ new) (NN cafe))))
+      (VP (VBD was)
+        (ADJP (RB very) (JJ good))))
+    (CC and)
+    (S
+      (NP (DT the) (NN service))
+      (VP (VBD was)
+        (ADJP (JJ great))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Decor))
+    (VP (VBZ is)
+      (UCP
+        (NP (JJ western))
+        (CC and)
+        (ADJP (RB very) (JJ clean))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Will))
+    (VP (VBP go)
+      (ADVP (RB back) (RB soon)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP REALLY))
+    (VP (VBD enjoyed)
+      (NP (PRP it)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ First) (NN visit))
+      (, ,)
+      (NP (NN motorcycle) (NN parking) (NN outside))
+      (, ,)
+      (NP (JJ GREAT) (NN service))
+      (, ,)
+      (NP (JJ friendly) (NN waitress))
+      (, ,))
+    (VP (VBD LOVED)
+      (NP
+        (NP (DT the) (JJ spicy) (NNS potatoes))
+        (, ,)
+        (ADVP (JJ very))
+        (ADJP (RB reasonably) (VBN priced))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Recommend)
+      (NP (PRP it)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ patty) (NN melt))
+      (PP (IN with)
+        (NP (DT a) (JJ green) (NN chile)
+          (S
+            (VP (VB add)
+              (PRT (RP on)))))))
+    (VP (VBD was)
+      (ADJP (JJ great)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADVP (RB definitely))
+      (ADJP (IN worth) (DT the) (JJ walk)
+        (PP (IN from)
+          (NP (DT the) (NN downtown) (NN area)))
+        (PP (TO to)
+          (NP (DT this) (JJ little) (NN spot)))))
+    (. .)))
+
+

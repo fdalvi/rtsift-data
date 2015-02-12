@@ -1,0 +1,130 @@
+(ROOT
+  (S
+    (NP (RB Absolutely) (JJ fantastic) (NN dining))
+    (VP (VBP experience))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Food))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (RB so) (JJ fresh))
+        (, ,)
+        (ADJP (JJ tasty))
+        (CC and)
+        (ADJP (RB immaculately) (JJ presented))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN While)
+      (S
+        (NP (DT the) (NN wine) (NN menu))
+        (VP (VBD was) (RB n't)
+          (ADJP (RB vastly) (JJ extensive)))))
+    (, ,)
+    (NP
+      (NP (DT each))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (CD 3) (NNS bottles))
+          (SBAR
+            (S
+              (NP (PRP we))
+              (VP (VBD got)))))))
+    (VP (VBD were)
+      (NP
+        (ADJP (RB very) (JJ high))
+        (NN quality)
+        (CC and)
+        (JJ great) (NNS vintages)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Staff))
+    (VP
+      (VP
+        (ADJP (RB very) (JJ knowledgable))
+        (PP (IN with)
+          (NP (DT the) (NN menu))))
+      (CC and)
+      (VP (VBP attentive)
+        (PP (IN in)
+          (NP (PRP$ their) (NN service)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (CD 7/8) (NN staff) (NN front))
+      (PP (IN of)
+        (NP
+          (NP (NN house))
+          (PP (IN for)
+            (NP (PDT such) (DT a) (JJ small) (NN restaurant))))))
+    (VP (VBZ ensures)
+      (SBAR
+        (S
+          (NP (PRP you))
+          (VP (VBP are)
+            (ADVP (RB well))
+            (VP (VBN looked)
+              (PP (IN after)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Booking))
+    (VP (VBZ is)
+      (ADJP (JJ essential))
+      (SBAR (IN as)
+        (S
+          (NP (PRP we))
+          (VP (VBD found)
+            (S
+              (NP (PRP it))
+              (ADJP (RB quite) (JJ hard))
+              (S
+                (VP (TO to)
+                  (VP (VB get)
+                    (NP
+                      (NP (DT a) (JJ decent) (NN time))
+                      (PP (IN for)
+                        (NP (DT a) (NNP Sunday) (NN evening))))
+                    (ADVP
+                      (NP (DT a) (JJ few) (NNS days))
+                      (RB prior))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Like)
+      (NP (JJ previous) (NN reviewer)))
+    (NP (PRP I))
+    (VP (VBP am)
+      (PP (IN in)
+        (NP (NN shock)))
+      (SBAR (IN that)
+        (S
+          (NP (EX there))
+          (VP (VBP are)
+            (ADVP (RB hardly))
+            (NP
+              (NP (DT any) (NNS reviews))
+              (PP (IN for)
+                (NP (DT this) (NN place))))
+            (, ,)
+            (PP (VBN given)
+              (SBAR
+                (S
+                  (NP (PRP it))
+                  (VP (VBZ has)
+                    (VP (VBN been)
+                      (ADVP (RB here))
+                      (PP (IN for)
+                        (NP (IN over) (CD 3) (NNS years))))))))))))
+    (. .)))
+
+

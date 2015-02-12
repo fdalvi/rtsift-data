@@ -1,0 +1,70 @@
+(ROOT
+  (FRAG
+    (ADVP (RB Very))
+    (NP (JJ good) (NN store))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Great) (NN selection))
+      (CC and)
+      (NP
+        (ADJP (RB very) (JJ competitive))
+        (NNS prices)))
+    (VP (VBZ Staff)
+      (ADJP (RB very) (JJ helpful)
+        (CC and)
+        (JJ nice)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBP love)
+      (NP
+        (NP (DT this) (NN store))
+        (PP (IN for)
+          (NP (PRP$ our) (NN soccer) (NNS needs)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN owner)
+        (CC and)
+        (NN staff))
+      (VP (VBP are) (RB all)
+        (ADJP (RB extremely) (JJ helpful))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP love)
+        (NP (DT the) (NN fact))
+        (SBAR (IN that)
+          (S
+            (NP (PRP they))
+            (VP (VBP have)
+              (NP
+                (NP (NN everything))
+                (SBAR
+                  (S
+                    (S
+                      (NP (PRP we))
+                      (VP (VBP need)))
+                    (CC and)
+                    (S
+                      (NP (PRP we))
+                      (VP (VBP do) (RB n't)
+                        (VP (VB have)
+                          (S
+                            (VP (TO to)
+                              (VP (VB go)
+                                (NP (RB anywhere) (RB else))))))))))))))))
+    (. .)))
+
+(ROOT
+  (NP (NNP Thanks) (NNP Soccerloco)))
+
+

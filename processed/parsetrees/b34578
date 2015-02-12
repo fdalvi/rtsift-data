@@ -1,0 +1,1361 @@
+(ROOT
+  (S
+    (VP (VBG Looking)
+      (S
+        (VP (TO to)
+          (VP (VB adopt)
+            (NP (DT an) (NN animal))))))
+    (. ?)))
+
+(ROOT
+  (SQ (VBP Are)
+    (NP (PRP you))
+    (PP
+      (NP (DT a) (NN resident))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (NNP City))
+          (PP (IN of)
+            (NP (NNP Henderson))))))
+    (. ?)))
+
+(ROOT
+  (NP (-LRB- -LRB-)
+    (NP (NNP Or) (NNP Clark) (NNP County))
+    (PP (IN for)
+      (NP (DT that) (NN matter)))
+    (. ?)))
+
+(ROOT
+  (S
+    (SBAR (RB -RRB-) (IN If)
+      (S
+        (NP (DT this))
+        (VP (VBZ is)
+          (NP (PRP you)))))
+    (VP (VBP please)
+      (VP (VB consider)
+        (S
+          (VP (VBG taking)
+            (NP (DT a) (NN look))
+            (PP (IN at)
+              (NP
+                (NP (DT the) (NNP City))
+                (PP (IN of)
+                  (NP
+                    (NP (NNP Henderson) (POS 's))
+                    (NNP Animal) (NNP Shelter)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP
+        (NP
+          (QP (RB about) (CD 1))
+          (NN mile) (NNS East))
+        (PP (IN of)
+          (NP
+            (NP
+              (NP (NN I-515))
+              (PP (IN on)
+                (NP (NNP Galleria))))
+            (CC and)
+            (NP
+              (NP
+                (QP (RB about) (CD 1/2))
+                (NN mile) (NNS East))
+              (PP (IN of)
+                (NP (NNP Boulder) (NNP Highway))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN While)
+      (S
+        (NP (PRP it))
+        (VP (VBZ 's)
+          (PP (IN in)
+            (NP
+              (NP (DT an) (NN out))
+              (PP (IN of)
+                (NP (DT the) (NN way) (NN location))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (PP (IN worth)
+        (NP (PRP$ your) (NN time)
+          (S
+            (VP (TO to)
+              (VP (VB seek)
+                (NP (DT this) (NN place))
+                (PRT (RP out))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (RBR Earlier) (NN today))
+    (PRN (-LRB- -LRB-)
+      (NP (CD 4/7/12))
+      (-RRB- -RRB-))
+    (NP (PRP we))
+    (VP (VBD visited)
+      (NP (DT the) (NN shelter))
+      (PP (IN with)
+        (NP
+          (NP
+            (NP (DT the) (NN intent)
+              (S
+                (VP (TO to)
+                  (ADVP (RB just))
+                  (VP (VB look) (: ...)
+                    (S
+                      (NP (PRP we))
+                      (VP (VBP 've)
+                        (VP (VBN been)
+                          (VP (VBG reviewing)
+                            (NP (NNS shelters))
+                            (PP (NN online))))))))))
+            (PRN (-LRB- -LRB-)
+              (S
+                (NP (NNP Yelp))
+                (VP (VBZ has)
+                  (S
+                    (NP (RB quite) (DT a) (JJ few) (JJ great) (NNS ones))
+                    (VP (TO to)
+                      (VP (VB check)
+                        (PRT (RP out)))))))
+              (-RRB- -RRB-)))
+          (CC and)
+          (NP
+            (NP (DT the) (NNS animals))
+            (SBAR
+              (S
+                (NP (PRP they))
+                (VP (VBP have)
+                  (ADVP (RB up)
+                    (PP (IN for)
+                      (NP (NN adoption)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBD decided)
+        (S
+          (VP (TO to)
+            (VP (VB visit)
+              (NP
+                (NP (DT the) (NNP Henderson) (NNP Shelter))
+                (PP (IN on)
+                  (NP (PRP$ our) (NN way))))
+              (PP (TO to)
+                (NP (RB somewhere) (RB else))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP we))
+      (ADVP (RB never))
+      (VP (VBD had)
+        (S
+          (VP (TO to)
+            (VP (VB go)
+              (NP (RB anywhere) (RB else)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD found)
+      (NP
+        (NP (DT the) (NN animal))
+        (SBAR
+          (S
+            (NP (PRP we))
+            (VP (VBD wanted)
+              (ADVP (RB right) (RB there)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (SBAR (IN While)
+        (S
+          (NP (PRP they))
+          (VP (VBP have)
+            (NP (NNS cats) (, ,) (NNS birds) (, ,) (JJ even) (NNS ferrets)))))
+      (, ,)
+      (NP (PRP they))
+      (VP (VBD had)
+        (S
+          (NP (JJ several) (NNS dogs))
+          (ADJP (JJ available)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD was) (RB not)
+        (NP
+          (NP (JJ full))
+          (PP (IN of)
+            (NP (DT the) (JJ typical) (NNS pitbulls)
+              (CC or)
+              (NNS chihuahuas))))
+        (ADVP (RB either))))
+    (. .)))
+
+(ROOT
+  (S (-LRB- -LRB-)
+    (NP (PRP We))
+    (VP (VBD had)
+      (NP (CD 18))
+      (S
+        (VP (TO to)
+          (VP (VB choose)
+            (PP (IN from))))))
+    (-RRB- -RRB-) (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (JJ Small) (NNS dogs))
+      (VP (MD can)
+        (VP (VB be)
+          (VP (VBN adopted)
+            (PP (IN on)
+              (NP (DT the) (NN spot)))))))
+    (, ,)
+    (NP (JJR larger) (NNS dogs))
+    (VP (VBP do)
+      (VP (VB require)
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (VP (VBZ 's)
+              (VP (VBN called)
+                (NP (DT a) (NN home) (NN check))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP City))
+      (PP (IN of)
+        (NP (NNP Henderson))))
+    (VP (MD will)
+      (VP (VB AT)
+        (S
+          (INTJ (RB NO))
+          (VP
+            (ADVP (RB CHARGE))
+            (VB send)
+            (PRT (RP out))
+            (NP (NN someone))
+            (S
+              (VP (TO to)
+                (VP (VB inspect)
+                  (NP (PRP$ your) (NN property)
+                    (S
+                      (VP (TO to)
+                        (VP (VB make)
+                          (ADJP (JJ sure)
+                            (SBAR
+                              (S
+                                (NP (PRP it))
+                                (VP (VBZ has)
+                                  (NP
+                                    (NP (DT a) (CD 6) (NN foot) (NN high) (NN fence))
+                                    (CC and)
+                                    (NP (DT a) (VBG working) (NN gate))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (VP (VBP Do) (RB n't)
+          (VP (VB let)
+            (S
+              (NP (DT this))
+              (VP (VB scare)
+                (NP (PRP you))
+                (PRT (RP off)))))))
+      (, ,)
+      (NP (PRP it))
+      (VP (MD wo) (RB n't)
+        (VP (VB take)
+          (ADVP (RB long))
+          (S
+            (VP (TO to)
+              (VP (VB do)))))))
+    (, ,)
+    (CC and)
+    (S
+      (ADVP (RB again))
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (PP (IN at)
+          (NP (DT NO)
+            (ADJP (JJ CHARGE)
+              (PP (TO to)
+                (NP
+                  (NP (PRP you))
+                  (PP (IN for)
+                    (NP (DT the) (JJ large) (NN animal))))))
+            (NN home) (NN check)))))
+    (. .)))
+
+(ROOT
+  (S (-LRB- -LRB-)
+    (NP (PRP They))
+    (ADVP (RB basically))
+    (VP (VBD peek)
+      (PRT (RP over))
+      (NP (DT the) (NN fence)
+        (S
+          (VP (TO to)
+            (VP
+              (VP (VB make)
+                (ADJP (JJ sure)
+                  (SBAR
+                    (S
+                      (NP (PRP it))
+                      (VP (VBZ 's)
+                        (ADJP
+                          (NP (CD 6) (NN foot))
+                          (JJ high)))))))
+              (, ,)
+              (VP (VB check)
+                (NP (DT the) (NN gate)
+                  (S
+                    (VP (TO to)
+                      (VP (VB make)
+                        (ADJP (JJ sure)
+                          (SBAR
+                            (S
+                              (NP (PRP it))
+                              (VP (VBZ 's)
+                                (VP (VBN secured)
+                                  (SBAR (IN so)
+                                    (S
+                                      (NP (DT the) (NN wind))
+                                      (VP (MD wo) (RB n't)
+                                        (VP (VB open)
+                                          (NP (PRP it))))))))))))))))
+              (CC and)
+              (VP (VB let)
+                (S
+                  (S
+                    (NP (PRP$ your) (NN animal))
+                    (VP (VBP go)
+                      (S
+                        (VP (VBG exploring)
+                          (NP
+                            (NP (NNP Henderson))
+                            (CC and)
+                            (NP (NNP Las) (NNP Vegas)))))))
+                  (, ,)
+                  (CC and)
+                  (S
+                    (NP (PRP you))
+                    (VP (VBP do) (RB n't)
+                      (VP (VB have)
+                        (S
+                          (VP (TO to)
+                            (VP (VB be)
+                              (NP (NN home))))))))))))))
+      (, ,)
+      (PRN
+        (S
+          (NP (PRP it))
+          (VP (VBZ 's)
+            (ADJP (IN about) (RB as) (JJ non-invasive))
+            (SBAR (IN as)
+              (S
+                (NP (PRP it))
+                (VP (VBZ gets))))))
+        (-RRB- -RRB-)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (SBAR (IN If)
+        (S
+          (NP (DT this))
+          (VP (VBZ is)
+            (VP (VBG freaking)
+              (NP (PRP you))
+              (PRT (RP out))))))
+      (VP (VBP check)
+        (PRT (RP out))
+        (NP (PRP$ their) (NN website)
+          (S
+            (VP (TO to)
+              (VP
+                (VP (VB read)
+                  (PRT (RP up))
+                  (PP (IN on)
+                    (NP (PRP it))))
+                (CC or)
+                (VP (VB give)
+                  (NP (PRP them))
+                  (NP (DT a) (NN call)))))))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (MD 'll)
+        (VP (VB explain)
+          (NP (PRP it)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBD ended)
+        (PRT (RP up))
+        (S
+          (VP (VBG looking)
+            (PP (IN for)
+              (NP (DT a) (JJR smaller) (NN dog)))))))
+    (CC and)
+    (S
+      (NP (PRP we))
+      (VP (VBD found)
+        (NP (CD one))
+        (SBAR (IN that)
+          (S
+            (NP (PRP we))
+            (VP (VBD liked)
+              (NP
+                (NP
+                  (QP (CC and)
+                    (JJR more))
+                  (NN imnportantly))
+                (SBAR
+                  (S
+                    (NP (PRP he))
+                    (VP (VBD liked)
+                      (NP (PRP us)))))))))))
+    (. .)))
+
+(ROOT
+  (S (IN So)
+    (NP (PRP we))
+    (VP (VBD decided)
+      (S
+        (VP (TO to)
+          (VP (VB adopt)
+            (NP (PRP it))
+            (PP (IN on)
+              (NP (DT the) (NN spot)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN adoption) (NN process))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (JJ quick))
+        (CC and)
+        (ADJP (RB hassle) (JJ free))))
+    (. .)))
+
+(ROOT
+  (S (-LRB- -LRB-)
+    (PP (IN Under)
+      (NP (CD 15) (NN min)))
+    (, ,)
+    (SBAR (IN if)
+      (S
+        (NP
+          (NP (DT that))
+          (, ,)
+          (CC and)
+          (NP (DT that)))
+        (VP (VBZ 's)
+          (ADVP (RB only))
+          (PP (IN because)
+            (NP (NN someone))))))
+    (VP (VBD was)
+      (VP (VBG finishing)
+        (ADVP (RB up) (RB ahead))
+        (PP (IN of)
+          (NP (PRP me)))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB -RRB-))
+      (NP (PRP I))
+      (VP (VBD signed)
+        (NP
+          (NP (DT a) (NN couple))
+          (PP (IN of)
+            (NP
+              (NP (NNS forms))
+              (PP (IN for)
+                (NP
+                  (NP (DT the) (NN city))
+                  (, ,)
+                  (NP (CD one)))))))
+        (S
+          (VP (TO to)
+            (VP (VB update)
+              (NP (DT the) (NN microchip) (NN info)))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP
+        (NP (PRP$ my) (JJ debit) (NN card) (NN receipt))
+        (CC and)
+        (NP (DT that)))
+      (VP (VBZ 's)
+        (NP (PRP it))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD were)
+      (ADVP (RB quickly))
+      (VP (VBG heading)
+        (ADVP (IN outside)
+          (PP
+            (PP (IN with)
+              (NP (DT the) (JJ perfect) (NN dog)))
+            (, ,)
+            (CC and)
+            (PP (IN with)
+              (NP (DT the) (NN satisfaction)))))
+        (SBAR (IN that)
+          (S
+            (NP (PRP we))
+            (VP (VBD rescued)
+              (NP (DT a) (NN shelter) (NN dog))
+              (ADVP (RB too)))))))
+    (. !)))
+
+(ROOT
+  (NP
+    (NP (JJ Special) (NNS Note))
+    (: :)
+    (NP
+      (NP (DT The) (NN staff))
+      (SBAR (IN as)
+        (S
+          (PP (IN in)
+            (NP (DT every) (JJ single) (NN one)))
+          (NP (PRP I))
+          (VP (VBD spoke)
+            (S
+              (VP (TO to)
+                (VP (VBD was)
+                  (ADJP (RB simply) (JJ awesome)
+                    (S
+                      (VP (TO to)
+                        (VP (VB work)
+                          (PP (IN with)))))))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Service))
+    (PP (IN with)
+      (NP
+        (NP (DT a) (NN smile))
+        (PP (IN from)
+          (NP (NN start)))))
+    (S
+      (VP (TO to)
+        (VP (VB finish)
+          (ADVP (RB here)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Now))
+      (NP (PRP they))
+      (VP (VBP are)
+        (ADJP
+          (ADJP
+            (NP (DT a) (RB little))
+            (JJ busy))
+          (SBAR (IN so)
+            (FRAG
+              (VP (VB be)
+                (ADJP (JJ patient))))))))
+    (, ,)
+    (CC but)
+    (S
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP they))
+          (VP (VBP get)
+            (PP (TO to)
+              (NP (PRP you))))))
+      (NP (PRP they))
+      (VP (VBP answer)
+        (NP
+          (NP (DT any) (NNS questions))
+          (SBAR
+            (S
+              (NP (PRP you))
+              (VP (MD could)
+                (ADVP (RB possibly))
+                (VP (VB have))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP
+        (NP (JJ small) (NNS rooms))
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (NP (PRP you))
+            (VP (MD can)
+              (VP
+                (VP (VB take)
+                  (NP (DT the) (NNS animals))
+                  (PP (IN in)))
+                (CC and)
+                (VP (VB see)
+                  (SBAR (IN if)
+                    (S
+                      (NP (PRP they))
+                      (VP
+                        (VP (VBP like)
+                          (NP (PRP you)))
+                        (CC and)
+                        (VP
+                          (ADVP
+                            (ADVP (RB vice) (RB versa))
+                            (PRN (-LRB- -LRB-)
+                              (S
+                                (NP (DT this))
+                                (VP (VBZ is)
+                                  (NP
+                                    (NP (DT a) (JJ serious) (NN melting) (NN point))
+                                    (, ,)
+                                    (SBAR
+                                      (S
+                                        (VP (VBP do) (RB n't)
+                                          (VP (VB say)
+                                            (SBAR
+                                              (S
+                                                (NP (PRP you))
+                                                (VP (VBD were) (RB n't)
+                                                  (VP (VBN warned))))))))))))
+                              (-RRB- -RRB-))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (JJ only) (NN nitpick))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (MD could)
+              (VP (VB ding)
+                (NP (PRP them))
+                (PRT (RP on)))))))
+      (VP (VBZ is)
+        (NP
+          (NP (DT the) (JJ outside) (NN area))
+          (SBAR
+            (S
+              (VP (MD could)
+                (VP (VB use)
+                  (NP
+                    (NP (DT a) (NN powerwasher))
+                    (VP (VBN taken)
+                      (PP (TO to)
+                        (NP (PRP it))))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADVP (RB still))
+        (NP
+          (NP (CD one))
+          (PP (IN of)
+            (NP
+              (NP (DT the)
+                (ADJP (JJS best) (VBG looking)))
+              (, ,)
+              (CC and)
+              (NP
+                (NP (JJ cleanest) (NN city) (NNS shelters))
+                (SBAR
+                  (S
+                    (NP (PRP I))
+                    (VP (VBP 've)
+                      (ADVP (RB ever))
+                      (VP (VBN been)
+                        (PP (IN in))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD ca) (RB n't)
+      (VP (VB recommend)
+        (ADVP
+          (NP (DT this) (NN place))
+          (RB enough))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (RB Here))
+      (VP (VBZ 's)
+        (NP
+          (NP (DT a) (JJ sneak) (NN peek))
+          (PP (IN at)
+            (NP (DT the) (NN pricing))))
+        (ADVP (RB too))))
+    (: ...)
+    (CC and)
+    (S
+      (NP (PRP you))
+      (VP (VBP get)
+        (NP
+          (NP (CD one) (NN heck))
+          (PP (IN of)
+            (NP
+              (NP (DT a) (NN deal))
+              (PP (IN for)
+                (NP (DT the) (NN price))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VB Go)
+        (NP
+          (NP
+            (NP (NN price))
+            (NP (DT the) (JJ individual) (NNS services))
+            (, ,)
+            (NP (NNS shots))
+            (, ,)
+            (NP (NN microchipping))
+            (, ,) (FW etc))
+          (ADVP (RB individually)))))
+    (CC and)
+    (S
+      (NP (PRP you))
+      (VP (MD will)
+        (VP
+          (VP (VB step)
+            (ADVP (RB back)))
+          (CC and)
+          (VP (VB say)
+            (NP (NNP WOW))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (PP (IN From)
+      (NP
+        (NP (DT the) (NN website))
+        (PP (RB as) (IN of)
+          (NP (CD 4/7/12)))))
+    (: :)
+    (NP (JJ Adoption) (NNS fees))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ Our) (NNS cats/kittens))
+    (VP (VBP are)
+      (VP (VBN adopted)
+        (PP (IN for)
+          (NP
+            (NP ($ $) (CD 55.00))
+            (NP (DT each))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ Our) (NNS dogs/puppies))
+    (VP (VBP are)
+      (VP (VBN adopted)
+        (PP (IN for)
+          (NP
+            (NP ($ $) (CD 65.00))
+            (NP (DT each))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Ferrets))
+    (VP (VBP are)
+      (VP (VBN adopted)
+        (PP (IN for)
+          (NP
+            (NP ($ $) (CD 55.00))
+            (NP (DT each))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT These) (NNS fees))
+    (VP (VBP include)
+      (NP
+        (NP
+          (NP (DT the) (JJ routine) (NNS vaccines) (, ,) (NN spay)
+            (CC or)
+            (NN neuter) (NN surgery))
+          (SBAR (IN if)
+            (S (RB not)
+              (VP
+                (ADVP (RB already))
+                (VBN done)))))
+        (, ,)
+        (NP
+          (NP (NNP microchip) (NNP ID))
+          (CC and)
+          (NP (NN registration)))
+        (, ,)
+        (CC and)
+        (NP
+          (NP (DT a) (NN Rabies) (NN tag))
+          (CC or)
+          (NP (NNP Henderson) (NNP License))))
+      (PRN (-LRB- -LRB-)
+        (PP (VBG depending)
+          (PP (IN on)
+            (SBAR
+              (WHADVP (WRB where))
+              (S
+                (NP (PRP you))
+                (VP (VBP live))))))
+        (-RRB- -RRB-)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBP take)
+      (NP (NN cash) (, ,) (NNS checks) (, ,)
+        (CC and)
+        (JJ major) (NN credit) (NNS cards))
+      (PP (IN as)
+        (NP
+          (NP (NN form))
+          (PP (IN of)
+            (NP (NN payment))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (IN Along)
+        (PP (IN with)
+          (NP (PRP$ your) (NN adoption) (NNS papers))))
+      (NP (PRP they))
+      (VP (VBP offer)
+        (NP
+          (NP
+            (NP (JJ super) (JJ cool) (JJ local) (NNS discounts))
+            (PP (IN on)
+              (NP (JJ pet) (NNS washes))))
+          (, ,)
+          (NP
+            (NP (DT a)
+              (ADJP
+                (NP (CD 48) (NN hour))
+                (JJ free))
+              (NN checkup))
+            (PP (IN at)
+              (NP
+                (NP (DT a) (JJ long) (NN list))
+                (PP (IN of)
+                  (NP (JJ various) (NNS vets))))))
+          (, ,)
+          (CC and)
+          (NP
+            (NP (RB even) (VBN discounted) (NN photography) (NNS options))
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (NP (PRP I))
+                (VP (VBP intend)
+                  (S
+                    (VP (TO to)
+                      (VP (VB use)))))))))))
+    (CC and)
+    (S
+      (ADVP (RB hopefully))
+      (NP (PRP I))
+      (VP (MD can)
+        (VP (VB review)
+          (NP
+            (NP (DT those))
+            (PP (IN for)
+              (NP (NNP Yelp))))
+          (ADVP (RB too)))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP
+      (NP (CD 5) (NNS Stars))
+      (, ,)
+      (ADJP (NNP Highly) (, ,) (JJ HIGHLY)))
+    (VP (VBD RECOMMENDED))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (ADVP (RB recently))
+    (VP (VBD adopted)
+      (NP (PRP$ our) (NN dog))
+      (PP (IN from)
+        (NP (NNP Henderson) (NNP Animal) (NNP Control))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD made)
+      (NP (DT the) (NN decision)
+        (S
+          (VP (TO to)
+            (VP (VB adopt)
+              (PP (IN from)
+                (NP (DT this) (NN facility)))
+              (SBAR (IN because)
+                (S
+                  (NP (PRP we))
+                  (VP (VBD had)
+                    (VP (VBN heard)
+                      (NP (JJ good) (NNS things))
+                      (PP (IN about)
+                        (NP (PRP it))))))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (WHNP (WDT What))
+    (PP (FW a)
+      (NP (JJ great) (NN place)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (MD could)
+      (VP (VB socialize)
+        (PP (IN with)
+          (PP (IN as)
+            (NP (JJ many) (NNS animals))))
+        (SBAR (IN as)
+          (S
+            (NP (PRP we))
+            (VP (VBD liked)
+              (PP (IN for)
+                (ADVP (RB as) (RB long)))
+              (SBAR (IN as)
+                (S
+                  (NP (PRP we))
+                  (VP (VBD liked)))))))
+        (, ,)
+        (SBAR (IN until)
+          (S
+            (NP (PRP we))
+            (VP (VBD found)
+              (NP
+                (NP (PRP$ our) (JJ own) (JJ very) (JJ special) (JJ little) (NN fellow))
+                (SBAR
+                  (WHNP (WP who))
+                  (S
+                    (VP (VBD ended)
+                      (PRT (RP up))
+                      (S
+                        (VP (VBG adopting)
+                          (NP (NNP US)))))))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN price))
+      (VP (VBD was)
+        (ADJP (JJ great))))
+    (PRN (-LRB- -LRB-)
+      (S
+        (ADVP
+          (NP ($ $) (CD 65))
+          (RB as))
+        (VP (VBN opposed)
+          (PP (TO to)
+            (NP
+              (QP (IN up) (TO to) ($ $) (CD 200))))
+          (PP (IN at)
+            (NP (JJ other)
+              (NX (`` ``) (NNS shelters) ('' ''))))))
+      (-RRB- -RRB-))
+    (CC and)
+    (S
+      (NP (DT the) (NNS perks)
+        (CC and)
+        (NNS benefits))
+      (VP (VBD were)
+        (ADVP (RB just))
+        (PP (TO to)
+          (NP (PRP$ our) (NN liking)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN staff))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (JJ friendly))
+        (CC and)
+        (ADJP (RBS most) (JJ accommodating))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN process))
+    (VP (VBD was)
+      (ADVP (RB definitely))
+      (ADJP (JJ hassle-free)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP we))
+        (VP (VBD took)
+          (NP
+            (NP (NNP Charlie))
+            (PP (IN for)
+              (NP (PRP$ his) (JJ free) (NNS wellness) (NN check)))))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD was)
+      (VP (VBN pronounced)
+        (S
+          (ADJP (JJ healthy)
+            (PP (IN except)
+              (PP (IN for)
+                (NP (DT a) (JJ slight) (NN respiratory) (NN infection))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBD received)
+        (NP (JJ free) (NN medication))
+        (PP (IN from)
+          (NP (DT the) (JJ caring) (NN vet)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP we))
+      (VP (MD could)
+        (VP (VB have)
+          (VP (VBN returned)
+            (PP (IN for)
+              (NP
+                (NP (DT another) (JJ free) (NN visit))
+                (CC and)
+                (NP (JJR more) (JJ free) (NNS meds))))
+            (SBAR (MD should)
+              (S
+                (NP (PRP we))
+                (VP (VBP need)
+                  (NP (PRP it)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Happily))
+    (, ,)
+    (S
+      (NP (PRP$ our) (NN pup))
+      (VP (VBD was)
+        (ADJP (JJ good)
+          (S
+            (VP (TO to)
+              (VP (VB go)
+                (SBAR (IN after)
+                  (S
+                    (NP (PRP he))
+                    (VP (VBD took)
+                      (NP (PRP$ his) (NNS pills)))))))))))
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP (VBZ has)
+        (VP (VBN made)
+          (S
+            (NP (PRP$ our) (NN house))
+            (NP (DT a) (NN home))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Thank)
+      (NP (PRP you))
+      (PP (TO to)
+        (NP
+          (NP (DT the) (JJ exceptional) (NN staff))
+          (PP (IN for)
+            (NP
+              (NP (DT the) (JJS best) (JJ little) (NN dog))
+              (PP (IN in)
+                (NP (DT the) (NN world))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Highly))
+    (VP (VBD recommended)
+      (PP (IN by)
+        (NP (PRP us))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP Saturday) (, ,) (NNP Aug.) (CD 10) (, ,) (CD 2013))
+        (NP (PRP me)))
+      (CC and)
+      (NP (PRP$ my) (NN family)))
+    (VP (VBD went)
+      (PP (TO to)
+        (NP (DT the) (NNP Clark) (NNP County) (NNP Animal) (NNP Shelter)))
+      (PP (IN in)
+        (NP (NNP Henderson) (NNP /) (NNP Gallaria))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP
+        (VP (VBD found))
+        (CC and)
+        (VP (VBD fell)
+          (NP (NN inlove))
+          (PP (IN with)
+            (NP (DT a) (JJ black) (JJ miniature) (NN poodle))))))
+    (PRN (, ,)
+      (S
+        (NP (PRP we))
+        (VP (VBD saw)
+          (NP
+            (NP (DT a) (NN lot))
+            (PP (IN of)
+              (NP
+                (NP (JJ beautiful) (NNS dogs))
+                (VP (VBG needing)
+                  (NP (NN rescue)))))))))
+    (CC but)
+    (S
+      (NP (DT this) (JJ black) (NN mini) (NN poodle))
+      (VP (VBD stood)
+        (PRT (RP out))
+        (NP (DT the) (JJS most))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBD asked)
+        (NP (DT the) (NN staff))
+        (SBAR (IN if)
+          (S
+            (NP (PRP we))
+            (VP (MD could)
+              (VP (VB interact)
+                (PP (IN with)
+                  (NP (PRP her)))
+                (PP (IN before)
+                  (S
+                    (VP (VBG deciding))))))))))
+    (, ,)
+    (NP (PRP she))
+    (VP (VBD was)
+      (PP (JJ such)
+        (NP (DT a) (JJ sweet) (, ,) (JJ mellow) (, ,) (JJ obedient) (NN dog))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (ADVP (RB so))
+      (VP (VBN amazed)
+        (PP (IN on)
+          (SBAR
+            (WHADVP (WRB how) (RB well))
+            (S
+              (VP (VBD behaved)
+                (NP (DT this) (JJ mini) (NN poodle))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (ADVP (DT all))
+    (VP (VBD decided)
+      (S
+        (VP (TO to)
+          (VP
+            (VP (VB adopt)
+              (NP (PRP her)))
+            (CC and)
+            (VP (VB welcome)
+              (NP (PRP her))
+              (PP (IN as)
+                (NP
+                  (NP (NN part))
+                  (PP (IN of)
+                    (NP (PRP$ our) (NN family))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (MD could) (RB n't)
+      (VP (VB take)
+        (NP (PRP$ her) (NN home))
+        (ADVP (RB yet))
+        (PP (IN on)
+          (NP
+            (NP
+              (NP (NNP saturday))
+              (ADJP (JJ due)
+                (PP (TO to)
+                  (NP
+                    (NP (PRP she))
+                    (VP (VBN needed)
+                      (S
+                        (VP (TO to)
+                          (VP (VB be)
+                            (VP (VBN spayed))))))))))
+            (, ,)
+            (NP (NN hernia) (NN surgery))
+            (, ,)
+            (CC and)
+            (NP
+              (NP (NNS teeth))
+              (VP (VBN cleaned)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBP are)
+      (VP (VBG picking)
+        (NP (PRP her))
+        (PP (IN up)
+          (NP (NN tomorrow)))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP we))
+    (VP (VBP are)
+      (ADJP (JJ excited)
+        (S
+          (VP (TO to)
+            (VP (VB welcome)
+              (NP (PRP$ her) (NN home)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP am)
+      (ADJP
+        (ADJP (RB really) (JJ happy)
+          (SBAR
+            (S
+              (S
+                (NP (PRP we))
+                (VP (VBD went)
+                  (PP (TO to)
+                    (NP (DT the) (NNP Henderson) (NN shelter)))))
+              (, ,)
+              (S
+                (NP (NN everyone))
+                (VP (VBD was)
+                  (ADJP
+                    (ADJP (RB very) (JJ helpful))
+                    (, ,)
+                    (ADJP (RB very) (JJ friendly))
+                    (, ,)
+                    (ADJP (NN professional)))))
+              (, ,)
+              (CC and)
+              (S
+                (NP (DT the) (NN facility))
+                (VP (VBD was)
+                  (VP (VBN organized)))))))
+        (CC and)
+        (ADJP (JJ clean))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD had)
+      (NP
+        (NP (DT a) (JJ positive) (NN experience))
+        (VP (VBG going)
+          (S
+            (NP (EX there))
+            (VP (TO to)
+              (VP (VB get)
+                (NP (PRP$ our) (JJ new) (NN famiy) (NN dog))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB highly))
+    (VP (VBP recommend)
+      (NP (DT this) (NN shelter)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Tomorrow)
+      (S
+        (NP
+          (NP (PRP me))
+          (CC and)
+          (NP (PRP$ my) (NN family)))
+        (VP (VBG picking)
+          (PRT (RP up))
+          (NP (PRP$ our) (JJ new) (NN poodle) (NN !!!!)))))))
+
+

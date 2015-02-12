@@ -1,0 +1,100 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (ADVP (RB always))
+      (VP (VB come)
+        (ADVP (RB here))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (ADVP (RB never))
+      (VP (VBP have)
+        (S
+          (VP (TO to)
+            (VP (VB wait))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS bankers))
+      (VP (VBP are)
+        (ADJP (RB very) (JJ pleasant))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (MD can)
+        (VP (VB handle)
+          (SBAR
+            (WHNP (WDT whatever))
+            (S
+              (NP (PRP$ my) (NN deposit-transfer-deposit))
+              (VP (VBZ is)
+                (PP (IN without)
+                  (NP (NNS issues)))))))))
+    (. .)))
+
+
+(ROOT
+  (FRAG
+    (ADVP (RB Always))
+    (ADVP (RB fast) (. .))))
+
+(ROOT
+  (S
+    (NP (NNP Drive))
+    (VP (VBP thru)
+      (CC or)
+      (VBP walk)
+      (PP (IN in)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NN Everyone))
+      (VP (VBZ knows)
+        (SBAR
+          (WHADVP (WRB how))
+          (S
+            (VP (TO to)
+              (VP (VB do)
+                (NP (PRP$ their) (NN job))))))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBP do)
+        (NP (PRP it))
+        (ADVP (RB well))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN bank))
+    (VP (VBZ does)
+      (S
+        (NP (NNP NOT))
+        (VP (VB accept)
+          (NP (NN cash) (NNS deposits)))))
+    (. !)))
+
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WDT What) (NN kind))
+      (PP (IN of)
+        (NP (DT a) (NNP BANK))))
+    (SQ
+      (VP (VBZ does) (RB n't)
+        (VP (VB allow)
+          (S
+            (NP (PRP you))
+            (VP (TO to)
+              (VP (VB deposit)
+                (NP (DT a)
+                  (ADJP (CD 20) (NN dollar))
+                  (NN bill) (NN !!!))))))))))
+
+

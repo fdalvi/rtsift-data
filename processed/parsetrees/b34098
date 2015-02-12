@@ -1,0 +1,400 @@
+(ROOT
+  (S
+    (NP (NNP American) (NNP Veteran) (NNP Fencing))
+    (VP
+      (VP (VBD built)
+        (S
+          (NP (PRP us))
+          (NP (DT a) (NN gate))))
+      (CC and)
+      (VP (VBD did)
+        (NP (DT a) (JJ wonderful) (NN job))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (ADVP (RB highly))
+    (VP (VBP recommend)
+      (NP (PRP them)))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNP GM) (NNP Johnny) (NNP Carroll))
+      (VP (VBD oversaw)
+        (NP (DT the) (NN job))))
+    (CC and)
+    (S
+      (NP (PRP we))
+      (VP (VBD were)
+        (ADJP (RB very) (JJ pleased))
+        (PP (IN with)
+          (NP (DT the) (NN outcome)))
+        (, ,)
+        (PP (IN besides)
+          (NP
+            (NP (DT the) (JJ beautiful) (NN gate))
+            (SBAR
+              (S
+                (NP (PRP they))
+                (VP (VBD were)
+                  (ADJP (RB so) (JJ clean)))))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 'm)
+        (VP (VBG giving)
+          (NP (PRP them))
+          (NP (CD 3) (NNS stars)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (MD 'd)
+        (VP (VB prefer)
+          (S
+            (VP (TO to)
+              (VP (VB give)
+                (NP (PRP them))
+                (NP (DT a) (CD 2.5)))))
+          (: --)
+          (PP (RB not) (RB because)
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NN quality))
+                (PP (IN of)
+                  (NP
+                    (NP (DT the) (VBN finished) (NN product))
+                    (PRN (-LRB- -LRB-)
+                      (SBAR
+                        (WHNP (WDT which))
+                        (S
+                          (VP (VBD was)
+                            (ADJP (JJ fine)))))
+                      (-RRB- -RRB-))))))
+            (, ,)
+            (CC but)
+            (PP (RB because) (IN of)
+              (NP (DT the) (JJ unnecessary) (NN hassle)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD hired)
+      (NP
+        (NP (DT this) (NN company))
+        (PP (RB because) (IN of)
+          (NP
+            (NP (DT the) (NN price))
+            (CC and)
+            (NP (DT the) (NN recommendation)))))
+      (PP (IN from)
+        (NP
+          (NP (DT a) (NN reviewer) (RB somewhere))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBD said)
+                (SBAR
+                  (S
+                    (NP (NNP Johnny))
+                    (VP (MD would)
+                      (VP (VB build)
+                        (NP (PRP it))
+                        (PP (IN like)
+                          (NP (PRP$ his) (JJ own)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (MD 'd)
+        (VP (VB recommend)
+          (NP (PRP them))))
+      (, ,)
+      (CC but)
+      (VP
+        (PP (IN with)
+          (NP (DT the) (NN caveat)))
+        (SBAR (IN that)
+          (S
+            (NP (PRP you))
+            (VP (VBP 're)
+              (VP (IN around)
+                (S
+                  (VP (TO to)
+                    (VP
+                      (VP (VB supervise)
+                        (CC and)
+                        (VB set))
+                      (CC and)
+                      (VP (VB enforce)
+                        (NP (JJ strict) (NNS guidelines))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN After)
+      (S
+        (NP (PRP we))
+        (VP (VBD blew)
+          (NP (DT a) (NN fuse)))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBD used)
+      (NP
+        (NP (DT a) (NN neighbor) (POS 's))
+        (NN electricity))
+      (PP (IN without)
+        (NP (NN permission))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (ADVP (RB also))
+      (VBD moved)
+      (NP (PRP$ his) (NNS possessions))
+      (ADVP (RB away))
+      (PP (IN from)
+        (NP (DT the) (NN fence)))
+      (PP (IN without)
+        (S
+          (VP (VBG asking)
+            (ADVP (RB first))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBD did) (, ,)
+        (ADVP (RB however))
+        (, ,)
+        (S
+          (VP (VB apologize)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (MD should) (RB not)
+        (VP (VB have)
+          (VP (VBN happened)
+            (PP (IN in)
+              (NP (DT the) (JJ first) (NN place)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB also))
+    (VP (VBD installed)
+      (NP (DT a) (JJ few) (JJ wrong) (NN color) (NNS blocks))
+      (PP (IN in)
+        (NP (PRP$ our) (NN fence)))
+      (, ,)
+      (SBAR (IN although)
+        (S
+          (NP (PRP they))
+          (VP (VBD ended)
+            (PRT (RP up))
+            (S
+              (VP (VBG replacing)
+                (NP (DT the) (JJ entire) (NN section))
+                (PP (IN without)
+                  (NP (DT an) (NN argument)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (RB Even) (IN though)
+      (S
+        (NP (PRP it))
+        (VP (MD would)
+          (VP (VB take)
+            (NP (JJ multiple) (NNS trips))
+            (S
+              (VP (TO to)
+                (VP (VB do)
+                  (ADVP (RB so)))))))))
+    (, ,)
+    (NP (PRP they))
+    (ADVP (RB also))
+    (VP (VBD were) (RB not)
+      (ADJP (JJ able)
+        (S
+          (VP (TO to)
+            (ADVP (RB completely))
+            (VP (VB transport)
+              (NP
+                (NP (DT all))
+                (PP (IN of)
+                  (NP (PRP$ their) (NNS materials) (NN off-property))))
+              (PP (IN until)
+                (NP (DT the) (NN day)))
+              (SBAR (IN after)
+                (S
+                  (NP (DT the) (NN fence))
+                  (VP (VBD was)
+                    (VP (VBN completed))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB However))
+    (, ,)
+    (S
+      (NP (DT the) (VBN finished) (NN product))
+      (VP (VBZ looks)
+        (ADJP (RB very) (JJ nice))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBD took)
+        (NP (DT the) (NN time)
+          (S
+            (VP (TO to)
+              (VP (VB deal)
+                (PP (IN with)
+                  (NP (JJ sloppy) (NN work)))
+                (PP (IN on)
+                  (NP
+                    (NP (DT the) (NN footing))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT an) (JJ adjoining) (NN fence))
+                        (, ,)
+                        (SBAR
+                          (WHNP (WDT which))
+                          (S
+                            (VP (VBD was)
+                              (VP
+                                (ADVP (RB much))
+                                (VBN appreciated)))))))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Johnny))
+    (VP (VBD did)
+      (NP (DT a) (JJ wonderful) (NN job)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP$ Our) (NN fence))
+    (VP
+      (VP (VBZ looks)
+        (ADJP (JJ beautiful)))
+      (CC and)
+      (VP (VBD was))
+      (SBAR
+        (WHADJP (RB exactly) (WP what))
+        (S
+          (NP (PRP we))
+          (VP (VBD asked)
+            (PP (IN for))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (ADVP (RB even))
+      (VP (VBD had)
+        (NP
+          (NP (DT some) (NNS trees))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBD had)
+                (S
+                  (VP (TO to)
+                    (VP (VB be)
+                      (VP (VBN removed)
+                        (S
+                          (VP (TO to)
+                            (VP (VB put)
+                              (PP (IN in)
+                                (NP (DT the) (NN fence))))))))))))))))
+    (CC and)
+    (S
+      (NP (PRP$ his) (NN crew))
+      (VP (VBD were)
+        (ADJP (JJ willing)
+          (S
+            (VP (TO to)
+              (VP (VB cut)
+                (CC and)
+                (VB haul)
+                (NP (PRP them))
+                (PP (IN for)
+                  (NP
+                    (NP (DT a) (NN fraction))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT the) (NN price))
+                        (SBAR
+                          (S
+                            (NP (JJ other) (NNS companies))
+                            (VP (MD would)
+                              (VP (VB have)
+                                (VP (VBN charged))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBP love)
+      (NP (DT the) (NN end) (NN result)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD moved)
+      (PP (TO to)
+        (NP
+          (NP (DT a) (JJ new) (NN property))
+          (CC &)
+          (NP
+            (NP (PRP they))
+            (VP (VBN built)
+              (NP (DT a) (NN wall))
+              (PP (IN for)
+                (NP (PRP us)))
+              (, ,)
+              (PP (IN with)
+                (NP (CD 2) (NNS gates))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD were)
+      (ADJP (JJ fast)
+        (SBAR
+          (S
+            (NP (CC &))
+            (VP (VBD did)
+              (NP (DT a) (JJ terrific) (NN job) (NN !!!)))))))))
+
+(ROOT
+  (S
+    (NP (NNP Highly))
+    (VP (VBP recommend))
+    (. !)))
+
+

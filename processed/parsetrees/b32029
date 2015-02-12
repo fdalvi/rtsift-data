@@ -1,0 +1,159 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Wonderful) (NN way)
+        (S
+          (VP (TO to)
+            (VP (VB get)
+              (PP
+                (PP (IN around)
+                  (NP (NNP Maddy)))
+                (CC and)
+                (PP (IN for)
+                  (NP (CD 10.00))))))))
+      (PRN (, ,)
+        (S
+          (NP (PRP you))
+          (VP (MD can)
+            (VP (VB ride)
+              (ADVP
+                (ADVP (RB as) (RB much))
+                (SBAR (IN as)
+                  (S
+                    (NP (PRP you))
+                    (VP (VBP like))))))))
+        (, ,)))
+    (ADVP (RB just))
+    (VP (VBP have)
+      (S
+        (VP (TO to)
+          (VP
+            (VP (VB check)
+              (PP (IN in)
+                (NP (DT the) (NN bike)))
+              (ADVP (RB now)))
+            (CC and)
+            (VP
+              (ADVP (RB then))
+              (PP (IN during)
+                (NP (DT the) (CD 24) (NN hour) (NN period))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD did) (RB n't)
+      (VP (VB drive)
+        (NP (DT the) (JJ rental) (NN car))
+        (ADVP (RB once))
+        (PP (IN during)
+          (NP (PRP$ our) (NN stay)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP
+      (VP (VBN Visited)
+        (PP (IN from)
+          (NP
+            (NP (NN out))
+            (PP (IN of)
+              (NP (NN town)))))
+        (PP (IN for)
+          (NP
+            (NP (DT a) (NN conference))
+            (, ,)
+            (VP (VBG staying)
+              (PP (IN near)
+                (NP (DT the) (NNP Capitol))))
+            (, ,))))
+      (CC but)
+      (VP (VBD had)
+        (NP (NNS events))
+        (ADVP (RB down)
+          (PP (IN near)
+            (NP
+              (NP (NNP Union) (NNP South))
+              (CC and)
+              (NP (NNP Memorial) (NNP Union)))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (S
+      (VP (VBD wanted)
+        (S
+          (VP (TO to)
+            (VP
+              (VP (VB explore)
+                (NP
+                  (NP (NN campus)
+                    (CC and)
+                    (NN town))
+                  (NP (DT a) (NN bit))))
+              (CC and)
+              (VP (VB run)
+                (NP (DT some) (JJR more) (NN errands))))))))
+    (, ,) (IN so)
+    (S
+      (NP (PRP I))
+      (VP (VBD needed)
+        (S
+          (VP (TO to)
+            (VP (VB carry)
+              (NP (DT some) (NNS supplies))
+              (PP (IN for)
+                (NP
+                  (NP (DT the) (NN conference))
+                  (, ,)
+                  (CONJP (RB as) (RB well) (IN as))
+                  (NP (NN beer)
+                    (CC and)
+                    (NN cheese) (NNS curds)))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Rented) (NNS bikes))
+    (PP (IN for)
+      (NP
+        (NP (CD 2) (NNS days))
+        (CC and)
+        (NP
+          (QP (RB rode) (IN at) (JJS least) (DT a) (NN dozen))
+          (NNS times))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Bikes))
+    (VP (VBD were)
+      (ADJP (JJ great)))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Small))
+      (VP (VBZ inconvenience)
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP
+              (NP (CD one) (NN location))
+              (PRN (-LRB- -LRB-)
+                (NP (NNP Charter))
+                (-RRB- -RRB-)))
+            (VP (VBD had)
+              (NP (CD zero) (JJ open) (NN docking) (NNS stations)))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (NNP Union) (NNP South))
+      (ADVP (RB nearby))
+      (VP (VBD was)
+        (ADJP (JJ sufficient))))
+    (. .)))
+
+

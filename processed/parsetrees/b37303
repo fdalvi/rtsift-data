@@ -1,0 +1,215 @@
+(ROOT
+  (S
+    (NP (NNP Banana))
+    (VP (VBP cupcake)
+      (S (-LRB- -LRB-)
+        (NP (DT no) (NNS nuts))
+        (-RRB- -RRB-)
+        (NP
+          (NP (DT the) (NN cupcake))
+          (SBAR
+            (S
+              (VP (VBD was)
+                (ADJP (RB so) (JJ moist))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP wish)
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBD lived)
+              (PP (IN in)
+                (NP (NNS vegas))))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (MD 'd)
+      (ADVP (RB definitely))
+      (VP (VB go)
+        (ADVP (RB back))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP$ My) (NN boyfriend))
+      (VP (VBD got)
+        (NP (DT the) (JJ strawberry) (NN cupcake))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBD was)
+      (ADJP (JJ decent))
+      (SBAR (CC but)
+        (S
+          (NP (DT the) (NN banana) (NN cupcake))
+          (VP (VBD was)
+            (ADJP (JJ delicious))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (NNP Delicious))
+    (VP (VBZ cupcakes)
+      (PP (IN for)
+        (NP (PDT such) (DT a) (JJ good) (NN price))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN truck))
+    (ADVP (RB also))
+    (VP (VBZ offers)
+      (NP (JJ tasty) (NNS refreshments)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (JJ Great) (NN service))
+    (ADVP (RB as) (RB well))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Wish) (NNP I))
+    (VP (MD could)
+      (VP (VB find)
+        (NP (DT a) (NN way)
+          (S
+            (VP (TO to)
+              (VP (VB track)
+                (NP (PRP them))
+                (PP (IN down) (NN online))))))))
+    (: ...)))
+
+(ROOT
+  (S
+    (NP (NN Anyone))
+    (VP (VBP know)
+      (SBAR (IN if)
+        (S
+          (NP (PRP they))
+          (VP (VBP have)
+            (NP (NNP Twitter)
+              (CC or)
+              (NNP Facebook))))))
+    (. ?)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD found)
+        (NP (NNP Cheryl))
+        (PP (IN on)
+          (NP
+            (NP (NNP Yelp))
+            (PP (IN of)
+              (NP (NN course)))))
+        (SBAR (IN because)
+          (S
+            (NP (PRP I))
+            (VP (VBD wanted)
+              (NP (NNS cupcakes))
+              (PP (IN for)
+                (NP (PRP$ my) (NN wedding))))))))
+    (: ;)
+    (CC and)
+    (S
+      (ADVP (RB frankly))
+      (NP
+        (NP (PDT all) (DT the) (JJ other) (NNS bakeries))
+        (PP
+          (ADVP (RB here))
+          (IN in)
+          (NP (NN town))))
+      (ADVP (RB just))
+      (VP (VBP pile)
+        (PP (IN on)
+          (NP
+            (NP (DT the) (NN frosting))
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (NP (FW i))
+                (VP (VBP think)
+                  (S
+                    (VP (VBG masks)
+                      (NP (DT the) (NN flavor)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP She))
+      (VP (VBD came)
+        (PRT (RP out))
+        (S
+          (VP (TO to)
+            (VP (VB meet)
+              (PP (IN with)
+                (NP (PRP me))))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBD tasted)
+        (NP (JJ many) (NNS flavors))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBD fell)
+        (PP (IN in)
+          (NP (NN love))))
+      (CC and)
+      (VP (VBD placed)
+        (NP (PRP$ my) (NN wedding) (NN order))
+        (SBAR
+          (S
+            (NP (DT The) (NNS cupcakes))
+            (VP (VBP are)
+              (ADJP (RB so) (JJ moist)
+                (CC and)
+                (JJ perfect)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ My) (NNS guests))
+      (CC and)
+      (NP (NN husband)))
+    (VP (VBD loved)
+      (NP (PRP them))
+      (SBAR
+        (S
+          (NP (DT all) (NNP Will))
+          (ADVP (RB definitely))
+          (VP (VBP use)
+            (NP (PRP her))
+            (ADVP (RB again)
+              (CC and)
+              (RB again))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Thank)
+      (S
+        (NP (PRP you))
+        (ADJP (JJ Cheryl)
+          (PP (IN for)
+            (S
+              (VP (VBG making)
+                (S
+                  (NP (PRP$ my) (NN wedding))
+                  (ADJP (JJ perfect)))))))))
+    (. .)))
+
+

@@ -1,0 +1,133 @@
+(ROOT
+  (NP
+    (NP
+      (NP (JJ Canadian) (NN company))
+      (PP (IN with)
+        (NP
+          (NP
+            (NP
+              (QP (JJR more) (IN than) (CD ten))
+              (NNS stores))
+            (PP (IN in)
+              (NP (NNP Canada))))
+          (CC and)
+          (NP
+            (NP (CD two))
+            (PP (IN in)
+              (NP
+                (NP (NNP Las) (NNP Vegas))
+                (ADVP (RB already))))
+            (, ,)
+            (NP
+              (NP (NNP Specializing))
+              (PP (IN in)
+                (NP (NNP Women) (POS 's))))
+            (CC and)
+            (NP
+              (NP (NNP Men) (POS 's))
+              (NNP Swim) (NNP Wear))))))
+    (: -)
+    (NP
+      (NP
+        (NP (CD One) (NN piece))
+        (, ,)
+        (NP (CD two) (NN piece) (NN mix)))
+      (CC &)
+      (NP
+        (NP (NN match))
+        (, ,)
+        (NP (NNPS Cover-ups)
+          (CC and)
+          (NNPS Sarongs))))
+    (. .)))
+
+
+(ROOT
+  (FRAG
+    (NP (DT The) (NN owner))
+    (: -)
+    (S
+      (NP (PRP I))
+      (VP (VBP 'm)
+        (VP (VBG guessing)
+          (SBAR
+            (S
+              (NP (PRP she))
+              (VP (VBZ 's)
+                (NP
+                  (NP (DT the) (NN owner))
+                  (: -)
+                  (S
+                    (NP (PRP she))
+                    (VP (VBZ 's)
+                      (ADJP (RB really) (JJ nice)
+                        (CC and)
+                        (JJ helpful)))))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD liked)
+      (SBAR
+        (WHADVP (WRB how))
+        (S
+          (NP (PRP she))
+          (VP (VBD helped)
+            (SBAR
+              (S
+                (NP (PRP me))
+                (VP (VBP find)
+                  (NP (PRP$ my) (JJ right) (NN fit))
+                  (PP (IN for)
+                    (NP (PRP$ my) (NN body)
+                      (CC and)
+                      (NN suit))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP
+        (NP (JJR larger) (NNS sizes))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (S
+              (NP (PRP I))
+              (VP (VBD needed)))
+            (CC and)
+            (ADVP (RB hard))
+            (S
+              (VP (TO to)
+                (VP (VB find)
+                  (NP
+                    (NP (NNS suits))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP (VBP fit)
+                          (NP (PRP$ my) (NN body) (NN type)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Come)
+      (ADVP (RB here))
+      (S
+        (VP (TO to)
+          (VP (VB get)
+            (NP (PRP$ your) (NN suit))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (MD will)
+      (VP (VB be)
+        (ADJP (JJ happy))))
+    (. !)))
+
+

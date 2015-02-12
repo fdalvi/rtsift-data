@@ -1,0 +1,342 @@
+(ROOT
+  (S
+    (NP (NNP Fashion) (NNP Square) (NNP Food) (NNP Court))
+    (VP (VBZ has)
+      (NP
+        (NP (DT a) (JJ good) (NN representation))
+        (PP (IN of)
+          (NP (PDT all) (DT the) (JJ usual) (NNS suspects)))))
+    (. .)))
+
+(ROOT
+  (NP
+    (X
+      (X (SYM *))
+      (NP (JJ Mexican) (NN food)))
+    (: :)
+    (NP (NNP Blue) (NNP Burrito) (NNP Grille))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Check))
+    (. !)))
+
+(ROOT
+  (NP
+    (X
+      (X (SYM *))
+      (NP (NNP Hamburgers)))
+    (: :)
+    (NP (CD Five) (NNS Guys))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Check))
+    (. !)))
+
+(ROOT
+  (NP
+    (X
+      (X (SYM *))
+      (NP (JJ Chinese) (NNP Asian)))
+    (: :)
+    (NP (NNP Panda) (NNP Express))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Check))
+    (. !)))
+
+(ROOT
+  (NP
+    (X
+      (X (SYM *))
+      (NP (NNP Upscale) (NNP Caf?)))
+    (: :)
+    (NP (NNP Paradise) (NNP Bakery))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Check))
+    (. !)))
+
+(ROOT
+  (NP
+    (X
+      (X (SYM *))
+      (NP (NNP Middle) (NNP Eastern/Greek)))
+    (: :)
+    (NP (NNP Pita) (NNP Jungle))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Check))
+    (. !)))
+
+(ROOT
+  (NP
+    (X
+      (X (SYM *))
+      (NP (JJ Japanese) (NNP Asian)))
+    (: :)
+    (NP (NNP Sarku))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Check))
+    (. !)))
+
+(ROOT
+  (NP
+    (X
+      (X (SYM *))
+      (NP (NNP Pizza)))
+    (: :)
+    (NP (NNP Sbarro))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Check))
+    (. !)))
+
+(ROOT
+  (NP
+    (X
+      (X (SYM *))
+      (NP (NNP Subs)))
+    (: :)
+    (NP (NNP Subway))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Check))
+    (. !)))
+
+(ROOT
+  (NP
+    (X
+      (X (SYM *))
+      (NP (JJ Diner) (NN food)))
+    (: :)
+    (NP (NNP Johnny) (NNP Rockets))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Check))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (ADVP (RB particularly))
+      (VP (VBN fond)
+        (PP (IN of)
+          (NP
+            (NP (NNP Johnny) (NNP Rockets))
+            (CC and)
+            (NP (NNP Pita) (NNP Jungle))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (ADVP (RB also))
+      (VP (VBP have)
+        (NP
+          (NP (DT a) (JJ few) (JJ nearby) (NN Mall))
+          (VP (VBG watering)
+            (NP (NNS holes))
+            (, ,)
+            (PP (JJ such)
+              (PP (IN as)))))))
+    (: :)
+    (S
+      (X
+        (X (SYM *))
+        (NP (NNP Kona) (NNP Grill)))
+      (X
+        (X (SYM *))
+        (NP (NNP Z) (NNP Tejas) (NNP Grill) (NNP *) (NNP Yard) (NNP House) (NN *) (NNP Modern) (NNP Steak)))
+      (NP (PRP They))
+      (VP (VBP 're) (RB all)
+        (ADJP (RB pretty) (JJ good))
+        (, ,)
+        (PP (VBG depending)
+          (PP (IN on)
+            (SBAR
+              (SBAR
+                (WHNP (WP what))
+                (S
+                  (NP (PRP you))
+                  (VP (VBP 're)
+                    (PP (IN in)
+                      (NP
+                        (NP (DT the) (NN mood))
+                        (PP (IN for)
+                          (NP (NN eating))))))))
+              (CC and)
+              (SBAR
+                (WHNP (WP what) (NN game))
+                (S
+                  (VP (VBZ is)
+                    (PP (IN on)
+                      (NP (PRP$ their) (JJ big) (NNS HDTVs)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB BTW))
+    (, ,)
+    (NP
+      (NP (DT the) (JJ Happy) (NNS Hours))
+      (PP (IN at)
+        (NP (NNP Z) (NNP Tejas)
+          (CC and)
+          (NNP Kona))))
+    (VP (VBP are)
+      (ADJP (RB very) (JJ good)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB only))
+    (VP (VBP go)
+      (ADVP (RB here))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP I))
+          (VP (VBP am)
+            (NP
+              (NP (NN craving))
+              (SBAR
+                (S
+                  (NP (DT a) (NN chicken))
+                  (VP (VBD stuffed)
+                    (NP (NNP Chile) (NNP Relleno))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (S
+      (S
+        (VP (VB Let)
+          (S
+            (NP (PRP me))
+            (VP (VB tell)
+              (NP (PRP you))))))
+      (: ...)
+      (S
+        (NP (PRP IT))
+        (VP (VBZ IS)
+          (NP
+            (NP (CD ONE))
+            (PP (IN OF)
+              (NP (DT THE) (NN BEST)))))))
+    (VP (VBZ THINGS)
+      (NP (PRP I)))
+    (NP (NNP 'VE) (NNP EVER) (NNP HAD) (NNP !!!))))
+
+(ROOT
+  (S
+    (INTJ (UH Oh))
+    (, ,)
+    (NP (PRP I))
+    (VP (VB eat)
+      (NP
+        (NP (RB here)
+          (QP (IN at) (JJS least) (DT every))
+          (JJ few) (NNS months))
+        (PP (IN for)
+          (NP (DT the) (NNP Chile) (NNP Relleno)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG :-RRB-)
+        (NP
+          (NP (DT The) (JJ last) (NN time))
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (VBD went)
+                (PP (TO to)
+                  (NP (NNP Z) (NNPS Tejas)))))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD went)
+      (PP (TO to)
+        (NP
+          (NP (DT the) (NN patio))
+          (PP (IN with)
+            (NP (PRP$ my) (NN sister)))))
+      (SBAR
+        (WHADVP (WRB where))
+        (S
+          (NP (EX there))
+          (VP (VBD were)
+            (NP
+              (NP (DT some) (NNS flirts))
+              (VP (VBG telling)
+                (NP (PRP us))
+                (SBAR
+                  (WHADVP (WRB how))
+                  (S
+                    (NP (RB pretty) (PRP we))
+                    (VP (VBP are))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (SBAR (IN If)
+        (S
+          (NP (PRP you))
+          (VP (VBP like)
+            (NP
+              (NP (JJR more))
+              (PP (IN of)
+                (NP (DT the) (JJ social) (NN appeal)))))))
+      (, ,)
+      (NP (PRP I))
+      (VP (MD would)
+        (VP (VB recommend)
+          (NP (DT the) (NN patio)))))
+    (, ,)
+    (CC but)
+    (S
+      (SBAR (IN if)
+        (S
+          (NP (PRP you))
+          (VP (VBP like)
+            (NP
+              (NP (JJR more))
+              (PP (IN of)
+                (NP (DT a) (JJ romantic)
+                  (CC or)
+                  (JJ personal) (NN appeal)))))))
+      (, ,)
+      (NP (PRP I))
+      (VP (MD would)
+        (VP (VB recommend)
+          (S
+            (VP (VBG eating)
+              (PP (IN inside)
+                (NP (DT the) (NN restaurant))))))))
+    (. .)))
+
+

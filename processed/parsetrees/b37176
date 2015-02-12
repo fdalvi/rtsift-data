@@ -1,0 +1,25 @@
+(ROOT
+  (FRAG
+    (NP (RB Not) (DT a) (JJ bad) (NN visit))
+    (: ...)
+    (S
+      (NP (DT the) (NN store))
+      (VP (VBZ seems)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (ADJP (RB always) (JJ busy))
+              (: ...)
+              (SBAR (CC but)
+                (S
+                  (NP (DT that))
+                  (VP (VBZ 's)
+                    (NP (RB usually) (DT a) (JJ good) (NN thing))
+                    (: ...)
+                    (S
+                      (NP (JJ overall) (DT another) (JJ profitable) (NN visit))
+                      (VP (TO to)
+                        (VP (VB get)
+                          (NP (PRP$ our) (NNS groceries) (NN !!)))))))))))))))
+
+

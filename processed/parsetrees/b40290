@@ -1,0 +1,78 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Wonderful) (NN food) (NN staff))
+      (SBAR
+        (S
+          (VP (VBZ is)
+            (ADJP (JJ friendly)
+              (CC and)
+              (JJ efficient))
+            (SBAR
+              (S
+                (NP (PRP I))
+                (VP (MD would)
+                  (ADVP (RB definitely))
+                  (VP (VB do)
+                    (NP (PRP it))
+                    (ADVP (RB again)))))))))
+      (SBAR
+        (S
+          (NP (NNS portions))
+          (VP (VBP are)
+            (NP (JJ big) (NNS prices))))))
+    (VP (VBP are)
+      (ADJP (JJ good)))))
+
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD came)
+      (PRT (RP in))
+      (PP (IN for)
+        (NP (NN breakfast)))
+      (, ,)
+      (ADJP
+        (ADJP (RB not) (JJ bad))
+        (CC but)
+        (ADJP (RB not) (JJ exceptional)))
+      (ADVP (RB either)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP (JJ small) (NN place))
+      (SBAR (IN so)
+        (S
+          (NP (PRP I))
+          (VP (MD would) (RB n't)
+            (VP (VB bring)
+              (NP
+                (NP
+                  (QP (JJR more) (IN than) (DT a))
+                  (NN group))
+                (PP (IN of)
+                  (NP (CD 6)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Staff))
+    (VP (VBZ is)
+      (ADJP (RB really) (JJ friendly)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD will)
+      (VP (VB try)
+        (NP (PRP them))
+        (ADVP (RB again))
+        (NP (DT another) (NN time))))
+    (. .)))
+
+

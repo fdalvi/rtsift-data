@@ -1,0 +1,85 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP recommend)
+      (NP
+        (NP (DT the) (NNP Cantonese) (NNP Noodles))
+        (SBAR
+          (S
+            (NP (DT these))
+            (VP (VBP are)
+              (VP (VBN ala)
+                (S
+                  (NP (NNP Monterey) (NNP Park)))
+                (, ,)
+                (ADJP (JJ Ca))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (JJ True))
+    (NP (JJ authentic) (JJ Chinese) (NN cuisine))))
+
+
+(ROOT
+  (S
+    (LST (JJ First))
+    (VP (VB time)
+      (PRT (RP in))
+      (PP (IN for)
+        (NP (NN lunch))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Clean) (NN dining) (NN room))
+      (NP (JJ nice) (NN staff)
+        (CC and)
+        (NNS generals) (NN chicken)))
+    (VP (VBD was)
+      (ADJP (RB really) (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Excellent)
+      (NP (NN value)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Give)
+      (NP (DT this))
+      (NP (DT a) (NN try)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (NNP OMG))
+    (ADJP (JJ amazing))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VB Love)
+      (SBAR
+        (S
+          (NP
+            (NP (DT this) (NN place))
+            (, ,)
+            (NP (RB always) (JJ fresh) (NN food))
+            (CC and)
+            (NP (DT the) (JJS best) (NN spring)))
+          (VP (VBZ rolls)
+            (SBAR
+              (S
+                (NP (PRP I))
+                (VP (VBP 've)
+                  (ADVP (RB ever))
+                  (VP (VBN had)
+                    (PP (IN in)
+                      (NP (PRP$ my) (NN life) (NN lol)))))))))))))
+
+

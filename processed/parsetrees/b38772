@@ -1,0 +1,113 @@
+(ROOT
+  (NP (JJ Wonderful) (NNS !!!)))
+
+(ROOT
+  (NP
+    (NP (JJ Great) (NN selection))
+    (, ,)
+    (NP (JJ great) (NNS prices))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VB Love)
+      (NP (DT this) (NN place) (NN !!)))))
+
+
+(ROOT
+  (FRAG
+    (NP (NNP Woohoo))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB As) (RB good))
+    (SBAR (IN as)
+      (S
+        (NP (PRP it))
+        (VP (VBZ gets))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN shop))
+    (VP (VBZ is)
+      (NP (JJ amazing) (NNS !!)))))
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP Alot))
+      (PP (IN of)
+        (NP
+          (NP (CD 60) (POS 's))
+          (NNS pieces))))
+    (: ...)
+    (SBAR
+      (WHNP (WDT which))
+      (S
+        (S
+          (NP (PRP I))
+          (ADVP (RB absolutely))
+          (VP (VBP love)))
+        (CC and)
+        (S
+          (NP (DT the) (NNS prices))
+          (VP (VBP are)
+            (ADJP (RB just) (JJ right))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN owner))
+    (VP (VBZ is)
+      (UCP
+        (NP (DT a) (NN doll))
+        (CC and)
+        (ADJP (RB very) (JJ friendly))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP you))
+        (VP (VBP are)
+          (ADJP (IN down)
+            (PP (IN on)
+              (NP (NNP Roosevelt) (NNP Row))))
+          (: ...)
+          (S
+            (VP
+              (VP (VB be)
+                (ADJP (JJ sure)
+                  (S
+                    (VP (TO to)
+                      (VP (VB stop)
+                        (PRT (RP on))
+                        (PP (IN in)))))))
+              (CC and)
+              (VP (VB grab)
+                (NP (PRP yourself))))))))
+    (NP (DT a) (JJ little))
+    (VP (VBP treat)
+      (PP (IN from)
+        (NP (NNP Annie) (NNP Boomer) (NNP Vintage))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP You))
+      (VP (MD will) (RB not)
+        (VP (VB be)
+          (ADJP (JJ sorry)))))
+    (: ...)
+    (S
+      (NP (PRP I))
+      (VP (VBP promise)))
+    (. !)))
+
+

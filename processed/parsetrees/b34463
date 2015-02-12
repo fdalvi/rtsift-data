@@ -1,0 +1,80 @@
+(ROOT
+  (S
+    (VP
+      (ADVP (RB Quick))
+      (VB takeout)
+      (NP (NN pizza))
+      (PP (RB not)
+        (NP (JJ many) (NNS varieties)))
+      (SBAR (CC but)
+        (S
+          (NP (PRP it))
+          (VP (VBZ 's)
+            (ADVP (RB always))
+            (ADJP (RB consistently) (JJ good))))))))
+
+
+(ROOT
+  (S
+    (VP (VB Fast)
+      (CC and)
+      (VB fresh))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP have)
+        (PP (TO to)
+          (NP (NN rate)))
+        (NP
+          (NP (DT this) (NN place))
+          (SBAR (IN because)
+            (S
+              (VP (VBP everytime)
+                (S
+                  (NP (PRP I))
+                  (VP (VB go)
+                    (PRT (RP in))))))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (ADJP (JJ impressed)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (DT No) (NN matter)
+      (SBAR
+        (WHADVP (WRB how))
+        (S
+          (VP (VBD slammed)
+            (SBAR
+              (S
+                (NP (PRP they))
+                (VP (VBP are))))))))
+    (, ,)
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADVP (RB always))
+      (ADJP (JJ fast)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Employees) (NN bust))
+    (ADVP (RB there))
+    (VP (VBZ butts)
+      (ADVP (RB here)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (ADJP ($ $) (CD 5))
+      (NN pizza))
+    (VP (VBZ is)
+      (NP (DT a) (JJ great) (NN value)))))
+
+

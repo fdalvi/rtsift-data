@@ -1,0 +1,225 @@
+(ROOT
+  (S
+    (NP (NNP RIDICULOUSLY) (NNP OVER))
+    (VP (VBD PRICED))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Fruit) (NN cup))
+    (VP (VBD was)
+      (VP
+        (ADVP (RB 2/3))
+        (VBN filled)
+        (CC and)
+        (VBN cost)
+        (NP (NNS 7bux))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (RB Even) (NNPS Starbucks))
+    (VP (VBZ is)
+      (ADJP (JJR cheaper)))
+    (. .) (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (ADVP (RB actually))
+      (VP
+        (ADVP (RB just))
+        (VBG looking)
+        (S
+          (VP (TO to)
+            (VP (VB buy)
+              (SBAR
+                (S
+                  (NP
+                    (NP (DT a) (JJ cheap) (NN bottle))
+                    (PP (IN of)
+                      (NP
+                        (NP (NN water))
+                        (PRN (-LRB- -LRB-)
+                          (NP (NN lol) (NN right))
+                          (-RRB- -RRB-)))))
+                  (VP (CC but)
+                    (VP (VBD saw)
+                      (NP (DT a) (JJ veggie) (NN wrap))
+                      (ADVP (RB here)))
+                    (CC and)
+                    (VP (VBD figured)
+                      (SBAR
+                        (S
+                          (NP (PRP I))
+                          (VP (MD may)
+                            (ADVP (RB as) (RB well))
+                            (VP (VB try)
+                              (NP (PRP it))
+                              (SBAR (IN since)
+                                (S
+                                  (NP (PRP I))
+                                  (VP (MD would) (RB n't)
+                                    (VP (VB be)
+                                      (VP (VBG eating)
+                                        (PP (IN for)
+                                          (NP
+                                            (NP (JJ several) (JJR more) (NNS hours))
+                                            (ADVP (IN at) (JJS least))))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (DT the) (NN price)))
+    (PRN (-LRB- -LRB-)
+      (S
+        (VP (VBG ~)
+          (NP ($ $) (CD 4-5))))
+      (-RRB- -RRB-))
+    (S
+      (NP (PRP I))
+      (VP (VBP 've)
+        (VP (VBN had)
+          (NP (RB much))
+          (ADVP
+            (ADVP (RBR better))
+            (CC and)
+            (PP (IN in)
+              (NP (JJR bigger) (NNS portions)))))))
+    (, ,)
+    (CC but)
+    (S
+      (ADVP (RB as) (RB far)
+        (SBAR (IN as)
+          (S
+            (NP (NN airport) (NN food) (NNS stalls))
+            (VP (VBP go)
+              (SBAR
+                (S
+                  (NP (PRP it))
+                  (VP (VBD was) (RB n't)
+                    (NP (DT the) (JJS worst)))))))))
+      (NP (PRP I))
+      (VP (VBP 've)
+        (VP (VBN had))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN stuff))
+    (VP (VBZ is)
+      (ADJP (JJ terrible)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD tried)
+        (NP (PRP$ their)
+          (ADJP (JJ blueberry)
+            (CC and)
+            (JJ strawberry))
+          (NN yogurt) (NN parfait))))
+    (CC and)
+    (S
+      (NP (DT the) (NNS blueberries))
+      (VP (VBD had)
+        (VP (VBN gone)
+          (S
+            (ADJP (JJ bad))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Lovely))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Tried)
+      (NP
+        (NP
+          (NP (PRP$ their) (JJS southwest) (JJ veggie) (NN salad))
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBZ promises)
+                (NP
+                  (NP (JJ chopped) (NNS hearts))
+                  (PP (IN of)
+                    (NP (NN romaine)))
+                  (PRN (-LRB- -LRB-)
+                    (PP (IN in)
+                      (NP (NN reality))
+                      (: -))
+                    (NP
+                      (NP (NN iceberg))
+                      (SBAR
+                        (WHNP (WDT which))
+                        (S
+                          (VP (VBZ has)
+                            (NP
+                              (ADJP
+                                (NP (CD zero))
+                                (JJ nutritional))
+                              (NN value))))))
+                    (-RRB- -RRB-)))
+                (NP
+                  (NP (NNP Monterey) (NNP Jack) (NNP cheese))
+                  (PRN (-LRB- -LRB-)
+                    (SBAR
+                      (WHNP (WDT which))
+                      (S
+                        (VP (VBD was)
+                          (ADJP (RB completely) (VBG missing)
+                            (PP (IN from)
+                              (NP (PRP$ my) (NN salad)))))))
+                    (-RRB- -RRB-)))))))
+        (CC and)
+        (NP
+          (NP (JJ chopped) (JJ red) (NN onion))
+          (PRN (-LRB- -LRB-)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBZ is)
+                  (NP
+                    (NP (JJ huge) (NNS chunks))
+                    (PP (IN of)
+                      (NP (JJ white) (NN onion)))))))
+            (-RRB- -RRB-)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (DT that))
+        (VP (VBD were) (RB n't)
+          (ADJP (JJ bad) (RB enough)))))
+    (, ,)
+    (NP (DT the) (NN salad) (NN dressing))
+    (VP (VBZ tastes)
+      (PP (IN like)
+        (NP
+          (NP (JJ cold) (NNP condensed) (NNP Campbell) (POS 's))
+          (NN tomato) (NN soup))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NN F))
+    (VP (VBD *)
+      (NP (CD ^) (NN %))
+      (S
+        (VP (VBG !)
+          (NP (CD +) (NN %))
+          (ADJP (JJ disgusting)))))
+    (. .)))
+
+

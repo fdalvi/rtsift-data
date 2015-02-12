@@ -1,0 +1,107 @@
+(ROOT
+  (S
+    (VP (VB Do) (RB n't)
+      (VP (VB let)
+        (NP
+          (NP (DT the)
+            (ADJP
+              (ADVP (JJ outside)
+                (PP (IN for)
+                  (NP (PRP you))))
+              (JJ great))
+            (NN bar))
+          (, ,)
+          (NP (JJ great) (NN food))
+          (, ,)
+          (ADJP (JJ great) (JJ ambiance)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN chicken) (NNS wings))
+      (VP (VBP are)
+        (S
+          (VP (TO to)
+            (VP (VB die)
+              (SBAR (IN for) (, ,)
+                (S
+                  (NP (NNS salads))
+                  (VP (VBP are)
+                    (ADJP (JJ great))))))))))
+    (, ,)
+    (NP (NNS burgers))
+    (VP (VBP are)
+      (ADJP (JJ great)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (JJ Karlas) (NNS sports))
+    (VP (VBZ puts)
+      (NP
+        (NP
+          (NP (DT the) (`` ``) (NN F) ('' ''))
+          (PP (IN in)
+            (NP (NNP FUN))))
+        (: ...)
+        (NP
+          (NP (PRP$ its) (JJ just) (NN F))
+          (CC 'n)
+          (NP (NNP FUN)))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN staff))
+    (VP (VBZ is)
+      (ADJP (JJ great)))
+    (. !)))
+
+(ROOT
+  (S (CC and)
+    (NP (DT the) (NNS customers))
+    (VP (VBP are)
+      (ADJP (JJ awesome)))
+    (. !)))
+
+(ROOT
+  (SINV
+    (FRAG
+      (NP
+        (NP (NN lunch) (NNS specials))
+        (, ,)
+        (NP (JJ happy) (NN hour) (NNS specials))
+        (, ,)
+        (CC and)
+        (NP (DT a) (NN good))))
+    (VP (VBP vibe)
+      (NP (DT all))
+      (PP (IN around) (: ...)
+        (NP
+          (NP (NN job))
+          (ADJP (RB well) (VBN done)))))
+    (NP (NNP Karla) (NNP !!))))
+
+(ROOT
+  (S
+    (NP (NNP !) (. .) (NNP P/s))
+    (, ,)
+    (S
+      (VP
+        (ADVP (RB im))
+        (VBG writing)
+        (NP (DT this) (NN review))
+        (PP (IN as)
+          (NP (FW i)))))
+    (VP (VBP enjoy)
+      (NP
+        (NP (DT a) (JJ cold) (NN modelo))
+        (CC and)
+        (NP (DT some) (NN calamari)))
+      (PP (IN with)
+        (NP (DT some) (NNS friends))))
+    (. .)))
+
+

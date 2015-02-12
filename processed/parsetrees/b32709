@@ -1,0 +1,99 @@
+(ROOT
+  (NP
+    (NP (NNP Clean))
+    (, ,)
+    (NP (JJ nice) (NN staff))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NN Taste))
+    (VP (VBD was)
+      (ADJP (JJ average)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Prices))
+    (VP (VBP are)
+      (ADJP (JJ reasonable)))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (JJ Clean) (NN dining) (NN space))
+    (, ,)
+    (NP
+      (NP (JJ good) (NN value))
+      (, ,)
+      (NP (DT no) (JJ frills) (NN sushi)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Average) (NN taste))
+      (CC and)
+      (NP
+        (NP (DT a) (NN lack))
+        (PP (IN of)
+          (NP (NNS rolls)
+            (S
+              (VP (TO to)
+                (VP (VB choose)
+                  (PP (IN from)))))))))
+    (VP (VBP keep)
+      (NP
+        (NP (DT this))
+        (PP (IN from)
+          (NP (DT a) (JJR higher) (NN rating)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (ADJP (RB Fairly) (JJ expensive)
+      (PP (IN for)
+        (NP (DT the) (NN food))))
+    (NP (PRP they))
+    (VP (VBP provide))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Service))
+    (VP (VBZ is)
+      (ADJP (RB so) (RB so)))
+    (. .)))
+
+(ROOT
+  (S (RB Only)
+    (S
+      (VP (VBN got)))
+    (VP (VBZ drinks)
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (VP (VBD asked)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Sashimi))
+    (VP (VBZ is)
+      (ADJP (RB sliced) (RB too) (JJ thick) (, ,)
+        (SBAR
+          (S
+            (VP (VBZ feels)
+              (SBAR (IN like)
+                (S
+                  (NP (PRP you))
+                  (VP (VBP are)
+                    (VP (VBG eating)
+                      (NP (JJ raw) (NN fish) (NN fillet))
+                      (PP (IN than)
+                        (NP (NNS sashimi))))))))))))
+    (. .)))
+
+

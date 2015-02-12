@@ -1,0 +1,497 @@
+(ROOT
+  (S
+    (NP (NNP Big) (NNP City) (NNP Bagels))
+    (VP
+      (VP (VBZ has)
+        (NP (JJ excellent) (NN service)))
+      (CC and)
+      (VP (VBZ bagels)
+        (S
+          (VP (TO to)
+            (VP (VB match))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT Each) (NN week))
+    (S
+      (NP (PRP I))
+      (VP (VB order)
+        (NP
+          (QP (CD 3) (NN dozen))
+          (NNS bagels))))
+    (CC and)
+    (S
+      (NP (DT the) (NN staff))
+      (VP (VBZ is)
+        (ADJP (JJ attentive)
+          (PP (TO to)
+            (NP (DT any) (JJ special) (NNS requests))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNS Thanks))
+    (PP (IN for)
+      (NP (DT the) (NN butter)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (VP (VB Awesome)
+      (NP (JJ bagel) (NN place)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Fresh))
+    (VP (VBZ bagels)
+      (PP (IN with)
+        (NP
+          (NP (JJ super) (JJ friendly) (NN staff))
+          (CC and)
+          (NP (DT a) (JJ great) (NN bonus) (NN program))))
+      (: :)
+      (S
+        (VP (VB buy)
+          (S
+            (NP (CD 9) (NN breakfast) (NN omelette) (NNS sandwiches))
+            (VP (VB get)
+              (S
+                (NP (DT the) (NN 10th))
+                (ADJP (JJ free))))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (PP (RB Ever) (IN since)
+      (S
+        (VP
+          (VP (VBG visiting)
+            (NP (NNP New) (NNP York) (NNP City)))
+          (CC and)
+          (VP (VBG eating)
+            (PP (IN at)
+              (NP (NNP Ess-a-Bagel)))))))
+    (NP (PRP I))
+    (VP (VBP 've)
+      (VP (VBN been)
+        (PP (IN in)
+          (NP
+            (NP (NN search))
+            (PP (IN for)
+              (NP
+                (NP (DT an) (JJ amazing) (NN everything) (NN bagel))
+                (PP (IN with)
+                  (NP (NN lox)))))))
+        (ADVP (RB here))
+        (PP (IN in)
+          (NP (NNP Phoenix)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP (PRP We))
+        (VP (VBD stopped)
+          (S
+            (VP (TO to)
+              (VP (VB grab)
+                (NP (DT a) (NN bagel))
+                (ADVP (RB here)))))))
+      (CC and)
+      (S
+        (NP (DT the) (NN location))
+        (VP (VBZ is)
+          (ADJP (JJ perfect)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (NN parking))
+      (VP (VBZ is)
+        (NP
+          (NP (DT a) (NN bit))
+          (PP (IN of)
+            (NP
+              (NP (DT a) (NN pain))
+              (PP (IN in)
+                (NP (DT the) (NN rear))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBP get)
+      (SBAR
+        (S
+          (VP (VBZ 's)
+            (ADJP
+              (NP (DT a) (RB little))
+              (JJ congested)
+              (PP (IN during)
+                (NP (JJ peak) (NNS hours))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBD placed)
+        (NP
+          (NP (PRP$ our) (NN order))
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBD was)
+                (VP (VBN made)
+                  (ADJP (JJ fresh))
+                  (SBAR (IN as)
+                    (S
+                      (NP (PRP we))
+                      (VP (VBD waited)))))))))))
+    (CC and)
+    (S
+      (NP (PRP we))
+      (VP (VBD received)
+        (NP (PRP it))
+        (PP (IN within)
+          (NP (CD 10) (NNS minutes)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN bagel))
+      (VP (VBD was)
+        (ADVP (RB nicely))
+        (ADJP (JJ toasted))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD came)
+        (PP (IN in)
+          (NP
+            (NP (CD two) (NNS halves))
+            (PP (RB instead) (IN of)
+              (ADJP (VBN pressed)
+                (PP
+                  (ADVP (RB together))
+                  (IN like)
+                  (NP (DT a) (NN sandwich)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD did) (RB n't)
+        (VP (VB mind))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (EX there))
+      (VP (MD could)
+        (VP (VB have)
+          (VP (VBN been)
+            (NP
+              (NP (DT a)
+                (ADJP (RB little) (JJR more))
+                (NN cream) (NN cheese))
+              (PP (IN on)
+                (NP (PRP it))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT the) (NN bagel))
+      (VP (VBD tasted)
+        (ADJP (JJ great))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBP do)
+        (VP (VB miss)
+          (NP (DT those) (NNP NYC) (NNS bagels)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB come)
+        (PP (TO to)
+          (NP
+            (NP (NNP Big) (NNP City) (NNP Bagels))
+            (ADVP (RB again))))
+        (S
+          (VP (TO to)
+            (VP (VB get)
+              (NP (PRP$ my) (NN fix)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP$ My)
+      (ADJP (RBS most) (JJ favorite))
+      (NN bagel) (NNP EVER))
+    (VP (VBZ is)
+      (PP (IN at)
+        (NP
+          (NP (NNP Ess-a-Bagel))
+          (PP (IN in)
+            (NP (NNP NYC))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Obviously))
+    (, ,)
+    (S
+      (NP (PRP I))
+      (VP (MD ca) (RB n't)
+        (VP
+          (VP (VB run)
+            (PRT (RP down))
+            (NP (DT the) (NN street)))
+          (CC and)
+          (VP (VB get)
+            (NP
+              (NP (CD one))
+              (PP (IN of)
+                (NP
+                  (NP (DT those))
+                  (SBAR
+                    (WHADVP (WRB whenever))
+                    (S
+                      (NP (PRP I))
+                      (VP (VBP want)))))))))))
+    (, ,) (IN so)
+    (S
+      (NP (PRP I))
+      (VP (VBP 'm)
+        (ADVP (RB continuously))
+        (PP (IN on)
+          (NP
+            (NP (DT the) (NN hunt))
+            (PP (IN for)
+              (NP (DT a) (NN substitute)))))
+        (PP
+          (ADVP (RB here))
+          (IN in)
+          (NP (NNP Phoenix)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBD decided)
+        (S
+          (VP (TO to)
+            (VP (VB try)
+              (NP (NNP Big) (NNP City) (NNP Bagels))
+              (SBAR (IN because)
+                (S
+                  (NP (PRP it))
+                  (VP (VBZ 's)
+                    (ADJP (JJ close)
+                      (PP (TO to)
+                        (NP (PRP$ our) (JJ new) (NN house))))))))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (VP (VBG hoping)
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (MD 'd)
+                (ADVP (RB finally))
+                (VP (VB find)
+                  (NP (DT THE) (NN bagel)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN While)
+      (S
+        (NP (PRP it))
+        (VP (VBD was)
+          (ADJP (JJ good)))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBD was)
+      (ADVP
+        (ADVP (RB nowhere) (JJ close)
+          (PP (TO to)
+            (NP (PRP$ my) (NN favorite))))
+        (PRN (-LRB- -LRB-)
+          (S
+            (NP (NNP alas))
+            (, ,)
+            (NP (PRP I))
+            (VP (MD will)
+              (VP (VB have)
+                (S
+                  (VP (TO to)
+                    (VP (VB keep)
+                      (S
+                        (VP (VBG looking)))))))))
+          (-RRB- -RRB-))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD did)
+      (SBAR (IN like) (IN that)
+        (S
+          (NP (DT the) (NNS bagels))
+          (VP (VBD were)
+            (ADJP (JJ small))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN While)
+      (S
+        (NP (DT some))
+        (VP (MD may) (RB not)
+          (VP (VB feel)
+            (NP (DT the) (JJ same) (NN way))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP feel)
+      (SBAR (IN like)
+        (S
+          (NP (NNS bagels))
+          (VP (VBP are)
+            (ADVP (RB already))
+            (VP (VBG filling)
+              (ADVP (RB so))
+              (PP (IN with)
+                (NP
+                  (NP (DT a) (JJR smaller) (NN bagel))
+                  (SBAR
+                    (S
+                      (NP (PRP I))
+                      (VP (MD can)
+                        (VP (VB get)
+                          (NP
+                            (NP (RB just) (RB enough))
+                            (PP (IN of)
+                              (NP (DT a) (NN fix) (NN ;-RRB-))))
+                          (SBAR
+                            (S
+                              (NP (DT The) (NN lox))
+                              (VP (VBD tasted)
+                                (NP
+                                  (NP (JJ fresh))
+                                  (, ,)
+                                  (SBAR
+                                    (WHNP (WDT which))
+                                    (S
+                                      (VP (VBZ is)
+                                        (NP
+                                          (NP (DT a) (JJ good) (NN thing))
+                                          (PP
+                                            (ADVP (RB here))
+                                            (IN in)
+                                            (NP (DT the) (NN desert))))))))))
+                            (, ,)
+                            (CC but)
+                            (S
+                              (NP
+                                (NP (DT the) (JJ BEST) (NN thing))
+                                (PP (IN about)
+                                  (NP (DT this) (NN place))))
+                              (ADVP (RB ??)))))))))))))))))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP (JJ jalape?o) (NN cream) (NN cheese) (NNS !!!)))))
+
+(ROOT
+  (S
+    (S
+      (NP (DT Some) (JJ bagel) (NNS places))
+      (VP (VBP have)
+        (VP (VBN started)
+          (S
+            (VP (VBG carrying)
+              (NP (PRP it))))
+          (, ,)
+          (FRAG
+            (CONJP (CC but)
+              (RB not))
+            (NP (DT all))))))
+    (, ,) (IN so)
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (ADJP (JJ happy)
+          (S
+            (VP (TO to)
+              (VP (VB find)
+                (NP
+                  (NP (DT another) (NN one))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (VBZ has)
+                        (NP (PRP it))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP (DT the) (NNP BOMB.COM)))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Parking))
+      (VP (VBZ is)
+        (ADJP
+          (NP (DT a) (RB little))
+          (JJ scarce))
+        (SBAR (IN because)
+          (S
+            (NP (PRP it))
+            (VP (VBZ 's)
+              (PP (IN at)
+                (NP
+                  (NP (DT the) (JJ back) (NN side))
+                  (PP (IN of)
+                    (NP (DT a) (NN shopping) (NN center))))))))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ shares)
+        (NP (DT the) (NN lot))
+        (PP (IN with)
+          (NP
+            (NP (NNP OH-SO))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (ADVP (RB always))
+                (VP (VBZ seems)
+                  (S
+                    (VP (TO to)
+                      (VP (VB be)
+                        (VP (VBN packed))))))))))))
+    (. .)))
+
+

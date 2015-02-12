@@ -1,0 +1,170 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Nice))
+      (VP (VBP place)))
+    (, ,)
+    (CC but)
+    (S
+      (NP (NN everyone))
+      (ADVP (RB there))
+      (VP (VBD was)
+        (ADJP (RB extraordinarily) (JJ rude))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN patrons))
+      (CC and)
+      (NP (DT the) (NN staff)))
+    (VP (VBD treated)
+      (NP (PRP us))
+      (PP (IN like)
+        (NP (JJ second) (NN class) (NNS citizens)))
+      (SBAR
+        (ADVP (RB simply))
+        (IN because)
+        (S
+          (NP (PRP we))
+          (VP (VBP are)
+            (PP (IN in)
+              (NP (DT the) (CD 20-30) (NN age) (NN bracket)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Ageist) (NNS people))
+    (VP (VBP are)
+      (ADJP (JJ horrible)
+        (S
+          (VP (TO to)
+            (VP
+              (VP (VB see))
+              (, ,)
+              (ADVP (VB let) (RB alone))
+              (VP (VB interact)
+                (PP (IN with))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB Aside)
+      (PP (IN from)
+        (NP (DT that))))
+    (, ,)
+    (NP (DT the) (NN room))
+    (VP (VBD was)
+      (ADJP (JJ nice)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT This) (NN place))
+      (VP (VBZ is)
+        (ADJP (RB significantly) (JJ out)
+          (PP (IN of)
+            (NP (DT the) (NN way))))))
+    (, ,) (IN so)
+    (S
+      (SBAR (IN if)
+        (S
+          (NP (PRP you))
+          (VP (VBD were)
+            (VP (VBG planning)
+              (PP (IN on)
+                (S
+                  (VP (VBG doing)
+                    (NP (NN anything))
+                    (PP (IN within)
+                      (NP (NNP Phoenix))))))))))
+      (, ,)
+      (VP (VB stay)
+        (ADVP (RB somewhere) (RB else))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP EDIT))
+    (: :)
+    (S
+      (NP (PRP We))
+      (VP (VBD discovered)
+        (NP (DT a) (JJ few) (NNS days))
+        (PP (IN after)
+          (S
+            (VP (VBG staying)
+              (ADVP (RB here))
+              (SBAR (IN that)
+                (S
+                  (NP (PRP they))
+                  (VP (VBD charged)
+                    (NP (PRP us))
+                    (PP (IN for)
+                      (NP (DT an) (JJ additional) (NN night)))
+                    (SBAR (IN that)
+                      (S
+                        (NP (PRP we))
+                        (VP (VBD were) (RB not)
+                          (ADVP (RB there)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Upon)
+      (S
+        (VP (VBG contacting)
+          (NP (DT the) (NN company)))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ sounds)
+      (SBAR (IN like)
+        (S
+          (NP (PRP they))
+          (VP (VBP do)
+            (NP (DT this))
+            (PP (TO to)
+              (NP
+                (NP (NNS customers))
+                (NP (DT a) (NN lot))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN As)
+      (NP (DT a) (NN result)))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP have)
+      (VP (VBN downgraded)
+        (NP (PRP$ my) (NN rating))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (JJ Excellent) (NN food))
+    (: ;)
+    (NP
+      (NP (JJ excellent) (NN service))
+      (: ;)
+      (NP
+        (NP (JJ wonderful) (NN ambiance))
+        (: ;)
+        (S
+          (NP (NN view))
+          (VP (VBD was)
+            (ADJP (RB very) (JJ enjoyable))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (ADVP (RB very) (RB much))
+    (VP (VBD enjoyed)
+      (NP (PRP$ our) (NN dinner))
+      (ADVP (RB here)))
+    (. .)))
+
+

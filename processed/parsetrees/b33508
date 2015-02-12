@@ -1,0 +1,473 @@
+(ROOT
+  (NP
+    (NP (JJ Small) (NN bakery))
+    (PP (IN with)
+      (NP
+        (NP (DT a) (JJ decent) (NN variety))
+        (PP (IN of)
+          (NP (NNS breads)
+            (CC &)
+            (NNS cakes)))))
+    (PP (IN inside)
+      (NP (DT the) (NNP Greenland) (NNP Market)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT Every) (NN time))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VB shop)
+              (PP (IN at)
+                (NP (NNP Greenland)))))))
+      (, ,)
+      (NP (PRP I))
+      (VP (MD ca) (RB n't)
+        (VP (VB help))))
+    (CC but)
+    (S
+      (VP (TO to)
+        (VP (VB stop)
+          (PP (IN at)
+            (NP
+              (NP (DT the) (NN bakery))
+              (PP (IN on)
+                (NP (PRP$ my) (NN way)))))
+          (ADVP (RB out)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 've)
+        (VP (VBN tried)
+          (NP
+            (NP (DT a) (JJ good) (NN amount))
+            (PP (IN of)
+              (NP
+                (NP (JJ different) (NNS types))
+                (PP (IN of)
+                  (NP (JJ baked) (NNS goods)))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP 'm)
+        (VP (VBN let)
+          (PRT (RP down))
+          (NP (DT every) (NN time)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS breads))
+    (ADVP (RB just))
+    (VP (VBP do) (RB n't)
+      (VP (VB taste)
+        (ADJP (JJ good))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT Some))
+    (VP (VBP are)
+      (ADJP
+        (ADJP (RB too) (JJ dry))
+        (, ,)
+        (ADJP
+          (NP (DT some) (RB too))
+          (JJ bland)))
+      (, ,)
+      (NP (FW etc.)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (MD may)
+      (VP (VB be)
+        (SBAR (IN because)
+          (S
+            (NP (PRP I))
+            (VP (VBP 'm)
+              (PP (IN from)
+                (NP
+                  (NP (NNP Los) (NNP Angeles))
+                  (SBAR
+                    (WHADVP (WRB where))
+                    (S
+                      (NP (EX there))
+                      (VP (VBP are)
+                        (NP
+                          (NP (NNS hundreds))
+                          (PP (IN of)
+                            (NP (NN franchise) (NN korean) (NNS bakeries)))
+                          (SBAR
+                            (WHNP (WDT that))
+                            (S
+                              (VP (VBP know)
+                                (SBAR
+                                  (WHNP (WP what))
+                                  (S
+                                    (NP (PRP they))
+                                    (VP (VBP 're)
+                                      (VP (VBG doing)))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (MD may)
+      (ADVP (RB also))
+      (VP (VB contribute)
+        (PP (TO to)
+          (NP (PRP$ my) (NN opinion)))
+        (PP (IN on)
+          (NP
+            (NP (DT the) (NN appearance))
+            (PP (IN of)
+              (NP (DT the) (NNS goods)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN packaging))
+        (PP (IN on)
+          (NP
+            (NP (DT some))
+            (PP (IN of)
+              (NP (DT the) (NNS goods))))))
+      (VP (VBP are)
+        (ADVP (RB just))
+        (ADJP (RB not) (NN professional))))
+    (: -)
+    (S
+      (NP (NN scotch))
+      (VP (VBP tape)
+        (NP
+          (NP (DT all))
+          (PP (IN around)
+            (NP (DT the) (NN packaging))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB really))
+    (. ?)))
+
+(ROOT
+  (S
+    (ADVP (RB Also))
+    (, ,)
+    (NP (DT the) (NN coffee) (NN bun))
+    (ADVP (RB just))
+    (VP
+      (VP (VBZ looks)
+        (SBAR (IN like)
+          (S
+            (NP (PRP they))
+            (VP (VBP 've)
+              (VP (VBN tried)
+                (S
+                  (VP (TO to)
+                    (VP (VB copy)
+                      (NP (NN something))))))))))
+      (CC and)
+      (ADVP (RB just))
+      (VP (VBZ has) (RB n't)
+        (VP (VBN worked)
+          (PRT (RP out)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (DT The) (NN pizza) (NN bread))
+      (SBAR
+        (S
+          (VP (VBZ is)
+            (ADJP (JJ fine))))))
+    (: -)
+    (VP (MD ca) (RB n't)
+      (VP (VB go)
+        (ADJP (JJ wrong))
+        (PP (IN with)
+          (NP (DT that)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Breads))
+      (PP (IN with)
+        (NP (NNS beans))))
+    (ADVP (RB inside))
+    (VP (VBP are)
+      (ADJP (JJ fine) (RB too)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Overall))
+    (, ,)
+    (NP (DT the) (NNS goods))
+    (VP (VBP look)
+      (CC and)
+      (VBP taste)
+      (PP (IN like)
+        (NP
+          (NP (DT an) (JJ amateur) (NN baker))
+          (VP (VBN tried)
+            (S
+              (VP (TO to)
+                (VP (VB make)
+                  (NP (DT some) (NNS goods))
+                  (PP (IN at)
+                    (NP (NN home))))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP Onto))
+      (NP (DT the) (NN service)))
+    (: ...)
+    (NP
+      (NP (DT the) (JJR older) (NN lady))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBP 've)
+            (VP (VBN seen)
+              (ADVP (RB there))
+              (SBAR
+                (S
+                  (NP (DT a) (NN couple) (NNS times))
+                  (VP (VBZ seems)
+                    (S
+                      (VP (TO to)
+                        (VP (VB treat)
+                          (NP (PRP me))
+                          (PP (VBG depending)
+                            (PP (IN on)
+                              (NP (PRP$ her) (NN mood)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (MD may)
+      (VP (VB be)
+        (SBAR (IN because)
+          (S
+            (NP (PRP I))
+            (VP (VBP 'm)
+              (NP (JJR younger)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (QP (DT A) (JJ few))
+        (NNS times))
+      (NP (PRP I))
+      (VP (MD would)
+        (VP (VB go))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP she))
+      (VP (MD would) (RB n't)
+        (VP
+          (VP (VB say)
+            (NP (DT a) (NN word))
+            (PP (TO to)
+              (NP (PRP me))))
+          (, ,)
+          (VP (VB ring)
+            (NP (PRP me))
+            (PRT (RP up)))
+          (, ,)
+          (VP (VB mumble)
+            (NP (DT the) (NN total)))
+          (, ,)
+          (CC and)
+          (VP (VB give)
+            (NP (PRP me))
+            (NP (DT the) (NN change))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD said)
+      (VP (VB thank)
+        (NP (PRP you))
+        (PP (IN in)
+          (NP (NN korean)))))
+    (. .)))
+
+(ROOT
+  (NP (DT No) (NN response) (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Recently))
+    (, ,)
+    (S
+      (NP (PRP I))
+      (VP (VBD went)))
+    (, ,)
+    (CC and)
+    (S
+      (NP (EX there))
+      (VP (VBD was)
+        (NP
+          (NP (DT a) (JJ good) (NN amount))
+          (PP (IN of)
+            (NP
+              (NP (NNS people))
+              (VP (VBG browsing)
+                (PRT (RP around))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (VBD was)
+      (ADJP
+        (ADVP
+          (NP (DT a) (RB little))
+          (RBR more))
+        (JJ friendly)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP wish)
+      (SBAR
+        (S
+          (NP (NNP Yelp))
+          (VP (VBZ has)
+            (NP
+              (NP (CD zero) (NN star))
+              (PP (IN for)
+                (NP (PRP$ their) (NN review))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP am)
+      (VP (VBG wondering)
+        (SBAR (IN if)
+          (S
+            (NP (NNP Lepidor))
+            (VP (VBD passed)
+              (NP (NN food) (NN safety) (NN inspection)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT Some) (NN bread))
+    (VP
+      (VP (VBP smell)
+        (PP (IN like)
+          (NP (NN car) (NN oil))))
+      (CC and)
+      (VP (VBP taste)
+        (ADJP (JJ bad))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was) (RB n't)
+      (NP
+        (NP (DT the) (JJ first) (NN time))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBD tried))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD hoped)
+      (SBAR
+        (S
+          (NP (NNP Lepidor))
+          (VP (VBD improved)
+            (PP (IN in)
+              (S
+                (VP (VBG making)
+                  (NP (JJR better) (NN bread)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBD gave)
+        (NP (PRP them))
+        (NP (JJ few) (JJR more) (NNS chances)))
+      (CC but)
+      (VP (VBD came)
+        (PP (IN with)
+          (NP (JJ huge) (NN disappointment)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT A) (NN lady))
+    (ADVP (RB always))
+    (VP (VBZ works)
+      (PP (IN inside)
+        (NP (NNP Greenland) (NN market) (NN need)))
+      (S
+        (VP (TO to)
+          (VP (VB learn)
+            (NP (NN customer) (NN service))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP am)
+      (NP
+        (NP (DT a) (JJ big) (NN fan))
+        (PP (IN of)
+          (NP
+            (UCP
+              (NP (JJ Korean) (NN bakery))
+              (CC but)
+              (ADJP (JJ sorry)))
+            (NN Lepidor) (NNS !!)))))))
+
+(ROOT
+  (S
+    (NP (NN Anyone))
+    (VP (VBZ has)
+      (NP
+        (NP (DT an) (NN idea))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (NNP Paris) (NNP Baguette))
+            (VP (MD will)
+              (VP (VB open)
+                (PP (IN in)
+                  (NP (NNP Vegas)))))))))
+    (. ?)))
+
+

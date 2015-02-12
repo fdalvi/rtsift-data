@@ -1,0 +1,88 @@
+(ROOT
+  (S
+    (NP (DT These) (NNS people))
+    (VP (VBP are)
+      (ADJP (JJ amazing)))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (ADVP (RB Really))
+    (WHNP (WP who) (RB else))
+    (SQ
+      (VP (MD would)
+        (VP (VB want)
+          (S
+            (VP (TO to)
+              (VP (VB stick)
+                (NP (NNS people))
+                (PP (IN with)
+                  (NP
+                    (NP (NNS needles))
+                    (NP
+                      (NP (DT the) (NN size))
+                      (PP (IN of)
+                        (NP (NNP Mcdonalds) (NNS straws))))))))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (VP
+      (VP (VB Fill)
+        (NP (NN saddle) (NNS bags))
+        (PP (IN for)
+          (NP (NNP Harley) (POS 's)))
+        (PP (IN with)
+          (NP (JJ warm) (NN blood))))
+      (: ...)
+      (VP
+        (NP (DT all) (NN day))
+        (ADVP (RB long))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS people))
+      (PP (IN from)
+        (NP
+          (NP (DT the) (JJ front) (NN desk))
+          (ADVP (RB all)
+            (NP (DT the) (NN way))
+            (PP (TO to)
+              (NP (DT the) (NN needle) (NN poker)))))))
+    (VP (VBP are) (RB all)
+      (ADJP (JJ great)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN place))
+    (VP (VBD was)
+      (NP
+        (NP (JJ clean) (NN adn))
+        (SBAR
+          (S
+            (NP (DT the) (NN wait))
+            (VP (VBD was)
+              (ADJP (JJ short)))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (NNP Great))
+    (VP (VBP place)
+      (S
+        (VP (TO to)
+          (VP (VB unload)
+            (NP (JJ extra) (NN blood) (NNS cells))
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (VP (VBN recycled)
+                    (PP (IN into)
+                      (NP (NN someone) (RB else)))))))))))
+    (. !)))
+
+

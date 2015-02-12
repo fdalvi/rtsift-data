@@ -1,0 +1,245 @@
+(ROOT
+  (NP
+    (NP (NNS Pupusas))
+    (PP (IN for)
+      (NP ($ $) (CD 1.50)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP
+      (NP ($ $) (CD 1))
+      (RB only))
+    (SBAR (IN if)
+      (S
+        (NP (PRP you))
+        (VP (VB order)
+          (NP
+            (NP
+              (QP (IN at) (JJS least) (CD 6)))
+            (PP (IN of)
+              (NP (PRP them)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBN Served)
+      (PP (IN with)
+        (NP
+          (NP (DT a) (VBN mixed) (NNS greens) (NN type))
+          (PP (IN of)
+            (NP (NN salsa))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Very) (NNP delicious))
+      (CC and)
+      (NP (DT the) (NN salsa/sauce)))
+    (ADVP (RB really))
+    (VP (VBZ gives)
+      (NP (PRP it))
+      (NP (DT some) (NNS dimensions)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Great))
+    (VP (VBP deal)
+      (PP (IN for)
+        (NP (NNS pupusas))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Delicious))
+    (VP (VBP homemade)
+      (NP (NN ice) (NN cream)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NNS favorites))
+    (VP (VBP are)
+      (NP
+        (NP (DT the)
+          (NX (NN rose)))
+        (, ,)
+        (NP (NN cheese))
+        (, ,)
+        (CC and)
+        (NP (NN pistachio) (NNS flavors))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP$ Their) (NN service))
+      (VP (VBZ is)
+        (ADVP (RB always))
+        (ADJP (JJ great))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (MD 'll)
+        (VP (VB let)
+          (S
+            (NP (PRP you))
+            (NP
+              (NP (NN sample))
+              (PP (IN as)
+                (NP (JJ many) (NNS flavors)))))
+          (SBAR (IN as)
+            (S
+              (NP (PRP you))
+              (VP (MD 'd)
+                (VP (VB like))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (ADJP (RB very) (JJ impressed)
+        (PP (IN by)
+          (SBAR
+            (WHADJP (WRB how)
+              (ADJP (JJ nice)))
+            (S
+              (NP (PRP they))
+              (VP (VBP are)))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP$ Their) (JJ aguas) (NNS frescas))
+    (VP (VBP are)
+      (ADVP (RB also))
+      (ADJP (RB very) (, ,) (RB very) (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD tried)
+        (NP (PRP$ their) (NNS pupusas))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBD were)
+        (ADJP (RB just) (JJ OK))
+        (, ,)
+        (PP (RB not)
+          (NP (PRP$ my) (NN favorite)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD will)
+      (ADVP (RB definitely))
+      (VP (VB be)
+        (ADVP (RB back)
+          (PP (IN for)
+            (NP (DT some) (NNS sweets))))
+        (ADVP (RB though))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (DT The) (NN owner/chef))
+    (VP (VBZ is)
+      (ADJP (RB very) (JJ friendly)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS tacos))
+    (VP (VBP are)
+      (ADVP (RB absolutely))
+      (VP (VBG bomb)
+        (NP (RB especially) (PRP$ their) (CD Al) (NN pastor)
+          (CC and)
+          (NN tripa))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP make)
+      (S
+        (NP (PRP it))
+        (ADJP (RB really) (JJ crispy)
+          (CC and)
+          (JJ juicy)))
+      (SBAR (IN so)
+        (S
+          (NP (PRP you))
+          (VP (MD could)
+            (VP (VB taste)
+              (NP (DT the) (JJ full) (NN flavor)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP have)
+        (NP
+          (NP (DT a) (JJ mini) (NN food))
+          (SBAR
+            (S
+              (VP (VBP cart)
+                (NP (DT every) (NNP Wednesday))
+                (PP (TO to)
+                  (NP (NNP Saturday)))))))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ makes)
+        (S
+          (NP (PRP it))
+          (ADJP (RBR more) (JJ authentic)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Inside))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP have)
+      (NP (JJ homemade) (NN ice) (NN cream))
+      (PP (IN with)
+        (NP
+          (NP (NNS tons))
+          (PP (IN of)
+            (NP (NNS flavors))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ Our) (NN favorite))
+      (PP (IN in)
+        (NP (DT the) (NN office))))
+    (VP (VBZ is)
+      (NP (DT the) (NNP STRAWBERRY) (NNP CHEESECAKE) (NN ice) (NN cream)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP
+        (NP (DT a) (NN definitely))
+        (SBAR
+          (S
+            (VP (MD must)
+              (VP (VB try)))))))
+    (. .)))
+
+

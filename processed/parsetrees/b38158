@@ -1,0 +1,110 @@
+(ROOT
+  (S
+    (VP (VB Cancelled)
+      (NP (NN membership)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Enough))
+      (VP (VBD said)))
+    (: ...)
+    (S
+      (VP (VB go)
+        (PP (TO to)
+          (NP (DT another) (NN location)))
+        (SBAR (IN unless)
+          (S
+            (NP (PRP you))
+            (VP (VBP enjoy)
+              (S
+                (VP (VBG wasting)
+                  (NP (NN money)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Location))
+      (VP (VBD bounced)
+        (NP (NNS chiropractors))
+        (PP (IN for)
+          (NP (JJ several) (NNS weeks)))))
+    (CC and)
+    (S
+      (ADVP (RB now))
+      (NP (PRP they))
+      (VP (VBP have)
+        (NP
+          (NP (DT a) (JJ front) (NN end) (NN person))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (MD should)
+                (VP (VB be)
+                  (ADJP (JJ bounced)))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Wish))
+    (PRN
+      (S
+        (NP (PRP I))
+        (VP (MD could)
+          (VP (VB get)
+            (NP (PRP$ my) (NN money))
+            (ADVP (RB back)))))
+      (, ,))
+    (VP (VBD left)
+      (ADJP (JJR worse))
+      (SBAR (IN than)
+        (S
+          (NP (PRP I))
+          (VP (VBD went)
+            (PRT (RP in))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VP (VBN Tried)
+        (NP (JJ 2nd) (NN time)))
+      (CC and)
+      (VP (VBN left)
+        (PP (IN without)
+          (NP (DT any) (NN relief)))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Purchased)
+      (NP
+        (NP (DT a) (NN month))
+        (PP (IN of)
+          (NP (NNS visits)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (JJ other) (NN Chiropractor))
+    (VP (VBZ helps)
+      (ADJP
+        (ADJP (CC but)
+          (RB not) (JJ open)
+          (PP (IN on)
+            (NP (NNS weekends))))
+        (SBAR (IN so)
+          (S
+            (VP (VBD thought)
+              (SBAR
+                (S
+                  (NP (PRP I))
+                  (VP (MD would)
+                    (VP (VB try)
+                      (NP (DT this) (NN one)))))))))))
+    (. .)))
+
+

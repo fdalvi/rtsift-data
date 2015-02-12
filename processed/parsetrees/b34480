@@ -1,0 +1,505 @@
+(ROOT
+  (SINV
+    (VP (VBN Used)
+      (NP (DT a) (JJ mail-in) (NN coupon))
+      (PP (IN for)
+        (S
+          (VP (VBG smog)
+            (NP (NN check))
+            (PP (IN because)
+              (NP (DT this) (NN location)))))))
+    (VP (VBD offered))
+    (NP
+      (NP (JJ free) (NN car) (NN wash))
+      (PP (IN with)
+        (NP (NN purchase))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB However))
+    (, ,)
+    (NP (DT this) (NN location))
+    (VP (VBD sent)
+      (NP (PRP you))
+      (PP (TO to)
+        (NP
+          (QP (DT another) (CD one))))
+      (S
+        (VP (TO to)
+          (VP (VB get)
+            (NP (PRP$ your) (JJ free) (NN car) (NN wash))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Inconvenient))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD could)
+      (VP (VB 've)
+        (VP
+          (ADVP (RB just))
+          (VBD went)
+          (PP (TO to)
+            (NP (DT that) (NN one))))))
+    (. !)))
+
+(ROOT
+  (NP
+    (NP (JJ Good) (NNS points))
+    (: :)
+    (S
+      (S
+        (NP (PRP it))
+        (VP (VBD was)
+          (NP
+            (NP (JJ fast))
+            (, ,)
+            (NP (DT no) (NN line)))))
+      (, ,)
+      (CC and)
+      (S
+        (NP (PRP they))
+        (VP (VBP accept)
+          (NP
+            (NP
+              (NP (NN competitor) (POS 's))
+              (NNS coupons))
+            (PP (IN for)
+              (NP
+                (ADJP ($ $) (CD 14.99))
+                (NN smog)))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (SBAR (IN With)
+      (S
+        (NP (NN car))
+        (VP (VBP wash)
+          (NP ($ $) (CD 18.99)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP have)
+        (VP (VBN seen)
+          (NP (DT this) (JJ little) (NN drive-thru))
+          (VP (VB go)
+            (FRAG
+              (FRAG
+                (PP (IN through)
+                  (NP (DT a) (JJ couple) (JJ different) (NNS businesses))
+                  (. .))
+                (. .))
+              (: hot)
+              (FRAG
+                (NP
+                  (NP (NN dog) (NN shop))
+                  (, ,)
+                  (NP (NN coffee) (NN shop))
+                  (. .))
+                (. .)))))))
+    (CC And)
+    (S
+      (NP (PRP It))
+      (VP (VBZ seems)
+        (SBAR
+          (SINV
+            (PP (IN like)
+              (NP (NNP Jiffy) (NNP Smog)))
+            (VP (VBZ has)
+              (VP (VBN lasted)
+                (NP (DT the) (JJS longest))
+                (PP (RB so)
+                  (FRAG
+                    (ADVP (RB far) (. .))
+                    (. .)))))
+            (NP
+              (NP (NNP Fast))
+              (, ,)
+              (ADJP (JJ convenient)
+                (CC and)
+                (JJ cheap)))
+            (. .)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD took)
+      (NP (PRP me))
+      (NP (CD 15) (NNS minutes))
+      (SBAR
+        (SBAR
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (ADVP (IN in)
+                  (CC and)
+                  (IN out))
+                (PP (IN of)
+                  (NP (RB there)))))))
+        (CC and)
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ 's)
+              (PP (IN with)
+                (NP
+                  (NP (DT a) (NN customer))
+                  (PP (IN in)
+                    (NP
+                      (NP (NN front))
+                      (PP (IN of)
+                        (NP (PRP me)))))))
+              (ADVP (RB too))))
+          (. .))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (UCP
+        (NP
+          (NP ($ $) (CD 19.99))
+          (PP (IN for)
+            (NP (DT a) (JJ smog) (NN check))))
+        (CC and)
+        (S
+          (NP (PRP they))
+          (VP (VBP give)
+            (NP (PRP you))
+            (NP
+              (NP (DT a) (JJ free) (NN car))
+              (PP (IN wash)
+                (FRAG
+                  (ADVP (RB too) (. .))
+                  (. .)))
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (VBZ is)
+                    (ADJP (JJ great))
+                    (SBAR (IN because)
+                      (S
+                        (NP (DT that))
+                        (VP (VBZ 's)
+                          (ADVP (RB actually))
+                          (NP
+                            (NP (DT the) (NN car))
+                            (SBAR
+                              (S
+                                (VP (VBP wash)
+                                  (SBAR
+                                    (S
+                                      (NP (PRP I))
+                                      (VP (VBP go)
+                                        (PP (TO to)
+                                          (SBAR
+                                            (WHADVP (WRB when))
+                                            (S
+                                              (NP (PRP I))
+                                              (VP (VBP need)
+                                                (NP (DT a) (JJ quick) (NN wash))))))))))))))))))))))
+        (. .)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's)
+        (PP (IN at)
+          (NP (DT the) (NNPS Shells)))
+        (PP (IN on)
+          (NP
+            (NP (NNP Durango))
+            (PP (IN near)
+              (NP (NNP Rhodes) (NNP Ranch) (. .))))))
+      (. .))
+    (NP (PRP You))
+    (VP (MD can)
+      (ADVP (RB also))
+      (VP (VB price)
+        (NP (NN match))
+        (SBAR (IN if)
+          (S
+            (NP (PRP you))
+            (VP (VBP bring)
+              (FRAG
+                (PP (IN in)
+                  (NP
+                    (NP (DT a) (NN coupon))
+                    (PP (IN from)
+                      (FRAG
+                        (NP (DT another) (NN business) (. .))
+                        (. .)))
+                    (SBAR
+                      (S
+                        (VP (MD can)
+                          (VP (VB go)
+                            (NP (PDT all) (DT the) (NN way))
+                            (ADVP (RB down)
+                              (PP (TO to)
+                                (NP
+                                  (NP ($ $) (CD 14.99))
+                                  (SBAR
+                                    (S
+                                      (NP (PRP I))
+                                      (VP (VBP believe))))))))))))
+                  (. .))
+                (. .)))))
+        (FRAG (CC but)
+          (SBAR (IN if)
+            (S
+              (NP (PRP you))
+              (VP (VBP do)
+                (SBAR (IN that)
+                  (S
+                    (NP (PRP you))
+                    (VP (VBP do) (RB n't)
+                      (VP (VB get)
+                        (NP (DT a) (JJ free) (NN car) (NN wash)))))))))
+          (. .))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB also))
+    (VP (VBP love)
+      (NP (DT the) (NN fact))
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP (MD will)
+            (VP (VB renew)
+              (NP (PRP$ your) (NN registration))
+              (PP (IN for)
+                (NP (PRP you)))
+              (PP (IN at)
+                (NP
+                  (NP
+                    (NP (DT the) (NNP DMV))
+                    (PP (IN for)
+                      (NP ($ $) (CD 10))))
+                  (: ...)
+                  (SBAR
+                    (WHNP (WDT which))
+                    (S
+                      (ADVP (RB really))
+                      (VP (VBZ is) (RB n't)
+                        (SBAR (IN that)
+                          (S
+                            (SBAR (RB much) (IN because)
+                              (S
+                                (NP (PRP I))
+                                (VP (VBP think)
+                                  (SBAR (IN if)
+                                    (S
+                                      (NP
+                                        (NP (PRP you))
+                                        (, ,)
+                                        (NP (PRP yourself))
+                                        (, ,))
+                                      (VP (VBP go)
+                                        (PP (TO to)
+                                          (NP
+                                            (NP (DT the) (NN kiosk))
+                                            (PP (IN at)
+                                              (NP (DT the) (NNP DMV)))))))))))
+                            (NP (PRP they))
+                            (VP (VBP charge)
+                              (S
+                                (NP (PRP you))
+                                (NP (DT a) (NN service) (NN charge)))))))))
+                  (. .))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP
+      (NP (DT The) (NN guy))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP
+            (VP (VBD helped)
+              (SBAR
+                (S
+                  (NP (PRP me))
+                  (VP (VBD was)
+                    (ADJP (RB very) (JJ friendly))))))
+            (CC and)
+            (VP (VBD seemed)
+              (S
+                (VP (TO to)
+                  (VP (VB know)
+                    (NP (DT a) (NN lot))
+                    (PP (IN about)
+                      (NP (NNS cars)))))))))))
+    (: ...)))
+
+(ROOT
+  (NP
+    (NP (NN TIP))
+    (: :)
+    (S
+      (VP (VBP do) (RB n't)
+        (VP (VB forget)
+          (PP (TO to)
+            (NP (NN tip) (NNS LOL))))))))
+
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP (NN time)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP SMOG))
+    (VP (VBD CHECK))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN spot))
+    (VP (VBZ is)
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN parking) (NN lot))
+          (PP (IN near)
+            (NP
+              (NP (NNP Hunnie) (NNP Bunnie) (POS 's))
+              (NN dance) (NN school)))
+          (SBAR (IN so)
+            (FRAG
+              (WHADVP (WRB why))))))
+      (ADVP
+        (NP (DT the) (NN hell))
+        (RB not)))
+    (. !)))
+
+(ROOT
+  (S (CC Plus)
+    (S
+      (NP (DT the) (NNP Flamingo) (NNP DMV))
+      (VP (VBZ is)
+        (ADVP (RB nearby))
+        (ADVP (RB too))))
+    (CC and)
+    (S
+      (ADVP (RB apparently))
+      (NP (DT that) (NNP DMV) (NN location))
+      (VP (VBZ is) (RB n't)
+        (ADJP (RB as) (JJ bad)
+          (PP (IN as)
+            (NP (PDT all) (DT the) (JJ other) (NNS ones))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Anyway))
+    (PRN (, ,)
+      (S
+        (NP (PRP I))
+        (VP (VBP pull)
+          (PRT (RP up))))
+      (, ,))
+    (NP (NN dude))
+    (VP (VBZ comes)
+      (PRT (RP out)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VP (VBZ checks)
+        (NP (DT a) (JJ few) (NNS things)))
+      (CC and)
+      (VP (VBZ hands)
+        (S
+          (NP (PRP me))
+          (NP (PRP$ my) (NN receipt)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (ADJP (JJ good)
+        (S
+          (VP (TO to)
+            (VP (VB go))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP ($ $) (CD 20))
+      (VP (VBG smog)
+        (NP (NN check))
+        (PP (IN with)
+          (NP
+            (NP (JJ free) (NN drive))
+            (PP (IN in)
+              (NP (NN car) (NNP wash) (. .) (NNP Cant)))))))
+    (VP (VBP go)
+      (ADJP (JJ wrong)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Dmv)
+      (NP (NNS services)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Super))
+    (NP (JJ friendly) (NN staff))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Getting)
+        (NP (PRP$ my) (NN truck))))
+    (VP (VBD washed)
+      (SBAR (IN as)
+        (S
+          (NP (PRP I))
+          (VP (VBP write)
+            (NP (DT this) (NN review))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Dmv)
+      (PRT (RP down))
+      (NP (DT the) (NN road)))
+    (. .)))
+
+(ROOT
+  (UCP
+    (PP (IN In))
+    (CC and)
+    (ADVP (IN out)
+      (PP (IN within)
+        (NP (CD 5) (NN min))))))
+
+

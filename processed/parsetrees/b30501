@@ -1,0 +1,331 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP St.) (NNP Louis) (NNP Bar))
+      (CC and)
+      (NP (NNP Grill)))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN neighbourhood) (NN place))
+        (PP (IN for)
+          (NP (NNP Chicken) (NNP Wings)
+            (CC and)
+            (NNP Beer)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP (PRP I))
+        (VP (VBD was)
+          (ADVP (RB there))
+          (PP (IN with)
+            (NP
+              (NP (DT a) (NN buddy))
+              (PP (IN of)
+                (NP (NN mine)))))))
+      (CC and)
+      (S
+        (NP (PRP we))
+        (VP (VBD had)
+          (NP
+            (NP (DT the) (NNP Wing) (NNP Platter))
+            (CC and)
+            (NP
+              (NP (DT a) (NN pint))
+              (PP (IN of)
+                (NP (NNP Grasshopper))))))))
+    (PRN (-LRB- -LRB-)
+      (S
+        (NP
+          (NP (DT an) (JJ excellent) (NN wheat) (NN beer))
+          (PP (IN from)
+            (NP
+              (NP (NNP Alberta))
+              (, ,)
+              (NP (PRP it)))))
+        (VP (VBD was)
+          (PP (IN on)
+            (NP (NN draft)))))
+      (-RRB- -RRB-))
+    (CC and)
+    (S
+      (NP (DT both))
+      (VP (VBD were)
+        (ADJP (JJ excellent))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Service))
+      (VP (VBD was)
+        (ADJP (JJ fast)
+          (CC and)
+          (JJ friendly))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (JJ free) (NN Wi-Fi))
+      (VP (VBD was)
+        (ADVP (RB definitely))
+        (NP (DT a) (NN plus))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN establishment))
+    (VP (VBZ is)
+      (ADJP (JJ close)
+        (PP
+          (PP (TO to)
+            (NP (NNP RIM) (NNP Park)))
+          (CC and)
+          (PP (IN on)
+            (NP
+              (NP (DT this) (NN visit))
+              (SBAR
+                (S
+                  (NP (EX there))
+                  (VP (VBD were)
+                    (NP
+                      (NP (NNS lots))
+                      (PP (IN of)
+                        (NP (NNS folks))))
+                    (PP
+                      (ADVP (RB there))
+                      (IN for)
+                      (NP (DT a) (NN hockey) (NN tournament)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (RB Even) (IN though)
+      (S
+        (NP (PRP it))
+        (VP (VBD was)
+          (ADJP (JJ busy)))))
+    (, ,)
+    (NP (DT the) (NN staff))
+    (VP (VBD were)
+      (ADJP (JJ able)
+        (S
+          (VP (TO to)
+            (VP (VB deliver)
+              (NP (JJ great) (NN service)))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD came)
+      (PP (IN in)
+        (PP (IN for)
+          (NP (DT a) (JJ quick) (NN meal))))
+      (PP (IN before)
+        (NP (DT the) (NNP Kitchener) (NNPS Rangers) (NN game))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (NP
+        (NP (DT a)
+          (ADJP (RB fairly) (JJ busy))
+          (NN crowd))
+        (PP (IN for)
+          (NP (DT a) (NNP Sunday) (NN afternoon)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN At)
+        (NP (DT the) (NN time)))
+      (NP (PRP we))
+      (VP (VBD arrived)))
+    (, ,)
+    (NP (EX there))
+    (VP (VBD was)
+      (NP
+        (NP (CD 1) (NN bartender))
+        (CC and)
+        (NP
+          (NP (CD 1) (NN waitress))
+          (PP (IN for)
+            (NP (DT the) (JJ entire) (NN restaurant))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD were)
+      (ADJP (RB clearly) (JJ busy)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Staff))
+    (VP (VBD were)
+      (UCP
+        (ADJP (JJ friendly))
+        (CC and)
+        (VP (VBG trying)
+          (NP (PRP$ their) (JJS best))
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (ADJP (JJ attentive)))))))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (NP (PRP I))
+          (VP (VBD appreciated)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN waitress))
+      (VP (VBD was)
+        (ADJP (RB quite) (JJ busy))))
+    (, ,) (IN so)
+    (S
+      (NP (DT the) (NN bartender))
+      (VP (VBD came)
+        (PRT (RP over))
+        (S
+          (VP (TO to)
+            (VP (VB take)
+              (NP (PRP$ our) (NN order)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD had)
+      (NP (NNP Buffalo) (NNP Chicken) (NNP Wraps)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (VBN Given)
+      (SBAR
+        (WHADJP (WRB how)
+          (ADJP (JJ busy)))
+        (S
+          (NP (DT the) (NN restaurant))
+          (VP (VBD was)))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD was)
+      (ADJP (JJ pleased)
+        (PP (IN with)
+          (SBAR
+            (WHADJP (WRB how) (JJ fast))
+            (S
+              (NP (PRP we))
+              (VP (VBD received)
+                (NP (PRP$ our) (NN order))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ only) (NN description))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (MD can)
+            (VP (VB use)
+              (S
+                (VP (TO to)
+                  (VP (VB describe)
+                    (NP (PRP$ our) (NN dinner))))))))))
+    (VP (VBD was) (`` ``)
+      (ADJP (JJ bland))
+      ('' ''))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Wraps))
+    (ADVP (RB really))
+    (VP (VBD had)
+      (NP (DT no) (NN taste)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB Not) (DT a) (JJ memorable) (NN dinner))
+      (PP (CC but)
+        (NP (PRP they))))
+    (VP (VBP do)
+      (VP (VB get)
+        (NP (NNS marks))
+        (PP (IN for)
+          (S
+            (VP (VBG trying)
+              (ADJP (RB really) (JJ hard)
+                (S
+                  (VP (TO to)
+                    (VP (VB take)
+                      (NP
+                        (NP (NN care))
+                        (PP (IN of)
+                          (NP (NN everyone)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP am)
+      (ADJP (JJ sure)
+        (SBAR
+          (S
+            (NP (DT the) (NN kitchen))
+            (VP (VBD was)
+              (PP (IN in)
+                (NP (DT the) (JJ same) (NN boat))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Management))
+    (VP (MD should)
+      (ADVP (RB probably))
+      (VP (VB staff)
+        (ADVP (RBR better))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBP have)
+        (VP (VBN been)
+          (ADVP (RB here))
+          (ADVP (RB before))))
+      (CC and)
+      (VP (VBZ has)
+        (ADVP (RB always))
+        (VP (VBN been)
+          (NP (DT a) (JJ decent) (NN experience)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (DT that) (NN reason)))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP give)
+      (NP (CD 3) (NNS stars)))
+    (: ...)))
+
+

@@ -1,0 +1,135 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN decor))
+      (VP (VBZ is)
+        (VP (VBN mismatched))))
+    (, ,)
+    (CC but)
+    (S
+      (S
+        (NP (DT the) (NN place))
+        (VP (VBZ is)
+          (ADJP (JJ comfortable))))
+      (CC and)
+      (S
+        (NP (PRP they))
+        (VP (VBP have)
+          (VP (VBN wi) (: -)
+            (ADVP (RB fi))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN food))
+    (VP (VBZ is)
+      (ADJP (JJ delicious)
+        (PP (IN from)
+          (NP (DT the) (NNS chips)
+            (CC and)
+            (NN spicy) (NN salsa))))
+      (PP (TO to)
+        (NP
+          (NP
+            (NP
+              (NP (DT the)
+                (ADJP (JJ fantastic))
+                (NN chicken) (NNS enchiladas))
+              (TO to)
+              (NP (DT the)
+                (ADJP (RB yummy) (JJ machaca))
+                (NNS chimichangas)))
+            (: ...)
+            (S
+              (SBAR (IN if)
+                (S
+                  (NP (PRP you))
+                  (VP (VBP love)
+                    (NP (DT a)
+                      (ADJP (RB well) (VBN made))
+                      (NN margarita)))))
+              (, ,)
+              (VP (VB try)
+                (NP (PRP$ their) (NNP Perfect) (NNP Margarita)))))
+          (: :)
+          (NP
+            (NP (NNP Don) (NNP Julio))
+            (, ,)
+            (NP (NNP Cointreau))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (NNP Gran) (NNP Marnier))
+      (, ,)
+      (NP (JJ triple) (NN sec))
+      (CC and)
+      (NP (NN lime)))
+    (: ...)
+    (NP
+      (NP (NNP Hand) (NNP shaken))
+      (: ...)
+      (NP (DT the) (JJS best)))
+    (. !)))
+
+
+(ROOT
+  (NP
+    (NP (JJ Really) (JJ good) (NN food))
+    (PRN (-LRB- -LRB-)
+      (CC and)
+      (NP
+        (NP (NNS tons))
+        (PP (IN of)
+          (NP (PRP it))))
+      (-RRB- -RRB-))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB definitely))
+    (VP (VBP recommend)
+      (NP
+        (NP (DT the) (NNS chimichangas))
+        (CC and)
+        (NP (PDT all) (DT the) (NNS desserts))))
+    (. .) (. .)))
+
+(ROOT
+  (FRAG
+    (S
+      (S
+        (NP (PRP They))
+        (ADVP (RB always))
+        (VP (VBP seem)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (ADJP (JJ empty)))))))
+      (, ,)
+      (CC but)
+      (S
+        (NP (PRP I))
+        (VP (VBP assume)
+          (SBAR
+            (S
+              (NP (PRP it))
+              (VP (VBZ 's)
+                (SBAR (IN because)
+                  (S
+                    (NP (PRP they))
+                    (VP (VBP 're)
+                      (NP
+                        (NP (NN new-ish)
+                          (CC and)
+                          (NN kind))
+                        (PP (IN of)
+                          (NP
+                            (ADJP (RB far)
+                              (PP (IN from)
+                                (NP (DT the) (JJ regular) (NN food))))
+                            (NNS places)))))))))))))))
+
+

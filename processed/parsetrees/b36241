@@ -1,0 +1,1282 @@
+(ROOT
+  (SINV
+    (ADVP (RB Just))
+    (SINV
+      (VP (VBD discovered))
+      (NP (DT this) (NN bakery)))
+    (CC and)
+    (SINV
+      (ADVP (RB only))
+      (VP (VBD tried))
+      (NP (CD one) (NN macaron)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (ADJP (JJ good)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD 'll)
+      (VP (VB be)
+        (ADVP (RB back))
+        (S
+          (VP (TO to)
+            (VP (VB try)
+              (NP (JJR more)))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (VP
+      (VP (VB Tried)
+        (NP (DT this) (NN place))
+        (PP (IN on)
+          (NP
+            (NP (DT the) (NN basis))
+            (PP (IN of)
+              (NP (CD one) (NN review)))))
+        (PRN (-LRB- -LRB-)
+          (S
+            (ADVP (RB usually))
+            (NP (PRP I))
+            (VP (VBP prefer)
+              (ADVP (RBR more))))
+          (-RRB- -RRB-)))
+      (CC and)
+      (VP (VBD liked)
+        (NP (PRP it))))
+    (. !)))
+
+(ROOT
+  (S
+    (SBAR (IN Since)
+      (S
+        (NP (PRP I))
+        (VP (VBD stopped)
+          (PP (IN by)
+            (NP (RB here)))
+          (PP (IN before)
+            (NP (NN work))))))
+    (NP (PRP I))
+    (ADVP (RB only))
+    (VP (VBD had)
+      (NP (DT a) (NN chance)
+        (S
+          (VP (TO to)
+            (VP (VB try)
+              (NP (DT a) (JJ few) (NNS things)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD wound)
+        (PRT (RP up))
+        (S
+          (VP (VBG picking)
+            (NP
+              (NP (DT the) (NN bag))
+              (PP (IN of)
+                (NP (NNS macaroons))))))))
+    (CC and)
+    (S
+      (NP (DT a) (NN chocolate)
+        (CC and)
+        (NN orange) (NN cake))
+      (VP (VBD called)
+        (NP (DT the) (NN croqueline))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN cake))
+      (VP (VBD was)
+        (ADJP (JJ light)
+          (CC and)
+          (JJ moist))))
+    (, ,)
+    (NP
+      (NP (DT the) (NN orange)
+        (CC and)
+        (NN chocolate))
+      (VP (VBN paired)
+        (ADVP (RB well) (RB together))
+        (PP (IN as)
+          (NP
+            (NP (DT the) (NN powder))
+            (PP (IN on)
+              (NP
+                (NP (NN top))
+                (PP (IN of)
+                  (NP (DT the) (NN cake)))))))))
+    (VP (VBD added)
+      (NP (NN texture))
+      (PP (TO to)
+        (NP
+          (NP (DT the) (NN cake) (POS 's))
+          (NN softness))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB However))
+    (NP (PRP I))
+    (VP (MD ca) (RB n't)
+      (VP (VB say)
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBD enjoyed)
+              (NP (DT the) (NNS macaroons)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 've)
+        (ADVP (RB only))
+        (VP (VBN tried)
+          (NP (PRP them))
+          (PP (IN at)
+            (NP (CD two) (JJ other) (NNS places)))
+          (PRN (-LRB- -LRB-)
+            (NP
+              (NP (NNP Bouchon))
+              (CC and)
+              (NP (NNP Patisserie) (NNP Manon)))
+            (-RRB- -RRB-)))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (VP (VBN disappointed)
+          (SBAR (IN that)
+            (S
+              (NP (PRP theirs))
+              (VP (VBD tasted)
+                (NP
+                  (ADJP (JJ similar)
+                    (PP (TO to)
+                      (NP (DT the) (JJ cheap) (NN sugar))))
+                  (NNS cookies))
+                (PP (IN at)
+                  (NP (DT the) (NN grocery) (NNS stores)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD bit)
+        (PP (IN into)
+          (NP (DT the) (NN orange)
+            (CC and)
+            (NN pistachio) (NN one)))
+        (PP (IN inside)
+          (NP (DT the) (NN bag)))))
+    (PRN (-LRB- -LRB-)
+      (S
+        (S
+          (NP (EX there))
+          (VP (VBD was)
+            (ADVP (RB also))
+            (NP (NN chocolate))))
+        (, ,)
+        (CC but)
+        (S
+          (NP (PRP I))
+          (VP (VBD did) (RB n't)
+            (VP (VB bite)
+              (PP (IN into)
+                (NP (DT that) (NN one)))
+              (ADVP (RB yet))))))
+      (-RRB- -RRB-))
+    (CC and)
+    (S
+      (NP (DT the) (NN filling))
+      (VP (VBD was) (RB n't)
+        (ADJP (RB very) (JJ rich)
+          (PP (IN in)
+            (NP (NN flavor))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD expected)
+      (NP (DT the) (NN color)
+        (S
+          (VP (TO to)
+            (VP (VB remind)
+              (NP (PRP me))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (NN flavor))
+                  (PRN (-LRB- -LRB-)
+                    (NP
+                      (NP (JJ orange) (JJ =) (NN orange))
+                      (, ,)
+                      (NP (NN mint) (JJ green) (JJ =) (NN pistachio)))
+                    (-RRB- -RRB-)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (JJ Next) (NN time))
+      (NP (PRP I))
+      (VP (MD 'll)
+        (VP (VB pass)
+          (PP (IN on)
+            (NP (DT the) (NNS macaroons))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (MD 'll)
+        (VP (VB try)
+          (NP (PRP$ their) (JJ other) (NNS selections)))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Had) (NN lunch))
+      (PP (IN with)
+        (NP
+          (NP (NNP David) (NNP S.))
+          (CC and)
+          (NP (NNP Cristie) (NNP O.)
+            (CC and)
+            (NNP David)))))
+    (VP (VBD wanted)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (NP
+              (NP (DT a) (JJ lookie) (NN loo))
+              (PP (IN at)
+                (NP
+                  (NP (DT this) (JJ new) (NN bakery))
+                  (PP (IN in)
+                    (NP (DT the) (NN corner))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD ca) (RB n't)
+      (VP
+        (VP (VB go)
+          (PP (TO to)
+            (NP (DT the) (NN bakery))))
+        (CC and)
+        (RB not)
+        (VP (VB try)
+          (NP (NN something)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Apparently))
+      (NP (DT this))
+      (VP (VBZ is)
+        (NP
+          (NP (DT a) (JJ 3rd) (NN location))
+          (PP (IN for)
+            (NP (NNP Belle))))))
+    (, ,)
+    (NP (DT the) (JJ other) (CD two))
+    (VP (VBP are)
+      (VP
+        (VP (VBN established))
+        (CC and)
+        (VP
+          (ADVP (RB well))
+          (VBN rated)
+          (PP (IN in)
+            (NP (NNP Seattle) (NN area))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBD were)
+        (NP
+          (NP (NNS samples))
+          (PP (IN of)
+            (NP (NNS croissants))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBD tried)
+        (NP
+          (NP (DT a) (NN piece))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NN spinach))
+              (VP (VBN filled)
+                (NP
+                  (NP (CD one))
+                  (SBAR
+                    (WHNP (WDT which))
+                    (S
+                      (VP (VBD was)
+                        (NP
+                          (ADJP (JJ tasty) (, ,) (JJ savory)
+                            (CC and)
+                            (JJ nice))
+                          (NNS flakiness))
+                        (PP (TO to)
+                          (NP (PRP it)))))))))))))
+    (. .)))
+
+(ROOT
+  (S (RB Then)
+    (NP (PRP she))
+    (VP
+      (ADVP (RB actually))
+      (VBD cut)
+      (NP (DT a) (NN dessert)
+        (S
+          (VP (TO to)
+            (VP (VB let)
+              (S
+                (NP (PRP us))
+                (NP
+                  (NP (NN sample))
+                  (, ,)
+                  (NP (DT a) (JJ orange) (NN flavored))
+                  (, ,)
+                  (NP (NN chocolate) (NN type) (NN mousse))
+                  (CC and)
+                  (NP
+                    (NP (JJ almond) (NN cookie) (NN type) (NN dessert))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP (VBD was)
+                          (ADJP (JJ tasty)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (RB too) (JJ nice)
+          (PP (IN of)
+            (NP (PRP her))))
+        (, ,) (RB too)
+        (ADJP (JJ sweet)
+          (S
+            (VP (TO to)
+              (VP (RB not) (VB get)
+                (NP (NN something))
+                (PP (IN from)
+                  (NP (PRP her)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBD ended)
+        (PRT (RP up))
+        (S
+          (VP (VBG getting)
+            (NP (DT a) (NN pictache)))))
+      (, ,)
+      (CC and)
+      (VP (VBP pear)
+        (NP (JJ caramel) (NN mousse))
+        (S
+          (VP (TO to)
+            (VP (VB take)
+              (NP (NN home)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBD were)
+        (ADJP (JJ pretty))))
+    (, ,)
+    (CC but)
+    (S
+      (PP (RB because) (IN of)
+        (NP
+          (NP (DT the) (NN heat))
+          (CC and)
+          (S
+            (NP (PRP me))
+            (VP (VBG being)
+              (ADJP (IN out)
+                (PP (IN for)
+                  (NP (DT a) (NN bit))))))))
+      (NP (PRP they))
+      (VP (VBD were)
+        (VP (VBN melted)
+          (PP (TO to)
+            (NP (NNS bits))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN From)
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP (PRP I))
+          (VP (MD can)
+            (VP (VB scoop)
+              (PRT (RP off))
+              (NP (DT the) (NN box)))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBD tasted)
+      (NP (NN alright))
+      (SBAR (CC but)
+        (S
+          (NP (EX there))
+          (VP (VBD was)
+            (NP
+              (NP (DT a) (NN texture))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBD was) (RB n't)
+                    (ADJP (JJ great)
+                      (PP (IN about)
+                        (NP (PRP it))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (NP
+        (NP (NN kinda) (NN greasy))
+        (PP (IN of)
+          (NP
+            (NP (DT a) (NN feel))
+            (PP (IN on)
+              (NP (DT the) (NN mouth)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Of)
+      (NP (NN course)))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP recognize)
+      (SBAR (IN that)
+        (S
+          (VP (MD can)
+            (VP (VB be)
+              (PP (IN with)
+                (S
+                  (NP (PRP it))
+                  (VP
+                    (VP (VBG melting))
+                    (CC and)
+                    (VP (VBG changing)
+                      (S
+                        (NP (DT the) (JJ whole) (NN cake))
+                        (RB so)
+                        (VP (VB take)
+                          (NP (DT this))
+                          (PP (IN with)
+                            (NP
+                              (NP (DT a) (NN grain))
+                              (PP (IN of)
+                                (NP (NN salt))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP imagine)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ is)
+            (ADVP (RB probably))
+            (ADJP (JJ good)
+              (PP (IN as)
+                (NP (DT the) (NN sample))))
+            (SBAR (IN if)
+              (S
+                (NP (PRP it))
+                (VP (VBD had) (RB n't)
+                  (VP (VBN been)
+                    (VP (VBN ruined)
+                      (PP (IN by)
+                        (NP (PRP me))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (JJ Individual) (NNS pastries))
+      (VP (VBD were)
+        (NP ($ $) (CD 4.99))))
+    (CC and)
+    (S
+      (NP
+        (NP (NNS things))
+        (PP (IN like)
+          (NP (NNS croissants)
+            (CC and)
+            (NNS cookies))))
+      (VP (VBD looked)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (NP ($ $) (CD 1-3)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBD were)
+      (ADVP (RB also))
+      (NP
+        (NP (JJ french) (NNS macarons))
+        (, ,)
+        (NP (NNS quiches))
+        (, ,)
+        (NP (NNS merengues))
+        (CC and)
+        (NP (JJ individual) (NNS tarts))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (NP
+        (NP (NN seating)
+          (CC and)
+          (NN water))
+        (VP (VBN provided)
+          (SBAR (IN so)
+            (S
+              (NP (PRP it))
+              (VP (VBZ 's)
+                (NP (DT a) (JJ comfy) (NN place)
+                  (S
+                    (VP (TO to)
+                      (VP
+                        (ADVP (RB also))
+                        (VB eat)
+                        (NP (PRP$ your) (NN dessert))
+                        (PP (IN after)
+                          (NP
+                            (NP (DT a) (NN meal))
+                            (PP (IN at)
+                              (NP (JJ nearby) (NNS restaurants)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP You))
+      (VP (MD can)
+        (ADVP (RB also))
+        (VP (VB get)
+          (NP (DT a) (JJ full) (NN meal))
+          (ADVP (RB here)))))
+    (: -)
+    (S
+      (NP (PRP they))
+      (VP
+        (VP (VBP have)
+          (NP (NNS salads) (, ,) (NNS sandwiches) (, ,) (NNS quiches) (, ,) (JJ savory) (NNS croissants)))
+        (CC and)
+        (VP
+          (ADVP (RB also))
+          (VBP make)
+          (NP (NN cafe) (JJ classic) (NNS beverages)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBD were)
+        (NP
+          (NP (JJ french) (NN macaron) (NNS packs))
+          (PP (IN in)
+            (NP (DT the) (NN fridge))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP have)
+        (S
+          (VP (TO to)
+            (VP (VB come)
+              (PRT (RP back))
+              (PP (IN for)
+                (NP (DT those))))))))
+    (. ...)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN time))
+    (S
+      (NP (PRP I))
+      (VP (MD 'll)
+        (VP (VB make)
+          (ADJP (JJ sure)
+            (S
+              (VP (TO to)
+                (VP (VB eat)
+                  (UCP
+                    (ADVP (RB there))
+                    (CC or)
+                    (VP (VBG heading)
+                      (NP (NN home)))))))))))
+    (CC and)
+    (S
+      (ADVP (RB fast) (RB so))
+      (NP (PRP I))
+      (VP (MD can)
+        (VP (VB give)
+          (NP
+            (NP (DT a) (JJR better) (NN assessment))
+            (PP (IN of)
+              (NP (DT this) (NN place)))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP (PRP We))
+        (VP (VBD went)
+          (ADVP (RB there))
+          (NP (DT a) (JJ few) (NNS times))))
+      (, ,)
+      (CC and)
+      (S
+        (NP (RB here))
+        (VP (VBP are)
+          (NP (PRP$ my) (CD 2) (NN cent) (NN opinion)))))
+    (: :)
+    (S
+      (NP (NNP Recommend) (DT the) (NNP Napoleon))
+      (PRN (, -)
+        (ADVP (RB crunchy))
+        (, ,))
+      (VP (VBP creamy) (RB not)
+        (ADJP (RB too) (JJ sweet))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN crime) (NN br?l?e))
+    (VP (VBD was)
+      (ADJP
+        (ADJP
+          (PP (IN above)
+            (NP
+              (NP (NN avg))
+              (: -)
+              (ADJP (JJ rich))))
+          (, ,) (JJ creamy))
+        (CONJP (CC but)
+          (RB not))
+        (ADJP (RB too) (JJ sweet)
+          (SBAR
+            (S
+              (NP
+                (NP (DT The) (NN mousse))
+                (PP (IN with)
+                  (NP (NN peach))))
+              (VP (VBD was)
+                (ADJP (JJ good)
+                  (SBAR
+                    (S
+                      (NP (DT The) (NN chocolate) (NN mousse))
+                      (VP (VBD was)
+                        (ADJP (RB too) (JJ sweet)
+                          (SBAR
+                            (S
+                              (NP (NNP Chocolate) (NN cream) (NN puff))
+                              (VP (VBD was)
+                                (ADJP (RB very) (JJ good)
+                                  (SBAR
+                                    (S
+                                      (NP (NNP Tiramisu))
+                                      (VP (VBD was) (RB not)
+                                        (NP
+                                          (NP (DT the) (NN way))
+                                          (SBAR
+                                            (S
+                                              (NP (PRP I))
+                                              (ADVP (RB always))
+                                              (VP (VBP have)
+                                                (VP
+                                                  (PP (IN at)
+                                                    (NP (DT any) (JJ Italian) (NN restaurant))))))))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Maybe))
+    (NP (DT that))
+    (VP (VBZ 's)
+      (SBAR
+        (WHADVP (WRB how))
+        (S
+          (NP (DT the) (JJ French) (NN version))
+          (VP (VBD was)
+            (VP (VBN supposed)
+              (S
+                (VP (TO to)
+                  (VP (VB be)
+                    (NP
+                      (NP (DT The) (NN jasmine) (NN tea))
+                      (SBAR
+                        (S
+                          (VP (VBD was)
+                            (ADJP
+                              (ADJP (JJ good))
+                              (, ,)
+                              (ADJP (JJ aromatic)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (MD should)
+      (VP (VB come)
+        (CC and)
+        (VB try)
+        (NP (PRP it))
+        (ADVP (RB once))))))
+
+
+(ROOT
+  (S
+    (NP (NNP HOLY))
+    (VP (VBZ SMACKS))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NNS coworkers))
+    (ADVP (RB just))
+    (VP (VBD found)
+      (NP
+        (NP (DT this) (NN place))
+        (CC and)
+        (NP
+          (NP (PRP it) (POS 's))
+          (NNP SOO) (NNP DELISH))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB Absolutely) (NN everything))
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBP have)))))
+    (VP (VBZ is)
+      (S
+        (VP (TO TO)
+          (VP (VB DIE)
+            (PP (IN FOR))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP (PRP We))
+        (ADVP (RB just))
+        (VP (VBD ordered)
+          (PP (IN from)
+            (NP (PRP them)))
+          (NP (NN yesterday))))
+      (CC and)
+      (S
+        (NP (DT the) (NN owner))
+        (VP (VBD offered)
+          (S
+            (VP (TO to)
+              (VP (VB deliver)
+                (PP (TO to)
+                  (NP (PRP$ our) (NN office.)))))))
+        (, ,)))
+    (, ,)
+    (PRN (-LRB- -LRB-)
+      (S
+        (NP (NNP granted))
+        (, ,)
+        (NP (PRP it))
+        (VP (VBZ 's)
+          (NP (DT a) (JJ big) (NN office))))
+      (-RRB- -RRB-))
+    (CC and)
+    (S
+      (NP (PRP she))
+      (VP (VBD refused)
+        (S
+          (VP (TO to)
+            (VP (VB accept)
+              (NP (DT a) (NN tip)))))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNS Owners))
+      (VP (VBP are)
+        (NP (JJ great) (NNS people))))
+    (, ,)
+    (S
+      (NP (DT the) (NN service))
+      (VP (VBZ is)
+        (ADJP (JJ great))))
+    (CC and)
+    (S
+      (NP (PRP$ their) (NNS pastries))
+      (VP (VBP are)
+        (ADJP (RB ridiculously) (JJ good))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP give)
+      (NP (PRP them))
+      (NP (CD 5) (NNS stars)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (PP (IN After)
+      (S
+        (VP (VBG having)
+          (NP
+            (NP (NN lunch))
+            (PRN (-LRB- -LRB-)
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (VBD turned)
+                    (PRT (RP out))
+                    (S
+                      (VP (TO to)
+                        (VP (VB be)
+                          (NP (DT a) (NN nightmare) (NN meal))))))))
+              (-RRB- -RRB-))
+            (PP (IN at)
+              (NP (NNP Hue) (NNP Thai) (JJ next) (NN door)))))))
+    (, ,)
+    (NP
+      (NP (PRP$ my) (NNS friends))
+      (CC and)
+      (NP (PRP I)))
+    (VP
+      (VP (VBD went))
+      (CC and)
+      (VP
+        (ADVP (JJ next) (NN door))
+        (PP (TO to)
+          (NP (NNP Belle) (NNP Pastry)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP remember)
+        (S
+          (VP (VBG seeing)
+            (NP
+              (NP (DT a) (NN sign))
+              (PP (IN for)
+                (NP (PRP it)))
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (PRP we))
+                  (VP (VBD walked)
+                    (PRT (RP up))
+                    (PP (TO to)
+                      (NP
+                        (NP (DT the) (JJ 2nd) (NN floor))
+                        (PP (IN for)
+                          (NP (NN lunch)))))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (ADVP (RB really))
+      (VP (VBD thought)
+        (SBAR
+          (S
+            (NP (DT this))
+            (VP (VBD was)
+              (NP
+                (NP (DT an) (JJ Asian) (NN bakery))
+                (PP (IN with)
+                  (NP
+                    (NP (JJ red) (NN bean) (NNS buns))
+                    (, ,)
+                    (NP (FW etc.))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP
+        (NP (DT a) (NN cute))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP want)
+              (S
+                (VP (TO to)
+                  (VP (VB say)
+                    (NP (JJ European-like) (NN bakery))
+                    (PP (IN with)
+                      (NP
+                        (NP (NNS lots))
+                        (PP (IN of)
+                          (NP (NNS croissants)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP
+      (VP (VBD were)
+        (VP (VBG grabbing)
+          (NP
+            (NP (NNS snacks))
+            (PP (IN for)
+              (NP (PRP$ our) (NN car) (NN ride) (NN home))))
+          (PP (TO to)
+            (NP (NNP California)))))
+      (, ,)
+      (CC and)
+      (VP (VBD got)
+        (NP
+          (NP (DT the) (NNP Almond) (NNP Croissant))
+          (CC and)
+          (NP (DT the) (NNP Raisin/Cream) (NNP Cheese) (NNP Croissant)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Almond) (NNP Croissant))
+    (VP (VBD was)
+      (NP (NNP VERY) (NNP GOOD)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB GET)
+      (NP (PRP IT))
+      (SBAR (IN if)
+        (S
+          (NP (PRP you))
+          (, ,)
+          (PP (IN like)
+            (NP (PRP me)))
+          (, ,)
+          (VP (VBP love)
+            (NP (JJ almond) (NN anything))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Raisin/Cream) (NNP Cheese) (NNP Croissant))
+    (VP
+      (VP (VBD was)
+        (NP
+          (NP (NN kind))
+          (PP (IN of)
+            (NP (JJ soggy)))))
+      (, ,)
+      (CC but)
+      (VP (VBD was)
+        (ADVP (RB still))
+        (ADJP (JJ good))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP You))
+      (VP
+        (VP (MD can)
+          (VP (VB taste)
+            (NP (NN butter))
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP you))
+                (VP (VBP 're)
+                  (VP (VBG eating)
+                    (NP (DT the) (NNS croissants))))))))
+        (, ,)
+        (CC but)
+        (VP (VBP shoot))))
+    (, ,)
+    (NP (DT a) (NN croissant))
+    (VP (MD should)
+      (VP (VB taste)
+        (PP (IN like)
+          (NP
+            (NP (NN butter))
+            (PP (IN in)
+              (NP (PRP$ your) (NN mouth)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP happen)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (PP (IN in)
+                  (NP (DT that) (NN plaza)))))))))
+    (, ,)
+    (VP (VB stop)
+      (PP (IN by)
+        (PP (IN for)
+          (NP (DT a) (JJ sweet) (NN treat)))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN bakery))
+    (VP
+      (VP (VBZ is)
+        (ADJP
+          (NP (DT a) (RB little))
+          (JJ pricey)))
+      (, ,)
+      (CC but)
+      (ADVP (IN by) (DT no))
+      (VP (VBZ means)
+        (NP (CD 3) (NN dollar) (NNS signs))
+        (ADJP (JJ pricey))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (DT both) (NNS croissants)))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBD was)
+      (NP
+        (NP
+          (NP ($ $) (CD 6.10))
+          (: ;)
+          (ADJP (RB not) (JJ bad)))
+        (VP (VBG considering)
+          (NP
+            (NP
+              (NP (DT the) (NN size))
+              (PP (IN of)
+                (NP (DT the) (NN croissant))))
+            (CC and)
+            (NP
+              (NP (PDT all) (DT the) (NN filling))
+              (PP (IN in)
+                (NP (PRP it))))))))
+    (. .)))
+
+
+(ROOT
+  (FRAG
+    (ADJP
+      (ADJP (RB yummy) (JJ pastries))
+      (CC and)
+      (ADJP (RB really) (JJ good)))
+    (ADJP (JJ desserts) (. !))))
+
+(ROOT
+  (PRN (-LRB- -LRB-)
+    (S
+      (NP
+        (NP (JJ almond) (NN pastry))
+        (, ,)
+        (NP
+          (NP (JJ creme) (NN bru))
+          (: ;)
+          (NP
+            (NP (NN ee))
+            (, ,)
+            (NP (NNS eclairs))
+            (, ,)
+            (NP
+              (NP (NN fruit) (NNS tarts))
+              (SBAR
+                (S
+                  (VP (VBP are)
+                    (NP (PRP$ my) (NN fave))
+                    (ADVP (RB here)))))))
+          (-RRB- -RRB-)))
+      (VP (VBP do) (RB not)
+        (VP (VB order)
+          (NP
+            (NP (DT any) (JJ iced) (NNS coffees))
+            (ADVP (RB unfortunately))
+            (SBAR
+              (S
+                (NP (PRP they))
+                (VP (VBP suck)
+                  (PP (IN at)
+                    (NP (PRP it))))))))))
+    (-RRB- -RRB-)))
+
+
+(ROOT
+  (NP (NNP CLOSED) (NNP !!!)))
+
+(ROOT
+  (NP (NNS Bummers) (. !)))
+
+(ROOT
+  (S
+    (SBAR (IN After)
+      (S (RB not)
+        (VP (VBG being)
+          (ADJP (JJ able)
+            (S
+              (VP (TO to)
+                (VP (VB come)
+                  (ADVP (RB here))
+                  (PP (IN for)
+                    (NP
+                      (NP (DT a) (NN couple))
+                      (PP (IN of)
+                        (NP (NNS months))))))))))))
+    (VP (VBD stopped)
+      (PP (IN by)
+        (NP (NN today)))
+      (ADVP (RB only))
+      (S
+        (VP (TO to)
+          (VP (VB discover)
+            (SBAR (IN that)
+              (S
+                (NP (PRP they))
+                (VP (VBP 're)
+                  (ADVP (RB no) (RB longer))
+                  (PP (IN in)
+                    (NP (NN business))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBD used)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (NP
+              (NP (DT a) (NN weekend) (NN treat))
+              (PP (IN for)
+                (NP
+                  (NP (PRP$ my) (NN family))
+                  (NP (DT an) (NN I)))))))))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHADVP
+      (ADVP (RB Now))
+      (WRB where))
+    (SQ (VBP do)
+      (NP (PRP we))
+      (VP (VB get)
+        (PRT (RP out))
+        (NP (NN dessert) (NN fix))
+        (PP (IN on))))
+    (. ?)))
+
+
+(ROOT
+  (FRAG
+    (WHNP (WDT What))
+    (PP (FW a)
+      (NP (JJ little) (NN surprise)))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (ADJP (RB Very) (JJ tasty)
+      (CC and)
+      (JJ cozy))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Hopefully))
+    (NP (JJR more) (NNS people))
+    (VP (MD will)
+      (VP (VB come)
+        (ADVP (RB here))
+        (SBAR (IN as)
+          (S
+            (NP (PRP we))
+            (VP
+              (VP (VBD noticed)
+                (NP (CD zero) (NNS people))
+                (ADVP (RB here))
+                (SBAR
+                  (WHADVP (WRB when))
+                  (S
+                    (NP (PRP we))
+                    (VP (VBD sat)))))
+              (CC and)
+              (VP (VBD ate)
+                (PP (IN for)
+                  (NP (NN close)))
+                (PP (TO to)
+                  (NP (DT an) (NN hour)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN girl))
+      (PP (IN behind)
+        (NP (DT the) (NN counter))))
+    (VP (VBD was)
+      (ADJP (RB very) (JJ sweet))
+      (ADVP (RB also)))
+    (. .)))
+
+

@@ -1,0 +1,113 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT A)
+        (ADJP (JJ small)
+          (CC but)
+          (JJ handy))
+        (NN spot))
+      (SBAR
+        (S
+          (VP (TO to)
+            (VP
+              (VP (VB get)
+                (NP (PRP$ our) (NN lotto) (NN tix)))
+              (, ,)
+              (VP (VB pick)
+                (PRT (RP up))
+                (NP (NNP Redbox) (NN movie)))
+              (CC and)
+              (VP (VB get)
+                (NP (DT a) (NN car))))))))
+    (VP (VBP wash))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (JJ small))
+        (, ,)
+        (ADJP
+          (NP (CD 6) (NNS pump))
+          (JJ stations))
+        (, ,)
+        (CC but)
+        (ADJP (JJ convenient))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Attendants))
+      (PRN (-LRB- -LRB-)
+        (PP (IN in)
+          (NP (PRP$ my) (NN experience))
+          (ADVP (RB here)))
+        (-RRB- -RRB-)))
+    (VP (VBP have)
+      (ADVP (RB always))
+      (VP (VBN been)
+        (NP
+          (NP (JJ polite))
+          (CC and)
+          (NP (JJ professional)))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBG Parking)
+      (NP (NN lot)
+        (CC and)
+        (NN store))
+      (PP (IN inside)
+        (NP (NNP tidy))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN car) (NN wash))
+      (VP (VBZ is) (`` ``)
+        (ADJP (JJ brushless))
+        ('' '')
+        (SBAR (IN so)
+          (S
+            (NP (PRP it))
+            (VP (VBZ saves)
+              (VP (VB wear)
+                (PP (IN on)
+                  (NP (PRP$ our) (NN paint) (NN job)))))))))
+    (: ...)
+    (S
+      (NP (JJ great) (JJ little) (NN convenience) (NN store/gas/car))
+      (VP (VBP wash)
+        (NP
+          (NP (NN spot))
+          (PP (IN in)
+            (NP (NNP Surprise))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (S
+        (ADJP (JJ Easy)
+          (S
+            (VP (TO to)
+              (VP (VB find))))))
+      (, ,)
+      (NP (PRP I))
+      (VP (VBP love)
+        (NP (DT the) (NN parking) (NN lot) (NN design))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NN gas))
+      (VP (VBD was)
+        (ADJP (JJS cheapest))))
+    (. !)))
+
+

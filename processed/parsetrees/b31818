@@ -1,0 +1,187 @@
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP (DT a) (NN bus) (NN station)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP (RB fairly) (JJ central)
+        (PP (IN in)
+          (NP (NN town))))
+      (PRN (-LRB- -LRB-)
+        (PP (IN in)
+          (NP
+            (NP (NN fact))
+            (, ,)
+            (ADJP (RB very) (JJ central))))
+        (-RRB- -RRB-)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBP are)
+      (NP
+        (NP (NNS lots))
+        (PP (IN of)
+          (NP
+            (NP (NNS services))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBP run)
+                  (NP
+                    (NP (DT all))
+                    (PP (IN over)
+                      (NP (DT the) (NN country)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADVP (RB also))
+      (NP (RB quite) (DT a) (JJ new) (NN building)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (ADVP (RB just))
+    (VP (VBZ irks)
+      (NP (PRP me))
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP (VBP charge)
+            (ADJP (JJ 30p)
+              (S
+                (VP (TO to)
+                  (VP (VB use)
+                    (NP (DT the) (NN toilet))))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP You))
+      (VP (VBP get)
+        (PRT (RP off))
+        (NP (DT a) (CD 6) (NN hour) (NN bus) (NN journey))
+        (, ,)
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (NP (DT the) (NN toilet))
+            (VP (VBD was))))))
+    (: ...)
+    (S
+      (VP (VB questoinable)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP You))
+      (VP (VBP 're)
+        (UCP
+          (ADVP (RB creaky))
+          (CC and)
+          (VP (VBG needing)
+            (S
+              (VP (TO to)
+                (VP
+                  (VP (VB stretch)
+                    (NP (PRP$ your) (NNS legs)))
+                  (CC and)
+                  (VP (VB get)
+                    (NP (PRP$ your) (JJ whole) (NN body) (NN feeling) (NN human))
+                    (ADVP (RB again))))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP you))
+      (VP (VBP have)
+        (S
+          (VP (TO to)
+            (VP (VB look)
+              (PRT (RP around))
+              (PP (IN in)
+                (NP
+                  (NP (PRP$ your) (NN purse))
+                  (PP (IN for)
+                    (NP (DT a) (JJ 20p)
+                      (CC and)
+                      (JJ 10p) (NN piece))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Let) (POS 's))
+    (ADVP (RB just))
+    (VP (VBP say)
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBD was) (RB n't)
+            (NP
+              (NP (DT the) (NN happiest))
+              (PP (IN of)
+                (NP (NNS bunnies))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN staff) (NN member))
+        (PP (IN on)
+          (NP (NN duty))))
+      (VP (VBD was)
+        (ADJP (JJ nice)
+          (CC and)
+          (JJ kind))
+        (PP (IN about)
+          (NP (PRP it)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ seems)
+        (S
+          (VP (TO to)
+            (VP (VB echo)
+              (SBAR
+                (WHNP (WP what))
+                (S
+                  (NP (PRP they))
+                  (VP (VBP do)
+                    (PP (IN in)
+                      (NP (NN train) (NNS stations)))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (S
+      (NP (PRP I))
+      (VP (VBP 've)
+        (VP (VBN got)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (ADJP (JJ honest))))))))
+    (: ;)
+    (S
+      (NP (DT a)
+        (ADJP (RB totally) (JJ a-ok))
+        (NN train) (NN station))
+      (PP (RB apart)
+        (PP (IN from)
+          (NP (DT that)))))
+    (. .)))
+
+

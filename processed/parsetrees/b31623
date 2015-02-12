@@ -1,0 +1,303 @@
+(ROOT
+  (FRAG
+    (ADJP (JJ OK))
+    (: ...)))
+
+(ROOT
+  (S
+    (NP (NNS Lets))
+    (VP (VB be)
+      (ADJP (JJ honest)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ typical) (NN Walgreen))
+        (VP (VBZ 's))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP they))
+      (VP (VBP advertise)
+        (SBAR
+          (S
+            (NP (PRP them))
+            (VP (VBZ selves)
+              (PP (IN as)
+                (NP (DT a) (NN health) (NN partner))))))))
+    (CC and)
+    (RB then)
+    (S
+      (NP (PRP they))
+      (VP
+        (VP (VBD put)
+          (NP (DT the) (NN medicine))
+          (PP (IN in)
+            (NP
+              (NP (DT the) (NN back))
+              (CC and)
+              (NP (DT the) (NN booze)))))
+        (CC and)
+        (VP (VBZ cigs)
+          (PRT (RP up))
+          (NP (NN front)))))
+    (. .)))
+
+(ROOT
+  (SQ (NNP Does)
+    (NP (DT that))
+    (VP (VB sound)
+      (PP (IN like)
+        (NP
+          (NP (DT the) (NN kind))
+          (PP (IN of)
+            (NP
+              (NP (NN health) (NN partner))
+              (SBAR
+                (S
+                  (NP (PRP you))
+                  (VP (VBP want)))))))))
+    (. ?)))
+
+(ROOT
+  (S (CC But)
+    (ADVP (RB aside)
+      (PP (IN from)
+        (NP
+          (NP (DT that) (JJ pet) (NN peeve))
+          (PP (IN of)
+            (NP (NN mine))))))
+    (NP (PRP they))
+    (ADVP (RB really))
+    (VP (VBP are)
+      (ADJP (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB always))
+    (VP (VBP get)
+      (NP (JJ EXCELLENT) (NN service))
+      (PP (IN from)
+        (NP (DT the) (NN pharmacy))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP check)
+        (CC and)
+        (VBP double)
+        (NP (NN check) (NN everything))))
+    (CC and)
+    (S
+      (NP (DT the) (NN wait) (NN time))
+      (VP (VBZ is)
+        (ADJP
+          (ADJP (JJR better))
+          (PP (IN than)
+            (NP (JJS most) (NNS places))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN rest))
+        (PP (IN of)
+          (NP (DT the) (NN store))))
+      (VP (VBZ is)
+        (UCP
+          (ADJP (JJ clean))
+          (CC and)
+          (VP
+            (ADVP (RB well))
+            (VBN maintained)))))
+    (CC and)
+    (S
+      (NP (DT the) (JJ Non-Pharma) (NNS employees))
+      (VP (VBP are)
+        (ADVP (RB also))
+        (ADJP (RB very) (JJ helpful))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (NNP Clean))
+    (, ,)
+    (NP
+      (NP (RB well) (CD lit))
+      (CC and)
+      (NP (DT a) (JJ good) (NN layout)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Also))
+    (VP (VB have)
+      (NP
+        (NP (JJ helpful) (NNS employees))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP you))
+            (VP (VBP have)
+              (NP
+                (NP (NN difficulty))
+                (VP (VBG finding)
+                  (NP (JJ specific) (NNS items)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP am)
+      (ADJP
+        (ADJP
+          (NP (DT a) (RB bit))
+          (JJ bummed))
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP
+                (NP (PRP$ my) (NN wife) (POS 's))
+                (NN insurance))
+              (PP (IN for)
+                (NP (NNP RX))))
+            (VP (VBZ is)
+              (ADVP (RB no) (RB longer))
+              (VP (VBN accepted)
+                (ADVP (RB there))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Now))
+    (, ,)
+    (NP (PRP I))
+    (VP (MD will)
+      (VP (VB need)
+        (S
+          (VP (TO to)
+            (VP (VB review)
+              (S
+                (NP (NNP CVS))
+                (VP (TO to)
+                  (VP (VB see)
+                    (SBAR
+                      (WHADVP (WRB how))
+                      (S
+                        (NP (PRP it))
+                        (VP (VBZ compares))))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP
+        (NP (PRP$ my) (NN go))
+        (PP (TO to)
+          (NP (NN pharmacy)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN service))
+      (VP (VBZ is)
+        (ADVP (RB always))
+        (ADJP (JJ great))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBP are)
+        (ADJP (RB really) (JJ friendly))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NN gripe))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NN sign))
+          (VP (VBZ says)
+            (SBAR (IN that)
+              (S
+                (NP (PRP it))
+                (VP (VBZ opens)
+                  (PP (IN at)
+                    (NP (CD 7am))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (JJ few) (NNS times))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBD had)
+              (S
+                (VP (TO to)
+                  (VP (VB stop)
+                    (PP (IN by)
+                      (PP (IN on)
+                        (NP (PRP$ my) (NN way))))
+                    (PP (IN into)
+                      (NP (NN work))))))))))
+      (, ,)
+      (NP (PRP they))
+      (VP (VBP do) (RB n't)
+        (VP (VB open)
+          (ADVP (RB exactly))
+          (PP (IN at)
+            (NP (CD 7))))))
+    (: ...)
+    (S
+      (NP (DT the) (NNS workers))
+      (ADVP (RB typically))
+      (VP
+        (VP (VB arrive)
+          (PP (IN at)
+            (NP (CD 7:05))))
+        (CC and)
+        (VP (VB open)
+          (PP (IN at)
+            (NP (CD 7:10))))))
+    (. .)))
+
+(ROOT
+  (S (IN So)
+    (NP (PRP$ my) (NN rating))
+    (VP (VBZ is)
+      (NP
+        (NP
+          (NP (CD 5) (NNS stars))
+          (PP (IN for)
+            (NP (DT the) (NN pharmacy))))
+        (CC and)
+        (NP
+          (NP (CD 1) (NN star))
+          (PP (IN for)
+            (NP (DT the) (NN store)))))
+      (, ,)
+      (S
+        (VP (VBG averaging)
+          (PRT (RP out))
+          (PP (TO to)
+            (NP (CD 3) (NNS stars))))))
+    (. .)))
+
+

@@ -1,0 +1,163 @@
+(ROOT
+  (S
+    (NP (NNP Great))
+    (VP (VBP place)
+      (PP (IN for)
+        (NP (DT a) (NN haircut))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Real) (NNS barbers))
+    (PP (IN for)
+      (NP (NNS men)
+        (CC and)
+        (NNS stylists)))
+    (PP (IN for)
+      (NP (DT the) (NNS women)))
+    (. .)))
+
+
+(ROOT
+  (FRAG
+    (NP (JJ Great) (NN place))
+    (: -)
+    (S
+      (NP (NNP Tracy))
+      (VP (VBZ is)
+        (NP (DT the) (JJS Best) (NN !!))))))
+
+
+(ROOT
+  (S
+    (S
+      (NP (JJS Best))
+      (VP (VBP haircut)
+        (PP (IN in)
+          (NP (NNP Glendale)))))
+    (: --)
+    (S
+      (NP (PRP I))
+      (VP (VBP have)
+        (VP (VBN been)
+          (PP (TO to)
+            (NP (JJ other) (NNS barbers)))
+          (ADVP (RB as) (RB well)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Johnny) (NNP B) (POS 's))
+      (VP (VBP know)
+        (SBAR
+          (WHADVP (WRB how))
+          (S
+            (VP (TO to)
+              (VP (VB give)
+                (NP (PRP you))
+                (NP
+                  (NP (DT a) (JJ good) (NN head/neck) (NN massage))
+                  (, ,)
+                  (NP (NN steam) (NNS shave))
+                  (CC and)
+                  (NP (NN taper)))))))))
+    (: -)
+    (S
+      (NP (DT these))
+      (VP (VBP are)
+        (ADVP (RB long))
+        (VP (VBN lost)
+          (NP
+            (NP (NN art) (NNS forms))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP
+                  (VP (VBP are)
+                    (ADJP
+                      (ADJP (JJ traditional)
+                        (PP (TO to)
+                          (NP (DT the) (NN art))))
+                      (CC but)
+                      (ADJP (JJ relaxing))))
+                  (CC and)
+                  (VP (VBZ helps)
+                    (NP (NN stress))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (ADVP (RB also))
+    (VP (VBZ shows)
+      (NP (PRP you))
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP
+            (VP (VBP have)
+              (NP (NN quality)))
+            (CC and)
+            (VP (VBP know)
+              (SBAR
+                (WHADVP (WRB how))
+                (S
+                  (VP (TO to)
+                    (VP (VB take)
+                      (NP (PRP$ their) (NN time)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's) (RB not)
+        (NP (DT a)
+          (ADJP (JJ farmed)
+            (PP (IN out)
+              (NP
+                (NP (NN process))
+                (, ,)
+                (SBAR
+                  (WHADVP (WRB where))
+                  (S
+                    (NP (PRP they))
+                    (`` ``)
+                    (VP (VBP churn)
+                      (CC and)
+                      (VBP burn))
+                    ('' ''))))))
+          (NNS customers))))
+    (: -)
+    (S
+      (NP (DT each))
+      (VP (VBP haircut)
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP have)
+              (VP (VBN gotten)
+                (SBAR
+                  (S
+                    (NP (EX there))
+                    (VP (VBZ is)
+                      (NP (DT a) (NN quality) (NN job)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VB Ask)
+        (PP (IN for)
+          (NP (NNP Mike)))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBZ is)
+      (NP
+        (NP (PRP$ my) (JJ favorite) (NN barber))
+        (PP (IN over)
+          (NP (RB there)))))
+    (. .)))
+
+

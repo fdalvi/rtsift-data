@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (NP (NNP Jimmy))
+    (VP (VBZ is)
+      (ADJP (JJ amazing)))
+    (. !)))
+
+(ROOT
+  (NP
+    (NP (JJ amazing) (NN artwork))
+    (PP (IN with)
+      (NP
+        (ADJP (RB very) (JJ reasonable))
+        (NNS prices)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VP (VBZ 's)
+        (ADJP (RB very) (JJ patient)))
+      (CC and)
+      (VP
+        (ADVP (RB never))
+        (VBZ rushes)
+        (NP (PRP you))
+        (PRT (RP out))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNS Appointments))
+      (VP (VBP are)
+        (ADJP (JJ necessary))))
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADVP (RB never))
+        (ADJP (JJ difficult)
+          (S
+            (VP (TO to)
+              (VP (VB get)
+                (NP
+                  (NP (DT a) (NN hold))
+                  (PP (IN of)
+                    (NP (PRP him))))))))))
+    (. .)))
+
+

@@ -1,0 +1,167 @@
+(ROOT
+  (S
+    (S
+      (S
+        (ADJP (RB Pretty) (JJ good)))
+      (, ,)
+      (NP (PRP I))
+      (ADVP (RB really))
+      (VP (VBD liked)
+        (NP
+          (NP (DT the) (NN chicken) (NN salad))
+          (, ,)
+          (NP (DT a) (NN lot)))
+        (PP (IN if)
+          (NP (NN flavor)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT the) (NN service))
+      (VP (VBZ is) (RB n't)
+        (ADJP (RB too) (JJ great))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP are) (RB n't)
+        (ADJP (RB that) (JJ friendly))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT the) (NN service))
+      (VP (VBZ is) (RB n't)
+        (ADJP (RB too) (JJ great))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBD saw)
+        (NP (DT this) (NN place)))
+      (CC and)
+      (VP (VBD decided)
+        (S
+          (VP (TO to)
+            (VP (VB stop)
+              (PP (IN by)
+                (NP (RB here)))
+              (PP (IN with)
+                (NP (PRP$ my) (NN luggage)))
+              (SBAR (IN before)
+                (S
+                  (NP (FW i))
+                  (VP (VBD flew)
+                    (PRT (RP out))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJS Best) (NN chicken) (NNS i))
+    (VP (VBD had)
+      (VP
+        (PP (IN in)
+          (NP (PRP$ my) (NN life)))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (FW i))
+            (VP (VBD was)
+              (PP (IN at)
+                (NP (DT the) (NN airport))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ last) (NN person))
+      (SBAR
+        (S
+          (NP (FW i))
+          (VP (VBD met)))))
+    (VP (VBD worked)
+      (SBAR
+        (S
+          (S
+            (ADVP (RB there))
+            (, ,)
+            (NP (PRP She))
+            (VP (VBZ 's)
+              (ADJP (JJ cool))))
+          (CC and)
+          (S
+            (NP (PRP we))
+            (ADVP (RB still))
+            (VP (VB keep)
+              (PP (IN in)
+                (NP (NN contact))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNS Thanks))
+    (PP (IN for)
+      (NP (DT the) (NNP Friend)
+        (CC and)
+        (NNP Awesome) (NN chicken) (NNS strips)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (VB Note))
+    (: -)
+    (S
+      (NP
+        (NP (DT The) (JJ Grandma) (NN sauce))
+        (SBAR (IN that)
+          (S
+            (NP (PRP I))
+            (VP (VBD did) (RB not)
+              (VP (VB want)
+                (ADVP (RB accidentally)))))))
+      (VP (VBD spilled)
+        (PP (IN on)
+          (NP (PRP$ my) (NN chicken)))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (VP (VBG going)
+              (PP (TO to)
+                (NP (DT the) (NN airport))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBD was)
+      (NP
+        (NP (DT the) (JJS best) (NN thing))
+        (SBAR
+          (S
+            (VP (TO to)
+              (VP (VB happen)
+                (PP (TO to)
+                  (NP (PRP them)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Heading)
+        (PRT (RP back))
+        (PP (TO to))))
+    (VP (VBZ vegas)
+      (ADVP (RB again) (RB just))
+      (PP (IN for)
+        (NP (DT the) (NNS strips))))
+    (. .)))
+
+(ROOT
+  (PRN (-LRB- -LRB-)
+    (NP (NN chicken) (NNS strips))
+    (-RRB- -RRB-)))
+
+

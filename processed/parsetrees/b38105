@@ -1,0 +1,203 @@
+(ROOT
+  (S
+    (S
+      (NP (CD 5) (NNP Star) (NNP Auto) (NN repair))
+      (VP (VBZ earns)
+        (NP (DT every) (NN bit))
+        (PP (IN of)
+          (NP (PRP$ their) (NN name)))
+        (: ...)
+        (NP
+          (NP (CD 5) (NNS stars))
+          (PP (TO to)
+            (NP (DT these) (NNS guys))))))
+    (: ...)
+    (S
+      (NP (PRP they))
+      (VP
+        (VP (VBP are)
+          (ADJP (JJ honest)
+            (CC and)
+            (JJ trustworthy)))
+        (CC and)
+        (VP (MD will)
+          (ADVP (RB always))
+          (VP (VB have)
+            (NP (PRP$ my) (NN business))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD fixed)
+      (NP (PRP$ my) (NN car))
+      (SBAR
+        (WHADVP (WRB when) (RB even))
+        (S
+          (NP (DT the) (NNP Chrysler) (NN dealership))
+          (VP (MD could) (RB n't)
+            (VP (VB figure)
+              (NP (PRP it))
+              (PRT (RP out)))))))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VB Thumbs)
+      (ADVP (NN way) (IN up)))
+    (. .)))
+
+(ROOT
+  (SQ (VBD Thanks)
+    (NP (PRP you))
+    (NP (NNS guys))
+    (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (VP (VB Honest)
+        (NP (NNS mechanics))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP have)
+      (NP (DT the) (NN equipment)
+        (S
+          (VP (TO to)
+            (VP
+              (ADVP (RB properly))
+              (VB test)
+              (NP
+                (NP (NNS emmisions))
+                (PP (IN for)
+                  (NP (JJR older) (NNS vehicles)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Helped))
+    (VP (VBP troubleshoot)
+      (NP
+        (NP (DT the) (NNS issues))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD were)
+              (VP (VBG keeping)
+                (NP (PRP me))
+                (PP (IN from)
+                  (S
+                    (VP (VBG passing)
+                      (NP (PRP$ my) (VBG smog) (NN test)))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD brought)
+      (NP (PRP$ my) (CD 1969) (NNP Olds) (NNS Cutlass))
+      (ADVP (RB here))
+      (S
+        (VP (TO to)
+          (VP (VB get)
+            (ADVP
+              (NP (DT a) (NN tune))
+              (RB up))
+            (SBAR (IN after)
+              (S
+                (NP (PRP I))
+                (VP (VBD bought)
+                  (NP (PRP it))
+                  (PP (IN off)
+                    (NP
+                      (NP (PRP$ my) (NN grandfather))
+                      (, ,)
+                      (SBAR
+                        (WHNP (WP who))
+                        (S
+                          (VP (VBD had)
+                            (NP (PRP it))
+                            (PP (IN for)
+                              (NP
+                                (NP (CD 20) (NNS years))
+                                (, ,)
+                                (NP (JJ 47k) (JJ original) (NNS miles))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (VP (VBG dieseling)
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP I))
+            (VP (VBD turned)
+              (NP (PRP it))
+              (ADVP
+                (ADVP (RB off))
+                (CC and)
+                (NP (DT a) (RB little)))
+              (ADVP (IN off) (DT all))
+              (ADVP (RB around)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP I))
+        (VP (VBD got)
+          (NP (PRP$ my) (NN baby))
+          (ADVP (RB back)))))
+    (, ,)
+    (NP (PRP she))
+    (VP (VBD ran)
+      (PP (IN like)
+        (NP (DT a) (NN brand) (JJ new) (NN car))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJS best) (NN part))
+      (PP (IN of)
+        (NP (DT the) (JJ whole) (NN experience))))
+    (VP (VBD was)
+      (ADVP (RB really))
+      (VP (VBG feeling)
+        (PP (IN like)
+          (NP
+            (NP (DT the) (NNS people))
+            (SBAR
+              (S
+                (NP (PRP I))
+                (VP (VBD interacted)
+                  (PP (IN with)
+                    (NP
+                      (NP
+                        (QP (NN cared) (IN as) (JJ much)))
+                      (PP (IN about)
+                        (NP (PRP$ my) (NN car)))))
+                  (ADVP (RB as) (RB much))
+                  (SBAR (IN as)
+                    (S
+                      (NP (PRP I))
+                      (VP (VBD did)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (DT All)
+      (PP (IN in)
+        (NP (DT all))))
+    (NP (PRP it))
+    (VP (VBD was)
+      (NP (DT a) (JJ great) (NN experience)))
+    (. .)))
+
+

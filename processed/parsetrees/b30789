@@ -1,0 +1,205 @@
+(ROOT
+  (S
+    (PP (IN During)
+      (NP (DT the) (NN winter)))
+    (, ,)
+    (NP (NNP Tenney) (NNP Park))
+    (VP (VBZ has)
+      (NP
+        (NP (DT the) (JJS best) (NN ice))
+        (VP (VBG skating)
+          (PP (IN in)
+            (NP (DT the) (NN city))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Huge))
+    (VP
+      (VP (VBD pond))
+      (CC and)
+      (VP
+        (ADVP (RB generally))
+        (ADVP (RB well))
+        (VBD kept)
+        (NP (NN ice))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Skate) (NN rental))
+    (VP (VBZ is)
+      (NP
+        (NP ($ $) (CD 6))
+        (PP (IN for)
+          (NP (DT an) (NN hour)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Very))
+    (VP (VB cool))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN During)
+      (NP (DT the) (NN summer)))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (ADJP
+        (ADJP
+          (NP (DT a) (RB bit))
+          (JJ run-down))
+        (CC and)
+        (ADJP (VBN outdated))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (JJ cool) (JJ running) (NN path))
+      (CC and)
+      (NP (DT some) (NN basketball/soccer) (NNS courts)))
+    (VP (VBP are)
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN middle))
+          (PP (IN of)
+            (NP (DT a) (JJ moat-like) (NN pond))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB However))
+    (, ,)
+    (NP
+      (NP (NNS thanks))
+      (PP (TO to)
+        (NP (DT the) (NN pond))))
+    (, ,)
+    (NP (EX there))
+    (VP (VBP are)
+      (NP
+        (NP (NNS lots))
+        (PP (IN of)
+          (NP (NNS mosquitoes)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN beach))
+      (, ,)
+      (NP (NN pier))
+      (, ,)
+      (CC and)
+      (NP (NNS locks)))
+    (VP (VBP are)
+      (ADJP (JJ awesome)
+        (S
+          (VP (TO to)
+            (VP (VB check)
+              (PRT (RP out)))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (NNS Lots))
+      (PP (IN of)
+        (NP (NN fisherman))))
+    (, ,)
+    (PP (CC but)
+      (NP
+        (NP (RB generally) (JJ quiet))
+        (CC and)
+        (NP
+          (NP (DT a) (JJ neat) (NN view))
+          (PP (IN of)
+            (NP (DT the) (NN city))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP
+        (VP (VBD came)
+          (ADVP (RB here))
+          (S
+            (VP (TO to)
+              (VP (VB put)
+                (PP (IN in)
+                  (NP
+                    (NP (PRP$ my) (NN kayak))
+                    (PP (IN on)
+                      (NP (NNP Lake) (NNP Mendota)))))))))
+        (CC and)
+        (VP (VBP do)
+          (ADVP
+            (NP (DT some) (NN fishing))
+            (RB so)))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD did) (RB n't)
+      (ADVP (RB actually))
+      (VP (VB get)
+        (S
+          (VP (TO to)
+            (VP (VB spend)
+              (NP (JJ much) (NN time))
+              (PP (IN in)
+                (NP (DT the) (NN park)))
+              (, ,)
+              (ADVP (FW per) (FW se)))))))
+    (. .)))
+
+(ROOT
+  (PRN
+    (ADVP (RB However))
+    (, ,)
+    (SBAR
+      (WHPP (IN from)
+        (WHNP (WP what)))
+      (S
+        (S
+          (NP (PRP I))
+          (VP (VBP have)
+            (VP (VBN seen))))
+        (, ,)
+        (CC and)
+        (S
+          (S
+            (VP (VBG driving)
+              (PP (IN by)
+                (NP
+                  (NP (DT the) (VBG skating) (NNS rinks))
+                  (PP (IN in)
+                    (NP (NN winter)))))))
+          (, ,)
+          (NP (NNP Tenney) (NNP Park))
+          (VP (VBZ is)
+            (NP
+              (NP (RB quite) (DT a) (JJ nice) (NN park))
+              (, ,)
+              (VP (VBN located)
+                (ADVP (RB so) (RB close))
+                (PP (TO to)
+                  (NP (JJ downtown) (NNP Madison)))))))
+        (: ...)
+        (SBAR (IN if) (RB only)
+          (S
+            (NP (PRP we))
+            (VP (MD could)
+              (VP (VB do)
+                (NP (NN something))
+                (PP (IN about)
+                  (NP
+                    (NP (DT the) (NN water) (NN quality))
+                    (PP (IN in)
+                      (NP (DT the) (NNS lakes) (NN :-LRB-)))))))))))))
+
+

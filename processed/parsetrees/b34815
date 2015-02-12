@@ -1,0 +1,103 @@
+(ROOT
+  (S
+    (NP (NNP Great))
+    (VP (VB clean)
+      (NP (NN gas) (NN station)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Perfect))
+    (PP (IN for)
+      (S
+        (VP (VBG stopping)
+          (PP (IN on)
+            (NP
+              (NP (DT the) (NN way))
+              (PP (IN between)
+                (NP (NNP Tucson)
+                  (CC and)
+                  (NNP Phoenix))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD had)
+      (VP (VBN Dt)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Dr.) (NNP Pepper))
+    (PP (IN in)
+      (NP
+        (NP (DT the) (NN soda) (NN fountain))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (NP (PRP I))
+            (ADVP (RB thoroughly))
+            (VP (VBD enjoyed))))))
+    (. .)))
+
+
+(ROOT
+  (FRAG (RB Not)
+    (ADJP (JJ bad))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP (PRP$ my) (NN stop))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP I))
+          (VP (VBP 'm)
+            (VP (VBG rocking)
+              (NP (DT the) (CD 10))
+              (ADVP (RB east)
+                (CC or)
+                (RB west))))))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (VP (VBG traveling)
+            (PP (TO to)
+              (NP (NNP Tucson)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Nice) (JJ clean) (NNS restrooms))
+      (CC and)
+      (NP (PRP they)))
+    (VP (VBP have)
+      (NP
+        (NP (DT a) (NN ton))
+        (PP (IN of)
+          (NP (NN drink)
+            (CC and)
+            (NN munchie) (NNS options)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ 's)
+      (NP
+        (NP (RB plenty))
+        (PP (IN of)
+          (NP
+            (NP (NNS places))
+            (PP (TO to)
+              (NP (NN gas))))))
+      (ADVP (RB up) (RB as) (RB well)))
+    (. .)))
+
+

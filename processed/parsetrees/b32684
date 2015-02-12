@@ -1,0 +1,120 @@
+(ROOT
+  (S
+    (VP (VB Make)
+      (ADJP (JJ sure))
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP (VBP are)
+            (VP (VBG Open)
+              (ADVP (RB first)))))))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VBN Stopped)
+      (PP (IN by)
+        (NP
+          (NP
+            (NP (DT the) (NN day))
+            (PP (IN before)
+              (NP (NNP Thanksgiving))))
+          (, ,)
+          (NP
+            (NP (DT the) (NN day))
+            (PP (IN after)))
+          (, ,)
+          (CC and)
+          (NP
+            (NP (DT the) (NN day))
+            (PP (IN after)
+              (NP (DT that)))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (VP (VBD Had)
+      (S
+        (VP (TO to)
+          (VP (VB buy)))))
+    (NP
+      (NP (DT the) (NNP Chicken) (NNP Parm) (NN sandwich))
+      (PP (IN as)
+        (NP (PRP$ my) (JJ third) (NN choice))))
+    (, ,)
+    (PP (IN since)
+      (NP
+        (NP (PRP$ my) (JJ first) (CD two) (NNS options))
+        (SBAR
+          (S
+            (NP (PRP they))
+            (VP (VBD were)
+              (ADVP (RB out))
+              (PP (IN of))))))
+      (. !))))
+
+(ROOT
+  (S
+    (S
+      (ADJP
+        (ADJP (RB Not) (JJ sure))
+        (SBAR
+          (WHNP
+            (WHNP (WRB how) (RB long))
+            (PP (IN in)
+              (NP (DT this) (NN world))))
+          (S
+            (NP (DT this) (NN place))
+            (VP (MD will)
+              (VP (VB be)
+                (ADVP (RB here))))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP wish)
+      (NP (PRP them))
+      (NP (DT the) (RBS best)))))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP have)
+        (ADVP (RB literally) (RB never))
+        (VP (VBN seen)
+          (S
+            (NP (DT this) (NN place))
+            (ADJP (JJ open))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP live)
+        (ADVP
+          (NP (CD two) (NNS blocks))
+          (RB away))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VB Avoid)
+      (FRAG
+        (SBAR (IN if)
+          (FRAG
+            (ADJP
+              (ADVP (IN at) (DT all))
+              (JJ possible))))))
+    (. .)))
+
+(ROOT
+  (FRAG (RB Not)
+    (PP (IN worth)
+      (NP
+        (NP (PRP$ your) (NN time))
+        (, ,)
+        (NP ($ $) (CD ,))
+        (CC or)
+        (NP (JJ caloric) (NN intake))))
+    (. .)))
+
+

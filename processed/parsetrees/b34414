@@ -1,0 +1,91 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB just))
+    (ADVP (RB recently))
+    (VP (VBD hired)
+      (NP
+        (NP (NNP Modern) (NNP Receptionist))
+        (PP (IN for)
+          (NP (PRP$ my) (JJ small) (NN business))))
+      (SBAR (IN as)
+        (S
+          (NP (PRP I))
+          (VP (VBP am)
+            (PRT (RP out))
+            (PP (IN on)
+              (NP
+                (NP (DT the) (NN road))
+                (NP (DT a) (NN lot))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP do)
+      (NP
+        (NP (DT an) (JJ amazing) (NN job))
+        (CC and)
+        (NP (PRP$ its)))
+      (PP (IN like)
+        (S
+          (VP (VBG having)
+            (NP (PRP$ your) (JJ own) (NN secretary))
+            (PP (IN in)
+              (NP (PRP$ your) (NN office)))))))
+    (. !)))
+
+
+(ROOT
+  (NP
+    (NP (JJ precise) (NN service))
+    (PP (IN in)
+      (NP (JJ timely) (NN fashion)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT Every) (NN man))
+    (VP (VBZ needs)
+      (NP
+        (QP (IN at) (JJS least) (CD one))
+        (NN receptionist)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (INTJ (UH Wow))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP love)
+      (NP (DT this) (NN service)))
+    (. !)))
+
+(ROOT
+  (INTJ (UH Genius) (. !)))
+
+(ROOT
+  (NP
+    (NP (NNP Perfect))
+    (PP (IN for)
+      (NP
+        (NP (JJ small) (NN business) (NNS owners))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBP need)
+              (NP (DT an) (NN answering) (NN service)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Modern) (NNP Receptionist))
+    (VP (VBZ is)
+      (NP (DT the) (NN way)
+        (S
+          (VP (TO to)
+            (VP (VB go))))))
+    (. .)))
+
+

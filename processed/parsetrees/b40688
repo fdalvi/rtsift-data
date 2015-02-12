@@ -1,0 +1,197 @@
+(ROOT
+  (S
+    (VP (VB Excellent)
+      (NP (NN pizza))
+      (ADVP (RB especially))
+      (PP (IN for)
+        (NP (DT the) (NN price))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ garlic) (NN crust))
+    (VP (VBZ is)
+      (ADJP (RB very) (JJ tasty)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Huge))
+    (VP (VBZ slices))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP
+      (NP (JJ Great) (NN pizza))
+      (, ,)
+      (ADVP (RB definitely)))
+    (ADJP (JJR better)
+      (PP (IN than)
+        (NP
+          (NP (NNS dominos))
+          (CC or)
+          (NP (NNP Pizza) (NNP Hut)))))
+    (. .)))
+
+(ROOT
+  (S (CC Plus)
+    (NP (PRP you))
+    (VP (MD can)
+      (VP (VB get)
+        (NP (DT a) (JJ pepperoni) (NN pizza))
+        (PP (IN with)
+          (NP
+            (NP (JJ flavored) (NN crust))
+            (PP (IN for)
+              (NP
+                (QP (RB only) (CD 5))
+                (NNS bucks)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Soo))
+    (ADJP (JJ cheap))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (PRP$ my) (JJ favorite) (JJ flavored) (NN crust))
+          (VP (VBZ is)
+            (ADVP (RB prolly))
+            (NP
+              (NP (DT the) (NN ranch))
+              (CC and)
+              (NP (DT the) (NNP Cajun)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN ranch))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN flavor))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP think)
+              (SBAR
+                (S
+                  (NP (PRP you))
+                  (VP (MD can)
+                    (VP (VB taste)
+                      (NP (DT the) (JJS most) (DT the) (NNS Cajun))
+                      (UCP (RB not)
+                        (ADVP (RB so) (RB much))
+                        (, ,)
+                        (CC but)
+                        (ADJP (RB still) (RB pretty) (JJ good))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN chicken) (NNS wings))
+    (VP (VBP are)
+      (ADVP (RB also))
+      (ADJP (RB really) (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Usually))
+    (VP (VB get)
+      (NP (DT the) (JJ mild) (NN bone))
+      (PP (IN in)
+        (NP (NN flavor))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP
+        (NP (DT an) (JJ optional)
+          (ADJP (JJ bone-in)
+            (CC or)
+            (JJ boneless))
+          (NNS wings))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ is)
+              (ADJP (JJ nice)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP
+        (ADJP ($ $) (CD 5))
+        (DT a) (NN pizza)))
+    (, ,)
+    (NP (DT this))
+    (VP (VBZ is)
+      (NP (JJ good) (NN stuff)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP
+      (QP (CD Got) (CD two))
+      (JJ single) (NN topping) (NNS pizzas))
+    (: -)
+    (NP
+      (NP (CD one) (NNS pepperoni))
+      (CC and)
+      (NP (CD one) (JJ Italian) (NN sausage)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN bit) (NN greasy))
+      (PP (CC but)
+        (NP (DT that))))
+    (VP (VBZ 's)
+      (ADJP (JJ usual)
+        (PP (IN with)
+          (NP (NN pizza)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Service))
+      (VP (VBD was)
+        (ADJP (JJ great))))
+    (: ;)
+    (S
+      (NP (NN cashier))
+      (VP (VBD was)
+        (ADJP (RB very) (JJ friendly))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP (JJ Ready))
+    (S
+      (VP (TO to)
+        (VP (VB go)
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (PRP I))
+              (VP (VBD picked)
+                (NP (PRP it))
+                (PRT (RP up))))))))
+    (. .)))
+
+

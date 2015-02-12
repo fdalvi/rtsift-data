@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP (DT a) (NN gas) (NN station)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP (JJ clean)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP (NN gas)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Decent) (NN selection))
+    (PP (IN of)
+      (NP (NNS drinks)))
+    (PP (IN in)
+      (NP (DT the) (NNS coolers)))
+    (. .)))
+
+

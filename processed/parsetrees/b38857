@@ -1,0 +1,115 @@
+(ROOT
+  (S
+    (NP (NNP Great))
+    (VP (VBP store) (, ,)
+      (S
+        (ADJP
+          (ADJP (RB very) (JJ bright))
+          (CC and)
+          (ADJP (RB well) (VBN organized)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS products))
+      (VP (VBP are)
+        (ADJP (RB just) (JJ amazing))))
+    (CC and)
+    (S
+      (NP (DT the) (NN staff))
+      (VP (VBZ is)
+        (ADJP (RB very) (JJ knowledgeable)
+          (CC and)
+          (JJ helpful))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NN Love))
+        (SBAR
+          (S
+            (NP (DT the) (NN cooking))
+            (VP (VBZ demos)
+              (SBAR
+                (S
+                  (NP (PRP they))
+                  (VP (VBP do))))))))
+      (CC and)
+      (NP
+        (NP (DT the) (NN fact))
+        (SBAR (IN that)
+          (S
+            (NP (PRP I))
+            (VP (VBP 'm)
+              (ADVP (RB always))
+              (VP (VBN greeted)
+                (PP (IN with)
+                  (NP (DT a) (JJ warm)))))))))
+    (VP (VBP welcome))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VB Went)
+      (PP (TO to)
+        (NP (DT this) (NN store)))
+      (SBAR (IN after)
+        (S
+          (NP (DT the) (NNP Anthem) (NN store))
+          (VP (VBD closed)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB always))
+    (VP (VBP look)
+      (PP (IN at)
+        (NP (DT the) (NN clearance) (NNS items)))
+      (S
+        (VP (TO to)
+          (VP (VB see)
+            (SBAR (IN if)
+              (S
+                (NP (PRP they))
+                (VP (VBP have)
+                  (NP
+                    (NP (NN anything))
+                    (SBAR
+                      (S
+                        (NP (PRP I))
+                        (VP (VBP need))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB always))
+    (VP (VBP seem)
+      (S
+        (VP (TO to)
+          (VP (VB find)
+            (NP
+              (NP (NN something))
+              (ADJP (JJ new)
+                (CC and)
+                (JJ interesting)))
+            (S
+              (VP (TO to)
+                (VP (VB use))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NN Love))
+    (NP
+      (NP (DT the) (NN quality))
+      (PP (IN of)
+        (NP (PDT all) (DT the) (NNS products))))
+    (. .)))
+
+

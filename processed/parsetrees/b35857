@@ -1,0 +1,835 @@
+(ROOT
+  (S
+    (NP (PRP$ My) (NN car))
+    (VP (VBD had)
+      (NP
+        (NP (NN trouble))
+        (PP (VBG starting)
+          (NP (NN yesterday) (NN morning)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD knew)
+      (SBAR
+        (S
+          (NP (PRP$ my) (NN battery))
+          (VP (MD must)
+            (VP (VB be)
+              (VP (VBG going)
+                (ADJP (JJ bad))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBD dropped)
+        (NP (PRP$ my) (NNS kids))
+        (PRT (RP off))
+        (PP (TO to)
+          (NP (NN school))))
+      (CC and)
+      (VP (VBD went)
+        (PP (TO to)
+          (NP (NNP O'Reilly) (POS 's)))
+        (S
+          (VP (TO to)
+            (VP (VB have)
+              (S
+                (NP (PRP them))
+                (VP (VB check)
+                  (NP (PRP$ my) (NN battery)))))))))
+    (. .)))
+
+(ROOT
+  (S (-LRB- -LRB-)
+    (PP (IN Since))
+    (S
+      (NP (PRP it))
+      (VP (MD should)
+        (ADVP (RB still))
+        (VP (VB be)
+          (ADVP (IN under))
+          (NP (NN warranty))
+          (-RRB- -RRB-))))
+    (IN For)
+    (S
+      (ADVP (RB 8AM))
+      (NP (PRP they))
+      (VP (VBD were)
+        (ADJP (JJ busy))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD waited)))
+    (CC and)
+    (S
+      (ADVP (RB finally))
+      (NP (DT an) (JJR older) (NN man))
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP he))
+            (VP (MD would)
+              (VP (VB test)
+                (NP (PRP$ my) (NN battery))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD asked)
+      (S
+        (NP (PRP me))
+        (VP (TO to)
+          (VP (VB start)
+            (NP (PRP$ my) (NN car))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD started)
+      (PRT (RP up))
+      (S
+        (ADJP (JJ fine))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBZ tells)
+      (NP (PRP me))
+      (SBAR (IN that)
+        (S
+          (NP (EX there))
+          (VP (VBZ is)
+            (ADJP (NN nothing) (JJ wrong)
+              (PP (IN with)
+                (NP (PRP$ my) (NN battery))))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (VP (MD will)
+      (VP (VB check)
+        (NP (PRP it))
+        (ADVP (RB anyway))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP turn)
+        (NP (PRP$ my) (NN car))
+        (PRT (RP off))))
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP (VBZ hooks)
+        (PRT (RP up))
+        (NP (PRP$ his) (JJ little) (NN device))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBZ tells)
+      (NP (PRP me))
+      (SBAR
+        (SBAR (IN that)
+          (S
+            (NP (PRP$ my) (NN battery))
+            (VP (VBZ is)
+              (ADJP
+                (NP (CD 30) (NN %))
+                (JJ low)))))
+        (CC and)
+        (SBAR (IN that)
+          (S
+            (NP (PRP I))
+            (VP (VBP need)
+              (S
+                (VP (TO to)
+                  (VP (VB charge)
+                    (NP (PRP$ my) (NN battery))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD said)
+      (SBAR (IN that)
+        (S
+          (NP (PRP$ my) (NN battery))
+          (VP (VBZ has)
+            (NP
+              (NP (DT a) (NN lot))
+              (PP (IN of)
+                (NP
+                  (NP (NN life))
+                  (PP (IN in)
+                    (NP (PRP it))))))
+            (ADVP (RB still))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP He))
+      (VP (VBD told)
+        (S
+          (NP (PRP me))
+          (VP (TO to)
+            (VP (VB come)
+              (PRT (RP back))
+              (NP (DT this) (NN afternoon)))))))
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP (MD will)
+        (VP (VB charge)
+          (NP (PRP it))
+          (PP (IN for)
+            (NP (PRP me))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (ADVP (RB then))
+    (VP (VBD told)
+      (NP (PRP me))
+      (SBAR (IN that)
+        (S
+          (S
+            (NP (PRP$ my) (NN alternator))
+            (VP (VBD was)
+              (ADJP (JJ bad))))
+          (CC and)
+          (S
+            (NP (PRP it))
+            (VP (VBD was) (RB n't)
+              (NP (DT the) (NN battery)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (ADVP (RB only))
+    (VP (VBD checked)
+      (S
+        (VP (TO to)
+          (VP (VB see)
+            (SBAR (IN if)
+              (S
+                (NP (PRP$ my) (NN battery))
+                (VP (VBD was)
+                  (ADJP (JJ bad)
+                    (SBAR
+                      (S
+                        (NP (NN nothing))
+                        (VP (VBD was)
+                          (VP (VBN checked)
+                            (PP (IN about)
+                              (NP (DT the) (NN alternator)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP leave)
+      (CC and)
+      (VBP run)
+      (NP (DT some) (NNS errands)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP
+        (VP (VBD stopped)
+          (S
+            (VP (TO to)
+              (VP (VB get)
+                (NP (NN gas))))))
+        (CC and)
+        (VP (VBD went)
+          (S
+            (VP (TO to)
+              (VP (VB start)
+                (NP (PRP$ my) (NN car))
+                (PRT (RP up))))))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (MD would) (RB n't)
+        (VP (VB turn)
+          (PRT (RP over)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP AAA))
+    (VP
+      (VP (VBD came)
+        (PRT (RP out)))
+      (CC and)
+      (VP
+        (PP (IN with)
+          (NP (DT the) (JJ same) (JJ little) (NN device)))
+        (VBD told)
+        (NP (PRP me)))
+      (SBAR (IN that)
+        (S
+          (NP (PRP$ my) (NN battery))
+          (VP (VBZ has)
+            (NP (DT a) (JJ bad) (NN cell))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBN Printed)
+        (PRT (RP off))
+        (NP
+          (NP (DT the) (NN report))
+          (SBAR (IN so)
+            (S
+              (NP (PRP I))
+              (VP (MD can)
+                (VP (VB prove)
+                  (PP (TO to)
+                    (NP (NNP O'Reilly))))))))))
+    (VP (VBZ 's)
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (VBZ is)
+            (NP (DT the) (NN battery))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP AAA))
+      (VP (VBD jumped)
+        (NP (PRP$ my) (NN car))))
+    (CC and)
+    (S
+      (ADVP (RB off))
+      (NP (PRP I))
+      (VP (VBD went)
+        (PP (TO to)
+          (NP
+            (NP (DT another) (NNP O'Reilly) (POS 's))
+            (SBAR
+              (S
+                (NP (PRP they))
+                (VP (VBD checked)
+                  (NP
+                    (NP (PRP$ my) (NN battery))
+                    (CC and)
+                    (NP (NNP Alternator))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP He))
+      (VP (VBD told)
+        (NP (PRP me))
+        (SBAR (IN that)
+          (S
+            (NP (PRP$ my) (NN Alternator))
+            (VP (VBD was)
+              (ADJP (JJ good)))))))
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBD had)
+        (NP (DT a) (JJ bad) (NN cell))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD explained)
+        (PP (TO to)
+          (NP (PRP him)))
+        (SBAR (IN that)
+          (S
+            (NP (PRP I))
+            (VP (VBD went)
+              (PP (TO to)
+                (NP (DT the) (JJ 59th) (NNP Ave) (NN store))))))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBD told)
+        (NP (PRP me))
+        (SBAR (IN that)
+          (S
+            (NP (NN nothing))
+            (VP (VBZ is)
+              (ADJP (JJ wrong)
+                (PP (IN with)
+                  (NP (DT the) (NN battery)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Gary))
+      (PP (IN at)
+        (NP (DT the) (NNP Lake) (NNP Pleasant) (NN store))))
+    (VP (VBD told)
+      (NP (PRP me))
+      (SBAR (IN that)
+        (S
+          (NP (PRP I))
+          (VP (MD should)
+            (VP
+              (VP (VB call)
+                (NP (DT the) (NN store)))
+              (CC and)
+              (VP (VB let)
+                (S
+                  (NP (PRP them))
+                  (VP (VB know)
+                    (SBAR (IN that)
+                      (S
+                        (NP (PRP$ their) (NN machine))
+                        (VP (MD might)
+                          (VP (VB be)
+                            (VP (VBN broken)
+                              (SBAR (IN since)
+                                (S
+                                  (NP (PRP I))
+                                  (VP (VBD did)
+                                    (VP (VB have)
+                                      (NP (DT a) (JJ bad) (NN battery)))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Called))
+    (VP (VBD asked)
+      (S
+        (VP (TO to)
+          (VP (VB speak)
+            (PP (TO to)
+              (NP (DT a) (NN manager)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VB Spoke)
+        (PP (IN with)
+          (NP (NNP Jess)))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (NP (PRP I))
+            (VP (VBD told)
+              (NP (PRP him))
+              (ADVP
+                (ADVP (RB first) (RB off))
+                (SBAR (IN that)
+                  (S
+                    (NP (PRP I))
+                    (VP (VBD was) (RB n't)
+                      (VP (VBG calling)
+                        (S
+                          (VP (TO to)
+                            (VP (VB complain)
+                              (ADVP (CC but)))))))))))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD wanted)
+      (S
+        (NP (PRP them))
+        (VP (TO to)
+          (VP (VB be)
+            (ADJP (JJ aware))
+            (SBAR (IN that)
+              (S
+                (NP (PRP$ their) (NN battery) (NN test) (NN machine))
+                (VP (MD might)
+                  (VP (VB be)
+                    (VP (VBN broken))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB also))
+    (VP (VBD told)
+      (NP (PRP him))
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (JJR older) (NN man))
+          (VP (VBD told)
+            (NP (PRP me))
+            (SBAR (IN that)
+              (S
+                (NP (PRP$ my) (NN alternator))
+                (VP (VBD was)
+                  (ADJP (JJ bad)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (ADVP (RB also))
+      (VP (VB check)
+        (PP (IN with)
+          (NP (PRP$ my) (NN mechanic)))))
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP (VBD told)
+        (NP (PRP me))
+        (SBAR (IN that)
+          (S
+            (NP (PRP I))
+            (VP (MD would)
+              (VP (VB know)
+                (SBAR (IN if)
+                  (S
+                    (NP (PRP it))
+                    (VP (VBD was)
+                      (NP (PRP$ my) (NN Alternator)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBN Told)
+        (S
+          (NP (PRP him))
+          (NP (DT the) (NN story)))))
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP (VBD proceeded)
+        (S
+          (VP (TO to)
+            (VP (VB tell)
+              (NP (PRP me))
+              (SBAR (IN that)
+                (S
+                  (S
+                    (NP (PRP he))
+                    (VP (VBD was)
+                      (NP
+                        (NP (DT a) (JJ certified) (NN mechanic))
+                        (CC and)
+                        (NP (PRP me)))))
+                  (CC and)
+                  (S
+                    (NP (PRP$ my) (NNP Mechanic))
+                    (VP (VBD did) (RB n't)
+                      (VP (VB know)
+                        (SBAR
+                          (WHNP (WP what))
+                          (S
+                            (NP (PRP we))
+                            (VP (VBD were)
+                              (VP (VBG talking) (IN about)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD got)
+      (ADJP (RB really) (JJ defensive)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD told)
+      (NP (PRP him))
+      (SBAR (IN that)
+        (S
+          (NP (PRP I))
+          (VP (VBD was)
+            (NP (RB just) (NN call)
+              (S
+                (VP (TO to)
+                  (VP (VB have)
+                    (S
+                      (NP (PRP them))
+                      (VP (VB check)
+                        (S
+                          (NP (PRP$ their) (NN machine))
+                          (RB not)
+                          (VP (TO to)
+                            (VP (VB start)
+                              (NP (NN anything)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (ADVP (RB then))
+    (VP (VBD was)
+      (ADJP (RB completely) (JJ rude)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD told)
+      (NP (PRP him))
+      (SBAR (IN that)
+        (S
+          (NP (PRP I))
+          (VP (MD will)
+            (VP (VB go)
+              (PP (TO to)
+                (NP
+                  (NP (DT a) (JJ different) (NN store))
+                  (PP (RB instead) (IN of)
+                    (NP (DT the) (JJ 59th) (NNP Ave.) (NN store))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (ADVP (RB then))
+    (VP (VBD hung)
+      (PRT (RP up))
+      (PP (IN on)
+        (NP (PRP me))))
+    (: ...) (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD had)
+      (ADVP (RB always))
+      (VP (VBN bought)
+        (NP
+          (NP (PRP$ my) (NNS batteries))
+          (CC and)
+          (NP (JJ other) (NN car) (NNS needs)))
+        (PP (IN at)
+          (NP (PRP$ their) (NN store)))))
+    (. .)))
+
+(ROOT
+  (FRAG (RB Not)
+    (ADJP (JJ anymore))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Rick)
+      (CC and)
+      (NNP Ed))
+    (VP (VBD were)
+      (NP (JJ fabulous) (NN tonight)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NN battery))
+    (VP (VBD went)
+      (ADJP (JJ dead)
+        (PP (IN on)
+          (NP (PRP$ my) (NN car))))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN middle))
+          (PP (IN of)
+            (NP (DT a) (JJ nasty) (NN storm))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD went)
+      (PP (TO to)
+        (NP
+          (NP (NNP O) (NNP Reilly) (POS 's))
+          (NN right)))
+      (ADVP (RB away))
+      (S
+        (VP (TO to)
+          (VP (VB get)
+            (NP
+              (NP (PRP$ my) (NN battery))
+              (VP (VBN replaced)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (DT both)
+    (VP (VBD worked)
+      (ADVP (RB diligently))
+      (PP (IN on)
+        (NP (PRP$ my) (NN vehicle)))
+      (, ,)
+      (SBAR (RB even) (IN though)
+        (S
+          (NP
+            (NP (PRP$ my) (NN cable)
+              (CC and)
+              (NN connector))
+            (PP (TO to)
+              (NP (PRP$ my) (NN battery))))
+          (VP (VBD were)
+            (ADJP (RB completely) (JJ corroded))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD were)
+      (ADJP (JJ able)
+        (S
+          (VP (TO to)
+            (VP (VB get)
+              (NP (PRP$ my) (NN car) (NN running))))))
+      (, ,)
+      (SBAR (RB so) (IN that)
+        (S
+          (NP (PRP I))
+          (VP (MD could)
+            (VP (VB drive)
+              (NP (PRP it))
+              (ADVP (RB again)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VP (VBD answered)
+        (NP
+          (NP (DT all))
+          (PP (IN of)
+            (NP (PRP$ my) (NNS questions)))))
+      (CC and)
+      (VP (VBN educated)
+        (NP (PRP me))
+        (PP (IN on)
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (VP (VBD needed)
+                (S
+                  (VP (TO to)
+                    (VP (VB be)
+                      (VP (VBN done)
+                        (PP (IN in)
+                          (NP (DT the) (JJ near) (NN future)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP am)
+      (ADJP (JJ grateful)
+        (PP (IN for)
+          (NP
+            (NP
+              (NP (DT both))
+              (PP (IN of)
+                (NP (PRP them))))
+            (CC and)
+            (NP
+              (NP (DT the) (JJ great) (NN customer) (NN service))
+              (SBAR
+                (S
+                  (NP (PRP I))
+                  (VP (VBD received)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB recommend)
+        (NP (DT this) (NN place))
+        (PP (TO to)
+          (NP (NN anyone)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB really))
+    (VP (VBP know)
+      (NP (PRP$ their) (NN stuff)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VBN Helped)
+      (S
+        (NP (PRP$ my))
+        (VP (VB buy)
+          (NP (PRP$ my) (JJ new) (NN windshield) (NNS wipers))
+          (PP (IN in)
+            (NP (DT the) (NN rain))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (CD One) (NN guy))
+    (VP (VBD rang)
+      (SBAR
+        (S
+          (NP (PRP me))
+          (ADVP (RB up) (IN while) (DT the) (JJ other))
+          (VP (VBD ran)
+            (ADVP (RB outside))
+            (S
+              (VP (TO to)
+                (VP (VB install)
+                  (PP (IN for)
+                    (NP (PRP me))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBD Was)
+        (ADJP (JJ ready)
+          (S
+            (VP (TO to)
+              (VP (VB go)
+                (ADVP (RB as) (RB soon)
+                  (S
+                    (VP (VB ask))))))))))
+    (VP (VBD signed)
+      (NP (PRP$ my) (NN credit) (NN card) (NN slip)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD will)
+      (VP (VB be)
+        (ADVP (RB back))
+        (PP (IN for)
+          (NP (NN auto) (NNS supplies)))))
+    (. !)))
+
+

@@ -1,0 +1,105 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 'm) (RB not)
+        (ADVP (RB normally))
+        (NP (DT a) (NN chain) (NN coffee) (NN shop) (NN fan))))
+    (PRN (, ,)
+      (SINV
+        (ADVP (RB much)
+          (S
+            (VP (VBG preferring)
+              (S
+                (VP (TO to)
+                  (VP (VB find)
+                    (NP
+                      (NP (DT that) (NN needle))
+                      (PP (IN in)
+                        (NP (DT a) (NN hay))))))))))
+        (VP (VBZ stack))
+        (NP
+          (NP (JJ small))
+          (, ,)
+          (NP
+            (NP (CD one))
+            (PP (IN of)
+              (NP (DT a) (NN kind) (NN cafe))))))
+      (, ,))
+    (CC but)
+    (S
+      (PP (VBN given)
+        (NP
+          (NP (DT the) (NNP Gyle) (NNS offers) (JJ little))
+          (PP (IN in)
+            (NP (JJ unique) (NNS experiences)))))
+      (, ,)
+      (NP (PRP I))
+      (VP
+        (VP (VBP 've)
+          (VP (VBN taken)
+            (S
+              (VP (TO to)
+                (VP (VB frequenting)
+                  (NP (NNP Costa))
+                  (ADVP (DT every) (RB now)
+                    (CC and)
+                    (RB then)))))))
+        (CC and)
+        (PRN (, ,)
+          (S
+            (NP (PRP I))
+            (VP (MD must)
+              (VP (VB say))))
+          (, ,))
+        (VP (VBP am)
+          (ADJP (RB pleasantly) (JJ surprised)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS coffees))
+    (VP (VBP are)
+      (ADVP (RB consistently))
+      (NP
+        (NP (NN ok))
+        (CC and)
+        (NP
+          (NP (DT the) (JJ friendly) (NN service))
+          (NP (DT a) (NN standout)))))
+    (. .)))
+
+(ROOT
+  (FRAG (RB Not)
+    (ADJP (JJ bad)
+      (PP (IN at)
+        (NP (DT all))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Cant))
+    (VP (VBP pass)
+      (PRT (RP up))
+      (PP (IN on)
+        (NP
+          (NP (DT a) (JJ double) (NN shot) (NN latt?))
+          (CC &)
+          (NP (DT a) (NN linzer) (NN biscuit)))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (VBG Seating))
+    (VP (VBZ is)
+      (ADJP (RB very) (JJ cramped))
+      (ADVP (RB though))
+      (, ,)
+      (NP
+        (NP (RB so) (PRP$ its) (NN 4/5))
+        (PP (IN for)
+          (NP (DT this) (NN one)))))
+    (: ...)))
+
+

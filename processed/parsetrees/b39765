@@ -1,0 +1,279 @@
+(ROOT
+  (NP
+    (NP (CD 22) (NN min) (NN wait))
+    (, ,)
+    (NP
+      (NP (JJ 2nd) (NN week))
+      (PP (IN of)
+        (NP (DT the) (NN month))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Lane))
+    (NP (CD 1))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBZ Says)
+      (S
+        (NP (JJ 7min) (NN avg))
+        (VP (VB wait)
+          (NP (NN time)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP realize)
+      (ADVP (RB NOW))
+      (, ,)
+      (SBAR (IN that)
+        (S
+          (NP (DT an) (NNP ODB) (NN readable) (NN vehicle))
+          (VP (MD can)
+            (VP (VB choose)
+              (NP
+                (NP (NNP ANY) (NNP lane))
+                (, ,)
+                (SBAR (IN whereas)
+                  (S
+                    (NP (DT the) (JJR older) (JJ non-ODB) (NN read))
+                    (VP (MD must)
+                      (VP (VB be)
+                        (PP (IN in)
+                          (NP (NNP Lane) (CD 2)
+                            (CC or)
+                            (CD 3)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Signage)
+      (ADJP (RB poorly) (JJ designage)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (PRN (-LRB- -LRB-)
+          (NP
+            (NP (NNP Wait) (NNP =))
+            (NP (CD 7) (NN min)))
+          (-RRB- -RRB-))
+        (NNS +))
+      (PRN (-LRB- -LRB-)
+        (VP (VBN Inspection)
+          (S
+            (VP (SYM =)
+              (NP (CD 3) (NN min)))))
+        (-RRB- -RRB-)))
+    (VP (SYM =)
+      (NP (CD 10) (JJ minutes) (NN total)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD arrived)
+      (PP (IN at)
+        (NP (CD 6:45) (NN p)))
+      (PP (IN on)
+        (NP (DT a) (NNP Monday) (NN night))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBD were)
+      (NP
+        (NP (CD 2) (NNS cars))
+        (VP (VBG getting)
+          (S
+            (VP (VBN worked)
+              (PP (IN on)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 've)
+        (VP (VBN been)
+          (PP (IN at)
+            (NP (DT this) (NN location)))
+          (ADVP (RB once)
+            (PP (IN before)
+              (ADVP
+                (NP (CD 2) (NNS years))
+                (RB ago)))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBD did) (RB n't)
+        (VP (VB have)
+          (NP
+            (NP (DT a) (JJ long) (NN wait))
+            (ADVP (RB then)))
+          (ADVP (RB either)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN manager))
+    (VP (VBD was)
+      (ADJP (RB super) (JJ friendly))
+      (SBAR (IN after)
+        (S
+          (NP (PRP I))
+          (VP (VBP 'm)
+            (ADJP (JJ sure)
+              (SBAR
+                (S
+                  (VP (VBD was)
+                    (NP (DT a) (JJ long) (NN day))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD will)
+      (VP (VB keep)
+        (S
+          (VP (VBG coming)
+            (PP (TO to)
+              (NP (DT this) (NN location)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (DT No) (NN one))
+      (VP (VBZ likes)
+        (S
+          (VP (VBG going)
+            (PP (TO to)
+              (NP (NNS emissions)))))))
+    (CC but)
+    (S
+      (NP (DT this) (NN place))
+      (VP (VBZ is) (RB n't)
+        (ADJP (JJ bad))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 've)
+      (ADVP (RB never))
+      (VP (VBN had)
+        (S
+          (VP (TO to)
+            (VP (VB wait)
+              (ADVP (RB long))
+              (ADVP (RB here)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN staff)
+      (CC and)
+      (NN service))
+    (VP (VBZ is)
+      (ADJP (JJ great)
+        (PP (IN for)
+          (NP (DT an) (NNS emissions) (NN center)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ 's)
+      (NP (DT a) (JJ third) (NN party) (NN DMV))
+      (ADVP
+        (ADVP (RB right) (IN next) (NN door))
+        (SBAR (IN so)
+          (S
+            (NP (PRP you))
+            (VP (MD can)
+              (VP (VB get)
+                (NP (PRP$ your) (NNS tags))
+                (SBAR
+                  (WHADVP (WRB when))
+                  (S
+                    (NP (PRP you))
+                    (VP (VBP 're)
+                      (VP (VBN done)
+                        (ADVP (RB here))))))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN location))
+    (VP (VBZ is)
+      (VP (VBN tucked)
+        (PRT (RP away))
+        (PP (IN on)
+          (NP (DT the) (NN side) (NN street)))
+        (SBAR (IN so)
+          (S
+            (NP (PRP it))
+            (VP (MD can)
+              (VP (VB be)
+                (ADJP (JJ hard)
+                  (S
+                    (VP (TO to)
+                      (VP (VB find)))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT The) (JJS fastest) (NN smog))
+    (VP (VBP check)
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBP have)
+            (ADVP (RB ever))
+            (VP (VBN experienced))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (ADVP (IN in)
+        (CC and)
+        (IN out))
+      (PP (IN in)
+        (NP
+          (QP (JJR less) (IN than) (CD 10))
+          (NNS minutes))))
+    (. .)))
+
+(ROOT
+  (NP (NNP DO) (NNP N'T) (NNP GO) (NNP ANYWHERE) (NNP ELSE) (NNP !!!!)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP (DT the) (JJS best) (NN place))
+      (ADVP (RB ever)))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP it))
+    (VP
+      (ADVP (RB only))
+      (VBD cost)
+      (NP (PRP me))
+      (NP ($ $) (CD 28)))))
+
+

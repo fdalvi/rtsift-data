@@ -1,0 +1,118 @@
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD played)
+      (NP (DT a) (JJ huge) (NN game))
+      (PP (IN with)
+        (S
+          (NP (PRP me))
+          (VP (VBG trying)
+            (S
+              (VP (TO to)
+                (VP (VB up-sell)
+                  (NP
+                    (NP (DT the) (JJ extra) (NN shampoo) (NN service))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP (MD would)
+                          (VP (VB have)
+                            (VP (VBN doubled)
+                              (NP (DT the) (NN price)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBN Made)
+        (S
+          (NP (PRP it))
+          (VP (VB seem)
+            (PP (IN like)
+              (S (RB not)
+                (VP (VBG using)
+                  (NP (DT the) (JJ extra) (NN service)))))))))
+    (VP (MD would)
+      (VP (VB be)
+        (ADJP
+          (ADJP (RB no) (JJR better))
+          (PP (IN than)
+            (S (RB not)
+              (VP (VBG getting)
+                (NP
+                  (NP (DT the) (NNS carpets))
+                  (VP (VBN cleaned)
+                    (ADVP (IN at) (DT all))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (ADVP (RB even))
+    (VP (VBD called)
+      (NP (PRP$ his) (NN supervisor))
+      (PP (TO to)
+        (NP
+          (ADJP
+            (ADJP (RB very) (JJ loudly))
+            (PRN (-LRB- -LRB-)
+              (SBAR (IN so)
+                (S
+                  (NP (PRP I))
+                  (VP (MD could)
+                    (VP (VB hear)
+                      (NP (PRP him))))))
+              (-RRB- -RRB-)))
+          (NN state)))
+      (SBAR
+        (WHADVP (WRB how))
+        (S
+          (VP (VBD surprised)
+            (SBAR
+              (S
+                (NP (PRP he))
+                (VP (VBD was)
+                  (SBAR (IN that)
+                    (S
+                      (NP (PRP I))
+                      (VP (VBD was) (RB n't)
+                        (VP (VBG going)
+                          (S
+                            (VP (TO to)
+                              (VP (VB do)
+                                (NP (DT the) (JJ extra) (NN service))))))))))))))))
+    (. .)))
+
+(ROOT
+  (SBAR (IN If)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADJP (RB so) (JJ important))
+        (SBAR
+          (SBARQ
+            (WHADVP (WRB why))
+            (SQ (VBP do) (RB n't)
+              (NP (PRP you))
+              (VP (VB bring)
+                (NP (PRP it))
+                (PRT (RP up))
+                (PP (IN in)
+                  (NP
+                    (NP (DT the) (NN quote))
+                    (SBAR
+                      (S
+                        (NP (PRP I))
+                        (VP (VBD asked)
+                          (PP (IN for)
+                            (PP (IN over)
+                              (NP (DT the) (NN phone)))))))))))
+            (. ?)))))))
+
+(ROOT
+  (S
+    (VP (MD Would) (RB not)
+      (VP (VB recommend)))
+    (. .)))
+
+

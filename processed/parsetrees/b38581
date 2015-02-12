@@ -1,0 +1,182 @@
+(ROOT
+  (NP (NNP Beautiful) (NNP ambiance)
+    (CC &)
+    (NNP seating) (. .)))
+
+(ROOT
+  (FRAG
+    (NP (JJ Same) (JJ great) (NN coffee))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Average))
+    (VP (VBZ Starbucks))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Slow))
+    (VP
+      (VP (VBZ drive-thru))
+      (CC and)
+      (VP (VBD needed)
+        (S
+          (NP (PRP me))
+          (VP (TO to)
+            (VP (VB repeat)
+              (NP (PRP$ my) (NN order))
+              (NP (CD three) (NNS times)))))))
+    (. .)))
+
+
+(ROOT
+  (SINV
+    (VP (MD Ca) (RB n't)
+      (VP (VB live)
+        (FRAG
+          (PP (IN without)
+            (NP
+              (NP (NN coffee))
+              (PP (IN from)
+                (NP (NNP Starbucks))))
+            (. .))
+          (. .))))
+    (NP
+      (NP (JJ Long) (NNS lines))
+      (PP (CC but)
+        (NP
+          (NP (NN service))
+          (SBAR
+            (S
+              (VP (VBZ is)
+                (ADJP (JJ fast))))))))))
+
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (NNP Watch))
+      (SBAR
+        (WHADVP (WRB how))
+        (S
+          (NP (PRP they))
+          (VP (VBP ring)
+            (NP (PRP you))
+            (PRT (RP up))))))
+    (: -)
+    (S
+      (NP (PRP they))
+      (VP (VBD rang)
+        (NP (PRP me))
+        (PRT (RP up))
+        (PP (IN for)
+          (NP (DT a) (JJ black) (NN tea) (NN lemonade)))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP I))
+            (VP (VBD ordered)
+              (NP (RB just) (JJ black) (NN tea)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN clerk))
+    (VP (VBD claimed)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD was)
+            (SBAR (IN because)
+              (S
+                (NP (PRP I))
+                (VP (VBD asked)
+                  (PP (IN for)
+                    (NP
+                      (NP (DT a) (NN splash))
+                      (PP (IN of)
+                        (S
+                          (VP (VBG flavoring)
+                            (PRN (-LRB- -LRB-)
+                              (NP
+                                (NP (RB not) (RB even))
+                                (NP
+                                  (NP (DT a) (NN pump))
+                                  (PP (IN of)
+                                    (NP (NN syrup)))))
+                              (-RRB- -RRB-))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (ADJP
+        (NP (CD 2) (NNS drinks))
+        (JJ +))
+      (JJ small) (NN food) (NNS items))
+    (VP (VBD was)
+      (NP ($ $) (CD 20)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Bad))
+    (NP
+      (NP (NN service))
+      (CC and)
+      (NP (JJ rude) (NN employee)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN employee))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBD made)
+            (SBAR
+              (S
+                (NP (PRP$ my) (NN drink))
+                (VP (VBD did))))))))
+    (VP (VBP add)
+      (NP
+        (NP (DT the) (NN flavoring))
+        (PP (IN for)
+          (NP (PRP me)))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBD was)
+              (ADJP (JJ nice)))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Aria))
+    (: -)
+    (S
+      (NP (DT these) (NNS employees))
+      (VP (VBP need)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (JJ trained)
+                (PRT (RP up))
+                (S
+                  (VP (TO to)
+                    (VP (VB meet)
+                      (NP (PRP$ your) (NN service) (NNS levels))
+                      (SBAR (IN that)
+                        (S
+                          (NP (PRP I))
+                          (VP (VBP have)
+                            (VP (VBN learned)
+                              (S
+                                (VP (TO to)
+                                  (VP (VB expect)))))))))))))))))
+    (. .)))
+
+

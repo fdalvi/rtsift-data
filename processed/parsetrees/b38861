@@ -1,0 +1,139 @@
+(ROOT
+  (S
+    (NP (DT The) (JJ usual) (NN McDonald))
+    (VP (VBZ 's)
+      (NP
+        (NP (NN food)
+          (CC and)
+          (NNS prices))
+        (PP (IN with)
+          (NP
+            (ADJP (JJ fast)
+              (CC and)
+              (JJ friendly))
+            (NN service)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VB Go)
+        (ADVP (RB here))
+        (PP (IN in)
+          (NP
+            (NP
+              (NP (DT the) (NN morning))
+              (PP (IN for)
+                (NP (NN coffee))))
+            (CONJP (RB rather) (IN than))
+            (NP (DT the) (JJ nearby) (NNS Starbucks))))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADJP (JJR faster)
+          (CC and)
+          (JJR cheaper))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP ($ $) (CD 1))
+    (PP (IN for)
+      (NP
+        (NP (DT a) (JJ hot) (NN coffee))
+        (CC or)
+        (NP
+          (NP
+            (QP (RB around) ($ $) (CD 2)))
+          (PP (IN for)
+            (NP (DT an) (JJ iced) (NN coffee))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ leaves)
+      (NP (PRP you))
+      (PP (IN with)
+        (NP
+          (NP
+            (QP (DT a) (JJ few)))
+          (PRN
+            (ADVP (RBR more))
+            (NP ($ $)
+              (QP
+                (ADVP
+                  (ADVP (RB in)
+                    (NP
+                      (NP (PRP$ your) (JJ pocket) (NN you) (NN can) (NN lose))
+                      (, ,)
+                      (NP
+                        (NP (NN er))
+                        (, ,)
+                        (NP (NN use)))))
+                  (PP (IN at)
+                    (NP (DT the))))
+                (CD casino)))))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (RB Much) (JJR lower))
+    (PP (IN than)
+      (NP (DT the) (NN competition)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Friendly)
+      (NP (NN customer) (NN service)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD had)
+      (NP
+        (NP
+          (NP (DT the) (JJ sweet) (NN chili) (NN chicken) (NN wrap))
+          (PP (IN for)
+            (NP
+              (NP ($ $) (CD 3.99))
+              (PRN (-LRB- -LRB-)
+                (PP (IN without)
+                  (NP (DT the) (NN meal)))
+                (-RRB- -RRB-)))))
+        (CC and)
+        (NP
+          (NP (CD 2) (NN apple) (NNS pies))
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBD were)
+                (PP (IN on)
+                  (NP
+                    (NP (NN sale))
+                    (PP (IN for)
+                      (NP ($ $) (CD 1)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJS best) (NN option))
+        (PP (IN at)
+          (NP (DT this) (NN food) (NN court)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NN Everything) (RB else))
+    (VP (VBZ is)
+      (ADJP (RB so) (JJ overpriced)))
+    (. .)))
+
+

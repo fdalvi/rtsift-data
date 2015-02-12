@@ -1,0 +1,125 @@
+(ROOT
+  (NP (NNP Burger) (NNP und) (NNP Beer) (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Eine))
+    (VP (VBP g?nstige)
+      (NP
+        (NP (NNP Alternative) (NNP zu) (NNP den) (NNP Lokalen))
+        (PP (IN in)
+          (NP (NNP der) (NNP Nachbarschaft)))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBG Dienstag)
+      (NP (JJ auch) (NN allyoucaneat-Buffet)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN restaurant))
+        (PP (IN of)
+          (NP (DT the) (NN chain) (NN pub) (NN variety)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP (JJ okay)
+        (WHPP (IN for)
+          (WHNP (WDT that)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN food))
+    (VP (VBZ is)
+      (NP (NN nothing)
+        (S
+          (VP (TO to)
+            (VP (VB write)
+              (ADVP (NN home) (IN about)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ does) (, ,)
+      (ADVP (RB however))
+      (, ,)
+      (S
+        (VP (VB have)
+          (NP
+            (NP (DT an) (JJ indoor) (JJ soft) (NN play))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBZ is)
+                  (ADJP (JJ cheap)
+                    (CC and)
+                    (JJ large))
+                  (, ,)
+                  (SBAR (IN though)
+                    (S
+                      (NP (PRP it))
+                      (VP (VBZ is)
+                        (ADJP (JJ dark))
+                        (ADVP (RB inside))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP
+        (NP (DT a) (JJ good) (NN place))
+        (PP (IN for)
+          (NP
+            (NP (DT a) (JJ rainy) (NN afternoon))
+            (SBAR
+              (WHPP (IN in)
+                (WHNP (WDT which)))
+              (S
+                (NP (PRP you))
+                (VP (VBP drink)
+                  (SBAR
+                    (S
+                      (NP
+                        (NP (DT some) (JJ generic) (NN cider))
+                        (CC and)
+                        (NP (PRP$ your) (NN kid)))
+                      (VP (VBZ wears)
+                        (S
+                          (NP (PRP him)
+                            (CC or)
+                            (PRP herself))
+                          (ADJP (RB out)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBP are)
+        (ADVP (RB certainly))
+        (VP (VBG nicer)
+          (NP (NNS restaurants))
+          (ADVP (RB nearby)))))
+    (CC but)
+    (S
+      (NP (DT the) (JJ soft) (NN play))
+      (VP (VBZ is)
+        (NP
+          (NP (NN kind))
+          (PP (IN of)
+            (NP (DT a) (JJ secret) (NN bargain))))))
+    (. .)))
+
+

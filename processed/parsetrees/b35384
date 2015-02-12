@@ -1,0 +1,181 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Excellent) (NN service))
+      (, ,)
+      (NP (JJ new) (NN business))
+      (CC and)
+      (NP (DT the) (NN food)))
+    (VP (VBZ is)
+      (ADJP (JJ great)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Excellent) (NNS choices))
+    (PP (IN for)
+      (NP (NN pizza) (, ,) (NN calzones) (, ,) (NN pasta) (NNS dishes)
+        (CC and)
+        (NNS sandwiches)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP are)
+      (ADVP (JJ next))
+      (PP (TO to)
+        (NP (NNP Starbucks)))
+      (, ,)
+      (VP (VBG facing)
+        (ADVP (RB south)
+          (PP (IN towards)
+            (NP (DT the) (NN theater))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (MD Would)
+      (VP (VB recommend)
+        (NP (PRP them))
+        (PP (TO to)
+          (NP (NN anyone)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (INTJ (UH Wow))
+    (, ,)
+    (ADVP (RB just))
+    (VP (VBD ordered)
+      (NP (DT a) (NN pizza))
+      (PP (IN from)
+        (NP
+          (NP (NNP Bella) (NNP Pizza))
+          (CC and)
+          (NP
+            (NP (DT the) (NN girl))
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBD answered)
+                  (SBAR
+                    (S
+                      (NP (DT the) (NN phone))
+                      (VP (VBD made)
+                        (SBAR
+                          (S
+                            (NP (PRP me))
+                            (VP (VBP feel)
+                              (SBAR (IN like)
+                                (S
+                                  (NP (PRP I))
+                                  (VP (VBD was)
+                                    (VP (VBG interrupting)
+                                      (NP (PRP$ her) (NN evening)))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP have)
+        (VP (VBN ordered)
+          (NP (JJ several) (NNS pizzas))
+          (PP (IN from)
+            (NP (RB here))))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBP are)
+        (ADJP (JJ good))))
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBP guess)
+        (SBAR
+          (S
+            (NP (PRP they))
+            (VP (VBP do) (RB n't)
+              (VP (VB realize)
+                (SBAR (IN that)
+                  (S
+                    (NP
+                      (NP (DT the) (NN person))
+                      (SBAR
+                        (WHNP (WP who))
+                        (S
+                          (VP (VBZ answers)
+                            (NP (DT the) (NN phone))))))
+                    (VP (VBZ is)
+                      (NP
+                        (NP (DT the) (NN voice))
+                        (PP (IN of)
+                          (NP (DT the) (NN company)))))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (NP
+        (NP (DT no) (NN trace))
+        (PP (IN of)
+          (NP (DT this) (NN place)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP
+        (VP (VBD found)
+          (NP
+            (NP (DT this) (NN restaurant))
+            (NP (JJ last) (NN night))
+            (PP (IN thru)
+              (NP (NNP Yelp)))
+            (, ,)
+            (VP (VBN ordered)
+              (PP (NN online))
+              (S
+                (VP (TO to)
+                  (VP (VB pick)
+                    (PRT (RP up))))))))
+        (, ,)
+        (VP (VBD paid))
+        (, ,)
+        (VP (VBD drove) (, ,)
+          (NP (DT no) (NNP Bella)))))
+    (: ...)
+    (S
+      (ADVP (RB instead))
+      (NP (DT a) (JJ different) (NN restaurant))
+      (VP (VBZ is)
+        (ADVP (RB there))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Nearby) (NNS businesses))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBD pulled)
+            (NP (NNS stakes))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (WHNP (WP What)
+      (NP (DT a) (NN waste)))
+    (PP (IN of)
+      (NP (NN time)
+        (CC and)
+        (NN effort)))
+    (. !)))
+
+

@@ -1,0 +1,57 @@
+(ROOT
+  (NP
+    (NP (CD One) (NN word))
+    (: :)
+    (NP (JJ amazing))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD came)
+        (NP (NN today))
+        (PP (IN on)
+          (NP (DT a) (NNP Sunday)))
+        (SBAR (IN because)
+          (S
+            (NP (NN yelp))
+            (VP (VBZ says)
+              (SBAR
+                (S
+                  (NP (PRP they))
+                  (VP
+                    (VP (VBP are)
+                      (ADJP (JJ open)
+                        (PP (IN until)
+                          (NP (CD 8)))))
+                    (CC and)
+                    (VP (VBZ turns)
+                      (PRT (RP out)))))))))))
+    (NP (PRP they))
+    (VP (VBD were)
+      (VP (VBN closed)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB have)
+        (VP (VBN been)
+          (NP (DT a) (JJ first) (NN timer)))))
+    (. .)))
+
+(ROOT
+  (FRAG (RB So)
+    (ADJP (JJ sad))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Fix)
+      (NP (DT the) (NNS hours)))
+    (. .)))
+
+

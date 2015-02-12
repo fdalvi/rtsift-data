@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP THIS) (NNP LOCATION))
+      (VP (VBZ HAS)
+        (VP (VBN CLOSED))))
+    (: -)
+    (S
+      (PP (IN See)
+        (NP (PRP$ their) (JJ new) (NNP Raul)
+          (CC &)
+          (NNP Theresa)))
+      (VP (VBZ 's)
+        (PP (IN on)
+          (NP (NNP Litchfield) (NNP Road)))
+        (, ,)
+        (ADVP (RB just) (RB north))
+        (PP (IN of)
+          (NP (NN I-10)))))))
+
+

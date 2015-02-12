@@ -1,0 +1,115 @@
+(ROOT
+  (S
+    (ADJP (RB Very) (JJ happy))
+    (NP (PRP I))
+    (VP (VBD found)
+      (NP (DT this) (NN dentist)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (RB very) (JJ skilled))
+        (, ,)
+        (ADJP (JJ gentle))
+        (CC and)
+        (ADJP (JJ efficient))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (ADVP (RB just))
+      (VP (VBD got)
+        (NP (PRP$ my) (NN wisdom) (NNS teeth))
+        (PRT (RP out))
+        (ADVP (RB there))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (VP
+          (VP (VBN done)
+            (PP (IN in)
+              (PP (IN under)
+                (NP (CD 30) (NNS minutes)))))
+          (CC and)
+          (VP (VBN healed)
+            (PRT (RP up))
+            (NP (JJ easy) (NN peasy))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ His) (NN staff))
+    (VP (VBZ is)
+      (ADJP (RB very) (JJ friendly)
+        (PP (IN as)
+          (ADVP (RB well)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP He))
+      (VP (VBZ does)
+        (S
+          (NP (DT all))
+          (NP
+            (NP (PRP$ his) (JJ own) (JJ dental) (NN hygiene))
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBD seemed)
+                  (ADJP (JJ odd))
+                  (PP (IN at)
+                    (NP (CD 1st))))))))))
+    (CC but)
+    (S
+      (NP (PRP I))
+      (ADVP (RB actually))
+      (VP (VBP have)
+        (VP (VBN come)
+          (S
+            (VP (TO to)
+              (VP (VB like)
+                (NP (PRP it))
+                (ADVP (RBS best))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Guess)
+      (SBAR (IN that)
+        (S
+          (VP (VBZ makes)
+            (S
+              (NP (NNS things))
+              (VP (VB flow)
+                (ADJP (RB even) (JJR faster))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have)
+      (ADVP (RB never))
+      (VP (VBN had)
+        (NP (JJR more))
+        (PP (IN than)
+          (NP (DT a)
+            (ADJP (CD 5) (NN minute))
+            (NN wait)))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP I))
+            (VP (VBP have)
+              (VP (VBN gone)
+                (PP (IN in))))))))
+    (. .)))
+
+

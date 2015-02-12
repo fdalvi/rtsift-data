@@ -1,0 +1,93 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Beautiful) (NN park))
+      (PP (IN with)
+        (NP (CD two) (NN baseball))))
+    (VP (VBZ fields)
+      (PP (IN with)
+        (NP (CD one)
+          (NP (JJ large))
+          (CC and)
+          (NP (CD one) (JJ small) (NN jungle) (NN gym)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB also))
+    (VP (VBP have)
+      (NP
+        (NP (DT a) (JJ mini) (NN concession) (NN stand))
+        (PP (IN for)
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (NN baseball) (NNS games))
+              (VP (VBP are)
+                (VP (VBG going)
+                  (PRT (RP on)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ only) (NN thing))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBZ sucks)))))
+    (VP (VBZ is)
+      (NP
+        (NP (PDT all) (DT the) (NN writing))
+        (PP (IN on)
+          (NP (DT both) (NN jungle) (NNS gyms)))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Other))
+    (PP (IN than)
+      (SBAR (IN that)
+        (S
+          (NP (DT this) (NN park))
+          (VP (VBZ is)
+            (ADJP
+              (ADJP (JJ great))
+              (, ,)
+              (ADJP (JJ small))
+              (, ,)
+              (CC and)
+              (ADVP (RB quite)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Semi))
+    (VP (VB clean)
+      (NP (NN park))
+      (PP (IN with)
+        (NP
+          (NP (DT a) (NN couple))
+          (PP (IN of)
+            (NP
+              (NP (NNS fields))
+              (CC and)
+              (NP (DT a) (JJ small) (NN play) (NN area)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB Not) (DT the) (JJ nicest) (NN park))
+      (PP (IN in)
+        (NP
+          (NP (NNS vegas))
+          (PP (CC but)
+            (NP (DT this) (NN one))))))
+    (VP (VBZ is)
+      (ADJP (JJ quiet)))
+    (. .)))
+
+

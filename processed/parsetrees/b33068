@@ -1,0 +1,90 @@
+(ROOT
+  (S
+    (S
+      (S
+        (NP (NNP Jared))
+        (VP (VBZ is)
+          (NP
+            (NP (DT a) (NN colleague))
+            (PP (IN of)
+              (NP (NN mine))))))
+      (CC and)
+      (S
+        (NP (PRP he))
+        (VP (VBZ has)
+          (VP (VBN done)
+            (NP
+              (NP (DT some) (NN work))
+              (PP (IN for)
+                (NP
+                  (NP (RB quite) (DT a) (JJ few))
+                  (PP (IN of)
+                    (NP (PRP$ my) (NNS clients))))))))))
+    (, ,) (IN so)
+    (S
+      (NP (DT that))
+      (VP (VBZ tells)
+        (NP (PRP you))
+        (NP
+          (NP (DT the) (NN confidence))
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (VBP have)
+                (VP
+                  (PP (IN in)
+                    (NP (NNP Jared))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ great) (NN attorney))
+        (CC and)
+        (NP
+          (NP (PRP$ my) (NN choice))
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP
+                (NP (DT any))
+                (PP (IN of)
+                  (NP (PRP$ my) (NNS clients))))
+              (VP (VBP have)
+                (NP (NN bankruptcy) (NNS issues)
+                  (CC and)
+                  (NN loan) (NN work-out) (NNS issues))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Thanks))
+    (VP (VBD Jared)
+      (PP (IN for)
+        (S
+          (VP (VBG taking)
+            (NP
+              (NP (NN care))
+              (PP (IN of)
+                (NP
+                  (NP (DT those))
+                  (SBAR
+                    (WHNP (WP who))
+                    (S
+                      (VP (VBP are)
+                        (ADJP (JJ important)
+                          (PP (TO to)
+                            (NP (PRP me))))))))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB highly))
+    (VP (VBP recommend)
+      (NP (PRP you)))
+    (. !)))
+
+

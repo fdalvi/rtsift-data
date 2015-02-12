@@ -1,0 +1,493 @@
+(ROOT
+  (S
+    (VP (VBN Visited)
+      (ADVP (RB twice))
+      (PP (IN in)
+        (NP (DT the) (JJ past) (CD two) (NNS weeks))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Excellent)
+      (NP
+        (ADJP (RB very) (JJ fresh))
+        (NN sushi))
+      (PP (IN at)
+        (NP (DT a) (JJ great) (NN price))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Large) (NN menu))
+    (PP (IN for)
+      (NP (DT the) (NN size)))
+    (PP (IN of)
+      (NP (DT the) (NN restaurant)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ friendly) (NNS owners))
+    (VP (VBP make)
+      (S
+        (NP (PDT all) (DT the) (NNS sauces))
+        (NP (PRP themselves))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NN Takeout)
+      (CC and)
+      (NN event))
+    (VP (VBG catering)
+      (ADJP (JJ available)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (JJ Seaweed) (NN salad))
+      (VP (VBZ is)
+        (ADJP (JJ ample)
+          (PP (IN for)
+            (S
+              (VP (VBG sharing)))))))
+    (: -)
+    (S
+      (S
+        (VP (VBN served)
+          (PP (IN with)
+            (NP (JJ mixed) (NNS greens)
+              (CC and)
+              (NN cucumber/mango)))))
+      (VP (VBZ sticks)
+        (PP (IN with)
+          (NP (DT a) (JJ delicious) (NN dressing)))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Try)
+      (S
+        (NP (DT the) (NN caterpillar))
+        (VP (VB roll) (: -)
+          (ADVP (RB best) (RB ever)))))
+    (. !)))
+
+(ROOT
+  (S
+    (VP
+      (VP (VBN Liked)
+        (NP (DT the) (NN tempura)))
+      (CC but)
+      (VP (MD would)
+        (VP (VB suggest)
+          (S
+            (VP (VBG giving)
+              (NP (DT the) (NN ramen) (NNS noodles))
+              (NP (DT a) (NN miss)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Will))
+    (VP (VBP be)
+      (ADVP (RB back)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (VP
+        (ADVP (RB Really))
+        (VBN enjoyed)
+        (NP (DT the) (NN sushi))))
+    (, ,)
+    (NP
+      (NP (DT the) (NN presentation))
+      (PP (IN of)
+        (NP (DT the) (NNS rolls))))
+    (VP (VBD was)
+      (NP
+        (NP (DT some))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (JJS best))
+            (SBAR
+              (S
+                (NP (PRP I))
+                (VP (VBP 've)
+                  (VP (VBN seen)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN quality))
+      (PP (IN of)
+        (NP (DT the) (NN food))))
+    (VP (VBD was)
+      (ADJP (RB so) (JJ good)
+        (PP (IN as)
+          (ADVP (RB well)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PDT All) (DT the) (NNS sauces))
+    (VP
+      (VP (VBP are)
+        (ADVP (RB home))
+        (VP (VBN made)))
+      (CC and)
+      (VP (VBP taste)
+        (ADJP (JJ amazing))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB almost))
+    (VP (VBD did) (RB n't)
+      (VP (VB want)
+        (S
+          (VP (TO to)
+            (VP (VB give)
+              (NP (DT this) (NN restaurant))
+              (NP (CD 5) (NNS stars)))))
+        (SBAR (IN because)
+          (S
+            (NP (PRP it))
+            (VP (VBZ 's)
+              (ADJP (RB so) (JJ good)
+                (SBAR
+                  (S
+                    (NP (PRP I))
+                    (VP (VBP want)
+                      (NP (PRP it))
+                      (ADVP (RB all)
+                        (PP (TO to)
+                          (NP (PRP myself)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP 've)
+      (VP (VBN perfected)
+        (NP
+          (NP
+            (NP (DT every) (NNS aspects))
+            (PP (IN of)
+              (NP (NN hospitality))))
+          (CC and)
+          (NP
+            (NP (NNS restaurants))
+            (, ,)
+            (NP (JJ great) (NN service))
+            (, ,)
+            (NP (JJ competitive) (NNS prices))
+            (, ,)
+            (CC and)
+            (NP
+              (ADJP
+                (ADVP (RBS most) (RB importantly))
+                (JJ amazing))
+              (NN food))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NN girlfriend))
+    (VP (VBD chose)
+      (NP (DT this) (NN place))
+      (PP (IN for)
+        (NP
+          (NP (NNP Valentine) (POS 's))
+          (NN Day))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (ADVP (DT both))
+      (VP (VBD had)
+        (ADVP (RB never))
+        (VP (VBN been)
+          (ADVP (RB before)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP we))
+      (ADVP (DT both))
+      (VP (VBP enjoy)
+        (S
+          (VP (VBG trying)
+            (NP (NN something) (JJ new))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD were)
+      (NP
+        (ADJP
+          (ADJP (RB so) (RB pleasantly) (JJ impressed))
+          (SBAR (IN that)
+            (S
+              (NP (PRP it))
+              (VP (VBZ 's)
+                (S
+                  (NP (PRP$ our) (JJ new))
+                  (`` ``)
+                  (ADJP (VB go)
+                    (PP (TO to)))
+                  ('' ''))))))
+        (NN sushi) (NN spot)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN presentation))
+      (PP (IN of)
+        (NP (DT the) (NNS rolls))))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (RB almost) (RB as) (JJ impressive))
+        (PP (IN as)
+          (NP (DT the) (NN way))))
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBP taste)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD can)
+      (ADVP (RB honestly))
+      (VP (VB say)
+        (NP
+          (NP (DT the) (JJS best) (NN sushi))
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (VBP 've)
+                (ADVP (RB ever))
+                (VP (VBN had))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (MD ca) (RB n't)
+        (VP (VB wait)
+          (S
+            (VP (TO to)
+              (VP (VB try)
+                (NP
+                  (NP (JJR more))
+                  (PP (IN of)
+                    (NP (DT the) (NN menu)))))))))
+      (CC and)
+      (VP (MD will)
+        (ADVP (RB definately))
+        (VP (VB be)
+          (VP (VBG repeating)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN restaurant))
+      (SBAR
+        (S
+          (S
+            (NP (PRP itself))
+            (VP (VBZ is)
+              (ADJP
+                (NP (DT a) (RB bit))
+                (JJ small))))
+          (CC and)
+          (S
+            (S
+              (NP (NN decor))
+              (VP (VBZ is)
+                (ADJP
+                  (NP (DT a) (RB bit))
+                  (JJ unusual))))
+            (, ,)
+            (CC but)
+            (S
+              (NP (PRP it))
+              (VP (VBZ does) (RB n't)
+                (VP (VB matter)
+                  (NP (PRP it)))))))))
+    (VP (VBZ 's)
+      (ADJP (RB that) (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP
+        (VP (VBD went)
+          (PP (IN on)
+            (NP
+              (NP (NNP Valentine) (POS 's))
+              (NN Day))))
+        (CC and)
+        (ADVP (RB almost)
+          (NP (DT every) (NN table)))
+        (VP (VBD was)
+          (ADJP (JJ full)))))
+    (, ,)
+    (NP (RB yet) (NN service)
+      (CC and)
+      (NN quality))
+    (VP (VBD was) (RB not)
+      (VP (VBN compromised)))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP
+      (NP (JJ Wonderful) (NN food))
+      (CC and)
+      (NP
+        (ADJP (RB very) (JJ nice))
+        (NNS people)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP
+        (NP (DT the) (JJS best) (NN sushi))
+        (SBAR
+          (S
+            (NP (PRP we))
+            (VP (VBP have)
+              (ADVP (RB ever))
+              (VP (VBN had)))))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Blink)
+        (CC and)
+        (PRP you))
+      (VP (MD 'll)
+        (VP (VB miss)
+          (NP (PRP it))
+          (PP (IN from)
+            (NP (DT the) (NN outside))))))
+    (CC but)
+    (ADVP (RB once) (RB inside))
+    (S
+      (NP (PRP I))
+      (VP (VBP guarantee)
+        (SBAR
+          (S
+            (NP (PRP you))
+            (VP (MD 'll)
+              (VP (VB return)
+                (ADVP (RB again)
+                  (CC and)
+                  (RB again))))))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (JJ Wonderful) (JJ relaxing) (NN atmosphere))
+    (, ,)
+    (NP (JJ spotless) (NN restaurant))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NN Everything))
+      (SBAR
+        (S
+          (NP (PRP we))
+          (VP (VBP 've)
+            (ADVP (RB ever))
+            (VP (VBN ordered))))))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (ADJP (NN nothing) (JJ short)
+          (PP (IN of)
+            (ADJP (JJ spectacular))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS sauces))
+      (VP (VBP are)
+        (ADJP (JJ amazing))))
+    (, ,)
+    (NP (NNP Gyozas))
+    (VP (VBP are)
+      (S
+        (VP (TO to)
+          (VP (VB die)
+            (PP (IN for))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Teriyaki) (NNP salmon))
+    (, ,)
+    (NP (NN beef))
+    (, ,)
+    (NP (NN chicken))
+    (: -)
+    (NP
+      (NP (JJ simple) (NNS dishes))
+      (PP (CC but)
+        (NP (JJ flawless) (NN execution))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ Their) (NNP Sushi))
+    (VP (VBZ is)
+      (ADVP (RB unquestionably))
+      (NP
+        (NP (DT the) (JJS best))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP 've)
+              (VP (VBN had)
+                (PP (IN in)
+                  (NP (NNP Kitchener/Waterloo) (NN area)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (MD will) (RB not)
+      (VP (VB be)
+        (VP (VBN disappointed)
+          (PP (IN by)
+            (NP
+              (NP (PRP$ your) (NN visit))
+              (VP
+                (ADVP (RB here))
+                (VBN !!!)))))))))
+
+

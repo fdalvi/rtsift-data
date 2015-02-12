@@ -1,0 +1,82 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBG visiting)
+          (NP
+            (NP (NNP Allen) (NNP Equipment))
+            (PP (IN for)
+              (NP (NNS years)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Allen) (NNP Equipment))
+    (VP (VBZ is)
+      (SBAR
+        (WHADVP (WRB where))
+        (S
+          (NP (PRP I))
+          (VP
+            (VP (VBP buy)
+              (NP (PDT all) (PRP$ my) (NN carpet))
+              (S
+                (VP (VBG cleaning)
+                  (NP (NNS chemicals)))))
+            (, ,)
+            (CC and)
+            (VP (VBP have)
+              (NP
+                (NP (PRP$ my) (NN equipment))
+                (VP (VBN repaired)
+                  (NP
+                    (ADJP (RB as) (VBN needed))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Consistent) (NN quality) (NN service))
+      (, ,)
+      (NP
+        (ADJP (RB very) (JJ friendly)
+          (CC and)
+          (JJ conservative))
+        (NN pricing)))
+    (VP (VBP keep)
+      (S
+        (NP (PRP me))
+        (VP (VBG coming)
+          (ADVP (RB back)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP recommend)
+      (PP (TO to)
+        (NP (PDT all)
+          (NP
+            (NP (PRP$ my) (NNS friends))
+            (, ,)
+            (NP (NN family))
+            (, ,)
+            (CC and)
+            (NP (NNS clients)))))
+      (S
+        (VP (TO to)
+          (VP (VB think)
+            (PP (IN of)
+              (NP
+                (NP (NNP Allen) (NNP Equipment))
+                (PP (IN as)
+                  (NP (PRP$ their) (CD one) (NN stop) (NN shop)))))
+            (PP (IN for)
+              (NP
+                (NP (NN carpet))
+                (CC &)
+                (NP (NN tile) (NN cleaning) (NNS needs))))))))
+    (. .)))
+
+

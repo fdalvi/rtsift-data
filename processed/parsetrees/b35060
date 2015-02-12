@@ -1,0 +1,121 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Pretty) (JJ small) (NN farmer))
+      (VP (VBZ 's)
+        (NP (NN market))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (NP (DT a) (JJ good) (NN option))
+        (SBAR (IN if)
+          (S
+            (NP (PRP you))
+            (VP (VBP want)
+              (S
+                (NP (JJ local))
+                (VP (VB produce)
+                  (CC and)
+                  (VB farm)
+                  (NP (JJ fresh) (NNS eggs)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBD were)
+      (NP
+        (NP (CD 2) (NNS stands))
+        (PP (IN of)
+          (NP
+            (NP (NNS vegetables))
+            (, ,)
+            (NP (DT some) (JJ crafts) (NNS booths))
+            (, ,)
+            (CC and)
+            (NP
+              (NP (DT some) (JJ local) (NNS products))
+              (PP (IN in)
+                (NP
+                  (NP (NNS jars))
+                  (PRN (-LRB- -LRB-)
+                    (NP (NNP Honey))
+                    (, ,)
+                    (NP
+                      (NP (NNS jams))
+                      (, ,)
+                      (NP (JJ marinated)
+                        (CC and)
+                        (JJ pickled) (NNS vegetables)))
+                    (-RRB- -RRB-)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (ADJP (JJ excited))
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (CD one))
+            (PP (IN of)
+              (NP (DT the) (NNS stands))))
+          (VP (VBD had)
+            (NP
+              (NP (NN farm) (JJ fresh) (NNS eggs))
+              (PP (IN for)
+                (NP (NN sale))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB also))
+    (VP (VBD picked)
+      (PRT (RP up))
+      (NP
+        (NP (DT some)
+          (ADJP (RB really) (JJ nice))
+          (, ,) (JJ fresh) (NNS vegetables))
+        (PP (IN for)
+          (NP (DT the) (NN week)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP
+        (NP (DT those))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBP do) (RB n't)
+              (VP (VB live)
+                (ADJP (RB very) (JJ close))
+                (PP (TO to)
+                  (NP
+                    (NP
+                      (NP (DT the) (JJR larger) (NN farmer) (POS 's))
+                      (NNS markets))
+                    (PRN (-LRB- -LRB-)
+                      (PP (IN Like)
+                        (NP (DT the) (NNP Phoenix) (NNP Public) (NNP Market)))
+                      (-RRB- -RRB-))))))))))
+    (, ,)
+    (NP (DT this))
+    (VP (VBZ is)
+      (NP (DT a)
+        (ADJP (RBR more) (JJ convenient))
+        (NN choice))
+      (SBAR (IN if)
+        (S
+          (NP (PRP you))
+          (VP (VBP live)
+            (PP (IN in)
+              (NP (NNP Tempe)))))))
+    (. .)))
+
+

@@ -1,0 +1,210 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT This))
+      (NP (NNP Costco) (NNP Gas)
+        (CC &)
+        (NNP Diesel)))
+    (, ,)
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (JJ easy)
+          (PP (IN in)))
+        (: ...)
+        (ADJP (JJ easy) (IN out))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Over)
+      (NP (DT the) (JJ past) (JJ few) (NNS weeks)))
+    (NP (PRP I))
+    (VP (VBP 've)
+      (VP (VBN hit)
+        (NP (DT a) (JJ few) (NNP Costco) (NNP Gas) (NNS stations))
+        (PP (IN in)
+          (NP (JJ several) (JJ different) (NNS states)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Surprisingly))
+    (, ,)
+    (NP
+      (NP (JJS most))
+      (PP (IN of)
+        (NP (DT these) (NNP Costco) (NN service) (NNS stations))))
+    (VP (VBP are)
+      (ADVP (RB conveniently))
+      (VP (VBN located)
+        (PP (IN near)
+          (NP
+            (NP (JJS most) (NN on/off) (NNS ramps))
+            (PP (IN of)
+              (NP (JJ major) (NNS Freeways)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN one))
+    (VP (VBZ is)
+      (NP
+        (NP
+          (QP (JJR less) (IN than) (DT a))
+          (NN mile))
+        (PP (IN from)
+          (NP (DT the) (CD 101/FLW)))))
+    (. .)))
+
+(ROOT
+  (S (IN So)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (ADJP
+        (ADJP (RB almost) (RB as) (JJ easy))
+        (PP (IN as)
+          (NP
+            (NP (DT the)
+              (ADJP (JJ dedicated))
+              (NNS stations))
+            (PP (IN along)
+              (NP (DT those) (NNS interstates)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (ADVP (RB only))
+    (VP (VBZ requires)
+      (NP
+        (NP (DT a) (JJ little) (NN planning))
+        (PP (RB ahead) (IN of)
+          (NP (NN time)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN LOL)
+      (S
+        (NP (DT That))
+        (VP (VBD said))))
+    (, ,)
+    (NP (DT this) (NNP Costco))
+    (VP (VBZ is)
+      (PP (IN near)
+        (NP (PRP$ our) (NN house))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP
+          (ADJP (RB slightly) (RBR more) (JJ expensive)
+            (PP (IN than)
+              (NP
+                (NP (DT the) (JJ other) (NNS locations))
+                (PP (IN in)
+                  (NP (DT the) (NNP Valley))))))
+          (PRN (, ,)
+            (PP (JJ such) (IN as)
+              (NP (NNP Paradise) (NNP Valley) (NNP Mall)))
+            (, ,)))
+        (CC and)
+        (ADJP (NNP Phoenix))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (VP (VBN compared)
+          (PP (TO to)
+            (NP (JJ other) (NN gas) (NNS stations)))
+          (PP (IN in)
+            (NP (DT the) (NN area)))
+          (, ,)
+          (ADVP (RB well)))))
+    (: ...)
+    (NP (EX there))
+    (VP (VBZ is)
+      (NP (DT no) (NN comparison)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Besides)
+      (S
+        (VP (VBG getting)
+          (NP (NN gas))
+          (ADVP (RB here))
+          (, ,)
+          (SBAR (IN as)
+            (S
+              (NP (PRP you))
+              (VP (VBP drive)
+                (PRT (RP out))
+                (PP (IN on)
+                  (NP (DT the) (NN left)))))))))
+    (NP (PRP you))
+    (VP (MD can)
+      (VP (VB get)
+        (NP
+          (NP (PRP$ your) (NN car))
+          (VP (VBN washed)))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Nice))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (NNP Low) (NNS prices))
+    (VP (VBP are)
+      (ADVP (RB always))
+      (VP (VBN appreciated)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (ADJP (JJ Fast)
+        (CC and)
+        (JJ easy)))
+    (, ,)
+    (NP (NNS payments))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN paid)
+          (PP (IN by)
+            (NP
+              (NP (JJ debit) (NNS cards))
+              (, ,)
+              (NP (NN AMEX) (NNS cards))
+              (, ,)
+              (CC or)
+              (NP (NNP Costco) (NN cash) (NNS cards)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT No) (NN cash))
+      (CC or)
+      (NP (NNS checks)))
+    (VP (VBD allowed))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (JJ Great) (NN price))
+    (ADVP (RB too))
+    (. !)))
+
+

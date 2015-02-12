@@ -1,0 +1,91 @@
+(ROOT
+  (NP (JJ Typical) (NN QT) (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Fresh))
+    (, ,)
+    (NP (JJ cheap) (NN fuel))
+    (, ,)
+    (CC and)
+    (NP
+      (NP (NNS tons))
+      (PP (IN of)
+        (NP (NN junk) (NN food))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Pretty) (NNS standards))
+      (PP (IN as)
+        (NP (NNP Quik) (NNPS Trips))))
+    (VP (VBP go))
+    (. .)))
+
+
+(ROOT
+  (S
+    (PP (IN For)
+      (S
+        (VP (VBG being)
+          (NP
+            (NP (CD one))
+            (SBAR
+              (S
+                (NP (DT the) (JJ only) (NN gas))
+                (VP (VBD stations)
+                  (ADVP (RB way) (IN out) (JJ east))
+                  (ADVP (RB here)))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (NP (PRP$ your) (JJ typical) (NNP Quik) (NNP Trip)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP$ My) (JJ only) (NN complaint))
+      (VP (VBZ is)
+        (SBAR (IN that)
+          (S
+            (NP (PRP they))
+            (VP (MD may)
+              (VP (VB have)
+                (NP
+                  (NP
+                    (QP (CD three)
+                      (CC or)
+                      (CD four))
+                    (NNS people))
+                  (VP (VBG working)
+                    (PP (IN at)
+                      (NP (DT a) (NN time)))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (ADVP (RB sometimes))
+      (NP (PRP it))
+      (VP (VBZ is)
+        (ADJP (JJ hard))
+        (S
+          (VP (VBG getting)
+            (NP (JJ extra) (NNS people))
+            (S
+              (VP (TO to)
+                (VP (VB man)
+                  (NP (DT the) (NN cash) (NN registers)))))))
+        (, ,)
+        (SBAR (IN unless)
+          (S
+            (NP
+              (NP (DT a) (NN call))
+              (PP (IN for)
+                (NP (NN help))))
+            (VP (VBZ goes)
+              (PRT (RP out)))))))
+    (. .)))
+
+

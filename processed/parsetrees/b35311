@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (NP (JJ Great) (NN family))
+    (VP (VBD owned)
+      (NP (NN water) (NN store)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN specialty) (NN ice))
+    (VP (VBZ is)
+      (ADJP (JJ awesome)
+        (PP (IN because)
+          (NP
+            (NP (PRP$ its) (JJ shaved) (NN ice))
+            (, ,)
+            (NP (JJ thrifty) (NN ice) (NN cream))
+            (, ,)
+            (CC and)
+            (NP (DT any) (NNS flavors)))))
+      (SBAR
+        (S
+          (NP (PRP you))
+          (VP (VBP want)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP do)
+        (NP (DT the) (JJ vanilla) (NN ice) (NN cream)
+          (CC and)
+          (NN hawaiian) (NN flavor))))
+    (, ,)
+    (S
+      (NP (PRP$ its))
+      (ADJP (RB so) (JJ good)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VB Appreciate)
+      (NP
+        (NP (DT the) (NN convenience))
+        (, ,)
+        (SBAR (RB just)
+          (S
+            (VP (VBP wish)
+              (SBAR
+                (S
+                  (NP (DT the) (NN customer) (NN service))
+                  (VP (VBD was)
+                    (ADJP (JJR better))))))))))))
+
+

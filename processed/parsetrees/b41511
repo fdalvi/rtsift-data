@@ -1,0 +1,229 @@
+(ROOT
+  (NP
+    (NP (NNP Great))
+    (NP
+      (NP (NN food))
+      (CC and)
+      (NP (JJ great) (JJ speedy) (NN service)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT Both))
+    (VP (JJ perfect)
+      (NP (NNP English)
+        (CC and)
+        (NNP spanish))
+      (NP (NN service)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD had)
+        (NP (DT the) (NN medium) (NN Campechana))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (ADJP (JJ delicious))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Briught)
+      (NP (PRP me))
+      (SBAR
+        (S
+          (NP (NNS chips)
+            (CC and)
+            (NN meal))
+          (VP (VBD was)
+            (ADVP (RB out))
+            (PP (IN without)
+              (NP (NNS seconds)))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Super))
+    (NP (JJ friendly) (NN staff))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Family))
+    (VP (VBP own))
+    (. .)))
+
+
+(ROOT
+  (S
+    (LST (JJ First))
+    (PP (IN of)
+      (NP (DT all)))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP am)
+      (ADJP (JJ picky)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD were)
+      (VP (VBG looking)
+        (PP (IN for)
+          (NP (DT a) (JJ good) (NNP Mariscos) (NN restaurant)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD saw)
+      (SBAR
+        (S
+          (NP (DT the) (JJ other) (NN yelp))
+          (VP
+            (VP (VBZ reviews))
+            (CC and)
+            (VP (VBD decided)
+              (S
+                (VP (TO to)
+                  (VP (VB give)
+                    (NP (PRP it))
+                    (NP (DT a) (NN try))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN food))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (JJ excellent))
+        (, ,)
+        (ADJP
+          (ADJP (JJ fresh) (JJ full))
+          (PP (IN of)
+            (NP (NN flavor))))
+        (, ,)
+        (ADJP (RB just) (JJ delicious))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (JJ other) (NN review))
+      (VP (VBZ is)
+        (ADJP (JJ accurate))))
+    (, ,)
+    (NP (DT the) (NN food))
+    (VP (VBZ is)
+      (VP (VBN priced)
+        (ADVP
+          (ADVP
+            (NP (DT a) (RB little))
+            (JJR higher))
+          (SBAR (IN than)
+            (S
+              (NP
+                (NP (JJ other) (NNP Mariscos) (NNS restaurants))
+                (PP (CC but)
+                  (NP (DT the)
+                    (NX
+                      (NX (NN quality))
+                      (CC and)
+                      (NX (NN taste))))))
+              (VP (VBD was)
+                (ADJP (JJ worth)
+                  (NP (PRP it)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (MD will)
+      (VP (VB be)
+        (ADVP (RB back))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 've)
+        (VP (VBN been)
+          (ADVP (RB here))
+          (ADVP (RB twice) (RB so) (RB far)))))
+    (, ,)
+    (CC and)
+    (S
+      (ADVP (RB everytime))
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (VP (VBN been)
+          (ADJP (JJ great)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Large) (NN menu))
+      (, ,)
+      (NP
+        (NP (RB plenty))
+        (PP (IN of)
+          (NP
+            (NP (JJ Mexican) (NNS beers))
+            (, ,)
+            (NP (NN staff))))))
+    (VP (VBZ is)
+      (ADJP (RB super) (JJ friendly)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (DT All) (NNS kinds))
+    (PP (IN of)
+      (NP (JJ hot) (NNS sauces)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (RB Only) (JJ negative))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (MD can)
+              (VP (VB say))))))
+      (VP
+        (VP (VBZ is)
+          (NP (DT the) (NN price)))
+        (, ,)
+        (CC but)
+        (VP (VBP trust)
+          (NP (PRP me)))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (ADVP (RB well))
+      (PP (IN worth)
+        (NP (PRP$ your) (NN money))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD 'll)
+      (ADVP (RB definitely))
+      (VP (VB be)
+        (VP (VBG returning)
+          (PP (IN in)
+            (NP (DT the) (NN future))))))
+    (. .)))
+
+

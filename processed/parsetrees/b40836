@@ -1,0 +1,205 @@
+(ROOT
+  (NP
+    (NP (NNP New) (NN place) (NN opening))
+    (, ,)
+    (NP
+      (NP (NNS tons))
+      (PP (IN of)
+        (NP
+          (NP (NN work))
+          (PP (IN by)
+            (NP (JJ great) (NNS people))))))
+    (. !)))
+
+(ROOT
+  (NP
+    (NP (NNP Phoenix))
+    (NP
+      (NP (JJ indoor) (NN karting))
+      (, ,)
+      (NP (NNP hobbytown) (NNP USA))
+      (CC and)
+      (NP (DT a) (NN bar)
+        (CC and)
+        (NN grill) (NN !!)))))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBP look)
+      (ADVP (RB forward))
+      (PP (TO to)
+        (S
+          (VP
+            (VP (VBG seeing)
+              (NP (JJ new) (NNS faces)))
+            (CC and)
+            (VP (VBG getting)
+              (S
+                (VP (TO to)
+                  (VP (VB know)
+                    (S
+                      (NP (PRP you))
+                      (NP (DT all)))))))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (NNP Terribly))
+    (VP (VBD disorganized))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Youth))
+      (CC and)
+      (NP (NNS adults)))
+    (VP (VBP use)
+      (NP (JJ same) (NNS karts))
+      (, ,)
+      (PP (IN with)
+        (NP
+          (NP (NN youth))
+          (VP (VBN throttled)
+            (S
+              (ADJP (JJR slower)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJR Smaller) (NNS youths))
+    (VP (MD will)
+      (VP
+        (VP (VB need)
+          (NP (JJ pedal) (NNS extenders)))
+        (CC and)
+        (VP (VB struggle)
+          (PP (IN with)
+            (NP (NN arm) (NN strength)))
+          (S
+            (VP (TO to)
+              (VP (VB make)
+                (NP (JJ sharp) (NNS turns))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (VP (MD Can) (RB not)
+      (VP (VB redeem)
+        (NP (NNP RC) (NN car) (NNS vouchers))
+        (PP (IN after))))
+    (NP (CD 1:00) (NN p.))))
+
+(ROOT
+  (S
+    (NP (NNP Advertised))
+    (VP
+      (VP (VBP free)
+        (NP (NNP WiFi)))
+      (, ,)
+      (CC but)
+      (VP (VBD did) (RB not)
+        (VP (VB have)
+          (NP (PRP it)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VB Pure)
+      (NP (NN chaos)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Front) (NN counter) (NN staff))
+    (VP (VBD struggled)
+      (PP (IN with)
+        (NP
+          (NP (DT the) (NN computer) (NNS systems))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBD did) (RB not)
+                (VP (VB allow)
+                  (NP
+                    (NP
+                      (QP (JJR more) (IN than) (CD one))
+                      (NN transaction))
+                    (PP (IN at)
+                      (NP (DT a) (NN time)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Families))
+      (PP (IN with)
+        (NP (JJ multiple) (NNS people) (NN racing))))
+    (VP (VBP have)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (VP (VBN processed)
+              (ADVP (RB individually)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS People))
+    (VP (VBP seem)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (VP (VBN selected)
+              (PP (IN for)
+                (NP
+                  (NP (NNS races))
+                  (PP (IN at)
+                    (NP
+                      (NP (DT the) (NN whim))
+                      (PP (IN of)
+                        (NP (DT the) (NN track) (NNS attendants))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Kids) (NNS races))
+    (VP (VBP run)
+      (PP
+        (PP (IN in)
+          (NP (DT the) (JJ same) (NNS carts)))
+        (, ,)
+        (CC but)
+        (PP (IN at)
+          (NP (DT a) (JJR slower) (NN speed)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Condiments))
+      (PP (IN at) (`` ``)
+        (NP (PRP$ Your) (JJ Behind) (NN BBQ))
+        ('' '')))
+    (VP (VBP are)
+      (VP (VBN stored)
+        (PP (IN in)
+          (NP
+            (NP (NN room) (NN temp) (NN water))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBD was)
+                  (ADJP (RB likely) (JJ ice)
+                    (PP (IN at)
+                      (ADVP
+                        (NP (DT some) (NN point))
+                        (RBR earlier))))
+                  (PP (IN in)
+                    (NP (DT the) (NN day))))))))))
+    (. .)))
+
+

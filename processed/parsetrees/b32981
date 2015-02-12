@@ -1,0 +1,115 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Elegant)
+        (CC and)
+        (JJ decent) (NN selection))
+      (, ,)
+      (FRAG (CC but)
+        (PP (IN in)
+          (NP
+            (NP (PRP$ my) (NN opinion))
+            (NP (DT a) (NN bit))))))
+    (VP (VBN overpriced)
+      (PP (IN for)
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (NP (PRP you))
+            (VP (VBP get)
+              (PP (IN in)
+                (NP
+                  (NP (NNS terms))
+                  (PP (IN of)
+                    (NP (NN furniture))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VP (MD Would) (RB not)
+        (VP (VB hesitate)
+          (S
+            (VP (TO to)
+              (VP (VB shop)
+                (ADVP (RB here))
+                (PP (IN for)
+                  (NP (NNS accessories) (, ,) (NNS accents) (, ,) (NN artwork) (, ,)
+                    (CC or)
+                    (NN lighting) (NNS fixtures))))))))
+      (CC but)
+      (VP (MD would)
+        (ADVP (RB probably))
+        (VP (VB look)
+          (ADVP (RB elsewhere))
+          (PP (IN for)
+            (NP (VBG seating) (NNS options))))))
+    (. .)))
+
+
+(ROOT
+  (FRAG
+    (ADJP (JJ Great)
+      (CC and)
+      (JJ unique))
+    (ADJP (FW selection) (. !))))
+
+(ROOT
+  (NP
+    (NP (JJ Amazing) (NN design))
+    (NP (NN team))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VB Ordered)
+      (NP (JJ several) (NNS items))
+      (PP (IN from)
+        (NP (PRP them))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBD were)
+      (NP
+        (NP (NNS ups)
+          (CC and)
+          (NNS downs))
+        (PP (CC but)
+          (NP
+            (NP (DT the) (NN owner))
+            (CC and)
+            (NP (DT the) (NN manager))))
+        (SBAR
+          (S
+            (NP (NNP Steve))
+            (ADVP (RB really))
+            (VP (VBP try)
+              (S
+                (VP (TO to)
+                  (VP (VB make)
+                    (S
+                      (NP (PRP it))
+                      (VP (VB work)
+                        (PRT (RP out))
+                        (PP (IN for)
+                          (NP (PRP you)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Steve))
+    (VP (VBZ has)
+      (ADVP (RB always))
+      (VP (VBN been)
+        (ADJP (JJ great)
+          (PP (IN at)
+            (S
+              (VP (VBG following)
+                (PRT (RP up))
+                (ADVP (RB as) (RB well))))))))
+    (. .)))
+
+

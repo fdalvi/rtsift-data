@@ -1,0 +1,261 @@
+(ROOT
+  (S
+    (NP (NNP RoadHouse) (NNP Grill))
+    (VP (VBZ is)
+      (NP
+        (UCP
+          (ADJP (RB newly) (JJ opened))
+          (, ,)
+          (NP
+            (NP (NNP New) (NNP Owners))
+            (, ,)
+            (NP (JJ great) (JJ new) (NNS options))
+            (, ,)
+            (NP (JJ Great) (NN food))
+            (, ,)
+            (NP (NNP Cold))))
+        (NNS drinks)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VP (VB Karaoke))
+      (, ,)
+      (CC and)
+      (VP (VB Open)
+        (NP (NNP Mic) (NNP Nite))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP you))
+    (VP (MD will)
+      (VP (VB have)
+        (NP (NN fun))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Owner))
+      (PP (IN of)
+        (NP
+          (NP (NNP Kirks) (NNPS Sports) (NNP Bar))
+          (PP (IN in)
+            (NP (JJ downtown) (NNP Mesa))))))
+    (, ,)
+    (VP
+      (VP (VBD took)
+        (NP (DT the) (NNS controls)))
+      (CC and)
+      (VP (VBZ wants)
+        (S
+          (VP (TO to)
+            (VP (VB offer)
+              (NP (DT a) (JJ great) (NN place))
+              (S
+                (VP (TO to)
+                  (VP (VB have)
+                    (S
+                      (NP
+                        (NP (DT an) (JJ awesome) (NN evening))
+                        (CC or)
+                        (NP (JJ great) (NN place)))
+                      (VP (TO to)
+                        (VP (VB have)
+                          (NP (DT some) (JJ great) (NN meal)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Give)
+      (NP (PRP it))
+      (NP (DT a) (NN shot)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN business))
+    (VP (VBZ is)
+      (ADVP (RB formerly))
+      (VP (VBN known)
+        (SBAR (IN as)
+          (S
+            (NP (NNP RoadHouse) (NNP Caf?))
+            (VP (VBZ has)
+              (VP (VBN come)
+                (PP (IN under)
+                  (NP (JJ new) (NN ownership)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (CD 2) (JJ spacious) (NN smoking) (NNS lounges))
+      (, ,)
+      (NP (NNP Karoake))
+      (, ,))
+    (VP (VBP open)
+      (NP
+        (NP
+          (NP (CD 7) (NNS days))
+          (NP (DT a) (NN week)))
+        (ADJP (JJ open)
+          (NP (CD 11)))
+        (NN A.M))
+      (PP (TO to)
+        (NP (CD 2) (NN A.M))))))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN establishment))
+    (VP (VBZ is)
+      (ADVP (RB no) (RB longer))
+      (PP (IN in)
+        (NP (NN business))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN phone) (NN number))
+    (VP (VBZ is)
+      (NP
+        (NP (NN someone) (POS 's))
+        (JJ private) (NN number)))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP
+      (NP
+        (ADJP (RB Newly) (JJ open))
+        (NN establishment))
+      (PP (IN with)
+        (NP (JJ friendly) (NN service))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS bartenders))
+      (VP (VBP are)
+        (ADJP (JJ great))))
+    (, ,)
+    (NP (JJ second) (NN time))
+    (ADVP (RB there))
+    (VP (VBD had)
+      (S
+        (NP
+          (NP (DT a) (NN sample))
+          (PP (IN of)
+            (NP (NN beer))))
+        (ADJP (JJ ready)
+          (PP (IN for)
+            (NP (PRP me))))
+        (SBAR (IN before)
+          (S
+            (NP (PRP I))
+            (VP
+              (ADVP (RB even))
+              (VBD sat)
+              (PRT (VBP down)))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP (RB Very) (JJ clean))
+    (S
+      (VP (VBG looking)
+        (NP
+          (NP (NN place))
+          (CC and)
+          (NP
+            (ADVP (RB also))
+            (DT a)
+            (ADJP (RB very) (JJ diverse))
+            (NN menu)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Service))
+      (SBAR
+        (S
+          (VP (VBD was)
+            (NP
+              (NP (DT a) (JJ little))
+              (SBAR
+                (S
+                  (VP (VBZ weak))
+                  (, ,))))
+            (, ,))
+          (, ,))))
+    (, ,)
+    (PRN (, ,)
+      (S (, ,)
+        (NP (NNP Bartender))
+        (VP (VBD was)
+          (ADVP (RB also))
+          (NP
+            (NP (DT the) (NN cook))
+            (: ...)
+            (NP
+              (NP (DT NO) (CD ONE))
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (NN place))
+                  (PP (IN at)
+                    (NP
+                      (NP (CD 12:30) (NN pm))
+                      (PP (IN on)
+                        (NP (DT a) (NNP Friday)))))))
+              (SBAR
+                (S
+                  (VP (MD should)
+                    (VP (VB have)
+                      (VP (VBN clued)
+                        (NP (PRP me))
+                        (PP (IN in))))))))
+            (: ...)))
+        (. .)))
+    (VP (VBD took)
+      (ADVP (RB forever))
+      (S
+        (VP (TO to)
+          (VP (VB get)
+            (NP (PRP$ my) (NN lunch))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBD was)
+        (ADJP (JJ cold))))
+    (, ,)
+    (NP (DT the) (NN fry) (NN grease))
+    (VP (VBD looked)
+      (SBAR (RB as) (IN if)
+        (S
+          (NP (PRP it))
+          (VP (VBD had) (RB n't)
+            (VP (VBN been)
+              (VP (VBN changed)
+                (PP (IN since)
+                  (NP (DT the) (CD 90) (NNS 's)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Pastrami) (NN sandwich) (NN tasted) (NNS spoiled))
+    (: ...)
+    (VP (MD would) (RB not)
+      (VP (VB recommend)))
+    (. .)))
+
+

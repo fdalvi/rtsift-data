@@ -1,0 +1,73 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP dont)
+      (VP (VB find)
+        (NP (PRP myself))
+        (PP (IN in)
+          (NP
+            (NP (NNP River) (NNP Island))
+            (ADJP (RB too) (JJ much))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP dont)
+      (VP (VB think)
+        (NP
+          (NP (DT the) (NNS clothes))
+          (SBAR
+            (S
+              (NP (PRP they))
+              (VP (VBP sell)
+                (ADJP (RB particulary) (JJ different)
+                  (CC or)
+                  (JJ interesting))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB However))
+      (NP (PRP they))
+      (VP (VBP do)
+        (VP (VB sell)
+          (NP (DT some) (JJ lovely) (NN maxi) (NNS dresses))
+          (PP (IN for)
+            (NP (DT the) (NN summer))))))
+    (CC but)
+    (S
+      (NP (DT this))
+      (VP (VBZ is)
+        (ADJP (RB only) (JJ avaliable)
+          (PP (IN in)
+            (NP (DT the) (JJ largers) (NNS stores))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ few) (NNS times))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBP have)
+            (VP (VBN entered)
+              (S
+                (NP (DT this) (NN retailer))
+                (NP (PRP I))))))))
+    (VP (VBP have)
+      (VP (VBN found)
+        (NP
+          (NP (DT the) (NNS attitudes))
+          (PP (IN of)
+            (NP (DT the) (NN staff))))
+        (NP (RB much))
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (ADJP (JJ desired)))))))
+    (. .)))
+
+

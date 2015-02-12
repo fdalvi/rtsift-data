@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP love)
+      (NP (NNP Sabrina)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP She))
+      (VP (VBD did)
+        (NP (PDT such) (DT a) (JJ good) (NN job))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (NP
+          (NP (CD one))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (JJS best) (NNS experiences))
+              (SBAR
+                (S
+                  (NP (PRP I))
+                  (VP (VBP 've)
+                    (VP (VBN had))))))))))
+    (. .)))
+
+

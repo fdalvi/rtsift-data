@@ -1,0 +1,345 @@
+(ROOT
+  (S
+    (NP (NNP Awesome))
+    (VP (VBP place))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT Every) (NNP Sunday))
+      (PP (IN from)
+        (NP
+          (QP (CD 10AM) (TO to) (CD 2)))))
+    (VP (VBP PM))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Food) (NNP Fun))
+    (VP (VBG shopping))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Great))
+    (NP (NNS people))
+    (. .)))
+
+(ROOT
+  (NP (JJ Awesome) (NNS Items)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (ADVP (RB just))
+      (VP (VBD moved)
+        (ADVP (RB here))
+        (NP (DT a) (JJ few) (NNS weeks))
+        (ADVP (RB ago)
+          (CC and)
+          (RB on))
+        (NP (NNP Sunday))
+        (, ,)
+        (ADVP
+          (NP (CD two) (NNS days))
+          (RB ago))))
+    (, ,)
+    (S
+      (NP (PRP$ my) (JJ pregnant) (NN belly))
+      (VP (VBD was)
+        (NP
+          (NP (NN craving) (NNS bananas)
+            (CC and)
+            (NN pineapple))
+          (, ,) (RB so)
+          (NP (PRP$ my) (NNS hubs)))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBD went)
+        (S
+          (VP (TO to)
+            (VP (VB drive)
+              (PP (IN toward)
+                (NP (NNP Fry) (POS 's))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN On)
+      (NP (PRP$ our) (NN way)))
+    (PRN (, ,)
+      (S
+        (NP (PRP we))
+        (VP (VBP see)
+          (NP
+            (NP (DT a) (NN guy))
+            (VP (VBG holding)
+              (NP
+                (NP (DT a) (NN sign))
+                (PP (IN for)
+                  (NP (DT the) (NNS farmers) (NN market))))))))
+      (, ,))
+    (NP (PRP we))
+    (DT both)
+    (VP (VBD thought)
+      (SBAR
+        (S
+          (S
+            (NP (DT that))
+            (VP (VBD was)
+              (NP (DT a) (JJ great) (NN idea))))
+          (CC and)
+          (S
+            (NP (DT the) (NN fruit))
+            (VP (MD will)
+              (VP (VB be)
+                (ADJP (JJR better))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP
+      (VP (VBD turned)
+        (PRT (RP around)))
+      (, ,)
+      (VP (VBD pulled)
+        (PRT (RP in)))
+      (CC and)
+      (VP (VBD went)
+        (PP (TO to)
+          (NP (DT the) (`` ``) (JJ farmers) (NN market)))))
+    (. .)))
+
+(ROOT
+  (S ('' '')
+    (S
+      (SBAR (IN While)
+        (S
+          (S
+            (VP (VBG walking)
+              (S
+                (NP (PRP we))
+                (VP (VB see)
+                  (NP (NNS signs))
+                  (PP (IN about)
+                    (NP (JJ organic) (NNS apples)))))))
+          (CC and)
+          (S
+            (NP
+              (NP
+                (FRAG
+                  (NP (JJ fresh) (NN fruit) (. .))
+                  (. .)))
+              (PP (IN but)
+                (SBAR
+                  (WHADVP (WRB when))
+                  (S
+                    (NP (PRP we))
+                    (ADVP (RB actually))
+                    (VP (VBD got)
+                      (ADVP (RB there))))))))))
+      (, ,)
+      (NP
+        (NP (DT the) (JJ only) (NN fruit))
+        (SBAR
+          (S
+            (NP (EX there))
+            (VP (VBD was)))))
+      (VP (VBD was)
+        (NP
+          (NP (DT a) (NN vendor) (VBG selling) (NN juice))
+          (CC and)
+          (NP
+            (NP (DT a) (NN man))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBD had)
+                  (NP (DT a) (JJ single) (NN bell) (NN pepper)))))))))
+    (CC and)
+    (S
+      (NP (DT a) (NN melon))
+      (ADVP (DT both))
+      (VP (VBD covered)
+        (PP (IN in)
+          (NP (NN dirt)))
+        (: ...)
+        (SBAR
+          (ADVP (RB probably))
+          (IN because)
+          (S
+            (NP (PRP it))
+            (VP (VBD was)
+              (ADVP (RB inside))
+              (PP (IN of)
+                (NP (DT a)
+                  (ADJP (RB very) (JJ dirty))
+                  (NN crate))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBD looked)
+        (PRT (RP around))))
+    (, ,)
+    (NP (EX there))
+    (VP (VBD were)
+      (NP
+        (NP
+          (NP (CD three) (JJ other) (NNS vendors))
+          (NP (RB there)))
+        (, ,)
+        (NP
+          (NP
+            (NP (NN none))
+            (PP (IN of)
+              (FRAG
+                (SBAR
+                  (WHNP (WDT which))
+                  (S
+                    (VP (VBD cosisted)
+                      (PP (IN of)
+                        (NP
+                          (NP (DT any) (NN fruit))
+                          (CC or)
+                          (NP (JJ edible) (NNS items))))
+                      (PP (IN at)
+                        (NP (DT all)))))
+                  (. .)))))
+          (. .)
+          (NP
+            (NP (NN someone) (NN selling) (NN bath) (NNS loufas))
+            (CC and)
+            (NP (JJ cheap) (NN jewelry))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ My) (NNS hubs))
+      (CC and)
+      (NP (PRP I)))
+    (VP (VBD were)
+      (ADJP (VBN stunned)
+        (SBAR (IN that)
+          (S
+            (NP (DT this))
+            (VP (VBD was)
+              (NP (DT the) (NNS farmers) (NN market)))
+            (. .))
+          (. .)))
+      (ADVP (RBR more)
+        (PP (IN like)
+          (NP (DT a) (JJ crappy) (NN garage) (NN sale)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD were)
+      (NP
+        (NP (RB there))
+        (PP (IN around)
+          (NP
+            (NP (CD 12:30))
+            (SBAR
+              (FRAG
+                (SBAR (IN so)
+                  (S
+                    (NP (EX there))
+                    (VP (MD should)
+                      (VP (VB have)
+                        (VP (VBN been)))))
+                  (. .))
+                (. .)))))
+        (NP (NN something))))
+    (. !)))
+
+(ROOT
+  (S
+    (SQ (MD Will)
+      (VP
+        (ADVP (RB never))
+        (VB go)
+        (ADVP (RB back) (RB here))
+        (ADVP (RB again)))
+      (. .))
+    (. .)
+    (NP (NN weirdest) (NNS farmers))
+    (VP (VBP market)
+      (SBAR
+        (S
+          (NP (FW i))
+          (VP (VBP 've)
+            (ADVP (RB ever))
+            (VP (VBN been)
+              (ADVP (RB too)))))))
+    (. .)))
+
+
+(ROOT
+  (SINV
+    (VP (VBZ Love))
+    (NP
+      (NP (DT the) (JJ fresh) (NNS veggies))
+      (, ,)
+      (NP
+        (NP (NN honey)
+          (CC &)
+          (NNS eggs))
+        (NP (NNP !!))))))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP (JJ REAL) (NN food) (NNS !!!)))))
+
+(ROOT
+  (FRAG
+    (S
+      (NP (PRP I))
+      (ADVP (RB also))
+      (VP (VBP am)
+        (ADJP (JJ crazy)
+          (PP (IN about)
+            (NP (DT the) (NNP Bootlegger) (NNP BBQ) (NNP Sauce) (NNP !!))))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Perfect))
+      (CC and)
+      (NP (DT the) (JJ other) (NNS sellers)))
+    (VP (VBP are)
+      (ADJP (JJ awesome))
+      (, ,)
+      (ADVP (RB too)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB recommend)
+        (NP (DT this))
+        (PP (TO to)
+          (NP
+            (NP (NN anyone))
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBZ is)
+                  (VP (VBG wanting)
+                    (NP
+                      (ADJP (JJ fresh) (, ,) (JJ wholesome) (, ,) (RB gmo) (JJ free))
+                      (NN food) (NNS !!))))))))))))
+
+

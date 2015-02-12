@@ -1,0 +1,100 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would) (RB not)
+      (VP (VB recommend)
+        (S
+          (VP (VBG doing)
+            (NP
+              (NP (JJ promotional) (NN work))
+              (PP (IN with)
+                (NP (PRP them))))
+            (ADVP (RB either))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP are)
+      (VP (VBG running)
+        (NP (DT a) (JJ horrible) (NN business))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP (RB Completely) (JJ unprofessional)
+      (CC and)
+      (JJ unethical))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VB Do) (RB not)
+      (VP (VB get)
+        (VP (VBN wrapped)
+          (PRT (RP up))
+          (PP (IN with)
+            (NP (DT this) (NN company))))))
+    (. .)))
+
+
+(ROOT
+  (FRAG
+    (ADJP (RB Ridiculously) (JJ unprofessional))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Steer))
+      (VP (VBP clear)))
+    (: -)
+    (S
+      (SBAR (IN if)
+        (S
+          (NP (PRP you))
+          (VP (VBP do)
+            (S
+              (VP (VB get)
+                (VP (VBN paid)))))))
+      (, ,)
+      (NP (PRP it))
+      (VP (MD will)
+        (VP (VB be)
+          (NP
+            (NP (RB only) (DT a) (NN portion))
+            (PP (IN for)
+              (NP (DT no) (NN reason)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP First) (NN job))
+    (VP (VBD was)
+      (VP (VBN paid)
+        (S
+          (ADVP (RB eventually)))
+        (, ,)
+        (ADJP (JJ late))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN After)
+      (S
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (NNS issues))
+            (VP (VBD began))))
+        (, ,)
+        (ADVP (RB still))
+        (VP (VBD owed)
+          (NP ($ $) (CD $)))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (VP (VBN been)
+        (NP (DT a) (NN year))))
+    (. !)))
+
+

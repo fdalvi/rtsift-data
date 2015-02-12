@@ -1,0 +1,160 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (ADVP (RB frequently))
+      (VP (VB visit)
+        (NP (DT this) (NN location))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADJP (JJ awesome))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN staff))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (JJ friendly))
+        (CC and)
+        (ADJP (RB even) (JJ helpful)))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP I))
+          (ADVP (RB accidentally))
+          (VP (VB spill)
+            (NP (PRP$ my) (NN drink))
+            (PP (IN in)
+              (NP (DT the) (NN store)))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBP are)
+      (NP
+        (NP (RB plenty))
+        (PP (IN of)
+          (NP
+            (NP (NN gas) (NNS pumps))
+            (ADVP (RB so) (RB that) (RB even)
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (PRP they))
+                  (VP (VBP are)
+                    (ADJP (JJ busy)
+                      (SBAR
+                        (S
+                          (NP (PRP I))
+                          (ADVP (RB never))
+                          (VP (VBP have)
+                            (S
+                              (VP (TO to)
+                                (VP (VB wait))))))))))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Plethora))
+    (PP (IN of)
+      (NP (NN parking) (NNS options)))
+    (ADVP (RB too))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBP have) (RB n't)
+        (VP (VBN had)
+          (NP (DT the) (NN opportunity))
+          (S
+            (VP (TO to)
+              (VP (VB try)
+                (NP (DT the) (NN car) (NN wash))
+                (ADVP (RB yet)))))))
+      (CC but)
+      (VP (VBP am)
+        (ADJP (RB very) (JJ excited)
+          (SBAR
+            (S
+              (NP (PRP they))
+              (VP (VBP have)
+                (NP (DT a) (JJ working) (NN vacuum))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP
+        (NP (PRP$ my) (NN morning) (NN drink) (NN stop))
+        (CC and)
+        (NP (PRP$ my) (JJ late) (NN night) (NN snack) (NN spot))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Love)
+      (NP (PRP it)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (DT The) (NNS employees))
+    (ADVP (RB here))
+    (VP (VBP are)
+      (ADVP (RB always))
+      (ADJP
+        (ADJP (JJ friendly))
+        (CC and)
+        (ADJP (RB so) (JJ sweet)))
+      (PP (TO to)
+        (NP (PRP$ my)
+          (ADJP (CD 3.5) (NN year) (JJ old))
+          (NN son))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP have)
+        (NP (NN fun) (NNS conversations))
+        (PP (IN with)
+          (NP (PRP him)))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ makes)
+        (NP (PRP$ his) (NN day))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (SBAR
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (NP (NN customer) (NNS services))
+            (VP (VBZ is) (RB all)
+              (ADJP (IN about)))))
+        (CC and)
+        (SBAR
+          (WHADVP (WRB why))
+          (S
+            (NP (PRP we))
+            (VP (VBP go)
+              (ADVP (RB back))
+              (PP (TO to)
+                (NP (DT this) (NN location))))))))
+    (. .)))
+
+

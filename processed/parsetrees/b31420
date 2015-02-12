@@ -1,0 +1,273 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 'm)
+        (ADJP (JJ new)
+          (PP (TO to)
+            (NP (NN town))))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (ADJP (JJ hard)
+          (S
+            (VP (TO to)
+              (VP (VB find)
+                (NP (DT a) (NN post) (NN office))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB somehow))
+      (NP (PRP I))
+      (VP (VBD came)
+        (PP (IN along)
+          (NP (DT this) (NN one)))))
+    (: ...)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (PP (IN inside)
+          (NP (DT the) (NN asian) (NN supermarket)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBD was)
+      (ADVP (RB just)
+        (NP (CD one) (NN person)))
+      (VP (VBG working)
+        (ADVP (RB there))
+        (PP (IN in)
+          (NP
+            (NP (DT a) (NN desk))
+            (PP (IN like)
+              (NP (NN environment)))))))
+    (. .)))
+
+(ROOT
+  (SQ
+    (VP (VB Guess)
+      (NP (PRP$ its) (NN contracted))
+      (PRT (RP out)))
+    (. ?)))
+
+(ROOT
+  (S (CC But)
+    (NP (PRP I))
+    (VP (VBD was)
+      (ADJP (JJ able))
+      (S
+        (VP (TO to)
+          (VP
+            (VP (VB get)
+              (NP (PRP$ my) (NNS stamps)))
+            (CC and)
+            (VP (VB mail)
+              (NP (PRP$ my) (NN mail))
+              (PRT (RP out))))))
+      (: ...)
+      (SBAR
+        (ADVP (RB Now) (RB sure))
+        (WHNP (WP what))
+        (S
+          (NP
+            (NP (JJ other) (NNS services))
+            (SBAR
+              (S
+                (NP (PRP they))
+                (VP
+                  (VP (VBP offer))
+                  (, ,)
+                  (CC but)
+                  (VP (VBD seemed)
+                    (PP (IN like)
+                      (NP (PRP they))))))))
+          (VP (MD could)
+            (VP (VB do)
+              (NP
+                (NP (JJS most))
+                (PP (IN of)
+                  (NP (DT the) (NNS services)))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Stay))
+    (VP (VBP clear)
+      (PP (IN of)
+        (NP (DT all) (NNP USPS))))
+    (. .)))
+
+(ROOT
+  (VP (VB Use)
+    (NP (DT some) (JJ other) (NN business))
+    (SBAR
+      (WHADVP (WRB whenever))
+      (S
+        (ADJP (JJ possible))))))
+
+
+(ROOT
+  (FRAG
+    (ADJP (RB Relatively) (JJ quick))
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (PRP I))
+        (VP (VBD stopped)
+          (PP (IN in)
+            (ADVP
+              (NP (DT a) (JJ few) (NNS days))
+              (RB ago))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNP PO))
+      (VP
+        (VP (VBZ is)
+          (VP (VBN hit)))
+        (CC or)
+        (VP (VBP miss))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ depends)
+        (PP (IN on)
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBZ 's)
+                (PP (IN behind)
+                  (NP (DT the) (NN counter)))))))))
+    (. .)))
+
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (NNP Quick))
+      (, ,)
+      (ADJP
+        (ADJP (JJ friendly))
+        (CC and)
+        (ADJP (RB very) (JJ helpful))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD needed)
+      (S
+        (VP (TO to)
+          (VP (VB send)
+            (NP (NNS postcards))
+            (PP (TO to)
+              (NP (PRP$ my) (NNS friends)))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP$ my) (NNS postcards))
+    (VP (VBD did) (RB n't)
+      (VP (VB suit)
+        (PP (TO to)
+          (NP (DT any) (NN envelope)))
+        (ADVP (RB properly))))
+    (. .)))
+
+(ROOT
+  (S (IN So)
+    (NP
+      (NP (DT the) (NN guy))
+      (PP (IN over)
+        (NP (RB there))))
+    (VP
+      (VP (VBD helped)
+        (S
+          (NP (PRP me))
+          (VP (TO to)
+            (VP (VB put)
+              (NP (PRP them))
+              (PP (IN into)
+                (NP (JJR smaller) (NN envelope)))))))
+      (CC and)
+      (VP (VBZ glue)
+        (NP (PRP it))
+        (PRT (RP up))
+        (PP (IN with)
+          (NP (DT the) (NN tape)))))
+    (. .)))
+
+(ROOT
+  (S (RB Then)
+    (NP (PRP I))
+    (VP (VBD messed)
+      (PRT (RP up))
+      (PP (IN with)
+        (NP (NN address)))
+      (SBAR (IN so)
+        (S
+          (NP (PRP he))
+          (VP (VBD helped)
+            (S
+              (NP (PRP me))
+              (VP (TO to)
+                (VP (VB fix)
+                  (NP (PRP it))
+                  (PP (IN on)
+                    (NP (DT the) (JJ same) (NN envelope))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT That) (NN envelope))
+      (VP (VBZ is)
+        (NP (JJ total) (NN hardcore))))
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBP know)
+        (SBAR
+          (S
+            (NP (PRP$ my) (NNS friends))
+            (VP (MD will)
+              (VP (VB have)
+                (NP (NN fun))
+                (S
+                  (VP (TO to)
+                    (VP (VB receive)
+                      (NP (PRP it)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Usually))
+    (NP
+      (NP (NNS people))
+      (UCP
+        (ADJP
+          (ADJP (RB not) (RB very) (JJ helpful))
+          (PP (IN in)
+            (NP (NN post) (NN office))))
+        (CC but)
+        (ADVP (RB there))))
+    (NP (PRP I))
+    (VP (VBD had)
+      (NP (RB really) (JJ pleasant) (NN experience)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Thank)
+      (NP (PRP you)))
+    (. !)))
+
+

@@ -1,0 +1,490 @@
+(ROOT
+  (NP (NNP Love) (NNP Hello) (NNP Kitty) (. ?)))
+
+(ROOT
+  (S
+    (ADVP (RB Well))
+    (NP (PRP you))
+    (VP (MD 'll)
+      (VP (VB love)
+        (NP
+          (NP (DT this) (NN store))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBZ has)
+                (NP
+                  (NP (DT a) (NN variety) (NN HK) (NN merchandise))
+                  (CC and)
+                  (NP (JJ other) (NNP Sanrio) (NNS characters)))
+                (ADVP (RB too))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Tokyo) (NNP World))
+    (VP (VBZ is)
+      (NP
+        (NP (NN part))
+        (PP (IN of)
+          (NP (DT the) (NNP Tokyo) (NNP Discount) (NN chain)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (JJ new) (NN store))
+    (VP
+      (VP (VBZ is)
+        (ADJP (JJR smaller)))
+      (CC but)
+      (VP (VBZ is)
+        (VP (VBN stocked)
+          (PP (IN with)
+            (NP
+              (NP (DT the)
+                (ADJP (RBR more) (JJ popular))
+                (JJ Japanese) (NNS imports))
+              (PP (IN like)
+                (NP (NNP Green) (NNP Tea) (NNP Kit) (NNPS Kats))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBD made)
+      (S
+        (NP (PRP me))
+        (ADJP (JJ happy))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN location))
+    (VP (VBZ is)
+      (PP (IN on)
+        (NP
+          (NP (DT the) (JJR lower) (NN level))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NNP Galleria) (NN Mall))
+              (PP (IN near)
+                (NP (NNP JCPenney))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Tokyo) (NN world))
+    (VP (VBZ is)
+      (ADJP (RB absolutely) (JJ amazing)
+        (CC and)
+        (JJ awesome)))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VB Nice)
+      (NP
+        (NP (NNS employees))
+        (, ,)
+        (NP
+          (ADJP (JJ adorable)
+            (CC and)
+            (JJ cute))
+          (NNS items))))
+    (. !)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP 're)
+          (PP (IN into)
+            (NP
+              (ADJP (JJ anime)
+                (CC and)
+                (JJ hello))
+              (NN kitty))))))
+    (, ,)
+    (NP (PRP you))
+    (VP (MD should)
+      (ADVP (RB definitely))
+      (VP (VB go)
+        (ADVP (RB here))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Definitely))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBG going)
+          (ADVP (RB here))
+          (PP (IN for)
+            (NP
+              (NP (DT every) (NNS holidays))
+              (PP (IN for)
+                (NP (NNS presents))))))))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (NP (JJ Cheap) (NNS prices))
+    (ADVP (RB too))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Tokyo) (NNP discount))
+    (: /)
+    (NP (NN world))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Love)
+      (NP (DT this) (NN place))
+      (PP (TO to)
+        (NP (NN death))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (ADJP (RB just) (RB soooo) (JJ excited)
+        (SBAR
+          (S
+            (NP (EX there))
+            (VP (VBZ 's)
+              (NP
+                (NP (CD one))
+                (PP (IN in)
+                  (NP (DT a) (NN mall))))
+              (ADVP (RB now)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (CD 5))
+    (VP (VBZ stars)
+      (S
+        (VP (TO to)
+          (VP (VB say)
+            (NP (DT the) (NN LEAST))))))
+    (. !)))
+
+
+(ROOT
+  (SINV
+    (ADVP (RB Finally))
+    (VP (VBD opened))
+    (NP (DT another) (JJ stationary) (NN store))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP hate)
+        (SBAR
+          (WHADVP (WRB how))
+          (S
+            (NP (NNP Morning) (NNP Glory))
+            (VP (VBD closed))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT this) (NN store))
+      (VP (VBD was)
+        (ADJP (JJ great))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB always))
+    (VP (VBP go)
+      (PP (TO to)
+        (NP
+          (NP (DT the) (NNP Tokyo) (NNP Discount))
+          (PP (IN in)
+            (NP
+              (NP (NNP California))
+              (PRN (-LRB- -LRB-)
+                (PP (CC but)
+                  (NP
+                    (NP (DT a) (CD 4) (NN hour) (NN drive))
+                    (, ,)
+                    (NP (RB just) (DT no))))
+                (-RRB- -RRB-)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (ADVP (RB only))
+      (VP (VBD bought)
+        (NP (DT a) (NN pencil))
+        (ADVP (RB here))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (MD 'll)
+        (ADVP (RB definitely))
+        (VP (VB be)
+          (ADVP (RB back)
+            (PP (IN for)
+              (ADVP (RBR more)))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (ADJP (JJ glad)
+        (SBAR
+          (S
+            (NP (PRP they))
+            (VP (VBP have)
+              (NP (DT an) (JJ anime) (NN store))))))
+      (SBAR
+        (ADVP (RB here))
+        (IN since)
+        (S
+          (NP (PRP I))
+          (VP (VBP love)
+            (ADJP (JJ anime))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Sadly))
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (ADJP
+        (ADJP (RB mostly) (RB hello) (JJ kitty))
+        (CC and)
+        (ADJP (RB not) (JJ anime))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP have)
+        (NP (DT some)
+          (ADJP (RB pretty) (JJ cute))
+          (NNS things))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP love)
+        (S
+          (VP (VBG looking)
+            (PRT (RP around))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD gave)
+      (NP (PRP it))
+      (NP (CD 3) (NNS stars))
+      (SBAR (IN because)
+        (S
+          (NP (PRP it))
+          (VP (VBZ 's)
+            (ADVP (RB SO))
+            (ADJP (JJ expensive))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD bought)
+      (NP (DT a) (JJ small) (NN cup))
+      (PP (IN for)
+        (NP (CD 15) (NNS dollars))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Probably))
+      (VP (VBD sold)
+        (ADVP (RB somewhere) (RB else))
+        (PP (IN for)
+          (PP (IN like)
+            (NP (CD 6))))))
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBD loved)
+        (NP (PRP it))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP (DT some) (JJ Japanese) (NNS snacks)
+        (CC and)
+        (JJ other) (NNS things)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP try)
+        (ADVP (RB never))
+        (S
+          (VP (TO to)
+            (VP (VB buy)
+              (NP (DT these) (JJ expansive) (NNS things)))))))
+    (CC but)
+    (S
+      (NP (PRP I))
+      (ADVP (RB always))
+      (VP (VBP love)
+        (S
+          (VP (VBG looking)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (JJ Cute) (NN lil) (NN hk))
+    (VP (VBP store)
+      (PP (IN in)
+        (NP (DT the) (NN mall))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBD heard)
+        (PP (IN about)
+          (NP (DT this) (NN store) (NN theu) (NN yelp))))
+      (CC and)
+      (VP (VBD thought)
+        (SBAR
+          (S
+            (NP (FW i))
+            (VP (MD 'd)
+              (VP (VB check)
+                (NP (PRP it))
+                (PRT (RP out))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Tiny) (NN store))
+    (, ,)
+    (VP (VBN filled)
+      (PP (IN with)
+        (NP (DT the) (JJ tokyo) (NN discount) (NNS goods))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP$ Its))
+      (VP (VBP ok)
+        (PP (IN for)
+          (NP (DT the) (JJS most) (NN part)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (MD 'd) (RB rather)
+        (VP (VB go)
+          (PP (TO to)
+            (NP (PRP$ their) (NN sister) (NNS stores)))
+          (PP (IN around)
+            (NP
+              (NP (NN town))
+              (PRN (-LRB- -LRB-)
+                (S
+                  (NP (PRP they))
+                  (VP (VBP have)
+                    (NP (DT a) (JJR bigger) (NN selection))))
+                (-RRB- -RRB-)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Tiny))
+      (PP (CC but)
+        (NP (DT this))))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ good) (NN store))
+        (PP (IN for)
+          (NP
+            (NP (NNS times))
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP you))
+                (VP (VBP 're) (RB not)
+                  (ADJP (JJ sure)
+                    (SBAR
+                      (WHNP (WP what))
+                      (S
+                        (VP (TO to)
+                          (VP (VB get)
+                            (NP (NN someone))
+                            (PP (IN for)
+                              (NP (DT a) (NN gift)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (MD 'll)
+      (VP (VB end)
+        (PRT (RP up))
+        (S
+          (VP (VBG deciding)
+            (PP (IN within)
+              (NP (NN time)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP like)
+      (NP
+        (NP (DT the) (NN air) (NNS fresheners))
+        (CC &)
+        (NP (DT the) (NN rilakuma) (NN selection))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Love)
+      (NP (DT this) (NN store)))
+    (, ,)
+    (ADVP (RB always))
+    (VP (VBN stocked)
+      (PRT (RP up))
+      (PP (IN with)
+        (NP (JJ new) (NNS items))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB love)
+      (NP (PRP it)))
+    (. .)))
+
+

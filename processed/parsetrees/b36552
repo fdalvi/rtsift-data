@@ -1,0 +1,444 @@
+(ROOT
+  (SBARQ
+    (NP (CD Wow))
+    (, ,)
+    (WHNP (WRB how) (JJ amazing))
+    (SQ (VBZ is)
+      (NP (PRP it))
+      (VP (TO to)
+        (VP (VB get)
+          (NP (JJ first) (NN review))
+          (PP (IN for)
+            (NP
+              (NP (DT a) (NN restaurant))
+              (PP (IN on)
+                (NP (DT the) (NNP Las) (NNP Vegas) (NNP Strip))))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (VP (VBD :--RRB-) (-RRB- -RRB-)
+      (NP
+        (NP (RB Here))
+        (ADJP
+          (NP (PRP we))
+          (JJ have)))
+      (NP (NNP Snack) (CD Nook)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT This) (JJ little) (NN place))
+    (VP (VBZ lives)
+      (PP (IN within)
+        (NP
+          (NP (DT the) (NNP Casino) (NNP Royale) (NN food) (NN court))
+          (CC &)
+          (NP (NNS features))))
+      (NP
+        (NP
+          (NP
+            (NP (NNP Noble) (NNP Roman) (POS 's))
+            (NNP Pizza))
+          (, ,)
+          (NP (DT a) (NN Subway)))
+        (, ,)
+        (CC &)
+        (NP
+          (NP
+            (NP (NNP Snack) (NNP Nook))
+            (ADVP (RB here)))
+          (, ,)
+          (SBAR
+            (WHADVP (WRB where))
+            (S
+              (NP
+                (QP (RB just) ($ $) (CD 1.99)))
+              (VP (VBZ brings)
+                (NP (PRP you))
+                (NP
+                  (NP (DT a) (JJ hot) (NN dog))
+                  (PP (IN with)
+                    (NP
+                      (NP (DT a)
+                        (ADJP (JJ tasty)
+                          (NP (CD 13)))
+                        ('' '') (NN weiner))
+                      (PP (IN in)
+                        (NP (DT an) (CD 11) ('' '') (NN bun))))))
+                (, ,)
+                (PP (IN with)
+                  (NP
+                    (NP (JJ help-yourself) (NN mustard))
+                    (, ,)
+                    (NP (NNS onions))
+                    (CC &)
+                    (NP (NN relish))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD put)
+      (PP (IN on)
+        (NP
+          (NP (DT some) (NN mustard))
+          (CC &)
+          (NP
+            (NP (RB then))
+            (VP (VBN had)
+              (S
+                (NP (PRP them))
+                (VP (VB add)
+                  (NP (NNS chili))
+                  (PP (IN for)
+                    (NP
+                      (NP (CD 89) (NNS cents))
+                      (, ,)
+                      (NP (SYM &))))))
+              (SBAR
+                (WHNP (WP what))
+                (S
+                  (NP (PRP you))
+                  (VP (VB end)
+                    (PRT (RP up))
+                    (SBAR (IN with)
+                      (S
+                        (VP (VBZ is)
+                          (NP
+                            (NP (DT a) (JJ great) (NN snack))
+                            (PP (IN for)
+                              (NP ($ $) (CD 2.88)))))))))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ 's)
+      (NP (DT a) (JJ comfortable) (NN dining) (NN area))
+      (ADVP (RB too)))
+    (. .)))
+
+(ROOT
+  (SQ
+    (S
+      (NP (NNP :--RRB-))
+      (VP (VBG Speaking)
+        (PP (IN of)
+          (NP (NNS dogs)))))
+    (, ,)
+    (SQ (VBP are)
+      (NP (PRP you))
+      (NP (DT a) (NN horndog) (JJ single))
+      (PP (IN from)
+        (S
+          (VP (VB say)
+            (NP
+              (NP
+                (QP (CD 35) (TO to) (CD 99)))
+              (PP (IN in)
+                (NP (NNP Vegas))))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (FRAG
+        (ADVP (RB so))))
+    (, ,)
+    (NP
+      (NP (NN whip))
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (ADVP (RB ever))
+          (VP
+            (ADVP (NN kind) (IN of))
+            (VBD doghood)
+            (NP (PRP you))))))
+    (VP (VBP have)
+      (PP (IN in)
+        (NP
+          (NP (RB here))
+          (CC &)
+          (NP
+            (NP (NN plant))
+            (NP (PRP it)))))
+      (PP (IN at)
+        (NP
+          (NP
+            (NP (DT the) (NN jumpin) (POS '))
+            (NNP Casino) (NNP Royale) (NN bar))
+          (PP (IN for)
+            (NP
+              (NP (PRP$ your) (JJ great) (NN hookup))
+              (PP (IN with)
+                (NP (DT another) (JJ like-minded) (NN tourist))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Hey))
+      (, ,)
+      (SBAR (`` ``)
+        (WHNP (WP What))
+        (S
+          (VP (VBZ happens)
+            (PP (IN in)
+              (NP (NNP Vegas)))))))
+    (VP (VBZ stays)
+      (PP (IN in)
+        (NP (NNP Vegas))))
+    (. !)))
+
+(ROOT
+  (PRN
+    (S
+      (NP (NNP ''))
+      (VP (VBZ :--RRB-)))
+    (-RRB- -RRB-)))
+
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP do)
+      (NP (PRP you))
+      (VP (VB want)
+        (PP (IN from)
+          (NP (DT a) (NN foot)))
+        (NP
+          (NP (JJ long) (JJ hot) (NN dog))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBZ costs)
+                (NP
+                  (QP ($ $) (CD 2) (CD ?!?)))))))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Decent) (NN taste))
+      (PP (IN for)
+        (NP (DT this) (NN skinny))))
+    (VP (VBZ wiener))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB actually))
+    (VP (VBP make)
+      (SBAR
+        (S
+          (NP (DT the) (NN meat))
+          (VP (VBP look)
+            (ADVP (RB longer)
+              (PP (IN by)
+                (S
+                  (VP (VBG putting)
+                    (NP (PRP it))
+                    (PP (IN on)
+                      (NP (DT a) (JJR shorter) (NN bun)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Good))
+    (VP (VBZ eats)
+      (PP (IN for)
+        (NP
+          (NP (JJ low) (NN pricing))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBZ is)
+                (ADVP (RB always))
+                (NP
+                  (NP (DT a) (JJ good) (NN thing))
+                  (PP (IN in)
+                    (NP (PRP$ my) (NN book))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBZ is)
+      (VP (VBN located)
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN back))
+            (PP (IN of)
+              (NP (DT the) (NNP Casino) (NNP Royale)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VP (VB Walk)
+        (PP (IN through)
+          (NP (DT the) (NN drinking)
+            (CC and)
+            (NN smoking) (NNS gamblers))))
+      (CC and)
+      (VP (VB get)
+        (NP (PRP$ your) (NN grub))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (SBAR (IN If)
+        (S
+          (NP (PRP you))
+          (VP (VBP are) (RB not)
+            (VP (VBG eating)
+              (PP (IN inside)
+                (NP (DT the) (NN casino)))))))
+      (, ,)
+      (NP (PRP you))
+      (VP (MD can)
+        (VP (VB ask)
+          (PP (IN for)
+            (NP (NNS condiments)))
+          (S
+            (VP (TO to)
+              (VP (VB go)))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBD pack)
+        (PRT (RP up))
+        (NP (PRP$ your) (NNS dogs))
+        (ADVP (RB really))
+        (PP (RB well) (IN in)
+          (NP
+            (NP (DT a) (JJ plastic) (, ,) (JJ clear) (NN bag))
+            (PP (IN for)
+              (NP (PRP you)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN if)
+      (S
+        (NP (PRP you))
+        (VP (VBP do)
+          (VP (VB choose)
+            (S
+              (VP (TO to)
+                (VP (VB dine)
+                  (PRT (RP in)))))))))
+    (, ,)
+    (NP (PRP you))
+    (VP (MD can)
+      (VP (VB have)
+        (NP
+          (NP (NN access))
+          (PP (TO to)
+            (NP (DT a) (NN fill) (PRP it)))
+          (SBAR
+            (S
+              (NP (PRP yourself))
+              (VP (VBP drink)
+                (NP (NN service) (NN station) (, ,)
+                  (CC and)
+                  (JJ many) (JJ industrial) (NN size) (NNS condiments))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP are)
+          (PP (IN in)
+            (NP (NNP Vegas))))))
+    (, ,)
+    (ADVP (RB just))
+    (VP
+      (VP (VB stop))
+      (CC and)
+      (VP (VB get)
+        (NP
+          (NP (CD one))
+          (PP (IN of)
+            (NP (DT these) (NNS dogs))))
+        (S
+          (VP (TO to)
+            (VP (VB live)
+              (PP (IN in)
+                (NP (DT the) (NN time)))
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (NNP Vegas))
+                  (VP (VBD kept)
+                    (NP (JJ multiple) (JJ cheap) (NN eating) (NNS spots))
+                    (S
+                      (VP (TO to)
+                        (VP (VB keep)
+                          (S
+                            (NP (PRP you))
+                            (ADJP (JJ happy) (, ,) (JJ full)
+                              (CC and)
+                              (JJ gambling))))))))))))))
+    (. !)))
+
+
+(ROOT
+  (NP
+    (NP
+      (NP
+        (ADJP ($ $) (CD 3))
+        (NNS craps))
+      (CC and)
+      (NP
+        (QP ($ $) (CD 1.99) (CD hot))
+        (NN dog)))
+    (, ,)
+    (NP (JJ nice) (NN way)
+      (S
+        (VP (TO to)
+          (VP (VB spend)
+            (NP (DT a) (JJ late) (NNP Vegas) (NN night))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBN Located)
+        (PP (IN at)
+          (NP
+            (NP (DT the) (NN back))
+            (PP (IN of)
+              (NP (NNP Casino) (NNP Royal)))))))
+    (, ,)
+    (NP (DT this) (JJ little) (NN gem))
+    (VP (VBZ serves)
+      (PRT (RP up))
+      (NP
+        (NP (DT a) (NN bargain))
+        (PP (IN in)
+          (NP (NNP New) (NNP Vegas) (NNS prices)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Great))
+    (VP (TO to)
+      (VP (VB put)
+        (PP (IN in)
+          (NP (DT the) (NN belly)))
+        (PP (IN after)
+          (NP
+            (NP (DT a) (JJ late) (NN night))
+            (PP (IN of)
+              (NP (NNP Vegas)))))))
+    (. .)))
+
+

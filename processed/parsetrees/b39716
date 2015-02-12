@@ -1,0 +1,198 @@
+(ROOT
+  (SBARQ
+    (NP (NNP Well))
+    (, ,)
+    (WHNP (WP what))
+    (SQ (MD can)
+      (NP (PRP I))
+      (VP (VB say)))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP (NNP Dairy) (NNP Queen)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNS Burgers))
+        (, ,)
+        (NP (JJ fried) (NN food))
+        (, ,))
+      (ADJP (JJ soft)))
+    (VP (VBP serve)
+      (NP (NN ice) (NN cream)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (MD 'd)
+        (VP (VB say) (`` ``)
+          (NP (NN meh)))))
+    (, ,) ('' '')
+    (CC but)
+    (S
+      (PP (VBN given)
+        (NP
+          (NP (DT the) (NN food) (NN desert))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBZ is)
+                (NP
+                  (NP (NNP Verona))
+                  (, ,)
+                  (PP (IN with)
+                    (NP (JJ open) (NNS arms)))))))))
+      (NP (PRP I))
+      (VP (VBP welcome)
+        (NP (DT this) (JJ iconic) (JJ American) (NN franchise))
+        (PP (TO to)
+          (NP (NN town)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NN fact)))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP rate)
+      (S
+        (NP
+          (NP (NNP DQ) (POS 's))
+          (NNS burgers))
+        (NP
+          (NP (DT the) (JJS best) (NN fast-food) (NNS burgers))
+          (PP (IN in)
+            (NP (NNP Verona))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN lettuce)
+      (CC and)
+      (NN tomato))
+    (VP (VBP are)
+      (ADJP (JJ fresh)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS patties))
+      (VP (VBP are)
+        (ADJP (JJ well-cooked))
+        (, ,)
+        (ADJP (JJ well-formed))))
+    (CC and)
+    (S
+      (NP (PRP you))
+      (VP (VBP do) (RB n't)
+        (VP (VB have)
+          (S
+            (VP (TO to)
+              (VP (VB peel)
+                (PRT (RP off))
+                (NP
+                  (NP (DT the)
+                    (ADJP (JJ burnt) (, ,) (JJ crispy))
+                    (NNS edges))
+                  (PP (IN before)
+                    (NP (NN eating)))
+                  (PRN (-LRB- -LRB-)
+                    (S
+                      (NP (PRP I))
+                      (VP (VBP 'm)
+                        (VP (VBN talkin) ('' ')
+                          (PP (TO to)
+                            (NP (PRP you)))
+                          (, ,)
+                          (S
+                            (NP (NNP Culver) (POS 's))))))
+                    (-RRB- -RRB-)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD beat)
+      (NP
+        (NP (NNP Mickey)
+          (NP (NNP D) (POS 's)))
+        (CC and)
+        (NP
+          (NP (DT the)
+            (ADJP (JJ overpriced) (, ,) (JJ unremarkable))
+            (NNP Michael) (POS 's))
+          (NNS burgers))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Until)
+      (NP (DT a) (CD Five) (NNS Guys)))
+    (PRN (, ,)
+      (S
+        (NP (NNP In-N-Out)
+          (CC or)
+          (NNP Smashburger))
+        (VP (VBZ rolls)
+          (PP (IN into)
+            (NP (NNP V-Town)))
+          (PRN (-LRB- -LRB-)
+            (NP
+              (NP (JJ fat) (NN chance))
+              (, ,)
+              (NP (DT all)))
+            (-RRB- -RRB-))))
+      (, ,))
+    (NP (NNP Dairy) (NNP Queen))
+    (VP (MD will)
+      (VP (VB remain)
+        (NP
+          (NP
+            (NP (DT the) (NN fast-food) (NN burger) (NN king))
+            (PRN (-LRB- -LRB-)
+              (NP
+                (NP (JJ small) (NNS b))
+                (, ,)
+                (NP (JJ small) (NN k)))
+              (-RRB- -RRB-)))
+          (PP (IN of)
+            (NP (NNP Verona))))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP
+      (NP
+        (ADJP (RB Really) (JJ good))
+        (NNS burgers))
+      (CC &)
+      (NP (NNS salads)))
+    (NP (NNP !!!))))
+
+(ROOT
+  (FRAG
+    (X
+      (NP
+        (NP ($ $) (CD 5.00))
+        (NP (NN lunch) (NNS boxes)))
+      (NP (SYM r))
+      (NP
+        (NP (DT the) (NN deal))
+        (NP (JJ nice) (NNS workers))))
+    (PP
+      (ADVP (RB here))
+      (IN at)
+      (NP (DT this) (NN location)))))
+
+

@@ -1,0 +1,94 @@
+(ROOT
+  (S
+    (VP (VB Do) (RB n't)
+      (VP (VB switch)
+        (PP (TO to)
+          (NP (NNP Cox) (NNP Business)))))
+    (. !)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHNP (WDT Whatever) (NNS savings))
+      (S
+        (NP (PRP they))
+        (VP (VBP are)
+          (VP (VBG promising)))))
+    (NP (PRP you))
+    (VP (MD will)
+      (VP (VB be)
+        (NP (NN list))
+        (PP
+          (ADVP
+            (NP (CD 10) (NNS times))
+            (RB over))
+          (IN with)
+          (S
+            (VP (VBG correcting)
+              (NP
+                (NP (DT the) (NNS mistakes))
+                (VP (VBN made)
+                  (PP (IN by)
+                    (NP (DT the) (NNS installers))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Wait) (NN time))
+      (PP (IN on)
+        (NP (DT the) (NN customer) (NN support) (NN line))))
+    (VP (VBZ is)
+      (ADVP (RB typically))
+      (NP (CD 25) (NNS minutes)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBP Do) (RB n't)
+        (VP (VB listen)
+          (PP (TO to)
+            (NP (DT the) (JJ slick) (NN salesman))))))
+    (, ,)
+    (NP (PRP they))
+    (VP (MD will)
+      (VP (VB lie)
+        (S
+          (VP (TO to)
+            (VP (VB get)
+              (NP (PRP$ your) (NN business)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ bad) (NN service))
+      (, ,)
+      (NP (JJ bad) (NN internet))
+      (, ,))
+    (PRN
+      (S
+        (NP
+          (NP (JJ bad) (NNS employees))
+          (PP (IN at)
+            (NP (DT the) (NN store))))
+        (ADVP (RB specially))
+        (VP (VB tempe)
+          (NP (NN market) (NN place) (NNS ones)))))
+    (NP (PRP they))
+    (VP (VBP are)
+      (NP
+        (NP (JJS worst) (NN customer) (NN service))
+        (FRAG
+          (ADVP (RB ever))
+          (, ,)
+          (S
+            (NP (NN dont))
+            (VP (VBP go)
+              (ADVP (RB there))))
+          (: ...))))
+    (. .)))
+
+

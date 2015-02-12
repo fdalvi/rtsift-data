@@ -1,0 +1,123 @@
+(ROOT
+  (S
+    (NP (NNP Everything))
+    (VP (VBZ is)
+      (ADJP (RB so) (JJ delicious)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS cakes))
+    (VP (VBP are)
+      (NP (DT the) (JJS best)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (NNP Original))
+    (VP
+      (VP (VBZ flavors))
+      (CC and)
+      (VP (VBZ decorations)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Definitely))
+    (VP (VBG coming)
+      (ADVP (RB back)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP$ My) (NN cousin))
+      (VP (VBD told)
+        (NP (PRP me))
+        (PP (IN about)
+          (FRAG
+            (NP (DT this) (NN place) (. .))
+            (. .)))
+        (SBAR
+          (S
+            (NP (PRP she))
+            (ADVP (RB actually))
+            (VP (VBD brought)
+              (NP
+                (NP (CD one))
+                (PP (IN of)
+                  (NP (PRP$ their) (NNS cakes))))
+              (PP (IN over)
+                (PP (TO to)
+                  (NP
+                    (NP (DT a) (NN party))
+                    (SBAR
+                      (S
+                        (NP (PRP we))
+                        (VP (VBD were)
+                          (VP (VBG having)
+                            (NP (NNP and))
+                            (SBAR
+                              (WHADVP (WRB when))
+                              (S
+                                (NP (PRP I))
+                                (VP (VBD had)
+                                  (NP
+                                    (NP (DT a) (NN slice))
+                                    (PP (IN of)
+                                      (NP (PRP it)))))))))))))))))))
+    (: ...)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (S
+          (VP (TO to)
+            (VP (VB die)
+              (PP (IN for)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (ADJP (RB so) (JJ delicious))
+      (SBAR (IN that)
+        (S
+          (NP (PRP I))
+          (VP (VBD had)
+            (S
+              (VP (TO to)
+                (VP
+                  (VP (VB go)
+                    (ADVP (RB back)))
+                  (CC and)
+                  (VP (VB get)
+                    (NP (PRP$ my) (JJ own) (NN cake))))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Haha))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Flavors))
+    (VP (VBP are)
+      (ADVP (RB on))
+      (ADJP (JJ point)
+        (CC and)
+        (JJ amazing)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB surely))
+    (VP (VBP do)
+      (VP (VB recommend)
+        (NP (DT this) (NN bakery))))
+    (. .)))
+
+

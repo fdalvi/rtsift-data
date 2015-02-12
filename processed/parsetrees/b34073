@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP want)
+      (ADVP
+        (NP ($ $) (CD 50))
+        (RB just))
+      (S
+        (VP (TO to)
+          (VP (VB come)
+            (PRT (RP out))
+            (SBAR (CC but)
+              (S
+                (NP (NNP Mario))
+                (VP (VBZ Sounds)
+                  (PP (IN like)
+                    (NP (DT an) (JJ honest) (NN guy))))))))))))
+
+

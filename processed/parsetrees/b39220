@@ -1,0 +1,141 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN food))
+      (PP (IN at)
+        (NP (NNP Bombay))))
+    (VP
+      (VP (VBZ is)
+        (ADVP (RB always))
+        (ADJP (JJ fresh)))
+      (CC and)
+      (VP (VBZ has)
+        (NP (JJ wonderful) (NN flavor))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP (JJ nice)
+        (S
+          (VP (TO to)
+            (VP (VB have)
+              (NP (DT a) (NN place))
+              (SBAR (IN that)
+                (S
+                  (NP (PRP you))
+                  (VP (MD can)
+                    (VP (VB get)
+                      (NP (DT a) (JJ healty) (NN lunch))
+                      (PP (IN at) (IN in)
+                        (NP
+                          (NP (DT a) (JJ short) (NN amount))
+                          (PP (IN of)
+                            (NP (NN time))))))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT The) (NN website))
+    (VP (VBZ states)
+      (SBAR
+        (S
+          (NP (PRP you))
+          (VP (MD can)
+            (VP (VB call)
+              (PP (IN in)
+                (PP (TO to)
+                  (NP (NN order) (NN food)))))))))
+    (. .)))
+
+(ROOT
+  (S (CC Yet)
+    (NP (DT no) (NN one))
+    (VP (VBZ has)
+      (VP (VBN answered)
+        (NP
+          (NP (DT the) (NN phone))
+          (PP (IN for)
+            (NP (CD 45) (NN min))))
+        (PP (IN during)
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (VP (MD would)
+                (VP (VB be)
+                  (NP (DT a) (NNS restaurants))
+                  (NP (JJ busy) (NN time)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP understand)
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (MD may)
+            (VP (VB have)
+              (S
+                (VP (TO to)
+                  (VP (VB call)
+                    (PRT (RP back))
+                    (SBAR (IN if)
+                      (S
+                        (NP (DT the) (NN phone))
+                        (VP (VBZ is) (RB not)
+                          (VP (VBN answered)
+                            (NP
+                              (NP (DT the)
+                                (ADJP
+                                  (ADJP (JJ first))
+                                  (CC or)
+                                  (ADJP (RB even) (JJ second)))
+                                (NN time))
+                              (ADJP (JJ due)
+                                (PP (TO to)
+                                  (S
+                                    (NP (PRP it))
+                                    (VP (VBG being)
+                                      (ADJP (JJ busy)))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP
+        (VP (VBP have)
+          (ADVP (RB never))
+          (VP (VBN eaten)
+            (ADVP (RB here))))
+        (CC and)
+        (VP (VBD was)
+          (VP (VBG looking)
+            (ADVP (RB forward))
+            (PP (TO to)
+              (S
+                (VP (VBG trying)
+                  (NP (PRP it))
+                  (PRT (RP out)))))))))
+    (, ,)
+    (CC but)
+    (S
+      (ADVP (RB now))
+      (NP (PRP I))
+      (VP (MD will)
+        (ADVP (RB never))
+        (VP (VB know))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBZ is)
+      (ADVP (RB just))
+      (NP (JJ bad) (NN business)))
+    (. .)))
+
+

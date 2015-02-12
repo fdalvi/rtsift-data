@@ -1,0 +1,197 @@
+(ROOT
+  (S
+    (NP (JJ Great) (NN neighborhood))
+    (VP (VBP center)
+      (PP (IN with)
+        (NP
+          (NP (NN pool))
+          (, ,)
+          (NP (NN gym))
+          (, ,)
+          (NP (NN meeting) (NNS rooms))
+          (, ,)
+          (NP (NN baby) (NNS sitting))
+          (, ,)
+          (NP (JJ heated) (NN lap) (NN pool))
+          (, ,)
+          (CC and)
+          (NP (RB much) (JJR more)))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Great))
+    (PP (IN for)
+      (NP (NNS residents)))
+    (S
+      (VP (TO to)
+        (VP
+          (VP (VB cool)
+            (PRT (RP off))
+            (PP (IN in)
+              (NP (DT the) (NN summer))))
+          (CC and)
+          (VP (VB relax)))))
+    (. .)))
+
+
+(ROOT
+  (FRAG
+    (ADVP (RB Very))
+    (NP (JJ beautiful) (NN place))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP$ My) (NN brother))
+      (ADVP (RB just))
+      (VP (VBD had)
+        (NP (PRP$ his) (NN wedding))
+        (ADVP (RB here))))
+    (CC and)
+    (S
+      (NP (PRP we))
+      (ADVP (DT all))
+      (VP (VBD had)
+        (NP (DT a) (JJ great) (NN time))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP need)
+      (S
+        (VP (TO to)
+          (VP (VB do)
+            (S
+              (NP
+                (NP (NN something))
+                (PP (IN about)
+                  (NP (PDT all) (DT the) (NN duck))))
+              (VP (VB poo)
+                (NP (RB everywhere))
+                (ADVP (RB though))
+                (, ,) (VB gross)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP First))
+        (PP (IN of)
+          (NP
+            (NP (DT all))
+            (, ,)
+            (NP (DT this) (NN place)))))
+      (VP (VBZ is)
+        (NP (JJ first) (NN class))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (VP (VBN built)
+          (PP
+            (PP (IN for)
+              (NP (PRP$ its) (NNS residents)))
+            (, ,) (RB not)
+            (PP (IN for)
+              (NP
+                (NP (DT the) (NNS folks))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBP live)
+                      (PRT (RP down))
+                      (NP
+                        (NP (DT the) (NN hill))
+                        (CC or)
+                        (NP (NNP Buckeye))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (NNP Talisa) (NNP U))
+        (VP (VBZ is)
+          (VP (VBG complaining)
+            (PP (IN about)
+              (S (RB not)
+                (VP (VBG letting)
+                  (S
+                    (NP (PRP her))
+                    (VP (VB join)
+                      (NP (PRP$ our) (NNS residents) (NN club)))))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (SBAR (IN because)
+        (S
+          (NP (PRP you))
+          (VP (VBP 're) (RB not)
+            (NP
+              (NP (DT a) (NN resident))
+              (PP (IN within)
+                (NP (DT the) (NN community))))))))
+    (: ...)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP get)
+        (SBAR (IN that)
+          (S
+            (NP (PRP you))
+            (VP (VBP like)
+              (S
+                (VP (VBG shopping)
+                  (PRT (RP up))
+                  (PP
+                    (ADVP (RB here))
+                    (RB instead) (IN of)
+                    (NP
+                      (NP (NN buckeye))
+                      (, ,)
+                      (SBAR
+                        (WHNP (WDT that))
+                        (S
+                          (VP (VBZ 's)
+                            (SBAR
+                              (WHADVP (WRB why))
+                              (S
+                                (NP (PRP we))
+                                (ADVP (DT all))
+                                (VP (VBP live)
+                                  (PRT (RP up))
+                                  (ADVP (RB here)))))))))))))))))
+    (, ,)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADJP (JJ safe)
+          (CC and)
+          (JJ clean))))
+    (CC and)
+    (S
+      (NP (PRP we))
+      (VP (VBP want)
+        (S
+          (VP (TO to)
+            (VP (VB keep)
+              (NP (PRP it))
+              (SBAR (IN that)
+                (S
+                  (NP
+                    (NP (NN way))
+                    (, ,)
+                    (NP (NN move)))
+                  (ADVP (RB up) (RB here))
+                  (VP (VBZ is)
+                    (NP (DT the) (JJ simple) (NN answer))))))))))
+    (. .)))
+
+

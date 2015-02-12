@@ -1,0 +1,62 @@
+(ROOT
+  (S
+    (NP (NN Customer) (NN service))
+    (VP (VBZ is)
+      (PP (IN by)
+        (NP
+          (NP (RB far) (DT the) (JJS best))
+          (PP (IN at)
+            (NP (DT this) (NNP Lane) (NNP Bryant) (NNP !!!))))))))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN store))
+      (VP (VBZ is)
+        (ADVP (RB always))
+        (VP (VBN stocked))))
+    (CC and)
+    (S
+      (PP (IN by)
+        (NP (NN chance)))
+      (NP (PRP they))
+      (VP (VBP do) (RB not)
+        (VP (VB have)
+          (NP
+            (NP (PRP$ your) (NN size))
+            (PP (IN in)
+              (NP (NN stock)))
+            (SBAR
+              (S
+                (NP (PRP they))
+                (VP (VBP are)
+                  (VP (VBP are)
+                    (ADJP
+                      (ADVP (RBR more) (IN than))
+                      (JJ willing)
+                      (S
+                        (VP (TO to)
+                          (VP (VB order)
+                            (NP (PRP it))
+                            (PP (IN with)
+                              (NP (JJ free) (NN shipping)))
+                            (PP (TO to)
+                              (NP (DT the) (NN store)))))))))))))))
+    (. !)))
+
+
+(ROOT
+  (FRAG
+    (ADVP
+      (NP (CD 40) (NN %))
+      (RB off))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (MD Ca) (RB n't)
+      (VP (VB beat)
+        (NP (DT that))))
+    (. .)))
+
+

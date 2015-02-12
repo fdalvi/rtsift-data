@@ -1,0 +1,135 @@
+(ROOT
+  (S
+    (NP (NNP Horton) (NNP Electric))
+    (VP (VBD installed)
+      (NP
+        (NP (DT a) (JJ new) (CD 240V) (NN dryer) (NN outlet))
+        (PP (IN for)
+          (NP (PRP me))))
+      (PP (IN about)
+        (NP (DT a) (NN year) (IN ago))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD stopped)
+      (S
+        (VP (VBG working)
+          (PP (IN about)
+            (NP (DT a) (NN week) (IN ago))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Repeated) (NN phone) (NNS calls)
+      (CC and)
+      (NNS messages))
+    (VP (VBD yielded)
+      (NP (DT no) (NN reply)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP I))
+        (VP (VBD got)
+          (NP (DT a) (JJ different) (NN electrician))
+          (S
+            (VP (TO to)
+              (VP (VB look)
+                (PP (IN at)
+                  (NP (PRP it)))))))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD found)
+      (SBAR (IN that)
+        (S
+          (NP (NNP Horton))
+          (VP (VBD had)
+            (VP (VBN spliced)
+              (PRT (RP together))
+              (NP
+                (NP (JJ old) (NN aluminum) (NN wire))
+                (PP (IN with)
+                  (NP (JJ new) (NN copper) (NN wire))))
+              (PP (IN in)
+                (NP (JJ several) (NNS places))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBP lead)
+      (S
+        (VP (TO to)
+          (VP (VB melted)
+            (NP
+              (NP (NN wire) (NNS lugs))
+              (, ,)
+              (NP (JJ scorched) (NN junction) (NNS boxes))
+              (, ,)
+              (CC and)
+              (NP (DT a) (JJ real) (NN fire) (NN risk)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (CD Two) (NNS stars))
+      (PP (RB instead) (IN of)
+        (NP (CD one))))
+    (, ,)
+    (SBAR (IN because)
+      (S
+        (NP (PRP it))
+        (VP (VBD lasted)
+          (NP (DT a) (JJ whole) (NN year)))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP suppose))
+    (. .)))
+
+
+(ROOT
+  (X
+    (ADVP (RB Always))
+    (NP (JJ reliable) (, ,) (JJ trustworthy) (NN service))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Excellent) (NN customer))
+    (NP (JJ service-total) (NN professional))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBN Used)
+      (S
+        (NP (PRP them))
+        (VP (TO to)
+          (VP (VB install)
+            (NP
+              (NP (JJ new) (NN can) (NNS lights))
+              (, ,)
+              (NP (NN ceiling) (NNS fans))
+              (CC and)
+              (NP (JJ other) (NNS fixtures)))
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP we))
+                (VP (VBD lived)))))))
+      (PP (IN in)
+        (NP (NNP Phoenix)))
+      (ADVP (RB up)
+        (PP (IN until)
+          (ADVP
+            (NP (CD 6) (NNS months))
+            (RB ago)))))
+    (. .)))
+
+

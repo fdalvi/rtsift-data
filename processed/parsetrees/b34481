@@ -1,0 +1,180 @@
+(ROOT
+  (S
+    (VP (MD Could) (RB not)
+      (VP (VB ask)
+        (PP (IN for)
+          (ADVP (RBR better)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Brought))
+      (PP (IN in)
+        (NP
+          (NP (DT a) (NN junker) (NN car))
+          (NP (DT a) (NN friend)
+            (CC and)
+            (NN co-worker)))))
+    (VP (VBD was)
+      (VP (VBG offering)
+        (S
+          (VP (TO to)
+            (VP (VB toss)
+              (NP (PRP$ my) (NN way))
+              (PP (IN for)
+                (ADJP (JJ cheap))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Jeff))
+    (VP (VBD spent)
+      (NP
+        (NP
+          (NP (CD 20) (NNS minutes))
+          (VP (VBG looking)
+            (PP (IN over)
+              (NP (DT the) (NN car)))))
+        (, ,)
+        (CC and)
+        (NP
+          (NP (CD 45) (NNS minutes))
+          (VP (VBG explaining)
+            (NP
+              (NP (NN everything))
+              (SBAR
+                (S
+                  (NP (PRP he))
+                  (VP (VBD found)
+                    (PP (IN with)
+                      (NP (DT the) (NN car)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP He))
+      (VP (VBD found)
+        (NP (NNS things))
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (NN owner))
+            (VP (VBD did) (RB n't)
+              (ADVP (RB even))
+              (VP (VB know)
+                (PRT (RP about))))))))
+    (, ,)
+    (CC and)
+    (S
+      (S
+        (NP (PRP he))
+        (VP (VBD explained)
+          (NP (PRP it))
+          (PP (IN in)
+            (NP (DT a) (NN way)))
+          (SBAR (IN that) (RB even)
+            (S
+              (NP (PRP I))
+              (VP (VBD understood))))))
+      (, ,)
+      (CC and)
+      (S
+        (NP (PRP I))
+        (VP (VBP know)
+          (ADVP (JJ next)
+            (PP (TO to)
+              (NP (NN nothing))))
+          (PP (IN about)
+            (NP (NNS cars))))))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What) (JJR more))
+    (SQ (MD could)
+      (NP (PRP you))
+      (VP (VB ask)
+        (PP (IN for))))
+    (. ?)))
+
+
+(ROOT
+  (SINV
+    (SINV (VBD Had)
+      (NP (DT a) (NN water) (NN pump))
+      (VP (VBP go)
+        (PRT (RP out))))
+    (CC and)
+    (SINV
+      (VP (VBD needed))
+      (NP (DT a) (NN repair) (NN shop)))
+    (. .)))
+
+(ROOT
+  (S
+    (SINV
+      (VP (VBD Did) (RB n't)
+        (VP (VB want)
+          (PP (TO to)
+            (NP (RB tow)))))
+      (NP (DT the) (NN car)))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP we))
+      (VP (VBD found)
+        (NP
+          (NP (NNP Gerirck) (POS 's))
+          (JJ nearby))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Jeff))
+    (VP
+      (VP (VBD looked)
+        (NP (PRP it))
+        (PRT (RP over)))
+      (CC and)
+      (VP (VBD gave)
+        (NP (PRP us))
+        (NP
+          (NP (DT an) (NN estimate))
+          (PP (IN in)
+            (NP
+              (QP (RB about) (CD 10))
+              (NNS minutes))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VP (VBD did)
+        (NP (DT the) (NN work)))
+      (, ,)
+      (VP (VBD got)
+        (NP (DT the) (NN car))
+        (ADVP (RB back))
+        (S
+          (VP (VBG running))))
+      (CC and)
+      (VP (VBD charged)
+        (NP (DT a) (JJ fair) (NN price))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP need)
+          (NP (DT a) (JJ good) (NN mechanic)))))
+    (, ,)
+    (VP (VB give)
+      (NP (PRP him))
+      (NP (DT a) (NN call)))
+    (. .)))
+
+

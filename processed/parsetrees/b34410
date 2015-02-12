@@ -1,0 +1,841 @@
+(ROOT
+  (NP (NNP HIGHLY) (NNP RECOMMENDED) (NNP !!)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (JJ first)
+      (PP (TO to)
+        (NP
+          (NP (PRP$ my) (NN car))
+          (PP (TO to)
+            (NP
+              (NP (DT another) (NN shop))
+              (CC and)
+              (NP (PRP they)))))))
+    (VP (VBD told)
+      (NP (PRP me))
+      (SBAR
+        (S
+          (NP (DT the) (NNS gears))
+          (VP (VBD needed)
+            (VP (VBN replaced)
+              (S
+                (VP (SYM =)
+                  (NP ($ $) (CD 1,500)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (ADVP (RB then))
+      (VP (VBD called)
+        (NP (NNP AZ) (NNP Differential))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP they))
+            (VP (MD could)
+              (VP (VB do)
+                (S
+                  (NP (PRP it))
+                  (ADJP (JJR cheaper)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Went)
+      (ADJP
+        (ADVP (RB down) (RB there))
+        (PRN (CC and)
+          (S
+            (NP (PRP they))
+            (VP (VBP test)
+              (SBAR
+                (S
+                  (VP
+                    (VP (VBD drove)
+                      (NP (PRP it)))
+                    (CC and)
+                    (VP (VBD said))))))))
+        (RB pretty) (JJ sure)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBZ is)
+              (ADVP (RB only))
+              (NP (DT the) (NNS bearings)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBD took)
+        (NP (PRP it))
+        (ADVP (RB apart))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (S
+          (NP (RB only) (DT the) (NNS bearings))
+          (VP (SYM =)
+            (NP ($ $) (CD 600))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBN Got)
+      (S
+        (VP (TO to)
+          (VP (VB love)
+            (NP (DT an) (JJ honest) (NN shop))))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (JJ Granted) (DT the) (NN shop))
+      (VP (MD may) (RB not)
+        (VP (VB look)
+          (NP
+            (NP (DT the) (JJS best))
+            (PP (IN on)
+              (NP (DT the) (NN outside)))))))
+    (CC but)
+    (S
+      (NP (DT the) (`` ``) (JJ prettier) ('' '') (NNS shops))
+      (VP (VBP have)
+        (S
+          (VP (TO to)
+            (VP (VB pay)
+              (PP (IN for)
+                (NP
+                  (NP (DT the)
+                    (ADJP
+                      (ADVP (RB somehow))
+                      (JJ =))
+                    (NN taking) (NN advantage))
+                  (PP (IN of)
+                    (NP (NNS customers))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP you))
+        (VP (VBP focus)
+          (PP (IN on)
+            (NP (CD one) (NN task))))))
+    (, ,)
+    (NP (PRP you))
+    (VP (VBP tend)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (ADJP (RB very) (JJ good))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT A) (NN differential))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN nest))
+        (PP (IN of)
+          (NP
+            (NP (NNS gears))
+            (VP (VBG spinning)
+              (NP
+                (NP (DT a) (NN vehicle) (POS 's))
+                (NNS axles)))))
+        (, ,)
+        (VP (VBG allowing)
+          (NP (DT the) (NNS wheels))
+          (S
+            (VP (TO to)
+              (VP (VB turn)
+                (PP (IN at)
+                  (NP (JJ different) (NNS speeds)))
+                (PP (IN without)
+                  (S
+                    (VP (VBG destroying)
+                      (NP (NN something) (JJ mechanical)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (NN example)))
+    (, ,)
+    (S
+      (S
+        (VP (VBG turning)
+          (NP (DT a) (NN corner))))
+      (, ,)
+      (CC or)
+      (S
+        (NP (CD one) (NN wheel))
+        (PP (IN on)
+          (NP (DT the) (NN road)))))
+    (, ,)
+    (S
+      (NP
+        (NP (DT the) (JJ other))
+        (PP (IN in)
+          (NP (NN mud)))))
+    (. .)))
+
+(ROOT
+  (S (CC Or)
+    (, ,)
+    (S
+      (NP (JJ front) (NNS wheels))
+      (PP (IN on)
+        (NP (NN rock))))
+    (, ,)
+    (VP (VBZ rear)
+      (NP
+        (NP (NNS wheels))
+        (PP (IN in)
+          (NP (NN slush)))))
+    (. .)))
+
+(ROOT
+  (S (CC Or)
+    (VP (VB spin)
+      (S
+        (NP (PRP them))
+        (ADJP (RB equally) (JJ fast)
+          (PP (IN for)
+            (NP (NN drag) (NN racing))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS axles)
+        (CC and)
+        (NN nest))
+      (PP (IN of)
+        (NP
+          (NP (NNS gears))
+          (VP (VBG driving)
+            (NP (PRP them))))))
+    (VP (VBP require)
+      (NP (JJ many) (NNS bearings)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Gears)
+      (CC and)
+      (NNS bearings))
+    (VP (VBP require)
+      (NP (NN lubrication)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Oil))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ simple) (NN word))
+        (PP (IN for)
+          (NP (NN lubrication)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Gaskets))
+    (VP (VBP are)
+      (NP
+        (NP (JJ soft) (NNS seals))
+        (VP (VBG keeping)
+          (NP
+            (NP (NN lubrication))
+            (PP (IN in)
+              (NP (DT the) (JJ right) (NNS places)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Gears)
+      (CC and)
+      (NNS bearings))
+    (VP (VBP wear)
+      (PRT (RP out))
+      (PP (IN over)
+        (NP (NN time))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Lifetimes))
+      (PP (IN for)
+        (NP (NNS gears)
+          (CC and)
+          (NNS bearings))))
+    (VP (MD can)
+      (VP (VB be)
+        (ADJP (JJ short)
+          (CC or)
+          (JJ long))
+        (, ,)
+        (S
+          (VP (VBG depending)
+            (SBAR
+              (SBAR
+                (WHADJP (WRB how) (JJ hard))
+                (S
+                  (NP (PRP they))
+                  (VP (VBP 're)
+                    (VP (VBN used)))))
+              (CC and)
+              (SBAR
+                (WHADVP (WRB how) (RB well))
+                (S
+                  (NP (PRP they))
+                  (VP (VBP are)
+                    (VP (VBN lubricated))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (CD Two) (NN auto) (NNS shops))
+    (PRN
+      (S
+        (NP (PRP I))
+        (VP (MD 'll) (RB not)
+          (VP (VB name)
+            (ADVP (RB here)))))
+      (, ,))
+    (VP (VBD failed)
+      (S
+        (VP (TO to)
+          (VP (VB identify)
+            (NP
+              (NP (DT the) (JJ train-like) (NN rumbling))
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (NN car) (POS 's))
+                  (NN drive) (NN train))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Sam))
+      (PP (IN at)
+        (NP (NNP Affordable) (NNP Auto))))
+    (VP (VBD said) (, ,) (`` ``)
+      (S
+        (VP (VB Take)
+          (NP (PRP it))
+          (PP (TO to)
+            (NP (NNP AZ) (NNP Differential) (NNP Specialists))))))
+    (. .)))
+
+(ROOT
+  (S ('' '')
+    (PP (IN After)
+      (S
+        (VP (VBG looking)
+          (PP (IN over)
+            (NP
+              (NP (DT the) (JJ mechanical) (NN situation))
+              (, ,)
+              (NP (DT a) (VBG failing) (NN bearing))
+              (CC and)
+              (NP
+                (NP (NN carrier))
+                (, ,)
+                (NP (NNP Bubba))))))))
+    (VP (VBD provided)
+      (NP (DT a) (JJ reasonable) (NN quote)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD requested)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBP replace)
+            (SBAR
+              (S
+                (NP
+                  (NP (DT all) (NNS bearings))
+                  (CC and)
+                  (NP (DT the)
+                    (ADJP (RB slightly) (VBN damaged))
+                    (NN axle)))
+                (VP (VBD found)
+                  (PP (IN during)
+                    (NP (NN inspection))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBD added)
+      (NP
+        (NP ($ $) (CD 250))
+        (PP (IN in)
+          (NP (NNS parts)
+            (CC and)
+            (NN labor)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN axle)
+      (CC and)
+      (NN diff))
+    (VP (MD will)
+      (VP (VB run)
+        (NP (DT another))
+        (NP
+          (QP (CD 60K)
+            (CC or)
+            (RB so))
+          (NNS miles))))
+    (. .)))
+
+
+(ROOT
+  (NP (JJ Great) (NN company) (. !)))
+
+(ROOT
+  (NP (NNP Great) (NNP Staff) (. !)))
+
+(ROOT
+  (SBAR (IN If)
+    (S
+      (NP (PRP you))
+      (VP (VBP ask)
+        (PRT (RP around))
+        (SBAR (IN in)
+          (S
+            (NP (NNP Phoenix) (NNP AZ) (NNP DIFFERENTIAL) (NNP SPECIALISTS))
+            (VP (VBZ is)
+              (NP (DT the) (NNP ONLY) (NNP PLACE) (NNP TO) (NNP GO) (NNP !!)))))))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 've)
+      (VP (VBN known)
+        (PP (IN about)
+          (NP (PRP them)))
+        (PP (IN for)
+          (NP (NNS years)))))
+    (. .)))
+
+(ROOT
+  (S (CC So)
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (PRP$ my) (NN company) (NN truck))
+        (VP (VBD blew)
+          (PRT (RP out))
+          (NP (DT the) (NN diff)))))
+    (NP (PRP you))
+    (VP (MD can)
+      (VP (VB guess)
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (NP (PRP we))
+            (VP (VBD went)
+              (PP (IN for)
+                (NP (CD 5) (NN star) (NN service))))))))
+    (. !)))
+
+
+(ROOT
+  (NP
+    (NP (JJ Good) (NNS people))
+    (, ,)
+    (NP
+      (NP (JJ good) (NNS prices))
+      (, ,)
+      (NP (JJ great) (NN work)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's)
+        (ADVP (RB not) (TO to) (RB often))
+        (SBAR
+          (S
+            (NP (PRP you))
+            (VP (VBP find)
+              (NP (DT this) (NN combination)))))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP have)
+      (ADVP (RB always))
+      (VP (VBN treated)
+        (NP
+          (NP (NNS people))
+          (SBAR
+            (S
+              (NP
+                (NP (NN right))
+                (CC &)
+                (NP (PRP$ their) (NN knowledge)))
+              (VP (VBZ is)
+                (ADJP (JJ unmatched))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (VP (VBN referred)
+        (ADVP (RB here))
+        (PP (IN by)
+          (NP
+            (NP (DT another) (NN shop))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBD did) (RB n't)
+                  (VP (VB have)
+                    (NP
+                      (NP (DT the) (JJ necessary) (NNS tools))
+                      (PP (IN for)
+                        (SBAR
+                          (WHNP (WP what))
+                          (S
+                            (NP (PRP we))
+                            (VP (VBD needed)
+                              (VP (VBN done)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (MD 'll)
+        (VP (VB admit))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD was)
+      (ADJP
+        (NP (DT a) (RB bit))
+        (JJ hesitant)
+        (PP (IN at)
+          (ADVP (RB first)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP
+        (NP (DT a) (JJ tiny) (NN shop))
+        (: -)
+        (NP
+          (NP (NN nothing) (NN fancy))
+          (PP (IN with)
+            (NP
+              (NP (RB little))
+              (PP (TO to)
+                (NP (DT no) (NN parking))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBD brought)
+        (NP (PRP$ our) (NN vehicle))
+        (PP (IN in)
+          (PP (IN without)
+            (NP (DT an) (NN appointment))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBD had)
+        (S
+          (NP (PRP it))
+          (ADJP (JJ ready)
+            (PP (IN by)
+              (NP
+                (NP
+                  (NP (NN midday))
+                  (NP (DT the) (JJ following) (NN day)))
+                (PRN (-LRB- -LRB-)
+                  (S
+                    (NP (PRP I))
+                    (VP (VBD had)
+                      (VP (VBN told)
+                        (NP (PRP them))
+                        (SBAR
+                          (S
+                            (NP (PRP I))
+                            (VP (VBD did) (RB n't)
+                              (VP (VB need)
+                                (NP (PRP it))
+                                (ADVP (RB right) (RB away)))))))))
+                  (-RRB- -RRB-))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBD had)
+        (VP (VBN gone)
+          (PP (IN in)
+            (S
+              (VP (VBG expecting)
+                (S
+                  (VP (TO to)
+                    (VP (VB pay)
+                      (PP (IN near)
+                        (NP
+                          (NP ($ $) (CD 1000))
+                          (VP (VBN based)
+                            (PP (IN on)
+                              (NP (JJ other) (NN work)))))))))))))))
+    (NP (PRP we))
+    (VP (VBP have)
+      (VP (VBD had)
+        (VP (VBN done))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Imagine)
+      (NP (PRP$ my) (NN surprise))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (DT the) (NN bill))
+          (VP (VBD was)
+            (ADVP (RB just))
+            (PP (IN over)
+              (NP ($ $) (CD 200)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ only) (NN negative))
+    (VP (VBD was)
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP (VBP are) (RB not)
+            (NP
+              (NP (JJ open) (NNS weekends))
+              (, ,)
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (VBD made)
+                    (S
+                      (NP (PRP it))
+                      (ADJP
+                        (ADJP
+                          (NP (DT a) (RB little))
+                          (JJ difficult))
+                        (PP (IN for)
+                          (NP (PRP us)))))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (PP (IN for)
+      (NP
+        (NP (DT the) (NN service))
+        (SBAR
+          (S
+            (NP (PRP we))
+            (VP (VBD received))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB return)
+        (PP (IN in)
+          (NP (DT the) (NN future)))
+        (PP (IN despite)
+          (NP (DT that)))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (NNP AZ) (NNP Differential) (NNP Specialists))
+    (VP (VBD gave)
+      (NP (PRP me))
+      (NP
+        (NP (DT the) (JJS best) (NN estimate))
+        (SBAR (IN that)
+          (S
+            (NP (PRP I))
+            (VP (MD could)
+              (VP (VB find)
+                (PP (IN for)
+                  (S
+                    (VP (VBG rebuilding)
+                      (NP (PRP$ my) (NN transfer) (NN case))
+                      (SBAR (IN so)
+                        (S
+                          (PP (IN after)
+                            (S
+                              (VP (VBG reading)
+                                (NP (DT these) (NNS reviews)))))
+                          (NP (PRP I))
+                          (VP (VBD decided)
+                            (S
+                              (VP (TO to)
+                                (VP (VB use)
+                                  (NP (PRP them)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Being)
+        (PP (IN on)
+          (NP (NNP Grand) (NN avenue)))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD was)
+      (ADVP (RB already))
+      (VP (VBN prepared)
+        (PP (IN for)
+          (NP (DT an)
+            (ADJP (JJR older) (JJ industrial))
+            (ADJP (VBG looking))
+            (NN building)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (PRP$ Its) (JJ true))
+        (SBAR
+          (S
+            (NP (PRP they))
+            (VP (VBD had)
+              (NP
+                (NP
+                  (ADJP (RB very) (JJ little))
+                  (NN parking))
+                (CC and)
+                (NP (DT the) (NN shop)))))))
+      (ADVP (RB definitely))
+      (VP (VBD was) (RB n't)
+        (ADJP (JJ fancy))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT those) (NNS things))
+      (ADVP (RB really))
+      (VP (VBP are) (RB n't)
+        (ADJP (JJ important)
+          (PP (TO to)
+            (NP (PRP me))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Bubba))
+      (, ,)
+      (NP (PRP$ their) (NN customer) (NN service) (NN rep))
+      (, ,))
+    (VP
+      (VP (VBD was)
+        (ADJP
+          (ADJP (RB very) (JJ communicative))
+          (CC and)
+          (ADJP (NN professional)))
+        (PP (IN through)
+          (NP (DT the) (JJ entire) (NN process))))
+      (CC and)
+      (VP (VBD took)
+        (NP (DT the) (NN time))
+        (S
+          (VP (TO to)
+            (VP (VB explain)
+              (NP
+                (NP (DT the) (NN work))
+                (SBAR
+                  (S
+                    (NP (PRP they))
+                    (VP (VBD were)
+                      (VP (VBG doing)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VP (VBD were)
+        (PP (IN on)
+          (NP
+            (NP (NN time))
+            (PP (IN with)
+              (NP (DT the) (NN repair))))))
+      (, ,)
+      (CC and)
+      (VP
+        (ADVP (RB even))
+        (VBD offered)
+        (NP
+          (NP (DT a) (CD 12) (NN month) (NN warranty))
+          (PP (IN on)
+            (NP (DT all) (NNS repairs))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Overall))
+      (NP (DT this))
+      (VP (VBD was)
+        (NP (DT a) (JJ great) (NN experience))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (MD 'd)
+        (ADVP (RB gladly))
+        (VP (VB refer)
+          (NP (PRP$ my) (NN family)
+            (CC and)
+            (NNS friends))
+          (PP (IN for)
+            (NP
+              (NP (DT any) (NN work))
+              (SBAR
+                (S
+                  (NP (PRP they))
+                  (VP (VBD needed)
+                    (S
+                      (VP (TO to)
+                        (VP (VB have)
+                          (VP (VBN done)))))))))))))
+    (. .)))
+
+

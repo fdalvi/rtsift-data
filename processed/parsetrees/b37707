@@ -1,0 +1,63 @@
+(ROOT
+  (S
+    (S
+      (ADVP (RB Always))
+      (ADJP (JJ clean)))
+    (, ,)
+    (NP (NNS employees))
+    (VP (VBP are)
+      (ADVP (RB always))
+      (ADJP (JJ friendly)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP sell)
+      (NP (NN everything))
+      (PP (IN from)
+        (NP
+          (NP (NN soda))
+          (PP (TO to)
+            (NP (JJ hot) (NN dog) (NNS buns)))))
+      (PP (TO to)
+        (NP (NN medicine))))
+    (. .)))
+
+
+(ROOT
+  (NP (NN yay) (. !)))
+
+(ROOT
+  (FRAG
+    (NP (NNP QT) (NNP Greatest) (NN gas) (NN station))
+    (NP (NN eva))
+    (. !)))
+
+
+(ROOT
+  (NP
+    (NP (NNP Clean))
+    (, ,)
+    (NP (JJ nice) (NN staff))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP ($ $) (CD 0.79))
+      (PP (IN for)
+        (NP (DT a) (NN dink))))
+    (VP (VBZ :--RRB-)
+      (NP (JJ clean) (NNS restrooms)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBZ is)
+      (NP (PRP$ my) (NN go))
+      (PP (TO to)))
+    (. .)))
+
+

@@ -1,0 +1,138 @@
+(ROOT
+  (NP
+    (NP (NNP Nice))
+    (VP (VBG sitting)
+      (NP (NN area)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (NNP Better))
+    (VP (VBP humidor)
+      (PP (IN than)
+        (NP (JJS most) (NNS shops)))
+      (PP (IN in)
+        (NP (DT the) (NN area))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP
+      (VP (VB Lots)
+        (PP (IN of)
+          (NP (NNP Locals))))
+      (: ...)
+      (NP
+        (NP (NNP Good) (NNP Friendly) (NN shop))
+        (: ...)
+        (SQ (MD Will)
+          (VP (VB go)
+            (S
+              (NP (EX there))
+              (ADVP (RB again))
+              (ADJP (JJ !!)))))))))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (DT this) (NN place))
+          (VP (VBD closed)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ 's)
+      (NP
+        (NP (DT a) (NN notice))
+        (PP (IN on)
+          (NP
+            (NP (DT the) (NN door))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBZ says)
+                  (NP (`` ``)
+                    (NP (NNP Notice))
+                    (PP (IN of)
+                      (NP (NNP Bankruptcy) (NNP Chapter) (CD 7)))
+                    ('' '')))))))))))
+
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP
+        (NP (DT a) (JJ huge) (NN selection))
+        (PP (IN of)
+          (NP
+            (NP (NNP B) (NN list) (NNS cigars))
+            (ADVP (RB mostly))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP do) (RB n't)
+      (VP (VB have)
+        (NP
+          (QP (JJ many) (CD 90))
+          (NNS +))
+        (VP (VBN rated)
+          (ADVP (RB smokes))
+          (, ,)
+          (PP (VBG including)
+            (NP
+              (NP (DT any))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (NNPS Padrons))
+                  (, ,)
+                  (NP
+                    (NP (CD 64) (POS 's))
+                    (CC or)
+                    (NP (CD 26) (POS 's))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD purchased)
+      (NP (PRP$ their) (NN houseblend))
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (NP (PRP I))
+          (VP (VBP intend)
+            (PP (IN on)
+              (NP
+                (NP (NN smoking))
+                (PP (IN over)
+                  (NP (DT the) (NN weekend)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS prices))
+    (VP (VBP are)
+      (ADJP (JJ fair))
+      (, ,)
+      (ADVP
+        (ADVP (RBR lower))
+        (SBAR (IN than)
+          (S
+            (NP (JJS most) (NNS shops))
+            (VP (VBP like)
+              (NP
+                (NP (DT this))
+                (PP (IN in)
+                  (NP (NNP California)))))))))
+    (. .)))
+
+

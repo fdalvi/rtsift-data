@@ -1,0 +1,137 @@
+(ROOT
+  (FRAG
+    (FRAG
+      (ADJP
+        (ADVP (RB Simply))
+        (JJ Amazing))
+      (: /))
+    (: /)
+    (FRAG (RB /))))
+
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBP come)
+      (ADVP (RB here))
+      (NP (DT every) (NN weekend))
+      (ADVP (RB just))
+      (S
+        (VP (TO to)
+          (VP (VB eat)))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (NNP Everything))
+    (VP (VBZ is)
+      (ADJP (JJ clean)
+        (CC and)
+        (JJ good)
+        (S
+          (VP (TO to)
+            (VP (VB eat))))))
+    (. !)))
+
+(ROOT
+  (S (CC And)
+    (NP (DT the) (NNS people))
+    (VP
+      (ADVP (IN that))
+      (VBP work)
+      (NP
+        (ADVP (RB there))
+        (DT all)
+        (ADJP (RB so) (JJ nice))
+        (NN !!)))))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBZ is)
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NNP Fantastic) (NNP Swap) (NNP Meet))
+          (, ,)
+          (ADVP (RB down)
+            (NP (CD aisle) (JJ H-and) (NN booth)))
+          (NP (CD 38)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP make)
+      (NP
+        (NP (NNS rolls))
+        (, ,)
+        (NP (NN hand) (NNS rolls))
+        (, ,)
+        (NP
+          (NP (JJ Hawaiian) (NN sausage))
+          (PP (IN over)
+            (NP (NN rice)
+              (CC and)
+              (JJ other) (NN snack) (NNS items))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD ordered)
+      (NP
+        (NP (DT the) (NN sausage) (NN rice))
+        (CC and)
+        (NP (DT a) (NN hand) (NN roll))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN hand) (NN roll))
+      (VP (VBD was)
+        (NP (DT a) (JJ good) (NN size))))
+    (CC and)
+    (S
+      (NP (DT the) (JJ spicy) (NN tuna))
+      (VP (VBD was)
+        (ADJP (JJ fresh))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN sausage))
+      (VP (VBD was)
+        (VP
+          (VP (VBN heated)
+            (PRT (RP up)))
+          (CC and)
+          (VP (VBN served)
+            (PP (IN over)
+              (NP (NN rice)))))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (ADJP (JJ delicious))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (DT this))
+          (VP (VBZ is)
+            (NP
+              (NP (JJS best) (NN food) (NN spot))
+              (PP (IN in)
+                (NP (DT the) (NN swap)
+                  (S
+                    (VP (VB meet))))))))))
+    (. .)))
+
+

@@ -1,0 +1,162 @@
+(ROOT
+  (FRAG
+    (ADJP
+      (ADVP (RB Absolutely))
+      (JJ fantastic))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (JJ spicy) (NNS gyros))
+      (VP (VBD was)
+        (ADJP (RB absolutely) (JJ amazing))))
+    (CC and)
+    (S
+      (NP (NN everything))
+      (VP (VBD tasted)
+        (ADJP (RB so) (JJ fresh))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ diverse) (NN menu))
+    (VP (VBD was)
+      (NP (DT an) (JJ absolute) (NN plus))
+      (SBAR (IN because)
+        (S
+          (NP (PRP it))
+          (VP (VBZ seems)
+            (SBAR (IN like)
+              (S
+                (NP (PRP they))
+                (VP (VBP want)
+                  (S
+                    (VP (TO to)
+                      (VP (VB reach)
+                        (NP
+                          (NP (DT all))
+                          (PP (IN of)
+                            (NP (DT the) (NNS crowds))))))))))))))
+    (. !)))
+
+(ROOT
+  (NP
+    (NP (NNP Definitely))
+    (VP (VBG going)
+      (ADVP (RB back)))
+    (. !)))
+
+
+(ROOT
+  (NP
+    (ADJP
+      (ADVP (RB Absolutely))
+      (JJ fantastic))
+    (NNPS !!)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ spicy) (NNS gyros))
+    (VP (VBD was)
+      (ADVP (JJ such))
+      (NP (DT a)
+        (ADJP (JJ unique) (, ,) (JJ wonderful)
+          (CC and)
+          (JJ delicious))
+        (NN idea)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (VP (VB Nice)
+      (NP (JJ clean) (NN restaurant))
+      (PP (IN with)
+        (NP
+          (NP (DT a) (JJ good) (NN selection))
+          (PP (IN of)
+            (NP (NN food))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP have)
+        (NP (PDT all) (DT the) (JJ typical) (JJ Mediterranean) (NN style) (NN food))))
+    (CC but)
+    (S
+      (NP (PRP they))
+      (ADVP (RB also))
+      (VP (VBP have)
+        (NP
+          (NP (DT some) (NNS extras))
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBZ is)
+                (ADJP (JJ nice))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD had)
+      (NP
+        (NP (DT the) (JJ falafel) (NN pita))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBD was)
+              (ADJP (RB very) (JJ good)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ iced) (NN tea))
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBP have)
+            (VP (VBZ is)
+              (ADVP (RB also))
+              (ADJP (JJ good)))))))
+    (, ,)
+    (NP (PRP it))
+    (VP
+      (VP (VBZ has)
+        (NP (DT a) (JJ nice) (JJ floral) (NN flavor)))
+      (CC and)
+      (VP (VBZ is)
+        (VP (VBN unsweetened))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (VP
+        (VP (VBN greeted)
+          (ADVP
+            (ADVP (RB very) (RB well))
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP I))
+                (VP (VBD came)
+                  (PRT (RP in)))))))
+        (CC and)
+        (VP (VBN taken)
+          (NP
+            (NP (NN care))
+            (PP (IN of)
+              (SBAR (IN as)
+                (S
+                  (NP (PRP I))
+                  (VP (VBD ate)
+                    (NP (PRP$ my) (NN meal))))))))))
+    (. .)))
+
+

@@ -1,0 +1,157 @@
+(ROOT
+  (S
+    (PP (IN Over)
+      (NP
+        (ADJP (VBN priced) (JJ burnt))
+        (NN coffee)))
+    (, ,)
+    (NP (JJ bad) (NN service) (, ,) (NN breakfast) (NN sandwich))
+    (VP (VBD was)
+      (ADVP (RB greasy)))))
+
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP (JJ infrequent)
+        (PP (IN for)
+          (NP (PRP me))))
+      (S
+        (VP (TO to)
+          (VP (VB find)
+            (NP
+              (NP (NN something))
+              (ADJP (RB completely) (JJ terrible)))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (PRP I))
+        (VP (VBP do)
+          (VP (VB have)
+            (NP (JJ less-than-stellar) (NNS experiences))))))
+    (, ,)
+    (NP (PRP I))
+    (ADVP (RB usually))
+    (VP (VBP do) (RB n't)
+      (VP (VB bother)
+        (S
+          (VP (TO to)
+            (VP (VB review)
+              (NP (PRP them)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Thanks) (NNP Yelp))
+    (VP (VBP app))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD ordered)
+      (NP (CD two) (JJ large) (NNS lattes))
+      (SBAR (IN because)
+        (S
+          (NP (DT the) (NNP LVH) (NN discount) (NN book))
+          (VP (VBZ gives)
+            (SBAR
+              (S
+                (NP (PRP you))
+                (ADVP
+                  (NP ($ $) (CD 4))
+                  (RB off))
+                (VP (VBD said)
+                  (NP (NN order)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ good) (NN news))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (CD two) (JJ large) (NNS coffees))
+          (VP (`` ``)
+            (ADVP (RB only) ('' ''))
+            (VBD cost)
+            (NP ($ $) (CD 7.47))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ bad) (NN news))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP (VBP taste)
+            (PP (IN like)
+              (NP (DT a) (JJ watered) (JJ down) (NN mess)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBN Granted)))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (NP
+        (NP (DT a) (JJ single) (NN shot))
+        (PP (IN of)
+          (NP
+            (NP (NN espresso))
+            (PP (IN in)
+              (NP (DT a) (JJ 20oz) (NN cup)))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (ADVP (RB still))
+    (, ,)
+    (NP (PRP it))
+    (ADVP (RB just))
+    (VP (VBZ tastes)
+      (PRT (RP off)))
+    (. .)))
+
+(ROOT
+  (NP (JJ Burned) (NN milk) (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ
+      (VP (VBZ knows)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Back)
+      (PP (TO to)
+        (NP (DT the) (JJ good) (NN news))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP feel)
+      (ADJP (JJ much))
+      (, ,)
+      (S
+        (ADJP
+          (ADJP (RB much) (JJR better))
+          (PP (IN about)
+            (NP (DT the) (NNS lattes))))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP make)
+              (PP (IN at)
+                (NP (NN home))))))))
+    (. .)))
+
+

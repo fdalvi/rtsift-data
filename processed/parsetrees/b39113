@@ -1,0 +1,157 @@
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP
+      (VP (VBZ is)
+        (NP (DT a) (JJ great) (NN hair) (NN dresser)))
+      (CC and)
+      (VP (VBZ knows)
+        (NP (PRP$ her) (NN stuff))))
+    (. !)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP want)
+          (NP (DT a) (JJ great) (NN hair) (NN stylist))
+          (PP (IN with)
+            (NP (DT an) (JJ amazing) (NN personality))))))
+    (NP (DT this))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJ right) (NN one))
+        (PP (IN for)
+          (NP (PRP you)))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP am)
+        (ADJP (RB very) (JJ picky)
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (PRP it))
+              (VP (VBZ comes)
+                (PP (TO to)
+                  (NP (NN someone)))
+                (S
+                  (VP (VBG cutting)
+                    (CC or)
+                    (VBG styling)
+                    (NP (PRP$ my) (NN hair))))))))))
+    (CC but)
+    (S
+      (NP (NNP Alice))
+      (VP (VBZ is)
+        (ADVP
+          (NP (NNP Hands))
+          (RB down))
+        (NP
+          (NP (DT the) (JJS best) (NN hair) (NN dresser))
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (VBP have)
+                (ADVP (RB ever))
+                (VP (VBN had))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have)
+      (VP (VBN been)
+        (NP
+          (NP (RB here) (RB twice))
+          (CC and)
+          (NP
+            (NP (DT both) (NNS times))
+            (RRC
+              (ADJP
+                (WHADVP (WRB where))
+                (JJ amazing)))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (ADVP (RB Very))
+    (NP (JJ few) (NN hair) (NNS dressers))
+    (VP (VBP have)
+      (VP (VBN been)
+        (ADJP (JJ able)
+          (S
+            (VP (TO to)
+              (VP (VB give)
+                (NP (PRP me))
+                (NP (DT the) (NN cut))))))
+        (SBAR (IN that)
+          (S
+            (NP (PRP I))
+            (VP (VBP 've)
+              (VP (VBN asked)
+                (PP (IN for))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Alice))
+      (PP (IN on)
+        (NP (DT the) (JJ other) (NN hand))))
+    (VP (VBZ is) (RB not)
+      (ADJP (JJ afraid)
+        (S
+          (VP (TO to)
+            (VP
+              (VP (VB get)
+                (PP (IN in)
+                  (NP (RB there))))
+              (CC and)
+              (VP (VB give)
+                (NP (PRP me))
+                (NP (DT the) (JJ rock) (NN star) (NNS layers)))))))
+      (SBAR (IN that)
+        (S
+          (NP (PRP I))
+          (VP (VBP love)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP She))
+      (VP (VBZ is) (RB not)
+        (NP (RB only) (DT an) (JJ amazing) (NN hairdresser))))
+    (, ,)
+    (S
+      (NP (PRP she))
+      (VP (VBZ is)
+        (NP (DT an) (JJ amazing) (NN person))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (MD would)
+        (VP (VB recommend)
+          (NP (PRP her))
+          (, ,)
+          (NP
+            (NP (NNS hands))
+            (ADVP (IN down)))
+          (, ,)
+          (SBAR (IN as)
+            (S
+              (NP (DT the) (JJS best) (NN Vegas))
+              (VP (VBZ has)
+                (S
+                  (VP (TO to)
+                    (VP (VB offer))))))))))
+    (. .)))
+
+

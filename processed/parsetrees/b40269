@@ -1,0 +1,163 @@
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP
+          (NP (PRP$ my) (NNP Barber))
+          (PP (IN for)
+            (NP (CD 10) (NNS years))))
+        (VP (VBD moved)
+          (PRT (RP back))
+          (NP (NNP East)))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD did) (RB n't)
+      (VP (VB know)
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (VP (TO to)
+              (VP (VB go)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD must)
+      (VP (VB 've)
+        (VP (VBN tried)
+          (NP (CD 6-7) (NNS barbers))
+          (, ,)
+          (SBAR (IN until)
+            (S
+              (NP (PRP I))
+              (ADVP (RB finally))
+              (VP (VBD met)
+                (NP
+                  (NP (NNP Charlie))
+                  (, ,)
+                  (NP (DT the) (NN owner)))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Clean))
+    (, ,)
+    (NP (JJ organized))
+    (, ,)
+    (CC and)
+    (RB very)
+    (NP (NN personable))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Always))
+    (VP (VBG going)
+      (ADVP (IN above)
+        (CC and)
+        (IN beyond)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Now))
+    (NP (PRP I))
+    (VP (VBP travel)
+      (PP
+        (PP
+          (NP (CD 18) (NNS miles))
+          (IN from)
+          (NP (NN phx)))
+        (, ,) (RB just)
+        (PP (IN for)
+          (NP
+            (NP (DT the) (JJ perfect) (NN haircut))
+            (, ,)
+            (CC and)
+            (NP (JJ personal) (NN service))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN shop))
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ self)))))
+    (VP
+      (VP (VBZ is)
+        (ADJP (JJ roomy)))
+      (, ,)
+      (CC and)
+      (VP (JJ perfect)
+        (PP (IN for)
+          (NP (DT the) (JJ usual) (JJ male) (NN salon) (NN commentary)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP
+      (ADVP (RB Usually))
+      (JJ busy)
+      (PP (IN on)
+        (NP (NNP Fridays)
+          (CC and)
+          (NNP Saturdays))))
+    (, ,)
+    (SBAR (IN as)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (VP (VBN expected) (, ,)
+              (SBAR (IN so)
+                (S
+                  (NP (PRP I))
+                  (VP (VBP try)
+                    (S
+                      (VP (TO to)
+                        (VP (VB make)
+                          (NP (PRP it))
+                          (PRT (RP out))
+                          (ADVP (RBR earlier)
+                            (PP (IN in)
+                              (NP (DT the) (NN week)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB finally))
+    (VP (VBD found)
+      (NP (PRP$ my) (JJ new) (NN place)))
+    (. .)))
+
+
+(ROOT
+  (FRAG
+    (FRAG
+      (NP (JJ Great) (NN customer) (NN service))
+      (: Friendly)
+      (FRAG
+        (NP
+          (NP (NNS people))
+          (NP
+            (ADVP (RB Always))
+            (NN fun)))
+        (NP (CD Being))
+        (PP (IN in)
+          (NP (DT this) (NN place)))
+        (. .))
+      (. .))
+    (: Best)
+    (FRAG
+      (NP
+        (NP (NNS barbers))
+        (PP (IN in)
+          (NP (NN town))))
+      (. .))
+    (. .)))
+
+

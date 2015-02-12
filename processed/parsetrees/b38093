@@ -1,0 +1,128 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 've)
+      (VP (VBN been)
+        (NP
+          (NP (DT a) (JJ loyal) (NNP Michelle) (NN client))
+          (PP (IN for)
+            (NP (IN over) (CD 10) (NNS years))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (VBD went)
+      (PP (IN from)
+        (NP
+          (NP (DT a) (`` ``) (JJ regular) (NN salon) ('' ''))
+          (PP (TO to)
+            (S
+              (VP (VBG renting)
+                (NP (PRP$ her) (JJ own) (NN space))
+                (PP (IN in)
+                  (NP (NNP DC) (NNP Salon)))))))))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (NNS Manicures))
+      (, ,)
+      (NP (NNS acrylics))
+      (, ,)
+      (NP (NN eye) (NN lash) (NNS extensions))
+      (, ,)
+      (NP (NN waxing))
+      (, ,)
+      (NP (NN gel)))
+    (: --)
+    (S
+      (NP (PRP she))
+      (VP (VBZ does)
+        (S
+          (NP (PRP it))
+          (NP (DT all)))))
+    (. !)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP she))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJS best))
+        (PP (IN at)
+          (NP (DT a) (JJ reasonable) (NN price)))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's)
+        (NP (DT a)
+          (ADJP (RB really) (JJ great))
+          (NN place)
+          (S
+            (VP (TO to)
+              (VP (VB get)
+                (NP (PRP$ your) (NNS nails))))))))
+    (CC and)
+    (S
+      (NP
+        (NP (PRP$ your) (NNS kids) (POS '))
+        (NNS nails))
+      (VP
+        (VP (VBN done)
+          (PP (IN for)
+            (NP (JJ special) (NNS events))))
+        (CC or)
+        (VP
+          (ADVP (RB just))
+          (PP (IN for)
+            (NP (NN fun))))))
+    (. !)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP she))
+    (VP (VBZ 's)
+      (ADJP (RB really) (JJ cheap))
+      (PP (VBN compared)
+        (PP (TO to)
+          (NP
+            (NP (JJ other) (NN nail) (NNS technicians))
+            (PP (IN in)
+              (CC or)
+              (IN outside)
+              (PP (IN of)
+                (NP (NNP DC) (NNP Salon))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Michelle))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (JJ great)
+          (PP (IN at)
+            (NP (NNS eyelashes))))
+        (CC and)
+        (ADJP (RB very) (JJ nice))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP
+      (VP
+        (ADVP (RB really))
+        (VBZ takes)
+        (NP (PRP$ her) (NN time)))
+      (CC and)
+      (VP (VBZ does)
+        (NP (DT an) (JJ excellent) (NN job))))))
+
+

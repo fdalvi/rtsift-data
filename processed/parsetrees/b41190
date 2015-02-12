@@ -1,0 +1,200 @@
+(ROOT
+  (S
+    (NP (NNP =) (NNP =) (NNP =) (NNP =) (NNP =))
+    (VP (SYM =)
+      (NP (NNP WEEKDAY) (NNP LUNCH) (NNP BUFFET)))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP =) (NNP =) (NNP =) (NNP =))
+        (VP (VBN =)
+          (S
+            (VP (SYM =)
+              (NP (DT This) (JJ mid-sized) (NNP Peter) (NNP Piper))))))
+      (VP (VBD was)
+        (VP (VBG JUMPING)
+          (NP
+            (NP (DT this) (NN morning))
+            (CC &)
+            (NP
+              (NP (PRP they))
+              (VP (VBN had)
+                (NP (DT an) (JJ amazing) (CD 13) (NNS pizzas))
+                (PP (IN out)
+                  (SBAR
+                    (WHADVP (WRB when))
+                    (S
+                      (NP (PRP I))
+                      (VP (VBD arrived)))))))))))
+    (, ,)
+    (NP (IN plus) (NN bread))
+    (VP (VBZ sticks))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD did)
+      (VP (VB go)
+        (ADVP (RB ahead))
+        (NP (CC &)
+          (NP
+            (NP (NN order))
+            (PP (IN up)
+              (NP (DT a) (NN custom))))
+          (, ,)
+          (NP
+            (NP (DT this) (NN time))
+            (PP (IN with)
+              (NP (NNP Thin) (NNP Crust) (, ,) (NNP Pepperoni) (, ,) (JJ Italian) (NNP Sausage))))
+          (, ,)
+          (NP
+            (NP (NNP Red) (NNP Onion))
+            (, ,)
+            (NP (NNP bacon)
+              (CC &)
+              (NNP Jalepe?o))))))
+    (. .)))
+
+(ROOT
+  (S (RB Then)
+    (NP (PRP it))
+    (VP (VBD was)
+      (ADJP (IN off)
+        (S
+          (VP (TO to)
+            (VP (VB scoop)
+              (PRT (RP up))
+              (NP
+                (NP (SYM &))
+                (SBAR
+                  (S
+                    (VP (VBP enjoy)
+                      (NP
+                        (NP (DT some))
+                        (PP (IN of)
+                          (NP
+                            (NP (DT each))
+                            (PP (IN of)
+                              (NP (PRP$ their) (CD 3) (JJ tossed) (NNS salads)))))))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN Before)
+      (NP (RB long) (PRP$ my) (NN pizza)))
+    (VP (VBD was)
+      (ADVP (RB up)
+        (SBAR
+          (S
+            (NP (CC &))
+            (VP (VBD was)
+              (NP (PRP it))
+              (ADVP (RB ever)))))))
+    (NP (JJ good) (NNS !!))))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (-LRB- -LRB-) (NNP Photo) (-RRB- -RRB-))
+      (SBAR
+        (S
+          (PP (IN After)
+            (S
+              (VP (VBG wolfing)
+                (PRT (RP down))
+                (NP
+                  (NP (NN half))
+                  (PP (IN of)
+                    (NP (DT that) (NN one)))))))
+          (NP (PRP I))
+          (VP (MD could) (RB n't)
+            (VP (VB resist)
+              (S
+                (VP (VBG grabbing)
+                  (NP
+                    (NP (NNS slices))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT a) (NN couple) (JJ different) (NN chef) (POS 's))
+                        (NN choice) (NNS pizzas)))
+                    (SBAR
+                      (WHNP (WDT which))
+                      (S
+                        (VP (VBD were)
+                          (ADJP (RB really) (JJ good) (RB too)))))))))))))
+    (: ...)
+    (VP (VBD loaded)
+      (ADVP (RB up) (JJ great)
+        (PP (IN with)
+          (NP (JJ such) (NNS things))))
+      (PP (IN as)
+        (NP
+          (NP (JJ triple) (NN cheese))
+          (PP (CC plus)
+            (NP (JJ several) (JJ other) (NNS toppings))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP YUM))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VBD :--RRB-) (-RRB- -RRB-)
+      (NP
+        (NP (NNP Weekday) (NNP Lunch) (NNP Buffet))
+        (: :)
+        (NP
+          (NP ($ $) (CD 5.99))
+          (PRN (: /)
+            (NP ($ $) (CD 5.39)))))
+      (ADVP (VBD Sr.)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NNS kids))
+    (VP (VBP love)
+      (NP (DT this) (NN place)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Great))
+    (PP (IN for)
+      (NP (JJ large) (NNS groups)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Pizza))
+    (VP (VBZ tastes)
+      (ADJP (JJ good))
+      (ADVP (RB also)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Kids))
+    (VP (VBP love)
+      (NP (DT the) (JJ arcade) (NN area)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Reasonable) (NN price))
+    (PP (IN for)
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP (PRP you))
+          (VP (VBP get)))))
+    (. .)))
+
+

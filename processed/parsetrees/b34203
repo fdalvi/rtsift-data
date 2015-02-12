@@ -1,0 +1,143 @@
+(ROOT
+  (SINV
+    (ADVP (RB Just))
+    (VP (VBD had)
+      (NP (PRP$ their) (NN spicy)))
+    (NP (NNP tuna) (NNP !!))))
+
+(ROOT
+  (S
+    (VP (VB Awesome))
+    (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Listening)
+        (PP (TO to)
+          (NP (DT a) (JJ local) (NN radio) (NN station)))))
+    (CC and)
+    (S
+      (VP (VBN heard)
+        (PP (IN about)
+          (NP (DT this) (NN store)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBN Found)
+        (NP (PRP it))))
+    (, ,)
+    (VP
+      (VP (VBD met)
+        (NP (NN owner) (NNP Frank)))
+      (, ,)
+      (CC and)
+      (VP (VBD ordered)
+        (NP (DT some) (JJ shoyu) (NN poke)
+          (CC and)
+          (NN poi))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Frank))
+      (VP (VBD made)
+        (NP
+          (NP (DT a) (JJ fresh) (NN batch))
+          (PP (IN of)
+            (NP (NN poke)))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBD was)
+                (ADJP
+                  (ADJP
+                    (ADJP (JJ seasoned))
+                    (ADJP (RB slightly) (JJ different)))
+                  (SBAR (IN than)
+                    (S
+                      (NP (PRP I))
+                      (VP (VBP 'm)
+                        (VP (VBN used)
+                          (S
+                            (VP (TO to))))))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (ADJP (JJ Ono))))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VBG Looking)
+      (PRT (RP forward))
+      (PP (TO to)
+        (S
+          (VP (VBG stopping)
+            (PP (IN by)
+              (ADVP (RB again)))
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP I))
+                (VP (VBP am)
+                  (PP (IN in)
+                    (NP (DT the) (NN neighborhood))))))))))
+    (. !)))
+
+(ROOT
+  (NP (NNP Mahalo) (NNP Frank) (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ First) (NN visit))
+      (, ,)
+      (NP
+        (NP
+          (NP (NN couple))
+          (VP (VBG running)
+            (S
+              (S
+                (NP (DT the) (NN place))
+                (VP (VBD Was)
+                  (ADJP (RB so) (JJ friendly))))
+              (CC and)
+              (S
+                (NP (PRP they))
+                (VP (VBP cater)
+                  (PP (TO to)
+                    (NP (PRP$ your) (NN taste) (NNS buds))))
+                (. .)))))
+        (. .)
+        (NP
+          (NP (DT The) (NN price))
+          (PP (IN of)
+            (NP (NN poke))))))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (RB very) (JJ reasonable))
+        (CC and)
+        (ADJP (RB very) (JJ delicious)
+          (CC and)
+          (JJ Tasty))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD will)
+      (ADVP (RB definitely))
+      (VP (VB go)
+        (PRT (RP back))
+        (ADVP (RB again))))
+    (. !)))
+
+

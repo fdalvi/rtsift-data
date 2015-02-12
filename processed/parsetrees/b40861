@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (MD would)
+      (VP (VB get)
+        (NP (DT a) (CD 5) (NN star))
+        (SBAR (IN if)
+          (S
+            (NP (PRP it))
+            (VP (VBD was)
+              (ADJP (JJ easy)
+                (S
+                  (VP (TO to)
+                    (VP (VB find)
+                      (NP (DT the) (NN place)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have)
+      (NP
+        (NP (DT a) (JJ hard) (NN time))
+        (VP (VBG seeing)
+          (NP
+            (NP (DT this))
+            (PP (IN on)
+              (NP
+                (NP (DT the) (NN street))
+                (PP (IN of)
+                  (NP (NNP Swenson) (NNP St.))))))
+          (ADVP (RB Also)))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP wish)
+              (SBAR
+                (S
+                  (NP (PRP they))
+                  (VP (MD would)
+                    (VP (VB be)
+                      (ADJP (JJ open))
+                      (PP (IN on)
+                        (NP (NNP Saturday)))
+                      (ADVP (RB especially))
+                      (PP (IN on)
+                        (NP (DT the) (NNS holidays))))))))))))))
+
+

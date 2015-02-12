@@ -1,0 +1,234 @@
+(ROOT
+  (FRAG (RB Not)
+    (ADJP (JJ bad)
+      (PP (IN for)
+        (NP (DT a) (NNP Taco) (NNP Bell))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (PP (IN Like)
+      (NP
+        (NP (DT any) (NNP Taco) (NNP Bell))
+        (PP (RB around) (IN except)
+          (NP (DT the) (NN service)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN service))
+    (VP (VBZ is)
+      (NP
+        (NP (NN way))
+        (PP (IN above)
+          (NP (NN average)))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (CD Two) (NNS parts))
+    (PP (TO to)
+      (NP (DT this) (NN review)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB First))
+    (, ,)
+    (NP (DT the) (NN store))
+    (VP (VBZ overall))
+    (. .)))
+
+(ROOT
+  (S
+    (FRAG
+      (ADJP (RB Very) (JJ nice)))
+    (: -)
+    (S
+      (NP (DT the) (NNS folks))
+      (VP (VBP are)
+        (ADJP (RB quite) (JJ pleasant)
+          (CC and)
+          (JJ helpful))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Inside))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (ADJP (JJ well-kept)
+        (CC and)
+        (JJ clean)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP (RB very) (JJ convenient)
+        (PP (IN for)
+          (NP
+            (NP (PRP me))
+            (CC and)
+            (NP (DT an) (JJ easy) (NN stop))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (ADJP (RB Very) (JJ reliable)
+        (PP (IN for)
+          (NP (DT the) (NN standard))))
+      (NNP Taco) (NNP Bell))
+    (VP (VBP fare)
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP I))
+          (VP (VBP have)
+            (NP (DT that) (NN hankerin) ('' '))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Next))
+    (: -)
+    (NP (PRP$ their) (JJ new) (`` ``) (NN breakfast) ('' ''))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD had)
+      (NP (DT a) (NN waffle) (NN taco)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBZ *)
+        (NP (NN love))
+        (FRAG
+          (X (SYM *))
+          (NP (NN breakfast)))))
+    (, ,) (IN so)
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (ADJP (JJ excited)
+          (S
+            (VP (TO to)
+              (VP (VB try)
+                (NP (DT this))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Blech))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN While)
+      (S
+        (NP (PRP it))
+        (VP (VBD was) (RB n't)
+          (ADJP (JJ horrible)))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (NP
+        (NP (DT no) (NN threat))
+        (PP (TO to)
+          (NP (NNP McDonalds)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS eggs))
+    (VP (VBD were)
+      (ADJP (JJ few)
+        (CC and)
+        (JJ crumbly)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN sausage))
+    (VP (VBD was)
+      (ADJP (JJ okay)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN waffle))
+    (VP
+      (VP (VBD was)
+        (ADJP (RB too) (JJ maple-flavored)))
+      (CC and)
+      (VP (VBD overpowered)
+        (NP
+          (NP (DT the) (NN rest))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NNS ingredients))
+              (PRN (-LRB- -LRB-)
+                (NP
+                  (NP (DT no) (NN need))
+                  (PP (IN for)
+                    (NP (DT the) (NN syrup))))
+                (-RRB- -RRB-)))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Overall))
+    (, ,)
+    (NP (DT a) (NN disappointment))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (S
+      (S
+        (NP (PRP It))
+        (VP (MD would)
+          (VP (VB be)
+            (VP (VBN alright)
+              (PP (IN in)
+                (NP (DT a) (NN pinch)))))))
+      (, ,)
+      (CC but)
+      (S
+        (NP (PRP I))
+        (VP (MD 'd)
+          (VP (VB cross)
+            (NP (DT a) (JJ busy) (NN street))
+            (SBAR (IN if)
+              (S
+                (NP (EX there))
+                (VP (VBD were)
+                  (S
+                    (NP
+                      (NP (DT a) (NNP McDonalds))
+                      (-LRB- -LRB-)
+                      (CC or)
+                      (NP (NNP Burger) (NNP King))
+                      (: ...)
+                      (CC or)
+                      (NP (NNP Hardees))
+                      (: ...))
+                    (ADJP (JJ etc.))))))))))))
+
+(ROOT
+  (S
+    (VP (VB -RRB-)
+      (PP (IN as)
+        (NP (DT an) (NN alternative))))
+    (. .)))
+
+

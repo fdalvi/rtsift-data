@@ -1,0 +1,91 @@
+(ROOT
+  (S
+    (NP
+      (NP (PDT Such) (DT a) (JJ great) (NN environment))
+      (CC &)
+      (NP (NNP Peet)))
+    (VP (VBZ 's)
+      (NP (NN coffee)))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (ADJP (DT The) (JJS best))
+    (. !)))
+
+(ROOT
+  (NP
+    (NP (NN Love))
+    (NP (DT this) (NN cafe))
+    (. !)))
+
+
+(ROOT
+  (NP (JJ Great) (NN environment) (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS employees))
+      (VP (VBP are)
+        (ADJP (JJ fun)
+          (CC and)
+          (JJ friendly))))
+    (CC and)
+    (S
+      (NP (DT the) (NNS drinks))
+      (VP (VBP are)
+        (ADJP (RB pretty) (JJ good))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (NNP Nice))
+    (VP (VBP place)
+      (S
+        (VP (TO to)
+          (VP
+            (VP (VB relax))
+            (, ,)
+            (VP (VB hang)
+              (PRT (RP out)))
+            (, ,)
+            (CC and)
+            (VP (VB meet)
+              (NP (NNS people)))))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (NNP Great))
+    (NP
+      (NP (NN staff))
+      (CC and)
+      (NP (NNS drinks)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB much))
+    (VP (VBP prefer)
+      (S
+        (VP (TO to)
+          (VP (VB frequent)
+            (NP
+              (NP (DT this) (NN establishment))
+              (PP (IN over)
+                (NP (JJ mega) (JJ corporate) (NN coffee) (NNS shops))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Quiet)
+      (NP
+        (NP (NN atmosphere))
+        (CC and)
+        (NP (JJ nice) (NN environment))))
+    (. .)))
+
+

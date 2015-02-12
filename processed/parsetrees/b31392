@@ -1,0 +1,88 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP love)
+      (NP (DT this) (NN bank)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have)
+      (NP
+        (NP (JJ several) (NNS accounts))
+        (PP (IN with)
+          (NP (PRP them)))
+        (PP (VBG including)
+          (NP
+            (NP (DT a) (JJ small) (NN business) (NN checking) (NN account))
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBZ is)
+                  (ADJP (RB totally) (JJ free)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT All))
+        (PP (IN of)
+          (NP (PRP$ my) (NNS accounts))))
+      (VP (VBP are)
+        (ADJP (JJ free))))
+    (, ,)
+    (NP
+      (NP (CD one))
+      (PP (IN of)
+        (NP (PRP them))))
+    (VP (VBZ requires)
+      (NP (DT a) (JJ minimum) (NN balance)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP have)
+        (VP (VBN had)
+          (NP (DT a) (JJ few) (JJ fraudulent) (NNS incidents))
+          (S
+            (VP (VB happen)
+              (PP (IN on)
+                (NP (PRP$ my) (NNS accounts))))))))
+    (CC and)
+    (S
+      (NP (NNP US) (NN bank))
+      (VP (VBD took)
+        (NP
+          (NP (NN care))
+          (PP (IN of)
+            (NP
+              (NP (PRP it))
+              (UCP
+                (ADVP (RB quickly))
+                (CC and)
+                (PP (IN with)
+                  (NP (NN ease)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP do)
+      (SBAR
+        (S
+          (VP (VBP wish)
+            (SBAR
+              (S
+                (NP (EX there))
+                (VP (VBD were)
+                  (NP
+                    (NP (DT a) (JJ few) (JJR more))
+                    (PP (IN in)
+                      (NP (NN town)))))))))))
+    (. .)))
+
+

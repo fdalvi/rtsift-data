@@ -1,0 +1,111 @@
+(ROOT
+  (S
+    (NP (NNP Brad))
+    (VP (VBZ is)
+      (NP (DT the) (JJS best) (NN barber))
+      (ADVP (RB ever)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBZ has)
+      (NP (DT a) (JJ nice) (NN beard)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD took)
+      (NP (PRP me))
+      (NP (CD 10) (NNS years))
+      (S
+        (VP (TO to)
+          (VP (VB find)
+            (NP (DT the) (JJ right) (NN barbershop))
+            (PP (IN in)
+              (NP (DT this) (NN town)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ My) (NNS instructions))
+      (PP (TO to)
+        (NP (PRP$ my) (NN barber))))
+    (VP (VBD was)
+      (VP (, ,)
+        (S
+          (VP (`` ``) (VB cut)
+            (NP (PRP$ my) (NN hair))
+            ('' '')))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD did)
+      (NP (DT a) (JJ professional) (NN job)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (JJS Best) (NNS pompadours))
+    (VP (VBP are)
+      (VP (VBN made)
+        (ADVP (RB here))
+        (ADVP (RB !!!!))))))
+
+(ROOT
+  (S
+    (S
+      (VP (VB Ask)
+        (PP (IN for)
+          (NP (NNP ROB)))))
+    (, ,)
+    (S (CC but)
+      (NP (PDT all) (DT the) (NNS guys))
+      (ADVP (RB there))
+      (VP (VBP do)
+        (NP (DT a) (JJ great) (NN job))))
+    (. .)))
+
+(ROOT
+  (S
+    (FRAG
+      (NP (NN TIP)))
+    (: :)
+    (S
+      (S
+        (INTJ (VB Please))
+        (VP
+          (VP (VB be)
+            (ADJP (JJ ready)
+              (S
+                (VP (TO to)
+                  (VP (VB wait))))))
+          (CC and)
+          (VP (VB make)
+            (ADJP (JJ sure)
+              (SBAR
+                (S
+                  (NP (PRP you))
+                  (VP (VBP know)
+                    (SBAR
+                      (WHNP (WP who))
+                      (S
+                        (VP (VBZ is)
+                          (ADVP (RB ahead))
+                          (PP (IN of)
+                            (NP (PRP you)))))))))))))
+      (CC so)
+      (S
+        (NP (DT no) (CD one) (NNS jumps))
+        (PP (IN in)
+          (PP (IN before)
+            (NP (PRP you))))))
+    (. .)))
+
+

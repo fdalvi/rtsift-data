@@ -1,0 +1,74 @@
+(ROOT
+  (NP (DT The) (NN Best) (. !)))
+
+
+(ROOT
+  (S
+    (NP (NNP Quality))
+    (VP (VBZ barber)
+      (NP (NN shop)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Great))
+    (NP
+      (NP (NNS guys))
+      (CC and)
+      (NP (DT a) (JJ great) (NN environment)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (JJS Best))
+    (VP (VBP place)
+      (PP (IN in)
+        (NP (DT the) (NN valley)
+          (S
+            (VP (TO to)
+              (VP (VB get)
+                (NP (DT a) (NN haircut))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP are)
+          (NP (NNP LE)))))
+    (NP (PRP you))
+    (VP (MD will)
+      (VP (VB love)
+        (NP (DT the) (NN decor))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (VP (VBN been)
+        (NP (DT a) (NN staple))
+        (ADVP (RB there))
+        (PP (IN for)
+          (NP (JJ many) (JJ many) (JJ many) (NNS years)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Great) (JJ shave) (JJ hot) (NNS towels))
+      (CC and)
+      (NP (JJ menthol) (VBG shaving) (NN cream)))
+    (VP
+      (ADVP (RB even))
+      (VBD cleaned)
+      (PRT (RP up))
+      (NP
+        (NP (DT the) (NN back))
+        (PP (IN of)
+          (NP (PRP$ my) (JJ my) (NN neck)))))))
+
+

@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN combo))
+      (PP (IN with)
+        (NP (JJ cold) (NN spicy) (NNS noodles)
+          (CC and)
+          (NNS galbi))))
+    (VP (VBD was)
+      (NP (NN spot))
+      (PP (IN on)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD came)
+      (PP (IN with)
+        (NP
+          (NP (CD three) (NNS sides))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBD were)
+                (ADJP (RB equally) (JJ delicious))))))))
+    (. !)))
+
+

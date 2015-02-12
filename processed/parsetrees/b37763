@@ -1,0 +1,243 @@
+(ROOT
+  (S
+    (NP (NNP Yelp) (CD 100) (NNP Challenge))
+    (VP (VBZ 2013)
+      (PRN (: -)
+        (ADVP
+          (NP (CD 12/100) (NN Came))
+          (RB up))
+        (ADVP (RB here))
+        (VP (TO to)
+          (VP (VB celebrate)
+            (NP (DT a) (NNS friends) (NN birthday)))))
+      (NP (DT this) (JJ past) (NNP Friday) (NN evening)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN park))
+    (VP (VBZ is)
+      (ADVP (RB nicely))
+      (VP (VBN located)
+        (ADVP (JJ next)
+          (PP (TO to)
+            (NP (NNP Lone) (NNP Mountain))))
+        (PRN (-LRB- -LRB-)
+          (FRAG
+            (X
+              (SBARQ
+                (WHNP (WP hence) (DT the) (NN name))
+                (. .))
+              (. .))
+            (NP (NN duh)))
+          (-RRB- -RRB-))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN park))
+    (VP (VBZ offers)
+      (NP
+        (NP
+          (NP (JJ ample) (NN picnic) (NN space))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBZ is)
+                (VP (VBN covered))))))
+        (, ,)
+        (NP
+          (NP (NNP Tennis) (NNP Ball) (NNPS Courts))
+          (, ,)
+          (NP (NNP Horseshoe) (NNPS Courts)))
+        (, ,)
+        (NP
+          (NP (JJ large) (NN play) (NN area))
+          (PP (IN for)
+            (NP (NNS kids))))
+        (, ,)
+        (CC and)
+        (NP (JJ bocce) (NN ball) (NNS courts))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (JJ only) (NN thing))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD was)
+              (NP (DT a) (JJ slight) (NN disappointment))))))
+      (VP (VBD was)
+        (SBAR (IN that)
+          (S
+            (PP (IN by)
+              (NP (DT the) (NN time)))
+            (NP (DT the) (NN sun))
+            (VP (VBD went)
+              (PRT (RP down)))))))
+    (, ,)
+    (NP (DT the) (NN play) (NN area))
+    (VP (VBD was) (RB not)
+      (VP (VBD lit)
+        (PRT (RP up))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP
+      (VP (VBD searched)
+        (PP (IN for)
+          (NP (NN lighting))))
+      (CC and)
+      (VP (VBD did) (RB n't)
+        (VP (VB find)
+          (S
+            (NP (DT any) (NNS switches))
+            (VP (TO to)
+              (VP (VB light)
+                (PRT (RP up))
+                (NP
+                  (NP (DT the) (NN play) (NN area))
+                  (PP (IN for)
+                    (NP (PRP$ my) (NNS nieces))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP (PRP We))
+        (VP (VBD enjoyed)
+          (NP
+            (NP (DT a) (JJ few) (NNS rounds))
+            (PP (IN of)
+              (NP (NNP Bocce) (NNP Ball))))))
+      (CC and)
+      (S
+        (NP (PRP I))
+        (VP (MD will)
+          (VP (VB return)
+            (ADVP (RB solely))
+            (PP (IN for)
+              (NP (DT that)))))))
+    (: --)
+    (S
+      (S
+        (S
+          (VP (VB Make)
+            (ADJP (JJ sure))))
+        (NP (PRP you))
+        (VP (VBZ BYOB)))
+      (PRN (-LRB- -LRB-)
+        (VP (VB bring)
+          (NP (PRP$ your) (JJ own) (NN bocce) (NNS balls)))
+        (-RRB- -RRB-)))))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (ADJP (JJ new)
+        (PP (TO to)
+          (NP
+            (NP (NNP hiking)
+              (CC &)
+              (NNP I))
+            (VP (VBG hike)
+              (NP (DT this) (NN mountain))
+              (ADVP (RB frequently))
+              (PP (IN with)
+                (NP (DT a) (NN group))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ does) (RB n't)
+        (VP (VB look)
+          (PP (IN like)
+            (NP (RB much))))))
+    (, ,)
+    (CC but)
+    (S
+      (SBAR (IN if)
+        (S
+          (NP (PRP you))
+          (VP (VBP go)
+            (PP (RB straight) (IN up)
+              (NP
+                (NP (DT the) (NN face))
+                (PP (IN of)
+                  (NP (DT the) (NN mountain))))))))
+      (, ,)
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (NP (DT a)
+          (ADJP (JJ challenging))
+          (NN climb))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (ADVP (RB always))
+    (VP (VBZ kicks)
+      (NP
+        (NP (PRP$ my) (NN ass))
+        (CC &)
+        (S
+          (VP (VBD did)
+            (ADVP (RB so) (RB once))
+            (ADVP (RB again))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (CD One) (NN day))
+    (, ,)
+    (NP (PRP I))
+    (VP (MD will)
+      (VP (VB conquer)
+        (NP (PRP it))
+        (PP (IN without)
+          (NP
+            (NP (NN feeling))
+            (VP (VBN defeated))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP (DT a) (JJ great) (NN hike)
+        (S
+          (VP (TO to)
+            (VP (VB do)
+              (PP (IN if)
+                (NP (PRP$ your) (JJ short)))
+              (PP (IN on)
+                (NP (NN time))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ takes)
+      (NP
+        (QP (RB about) (CD 2))
+        (NN hrs))
+      (SBAR (IN if)
+        (S
+          (NP (PRP you))
+          (VP (VB climb)
+            (PP (IN at)
+              (NP (DT a) (JJ moderate) (NN pace)))))))
+    (. .)))
+
+

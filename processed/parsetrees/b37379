@@ -1,0 +1,241 @@
+(ROOT
+  (NP
+    (NP (JJ Lovely) (NN coffee))
+    (, ,)
+    (NP
+      (NP (JJ friendly) (NN proprietor))
+      (, ,)
+      (NP (JJ comfortable) (NN atmosphere)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (DT A) (JJ little) (NN bit))
+    (PP (IN of)
+      (NP (NNP Paris)))
+    (PP (IN in)
+      (NP (NNP Edinburgh)))
+    (. .)))
+
+
+(ROOT
+  (NP (NNP OH) (NNP MY) (NNP OH) (NNP MY) (. !)))
+
+(ROOT
+  (S
+    (NP (NNP Little))
+    (VP (VBD did)
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBP know)
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP
+                  (NP (FW i))
+                  (VP (VBN stumbled)
+                    (PP (IN on)
+                      (NP
+                        (NP (DT this))
+                        (PP (IN on)
+                          (NP (NNP Facebook) (NNP i)))))))
+                (VP (VBD was)
+                  (VP (VBG entering)
+                    (NP (DT a) (JJ little) (NNP Paris))))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP My) (NNP Friend) (NNP Lou))
+        (CC and)
+        (NP (PRP I)))
+      (ADVP (RB first))
+      (VP (VBD visited)
+        (NP (DT this))
+        (ADVP (RB together))
+        (PP (IN on)
+          (NP
+            (NP (DT this)
+              (ADJP (RB very) (JJ grim))
+              (NN day))
+            (PP (IN in)
+              (NP (DT the) (NN burgh)))))))
+    (: ...)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (NP
+          (ADJP (JJ snowy) (, ,) (JJ wet)))
+        (, ,)
+        (ADVP (RB windy))))
+    (: ...)
+    (S
+      (S
+        (VP (VB geee)
+          (SBAR
+            (SBAR
+              (S
+                (NP (PRP it))
+                (VP (VBD was)
+                  (ADJP (JJ grim)))))
+            (CC but)
+            (SBAR (IN once)
+              (S
+                (NP (PRP you))
+                (VP (VBD entered)
+                  (NP (DT this) (JJ lovely) (NN cafe))))))))
+      (, ,)
+      (NP (PRP it))
+      (VP (VBD was)
+        (NP
+          (NP (JJ lovely) (JJ little) (JJ warm) (NN tranquil) (NN place))
+          (PP (IN in)
+            (NP
+              (NP (DT the) (NN heart))
+              (PP (IN of)
+                (NP (DT this) (JJ grand) (NN city))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (VP (VBG needing)
+        (NP
+          (NP (NN something))
+          (ADJP (JJ hearty)
+            (CC and)
+            (JJ warm)))
+        (SBAR (IN so)
+          (S
+            (VP (VBD opted)
+              (PP (IN for)
+                (NP
+                  (NP (DT the) (NN soup))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (NN day))
+                      (, ,)
+                      (SBAR
+                        (WHNP (WDT which))
+                        (S
+                          (VP (VBD was)
+                            (ADJP (JJ Courgette))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD had)
+        (ADVP (RB never))
+        (VP (VBN tried)
+          (NP (JJ courgette) (NN soup)))))
+    (CC but)
+    (S
+      (ADVP (RB easily))
+      (VP (MD could)
+        (ADVP (IN of))
+        (VP (VBD had)
+          (NP (DT another) (NN bowl))))
+      (NP
+        (NP (DT no) (NN bother))
+        (SBAR (IN as)
+          (S
+            (NP (PRP it))
+            (VP (VBD was)
+              (ADJP (RB so) (JJ delicious)))))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Lou))
+      (VP (VBD had)
+        (NP
+          (NP (JJ earl) (NNS grey))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBD was)
+                (NP
+                  (NP (JJ loose) (NN leaf))
+                  (PP (IN in)
+                    (NP (DT a) (NN bag))))))))))
+    (, ,)
+    (NP (DT the) (NN smell))
+    (VP (VBD was)
+      (ADJP (JJ devine)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD could) (RB n't)
+      (VP (VB believe)
+        (SBAR
+          (S
+            (NP (NNP Lou))
+            (VP (VBD had) (RB n't)
+              (VP (VBN had)
+                (NP
+                  (NP (NNS macarons))
+                  (SBAR (IN before)
+                    (S
+                      (S (CC but)
+                        (NP (PRP she))
+                        (VP (VBD enjoyed)
+                          (NP
+                            (NP (DT the) (NN coffee))
+                            (CC and)
+                            (NP (DT the) (JJ pistachio) (NNS macarons)))))
+                      (CC and)
+                      (S
+                        (NP (FW i))
+                        (VP (VBD opted)
+                          (PP (IN for)
+                            (NP
+                              (NP (DT the) (NN raspberry))
+                              (CC and)
+                              (NP (DT the) (JJ pistachio) (NNS Macarons)))))))))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP (JJ cheap) (RB too)))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's)
+        (NP
+          (ADJP (RB truly) (JJ worth))
+          (DT a) (NN visit))))
+    (: ...)
+    (FRAG
+      (ADVP (RB especially))
+      (SBAR (IN if)
+        (S
+          (NP (PRP you))
+          (VP (VBP need)
+            (S
+              (NP
+                (NP (DT a) (JJ little) (NN bit))
+                (PP (IN of)
+                  (NP (NNP Paris))))
+              (VP (TO to)
+                (VP (VB keep)
+                  (S
+                    (NP (PRP you))
+                    (ADJP (JJ sweet))))))))))
+    (. !)))
+
+

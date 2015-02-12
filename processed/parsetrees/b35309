@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (NP (NNP Great))
+    (VP (VBP place)
+      (S
+        (VP (TO to)
+          (VP (VB take)
+            (NP (DT the) (NNS kids))
+            (SBAR (IN as)
+              (S
+                (NP (NN staff))
+                (VP (VBP are)
+                  (ADJP (JJ great)
+                    (PP (IN with)
+                      (NP (PRP them)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Food))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (RB very) (JJ good))
+        (CC and)
+        (RB drinks)
+        (ADJP (RB not) (RB too) (JJ expensive)))
+      (S
+        (VP (VBG considering)
+          (PP (IN on)
+            (NP (NNP George) (NNP Street))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT Some) (JJ great) (NN music))
+    (VP (VBZ memorabilia)
+      (SBAR (IN as)
+        (S
+          (NP (PRP you))
+          (VP (MD would)
+            (VP (VB expect))))))
+    (. .)))
+
+

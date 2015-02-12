@@ -1,0 +1,54 @@
+(ROOT
+  (FRAG
+    (NP
+      (NP (JJ Great) (JJ local) (NN pub))
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ has)
+            (NP
+              (NP (DT a) (JJ great) (NN selection))
+              (PP (IN of)
+                (NP
+                  (NP (DT both) (NN food))
+                  (CC and)
+                  (NP (NNS drinks)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Often))
+    (VP (VB have)
+      (NP (NN beer) (NNS festivals)
+        (CC and)
+        (NN food) (NNS specials)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Staff))
+    (VP (VBP are)
+      (ADJP (JJ welcoming)
+        (CC and)
+        (JJ friendly))
+      (SBAR (IN although)
+        (S
+          (NP (PRP it))
+          (VP (MD can)
+            (VP (VB be)
+              (ADJP (JJ slow)
+                (PP (IN at)
+                  (NP (NN bar))))
+              (ADVP (RB sometimes)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Great))
+    (VP
+      (VP (VBZ atmosphere))
+      (CC and)
+      (VP (VBZ welcoming)))
+    (. .)))
+
+

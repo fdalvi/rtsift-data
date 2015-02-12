@@ -1,0 +1,117 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 've)
+      (VP (VBN been)
+        (VP (VBG getting)
+          (NP (NN coffee))
+          (SBAR
+            (ADVP (RB here))
+            (IN since)
+            (S
+              (NP (PRP they))
+              (VP (VBD opened)
+                (NP (NNS years))
+                (ADVP (IN ago))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP
+      (NP (JJ Same) (NNS employees))
+      (PP (DT all) (IN of)
+        (NP
+          (NP (DT these) (NNS years))
+          (, ,)
+          (ADJP (RB even) (IN though)
+            (NP
+              (NP (PRP$ its))
+              (PP (IN in)
+                (NP (NNP Safeway))))))))
+    (: -)
+    (SBAR
+      (WHNP (WDT that))
+      (S
+        (VP (VBZ 's)
+          (ADJP (RB pretty) (JJ cool)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Coffee))
+      (VP (VBZ is)
+        (NP (NN standard))))
+    (, ,)
+    (NP (NNS prices))
+    (VP (VBP are)
+      (ADJP (JJ high)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP ($ $) (CD 10))
+      (PP (IN for)
+        (NP (CD 2) (NN grande))))
+    (VP (VBZ mochas))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (FRAG
+      (ADVP (RB Only)
+        (NP (NNP Starbucks)))
+      (: ...))
+    (: :)
+    (FRAG (RB /))))
+
+
+(ROOT
+  (S
+    (VP (VB Convenient)
+      (NP (NN location)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's)
+        (ADJP (JJ right)
+          (PP (IN across)
+            (NP
+              (NP (DT the) (NN street))
+              (PP (IN from)
+                (SBAR
+                  (WHADVP (WRB where))
+                  (S
+                    (NP (PRP I))
+                    (VP (VBP work))))))))))
+    (, ,) (IN so)
+    (S
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP I))
+          (VP (VBP 'm)
+            (PP (IN in)
+              (NP
+                (NP (NN need))
+                (PP (IN of)
+                  (NP (NN caffeine))))))))
+      (NP (PRP I))
+      (VP (VBP come)
+        (ADVP (RB here))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Staff))
+    (VP (VBZ has)
+      (ADVP (RB always))
+      (VP (VBN been)
+        (ADJP (JJ pleasant))))
+    (. .)))
+
+

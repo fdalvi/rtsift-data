@@ -1,0 +1,119 @@
+(ROOT
+  (S
+    (NP (DT The) (NN facility))
+    (VP (VBZ is)
+      (ADJP (RB very) (JJ new)
+        (CC and)
+        (JJ nice)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT Some))
+        (PP (IN of)
+          (NP (DT the) (NN staff))))
+      (VP (VBP are)
+        (ADJP (JJ exceptional))))
+    (CC and)
+    (S
+      (NP (DT some))
+      (VP (VBP are)
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (NP (PRP you))
+            (VP (MD 'd)
+              (VP (VB expect)
+                (S
+                  (VP (TO to)
+                    (VP (VB find)
+                      (PP (IN at)
+                        (NP (DT the) (NNP VA.) (. .))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN guy))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBD did)
+            (NP (DT the) (NN blood) (NN draw))
+            (PP (IN on)
+              (NP (PRP me)))))))
+    (VP
+      (VP (VBD was)
+        (ADJP (RB super) (JJ friendly)))
+      (, ,)
+      (VP (VBD did)
+        (NP (DT an) (JJ awesome) (NN job)))
+      (, ,)
+      (CC and)
+      (VP (VBD was)
+        (ADJP (RB very) (NN professional))))
+    (. .)))
+
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (MD can)
+      (NP (PRP I))
+      (VP (VB say) (: ...)
+        (S
+          (NP (DT the) (NN place) (, ,) (NN staff)
+            (CC and)
+            (NNS doctors))
+          (VP (VBP are)
+            (ADJP (JJ great))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP hate)
+        (S
+          (VP (TO to)
+            (VP (VB go)
+              (PP (TO to)
+                (NP (DT the) (NN dr)
+                  (S
+                    (VP (TO to)
+                      (VP (VB begin)
+                        (PP (IN with))))))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (NNP VA))
+      (VP (VBZ has)
+        (VP (VBN made)
+          (NP
+            (NP (DT some) (JJ serious) (NNS changes))
+            (PP (IN in)
+              (NP
+                (NP (PRP$ their) (NN level))
+                (PP (IN of)
+                  (NP (JJ patient) (NN care))))))
+          (PP (IN over)
+            (NP (DT the) (NNS years))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN facility))
+    (VP (VBZ is)
+      (ADVP (RB just))
+      (NP
+        (NP (DT an) (NN example))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NNS steps))
+            (PP (IN in)
+              (NP (DT the) (JJ right) (NN direction)))))))
+    (. .)))
+
+

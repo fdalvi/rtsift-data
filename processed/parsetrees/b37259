@@ -1,0 +1,121 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Again))
+      (VP (VBG having)
+        (NP (DT another) (NN latte))))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (MD might)
+            (VP (VB be)
+              (ADJP (VBN addicted)))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (NNP Great))
+    (VP (VBZ Customer)
+      (S
+        (NP (NNP Service))
+        (NP (CC &)
+          (NP (RB well) (JJ stocked) (NN food))
+          (CC &)
+          (NP (NNS cakes)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (PRP$ Its) (NN lunch) (NN time))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT every) (NN table))
+      (VP (VBZ is)
+        (ADJP (JJ clear))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RBS Most) (RB importantly))
+    (: ...)
+    (NP (NNP My) (NNP Coffee))
+    (VP (VBZ is)
+      (ADJP (JJ perfect)))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VBN Recommended))
+    (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (ADVP (RBR more)
+        (CC or)
+        (RBR less))
+      (VP (VB get)
+        (NP (DT a) (JJ flat) (JJ white))
+        (PP (IN for)
+          (NP
+            (NP (DT a) (JJ hot) (NN drink))
+            (CC and)
+            (NP (JJS most) (NNS times))))))
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (ADJP (JJ good)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ nice) (JJ little) (NN coffee) (NN shop))
+    (, ,)
+    (NP
+      (NP (JJ free) (NNS wifi))
+      (ADVP (RB too)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (VP (VBZ gets)
+      (ADJP (RB quite) (JJ busy) (RB too)))))
+
+
+(ROOT
+  (S
+    (NP (NNP Great))
+    (VP (VBZ Customer)
+      (S
+        (NP (NNP Service))
+        (NP (CC &)
+          (NP (RB well) (JJ stocked) (NN food))
+          (CC &)
+          (NP (NNS cakes)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (PRP$ Its) (NN lunch) (NN time))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT every) (NN table))
+      (VP (VBZ is)
+        (ADJP (JJ clear))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RBS Most) (RB importantly))
+    (: ...)
+    (NP (NNP My) (NNP Coffee))
+    (VP (VBZ is)
+      (ADJP (JJ perfect)))
+    (. !)))
+
+

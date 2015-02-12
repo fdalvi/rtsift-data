@@ -1,0 +1,71 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP
+        (VP (VBP 've)
+          (VP (VBN bought)
+            (NP
+              (NP (CD two) (NNS pairs))
+              (PP (IN of)
+                (NP (NNPS Nikes))))
+            (PP (IN from)
+              (NP (DT this) (NN store)))))
+        (CC and)
+        (VP (VBP have)
+          (VP (VBN been)
+            (ADJP (RB very) (JJ happy))
+            (PP
+              (PP (IN with)
+                (NP (PRP$ my) (NNS selections)))
+              (CC plus)
+              (PP (IN with)
+                (NP (DT the) (NN customer) (NN service))))))))
+    (NP (PRP I))
+    (VP (VBD received)
+      (NP
+        (NP (DT each) (NN visit))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBD made)
+              (PP (TO to)
+                (NP (DT this) (NN location))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Very)
+      (NP
+        (NP (JJ friendly) (NN staff))
+        (, ,)
+        (ADJP (RB very) (JJ helpful)))
+      (ADVP
+        (ADVP (RB as) (RB well))
+        (, ,)
+        (CC and)
+        (ADVP (RB always)
+          (NP
+            (NP (DT a) (JJ great) (NN selection))
+            (PP (IN of)
+              (NP (NNS shoes)
+                (CC and)
+                (NNS styles)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have)
+      (VP (VBN recommended)
+        (NP
+          (NP (DT a) (JJ few) (NNS people))
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (VBP know)
+                (PP (TO to)
+                  (NP (DT this) (NN location)))))))))
+    (. .)))
+
+

@@ -1,0 +1,370 @@
+(ROOT
+  (S
+    (ADVP (RB +))
+    (NP (DT This) (NN place))
+    (VP (VBZ is)
+      (ADJP
+        (NP (DT a) (RB lot))
+        (JJR nicer))
+      (ADVP (RB inside) (IN than) (JJ outside)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP +) (NNP Friendly))
+      (VP (VBZ attendant)
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP we))
+            (VP (VBD were)
+              (ADVP (RB there)))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBD were)
+        (ADJP (JJ able)
+          (S
+            (VP (TO to)
+              (VP (VB provide)
+                (NP (NN laundry) (NN soap))
+                (SBAR
+                  (WHADVP (WRB when))
+                  (S
+                    (NP (PRP we))
+                    (VP (VBD forgot)
+                      (NP (PRP ours)))))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP +) (NNP Free) (NNP Wi-Fi))
+    (PRN (-LRB- -LRB-)
+      (S
+        (VP (VB ask)
+          (ADJP (JJ attendant)
+            (PP (IN for)
+              (NP (NN password))))))
+      (-RRB- -RRB-))
+    (: -)
+    (NP
+      (NP (DT A) (NN card))
+      (VP (VBN based)
+        (NP
+          (NP (NN system))
+          (, ,)
+          (CONJP (RB rather) (IN than))
+          (NP (NN coin) (NN op))
+          (, ,)
+          (SBAR (IN so)
+            (S
+              (NP (PRP we))
+              (VP (MD will)
+                (ADVP (RB probably))
+                (VP (VB have)
+                  (NP
+                    (NP (NN money))
+                    (VP (VBN left)
+                      (PRT (RP over))
+                      (PP (IN on)
+                        (NP
+                          (NP (DT the) (NN card))
+                          (, ,)
+                          (SBAR
+                            (WHNP (WDT which))
+                            (S
+                              (VP (MD will)
+                                (ADVP (RB almost) (RB certainly))
+                                (VP (VB get)
+                                  (VP (VBN lost)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Basically))
+    (, ,)
+    (NP (PRP we))
+    (VP
+      (ADVP (RB only))
+      (VBD came)
+      (ADVP (RB here))
+      (S
+        (VP (TO to)
+          (VP (VB wash)
+            (NP
+              (NP (PRP$ our) (NNS comforters))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (MD would) (RB n't)
+                    (VP (VB fit)
+                      (PP (IN in) (IN out)
+                        (NP
+                          (NP (NN washer))
+                          (PP (IN at)
+                            (NP (NN home))))))))))))))
+    (. .)))
+
+(ROOT
+  (SQ (VBD Was)
+    (NP
+      (NP (DT a) (JJ nice) (NN surprise))
+      (SBAR
+        (S
+          (VP (TO to)
+            (VP (VB find)
+              (S
+                (NP (PRP it))
+                (ADJP
+                  (ADJP (JJ clean))
+                  (, ,)
+                  (ADJP (RB well) (JJ maintained))
+                  (CC and)
+                  (ADJP (RB fairly) (JJ empty)))))))))
+    (VP (VBG considering)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD was)
+            (NP (DT a) (NNP Sunday))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Primary) (NN negative))
+      (PP (IN for)
+        (NP (PRP me))))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN card))
+        (VP (VBN based)
+          (NP
+            (NP (NN system))
+            (CONJP (RB instead) (IN if))
+            (NP (NN coin) (NN op) (NNS machines))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP understand)
+        (SBAR
+          (WHADVP (WRB why))
+          (S
+            (NP (PRP it))
+            (VP (VBZ 's)
+              (VP (VBN done)))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADJP (JJ aggravating)
+          (S
+            (VP (TO to)
+              (VP (VB have)
+                (NP
+                  (NP (NN money))
+                  (VP (VBN tied)
+                    (PRT (RP up))
+                    (PP (IN on)
+                      (NP
+                        (NP (DT a) (NN card))
+                        (SBAR
+                          (S
+                            (NP (PRP we))
+                            (VP (MD will)
+                              (ADVP (RB probably))
+                              (RB not)
+                              (VP (VB use)
+                                (ADVP (RB again))
+                                (PP (IN for)
+                                  (NP (CD 6) (NNS months)
+                                    (QP (CC or)
+                                      (JJR more))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBP are)
+        (NP
+          (NP (CD 29) (NNS machines))
+          (, ,)
+          (CC and)
+          (NP (CD 26) (NNS dryers)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT all))
+      (VP (VBD were)
+        (S
+          (ADJP (VBG working)
+            (CC and)
+            (JJ clean)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP imagine)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP
+            (VP (MD can)
+              (VP (VB get)
+                (ADJP (RB pretty) (JJ crowded)
+                  (CC and)
+                  (JJ busy))
+                (PP (IN during)
+                  (NP (JJ prime) (NN laundry) (NNS hours)))))
+            (, ,)
+            (CC but)
+            (VP (VBD was)
+              (ADJP (RB pretty) (JJ empty)
+                (SBAR
+                  (WHADVP (WRB when))
+                  (S
+                    (NP (PRP we))
+                    (VP (VBD came)
+                      (NP (NNP Sunday))
+                      (NP (NN night))))))
+              (PP (IN around)
+                (NP (CD 5pm))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (VBG Vending) (NNS machines))
+      (VP (VBD were)
+        (ADJP (RB pretty) (JJ bare))))
+    (CC but)
+    (S
+      (NP (EX there))
+      (VP (VBZ is)
+        (NP
+          (NP (DT a) (NN market) (JJ next) (NN door))
+          (CC and)
+          (ADVP
+            (NP (DT a) (NN CVS))
+            (RB down))
+          (NP (DT the) (NN street)))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (MD Would)
+      (ADVP (RB definitely))
+      (VP (VB come)
+        (ADVP (RB back))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (JJ Super) (JJ clean) (NN inside))
+    (, ,)
+    (NP (DT all) (JJ new) (NNS machines))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Free) (NNP Wi-Fi))
+    (ADVP (RB too))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Must))
+      (VP (VBP buy)
+        (NP (DT an)
+          (ADJP (IN in))
+          (NN house) (NN payment) (NN card))
+        (S
+          (VP (TO to)
+            (VP (VB use)
+              (NP (DT the) (NNS machines)))))))
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ eliminates)
+        (NP (DT the) (NN need)
+          (S
+            (VP (TO to)
+              (VP (VB bring)
+                (NP (NNS quarters))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT No) (NNS quarters))
+    (VP (VBD accepted)
+      (ADVP (RB either))
+      (, ,)
+      (S
+        (VP (VB bring)
+          (NP (NN cash)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (CD Four) (JJ different) (NN size) (NNS machines))
+      (CC and)
+      (NP (CD two)))
+    (VP (VBZ dryer)
+      (NP (NNS sizes)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Totally))
+      (ADJP (JJ modern)))
+    (, ,)
+    (NP
+      (NP (DT all) (JJ new) (NN equipment))
+      (PP (IN with)
+        (NP
+          (NP (NNS lots))
+          (PP (IN of)
+            (NP
+              (ADJP (JJ small) (, ,) (NN medium)
+                (CC and)
+                (JJ large))
+              (JJ commercial) (NN front))))))
+    (VP (VBZ loaders))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Pristine)
+      (CC and)
+      (VB clean))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Totally))
+    (VP (VBP recommend))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP (JJ Oh)
+      (CC and)
+      (JJ free))
+    (, ,)
+    (NP (JJ fast) (NNS wifi))
+    (. !)))
+
+

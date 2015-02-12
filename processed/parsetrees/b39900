@@ -1,0 +1,60 @@
+(ROOT
+  (FRAG (RB Not)
+    (ADJP (JJ bad)
+      (PP (IN for)
+        (NP (DT a) (NN chain) (NN pub))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Huge) (NN food))
+    (NP
+      (NP (NNS portions))
+      (CC and)
+      (NP (JJ comfy) (NN seating)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Best)
+      (ADJP
+        (ADJP (NN bar)
+          (PP (IN in)
+            (NP (DT the) (NNP Omni) (NNP Centre))))
+        (, ,)
+        (CC and)
+        (ADJP (RB rarely) (RB too) (JJ busy))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT A) (JJ great) (NN family) (NN resteraunt)
+      (S
+        (VP (TO to)
+          (VP (VB go)
+            (S
+              (VP (TO to)
+                (VP (VBN located)
+                  (PP (IN in)
+                    (NP
+                      (NP (DT the) (JJ omni) (NN centre.It))
+                      (SBAR
+                        (S
+                          (VP
+                            (VP (VBZ has)
+                              (NP (JJ friendly) (NN staff)))
+                            (CC and)
+                            (VP (VBZ theres)
+                              (ADVP (RB always)
+                                (NP (JJ great) (NNS offers))
+                                (PP (IN on)
+                                  (ADVP (RB even))))
+                              (PP (IN through)
+                                (NP (DT the) (JJ week.The) (NN staff))))))))))))))))
+    (VP (VBP are)
+      (ADVP (RB also))
+      (ADJP (JJ approachable)))
+    (. .)))
+
+

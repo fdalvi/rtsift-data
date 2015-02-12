@@ -1,0 +1,137 @@
+(ROOT
+  (FRAG
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN mood))
+            (PP (IN for)
+              (NP
+                (NP (NN food))
+                (PP (IN for)
+                  (NP (PRP$ my) (NN soul)))))))
+        (NP (DT this))
+        (VP (VBZ is)
+          (NP (DT the) (NN place)
+            (S
+              (VP (TO to)
+                (VP (VB go))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (S
+      (NP (DT The) (NN rice))
+      (VP (VBZ is)
+        (UCP
+          (ADJP (RB absolutely) (JJ fantastic))
+          (CC and)
+          (VP (VBN eaten)
+            (PP (IN with)
+              (NP (DT the) (NN shrimp)))))))
+    (VP (VBZ makes)
+      (NP (PRP it)))
+    (NP (DT a)
+      (ADJP (JJ satisfying))
+      (NN meal))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB definitely))
+    (VP (MD would)
+      (VP (VB recommend)
+        (NP (NN everyone))
+        (S
+          (VP (TO to)
+            (VP (VB try)
+              (NP (DT this)))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (DT The) (NN tilapia) (, ,) (NN shrimp)
+      (CC and)
+      (NN rice))
+    (VP (VBD were) (RB all)
+      (ADJP (JJ amazing)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Great) (NN flavor))
+    (, ,)
+    (NP
+      (NP (NN nothing))
+      (ADJP (VBN overdone)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Just))
+    (NP (JJ darn) (JJ good) (NN food))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBZ is)
+      (ADJP (JJ awesome)))
+    (. .)))
+
+(ROOT
+  (NP (JJ Great) (NN food) (. .)))
+
+(ROOT
+  (S
+    (VP (VB Particularly)
+      (NP
+        (NP (DT the) (NN chicken))
+        (CC and)
+        (NP (NNS waffles))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NN Everything))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBP 've)
+            (VP (VBN had))))))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (RB very) (JJ tasty))
+        (CC but)
+        (ADJP (JJ hard)))
+      (S
+        (VP (TO to)
+          (VP (VB stray)
+            (PP (IN from)
+              (NP
+                (NP (DT the) (NN chicken))
+                (CC and)
+                (NP (NNS waffles))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Eat)
+      (ADVP (RB here))
+      (NP
+        (NP (DT every) (NN time))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP come)
+              (ADVP (RB back))
+              (PP (TO to)
+                (NP (NNP Vegas))))))))
+    (. .)))
+
+

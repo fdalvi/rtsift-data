@@ -1,0 +1,83 @@
+(ROOT
+  (NP
+    (NP (PRP$ My) (JJ new) (JJ favorite) (NN place))
+    (PP (IN for)
+      (NP
+        (NP (DT some) (JJ good) (NN ole) (POS '))
+        (NN fashion) (JJ fried) (NN chicken)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Good))
+    (VP
+      (VP (VBZ flavor))
+      (, ,)
+      (CC and)
+      (VP (VBD cooked)
+        (ADVP (RB just) (RB right))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Chicken) (NNS combos))
+      (, ,)
+      (NP (NNS tenders))
+      (, ,)
+      (NP (NN honey) (NN butter) (NNS biscuits))
+      (, ,)
+      (NP
+        (NP (JJ red) (NNS beans))
+        (CC and)
+        (NP (NN rice)))
+      (, ,)
+      (NP (NN jalape?o) (NNS poppers))
+      (, ,)
+      (NP (JJ french) (NNS fries))
+      (, ,)
+      (NP (NN onion) (NNS rings))
+      (, ,)
+      (NP (JJ fried) (NN mac)
+        (CC and)
+        (NN cheese) (NNS wedges))
+      (, ,))
+    (VP (VBD mashed)
+      (NP (NNS potatoes)
+        (CC and)
+        (NN gravy)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VBN CLOSED))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VB Went)
+        (PP (IN by))))
+    (CC and)
+    (S
+      (S
+        (NP (PRP it))
+        (VP (VBZ is)
+          (ADVP (RB no) (RB longer))
+          (NP
+            (NP (RB there))
+            (, ,)
+            (VP (VBN called)
+              (NP (NN headquarters))))))
+      (CC and)
+      (S
+        (NP (PRP they))
+        (VP (VBP have)
+          (NP
+            (NP (DT no) (JJ active) (NNS locations))
+            (PP (IN in)
+              (NP (NNP AZ.)))))))
+    (. .)))
+
+

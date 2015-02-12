@@ -1,0 +1,115 @@
+(ROOT
+  (S
+    (NP (NNP Luker) (NNP Plumbing))
+    (VP (VBZ is)
+      (NP (DT a) (JJ great) (NN compnay)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD were)
+      (ADVP (RB even))
+      (VP (VBN nominated)
+        (PP (IN as)
+          (NP
+            (NP (NNP Fountain) (NNP Hills) (NNP Business) (NNP Person))
+            (PP (IN of)
+              (NP (DT the) (NN year)))))))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (NNP Genuine))
+      (, ,)
+      (ADJP (JJ honest) (, ,) (JJ reliable)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB highly))
+    (VP (VBP recommend)
+      (S
+        (VP (VBG using)
+          (NP (PRP them)))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN plumber))
+    (VP
+      (VP (VBZ is)
+        (ADJP (JJ honest)))
+      (CC and)
+      (VP (VBZ knows)
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (NP (PRP he))
+            (VP (VBZ is)
+              (VP (VBG doing)))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Good) (NN work))
+    (PP (IN at)
+      (NP (DT a) (JJ fair) (NN price)))))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBP live)
+        (PP (IN in)
+          (NP (NN fountain) (NNS hills))))
+      (CC and)
+      (VP (VBD called)
+        (SBAR (IN because)
+          (S
+            (NP (PRP$ my) (NN ejector) (NN pump))
+            (VP (VBD was) (RB n't)
+              (VP (VBG working)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Thanksgiving))
+      (VP (VBZ is)
+        (NP (NN tomorrow))))
+    (: ...)
+    (S
+      (NP (PRP They))
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP they))
+            (VP (VBP do) (RB n't)
+              (VP (VB work)
+                (PP (IN on)
+                  (NP (DT that)))
+                (: ...)
+                (ADVP (RB ????))))))))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP guess)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBZ wants)
+            (S
+              (VP (TO to)
+                (VP
+                  (ADVP (RB just))
+                  (VB replace)
+                  (NP (JJ faucet) (NNS washers)))))))))
+    (. .)))
+
+

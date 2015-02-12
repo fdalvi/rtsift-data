@@ -1,0 +1,127 @@
+(ROOT
+  (S
+    (NP (NNP Gas))
+    (ADVP (RB here))
+    (VP (VBZ is)
+      (ADVP (RB always))
+      (ADJP
+        (ADJP
+          (NP (DT a) (RB little))
+          (JJR cheaper))
+        (PP (IN than)
+          (NP (DT the) (VBG surrounding) (NNP Circle) (NNP Ks)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S (CC But)
+      (NP (PRP you))
+      (VP (VBP are)
+        (PP (IN in) (IN for)
+          (NP
+            (NP (DT the) (JJS worst) (NN bathroom) (NN experince))
+            (PP (IN of)
+              (NP (PRP$ your) (NN life)))))))
+    (: ...)
+    (S
+      (NP (DT That))
+      (VP (VBZ is)
+        (NP (DT all))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (PP (IN On)
+      (NP (PRP$ our) (NN way)
+        (S
+          (VP (TO to)
+            (VP (VB downtown)
+              (S
+                (VP (TO to)
+                  (VP (VB do)
+                    (NP (DT some) (NN ice) (NN skating))))))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD noticed)
+      (SBAR (IN that)
+        (S
+          (NP (PRP$ my) (NN car))
+          (VP (VBD was)
+            (VP (VBG running)
+              (PP (IN on)
+                (NP (NNS fumes))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Stopped)
+      (PRT (RP in))
+      (S
+        (VP (TO to)
+          (VP (VB get)
+            (NP (DT some) (NN fuel)
+              (CC and)
+              (NN water))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Had))
+    (NP
+      (NP (DT some) (NN issue))
+      (PP (IN with)
+        (NP (DT the) (NN credit) (NN card) (NN reader)))
+      (PP (IN at)
+        (NP (DT the) (NN pump)))
+      (PP (IN from)
+        (S
+          (VP (VBG reading)
+            (NP (PRP$ my) (NN card)))))
+      (: ;))
+    (VP (VBD took)
+      (NP (CD 3) (NNS times))
+      (SBAR (IN for)
+        (S
+          (NP (PRP it))
+          (VP (TO to)
+            (VP
+              (ADVP (RB successfully))
+              (VB read)
+              (NP (PRP$ my) (NN card)))))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (JJ Cheapest) (NN gas))
+    (PP (IN in)
+      (NP (DT the) (NN neighborhood)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP
+        (ADVP (NN kind) (IN of))
+        (JJ amazing))
+      (SBAR
+        (WHADVP (WRB how))
+        (S
+          (NP (DT every) (NN employee))
+          (ADVP (RB here))
+          (VP (VBZ is)
+            (ADJP (JJ unpleasant))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (IN At) (JJS least))
+    (NP (PRP they))
+    (VP (VBP are)
+      (ADJP (JJ consistent)))
+    (. .)))
+
+

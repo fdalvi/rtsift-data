@@ -1,0 +1,82 @@
+(ROOT
+  (S
+    (ADVP (RB Arguably))
+    (VP (VB serve)
+      (NP
+        (NP (DT the) (JJS best) (NN coffee))
+        (PP (IN in)
+          (NP (NNP Stockbridge)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADJP (RB Very) (JJ small)
+      (PP (IN inside)
+        (PP (IN with)
+          (NP
+            (NP (DT a) (JJ few) (NNS tables))
+            (PRN (-LRB- -LRB-)
+              (S
+                (NP (PRP you))
+                (VP (MD 'd)
+                  (VP (VB be)
+                    (ADJP (JJ lucky)
+                      (S
+                        (VP (TO to)
+                          (VP (VB find)
+                            (S
+                              (NP (PRP one))
+                              (ADJP (JJ free)))
+                            (: ...)
+                            (S
+                              (NP (PRP I))
+                              (VP (VBP 'm)
+                                (ADVP (RB yet))
+                                (S
+                                  (VP (TO to)
+                                    (VP (VB be)
+                                      (ADJP (RB so) (JJ lucky))))))))))))))
+              (-RRB- -RRB-))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (ADJP (RB Really) (JJ friendly))
+        (NN staff))
+      (VP (VBN hidden)
+        (PP (IN behind)
+          (NP (DT a)
+            (ADJP (RB really) (JJ high))
+            (NN counter)))))
+    (, ,)
+    (NP
+      (NP (DT those) (NNS people))
+      (PP (IN under)
+        (NP
+          (NP (CD 5) (POS '))
+          (CD 10))))
+    ('' '')
+    (VP (MD may)
+      (VP (VB do)
+        (ADVP (RBR better))
+        (S
+          (VP (VBG looking)
+            (PP (IN through)
+              (NP (DT the) (NN display) (NN cabinet)))
+            (PP (IN than)
+              (S
+                (VP (VBG trying)
+                  (S
+                    (VP (TO to)
+                      (VP (VB see)
+                        (PRT (RP over))
+                        (NP (PRP it))
+                        (SBAR
+                          (WHADVP (WRB when))
+                          (S
+                            (VP (VBG ordering))))))))))))))
+    (. !)))
+
+

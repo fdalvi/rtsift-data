@@ -1,0 +1,99 @@
+(ROOT
+  (S
+    (NP (NNP Rock) (NNP n))
+    (VP (VBP roll)
+      (NP (NN fashion)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Boots))
+    (, ,)
+    (NP
+      (NP (NNS jackets))
+      (, ,)
+      (NP (NNS cutoffs))
+      (, ,)
+      (NP (NN leather))
+      (, ,)
+      (NP (JJ military) (, ,) (JJ local) (NNS designers))
+      (, ,)
+      (NP (NN custom) (NN jewelry)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBZ is)
+      (ADJP (JJ cool)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Way))
+    (ADVP (RB too))
+    (VP (VBP cool)
+      (PP (IN for)
+        (NP (PRP me))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN owner))
+      (PP (IN of)
+        (NP (DT the) (NN business))))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (RB super) (JJ friendly))
+        (CC and)
+        (ADJP (RB very) (JJ knowledgeable))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN selection))
+      (PP (IN of)
+        (NP (JJ vintage) (NN clothing)
+          (CC and)
+          (NN vintage) (NNS accessories))))
+    (VP (VBZ is)
+      (ADJP (RB pretty) (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP
+        (NP (DT a) (JJ great) (NN selection))
+        (PP (IN of)
+          (NP (NN vintage)
+            (CC and)
+            (JJ rare) (NN band) (NNS Ts)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD did) (RB n't)
+        (VP (VB have)
+          (NP (JJ enough) (NN time)
+            (S
+              (VP (TO to)
+                (VP (VB check)
+                  (NP (NN everything))
+                  (PRT (RP out)))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (MD will)
+        (VP (VB be)
+          (ADVP (RB back)))))
+    (. .)))
+
+

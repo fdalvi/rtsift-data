@@ -1,0 +1,214 @@
+(ROOT
+  (S
+    (SBAR
+      (WHNP (WP What))
+      (S
+        (NP (DT a) (JJ great))
+        (VP (VBP experience))))
+    (NP (PRP I))
+    (ADVP (RB just))
+    (VP (VBD had)
+      (PP (IN at)
+        (NP (NNP Firestone))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Went)
+      (ADVP (RB there)
+        (PP (IN for)
+          (NP (DT a) (JJ second) (NN opinion))))
+      (PP (IN after)
+        (S
+          (VP (VBG going)
+            (PP (TO to)
+              (NP (DT the) (JJ local) (NN Jeep) (NN dealer)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN After)
+      (S
+        (VP (VBG checking)
+          (NP
+            (NP (RB all) (DT the) (JJ same))
+            (PP (IN of)
+              (NP (NNS items) (NN Jeep) (NN cheeked)))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD was)
+      (VP (VBN advised)
+        (SBAR (IN that)
+          (S
+            (S
+              (NP
+                (NP (CD 2))
+                (PP (IN of)
+                  (NP (PRP them))))
+              (VP (VBD did) (RB n't)
+                (VP (VB need)
+                  (S
+                    (VP (TO to)
+                      (VP (VB be)
+                        (VP (VBN done))))))))
+            (CC and)
+            (S
+              (NP (DT the) (JJ other) (CD 2) (NNS items))
+              (VP (VBD were)
+                (VP (VBN done)
+                  (PP (IN for)
+                    (NP
+                      (NP (RB literally) (PDT half) (DT the) (NN price))
+                      (PP (IN of)
+                        (NP (DT the) (NN Jeep) (NN dealer))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (CD One))
+      (PP (IN of)
+        (NP (PRP them))))
+    (VP (VBD was)
+      (NP (DT an) (NN alignment)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT These) (NNS guys))
+    (VP (VBP get)
+      (SBAR
+        (S
+          (NP
+            (NP (PRP$ my) (JJ future) (NN business))
+            (PP (IN for)
+              (NP (PDT all) (PRP$ my) (NN maintenance))))
+          (VP (VBZ needs)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Joe))
+      (VP (VBD was)
+        (ADJP (JJ great))))
+    (CC and)
+    (S
+      (NP (NNP Christian))
+      (VP (VBD was)
+        (ADJP (JJ helpful) (RB too))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNS Thanks))
+    (NP (NNS guys))
+    (. !)))
+
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP I))
+        (VP (MD could)
+          (VP (VB give)
+            (NP
+              (QP (JJR less) (IN than) (CD one))
+              (NN star))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (MD would))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Brought)
+      (NP (PRP$ my) (NN F150))
+      (PP (IN in)
+        (PP (IN for)
+          (NP (NN misfire)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP
+        (VP (VBD diagnosed)
+          (NP (PRP it)))
+        (CC and)
+        (VP (VBD told)
+          (NP (PRP me))
+          (SBAR
+            (S
+              (NP (CD one) (NN cylinder))
+              (VP (VBZ is)
+                (ADJP (JJ dead))))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP need)
+        (NP (DT a) (JJ new) (NN engine))
+        (PP (IN after)
+          (NP (VBG checking) (NN vacuum)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD asked)
+        (SBAR (IN if)
+          (S
+            (NP (DT the))
+            (VP (MD could)
+              (VP (VB email)
+                (S
+                  (NP (PRP me))
+                  (NP (DT the) (NN test) (NNS results)))))))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBD told)
+      (NP (PRP me))
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBP do) (RB n't)
+            (VP (VB have)
+              (NP (NN email) (NNS capabilities)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD asked)
+        (PP (IN for)
+          (NP
+            (NP (NNS results))
+            (PP (IN of)
+              (NP
+                (NP
+                  (NP (NN compression) (NN test))
+                  (, ,)
+                  (ADVP
+                    (NP (CD cylinder) (NN leak))
+                    (RB down)))
+                (, ,)
+                (CONJP (RB as) (RB well) (IN as))
+                (NP (NN fuel) (NN pressure) (NNS readings))))))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBD told)
+        (NP (PRP me))
+        (SBAR
+          (S
+            (NP (PRP they))
+            (VP (MD could) (RB n't)
+              (VP (VB do)
+                (NP (DT that))))))))
+    (. .)))
+
+

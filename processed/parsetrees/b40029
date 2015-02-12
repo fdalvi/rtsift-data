@@ -1,0 +1,375 @@
+(ROOT
+  (S
+    (NP (NNP Dilen) (NNP Haircuts))
+    (VP (VBZ is)
+      (NP (DT a)
+        (ADJP (JJ cheap)
+          (CC and)
+          (JJ good))
+        (NN hair) (NN salon)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB Whenever))
+      (S
+        (NP (FW i))
+        (VP (VBP need)
+          (S
+            (NP (DT a) (JJ good) (NN hair))
+            (VP (VB cut) (, ,)
+              (PP (IN from)
+                (NP (RB now)))
+              (PP (IN on)
+                (NP (PRP I))))))))
+    (VP (MD will)
+      (VP (VB go)
+        (PP (TO to)
+          (NP (NNP Dilen) (NNPS Haircuts)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB Whenever))
+      (S
+        (NP (PRP I))
+        (VP (VBP go)
+          (ADVP (RB there)))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP feel)
+      (UCP
+        (VP (VBN relaxed))
+        (CC and)
+        (PP (IN at)
+          (NP (NN ease)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (ADVP (RB truly))
+      (VP (VBP recommend)
+        (NP
+          (NP (NN anyone))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBZ needs)
+                (NP
+                  (NP (DT a)
+                    (ADJP (JJ good)
+                      (CC and)
+                      (JJ cheap))
+                    (NN hair) (NN cut))
+                  (, ,)
+                  (NP (NN color))
+                  (, ,)
+                  (CC and)
+                  (NP (NN perm)))))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (MD will)
+      (ADVP (RB always))
+      (VP (VB tell)
+        (S
+          (NP (PRP them))
+          (VP (TO to)
+            (VP (VB go)
+              (PP (TO to)
+                (NP (NNP Dilen) (NNPS Haircuts))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Dilen))
+    (VP
+      (VP (VBZ has)
+        (VP (VBN moved)
+          (PP (IN from)
+            (NP (NNP Seattle)))))
+      (CC and)
+      (VP (VBZ is)
+        (VP (VBG setting)
+          (PRT (RP up))
+          (NP
+            (NP (NN shop))
+            (ADVP (RB here))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (VBZ knows)
+      (NP
+        (NP (DT a) (NN lot))
+        (PP (IN about)
+          (NP (NN hair)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD had)
+        (S
+          (VP (TO to)
+            (VP (VB listen)
+              (ADVP (RB carefully))
+              (S
+                (VP (TO to)
+                  (VP (VB understand)
+                    (ADVP (RB sometimes))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ is)
+        (ADJP (JJ worth))
+        (S
+          (VP (VBG being)
+            (ADJP (JJ patient))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP (PRP$ My) (NN hair))
+        (VP (VBZ is)
+          (ADJP (RB very) (JJ long))))
+      (CC and)
+      (S
+        (NP (PRP I))
+        (VP (VBP am)
+          (ADJP (JJR older)))))
+    (, ,) (IN so)
+    (S
+      (NP (PRP she))
+      (VP
+        (VP (VBZ conditioned)
+          (NP (PRP it)))
+        (CC and)
+        (VP (VBD gave)
+          (NP (PRP me))
+          (NP
+            (NP (DT a) (NN lot))
+            (PP (IN of)
+              (NP (NN wisdom)))))
+        (PP (IN about)
+          (S
+            (VP (VBG taking)
+              (NP
+                (NP (JJ good) (NN care))
+                (PP (IN of)
+                  (NP (PRP$ my) (NN hair)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN cut))
+    (PRN
+      (S
+        (NP (PRP she))
+        (VP (VBD gave)
+          (SBAR
+            (S
+              (NP (PRP me))
+              (VP (VBD was)
+                (ADVP (RB just))
+                (PP (IN like)
+                  (NP (DT the) (NN photo)))))))))
+    (NP (PRP I))
+    (VP (VBD gave)
+      (NP (PRP her)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP
+      (VP (VBZ colored)
+        (NP (PRP$ my) (NN hair)))
+      (CC and)
+      (VP (VBD highlighted)
+        (NP (PRP it))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD ca) (RB n't)
+      (VP (VB believe)
+        (SBAR
+          (WHNP
+            (WHADJP (WRB how) (JJ much))
+            (NN care))
+          (S
+            (NP (PRP she))
+            (VP (VBD gave)
+              (PP (TO to)
+                (NP (PRP$ my) (NN hair))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (ADVP (RB really))
+    (VP (VBD cared)
+      (PP (IN about)
+        (SBAR
+          (WHADVP (WRB how))
+          (S
+            (NP (PRP I))
+            (VP
+              (VP (VBD looked))
+              (CC and)
+              (VP (VBD made)
+                (SBAR
+                  (S
+                    (NP (PRP me))
+                    (VP (VBP look)
+                      (NP
+                        (NP (DT the) (JJS best))
+                        (SBAR
+                          (S
+                            (NP (PRP I))
+                            (VP (VBP have)
+                              (ADVP (RB ever))
+                              (VP (VBN looked)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (ADVP (RB certainly))
+    (VP (VBZ is)
+      (NP (DT a) (JJ top) (NN salonist)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB recommend)
+        (NP (PRP her))
+        (PP (TO to)
+          (NP (NN anyone)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (VP (VBN Got)
+        (NP
+          (NP (DT a) (NN haircut))
+          (PP (RB because) (IN of)
+            (NP
+              (NP (DT the) (JJ good) (NNS reviews))
+              (PP (IN of)
+                (NP (DT the) (NNS people))))))))
+    (, ,)
+    (VP (MD must)
+      (VP (VB have)
+        (VP (VBN been)
+          (NP (PRP$ her) (NNS friends)))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBD Did) (RB n't)
+      (VP (VB get)
+        (NP
+          (NP (DT the) (NN cut))
+          (SBAR
+            (S
+              (NP (FW i))
+              (VP (VBD wanted)))))
+        (PRN (-LRB- -LRB-)
+          (PP (IN Like)
+            (NP
+              (NP (DT the) (NN picture))
+              (SBAR
+                (S
+                  (NP (FW i))
+                  (VP (VBD showed)
+                    (NP (PRP her)))))))
+          (-RRB- -RRB-))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Do) (RB n't)
+      (VP (VB be)
+        (VP (VBN fooled))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Maybe))
+    (VP (VBZ thats)
+      (SBAR
+        (WHADVP (WRB why))
+        (S
+          (NP (EX there))
+          (VP (VBZ 's)
+            (NP (NN nobody))
+            (ADVP (RB else) (RB there) (RB too))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP
+        (NP (DT the) (NN price))
+        (PP (IN of)
+          (NP (DT the) (NN cut)
+            (CC and)
+            (NN style)))))
+    (, ,)
+    (NP (FW i))
+    (VP (MD could)
+      (VP (VB have)
+        (VP (VBN gone)
+          (ADVP (RB somewhere) (RB else))
+          (PP (IN for)
+            (NP (JJR cheaper) (NN price))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Trust)
+      (NX (FW me)))
+    (, ,)
+    (VP (VBP do) (RB n't)
+      (VP (VB do)
+        (NP (PRP it))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (RB Only) (JJ good) (NN thing))
+        (PP (IN about)
+          (NP (DT this)))))
+    (, ,)
+    (NP (PRP she))
+    (VP (VBD was)
+      (NP (DT a) (JJ nice) (NN lady)))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (VP (VBZ sucks)
+      (PP (IN for)
+        (NP (PRP me)))
+      (ADVP (RB though)))
+    (. .)))
+
+

@@ -1,0 +1,139 @@
+(ROOT
+  (S
+    (NP (NNP Awful))
+    (VP (VBP experience))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBD installed)
+        (NP (DT a) (NN washer))
+        (ADVP (RB incorrectly))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD ended)
+        (PRT (RP up))
+        (S
+          (VP (VBG leaking)
+            (CC and)
+            (VBG causing)
+            (NP
+              (NP (NNS thousands))
+              (PP (IN of)
+                (NP
+                  (NP (NNS dollars))
+                  (PP (IN of)
+                    (NP (NN damage))))))))
+        (PP (TO to)
+          (NP (PRP$ my) (NN home)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD admitted)
+      (SBAR
+        (S
+          (NP (NN fault))
+          (VP (CC but)
+            (VP (VBD handled)
+              (NP (DT the) (NN situation))
+              (ADVP (RB poorly)))
+            (CC and)
+            (VP (VBD did) (RB n't)
+              (VP (VB pay)
+                (PP (IN for)
+                  (NP (DT the) (NNS damages)))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (SBAR (RB Just)
+      (S
+        (VP
+          (VP (VBD bought)
+            (SBAR
+              (S
+                (NP
+                  (NP (DT all) (JJ new) (NNS appliances))
+                  (CC and)
+                  (NP (DT the) (NN customer) (NNS service/sales) (NN lady)))
+                (VP (VBD was)
+                  (ADJP (RB very) (JJ helpful))))))
+          (CC and)
+          (VP (VBD did)
+            (NP (NN everything))))))
+    (NP (PRP she))
+    (VP (MD could)
+      (S
+        (VP (TO to)
+          (VP
+            (VP (VB ensure)
+              (S
+                (S
+                  (NP (PRP we))
+                  (VP (VBD got)
+                    (NP (DT the) (JJS best) (NNS prices))))
+                (CC and)
+                (S
+                  (NP (PRP we))
+                  (VP (VBD had)
+                    (NP
+                      (NP (PRP$ our) (NNS appliances))
+                      (VP (VBN delivered)))))))
+            (CC and)
+            (VP (VB install)
+              (NP (DT the) (JJ next) (NN day)))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Key))
+    (: -)
+    (S
+      (NP (PRP She))
+      (VP (VBD was) (RB not)
+        (ADJP (JJ pushy)
+          (PP (IN with)
+            (NP
+              (NP (DT the) (NN service) (NNS agreements))
+              (SBAR
+                (S
+                  (NP (PDT all) (DT the) (JJ other) (NNS stores))
+                  (VP (VBP try)
+                    (S
+                      (VP (TO to)
+                        (VP (VB shove)
+                          (PRT (RP down))
+                          (NP (PRP$ your) (NN throat)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (VBD offered)
+      (SBAR
+        (S
+          (NP (PRP we))
+          (VP (VBD declined)
+            (SBAR (IN that)
+              (S
+                (VP (VBD was)
+                  (NP (DT the) (NN end)))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Purchased))
+    (: :)
+    (NP
+      (NP (NNP GE) (, ,) (NNP Range) (, ,) (NNP Dishwasher) (, ,))
+      (CC and)
+      (NP (NNP Microwave)))
+    (. .)))
+
+

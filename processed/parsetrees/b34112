@@ -1,0 +1,281 @@
+(ROOT
+  (S
+    (NP (NN Today))
+    (, ,)
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (PRP I))
+        (VP (VBD hiked)
+          (PP (IN from)
+            (NP (NNP Club) (NNP Fortune) (NNP Casino)))
+          (PP (TO to)
+            (NP (DT the) (NNP River) (NNPS Mountains))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD rested)
+      (ADVP (RB here))
+      (PP (IN for)
+        (NP
+          (NP (DT a) (NN couple))
+          (PP (IN of)
+            (NP (NNS minutes))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN park))
+    (VP (VBZ is)
+      (VP (VBN placed)
+        (PP (IN on)
+          (NP
+            (NP (CD six) (NNS acres))
+            (PP (IN at)
+              (NP
+                (NP (NNP Magic) (NNP Way))
+                (CC and)
+                (NP (NNP Pounds) (NNP Way))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (ADJP (JJ contiguous)
+        (PP
+          (PP (TO to)
+            (NP (DT a) (JJ paved) (NN neighborhood) (NN trail)))
+          (CC and)
+          (PP (IN across) (IN from)
+            (NP
+              (NP (NNP Equestrian) (NNP Park))
+              (, ,)
+              (SBAR
+                (WHADVP (WRB where))
+                (S
+                  (NP (PRP I))
+                  (VP (VBD was)
+                    (VP (VBN bound))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Saguaro) (NNP Park))
+    (VP (VBZ is)
+      (NP (DT a) (JJ nice) (NN community) (NN park)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would) (RB not)
+      (VP (VB drive)
+        (PRT (RP out))
+        (PP (IN of)
+          (NP (PRP$ my) (NN way)
+            (S
+              (VP (TO to)
+                (VP (VB go)
+                  (ADVP (RB here)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (DT the) (NN time))
+        (SBAR (IN that)
+          (S
+            (NP (PRP I))
+            (VP (VBD spent)
+              (ADVP (RB here)))))))
+    (, ,)
+    (NP (PRP I))
+    (ADVP (RB especially))
+    (VP (VBD enjoyed)
+      (NP
+        (NP (DT the) (JJ open) (NN grass) (NN area))
+        (, ,)
+        (NP
+          (NP (NNS vistas))
+          (PP (IN of)
+            (NP (DT the) (NNP River) (NNPS Mountains))))
+        (, ,)
+        (CC and)
+        (NP (DT the) (NN proximity)
+          (S
+            (VP (TO to)
+              (VP (VB open)
+                (NP (NN space))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (MD would)
+          (VP (VB like)
+            (S
+              (VP (TO to)
+                (VP (VB check)
+                  (PRT (RP out))
+                  (NP (NNP Saguaro) (NNP Park)))))))))
+    (, ,)
+    (NP (DT these))
+    (VP (VBP are)
+      (S
+        (S
+          (NP (DT the) (NNS amenities))
+          (VP (VBN listed)
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NNP City))
+                (PP (IN of)
+                  (NP
+                    (NP (NNP Henderson) (NNP Park))
+                    (CC and)
+                    (NP (NN Recreation) (NN website))))))))
+        (: :)
+        (S
+          (X
+            (X (SYM *))
+            (NP (JJ Barbecue) (NNS grills)))
+          (X (SYM *))
+          (NP (NN Basketball) (NNS courts))
+          (VP (MD *)
+            (VP (VB Open)
+              (NP (NN grass) (NN area))
+              (FRAG
+                (X (SYM *))
+                (NP (JJ Picnic) (NNS tables))))))
+        (S
+          (X
+            (X (SYM *))
+            (NP (NNP Covered) (NNP picnic) (NN area) (NNP *) (NNP Playground)))
+          (X (SYM *))
+          (NP (NNP Splash) (NNP Pad))
+          (VP (VBZ *)
+            (NP (VBG Walking) (NN course))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VB Nice)
+      (NP (RB little) (VBN hidden) (NN park)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP like)
+      (NP (PRP it))
+      (SBAR (IN because)
+        (S
+          (NP (PRP$ its))
+          (VP (VBD got)
+            (NP
+              (NP
+                (NP (DT a) (NN playground))
+                (CC and)
+                (NP
+                  (NP (DT a) (JJ splash) (NN pad))
+                  (PP (IN in)
+                    (NP (JJ close) (NN proximity)))))
+              (PRN (-LRB- -LRB-)
+                (VP (VBN easier)
+                  (S
+                    (VP (TO to)
+                      (VP (VB watch)
+                        (NP (DT the) (NNS kids))))))
+                (-RRB- -RRB-))
+              (, ,)
+              (NP
+                (NP
+                  (NP (DT a) (VBN covered) (JJ largish) (NN picnic) (NN area))
+                  (, ,)
+                  (NP (NNS bathrooms)))
+                (, ,)
+                (NP
+                  (NP (DT an) (JJ open) (NN field))
+                  (CC and)
+                  (NP (VBG walking) (NNS trails)))
+                (, ,)
+                (CC and)
+                (NP
+                  (NP (PRP$ its))
+                  (ADJP (RB rarely) (VBN crowded)))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VB Nice)
+      (NP (JJ local) (NN park)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Clean)
+      (CC and)
+      (NNP grass))
+    (VP (VBZ is)
+      (ADVP (RB well))
+      (VP (VBN maintained)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Small))
+    (VP (VBP splash)
+      (NP
+        (NP (NN pad))
+        (PP (IN in)
+          (NP (DT the) (NN summer) (NNS months)))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ runs))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Also))
+    (NP (JJ small) (NN basketball))
+    (VP (VBZ hoops)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (NP (PRP I))
+          (ADVP (RB always))
+          (VP (VBP see)
+            (NP
+              (NP (JJ teenage) (NNS boys))
+              (VP (VBG playing)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP like)
+      (S
+        (VP (TO to)
+          (VP (VB walk)
+            (NP (PRP$ my) (NNS dogs))
+            (ADVP (RB here))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP
+        (NP (JJ doggie) (NN bags) (NN avail))
+        (PP (IN for)
+          (NP
+            (NP (NN use))
+            (ADVP (RB as) (RB well))))))
+    (. .)))
+
+

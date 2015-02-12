@@ -1,0 +1,190 @@
+(ROOT
+  (S
+    (ADVP (RB Yay))
+    (, ,)
+    (NP (DT this) (NN location))
+    (VP (VBZ is)
+      (ADVP (RB finally))
+      (ADJP (JJ open)))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (ADJP (RB So) (JJ glad))
+    (S
+      (VP (TO to)
+        (VP (VB have)
+          (S
+            (NP (PRP one))
+            (ADJP (JJR closer)
+              (PP (TO to)
+                (SBAR
+                  (WHADVP (WRB where))
+                  (S
+                    (NP (PRP I))
+                    (VP (VBP live))))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (VP
+      (NP
+        (NP (JJ Same) (JJ great) (NN menu)
+          (S
+            (VP (TO to)
+              (VP (VB choose)
+                (PP (IN from))))))
+        (CC and)
+        (NP (JJ friendly) (NN service))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJS best) (NN teriyaki))
+      (PP (IN in)
+        (NP (NN town))))
+    (VP (VBZ :-RRB-)
+      (ADVP (RB finally))
+      (NP
+        (NP
+          (NP (CD one))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBZ 's)
+                (PP (IN in)
+                  (NP (NN center) (NNP Vegas) (NNP :-RRB-)))))))
+        (NP (RB highly) (JJ recommended) (JJ fast) (NN food))))))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJS best) (NN teriyaki) (NN chicken))
+      (PP (IN with)
+        (NP (JJ brown) (NN rice))))
+    (, ,)
+    (VP (VBG addicting))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ sound) (NN system))
+    (ADVP (RB there))
+    (VP (VBZ sounds)
+      (ADVP (RBR better) (IN than))
+      (ADVP (RBS most) (RB too))
+      (PP (IN with)
+        (NP (CD 2) (JJ big) (NNP HD) (NN tvs))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Food))
+      (VP (VBD was)
+        (ADJP (JJ enjoyable))))
+    (CC and)
+    (S
+      (NP (EX there))
+      (VP (VBD was)
+        (NP (RB plenty))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB just))
+    (VP (VBP hate)
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (NNS restaurants))
+          (VP (VBP cheapen)
+            (NP
+              (NP (DT the) (NN quality))
+              (PP (IN of)
+                (NP (DT the) (NN meat))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN steak))
+      (VP
+        (VP (VBD used)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (NP (JJ actual) (NN steak))))))
+        (CC but)
+        (VP (VBZ is)
+          (ADVP (RB now))
+          (NP
+            (NP (DT a) (JJ cheap) (JJ philly) (NN steak) (NN type))
+            (PP (IN of)
+              (NP (NN thing)))))))
+    (CC and)
+    (S
+      (S
+        (VP (VBG charging)
+          (PP (IN for)
+            (NP
+              (NP (DT the) (NN sauce))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBD used)
+                    (S
+                      (VP (TO to)
+                        (VP (VB be)
+                          (VP (VBN put)
+                            (PP (IN on)
+                              (NP (DT the) (NN food))))))))))))))
+      (VP (VBZ is)
+        (ADJP
+          (NP (DT a) (RB bit))
+          (JJ much)
+          (PP (IN as)
+            (ADVP (RB well))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Service))
+      (PP (IN at)
+        (NP
+          (NP (DT this) (NN location))
+          (PP (IN during)
+            (NP (NN lunch) (NN hour))))))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (RB really) (JJ slow))
+        (: ...)
+        (ADJP (RB not) (JJ good)
+          (PP (IN for)
+            (NP
+              (NP (DT the) (VBG working) (NN individual))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBZ has)
+                    (NP
+                      (NP (RB only) (DT an) (NN hour))
+                      (PP (IN for)
+                        (NP (NN lunch))))))))))))
+    (. !)))
+
+(ROOT
+  (S (CC But)
+    (NP (NN food))
+    (VP (VBZ is)
+      (ADVP (RB still))
+      (ADJP (JJ good)))))
+
+

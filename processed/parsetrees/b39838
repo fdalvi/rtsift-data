@@ -1,0 +1,114 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD tried)
+      (NP (DT this) (NN place))
+      (SBAR (IN because)
+        (S
+          (NP (PRP it))
+          (VP (VBZ is)
+            (ADJP (JJ close)
+              (PP (TO to)
+                (NP
+                  (NP (PRP me))
+                  (, ,)
+                  (SBAR
+                    (WHNP (WP what))
+                    (S
+                      (NP (DT a) (NN mistake)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Food))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (JJ bland)
+          (CC and)
+          (JJ gross))
+        (CONJP (RB as) (RB well) (IN as))
+        (ADJP
+          (ADVP (RP over))
+          (VBN priced))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VP (VB Save)
+        (NP (PRP$ your) (NN money)))
+      (CC and)
+      (VP (VB go)
+        (PP (TO to)
+          (NP
+            (NP (NNP Lil) (POS '))
+            (NNS Cesars)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT The) (NNS managers)
+      (CC and)
+      (NN customer) (NN service))
+    (VP (VBP are)
+      (NP (DT the) (JJS worst)))
+    (. .)))
+
+(ROOT
+  (SINV
+    (VP (VBP BUT)
+      (SBAR
+        (S
+          (NP (DT the) (NN pizza))
+          (VP (VBZ is)
+            (ADJP (JJ delicious))))))
+    (NP (NNP !!!))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBP love)
+        (NP (PRP it)))
+      (CC and)
+      (VP (VBP have)
+        (VP (VBN been)
+          (VP (VBG coming)
+            (PP (IN for)
+              (NP (NNS years)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP wish)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (MD would)
+            (VP (VB stop)
+              (S
+                (VP (VBG raising)
+                  (NP (PRP$ their) (NNS prices))
+                  (ADVP (RB though)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT A) (JJ large))
+    (VP (VBD used)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (NP
+              (NP ($ $) (CD 5))
+              (ADVP (RB now))
+              (SBAR
+                (S
+                  (NP (PRP they))
+                  (VP (VBP are)
+                    (NP ($ $) (CD 9))))))))))
+    (. .)))
+
+

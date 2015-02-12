@@ -1,0 +1,179 @@
+(ROOT
+  (S
+    (PP (IN As)
+      (ADVP (RB good) (RB as)))
+    (NP (PRP it))
+    (VP (VBZ gets))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Excellent) (NN food))
+    (PP (IN in)
+      (NP (DT a) (NN fun) (NN atmosphere)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (INTJ (UH Okay))
+    (VP (VB burgers))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Unlimited))
+    (VP (VBZ toppings)
+      (PP (IN for)
+        (NP (DT no) (JJ extra) (NN charge))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Awesome)
+      (NP (NNS fries)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Cool)
+      (NP (NN soda) (NN machine)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Little))
+      (VP
+        (VP
+          (ADJP (JJ expensive))
+          (PP (IN for)
+            (NP (DT a) (NN burger))))
+        (CC and)
+        (VP (VBZ fries))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ is)
+        (NP (DT a) (NN quality) (NN meal))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NN Cajun) (NNS fries))
+      (VP (VBP are)
+        (ADJP (JJ good))))
+    (CC and)
+    (S
+      (NP (PRP$ its))
+      (ADVP (RB always))
+      (VP (VBZ fun)
+        (S
+          (VP (TO to)
+            (VP (VB watch)
+              (S
+                (NP (DT the) (NNS people))
+                (VP (VB try)
+                  (S
+                    (VP (TO to)
+                      (VP (VB figure)
+                        (PRT (RP out))
+                        (NP (DT the) (NN soda) (NNS machines))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Has)
+      (NP
+        (NP (DT some) (JJ hot) (NNS dogs))
+        (PP (IN for)
+          (NP
+            (NP (NNS kids))
+            (ADVP (RB as) (RB well))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (RB Even) (IN though)
+      (S
+        (NP (DT the))
+        (VP (VBP say)
+          (SBAR
+            (S
+              (NP (DT all) (NN topping))
+              (VP (VBP are)
+                (ADJP (JJ free))
+                (, ,)
+                (SBAR
+                  (WHADVP (WRB when))
+                  (S
+                    (NP (PRP you))
+                    (VP (VBP are)
+                      (VP (VBG paying)
+                        (NP (CD 8.00))
+                        (PP (IN for)
+                          (NP (RB just) (DT a) (NN burger)))))))))))))
+    (NP (PRP they))
+    (VP (VBP are) (RB not)
+      (ADJP (JJ free)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (ADVP (JJ First) (NN time))
+    (NP
+      (NP (RB there))
+      (CC and)
+      (NP
+        (NP (DT all))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (MD can)
+              (VP (VB say)))))))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (VBD was)
+            (VP (VBN gooooood))))))
+    (: ...)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ only) (NN downside))
+    (VP (VBD was)
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP (VBD were)
+            (ADJP
+              (ADJP (JJR smaller))
+              (PP (IN than)
+                (NP
+                  (NP (FW i))
+                  (ADJP (VBN expected) (, ,)
+                    (CC but)
+                    (JJ good)))))
+            (ADVP (RB nonetheless))))))
+    (: ...)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD liked)
+      (NP (DT the) (JJ free) (NNS peanuts))
+      (PP (IN as)
+        (NP (NNS appetizers)))
+      (PP (IN while)
+        (S
+          (VP (VBG waiting)
+            (PP (IN for)
+              (NP (DT the) (NNS burgers)))))))
+    (: ...)))
+
+

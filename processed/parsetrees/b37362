@@ -1,0 +1,288 @@
+(ROOT
+  (S
+    (NP (DT This) (NN pizza) (NN place))
+    (VP (VBZ is)
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN food) (NN court))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NNP Luxor) (NNP Hotel))
+              (PP (IN in)
+                (NP (NNP Las) (NNP Vegas))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP
+      (VP (VBZ 's)
+        (ADJP (JJ similar)
+          (PP (TO to)
+            (NP (NNP sbarro) (POS 's)))))
+      (, ,)
+      (CC but)
+      (VP (VBZ has)
+        (NP
+          (NP (JJR more) (NNS varieties))
+          (PP (IN of)
+            (NP (NN pizza) (NNS toppings))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN chicken))
+      (CC &)
+      (NP (NN veggie)
+        (CC and)
+        (NN mushroom) (NN pizza)))
+    (VP (VBZ is)
+      (ADJP (RB very) (JJ good)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ 's)
+      (ADVP (RB also))
+      (NP
+        (NP (DT some) (NN pasta))
+        (, ,)
+        (NP (NN salad))
+        (, ,)
+        (CC and)
+        (NP (JJ garlic) (NN bread))))
+    (. .)))
+
+
+(ROOT
+  (FRAG
+    (S
+      (ADJP (JJ Overcooked))
+      (S
+        (VP (TO to)
+          (VP
+            (VP (VB begin)
+              (PP (IN with)))
+            (CC and)
+            (VP (VB outrageously)
+              (ADJP (JJ expensive)))))))
+    (: :)
+    (NP
+      (NP (CD two) (NNS things))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBP characterize)
+            (NP (DT this) (NN pizza) (NN joint))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN While)
+      (S
+        (NP
+          (NP (NN food))
+          (PP (IN in)
+            (NP (NNP Vegas))))
+        (VP (VBZ is)
+          (ADVP (RB generally))
+          (RB not)
+          (ADJP (RB that) (JJ cheap)))))
+    (, ,)
+    (PP (IN for)
+      (NP
+        (NP (DT a) (NN place))
+        (PP (IN in)
+          (NP (DT a) (NN food) (NN court)))))
+    (, ,)
+    (NP (PRP you))
+    (VP (MD would)
+      (VP (VB come)
+        (S
+          (VP (TO to)
+            (VP (VB expect)
+              (NP
+                (NP (DT a) (JJ certain) (NN level))
+                (PP (IN of)
+                  (NP
+                    (NP (NN quality)
+                      (CC and)
+                      (NN price))
+                    (VP (VBN associated)
+                      (PP (IN with)
+                        (NP (JJ fast) (NN food))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT This) (NN establishment))
+      (VP (VBD fell)
+        (ADVP (RB far) (RB below))
+        (PP (RB even)
+          (NP (PRP$ our) (JJS lowest) (NNS standards)))))
+    (CC and)
+    (S
+      (NP (PRP we))
+      (ADVP (RB actually))
+      (VP (VBP wish)
+        (SBAR
+          (S
+            (NP (PRP we))
+            (VP (VBD went)
+              (PP (TO to)
+                (NP (DT the) (JJ next) (NN door) (NN McDonalds)))
+              (ADVP (RB instead)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (NNS terms))
+        (PP (IN of)
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (VP (VBD was)
+                (ADVP (RB actually))
+                (ADJP (JJ wrong)
+                  (PP (IN with)
+                    (NP (DT the) (NNP Pizza))))))))))
+    (, ,)
+    (NP
+      (NP (DT the) (NN crust))
+      (CC and)
+      (NP (JJ main) (NN body)))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (JJ overcooked))
+        (, ,)
+        (ADJP (JJ tough))
+        (, ,)
+        (CC and)
+        (ADJP (JJ drier)
+          (PP (IN than)
+            (NP (NNP Vegas) (NN soil))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS toppings))
+    (VP
+      (VP (VBD were)
+        (ADJP (JJ sparse)
+          (S
+            (VP (TO to)
+              (VP (VB begin)
+                (PP (IN with)))))))
+      (CC and)
+      (VP (VBD were)
+        (VP
+          (ADVP (RB also))
+          (VBN overcooked))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT This) (RB really) (JJ gross) (NN slice))
+      (PP (IN of)
+        (NP (NN pizza))))
+    (VP
+      (VP (VBD cost)
+        (NP ($ $) (CD 6.95)))
+      (CC but)
+      (VP
+        (ADVP (RB really))
+        (MD should)
+        (VP (VB have)
+          (VP (VBN been)
+            (PP (IN on)
+              (NP
+                (NP (DT the) (NN dollar) (NN section))
+                (PP (IN of)
+                  (NP (DT a) (NN run)))))
+            (PP (IN down)
+              (NP (NN pizza) (NN joint)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS employees))
+    (VP (VBD were)
+      (UCP
+        (ADJP (JJ surly) (, ,) (JJ curt))
+        (, ,)
+        (CC and)
+        (VP (VBD were)
+          (NP
+            (NP (DT the) (NN nail))
+            (PP (IN in)
+              (NP (DT the) (NN coffin))))
+          (PP (IN for)
+            (NP (DT this) (NN review))))))
+    (. .)))
+
+(ROOT
+  (S
+    (INTJ (UH Please))
+    (VP
+      (VP (VB save)
+        (NP
+          (NP (PRP$ your) (NN money))
+          (, ,)
+          (NP (PRP$ your) (NN stomach))
+          (, ,)
+          (CC and)
+          (NP (PRP$ your) (NN time))))
+      (CC and)
+      (VP (VB go)
+        (NP (RB somewhere) (RB else))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN pizza))
+      (VP (VBZ is)
+        (ADJP (JJ good)
+          (PP (IN for)
+            (NP (DT a) (JJ quick) (NN bite))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP
+        (NP (DT the) (NN service))
+        (, ,) (RB even)
+        (NP (DT a)
+          (ADJP (JJ simple))
+          (VBG greeting)))
+      (VP (VBZ sucks)))
+    (. ...)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP know)
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP have)
+              (VP (VBZ tattoos)))))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP
+        (VP (VBZ 's)
+          (NP (DT a) (JJ busy) (NNP Las) (NNP Vegas) (NN food) (NN court)))
+        (CC but)
+        (VP (VBP show)
+          (NP (DT some) (NN effort)))))
+    (. .)))
+
+

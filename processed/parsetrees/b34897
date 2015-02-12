@@ -1,0 +1,89 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT This) (NN campus))
+      (PP (IN of)
+        (NP (NNP Mesa) (NNP Community) (NNP College))))
+    (VP (VBZ is)
+      (ADJP (JJ great)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (NNP Staff))
+    (VP
+      (VP (VBZ is)
+        (ADJP (JJ friendly)))
+      (CC and)
+      (ADVP (RB actively))
+      (VP (VBZ tries)
+        (S
+          (VP (TO to)
+            (VP (VB help)
+              (PP (IN in)
+                (NP
+                  (NP (DT any) (NN way))
+                  (SBAR
+                    (S
+                      (NP (PRP they))
+                      (VP (MD can)))))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Great))
+    (NP (NN job) (NNS guys))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (DT The) (NNS people))
+    (ADVP (RB there))
+    (VP (VBP are)
+      (ADJP (RB so) (JJ nice)
+        (CC and)
+        (JJ helpful)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT Every) (NN time))
+    (NP (PRP I))
+    (VP (VBP go) (, ,)
+      (NP (NNP Im))
+      (ADVP (IN in)
+        (CC and)
+        (IN out))
+      (ADVP (RB fast)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD chose)
+      (S
+        (VP (TO to)
+          (VP (VB go)
+            (PP (TO to)
+              (NP
+                (NP (NNP MCC) (NNP Red) (NN mountain))
+                (PP (RB because) (IN of)
+                  (NP (DT the) (JJ friendly)
+                    (CC and)
+                    (JJ professional) (NN environment)))))
+            (ADVP (RB there))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB highly))
+    (VP (VBP recommend)
+      (S
+        (NP (NNS people))
+        (VP (VB go)
+          (ADVP (RB there)))))
+    (. .)))
+
+

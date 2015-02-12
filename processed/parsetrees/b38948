@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP (JJ Great) (NN convenience))
+    (VP (VBP store))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (NNP Easy))
+    (NP (NN access))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Helpful)
+      (NP (NN staff)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Pretty))
+    (NP
+      (NP (JJ decent) (NNS prices))
+      (PP (IN on)
+        (NP (NNS things))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Nice)
+      (NP (JJ convenient) (NN store)))))
+
+
+(ROOT
+  (S
+    (NP (JJ Nice) (NN staff) (, ,) (JJ Polar) (NN pop) (NN deal))
+    (VP (MD ca) (RB n't)
+      (VP (VB be)
+        (ADJP (JJ beat))))
+    (. !)))
+
+

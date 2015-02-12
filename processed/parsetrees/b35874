@@ -1,0 +1,234 @@
+(ROOT
+  (S
+    (ADVP (RB SCAM))
+    (NP (PRP They))
+    (VP (VBP are)
+      (ADJP (JJ horrible)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN Unless)
+      (S
+        (NP (PRP you))
+        (VP (VBP want)
+          (NP (JJ wilted) (NNS flowers))
+          (PP (IN upon)
+            (NP
+              (NP (NN delivery))
+              (CC and)
+              (NP (DT no) (NN response))))
+          (PP (TO to)
+            (NP (PRP$ your) (NN phone) (NNS calls)
+              (CC and)
+              (NNS e-mails))))))
+    (, ,)
+    (VP (VB do) (RB not)
+      (VP (VB do)
+        (NP (NN business))
+        (PP (IN with)
+          (NP (DT these) (NNS people)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP do) (RB not)
+      (VP (VB honor)
+        (NP
+          (NP (PRP$ their) (NN guarantee))
+          (PP (IN of)
+            (NP (DT a) (NN refund))))
+        (SBAR (IN if)
+          (S
+            (VP (VBN notified)
+              (PP (IN within)
+                (NP
+                  (NP (CD 10) (NNS days))
+                  (PP (IN of)
+                    (NP (DT an) (JJ unsatisfactory) (NN delivery))))))))
+        (: --)
+        (SBAR (RB even) (IN though)
+          (S
+            (NP (PRP they))
+            (VP (VBD were)
+              (VP (VBN notified)
+                (NP (JJ same) (NN day))
+                (PP (IN in)
+                  (NP (PRP$ my) (NN case)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Numerous) (NNS emails)
+        (CC and)
+        (NN phone) (NNS calls))
+      (PP (IN with)
+        (NP (DT no) (NN response))))
+    (VP (VBP save)
+      (SBAR (IN for)
+        (S
+          (NP
+            (NP (DT a) (NN child))
+            (VP
+              (VP (VBG answering)
+                (NP (DT the) (NN phone)))
+              (CC and)
+              (VP (VBG telling)
+                (NP (PRP me))
+                (ADVP (RB no)
+                  (NP (CD one))))))
+          (VP (VBD was)
+            (ADVP (RB there))
+            (S
+              (VP (TO to)
+                (VP (VB take)
+                  (NP (PRP$ my) (NN call)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Unacceptable))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VB Ellos)
+      (NP (NN son) (NNS horribles)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT A) (NNS menos) (NN que))
+      (VP (VBZ quieras)
+        (SBAR
+          (S
+            (NP (NNS flores))
+            (VP (VBZ marchitas)
+              (SBAR
+                (S
+                  (NP (DT a) (NNP la) (NN entrega))
+                  (VP (VBP y)
+                    (NP
+                      (NP (DT no) (NN responde))
+                      (SBAR
+                        (S
+                          (NP (DT a) (NN sus) (NNS llamadas))
+                          (VP (VBZ telef?nicas)
+                            (SBAR
+                              (S
+                                (NP (NN y) (NNS correos))
+                                (VP (VBZ electr?nicos))))))))))))))))
+    (, ,)
+    (NP (DT no) (NN hacer))
+    (VP (VBZ negocios)
+      (NP (JJ con) (NN estas) (NNS personas)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (X
+      (NP
+        (NP (NNS Ellos))
+        (NP (DT no) (NN honrar) (NN su) (NN garant?a)))
+      (NP (NNP de) (NNP reembolso) (NNP si) (NNP se) (NNP notifica) (NN dentro) (NNP de) (NNP los))
+      (NP
+        (NP (CD 10) (NNS d?as))
+        (NP (IN de) (JJ un) (NN parto) (NN satisfactorio))))
+    (: -)
+    (NP (DT a) (NN pesar)
+      (SBAR
+        (S
+          (NP (IN de) (NN que) (NN fueron))
+          (VP (VBZ notificados)
+            (NP
+              (NP (NN el) (NN mismo) (NN d?a))
+              (, ,)
+              (PP (IN en)
+                (NP (NN mi) (NN caso))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (S
+      (NP (JJ Numerosos) (NNS correos))
+      (VP (VBZ electr?nicos)
+        (SBAR
+          (S
+            (NP (NN y) (NNS llamadas))
+            (VP (VBZ telef?nicas)
+              (NP
+                (NP (NN sin) (NN respuesta) (NN con) (NN excepci?n))
+                (PP (IN de)
+                  (NP
+                    (NP (NN un))
+                    (JJ ni?o) (IN de)
+                    (NP (NN contestar) (NN el) (NN tel?fono))))))))))
+    (VP (VBP y)
+      (NP (PRP me)))
+    (NP (NN dec?a) (NN que) (NN nadie) (NN estaba) (NNP all?) (NN para) (NN tomar) (NNP mi) (NNP llamada))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Inaceptable))
+    (. !)))
+
+
+(ROOT
+  (FRAG
+    (NP (DT this))
+    (SBAR
+      (WHNP
+        (ADJP
+          (NP
+            (NP (DT an) (JJ new) (NN manager) (NN flower) (NN shop))
+            (ADVP (RB really)))
+          (JJ helpful))
+        (NNS people))
+      (S
+        (NP (PRP they))
+        (VP
+          (VP (VB deliver)
+            (NP (JJ same) (NN day))
+            (, ,)
+            (PP (IN on)
+              (NP
+                (NP (NN time))
+                (CC and)
+                (NP
+                  (NP
+                    (ADJP (RB very) (JJ responsible))
+                    (NNS people))
+                  (SBAR
+                    (S
+                      (NP (PRP they))
+                      (ADVP (RB really))
+                      (VP (VBP care)
+                        (PP (IN about)
+                          (NP
+                            (NP (DT the) (NN customer) (NN I) (NN order))
+                            (PP (IN for)
+                              (NP (DT the) (JJ next) (NN hoour))))))))))))
+          (CC and)
+          (VP (VB pum)
+            (S
+              (NP (PRP they))
+              (VP (VB deliver)
+                (NP
+                  (ADJP (RB really) (JJ good))
+                  (NNS people))))))))))
+
+
+(ROOT
+  (S
+    (VP (VB Awesome)
+      (S
+        (NP (CD selection) (JJ great) (NN customer) (NN sevice))
+        (VP (VB Check)
+          (PRT (RP out))
+          (NP (PRP$ their) (NN website) (NN http://www.floreriaangela.org/)))))))
+
+

@@ -1,0 +1,231 @@
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD had)
+      (VP (VBN intended)
+        (S
+          (VP (TO to)
+            (VP (VB go)
+              (PP (TO to)
+                (NP
+                  (NP (DT another) (NN restaurant))
+                  (PP (IN in)
+                    (NP (DT the) (NN area)))))
+              (SBAR (IN that)
+                (S
+                  (NP (PRP we))
+                  (VP (VBD discovered)
+                    (SBAR
+                      (S
+                        (VP (VBD was)
+                          (VP (VBN closed)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB So))
+    (, ,)
+    (NP (PRP we))
+    (VP
+      (VP (VBD thought)
+        (SBAR
+          (S
+            (NP (PRP we))
+            (VP (MD would)
+              (VP (VB try)
+                (NP (DT this) (JJ new) (NN place)))))))
+      (CC and)
+      (VP (VBD were)
+        (ADJP (RB pleasantly) (JJ surprised))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD had)
+        (NP
+          (NP (DT the) (JJ corned-beef) (NN hash) (NN wrap))
+          (PP (IN from)
+            (NP (DT the) (NN breakfast) (NN menu))))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (ADJP (JJ delish))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD came)
+      (PP (IN with)
+        (NP
+          (NP (DT a) (JJ generous) (NN side))
+          (PP (IN of)
+            (NP (NN fruit))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NNS companions))
+    (VP (VBD had)
+      (NP
+        (NP (DT the) (JJ bleu) (NN cheese) (NN bacon) (NN burger))
+        (CC and)
+        (NP (DT the) (NN roast) (NN beef) (NN baguette))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (JJ only) (NN complaint))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP (VBP do) (RB n't)
+            (VP (VB have)
+              (VP (VBN brewed)
+                (NP (JJ iced) (NN tea))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Otherwise))
+    (, ,)
+    (NP (PRP we))
+    (VP
+      (VP (VBD had)
+        (NP (DT no) (NNS problems)))
+      (CC and)
+      (VP (MD would)
+        (ADVP (RB definitely))
+        (VP (VB return))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (JJ Great) (JJ little) (NN spot))
+    (PP (IN for)
+      (NP (DT a) (JJ fast) (NN weekend) (NN breakfast)
+        (CC or)
+        (NN workday) (NN lunch)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP
+      (ADJP (RB Very) (JJ friendly))
+      (, ,)
+      (ADJP (JJ accommodating))
+      (CC and)
+      (ADJP (JJ eager)
+        (S
+          (VP (TO to)
+            (VP (VB please))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (DT the) (NN place))
+    (VP (VBZ is)
+      (ADJP (JJ spotless)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN menu) (NN situation))
+    (VP (MD can)
+      (VP (VB be)
+        (ADJP (JJ confusing))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP seem)
+      (S
+        (VP (TO to)
+          (VP (VB have)
+            (NP (JJR more) (NNS dishes))
+            (PP (IN on)
+              (NP (NN offer)))
+            (SBAR (IN that)
+              (S
+                (NP (PRP you))
+                (VP (MD would)
+                  (VP
+                    (VP (VB think))
+                    (: --)
+                    (VP (VB be)
+                      (ADJP (JJ sure)
+                        (S
+                          (VP (TO to)
+                            (VP (VB ask)
+                              (PP (IN about)
+                                (NP (NNS specials))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD 'd)
+      (VP (VB recommend)
+        (NP (DT a) (NNS specials) (NN board))
+        (SBAR (IN that)
+          (S
+            (NP (PRP they))
+            (VP (MD can)
+              (VP (VB change)
+                (ADVP (RB daily))
+                (PP (IN in)
+                  (NP (NN addition)))
+                (PP (TO to)
+                  (NP
+                    (NP (DT the) (JJ chalkboard) (NN menu))
+                    (PP (IN behind)
+                      (NP (DT the) (NN counter)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (CD One) (JJ little) (NN ambience) (NN minus))
+      (: :)
+      (NP
+        (NP (NNP Radio))
+        (ADJP (VBN tuned)
+          (PP (TO to)
+            (NP (DT a) (NN Top-40) (NN station))))))
+    (VP (VBZ is)
+      (ADJP
+        (NP (DT a) (RB little))
+        (JJ intrusive))
+      (ADVP (RB especially))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (EX there))
+          (VP (VBP are)
+            (NP (NNS commercials))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Proprietors))
+    (VP (MD should)
+      (VP (VB consider)
+        (S
+          (VP
+            (VP (VBG hooking)
+              (ADVP (RB up)
+                (NP (DT an) (NN iPod)))
+              (ADVP (RB instead)))
+            (CC and)
+            (VP (VBG lowering)
+              (NP (DT the) (NN volume)))))
+        (NP (DT a) (JJ little))))
+    (. .)))
+
+

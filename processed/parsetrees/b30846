@@ -1,0 +1,130 @@
+(ROOT
+  (NP (NNP Woo) (NNP Hoo) (. !)))
+
+(ROOT
+  (S
+    (NP (NNP Little) (NNP Caesars))
+    (VP (VBZ opens)
+      (PP (IN in)
+        (NP (NNP Fountain) (NNPS Hills))))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Yummy))
+    (NP (NN pizza))
+    (. .)))
+
+
+(ROOT
+  (FRAG (RB Not)
+    (ADJP (JJ bad))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB Not) (DT the) (JJS best))
+      (PP (CC but)
+        (NP (DT the) (NN price))))
+    (VP (VBZ is)
+      (ADJP (JJ low)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT The) (NNP ONLY))
+    (VP (VBP place)
+      (S
+        (NP (PRP I))
+        (VP (VB buy)
+          (NP (NN pizza))
+          (PP (IN in)
+            (NP (NNP Fountain) (NNPS Hills))))))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VBG HOT-n-READY)
+      (NP
+        (NP ($ $) (CD 5.00) (NN pizza))
+        (CC or)
+        (NP (JJ hot) (NNS wings))))
+    (: ...)))
+
+
+(ROOT
+  (NP
+    (NP (NNP Little) (NNP Caesars))
+    (: :) (`` ``)
+    (S
+      (NP (NNP WAIT))
+      (, ,)
+      (NP (PRP IT))
+      (VP (VBZ 'S)
+        (NP (NNP NOT) (NNP READY))))
+    (. !)))
+
+(ROOT
+  (S ('' '')
+    (NP (PRP I))
+    (VP (VBP do)
+      (ADVP (RB n't))
+      (SBAR
+        (WHADVP (WRB why))
+        (S
+          (NP (DT this) (JJ particular) (NN location) (NN NEVER))
+          (VP (VBZ has)
+            (VP (VBZ pizzas)
+              (ADJP (JJ ready)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBZ 's)
+      (NP
+        (NP (DT the) (JJ whole) (NN point))
+        (PP (IN of)
+          (S
+            (VP (VBG going)
+              (PP (TO to)
+                (NP
+                  (NP (NNP Little) (NNP Caesars))
+                  (, ,)
+                  (NP (NN right)))))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP
+      (VP (VB go)
+        (PRT (RP in)))
+      (, ,)
+      (VP (VB give)
+        (NP (PRP them))
+        (NP ($ $) (CD 5)))
+      (CC and)
+      (VP (VB walk)
+        (ADVP (JJ right) (NN back) (IN out))
+        (PP (IN with)
+          (NP (DT a) (NN pizza)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADVP (RB really))
+      (ADJP (RB not) (JJ worth))
+      (S
+        (VP (VBG waiting)
+          (PP (IN for))
+          (, ,)
+          (PP (IN in)
+            (NP (PRP$ my) (NN opinion))))))
+    (. .)))
+
+

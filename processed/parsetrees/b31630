@@ -1,0 +1,86 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (UCP
+          (ADJP (RB Very) (JJ rustic))
+          (CC and)
+          (ADVP (IN down) (NN home)))
+        (NN kind))
+      (PP (IN of)
+        (NP
+          (NP (NN pho))
+          (, ,)
+          (ADVP (RB still)))))
+    (ADJP (RB really) (JJ good))))
+
+
+(ROOT
+  (S
+    (NP (NN Server))
+    (VP (VBD was) (RB not)
+      (ADJP (JJ attentive)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Waited)
+      (NP (CD 15) (NNS mins))
+      (PP (IN after)
+        (S
+          (VP (VBG eating)
+            (NP (JJ n) (DT no) (NN check))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT No) (NN water))
+    (VP (VBZ refills)
+      (SBAR (RB even)
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP I))
+          (VP (VBD placed)
+            (NP (PRP$ my) (NN glass))
+            (PP (IN at)
+              (NP
+                (NP (NN edge))
+                (PP (IN of)
+                  (NP (NN table)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Food))
+      (VP (VBD was)
+        (ADJP (JJ decent))))
+    (CC but)
+    (S
+      (NP (NN service))
+      (VP (VBD was)
+        (ADJP (JJ terrible))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (CD 20))
+      (VP (VBZ mins)
+        (ADVP (RB now))))
+    (: ...)
+    (S
+      (ADVP (RB still))
+      (VP (VBG waiting)
+        (PP (IN for)
+          (NP (PRP$ my) (NN check)))))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Where))
+    (SQ (VBZ 's)
+      (NP (PRP$ my) (NN check)))
+    (. .)))
+
+

@@ -1,0 +1,71 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Massive) (NN place))
+      (PP (IN for)
+        (NP
+          (NP (NN food/drink/dance))
+          (PP (IN in)
+            (NP (NNP Omni))))))
+    (VP (VBP centre)
+      (PP (IN near)
+        (NP (NNP Princess) (NNP Street))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Has) (NNS loads))
+      (PP (IN of)
+        (NP
+          (NP (NN tv) (NNS screens))
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (ADVP (RB too))
+              (VP
+                (VP (VB be)
+                  (ADJP (JJ honest)
+                    (SBAR
+                      (S
+                        (NP (FW i))
+                        (VP (VBP think)
+                          (ADVP (DT no) (NN matter)
+                            (SBAR
+                              (WHADVP (WRB where))
+                              (S
+                                (NP (PRP you))
+                                (VP (VBP stand))))))))))
+                (CC or)
+                (VP (VB sit)
+                  (NP (PRP you)))))))))
+    (VP (MD will)
+      (ADVP (RB still))
+      (VP (VB get)
+        (NP
+          (NP (DT a) (JJ perfect) (NN view))
+          (PP (IN of)
+            (NP (DT a) (NN tv))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Serves) (JJ cheap) (NN food))
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ is)
+            (ADJP (JJ good)
+              (SBAR
+                (S
+                  (NP (NN quality)
+                    (CC and)
+                    (NNS drinks))
+                  (VP (VBP are)
+                    (ADJP (RB very) (RB reasonably))))))))))
+    (VP (VBN priced)
+      (ADVP (RB as) (RB well)))
+    (. .)))
+
+

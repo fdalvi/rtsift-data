@@ -1,0 +1,78 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN Brand) (JJ new) (NN location))
+      (, ,)
+      (ADJP (RB really) (JJ nice))
+      (, ,)
+      (NP (JJ great) (NN service))
+      (, ,)
+      (NP (JJ great) (NN food))
+      (, ,)
+      (NP (NN chicken) (NNS nuggets)))
+    (VP (VBP are)
+      (NP (PRP$ my) (NN fav)))
+    (. !)))
+
+
+(ROOT
+  (NP
+    (NP (NN Love))
+    (NP
+      (NP (DT this) (NN place)
+        (CC and)
+        (NN everything))
+      (PP (IN about)
+        (NP (PRP it))))
+    (. .)))
+
+(ROOT
+  (S (`` `)
+    (NP (NN nuff))
+    (VP (VBD said))
+    (. .)))
+
+
+(ROOT
+  (S
+    (PP (IN Love)
+      (NP (DT this) (NNP Chick) (NNP Fil) (NNP A.)))
+    (NP (PRP I))
+    (VP (VBP love)
+      (NP (PRP$ their) (JJ spicy) (NN chicken)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJS best) (NN part))
+      (PP (IN of)
+        (NP (DT this) (NN location))))
+    (VP (VBZ is)
+      (NP (PRP$ their) (JJS Best) (NN Service)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would)
+      (ADVP (RB never))
+      (VP (VB go)
+        (S
+          (VP (TO to)
+            (VP (VB drive)
+              (PRT (RP through))
+              (SBAR (IN since)
+                (S
+                  (NP (PRP I))
+                  (VP (VBP know)
+                    (SBAR
+                      (S
+                        (NP (PRP I))
+                        (VP (VBP am)
+                          (VP (VBG getting)
+                            (NP (DT a) (JJ GREAT) (NN service))
+                            (ADVP (RB inside))))))))))))))
+    (. .)))
+
+

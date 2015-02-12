@@ -1,0 +1,188 @@
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (JJ awesome))
+        (, ,)
+        (ADJP (RB even) (JJR better)))
+      (SBAR (IN than)
+        (S
+          (NP
+            (NP (NNP Elvira) (POS 's))
+            (CC and)
+            (NP (DT the) (NN service)))
+          (VP (VBZ is)
+            (ADVP (RB just))
+            (ADJP (RB as) (JJ good))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VBN Made)
+      (PP
+        (ADVP
+          (NP (DT a) (NN stop))
+          (RB here))
+        (IN before)
+        (S
+          (VP (VBG heading)
+            (PRT (RP back))
+            (PP (IN aboard)
+              (NP (DT the) (NNPS Stennis)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Service))
+    (VP (VBD was)
+      (ADJP (JJ horrible)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBD was) (RB n't)
+      (ADVP (RB even)
+        (NP
+          (NP (NN staff))
+          (ADVP (RB here)))
+        (PP (TO to)
+          (NP (NN seat))))
+      (NP (PRP me)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD had)
+      (S
+        (VP (TO to)
+          (VP
+            (VP (VB come)
+              (ADVP (RB inside))
+              (PP (IN by)
+                (NP (PRP myself))))
+            (CC and)
+            (ADVP (RB even))
+            (VP (VB cook)
+              (PP (IN in)
+                (NP (DT the) (NN kitchen)))
+              (PP (IN by)
+                (NP (PRP myself))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (PP (IN By)
+      (NP
+        (NP (RB far) (DT the) (JJS worst) (NN service))
+        (PP (IN of)
+          (NP (DT any) (NN restaraunt)))))
+    (NP (PRP I))
+    (VP (VBP 've)
+      (ADVP (RB ever))
+      (VP (VBN been)
+        (PP (TO to))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (S
+      (S
+        (NP (NNP First) (NN time))
+        (VP (VBG dining)
+          (ADVP (RB here))))
+      (CC and)
+      (S
+        (NP (PRP it))
+        (VP (VBD was)
+          (NP (JJ awesome) (NNS !!)))))))
+
+(ROOT
+  (SBAR (IN If)
+    (S
+      (NP (PRP you))
+      (VP (VBP are)
+        (VP (VBG looking)
+          (PP (IN for)
+            (NP (JJ fresh) (JJ Mexican) (NN food)))
+          (PP (IN at)
+            (NP
+              (NP (DT a) (JJ good) (NN price))
+              (SBAR
+                (S
+                  (NP (DT this))
+                  (VP (VBZ is)
+                    (NP (PRP$ your) (NN place) (NN !!))))))))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS servers))
+    (VP (VBD were)
+      (ADJP
+        (ADJP (JJ helpful))
+        (, ,)
+        (ADJP (JJ friendly))
+        (, ,)
+        (CC and)
+        (ADJP (NN professional) (JJ !!))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN restaurant))
+      (CC and)
+      (NP (NNS bathrooms)))
+    (VP (VBD were)
+      (NP
+        (ADJP (RB very) (JJ clean))
+        (NNS !!!)))))
+
+(ROOT
+  (NP
+    (NP (JJ Great) (NN spot))
+    (PP (IN in)
+      (NP (NNP AJ) (NNP !!!)))))
+
+
+(ROOT
+  (NP
+    (NP
+      (NP (JJ Good) (NN food))
+      (CC and)
+      (NP (JJ super) (JJ reasonable) (NNS prices)))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP
+        (VP (VBD were)
+          (NP
+            (NP (DT a) (NN pay))
+            (PP (IN of)
+              (NP (CD five)))))
+        (CC and)
+        (VP (VBD had)
+          (NP
+            (NP (CD 2) (NNS pitchers))
+            (PP (IN of)
+              (NP (NNS margaritas)))))))
+    (, ,)
+    (S
+      (NP (DT a) (NNS kids))
+      (VP (VBP drink)
+        (PP (IN with)
+          (NP (NNS meals)))))
+    (CC and)
+    (S
+      (NP (DT the) (NN total))
+      (VP (VBD was)
+        (NP ($ $) (CD 48))))
+    (. !)))
+
+

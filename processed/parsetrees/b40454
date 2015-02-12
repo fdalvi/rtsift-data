@@ -1,0 +1,750 @@
+(ROOT
+  (S
+    (NP (NNP New))
+    (VP (VBZ cigar)
+      (NP
+        (NP (NN shop))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (ADVP (RB just))
+            (VP (VBD opened))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Nice)
+      (NP
+        (NP (NN lounge))
+        (, ,)
+        (NP (JJ friendly) (NNS people))
+        (, ,)
+        (CC and)
+        (NP (JJ great) (NNS cigars))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP (JJ open))
+      (ADVP (RB late))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ is)
+            (ADJP (RB really) (JJ convenient))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP love)
+      (NP (DT this) (NN place)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (NP
+        (NP
+          (ADJP (VBP close)
+            (PP (TO to)
+              (NP
+                (NP (PRP$ my) (NN home))
+                (PP (IN with)
+                  (NP (JJ good) (NNS prices))))))
+          (JJ good) (NN selection))
+        (CC and)
+        (NP (DT a)
+          (ADJP (RB very) (JJ nice))
+          (NN staff))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBG making)
+          (S
+            (NP (DT this))
+            (VP (VB place)
+              (NP (PRP$ my) (JJ second) (NN home)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBZ is)
+      (ADJP (RB really) (JJ great)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Owner))
+    (VP (VBZ is)
+      (ADJP (RB super) (JJ friendly)
+        (CC and)
+        (JJ nice)))
+    (. .)))
+
+(ROOT
+  (S
+    (FRAG
+      (ADJP (RB Real) (JJ comfortable)))
+    (: -)
+    (S
+      (NP (PRP you))
+      (VP (MD can)
+        (VP
+          (VP (VB hang)
+            (PRT (RP out)))
+          (CC and)
+          (VP (VB smoke)
+            (NP (DT a) (NN cigar))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Very)
+      (NP
+        (ADJP (JJ relaxed)
+          (CC and)
+          (JJ good))
+        (NNS prices)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Great))
+      (VP (VB chill)
+        (NP (NN spot) (, ,) (JJ friendly)
+          (CC and)
+          (JJ GREAT) (NNS PRICES))))
+    (, ,)
+    (CC And)
+    (S
+      (NP (JJ friendly) (NN service) (NN selection))
+      (VP (VBZ is)
+        (NP (JJ top) (NNS notch))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP visit)
+      (NP (DT the) (NN place)
+        (QP (JJ several) (NNS times)))
+      (NP (DT a) (NN week)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP like)
+        (S
+          (VP (TO to)
+            (VP (VB browse)
+              (NP (DT the) (NNP Yelp) (NN app))
+              (PP (IN for)
+                (NP
+                  (NP (NNS stores))
+                  (SBAR
+                    (S
+                      (NP (PRP I))
+                      (VP (VBD did) (RB n't)
+                        (VP (VB know)
+                          (PRT (RP about)))))))))))))
+    (CC and)
+    (S
+      (S
+        (NP (PRP we))
+        (VP (VBD were)
+          (ADJP (JJ close)
+            (PP (IN by)
+              (NP (DT this) (NN cigar) (NN spot))))))
+      (IN so)
+      (S
+        (NP (PRP we))
+        (VP (VBD popped)
+          (SBAR (IN in)
+            (S
+              (NP (PRP We))
+              (VP (VBD went)
+                (PP (IN into)
+                  (NP (DT the) (NN humidor))))))))
+      (CC and)
+      (S
+        (ADVP (RB immediately))
+        (NP (PRP I))
+        (VP (VBD noticed)
+          (SBAR
+            (S
+              (NP (DT the) (NN smell))
+              (VP (VBD was)
+                (ADVP (RB swampy)))))))
+      (CC and)
+      (S
+        (NP (DT the) (NN humidity))
+        (VP (VBD was)
+          (ADJP (JJ thick)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Sometimes))
+      (PP (IN with)
+        (NP (JJ certain) (NNS configurations)))
+      (NP (PRP it))
+      (VP (MD can)
+        (VP (VB feel)
+          (ADJP (JJ thick))
+          (SBAR (IN if)
+            (S
+              (NP (PRP it))
+              (VP (VBZ humidifies)
+                (PP (IN in)
+                  (NP (NN burst)))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (MD should) (RB not)
+        (VP (VB smell)
+          (PP (IN like)
+            (NP (JJ stagnant) (NN water))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN humidity))
+      (VP (VBZ is)
+        (PP (IN on)
+          (NP (DT the) (JJR higher) (NN side)))
+        (, ,)
+        (ADVP (RB probably))
+        (SBAR
+          (S
+            (NP (CD 70))
+            (VP (VBZ 's)
+              (VP (VBG judging)
+                (PP (IN by)
+                  (NP (DT the) (NN feel)))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBD looked)
+        (PP (IN on)
+          (NP
+            (NP (DT a) (NN hydrometer))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBD said)
+                  (NP (CD 73)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP look)
+        (SBAR
+          (S
+            (NP
+              (NP (NNS anyways))
+              (CC and)
+              (NP (DT the) (NN selection)))
+            (VP (VBD did) (RB n't)
+              (VP (VB have)
+                (NP (DT any) (JJ crazy) (NNS rarities))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBD looked)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (NP (DT a) (JJ decent) (JJ enough) (NN selection)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBD was)
+        (NP
+          (NP (DT a) (NN guy))
+          (VP (VBG sitting)
+            (PP (IN by)
+              (NP (DT the) (NN humidor) (NN door)))))))
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP (VBD said)
+        (INTJ (UH hi))))
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (S
+          (NP (PRP we))
+          (VP (VBD walked)
+            (PRT (RP in))))
+        (, ,)
+        (CC but)
+        (S
+          (NP (PRP he))
+          (ADVP (RB never))
+          (VP (VBD came)
+            (PP (IN into)
+              (NP (DT the) (NN humidor)))
+            (S
+              (VP (TO to)
+                (VP (VB help)
+                  (NP (PRP us))
+                  (ADVP (IN at) (DT all)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBD was)
+      (ADVP (RB no)
+        (NP (CD one)))
+      (PP (IN at)
+        (NP (DT the) (NN shop)))
+      (SBAR (IN so)
+        (S
+          (NP (PRP I))
+          (VP (VBP find)
+            (S
+              (NP (PRP it))
+              (ADJP (JJ weird))
+              (SBAR
+                (WHADVP (WRB whenever))
+                (S
+                  (NP (DT no) (NN one))
+                  (VP (VBZ engages)
+                    (NP (DT any) (NN conversation))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP First))
+    (VP (NN time)
+      (ADVP (RB there))
+      (SBAR (IN so)
+        (S
+          (NP (PRP you))
+          (VP (MD would)
+            (VP (VB think)
+              (SBAR
+                (S
+                  (NP (PRP they))
+                  (VP (MD would)
+                    (VP (VB want)
+                      (S
+                        (VP (TO to)
+                          (VP
+                            (VP (VB approach)
+                              (NP (DT a) (NN customer)))
+                            (CC and)
+                            (VP (VB find)
+                              (PRT (RP out))
+                              (SBAR (IN if)
+                                (S
+                                  (NP (PRP they))
+                                  (VP (VBP 're)
+                                    (NP
+                                      (NP (NNS newbies))
+                                      (SBAR
+                                        (WHNP (WP who))
+                                        (S
+                                          (VP (VBP need)
+                                            (NP
+                                              (NP (DT some) (NN guidance))
+                                              (, ,)
+                                              (CC or)
+                                              (NP
+                                                (NP (JJ serious) (NNP S/B) (NNPS OTLs))
+                                                (PRN (-LRB- -LRB-)
+                                                  (NP
+                                                    (NP (NNS sisters/brothers))
+                                                    (PP (IN of)
+                                                      (NP (DT the) (NN leaf))))
+                                                  (-RRB- -RRB-))))))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBD Did) (RB n't)
+        (VP (VB say)
+          (NP (NN anything))
+          (PP (TO to)
+            (NP (PRP us)))
+          (SBAR (IN as)
+            (S
+              (NP (PRP we))
+              (VP (VBD were)
+                (VP (VBG leaving))))))))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBD ended)
+      (PRT (RP up))
+      (S
+        (VP (VBG being)
+          (NP
+            (NP (DT the) (NN one))
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBD said)
+                  (NP (NN bye)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's)
+        (VP (JJ open)
+          (ADVP (RB late))
+          (, ,)
+          (PP (IN until)
+            (NP
+              (NP (NN midnight))
+              (SBAR (IN so)
+                (S
+                  (NP (PRP I))
+                  (VP (VBP suppose)
+                    (SBAR (IN if)
+                      (S
+                        (NP (PRP you))
+                        (VP (VBP 're)
+                          (VP (VBG itching)
+                            (PP (IN for)
+                              (NP (DT a) (NN stogie)))
+                            (NP (JJ late) (NN night))))))))))))))
+    (NP (DT this) (NN place))
+    (VP (VBZ is)
+      (ADJP (JJ available)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (PRP me)))
+    (ADVP (RB though))
+    (, ,)
+    (NP (JJ swamp) (NN smell))
+    (VP (VBZ is)
+      (ADJP (RB too) (JJ offputting)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBP keep)
+      (SBAR
+        (S
+          (NP (PRP$ our) (NN wineadors)
+            (CC and)
+            (NN table) (NN top))
+          (VP (VBZ humidors)
+            (ADJP (JJ pristine))
+            (SBAR (IN so)
+              (S
+                (NP (PRP I))
+                (VP (MD would)
+                  (VP (VB feel)
+                    (S
+                      (NP (PRP it))
+                      (ADJP (JJ fair)
+                        (S
+                          (VP (TO to)
+                            (VP (VB hold)
+                              (NP (DT a) (NN business))
+                              (PP (TO to)
+                                (NP
+                                  (NP (DT that) (NN standard))
+                                  (PP (IN of)
+                                    (S
+                                      (VP (VBG being)
+                                        (VP (VBN kept))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBP are)
+      (NP
+        (NP (JJ other) (JJR more))
+        (VP (VBG engaging)
+          (NP
+            (NP (NNP B&M) (NN staff))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBP make)
+                  (SBAR
+                    (S
+                      (NP (PRP me))
+                      (VP (VBP want)
+                        (S
+                          (VP (TO to)
+                            (VP
+                              (VP (VB sit)
+                                (ADVP (RB there)))
+                              (CC and)
+                              (VP (VB hang)))))))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VB Lover)
+      (NP (JJ colonial) (NN cigar) (NN lounge)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBG Having)
+      (NP (DT an) (NNP Undercrown))
+      (PP (IN with)
+        (NP
+          (NP (PRP$ my) (NNS friends))
+          (NP (JJ beautiful) (NN night))
+          (PP (IN in)
+            (NP (NNS vegas))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Father) (POS 's))
+      (NN Day))
+    (VP (VBP deal)
+      (PP (IN at)
+        (NP (JJ colonial) (NN cigar) (NN lounge))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VP (VB Buy)
+        (NP (CD five) (NNS cigars)))
+      (CC and)
+      (VP (VB get)
+        (NP (CD one))
+        (UCP
+          (ADJP (JJ free)
+            (PP (IN at)
+              (ADJP (JJ equal))))
+          (CC or)
+          (NP (JJR lesser) (NN value)))))
+    (. .)))
+
+(ROOT
+  (FRAG (CC Or)
+    (VP
+      (VP (VB buy)
+        (NP
+          (QP (CD dad) (CD 25))
+          (NNS cigars)))
+      (CC and)
+      (VP (VB get)
+        (NP (DT a) (JJ free) (NN locker) (NN rental))
+        (PP (IN for)
+          (NP (CD three) (NNS months)))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Give)
+      (NP (NN dad))
+      (NP
+        (NP (DT the) (NN gift))
+        (PP (IN of)
+          (NP
+            (NP (NN relaxation))
+            (PP (IN at)
+              (NP (PRP$ our) (NN lounge)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Happy) (NNP Father))
+    (VP (VBZ 's)
+      (NP (NNP Day))
+      (NP (DT all)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VB Nice)
+      (NP (NN shop))
+      (PP (IN with)
+        (NP
+          (NP (DT a)
+            (ADJP (RB very) (JJ good))
+            (NN selection))
+          (CC and)
+          (NP (JJ good) (NNS prices)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP
+      (NP (CD Friendly) (NN staff))
+      (CC and)
+      (ADJP (RB somewhat) (JJ close)))
+    (S
+      (VP (TO to)
+        (VP (VB strip)
+          (PP (IN without)
+            (NP (NN strip) (NNS prices))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Will))
+    (ADVP (RB definitely))
+    (VP (VBP return))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Great))
+    (VP (VBP place)
+      (S
+        (VP (TO to)
+          (VP (VB hang)
+            (PRT (RP out))))))
+    (. .)))
+
+(ROOT
+  (INTJ (JJ Good) (NN selection) (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (DT the) (NN management))
+    (VP (VBZ takes)
+      (NP (DT the) (NN time)
+        (S
+          (VP (TO to)
+            (VP (VB hang)
+              (PRT (RP out)))))))
+    (. !)))
+
+(ROOT
+  (NP
+    (NP (NNP Worth))
+    (NP (DT the) (NN trip))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Great) (NN selection))
+      (PP (IN of)
+        (NP
+          (NP (NNS cigars))
+          (CC and)
+          (NP
+            (NP
+              (ADJP (JJ beautiful) (, ,) (JJ comfortable))
+              (NN lounge))
+            (PP (IN with)
+              (NP (JJ several) (NN flat)))))))
+    (VP (VBZ screens)
+      (S
+        (VP (TO to)
+          (VP (VB enjoy)
+            (NP
+              (NP (NNS sports))
+              (CC and)
+              (NP (JJ other) (NNS events)))
+            (PP (IN while)
+              (S
+                (VP
+                  (VP (VBG relaxing))
+                  (CC and)
+                  (VP (VBG puffing)
+                    (PRT (RP away))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBZ 's)
+        (NP
+          (NP (DT a) (NN florist))
+          (CC and)
+          (NP (DT a) (JJ few) (JJ other) (NNS shops)))))
+    (NP (PRP I))
+    (VP (VBP enjoy)
+      (S
+        (VP (VBG visiting)
+          (SBAR (IN while)
+            (S
+              (NP (PRP$ my) (NN boyfriend))
+              (VP
+                (VP (VBZ smokes))
+                (CC and)
+                (VP (VBZ hangs)
+                  (PRT (RP out))
+                  (PP (IN with)
+                    (NP (PRP$ his) (NN cigar) (NNS buddies))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (RB Even) (IN though)
+      (S
+        (NP (PRP I))
+        (VP (VBP do) (RB n't)
+          (VP (VB smoke)))))
+    (NP (PRP I))
+    (VP (VBP love)
+      (S
+        (VP (VBG hanging)
+          (PRT (RP out))
+          (PP (IN in)
+            (NP (DT the) (NNP Lounge)))))
+      (ADVP
+        (ADVP (RB as) (RB long))
+        (SBAR (IN as)
+          (S
+            (NP (PRP$ my) (NN boyfriend))
+            (VP (VBZ allows) (, ,)
+              (ADVP (RB just))
+              (S
+                (VP (TO to)
+                  (VP (VB take)
+                    (PP (IN in)
+                      (NP
+                        (NP (DT the) (JJ rich) (, ,) (JJ full) (NNS scents))
+                        (PP (IN of)
+                          (NP (JJ fine) (NNS cigars)))))))))))))
+    (. .)))
+
+

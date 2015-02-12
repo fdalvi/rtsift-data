@@ -1,0 +1,285 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Great) (NN selection))
+      (PP (IN of)
+        (NP
+          (NP (NNS shoes))
+          (PP (IN from)
+            (NP (NNP Jordan))))))
+    (VP (VBZ 's)
+      (PP (TO to)
+        (NP
+          (NP (NNP LBJ) (POS 's))
+          (ADJP (JJR better)
+            (PP (IN than)
+              (NP (NNP FootLocker))))
+          (NN n) (NN FinishLine))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (FRAG (RB Not)
+      (ADVP (RB only))
+      (ADJP (JJ great)))
+    (: selection)
+    (FRAG (CC but)
+      (ADVP (RB also))
+      (NP (JJ great) (NN customer) (NN service)))))
+
+
+(ROOT
+  (S
+    (VP (VBG Stay)
+      (PRT (RP away)))
+    (: ...)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBZ charges)
+      (ADJP
+        (ADVP (RBR more) (IN than))
+        (NN retail)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Nike) (NNP Free) (NNP 5.0) (NNP +))
+      (PP (IN for)
+        (NP
+          (NP ($ $) (CD 99))
+          (PP (CC but)
+            (NP (NNP Nike.com))))))
+    (VP (VBZ has)
+      (NP
+        (NP (DT the) (JJ exact) (NN shoe))
+        (PP (IN for)
+          (NP ($ $) (CD 79)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD will)
+      (VP
+        (VP (VB wait))
+        (CC and)
+        (VP (VB have)
+          (S
+            (NP (PRP them))
+            (VP (VBN shipped))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJS worst) (NN shoe) (NN store))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP have)
+              (ADVP (RB ever))
+              (VP (VBN been)
+                (PP (TO to))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP$ Their) (NN return) (NN policy))
+      (VP (VBZ is)
+        (ADJP (JJ shady))))
+    (CC and)
+    (S
+      (ADVP (RB even))
+      (NP (PRP$ their) (JJ corporate) (NN customer) (NN service))
+      (VP
+        (VP (VBZ is)
+          (ADJP (JJ terrible)))
+        (CC and)
+        (VP (VBD did) (RB n't)
+          (VP (VB help)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD bought)
+        (NP
+          (NP (CD 3) (NNS pairs))
+          (PP (IN of)
+            (NP (JJ converse) (NNS shoes))))))
+    (CC and)
+    (S
+      (SBAR (IN since)
+        (S
+          (NP (PRP I))
+          (VP (VBD was)
+            (VP (VBG traveling)))))
+      (NP (PRP I))
+      (VP (VBD did) (RB n't)
+        (VP (VB need)
+          (NP (DT the) (NNS boxes)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN manager) (NNP Timothy))
+    (ADVP (RB never))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP we))
+          (VP (MD can) (RB not)
+            (VP (VB return)
+              (CC or)
+              (VB exchange)
+              (NP (DT the) (NNS shoes))
+              (PP (IN without)
+                (NP (DT the) (NNS boxes))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBD was)
+      (PP (IN on)
+        (NP (DT a) (NNP Monday) (NN night))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD tried)
+        (NP (DT the) (NNS shoes))
+        (PP (IN at)
+          (NP (DT the) (NN hotel)))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBD were)
+        (ADJP
+          (NP (DT a) (RB little))
+          (JJ tight))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Tuesday))
+    (S
+      (PP (IN at)
+        (NP (NN noon)))
+      (NP (PRP I))
+      (VP (VBD came)
+        (PRT (RP back))
+        (S
+          (VP (TO to)
+            (VP (VB exchange)
+              (NP (PRP them))
+              (PP (IN for)
+                (NP (DT a) (JJR larger) (NN size))))))))
+    (CC and)
+    (S
+      (NP (DT the) (JJ assistant) (NN manager))
+      (VP (VBD was)
+        (ADJP (JJ unable)
+          (S
+            (VP (TO to)
+              (VP (VB let)
+                (S
+                  (NP (PRP us))
+                  (VP (VB exchange)
+                    (NP (DT the) (NNS shoes))
+                    (PP (IN for)
+                      (NP (DT a) (JJR larger) (NN pair)))))
+                (PRN (-LRB- -LRB-)
+                  (S
+                    (NP (PRP you))
+                    (VP (VBD guessed)
+                      (NP (PRP it))
+                      (, ,)
+                      (SBAR (IN because)
+                        (S
+                          (NP (PRP we))
+                          (VP (VBD did) (RB n't)
+                            (VP (VB have)
+                              (NP
+                                (NP (DT the) (NNS boxes))
+                                (, ,)
+                                (SBAR
+                                  (WHNP (WDT which))
+                                  (S
+                                    (NP (DT the) (NN manager))
+                                    (ADVP (RB never))
+                                    (VP (VBD said)
+                                      (SBAR
+                                        (S
+                                          (VP (MD would)
+                                            (VP (VB be)
+                                              (NP
+                                                (NP (DT an) (NN issue))
+                                                (PP (IN in)
+                                                  (NP (DT the) (JJ first) (NN place))))))))))))))))))
+                  (-RRB- -RRB-))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP
+      (NP (NNS Anyways))
+      (RB now))
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (VP (VBN left)
+        (PP (IN with)
+          (NP
+            (NP (CD 3) (NNS pairs))
+            (PP (IN of)
+              (NP (NNS shoes)))))
+        (SBAR (IN that)
+          (S
+            (NP (PRP I))
+            (VP (MD can) (RB not)
+              (VP (VB use)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (ADVP (RB Never))
+      (VBG coming)
+      (ADVP (RB back) (RB here))
+      (ADVP (RB again)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Ps))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Update))
+    (: :)
+    (NP
+      (NP (DT the) (JJ assistant) (NN manager))
+      (SBAR
+        (S
+          (NP (NNP Ricardo))
+          (VP
+            (VP (VBD was)
+              (ADJP (RB very) (JJ considerate)))
+            (CC and)
+            (VP (VBD helped)
+              (VP (VB resolve)
+                (NP (DT the) (NN issue))))))))
+    (. .)))
+
+

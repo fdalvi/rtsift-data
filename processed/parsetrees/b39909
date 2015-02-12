@@ -1,0 +1,101 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (ADVP (RB never))
+      (VP (VBD visited)
+        (SBAR
+          (S
+            (NP (NNP Kushi))
+            (VP (VBZ 's)
+              (SBAR (IN before)
+                (S
+                  (NP (PRP it))
+                  (VP (VBD moved)
+                    (PP (IN from)
+                      (NP (NNP Victoria) (NNP Street)))))))))))
+    (, ,) (IN so)
+    (S
+      (NP (PRP I))
+      (VP (VBP do) (RB n't)
+        (VP (VB have)
+          (NP
+            (NP (DT the) (NN basis))
+            (PP (IN of)
+              (NP (NN comparison))))
+          (SBAR (IN that)
+            (S
+              (NP (NNS others))
+              (VP (VBP have)
+                (VP (VBN quoted))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 've)
+        (ADVP (RB certainly))
+        (VP (VBN found)
+          (NP (DT the) (NN service)
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (ADJP (RB very) (JJ friendly)
+                    (CC and)
+                    (JJ efficient)))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (EX there))
+      (VP (VBZ 's)
+        (NP
+          (NP (RB plenty))
+          (PP (IN of)
+            (NP (NN choice))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 've)
+      (ADVP (RB mainly))
+      (VP (VBN had)
+        (NP (NNS lunches))
+        (PP
+          (ADVP (RB there))
+          (IN on)
+          (NP (NNS occasions)))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP
+              (NP (NNP Home) (NNP Bistro))
+              (PP (IN across)
+                (NP (DT the) (NN road))))
+            (VP (VBZ has)
+              (VP (VBN been)
+                (ADJP (JJ closed))
+                (, ,)
+                (PP (CC plus)
+                  (NP (DT the) (JJ occasional) (JJ pre-theatre) (NN evening) (NN meal)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (DT All)
+          (ADJP (RB fairly) (JJ conventional))
+          (JJ Indian) (NN cuisine))
+        (PRN (, ,)
+          (CC but)
+          (ADJP (RB perfectly) (JJ acceptable))
+          (, ,)))
+      (CC and)
+      (NP (DT the) (NN pricing)))
+    (VP (VBZ is)
+      (ADJP (RB very) (JJ reasonable)))
+    (. .)))
+
+

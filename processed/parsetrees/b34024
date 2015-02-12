@@ -1,0 +1,420 @@
+(ROOT
+  (S
+    (NP (NNP Spicy) (NNP Eggplant))
+    (VP (VBZ lunch)
+      (NP (JJ special))
+      (PP (IN during)
+        (NP
+          (NP (DT a) (NN training))
+          (PP (IN in)
+            (NP (DT the) (JJ same) (NN business) (NN park)))))
+      (, ,)
+      (ADJP (JJ tasty)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB cheap))
+    (, ,)
+    (VP (VB and)
+      (ADJP (JJ quick)))
+    (. .)))
+
+(ROOT
+  (FRAG (RB not)
+    (NP
+      (NP (DT the) (JJS best))
+      (ADJP
+        (ADJP (RB thai) (RB ever))
+        (, ,)
+        (CC but)
+        (ADJP (JJ impressive)
+          (PP (IN for)
+            (NP
+              (NP (DT a) (NN business) (NN park))
+              (PP (IN in)
+                (NP (JJ suburban) (NN part)))))))
+      (PP (IN of)
+        (NP (NNS vegas))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ small) (NN place))
+        (PP (IN with)
+          (NP
+            (NP (DT a) (NN menu))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBZ is)
+                  (NP
+                    (NP (CD one) (NN page))
+                    (PRN (-LRB- -LRB-)
+                      (NP
+                        (NP (NN front))
+                        (CC &)
+                        (NP (NN back)))
+                      (-RRB- -RRB-))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD started)
+      (PP (IN with)
+        (NP
+          (NP (DT the) (NN beef) (NN jerky))
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBD was)
+                (ADJP
+                  (NP (DT a) (RB little))
+                  (JJ tough))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB also))
+    (VP (VBD ordered)
+      (NP
+        (NP (DT the) (NNP Sesame) (NNP Fried) (NNP Chicken))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBD resembled)
+              (NP (DT a) (JJ hot) (NN wing))
+              (PP (IN with)
+                (NP (JJ sesame) (NNS seeds)))
+              (PP (IN on)
+                (NP (PRP it))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP do) (RB n't)
+      (VP (VB like)
+        (NP (JJ hot) (NNS wings))
+        (SBAR (IN so)
+          (S
+            (NP (PRP I))
+            (VP (VBD was) (RB n't)
+              (ADJP (JJ crazy)
+                (PP (IN about)
+                  (NP (DT this) (NN dish)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (VP (VBG expecting)
+        (S
+          (NP (PRP it))
+          (VP (TO to)
+            (VP (VB be)
+              (NP
+                (NP (JJ crispy) (JJ little) (NNS pieces))
+                (PP (IN of)
+                  (NP
+                    (NP (NN chicken))
+                    (PP (IN with)
+                      (NP (DT no) (NN sauce))))))
+              (SBAR (IN so)
+                (S
+                  (NP (PRP I))
+                  (VP (VBD was)
+                    (ADJP (JJ disappointed))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD did)
+      (VP (VB love)
+        (NP (PRP$ my) (JJ main) (NN dish))
+        (ADVP (RB though))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Red) (NNP Beef) (NNP Curry))
+    (VP (VBD had)
+      (NP
+        (NP (NNS tons))
+        (PP (IN of)
+          (NP
+            (NP (NN bamboo) (NNS chutes))
+            (PP (IN in)
+              (NP (PRP it)))))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBD was)
+              (ADVP (RB yummy)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJ first) (NN place))
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (NP (PRP I))
+            (VP (VBP see)
+              (SBAR (IN that)
+                (S
+                  (NP (PRP they))
+                  (VP (VBP prepare)
+                    (NP
+                      (NP (PRP$ their) (NN dish))
+                      (NP (DT this) (NN way)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB come)
+        (ADVP (RB here) (RB just))
+        (PP (IN for)
+          (NP (DT the) (NNP Curry)))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ fried) (NNS bananas))
+    (VP (VBD were)
+      (ADVP (RB also))
+      (ADJP (JJ delicious)
+        (CC and)
+        (JJ worthy))
+      (PP (IN of)
+        (NP (DT a) (JJ second) (NN visit))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP
+        (NP (PDT such) (DT a) (NN hole))
+        (PP (IN in)
+          (NP (DT the) (NN wall)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP we))
+        (VP (VBN seen)
+          (NP (DT the) (NN sign))
+          (PP (IN from)
+            (NP (NNP Lake) (NNP Mead) (NNP Drive))))))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBD pulled)
+      (PRT (RP in))
+      (PP (IN for)
+        (NP (NN lunch))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN restaurant) (NN door))
+      (VP (VBD was)
+        (VP (VBN locked))))
+    (, ,)
+    (NP (DT the) (NN cook))
+    (VP (VBD came)
+      (S
+        (VP (VBG running)
+          (ADVP (IN out)
+            (PP (TO to)
+              (NP (NN unlock))))
+          (NP (DT the) (NN door)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Wish) (PRP we))
+    (ADVP (RB never))
+    (VP (VBD entered))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN waitress))
+      (VP (VBD was)
+        (PP (IN on)
+          (NP (DT the) (NN phone)))))
+    (CC and)
+    (S
+      (NP
+        (NP (PRP$ her) (JJ young) (NN daughter))
+        (PP (IN of)
+          (NP
+            (QP (RB about) (CD 2)))))
+      (VP (VBD was)
+        (VP (VBG giving)
+          (PRT (RP out))
+          (NP (DT the) (NNS menus)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD ordered)
+      (NP (NN beef) (NN curry)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN beef))
+    (VP (VBD was)
+      (ADJP (RB so) (JJ tough)
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (MD could) (RB not)
+              (VP (VB chew)
+                (NP (DT the) (NN beef))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN curry) (NN sauce))
+    (VP (VBD was)
+      (ADJP (RB so) (JJ horrible)
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (MD could) (RB not)
+              (ADVP (RB even))
+              (VP (VB eat)
+                (NP (PRP it))
+                (PP (IN over)
+                  (NP (NN rice)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBD had)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (NP
+              (NP (DT the) (JJS worst) (JJ Thai) (NN food))
+              (PP (IN in)
+                (NP (NN town))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN restaurant))
+      (VP (VBD was)
+        (ADJP (RB very) (JJ dirty))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBD lost)
+        (NP (PRP$ my) (NN appetite))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (DT the) (NN health) (NN department))
+          (VP (VBZ needs)
+            (S
+              (VP (TO to)
+                (VP (VB pay)
+                  (NP (DT a) (NN visit))
+                  (PP (TO to)
+                    (NP (PRP them))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB recommend)
+        (S
+          (VP (TO to)
+            (VP (VB eat)
+              (PP (IN at)
+                (NP (PRP$ your) (JJ own) (NN risk))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD wanted)
+      (S
+        (VP (TO to)
+          (VP
+            (ADVP (RB also))
+            (VB add)
+            (SBAR (IN that)
+              (S
+                (NP (PRP$ my) (NN egg) (NN roll))
+                (VP (VBD was)
+                  (VP (VBN drenched)
+                    (PP (IN in)
+                      (NP (NN greased)))
+                    (SBAR
+                      (WHADVP (WRB when))
+                      (S
+                        (VP (VBN served)
+                          (PP (TO to)
+                            (NP (PRP me))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD did) (RB n't)
+      (ADVP (RB even))
+      (VP (VB eat)
+        (NP (PRP it))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD left)
+      (NP
+        (NP (CD 3/4))
+        (PP (IN of)
+          (NP (PRP$ my) (NN lunch))))
+      (PP (IN on)
+        (NP
+          (NP (DT the) (NN table))
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (PRP I))
+              (VP (VBD left)))))))
+    (. .)))
+
+

@@ -1,0 +1,77 @@
+(ROOT
+  (NP
+    (NP (JJ Great) (NN selection)
+      (CC and)
+      (NN service))
+    (, ,)
+    (NP (PRP$ my) (JJ favorite) (NN saltwater) (NN specialty) (NN store))))
+
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (JJ Great) (NN shop))
+      (, ,)
+      (ADJP (RB very) (JJ clean)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Brian))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (JJ awesome))
+        (CC and)
+        (ADJP (RB very) (JJ nice))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Highly))
+    (VP (VBP recommend)
+      (S
+        (VP (VBG visiting)
+          (PP (IN for)
+            (NP (JJ great) (NN info)
+              (CC and)
+              (JJ high) (NN quality) (NNS corals))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Will))
+    (ADVP (RB definitely))
+    (VP (VBP return) (RB even)
+      (VP (VB tho)
+        (NP (PRP$ its))
+        (PP (IN on)
+          (NP
+            (NP (DT the) (JJ opposite) (NN side))
+            (PP (IN of)
+              (NP (NN town)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Brian))
+    (VP (VBZ is)
+      (ADJP (RB super) (JJ awesome)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (JJ Great) (NN customer) (NN service))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VB Ask)
+      (PP (IN about)
+        (NP
+          (NP (PRP$ their) (NNS rewards) (NN program))
+          (, ,)
+          (NP (NN boom)))))
+    (. !)))
+
+

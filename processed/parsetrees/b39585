@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (JJ Fantastic) (NN hotel))
+        (, ,)
+        (NP (DT the) (NN spa))
+        (CC and)
+        (NP (NN leisure) (NNS facilities)))
+      (VP (VBP are)
+        (NP (JJ first) (NN class))))
+    (, ,)
+    (S
+      (NP
+        (NP (NNP Service))
+        (PP (IN throughout)
+          (NP (DT the) (NN hotel))))
+      (VP (VBD was)
+        (ADJP (JJ swift)
+          (CC and)
+          (JJ polite))))
+    (, ,)
+    (S
+      (NP
+        (NP (NN breakfast))
+        (VP (VBN delivered)
+          (PP (TO to)
+            (NP (DT the) (NN room)))))
+      (VP (VBD was)
+        (ADJP (JJ fantastic))))
+    (CC and)
+    (S
+      (NP (DT the) (JJ brassiere) (NN restaurant))
+      (VP (VBD was)
+        (NP (JJ top) (NNS notch))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (MD will)
+      (ADVP (RB certainly))
+      (VP (VB return)))
+    (. .)))
+
+

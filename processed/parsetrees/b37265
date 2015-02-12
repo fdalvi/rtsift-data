@@ -1,0 +1,147 @@
+(ROOT
+  (NP
+    (NP (NNP Best) (NNP PTs))
+    (PP (IN in)
+      (NP (PRP$ my) (NN opinion)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP (NN beer) (NN pong) (NNS tables)
+        (CC and)
+        (NN pool) (NNS tables)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP (JJ close)
+        (S
+          (VP (TO to)
+            (VP (VB UNLV)
+              (ADVP (RB so) (RB there))
+              (NP
+                (NP (RB usually) (DT a) (JJ big) (NN crowd))
+                (PP
+                  (PP (IN after)
+                    (NP (NNS games)))
+                  (CC or)
+                  (PP (IN on)
+                    (NP (DT the) (NNS weekends))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB usually))
+    (VP
+      (VP (VBP go)
+        (PP (IN with)
+          (NP (DT a) (JJ big) (NN group))))
+      (CC and)
+      (VP (VBP drink)
+        (PP (IN through)
+          (NP (JJ happy) (NN hour)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (JJ favorite) (NN thing))
+    (VP (VBZ is)
+      (ADVP (RB there))
+      (NP (NNS selections)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP have)
+        (NP (DT the) (NN pear) (NN cider))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (NP (DT the) (NNP BOMB))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Usually))
+      (NP
+        (NP (DT the)
+          (NX
+            (NX (NNS bartenders))
+            (CC and)))
+        (ADJP (RB really) (JJ cool))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP get)
+      (ADJP
+        (ADJP
+          (NP (DT a) (RB little))
+          (JJ busy))
+        (SBAR (IN so)
+          (S
+            (NP (PRP you))
+            (VP (VBD got)
+              (NP (NN ta))
+              (VP (VB be)
+                (ADJP (JJ patient))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Visited) (DT the) (NNP PT))
+    (VP (VBZ 's)
+      (PP (IN on)
+        (NP
+          (NP (NNP Tropicana))
+          (NP (CD two) (NNS nights))
+          (PP (IN in)
+            (NP (DT a) (NN row)))))
+      (PP (IN during)
+        (NP (PRP$ my) (JJ recent) (NNP Vegas) (NNS misadventures))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (ADVP (RB Really))
+    (VP (VBD enjoyed))
+    (NP
+      (NP
+        (NP (DT the) (JJ huge) (NNS mugs))
+        (PP (IN of)
+          (NP (NNP Stone) (NNP IPA))))
+      (, ,)
+      (NP
+        (NP (DT the)
+          (ADJP (JJ tasty))
+          (NN food))
+        (PP (IN from)
+          (NP (NN chef) (NNP Sonia) (NNP Lima))))
+      (: --)
+      (CC and)
+      (NP
+        (NP (JJS most))
+        (PP (IN of)
+          (NP
+            (NP (PDT all) (DT the) (JJ outstanding) (NN service))
+            (PP (IN from)
+              (NP (NN bartender) (NNP Liz) (NNP Brainard)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD 'll)
+      (VP (VB be)
+        (ADVP (RB back))))
+    (. !)))
+
+

@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (NP (NNP Accidentally))
+    (VP (VBD dented)
+      (NP (PRP$ my) (JJ husbands) (NN brand) (JJ new) (NN car))
+      (PP (IN at)
+        (NP (DT the) (NN grocery) (NN store))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Called) (NNP Magic) (NNP Bumper) (JJ first) (NN thing))
+      (PP (IN on)
+        (NP (NNP Monday))))
+    (, ,)
+    (VP (VBD had)
+      (NP
+        (NP (DT a) (NN appointment)
+          (CC and)
+          (NN everything))
+        (VP (VBN done)
+          (PP (IN by)
+            (NP
+              (NP (DT the) (NN end))
+              (PP (IN of)
+                (NP (DT the) (NN week))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP
+      (ADJP (RB Totally) (VBG accommodating))
+      (, ,)
+      (CC and)
+      (ADJP (RB super) (JJ efficient)
+        (CC and)
+        (JJ fast)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (MD Would)
+      (ADVP (RB definitely))
+      (VP
+        (VP (VB go)
+          (ADVP (RB back)
+            (CC and)
+            (RB /)))
+        (CC or)
+        (VP (VB recommend)
+          (PP (TO to)
+            (NP (NN anyone))))))
+    (. .)))
+
+

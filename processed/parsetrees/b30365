@@ -1,0 +1,161 @@
+(ROOT
+  (S
+    (NP (JJ Little) (NN gourmet) (NN food))
+    (VP (VBP store)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP
+            (VP (VBZ features)
+              (NP (CD speciality) (JJ European) (NNS foods)
+                (CC and)
+                (NNS ingredients)))
+            (CC and)
+            (VP (VBZ showcases)
+              (NP
+                (NP (DT the) (NN celebrity) (NNS chefs))
+                (PP (IN of)
+                  (NP (DT The) (NNP Cosmopolitan)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Cookbooks))
+      (, ,)
+      (NP
+        (NP (NN Kitchen) (NN equipment))
+        (, ,)
+        (NP (NNP Tools)))
+      (, ,))
+    (NP (NN DVD))
+    (VP (VBZ 's) (, ,)
+      (NP (FW etc.)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Hard-to-get) (JJ Greek) (NNS Wine))
+      (CC and)
+      (NP
+        (NP (JJ other) (NNS wines))
+        (PP
+          (PP (IN from)
+            (NP (NNP Europe)))
+          (CC and)
+          (ADVP (RB here))
+          (PP (IN in)
+            (NP (DT the) (NNP US))))))
+    (VP (VBP are)
+      (ADJP (JJ available))
+      (ADVP (RB as) (RB well)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBZ is)
+        (ADVP (RB also))
+        (NP
+          (NP (DT a) (JJ cool) (NNP Bar) (NN Set))
+          (PP (IN in)
+            (NP
+              (NP (DT the) (NN form))
+              (PP (IN of)
+                (NP
+                  (NP (DT a) (JJ huge) (NN suitcase))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (MD will)
+                        (VP (VB set)
+                          (NP (PRP you))
+                          (ADVP (RB back)
+                            (NP ($ $) (CD 12,000))))))))))))))
+    (: ...)
+    (S
+      (NP (NNP ALOHA))
+      (VP (VBZ !!)))))
+
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP (PRP I))
+        (VP (VBP do) (RB n't)
+          (ADVP (RB really))
+          (VP (VB understand)
+            (NP
+              (NP (DT this) (NN place) (POS 's))
+              (NN function)))))
+      (, ,)
+      (CC but)
+      (S
+        (NP (PRP I))
+        (VP (VBD was)
+          (ADVP (RB there)
+            (PP (IN on)
+              (NP (NNP Thursday))))
+          (PP (IN for)
+            (NP (DT a) (JJ free) (NN event)))
+          (PP (IN from)
+            (NP (DT the) (NNP Cosmopolitan))))))
+    (: ...)
+    (S
+      (NP (DT a) (CD four) (NN course) (NN wine)
+        (CC and)
+        (NN food))
+      (VP (VBG pairing)))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB How))
+    (SQ (MD can)
+      (NP (PRP you))
+      (VP (VB beat)
+        (NP (DT that))))
+    (. ?)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBN Tried)
+        (NP (DT some) (NNS wines))))
+    (, ,)
+    (VP
+      (VP (VBD had)
+        (NP
+          (NP (DT some) (-LRB- -LRB-) (JJ tiny) (-RRB- -RRB-) (NNS portions))
+          (PP (IN of)
+            (NP (NN food)))))
+      (, ,)
+      (CC and)
+      (VP (VBD got)
+        (S
+          (VP (TO to)
+            (VP (VB socialize)
+              (NP (DT a) (JJ little) (NN bit)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Cosmopolitan))
+      (VP (VBZ is)
+        (ADVP (RB easily))
+        (NP
+          (NP (PRP$ my) (JJ favorite) (NN hotel/casino))
+          (ADVP (RB right) (RB now)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT this) (NN place))
+      (VP (VBZ is)
+        (NP (DT a) (JJ great) (JJ hidden) (NN jem))))
+    (. !)))
+
+

@@ -1,0 +1,143 @@
+(ROOT
+  (FRAG
+    (ADVP (RB Always))
+    (NP (JJ nice) (NNS employees))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Great))
+    (NP
+      (NP (NNS prices))
+      (CC and)
+      (NP (JJ decent) (NN food)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (ADVP (RB Well))
+    (NP (PRP they))
+    (VP (VBD gave)
+      (NP (PRP us))
+      (NP
+        (NP (NN bacon))
+        (PP (RB instead) (IN of)
+          (NP (JJ Canadian) (NN bacon)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Bad))
+    (VP (VBP start)
+      (PP (TO to)
+        (NP (JJ new) (NN place))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (ADVP (RB Always))
+    (NP
+      (NP (JJ friendly) (NN staff))
+      (PP (IN with)
+        (NP (JJ hot) (NN bread))))
+    (VP
+      (VP (VBZ sticks))
+      (CC and)
+      (VP
+        (NP (NN pizza))
+        (PP (IN during)
+          (NP (JJ busy) (NNS times)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD learned)
+      (NP (NN tonight))
+      (SBAR
+        (S
+          (NP (DT this) (NN store))
+          (VP (VBZ treats)
+            (NP (PRP$ their) (NN staff))
+            (PP (TO to)
+              (NP
+                (NP (DT an) (NN order))
+                (PP (IN of)
+                  (NP (NN bread) (NN stick)))))
+            (PP (IN after)
+              (NP (PRP$ their) (JJ worked) (NN shift)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP do) (RB n't)
+      (VP (VB know)
+        (SBAR (IN if)
+          (S
+            (NP (DT this))
+            (VP (VBZ is)
+              (NP
+                (NP
+                  (NP (DT all) (NNS stores))
+                  (CC or)
+                  (NP (RB just) (DT this) (NN location)))
+                (CC but)
+                (NP
+                  (NP (JJ great) (NN job) (NN franchise) (NN owner))
+                  (PP (IN for)
+                    (S
+                      (VP (VBG taking)
+                        (NP
+                          (NP (NN care))
+                          (PP (IN of)
+                            (NP (DT the) (NN staff))))))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT The) (NNS pizzas))
+    (VP (VBP are)
+      (ADVP (RB always))
+      (ADJP (JJ ready)
+        (PP (IN on)
+          (NP (NN time)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP
+        (NP (DT a) (JJ special) (NN taste))
+        (SBAR (IN that)
+          (S
+            (NP (PRP$ my) (NNS kids))
+            (VP (VBP love))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHNP (WP What))
+      (S
+        (NP (PRP I))
+        (VP (VBD found)
+          (PRT (RP out))
+          (ADVP (RB recently)))))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (CD one))
+            (VP (VBG topping)))
+          (VP (VBZ is)
+            (VP (VBN included)
+              (PP (IN in)
+                (NP (DT the) ($ $) (CD 5.00) (NN price))))))))
+    (. !)))
+
+

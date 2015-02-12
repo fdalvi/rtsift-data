@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Better) (NNS prices))
+      (PP (IN than)
+        (NP (NN auto) (NNS shops))))
+    (VP (VBP cause)
+      (SBAR
+        (S
+          (S
+            (NP (PRP they))
+            (VP (VBP specialize)
+              (PP (IN in)
+                (NP (RB only) (JJ certain) (NNS jobs)))))
+          (CC and)
+          (S
+            (NP (DT the) (NNS guys))
+            (VP (VBP are)
+              (ADVP (RB always))
+              (ADJP (RB super) (JJ nice)))))))
+    (. .)))
+
+

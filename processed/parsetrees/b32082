@@ -1,0 +1,71 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBD summed)
+        (NP (PRP it))
+        (PRT (RP up))))
+    (: :) (`` ``)
+    (S
+      (S
+        (NP (DT the) (NN service))
+        (VP (VBD was)
+          (ADJP (JJ lovely))))
+      (CC and)
+      (S
+        (S
+          (NP (DT the) (NN food))
+          (VP (VBD was)
+            (ADJP (JJ good))))
+        (CC and)
+        (S
+          (NP (DT the) (NN sampler) (NN lunch) (NN platter))
+          (VP (VBZ is)
+            (NP
+              (NP (DT a) (JJ good) (NN value))
+              (PP (IN for)
+                (NP (NN money))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (NNS staples))
+        (PP (IN of)
+          (NP (NN paella)
+            (CC and)
+            (NN chorizo) (NNS dishes))))
+      (VP (VBP seem)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (SBAR
+                (SBAR
+                  (WHADVP (WRB where))
+                  (S
+                    (NP (NNP Tapa))
+                    (VP (VBZ shines))))
+                (, ,)
+                (CC and)
+                (SBAR (IN if)
+                  (S
+                    (NP (PRP I))
+                    (VP (VBP am)
+                      (UCP
+                        (PP (IN in)
+                          (NP (DT the) (NN area)))
+                        (CC and)
+                        (VP (VBG looking)
+                          (PP (IN for)
+                            (NP (DT a) (JJ quick) (JJ Spanish) (NN lunch))))))))))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (MD 'd)
+      (ADVP (RB happily))
+      (VP (VB go)
+        (PP (IN by)
+          (ADVP (RB again)))))
+    ('' '')))
+
+

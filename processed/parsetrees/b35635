@@ -1,0 +1,88 @@
+(ROOT
+  (SBAR (IN while)
+    (S
+      (S
+        (NP (DT this))
+        (VP (VBZ is) (RB not)
+          (ADJP (JJ large))))
+      (: ...)
+      (S
+        (NP (PRP it))
+        (VP (VBZ is)
+          (ADVP (RB really))
+          (NP (JJ good) (NNS !!!)))))))
+
+(ROOT
+  (S
+    (S
+      (NP (DT the) (NN price))
+      (VP (VBZ is)
+        (ADJP (JJ great))))
+    (CC and)
+    (S
+      (NP (NN everyone))
+      (VP (VBZ is)
+        (ADJP (RB soooo) (JJ nice))))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (ADJP (JJ great)
+      (PP (IN for)
+        (NP
+          (NP (DT the) (NNS kids))
+          (CC and)
+          (NP
+            (ADJP (JJ great)
+              (PP (IN for)
+                (NP (PRP we))))
+            (NNS adults)))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Sometimes))
+      (NP (PRP I))
+      (VP (VBP hate)
+        (S
+          (VP (TO to)
+            (VP (VB tell)
+              (NP (NNS others))
+              (PP (IN about)
+                (NP (JJ neat) (JJ little) (NNS places)))
+              (, ,)
+              (SBAR (IN because)
+                (S
+                  (NP (PRP they))
+                  (VP (VBP become)
+                    (NP
+                      (ADJP
+                        (ADJP (JJ busy))
+                        (CC and)
+                        (ADJP (RB not) (RB so)))
+                      (NN fun))))))))))
+    (: ...)
+    (S
+      (S (CC but)
+        (, ,)
+        (PRN
+          (S
+            (NP (PRP I))
+            (VP (MD will)
+              (VP (VB say)
+                (NP (DT this) (JJ little) (NN place))))))
+        (VP (VBZ is)
+          (NP (JJ great) (NN fun))))
+      (: ...)
+      (S
+        (NP (PRP we))
+        (VP
+          (VP (VBD juiced)
+            (NP (DT some) (NN stuff))
+            (NP (NN today)))
+          (: ...)
+          (CC and)
+          (VP (VBP WOWWWWWEEEEEEEE)))))))
+
+

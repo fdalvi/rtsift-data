@@ -1,0 +1,112 @@
+(ROOT
+  (S
+    (NP (NNP Pretty))
+    (VP (VBP cool)
+      (NP (NN store))
+      (SBAR (IN as)
+        (S
+          (NP (PRP it))
+          (VP (VBZ is)
+            (ADJP (JJ right)
+              (PP (IN around)
+                (NP
+                  (NP (DT the) (NN corner))
+                  (PP (IN from)
+                    (NP (PRP$ my) (JJ apt))))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Awesome) (NN selection))
+    (PP (IN of)
+      (NP (JJ comic) (NNS books)))
+    (PP (IN with)
+      (NP (DT the) (JJS latest) (NNS issues)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Owner) (NNP Travis))
+    (VP (VBZ is)
+      (ADJP (RB very) (JJ friendly)
+        (CC and)
+        (JJ knowledgable)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Store))
+    (VP (VBZ has)
+      (NP
+        (NP (NNS toys))
+        (, ,)
+        (NP (NNS shirts))
+        (CC and)
+        (NP
+          (NP (JJ other) (NNS scifi))
+          (CC and)
+          (NP (NN superhero) (VBN related) (NNS items)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Prices))
+    (VP (VBP are)
+      (ADJP (JJ reasonable)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Has)
+      (NP (DT a) (JJ decent) (JJ back) (NN issue) (NN selection))
+      (ADVP (RB as) (RB well)))
+    (. .)))
+
+(ROOT
+  (SINV
+    (VP (MD Would)
+      (VP (VB recommend)))
+    (NP
+      (NP (DT this) (NN store))
+      (PP (TO to)
+        (NP (NNS others))))))
+
+
+(ROOT
+  (S
+    (S
+      (NP (DT This) (JJ comic) (NN store))
+      (VP (VBZ is)
+        (ADJP (RB so) (JJ cool))))
+    (, ,)
+    (NP (NNP Travis))
+    (VP (VBZ is)
+      (ADVP (RB always))
+      (ADJP (RB so) (JJ helpful)
+        (CC and)
+        (JJ friendly)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB always))
+    (VP (VBP find)
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP (PRP I))
+          (VP (VBP am)
+            (VP (VBG looking)
+              (PP (IN for)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ closed)))
+    (. .)))
+
+

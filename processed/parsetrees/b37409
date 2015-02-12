@@ -1,0 +1,86 @@
+(ROOT
+  (S
+    (NP (NNP Always))
+    (ADVP (RB fast))
+    (VP (VBZ courteous)
+      (NP (NN service)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBZ Seems)
+      (ADVP (RB never))
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (ADJP (RB too) (JJ busy))
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP I))
+                (VP (VBP come)
+                  (PRT (RP in)))))))))
+    (. .)))
+
+
+(ROOT
+  (SBARQ
+    (WHNP (WP what))
+    (SQ (MD can)
+      (NP
+        (NP (PRP I))
+        (SBAR
+          (S
+            (VP (VBP say) (: ...) (: ...)
+              (S
+                (NP (PRP IT))
+                (VP (VBZ 'S)
+                  (NP (NNS STARBUCKS))))))))
+      (VP (VB !!!)))))
+
+(ROOT
+  (S
+    (PP (IN of)
+      (NP (NN course)))
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (NP (JJ great) (NNS !!!!)))))
+
+
+(ROOT
+  (S
+    (NP (NNP Very))
+    (VP (VBZ courteous)
+      (NP (NN service)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (MD will)
+      (VP (VB remember)
+        (NP (PRP$ your) (NN name)
+          (CC and)
+          (NN drink) (NN order))
+        (, ,)
+        (SBAR (RB even) (IN if)
+          (S
+            (NP (PRP you))
+            (VP (VBP do) (RB n't)
+              (VP (VB visit)
+                (ADVP (RB daily))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Vince))
+    (VP (VBD was)
+      (ADJP (JJ excellent)
+        (SBAR
+          (S
+            (NP (PRP he))
+            (VP (VBZ 's)
+              (NP (DT the) (JJS best)))))))))
+
+

@@ -1,0 +1,108 @@
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (DT these) (NNS supermarkets))
+        (VP (VBP see)
+          (S
+            (NP
+              (NP (DT the) (NN future))
+              (PP (IN as)
+                (NP (DT all) (NNS customers))))
+            (VP (VBG using)
+              (NP (NN self) (NN service) (NNS checkouts))))
+          (, ,)
+          (SBAR (IN as)
+            (S
+              (VP (VBZ appears)
+                (S
+                  (VP (TO to)
+                    (VP (VB be)
+                      (NP
+                        (NP (DT the) (NN case))
+                        (PP (IN with)
+                          (NP
+                            (NP (JJR more)
+                              (CC and)
+                              (JJR more))
+                            (PP (IN of)
+                              (NP (DT these) (JJ individual) (CD scanning) (NNS stations)))))
+                        (VP (VBG being)
+                          (VP (VBN installed)))))))))))))
+    (, ,)
+    (S
+      (NP (RB then))
+      (INTJ (VB please) (, ,) (VB please) (, ,) (VB please))
+      (VP (VB make)
+        (NP (DT these) (NNS things) (NN work))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD spent)
+      (NP (CD 10) (NNS minutes))
+      (NP (NN today))
+      (S
+        (VP (VBG trying)
+          (S
+            (VP (TO to)
+              (VP (VB pay)
+                (PP (IN for)
+                  (NP (CD 6) (NNS items)))
+                (SBAR
+                  (WHADVP (WRB where))
+                  (S
+                    (NP (DT every) (NN time))
+                    (NP (PRP I))
+                    (VP (VBD scanned)
+                      (NP
+                        (NP (DT an) (NN item))
+                        (SBAR
+                          (S
+                            (NP (DT the) (NN system))
+                            (VP (VBD went)
+                              (PP (IN on)
+                                (NP (NN hold)))
+                              (SBAR (IN until)
+                                (S
+                                  (NP (DT a) (NN customer) (NN service) (NN employee))
+                                  (VP (VBD came)
+                                    (PRT (RP over))
+                                    (S
+                                      (VP (TO to)
+                                        (VP (VB over-ride)
+                                          (NP (DT the) (NN system)))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP Poor) (NN customer) (NN service))
+      (, ,)
+      (NP (JJ poor) (NN customer) (NN experience))
+      (, ,))
+    (ADJP (RB not) (JJ good) (NN enough))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (NNP Morrisons) (NNP Cafe))
+    (: :)
+    (S
+      (NP
+        (NP (NNP Breakfast))
+        (SBAR
+          (S
+            (VP (VBD was)
+              (ADJP (JJ great))))))
+      (ADVP (RB here))
+      (VP (MD would)
+        (VP (VB come)
+          (ADVP (RB again))
+          (PP (IN for)
+            (NP (CD one))))))
+    (. .)))
+
+

@@ -1,0 +1,66 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Great))
+      (PP (IN for)
+        (NP (DT a)
+          (ADJP (JJ quick) (JJ trim))
+          (JJ Hot) (NN shaves))))
+    (VP (VBP are)
+      (NP (DT the) (NN way)
+        (S
+          (VP (TO to)
+            (VP (VB go))))))
+    (. !)))
+
+(ROOT
+  (NP
+    (NP (NNP Student))
+    (NP (JJ friendly) (NN place))))
+
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP Besoin) (NNP de))
+      (VP (VBZ vous)
+        (NP (JJ faire) (NN couper))
+        (ADVP
+          (NP (CD les) (NNS tifs))
+          (IN en))))
+    (VP (VBZ vacances))
+    (NP (NNP ?) (NNP ?dimbourg))
+    (. ?)))
+
+(ROOT
+  (S
+    (VP (VB Pas)
+      (NP
+        (NP (NN cher))
+        (CC et)
+        (NP
+          (NP (NNP bien) (NNP plac?) (NNP ?) (FW deux) (NNP pas) (FW de) (NNP mon))
+          (NP (NN pub) (NNS pr?f?r?)))))
+    (: ...)))
+
+
+(ROOT
+  (S
+    (NP (JJ Nice) (JJ little) (NN barber))
+    (VP (VBZ 's)
+      (PP (IN with)
+        (NP
+          (ADJP (RB very) (JJ reasonable))
+          (NNS prices))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Friendly))
+    (PP (IN without)
+      (S
+        (VP (VBG being)
+          (ADJP (RB overly) (JJ chatty)))))
+    (. .)))
+
+

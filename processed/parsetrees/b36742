@@ -1,0 +1,768 @@
+(ROOT
+  (S
+    (NP (NNP Ben))
+    (VP
+      (VP (VBD offered)
+        (NP (JJ same) (NN day) (NN service)))
+      (CC and)
+      (VP (VBD was)
+        (ADJP (JJ able)
+          (S
+            (VP (TO to)
+              (VP (VB fix)
+                (NP (PRP$ my) (NN tv))
+                (PP (IN at)
+                  (NP (PRP$ my) (NN house)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Very) (NNP happy))
+      (CC and)
+      (NP (DT the) (NN price)))
+    (VP (VBD was)
+      (ADJP (RB very) (JJ reasonable)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (ADVP (RB Recently))
+    (NP (PRP I))
+    (VP (VBD was)
+      (VP (VBG having)
+        (NP
+          (NP (DT a) (NN problem))
+          (PP (IN with)
+            (NP
+              (NP (DT no) (NN sound))
+              (PP (IN on)
+                (NP (CD one)))))
+          (PP (IN of)
+            (NP (PRP$ my) (NNS Televisions))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD called)
+        (NP (DT the) (JJ first) (CD five) (NNS places))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBD wanted)
+        (NP
+          (QP (IN between) ($ $) (CD 75.00) (TO to) ($ $) (CD 130.00)))
+        (ADVP (RB just))
+        (S
+          (VP (TO to)
+            (VP (VB come)
+              (PP (TO to)
+                (NP (DT the) (NN house)
+                  (S
+                    (VP (TO to)
+                      (VP (VB diagnose)
+                        (NP
+                          (NP (DT the) (NN issue))
+                          (PP (CC plus)
+                            (NP
+                              (NP (DT the) (NN cost))
+                              (PP (IN of)
+                                (NP (NNS repairs))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD Called)
+      (NP
+        (NP
+          (NP (NNP Ben) (POS 's))
+          (NX
+            (NX (NN TV) (NN service))
+            (CC and)
+            (NX (NNP Ben))))
+        (SBAR
+          (S
+            (NP (PRP himself))
+            (VP (VBD told)
+              (NP (PRP me))
+              (SBAR
+                (SBAR
+                  (S
+                    (NP (PRP he))
+                    (ADVP (RB never))
+                    (VP (VBZ charges)
+                      (S
+                        (VP (TO to)
+                          (VP (VB come)
+                            (PP (TO to)
+                              (NP (DT the) (NN house)
+                                (S
+                                  (VP (TO to)
+                                    (VP (VB diagnose)
+                                      (NP (DT the) (NN issue)))))))))))))
+                (CC and)
+                (SBAR (IN once)
+                  (S
+                    (NP (DT the) (NN issue))
+                    (VP (VBZ is)
+                      (VP (VBN diagnosed)
+                        (SBAR
+                          (S
+                            (NP (PRP he))
+                            (VP (MD would)
+                              (VP (VB give)
+                                (NP (PRP you))
+                                (NP
+                                  (NP (NN estimate))
+                                  (PP (IN of)
+                                    (NP (DT the) (NN repair) (NN cost))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP I))
+        (VP (VBD told)
+          (S
+            (NP (PRP him))
+            (NP (PRP$ my) (NN issue))))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD asked)
+      (SBAR
+        (SBAR (IN if)
+          (S
+            (NP (PRP it))
+            (VP (VBD was)
+              (VP (VBN connected)
+                (PP (TO to)
+                  (NP (DT a) (NN cable) (NN box)))))))
+        (CC and)
+        (SBAR
+          (WHNP (WP what) (NN type)
+            (PP (IN of)
+              (NP (NN connection))))
+          (S
+            (VP (VBD was)
+              (VP (VBN used)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP I))
+        (VP (VBD told)
+          (NP (PRP him))
+          (SBAR
+            (S
+              (NP (PRP it))
+              (VP (VBD was)
+                (NP (DT an) (NNP HDMI) (NN connection))))))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD suggested)
+      (SBAR (IN before)
+        (S
+          (NP (PRP I))
+          (VP (VBD had)
+            (S
+              (NP (PRP him))
+              (VP
+                (VP (VB come)
+                  (S
+                    (VP (TO to)
+                      (VP (VB look)
+                        (PP (IN at)
+                          (NP
+                            (NP (DT the) (NN TV))
+                            (SBAR
+                              (S
+                                (NP (PRP I))
+                                (VP (MD should)
+                                  (ADVP (RB just))
+                                  (VP (VB unplug)
+                                    (NP (DT the) (NN power))
+                                    (PP (TO to)
+                                      (NP
+                                        (NP (DT the) (NN cable) (NN box))
+                                        (PP (IN for)
+                                          (NP (DT a) (JJ few) (NNS minutes)))))))))))))))
+                (CC and)
+                (VP (VB see)
+                  (SBAR (IN if)
+                    (S
+                      (NP (DT this))
+                      (VP (VBD solved)
+                        (NP (DT the) (NN issue))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBD did)
+      (VP (VB solve)
+        (NP (PRP$ my) (NN problem))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Ben))
+      (VP (MD could)
+        (VP (VB have)
+          (VP
+            (VP (VBN been)
+              (PP (IN like)
+                (NP
+                  (NP (JJ many))
+                  (PP (IN of)
+                    (NP (DT the) (JJ other) (NNS companies))))))
+            (CC and)
+            (VP (VBN charged)
+              (S
+                (NP (PRP me))
+                (VP (TO to)
+                  (VP
+                    (VP (VB come)
+                      (NP (NN look))
+                      (PP (IN at)
+                        (NP (DT the) (NN TV))))
+                    (CC and)
+                    (VP (VB pretend)
+                      (S
+                        (VP (TO to)
+                          (VP (VB do)
+                            (NP
+                              (NP (DT some) (NN type))
+                              (PP (IN of)
+                                (NP (NN repair))))))))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (NNP Ben))
+      (VP (VBZ is)
+        (NP
+          (NP (DT a)
+            (ADJP (RB totally) (JJ honest))
+            (NN business) (NN man))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP
+                (VP (VBZ charges)
+                  (NP (DT a) (JJ fair) (NN price)))
+                (CC and)
+                (VP (VBZ tells)
+                  (NP (DT the) (NN truth)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP believe)
+        (SBAR
+          (S
+            (NP (DT this))
+            (VP (VBZ is)
+              (NP (DT a) (JJ rare) (NN quality)))))))
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP (MD should)
+        (VP (VB be)
+          (VP (VBN rewarded)
+            (PP (IN for)
+              (NP (PRP$ his) (NN honesty)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (SBAR
+        (WHADVP (WRB why))
+        (S
+          (NP (PRP I))
+          (VP (VBP am)
+            (ADVP (RB highly))
+            (VP (VBG recommending)
+              (NP
+                (NP
+                  (NP (NNP Ben) (POS 's))
+                  (NNP TV) (NNP Repair))
+                (PP (IN for)
+                  (NP (PRP$ your) (NN TV) (NN repair) (NNS needs))))
+              (PP (IN in)
+                (NP (DT the) (NN future))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Please)
+      (SBAR
+        (S
+          (S
+            (VP (VB reward)
+              (NP
+                (NP (NNP Ben))
+                (PP (IN for)
+                  (S
+                    (VP (VBG conducting)
+                      (NP (PRP$ his) (NN business))
+                      (PP (IN in)
+                        (NP (PDT such) (DT a) (JJ forthright) (JJ honest) (NN manner)))))))))
+          (CC and)
+          (S
+            (INTJ (VB please))
+            (VP (VB recommend)
+              (NP (PRP him))
+              (PP (TO to)
+                (NP
+                  (NP (PRP$ your) (NNS friends))
+                  (, ,)
+                  (NP (NN family))
+                  (, ,)
+                  (CC and)
+                  (NP (NNS co-workers)))))))))))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Ben) (POS 's))
+      (JJ mobile) (NN service))
+    (VP (VBD was) (RB not)
+      (ADJP (JJ only)
+        (PP (IN on)
+          (NP
+            (NP (NN time))
+            (SBAR
+              (S
+                (S
+                  (NP (PRP he))
+                  (VP (VBD did)
+                    (NP (DT the) (NN job))
+                    (ADVP (RB quickly))))
+                (CC and)
+                (S
+                  (NP (PRP$ his) (NN price))
+                  (VP (VBD was)
+                    (ADJP (JJ reasonable))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB highly))
+    (VP (VBP recommend)
+      (NP (PRP him)))
+    (. .)))
+
+(ROOT
+  (NP (NNP A.) (NNP Baker)))
+
+
+(ROOT
+  (NP
+    (NP (CD One) (NN word))
+    (NP (NNP RUDE) (NNP !!!))))
+
+(ROOT
+  (S
+    (S
+      (NP (FW i))
+      (VP
+        (VP (VBD called)
+          (NP (NN ben)))
+        (CC and)
+        (VP (VBD asked)
+          (SBAR (IN if)
+            (S
+              (NP (FW i))
+              (VP (MD could)
+                (VP (VB get)
+                  (NP (DT a) (NN replacement) (NN bulb))
+                  (PP (IN for)
+                    (NP (PRP$ my) (NN t.v))))))))))
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP (VBD said)
+        (VP (VB ok)
+          (NP (DT no) (NN problem))
+          (PRN (, ,)
+            (S
+              (NP (PRP I))
+              (VP (VBD said)
+                (SBAR
+                  (S
+                    (NP (JJ perfect) (NNS i))
+                    (VP (VBP need)
+                      (S
+                        (VP (TO to)
+                          (VP (VB buy)
+                            (NP (PRP it))))))))))
+            (, ,))
+          (SBAR
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (VP (MD can)
+                  (ADVP (RB i))
+                  (VP
+                    (VP (VB come)
+                      (PP (IN by)))
+                    (CC and)
+                    (VP (VB pick)
+                      (NP (PRP it))
+                      (PRT (RP up)))))))
+            (CC and)
+            (SBAR
+              (WHADVP (WRB how) (RB much)))))))
+    (. ?)))
+
+(ROOT
+  (PRN (, ,)
+    (S
+      (NP (PRP he))
+      (VP (VBD said)
+        (SBAR
+          (S
+            (S
+              (INTJ (UH no))
+              (NP (PRP he))
+              (VP (VBZ has)
+                (S
+                  (VP (TO to)
+                    (VP (VB install)
+                      (NP
+                        (NP (PRP it))
+                        (CC and)
+                        (NP (PRP$ its) (NN gon))))))
+                (S
+                  (VP (TO na)
+                    (VP (VB cost)
+                      (NP (CD 200) (NNS bucks)))))))
+            (: ...)
+            (S
+              (NP (FW i))
+              (VP (VBD said)
+                (SBAR
+                  (S
+                    (NP (FW i))
+                    (VP (MD can)
+                      (VP (VB change)
+                        (NP (PRP it))))))))
+            (, ,)
+            (S
+              (NP (FW i))
+              (ADVP (RB already))
+              (VP (VBD pulled)
+                (NP (PRP it))
+                (PP (IN out)
+                  (S
+                    (S
+                      (NP (PRP it))
+                      (VP (VBD was)
+                        (NP (CD 2) (NNS screws))))
+                    (CC and)
+                    (S
+                      (NP (PRP it))
+                      (VP (VBD was)
+                        (NP
+                          (NP (CD 1) (NN min))
+                          (PP (IN of)
+                            (NP (PRP$ my) (NN time))))))))))
+            (, ,)
+            (S
+              (NP (DT the) (NN bulb))
+              (VP (VBZ is)
+                (NP
+                  (QP (RB only) (CD 70))
+                  (NNS bucks))))
+            (, ,)
+            (S
+              (S
+                (NP (PRP he))
+                (VP
+                  (VP (VBD flipped)
+                    (PRT (RP out)))
+                  (CC and)
+                  (VP (VBD said))))
+              (, ,)
+              (ADVP (RB then))
+              (VP
+                (VP (VB go)
+                  (PP (IN on)
+                    (NP (DT the) (NN internet))))
+                (CC and)
+                (VP (VB buy)
+                  (S
+                    (NP (PRP it))
+                    (VP (VB stop)
+                      (S
+                        (VP (VBG wasting)
+                          (NP (PRP$ my) (NN time)))))))))
+            (: ...)
+            (S
+              (NP (NNP WOW))
+              (VP (VBZ !!!)))))))))
+
+(ROOT
+  (SINV
+    (VP (VBN !) (: ...)
+      (NP
+        (NP (FW i))
+        (VP (VBN hung)
+          (PRT (RP up)))))
+    (: ...)
+    (NP (NNP NEXT) (NNP !!))))
+
+
+(ROOT
+  (S
+    (NP (NNP Ben))
+    (VP
+      (VP (VBZ answers)
+        (NP (PRP$ his) (JJ own) (NN phone)))
+      (, ,)
+      (VP (VBD came)
+        (PRT (RP over))
+        (PP (IN within)
+          (NP
+            (NP (DT an) (NN hour))
+            (PP (IN of)
+              (NP (PRP me)))))
+        (S
+          (VP (VBG calling))))
+      (CC and)
+      (VP (VBD came)
+        (CC and)
+        (VBD gave)
+        (NP (PRP me) (DT an))
+        (PP (IN in)
+          (NP (NN home) (RB quite)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VP (VBD picked)
+        (PRT (RP up))
+        (NP (PRP$ my) (NN tv)))
+      (CC and)
+      (VP (VBD had)
+        (NP (PRP it))
+        (VP
+          (VP (VBN done)
+            (PP (IN in)
+              (NP
+                (ADJP
+                  (NP (CD three) (NNS days))
+                  (JJ great))
+                (NN price))))
+          (CC and)
+          (VP (VBN delivered)
+            (NP (PRP it))
+            (ADVP (RB back)
+              (NP (CD !!)))))))))
+
+(ROOT
+  (INTJ (UH Thanks) (. !)))
+
+
+(ROOT
+  (FRAG
+    (ADJP (JJ Fast)
+      (CC and)
+      (JJ effective))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NN TV))
+    (VP (VBD made)
+      (SBAR
+        (S
+          (NP
+            (NP (DT a) (JJ popping) (NN noise))
+            (CC and)
+            (NP (DT the) (NN pic)))
+          (VP (VBD went)
+            (PRT (RP out))))))
+    (. .)))
+
+(ROOT
+  (NP (NNP Called) (NNP Ben) (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VP (VBD asked)
+        (NP (DT a) (JJ few) (JJ basic) (NNS questions))
+        (PP (IN over)
+          (NP (DT the) (NN phone))))
+      (CC and)
+      (VP (VBD determined)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBD was)
+              (NP (DT the) (NN lamp)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBN Asked)
+        (NP (PRP me))
+        (PP (IN for)
+          (NP (DT the) (NN model) (NN #)))))
+    (, ,)
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBD had)
+            (NP (DT the) (NN lamp))
+            (ADVP (RB there))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NN Cost))
+    (VP (SYM =)
+      (NP ($ $) (CD 200)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Basically)
+      (NP
+        (NP
+          (NP ($ $) (CD 100))
+          (PP (IN for)
+            (NP
+              (NP (DT the) (NN lamp))
+              (PRN (-LRB- -LRB-)
+                (ADVP (RB roughly))
+                (-RRB- -RRB-)))))
+        (CC and)
+        (NP
+          (NP ($ $) (CD 100))
+          (PP (IN for)
+            (NP (PRP him))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Makes))
+    (VP (VBP sense))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP He))
+      (VP (VBD came)
+        (PP (IN over)
+          (NP
+            (NP (DT the) (JJ same) (NN day))
+            (PRN (-LRB- -LRB-)
+              (ADVP
+                (NP
+                  (QP (RB roughly) (CD 4))
+                  (NNS hours))
+                (RB later))
+              (-RRB- -RRB-))))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (NP (DT a) (NN holiday))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT That))
+      (PP (TO to)
+        (NP (PRP me))))
+    (VP (VBZ is)
+      (ADJP (JJ impressive)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD was)
+      (ADVP (RB here))
+      (NP
+        (NP (DT all))
+        (PP (IN of)
+          (NP
+            (QP (RB about) (CD 10))
+            (NNS minutes))))
+      (, ,)
+      (ADJP
+        (ADJP (RB very) (JJ fast))
+        (CC and)
+        (ADJP (RB very) (JJ effective))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (ADVP (RB also))
+    (VP (VBD showed)
+      (SBAR
+        (WHADVP (WRB how))
+        (S
+          (VP (TO to)
+            (VP (VB mount)
+              (S
+                (NP
+                  (NP (DT a) (JJ different) (NN TV))
+                  (PP (IN in)
+                    (NP
+                      (NP (DT the) (NN home))
+                      (PP
+                        (ADVP (JJ free))
+                        (IN of)
+                        (NP (NN charge))))))
+                (ADJP (RB as) (JJ opposed)
+                  (PP (TO to)
+                    (S
+                      (VP (VBG paying)
+                        (NP (NN someone))
+                        (S
+                          (VP (TO to)
+                            (VP
+                              (VP (VB come)
+                                (PRT (RP out)))
+                              (CC and)
+                              (VP (VB do)
+                                (NP (PRP it))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB use)
+        (NP (PRP him))
+        (ADVP (RB again))))
+    (. !)))
+
+

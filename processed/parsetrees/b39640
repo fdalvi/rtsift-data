@@ -1,0 +1,81 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT Each) (NN room))
+        (PP (IN in)
+          (NP (DT this) (NN luxury) (NN country) (NN house) (NN hotel))))
+      (VP (VBZ has)
+        (NP (DT a)
+          (ADJP (RB very) (JJ different))
+          (NN character))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT all))
+      (VP (VBP are)
+        (ADJP (RB very) (JJ luxurious))
+        (, ,)
+        (ADVP (RB almost)
+          (PP (TO to)
+            (NP
+              (NP (DT the) (NN point))
+              (PP (IN of)
+                (S
+                  (VP (VBG being)
+                    (PP (IN over)
+                      (NP (DT the) (NN top)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (MD 'll)
+      (VP (VB feel)
+        (ADJP (RB very) (JJ pampered)
+          (PP (IN after)
+            (NP (DT a) (NN stay))))
+        (ADVP (RB here))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN staff))
+    (VP (VBP are)
+      (ADJP (RB very) (JJ helpful)
+        (CC and)
+        (JJ attentive))
+      (, ,)
+      (PP (IN without)
+        (NP
+          (NP (RB ever) (NN being) (RB too))
+          (`` `)
+          (PP (IN in)
+            (NP (PRP$ your) (NN face)))
+          ('' '))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN hotel) (NN restaurant))
+      (, ,) (`` `)
+      (NP (NNP Rhubarb))
+      ('' '))
+    (VP (VBZ is)
+      (ADJP (RB very) (JJ glamorous)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN service))
+      (VP (VBZ is)
+        (ADJP (JJ excellent))))
+    (CC and)
+    (S
+      (NP (DT the) (NN food))
+      (ADJP (JJ wonderful)))
+    (. .)))
+
+

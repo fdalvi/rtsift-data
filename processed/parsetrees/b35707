@@ -1,0 +1,120 @@
+(ROOT
+  (FRAG
+    (ADVP (RB Always))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Great))
+    (NP (NN atmosphere)
+      (CC and)
+      (NN view))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJS Best) (NNS baked))
+    (VP (VBZ Pizzas)
+      (PRT (RP around)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Zizzi))
+    (VP
+      (VP (VBZ is)
+        (ADJP (JJ delicious)))
+      (CC and)
+      (VP (VBZ has)
+        (NP (DT a) (JJ spectacular) (NN view))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN wait))
+      (VP (VBZ has)
+        (ADVP (RB never))
+        (VP (VBN been)
+          (ADJP (JJ long)))))
+    (CC and)
+    (S
+      (NP (DT the) (NNS servers))
+      (VP (VBZ pleasant)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PDT All) (DT the) (NN menu) (NNS items))
+    (VP (VBP have)
+      (NP
+        (NP (JJ good) (NN flavor))
+        (CC and)
+        (NP (JJ fresh) (NNS ingredients))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT No) (CD one) (NN waiter))
+      (VP (VBZ is)
+        (VP (VBN assigned)
+          (S
+            (VP (TO to)
+              (VP (VB wait)
+                (PP (IN on)
+                  (NP (PRP you)))
+                (SBAR (IN so)
+                  (S
+                    (NP (PRP you))
+                    (VP (VBP have)
+                      (NP
+                        (NP (DT a) (NN variety))
+                        (PP (IN of)
+                          (NP
+                            (NP (NNS waiters))
+                            (SBAR
+                              (WHNP (WDT which))
+                              (S
+                                (VP (VBD was)
+                                  (ADJP (JJ different)
+                                    (PP (IN for)
+                                      (NP (PRP us))))
+                                  (PP (IN as)
+                                    (NP (NNPS Americans))))))))))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP they))
+      (VP (VBP manage)
+        (S
+          (VP (TO to)
+            (VP (VB stay)
+              (PP (IN on)
+                (NP
+                  (NP (NN top))
+                  (PP (IN of)
+                    (NP (NNS things))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN In)
+        (NP (DT the) (JJ short) (NN time)))
+      (NP (PRP we))
+      (VP (VBD lived)
+        (ADVP (RB there))))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBD frequented)
+      (S
+        (VP (VBG Zizzi)
+          (ADVP (RB probably))
+          (NP
+            (QP (DT a) (NN dozen))
+            (NNS times)))))
+    (. .)))
+
+

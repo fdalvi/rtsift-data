@@ -1,0 +1,56 @@
+(ROOT
+  (NP (NNP DONT) (NNP DO) (NNP IT) (NNP !!!)))
+
+(ROOT
+  (S
+    (VP (VBG Unless)
+      (NP (PRP you))
+      (PP (IN like)
+        (S
+          (VP (VBG waiting)
+            (PP (IN in)
+              (NP
+                (NP (NN line))
+                (PP (IN for)
+                  (NP
+                    (NP (CD 20) (NNS minutes))
+                    (PP (IN on)
+                      (NP (DT a) (NNP Thursday) (NN afternoon)))))))))))
+    (: ...)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP
+        (NP (CD 4) (, ,) (RB yes) (CD 4) (NNS people))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (EX there))
+            (VP (VBZ is)
+              (NP
+                (NP (DT a) (NN line))
+                (PP (IN of)
+                  (NP (CD 15) (NNS people)))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (VP (VBP Are)
+      (NP (PRP you)))
+    (NP (JJ serious) (NNS ?!?!))))
+
+(ROOT
+  (S
+    (NP (NNP Zero))
+    (VP (VBZ stars)
+      (SBAR (CC but)
+        (S
+          (NP (PRP you))
+          (VP (MD ca) (RB n't)
+            (VP (VB do)
+              (NP (DT that)))))))
+    (: ...)))
+
+

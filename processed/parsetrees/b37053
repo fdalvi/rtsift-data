@@ -1,0 +1,82 @@
+(ROOT
+  (FRAG
+    (ADJP (JJ Cheap)
+      (CC and)
+      (JJ easy))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBN Got)
+        (NP
+          (NP (PRP$ my) (JJ extra) (CD 20) (NNS cents))
+          (PP (RB off) (RB because) (IN of)
+            (NP (PRP$ my) (NNS frys))))))
+    (VP (VBP VIP)
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (VP (VBZ 's) (RB not)
+            (S
+              (VP (TO to)
+                (VP (VB love)
+                  (PP (IN about)
+                    (NP (DT that))))))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VB shop)
+          (PP (IN at)
+            (NP (NNP Fry) (POS 's))))))
+    (PRN (-LRB- -LRB-)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (NP (PRP I))
+          (VP (VBP do))))
+      (-RRB- -RRB-))
+    (NP (PRP you))
+    (VP (VBP get)
+      (NP
+        (NP (NN money))
+        (VP (VBN taken)
+          (PRT (RP off))
+          (PP (IN of)
+            (NP (PRP$ your) (NN gas))))))
+    (. !)))
+
+(ROOT
+  (S
+    (ADVP (DT This) (NN time))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD got)
+      (NP
+        (NP (CD 30) (NNS cents))
+        (VP (VBN taken)
+          (PP (IN off)
+            (NP (NNP !!!))))))))
+
+(ROOT
+  (NP (NNP WooHoo) (NNP !!!!)))
+
+(ROOT
+  (FRAG
+    (ADJP (RB Very) (JJ exciting))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NN gas))
+    (VP (VBD was)
+      (NP
+        (QP (JJR less) (IN than) ($ $) (CD 80.00))))
+    (. !)))
+
+

@@ -1,0 +1,151 @@
+(ROOT
+  (S
+    (NP (DT A) (NN pricy))
+    (VP (VBP place)
+      (PP (IN in)
+        (NP (DT the) (NN airport))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB However))
+    (NP (PRP we))
+    (VP (VBD liked)
+      (NP (DT the) (NN club) (NN salad)))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP they))
+    (VP (VBD turned)
+      (NP (PRP it))
+      (ADVP (RB over) (RB fast))
+      (PP (IN for)
+        (NP (PRP us))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Good) (NN lookin) (POS '))
+      (NN beer))
+    (VP (VBZ selection)
+      (ADVP (RB too)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (SBAR (IN As)
+      (S
+        (NP (NN airport) (NNS bars))
+        (VP (VBP go))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's) (RB not)
+      (ADJP (RB too) (JJ bad)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NN food))
+      (VP (VBZ is)
+        (ADJP
+          (ADJP
+            (NP (DT a) (RB little))
+            (RBR more) (JJ expensive))
+          (PP (IN than)
+            (NP (NN city) (NNS pubs))))))
+    (CC but)
+    (S
+      (NP (EX there))
+      (VP (VBZ 's)
+        (ADVP (RB nearly) (RB always))
+        (NP
+          (NP (DT some) (NN sort))
+          (PP (IN of)
+            (NP
+              (NP (NN ale/beer))
+              (PP (IN on)
+                (NP (NN offer))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (VP (MD Ca) (RB n't)
+      (VP (VB go)
+        (ADJP (RB too) (JJ wrong))
+        (PP (IN with)
+          (NP (DT this) (NN place)))))))
+
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP enjoy)
+          (S
+            (VP (VBG paying)
+              (NP
+                (NP ($ $) (CD 20))
+                (PP (IN for)
+                  (NP
+                    (NP (DT a)
+                      (ADJP (JJ dry) (, ,) (JJ tasteless))
+                      (NN burger))
+                    (PP (IN with)
+                      (NP
+                        (NP (DT a) (NN wee) (NN bit))
+                        (PP (IN of)
+                          (NP
+                            (NP (JJ wilted) (NN lettuce))
+                            (CC and)
+                            (NP (JJ poor) (NN service)))))))))
+              (PP (TO to)
+                (NP (NN boot))))))))
+    (, ,)
+    (NP (DT this))
+    (VP (VBZ is)
+      (NP (DT a) (JJ perfect) (NN place)
+        (S
+          (VP (TO to)
+            (VP (VB dine))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Otherwise))
+    (NP (PRP one))
+    (VP (MD could)
+      (VP
+        (VP (VB do)
+          (ADVP (RB equally) (RB well))
+          (PP (IN at)
+            (NP (DT any) (NNP BK))))
+        (CC and)
+        (VP (VB save)
+          (NP (DT a) (JJ few) (NN quid)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (S
+      (VP (VBD Had)
+        (NP
+          (NP (PDT such) (DT a) (JJ lovely) (NN time))
+          (PP (IN in)
+            (NP (NNP Edinburgh))))))
+    (, ,)
+    (NP
+      (NP (NN shame))
+      (SBAR
+        (S
+          (VP (TO to)
+            (VP (VB leave)
+              (PP (IN on)
+                (NP (PDT such) (DT a) (JJ disappointing) (NN note))))))))
+    (. .)))
+
+

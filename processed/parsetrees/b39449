@@ -1,0 +1,203 @@
+(ROOT
+  (NP (NNP Great) (NNP Food) (. !)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (NN anyone))
+        (VP (VBP write)
+          (NP (DT a) (JJ negative) (NN comment)))))
+    (, ,)
+    (NP (PRP it))
+    (VP (MD would)
+      (VP (VB be)
+        (NP
+          (NP (DT a) (NN offence))
+          (PP (TO to)
+            (NP (DT this) (JJ new) (NN business))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ is)
+        (NP
+          (NP (DT a) (JJ grand) (JJ new) (NN opening) (NN restaurant))
+          (CC and)
+          (NP (DT the) (NN boss)))))
+    (CC and)
+    (S
+      (NP (PRP$ their) (NN chef))
+      (ADVP (RB really))
+      (VP (VBP try)
+        (S
+          (VP (TO to)
+            (VP (VB make)
+              (NP (DT the) (NN food))
+              (PP (IN as)
+                (NP
+                  (NP (JJ authentic))
+                  (ADJP (RB as) (JJ possible)))))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (DT the) (NNP Price))
+    (VP (VBZ is)
+      (ADVP (RB just))
+      (ADJP (RB so) (JJ low))
+      (SBAR (IN that) (RB even)
+        (S
+          (VP (VBP make)
+            (SBAR
+              (S
+                (NP (PRP me))
+                (VP (VBP want)
+                  (S
+                    (VP (TO to)
+                      (VP (VB pay)
+                        (NP (JJR more))
+                        (PP (IN in)
+                          (NP
+                            (NP (DT the) (NN tip))
+                            (PP (IN as)
+                              (NP (NN compensation)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP do) (RB not)
+          (VP (VB like)
+            (NP (DT the) (NN food))))))
+    (NP (PRP it))
+    (VP (VBZ means)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT this) (NN type))
+            (PP (IN of)
+              (NP (NN food))))
+          (VP (VBP are) (RB not)
+            (VP (VBN suited)
+              (SBAR (IN for)
+                (S
+                  (NP (PRP you))
+                  (ADVP (CC but)
+                    (RB not))
+                  (VP (VBZ means)
+                    (SBAR (IN that)
+                      (S
+                        (NP (DT this) (NN food))
+                        (VP (VBZ is)
+                          (ADJP (JJ bad)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP
+        (VP (VB Go)
+          (ADVP (RB there)))
+        (CC and)
+        (VP (VB try))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD bet)
+      (SBAR
+        (S
+          (NP (PRP you))
+          (VP (MD will)
+            (VP (VB like)
+              (NP (PRP it))
+              (SBAR (IN if)
+                (S
+                  (NP (PRP you))
+                  (VP (VBP like)
+                    (NP (JJ Chinese) (NN food))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (FW i))
+      (VP (VBD tried)
+        (NP
+          (QP (CD three) (NNS times)))
+        (PP (IN at)
+          (NP (DT this) (NN restaurant)))))
+    (, ,)
+    (NP (DT the) (JJ short) (NNS ribs) (NN noodle) (NN soup))
+    (VP (VBZ is)
+      (ADJP (RB pretty) (JJ good)))
+    (. .)))
+
+(ROOT
+  (S (CC but)
+    (NP (NN today))
+    (, ,)
+    (NP
+      (NP (FW i))
+      (SBAR
+        (S
+          (VP (VBD tried)
+            (SBAR
+              (SINV
+                (S
+                  (ADVP (RB again))
+                  (, ,)
+                  (NP (DT the) (NN soup) (NN base))
+                  (VP (VBD changed)))
+                (, ,)
+                (VP
+                  (ADVP (RB noodle))
+                  (VBZ feels)
+                  (NP (RB not) (DT the) (JJ same))
+                  (PP (IN as)
+                    (NP (FW i))))
+                (NP
+                  (NP
+                    (NP (JJ previous))
+                    (VP (VBN had)))
+                  (, ,)
+                  (CC and)
+                  (NP (DT the)
+                    (ADJP (JJ short))
+                    (NNS ribs)))
+                (. .)))
+            (. .)))))
+    (VP (VBZ is)
+      (ADJP (JJ tough)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBP hope)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (MD could)
+              (VP (VB keep)
+                (PRT (RP up))
+                (PP (IN with)
+                  (NP
+                    (NP (DT the) (NN quality))
+                    (PP (IN of)
+                      (NP (DT the) (NN food)))))))))))
+    (: ...)
+    (S
+      (NP (PRP it))
+      (VP (VBZ is)
+        (ADJP (JJ unique)
+          (PP (IN in)
+            (NP (NN town)))))
+      (. .))
+    (. .)))
+
+

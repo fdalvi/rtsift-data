@@ -1,0 +1,83 @@
+(ROOT
+  (FRAG
+    (ADVP (RB Really))
+    (NP (JJ friendly) (NNS owners))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Empanadas))
+    (VP (VBP are)
+      (VP (VBN made)
+        (ADVP (RB right))
+        (SBAR (IN after)
+          (S
+            (NP (PRP you))
+            (VP (VB order)
+              (NP (PRP them))
+              (SBAR (IN so)
+                (S
+                  (NP (PRP you))
+                  (VP (VBP are) (RB not)
+                    (VP (VBG getting)
+                      (NP
+                        (NP (NN something))
+                        (SBAR
+                          (WHNP (WDT that))
+                          (S
+                            (VP (VBZ has)
+                              (VP (VBN been)
+                                (VP (VBG sitting)
+                                  (PP (IN around)
+                                    (NP (DT all) (NN day)
+                                      (CC or)
+                                      (NN something) (NN microwaved))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP have)
+        (ADVP (RB only))
+        (VP (VBN had)
+          (NP (PRP$ their) (NN mozzarella) (NNS empanadas)))))
+    (CC but)
+    (S
+      (NP (PRP they))
+      (VP (VBP are)
+        (ADJP (JJ good))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP buy)
+          (NP (CD two) (NNS empanadas)))))
+    (NP (PRP you))
+    (VP (MD can)
+      (ADVP (RB also))
+      (VP (VB get)
+        (NP (DT a) (NN mate) (NN tea))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Usually))
+    (S
+      (VP (VBN parked)
+        (PP (IN in)
+          (NP
+            (NP (NN front))
+            (PP (IN of)
+              (NP (NNP Memorial) (NNP Library)))))))
+    (, ,)
+    (VP
+      (VP (VBD rain/snow))
+      (CC or)
+      (VP (VBP shine)))
+    (. .)))
+
+

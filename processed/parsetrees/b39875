@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP
+        (VP (VBP have)
+          (VP (VBN been)
+            (ADVP (RB here))
+            (ADVP (RB twice))
+            (PP (IN on)
+              (NP (PRP$ our) (NN summer) (NN trip)))))
+        (CC and)
+        (VP (VBD were)
+          (ADJP (RB very) (VBN satisfied)
+            (PP
+              (PP (IN with)
+                (NP
+                  (NP (DT the) (NN quality))
+                  (PP (IN of)
+                    (NP (NN food)))))
+              (CC and)
+              (PP (IN with)
+                (NP (DT the) (NN pricing)))))
+          (, ,)
+          (S
+            (VP (VBG regarding)
+              (NP (DT the) (NN fact)))))))
+    (, ,)
+    (NP (PRP you))
+    (VP (VBP are)
+      (PP (IN in)
+        (NP (NNP Caesars) (NN palace))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP$ your) (NN party))
+        (VP (VBZ is)
+          (ADVP (RB just))
+          (NP (CD two)))))
+    (, ,)
+    (ADVP (RB directly))
+    (VP
+      (VP (VB pass)
+        (PP (TO to)
+          (NP (DT the) (NN bar))))
+      (CC and)
+      (VP (VB enjoy)
+        (NP
+          (NP (DT the) (NN wine) (NN list))
+          (CC and)
+          (NP (DT the) (NN food)))))
+    (. .)))
+
+

@@ -1,0 +1,132 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Great) (NN service))
+      (, ,)
+      (ADVP (RB always)))
+    (ADJP (JJ clean))))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NNP QT))
+    (VP (VBZ is)
+      (NP
+        (NP (CD one))
+        (PP (IN of)
+          (NP (PRP$ my) (JJ favorite) (NNS locations)))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ is)
+        (ADVP (RB always))
+        (ADJP (RB very) (JJ clean))))
+    (CC and)
+    (S
+      (NP (DT the) (NN staff))
+      (VP (VBZ is)
+        (ADJP (JJ upbeat))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (NNP Always))
+    (ADJP (JJ friendly)
+      (CC and)
+      (JJ clean))
+    (. .)))
+
+
+(ROOT
+  (S
+    (INTJ (`` ``) (UH hi))
+    (VP (VB welcome)
+      (S
+        (VP (TO to)
+          (VP (VB QT) ('' '')
+            (NP
+              (NP (DT every) (NN time))
+              (SBAR
+                (S
+                  (NP (PRP I))
+                  (VP (VBP enter)))))
+            (, ,)
+            (NP (JJ great) (JJ friendly) (NN service))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Cleanliness))
+    (VP (VBZ is)
+      (ADJP (JJ key)
+        (PP (TO to)
+          (NP (DT this) (NN store))))
+      (ADVP (RB too)))
+    (. .)))
+
+(ROOT
+  (NP (NNP Great) (NNP QT) (. .)))
+
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (JJ nice) (NN store))
+      (ADJP (RB real) (JJ busy)))
+    (ADJP (RB real) (JJ friendly))))
+
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNS Lots))
+      (PP (IN of)
+        (NP
+          (NP (NNS pumps))
+          (, ,)
+          (NP
+            (NP (NN security) (NNS strips))
+            (PP (IN on)
+              (NP (DT the) (NNS pumps))))
+          (, ,))))
+    (NP (JJ friendly) (NN service))))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN location))
+    (ADVP (RB always))
+    (VP (VBZ has)
+      (NP
+        (NP (JJ friendly) (NN service))
+        (, ,)
+        (NP
+          (ADJP
+            (ADJP (RB very) (JJ clean))
+            (CC and)
+            (ADJP (DT the) (JJS best)))
+          (NNS donuts))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB just))
+    (ADVP (RB recently))
+    (VP (VBD opened)
+      (NP (DT a) (NN kitchen))
+      (ADVP (RB inside))
+      (PP (IN with)
+        (NP
+          (NP (NNP wraps))
+          (, ,)
+          (NP (NNS pizzas))
+          (CC and)
+          (NP (JJR more)))))
+    (. !)))
+
+

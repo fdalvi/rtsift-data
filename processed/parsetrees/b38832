@@ -1,0 +1,276 @@
+(ROOT
+  (NP
+    (NP (JJ Awesome) (NNS prices))
+    (, ,)
+    (NP
+      (NP (JJ fast))
+      (CC &)
+      (NP (NN kind) (NN customer) (NN service)))
+    (. !)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What) (JJR more))
+    (SQ (MD can)
+      (NP (PRP you))
+      (VP (VB ask)
+        (PP (IN for))))
+    (. ?)))
+
+(ROOT
+  (S
+    (S
+      (VP (VB Spent)
+        (SBAR
+          (QP (JJR less) (IN than) (PDT half))
+          (WHNP (WP what))
+          (S
+            (NP (PRP we))
+            (VP (MD would)
+              (VP (VB have)
+                (PP (IN at)
+                  (NP (DT a) (JJ big) (NN box) (NN store)))))))))
+    (: ...)
+    (S
+      (NP (CC &)
+        (NP
+          (NP (DT the) (NNS guys))
+          (PP (IN in)
+            (NP (DT the) (NN dock)))))
+      (ADVP (RB even))
+      (VP (VBD helped)
+        (SBAR
+          (S
+            (NP (PRP us))
+            (VP (VBP fit)
+              (NP (DT the) (CD 150) (NN sq) (NN ft))
+              (PP (IN into)
+                (NP (PRP$ our) (NN Camry))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN As)
+      (NP (DT a) (NN weekend) (NN handyman)))
+    (, ,)
+    (NP (DT this) (NN place))
+    (VP (VBZ is)
+      (ADVP (RB definitely))
+      (VP (VBG getting)
+        (S
+          (VP (VBN added)
+            (PP (TO to)
+              (NP (PRP$ my) (JJ preferred) (NNS suppliers) (NN list)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have)
+      (VP (VBN been)
+        (NP
+          (NP (DT a) (NN contractor))
+          (PP (IN for)
+            (NP
+              (NP (CD 2) (NNS years))
+              (PP (IN in)
+                (NP (DT the) (NN valley))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP have)
+        (VP (VBN bought)
+          (NP (NN turf))
+          (PP (IN from)
+            (NP
+              (NP (DT a) (NN variety))
+              (PP (IN of)
+                (NP (NNS vendors))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT these) (NNS guys))
+      (VP (VBP have)
+        (NP
+          (NP (DT the) (JJS best) (NN selection) (NNS hands))
+          (ADVP (IN down)))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (RB Not) (RB just) (NN turf))
+    (, ,)
+    (CC but)
+    (NP
+      (NP (JJ infill) (NNS choices))
+      (ADVP (RB as) (RB well)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJS best) (NN part))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP have)
+      (NP
+        (NP (NN everything))
+        (PP (IN in)
+          (NP (NN stock)))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP No))
+    (VP (VBG waiting)
+      (NP
+        (NP (NNS days)
+          (CONJP (IN if) (RB not))
+          (NNS weeks))
+        (PP (IN for)
+          (NP (NN turf))))
+      (ADVP (RB anymore)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB highly))
+    (VP (VBP recommend)
+      (NP (DT this) (NN company)))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (NNP Way))
+    (NP
+      (NP (JJR better) (NNS prices))
+      (PP (IN than)
+        (NP (DT the) (NN home))))
+    (NP
+      (NP (NN improvement) (NNS stores))
+      (CC and)
+      (NP (JJ friendly)))
+    (, ,)
+    (NP (NN knowledgable))
+    (, ,)
+    (NP
+      (NP (NN advice))
+      (PP (IN for)
+        (NP
+          (NP (NNP DIYers))
+          (PP (IN like)
+            (NP (PRP me))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP 've)
+      (VP (VBN got)
+        (NP
+          (NP (NN everything))
+          (SBAR
+            (S
+              (NP (PRP you))
+              (VP (VBP need)
+                (SBAR (IN for)
+                  (S
+                    (NP (PRP$ your) (NN turf))
+                    (VP (VBP install))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Highly))
+    (VP (VBD recommended))
+    (: ...)))
+
+
+(ROOT
+  (FRAG
+    (WHNP (WDT What))
+    (PP (FW a)
+      (NP (JJ great) (NN place)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Nice)
+      (NP
+        (NP (NN showroom))
+        (CC and)
+        (NP
+          (NP (DT a) (NN warehouse))
+          (PP (JJ full) (IN of)
+            (NP (NN product))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB just))
+    (VP (VBD got)
+      (SBAR
+        (S
+          (NP (DT a) (NN puppy))
+          (ADVP (RB so))
+          (VP (VBD wanted)
+            (NP (DT a) (JJR smaller) (NN piece))
+            (S
+              (VP (TO to)
+                (VP (VB put)
+                  (PP (IN on)
+                    (NP (PRP$ my) (NN sideyard))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP
+        (NP (JJ remnant) (NNS pieces))
+        (SBAR (IN that)
+          (S
+            (NP (PRP they))
+            (VP (MD will)
+              (VP (VB sell)
+                (NP (PRP you))
+                (PP (IN at)
+                  (NP (DT a) (JJ great) (NN discount)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Walked)
+      (PRT (RP out))
+      (PP (IN of)
+        (NP (RB there)))
+      (PP (IN with)
+        (NP
+          (NP (DT a) (JJ prefect) (JJ small) (NN piece))
+          (PP (IN for)
+            (NP (CD 25) (NNS bucks))))))
+    (. .)))
+
+(ROOT
+  (NP (NNP Thanks) (NNP !!)))
+
+(ROOT
+  (S
+    (NP
+      (NP (CD Three))
+      (PP (IN of)
+        (NP (PRP$ my) (NNS coworkers))))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBG showing)
+          (PRT (RP up))
+          (NP (NN tomorrow)))))
+    (. .)))
+
+

@@ -1,0 +1,214 @@
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP (DT a) (JJ fast) (NN food) (NN resturaunt)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN fact))
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (NN order))
+            (VP (VBG taking)
+              (NP (NN process))))
+          (VP (VBZ is)
+            (ADJP (JJ confusing))))))
+    (VP
+      (VP (VBZ is) (RB not)
+        (NP
+          (NP (DT the) (NN fault))
+          (PP (IN of)
+            (NP (DT the) (NN store)))))
+      (, ,)
+      (CC but)
+      (VP
+        (PP (IN of)
+          (NP (DT the) (NN corporation)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Maybe))
+    (NP
+      (NP (PRP they))
+      (SBAR
+        (S
+          (VP (MD could)
+            (VP (VB fix)
+              (NP (DT that) (NN ???)))))))))
+
+(ROOT
+  (S
+    (ADVP (RB Otherwise))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBD did)
+      (SBAR
+        (S
+          (NP
+            (NP (DT a) (JJ good) (NN job))
+            (, ,)
+            (VP (VBN got)
+              (NP (PRP$ our) (NN order) (NN right)))
+            (, ,))
+          (VP (VBD served)
+            (PP (IN in)
+              (NP (DT a) (JJ good) (NN time)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VBN Dropped)
+      (PP (IN by)
+        (PP (IN at)
+          (NP (NNP 12:01) (NNP AM)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Received) (NN product))
+      (PP (IN at)
+        (NP (CD 12:10))))
+    (VP (VBZ AM))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Burger))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (RB barely) (JJ warm))
+        (CC and)
+        (ADJP (RB very) (JJ dry))))
+    (. .)))
+
+(ROOT
+  (FRAG (RB So)
+    (ADJP (JJ much)
+      (PP (IN for) (`` ``)
+        (NP (NN hot-and-juicy))
+        ('' '')))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN person))
+      (PP (IN at)
+        (NP (DT the) (NN window))))
+    (VP (VBD asked)
+      (NP (PRP me))
+      (SBAR (IN if)
+        (S
+          (NP (PRP I))
+          (VP (VBD wanted)
+            (NP (DT a) (NN receipt))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD bet)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBD were)
+            (VP (VBG hoping)
+              (SBAR
+                (S
+                  (NP (PRP I))
+                  (VP (MD would)
+                    (VP (VB say)
+                      (INTJ (UH no)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN evidence))
+      (PP (IN of)
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP I))
+            (VP (VBD placed)
+              (NP (DT the) (NN order)))))))
+    (VP (VBD was)
+      (ADVP (RB there)))
+    (. .)))
+
+(ROOT
+  (SQ (MD Does) (RB n't)
+    (NP (NN everyone))
+    (VP (VB get)
+      (NP (DT a) (NN receipt))
+      (PP (IN without)
+        (S
+          (VP (VBG asking)))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (X (WP What))
+    (NP (DT a) (NN joke) (. .))))
+
+(ROOT
+  (S
+    (NP (DT This) (NN franchise))
+    (VP (MD should)
+      (VP (VB be)
+        (VP (VBN closed)
+          (NP (NNP ASAP)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD contacted)
+      (NP
+        (NP (NNP Wendy) (POS 's))
+        (JJ corporate)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP are)
+      (VP (VBG gon)
+        (S
+          (VP (TO na)
+            (VP (VB take)
+              (NP (PRP$ your) (NN store))
+              (ADVP (RB away) (RB soon))
+              (ADVP (RB :-RRB-)))))))))
+
+
+(ROOT
+  (FRAG
+    (ADJP (RB Very) (JJ friendly))
+    (SBAR (IN while)
+      (S
+        (VP (VBG taking)
+          (NP (PRP$ my) (NN order))
+          (PP (IN at)
+            (NP (DT the) (NN drive) (IN through))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Food))
+    (VP (VBZ is)
+      (ADVP (RB always))
+      (ADJP (JJ hot)))
+    (. .)))
+
+(ROOT
+  (INTJ (JJ Good) (NN store) (. .)))
+
+

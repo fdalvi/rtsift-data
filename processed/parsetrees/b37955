@@ -1,0 +1,120 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD stopped)
+      (PRT (RP in))
+      (S
+        (VP (TO to)
+          (VP (VB train)
+            (NP (NN while))
+            (PP (IN on)
+              (NP (NN vacation)))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP
+      (NP (JJ Great) (NN class))
+      (CC and)
+      (NP (VBG rolling)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD will)
+      (VP (VB come)
+        (PRT (RP back))
+        (NP
+          (NP (DT the) (JJ next) (NN time))
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (VBP pass)
+                (PP (IN through)
+                  (NP (NNP Arizona)))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (JJS Best))
+    (VP (VBP gym)
+      (PP (IN in)
+        (NP (NN town))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Great) (NNS people))
+    (, ,)
+    (NP (JJ great) (NNS professors))
+    (. !)))
+
+
+(ROOT
+  (SINV
+    (ADVP (RB Just))
+    (VP (VBD started)
+      (NP (NN training))
+      (ADVP (RB here)))
+    (NP
+      (NP (DT a) (JJ few) (NNS weeks))
+      (SBAR
+        (S
+          (S
+            (FRAG
+              (ADVP (RB ago) (. .))
+              (. .))
+            (NP (NN Everyone))
+            (VP (VBZ is)
+              (ADJP (RB very) (JJ helpful))))
+          (CC and)
+          (S
+            (NP (NN instructor))
+            (ADJP (RB very) (JJ thorough))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNS Lots))
+    (PP (IN of)
+      (NP (NN room)))
+    (S
+      (VP (TO to)
+        (VP (VB roll)
+          (PRT (RP around))
+          (PP (IN in)
+            (NP (DT this) (NN gym))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP (JJ Happy)
+      (S
+        (VP (TO to)
+          (VP
+            (VP (VB be)
+              (NP (DT a) (NN student))
+              (ADVP (RB here)))
+            (CC and)
+            (ADVP (RB definitely))
+            (VP (VB recommend)
+              (NP (DT this) (NN place))
+              (PP (TO to)
+                (NP
+                  (NP (DT the) (NN experienced/unexperienced))
+                  (CC or)
+                  (NP
+                    (NP (DT those))
+                    (VP (VBG looking)
+                      (PP (IN for)
+                        (NP (NN something) (JJ new)))
+                      (S
+                        (VP (TO to)
+                          (VP (VB get)
+                            (PP (IN into)))))))))))))
+      (. .))
+    (. .)))
+
+

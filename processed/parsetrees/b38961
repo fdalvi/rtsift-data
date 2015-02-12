@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (NP (DT The) (NN pharmacist))
+    (VP (VBD was)
+      (NP
+        (NP (JJ super) (NN knowledgable))
+        (PP (IN about)
+          (NP
+            (SBAR
+              (WHNP (WP what))
+              (S
+                (VP (VBZ is)
+                  (VP (VBG happening)
+                    (PP (IN in)
+                      (NP (DT the) (NN market) (NN place)))))))
+            (CC and)
+            (SBAR
+              (WHNP (WP what))
+              (S
+                (VP (VBZ is)
+                  (ADJP (JJ available)
+                    (NP (CD !!!))))))))))))
+
+
+(ROOT
+  (FRAG
+    (ADJP (RB Extremely) (JJ disorganized)
+      (CC and)
+      (JJ unprofessional))
+    (S
+      (VP (VB place)))
+    (. !)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP have)
+          (NP (NN time)
+            (S
+              (VP (TO to)
+                (VP (VB waste)
+                  (NP (DT this)))))))))
+    (VP (VBZ is)
+      (NP (PRP$ your) (NN place)))
+    (. .)))
+
+

@@ -1,0 +1,323 @@
+(ROOT
+  (S
+    (ADVP (RB Poof))
+    (, ,)
+    (NP (PRP you))
+    (VP (VBP 're)
+      (NP (NN chicken)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Snap) (NNP snap))
+    (, ,)
+    (ADVP (RB now))
+    (NP (PRP you))
+    (VP (VBP 're)
+      (NP (DT a) (NN duck)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Clap))
+    (VP (VBD clap)
+      (SBAR
+        (S
+          (NP (PRP you))
+          (VP (VBP 're)
+            (NP (DT a) (NN horse))))))
+    (. .)))
+
+(ROOT
+  (NP (CD Funny) (RB right) (. ?)))
+
+(ROOT
+  (S
+    (NP (NNP Luke))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (JJR more))
+        (PP (IN than)
+          (NP
+            (NP (DT that))
+            (, ,)
+            (NP
+              (NP (DT a) (NN cure))
+              (PP (IN for)
+                (NP (NNS phobias)
+                  (CC and)
+                  (NNS habits)))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBP need)
+                    (S
+                      (VP (TO to)
+                        (VP (VB be)
+                          (VP (VBN broken)))))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (ADVP (RB then))
+    (NP (PRP he))
+    (VP (MD can)
+      (VP (VB show)
+        (NP (PRP you))
+        (SBAR
+          (WHADVP (WRB how))
+          (S
+            (NP (PRP he))
+            (VP (VBD bends)
+              (NP (DT a) (NN quarter))
+              (PP (IN with)
+                (NP (PRP$ his) (NN mind))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBZ has)
+      (NP
+        (NP (DT a) (JJ great) (JJ magic) (NN gift))
+        (PP (IN for)
+          (NP
+            (NP (NN close-up))
+            (CC or)
+            (NP (RB even) (DT a) (JJ big) (NN group))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (VP
+          (VP (VB Call)
+            (NP (PRP him)))
+          (, ,)
+          (VP (VB wait)
+            (NP (PRP he))
+            (ADVP (RB already)))))
+      (VP (VBZ knows)
+        (SBAR
+          (S
+            (NP (PRP you))
+            (VP (VBP 're)
+              (VP (VBG going)
+                (S
+                  (VP (TO to)
+                    (VP (VB call))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT this) (NNP Yelp) (NN filter))
+      (VP (VBZ makes)
+        (S
+          (NP (PRP it))
+          (ADJP (JJ hard)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have)
+      (VP (VBN contracted)
+        (S
+          (NP (NNP Luke))
+          (VP (TO to)
+            (VP (VB perform)
+              (S
+                (VP (VBG strolling)
+                  (NP (NN magic))
+                  (PP (IN at)
+                    (NP (JJ several) (NNS events)))))
+              (SBAR (IN that)
+                (S
+                  (NP (PRP I))
+                  (VP (VBP have)
+                    (VP (VBD catered))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBZ is)
+      (ADJP (JJ brilliant)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Later))
+    (PP (IN in)
+      (NP (DT the) (NN evening)))
+    (NP (PRP he))
+    (VP (MD can)
+      (VP (VB hypnotize)
+        (ADJP (JJ willing)
+          (SBAR
+            (S
+              (VP (VBZ participates)
+                (PP (IN on)
+                  (NP (DT the) (NN spot)))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NN addition)))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBZ is)
+      (NP
+        (ADJP (JJ dedicated)
+          (CC and)
+          (JJ passionate))
+        (NN hypnotherapist)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP know)
+          (NP
+            (NP (NN anyone))
+            (VP (VBG struggling)
+              (S
+                (VP (TO to)
+                  (VP (VB quit)
+                    (NP (NN smoking))))))))))
+    (, ,)
+    (VP (VB lose)
+      (NP
+        (NP (NN weight))
+        (, ,)
+        (VP (VB stop)
+          (NP
+            (NP (DT a) (NN habit))
+            (PP (JJ such) (IN as)
+              (S
+                (VP (VBG biting)
+                  (NP (PRP$ their) (NNS fingernails)))))))
+        (, ,)
+        (CC or)
+        (ADVP (RB even))
+        (NP
+          (NP (DT a) (NN person))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBZ wants)
+                (S
+                  (VP (TO to)
+                    (VP
+                      (VP (VB be)
+                        (NP (DT a) (JJR better) (NN golfer)))
+                      (: ...)
+                      (VP (VB have)
+                        (S
+                          (NP (PRP them))
+                          (VP (VB call)
+                            (NP (NNP Luke))))))))))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (ADVP (RB recently))
+      (VP (VBD booked)
+        (S
+          (NP (NNP Luke))
+          (VP (TO to)
+            (VP (VB come)
+              (VP (VB perform)
+                (PP (IN at)
+                  (NP
+                    (NP (CD one))
+                    (PP (IN of)
+                      (NP (PRP$ our) (NN work) (NNS functions)))))))))))
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP (VBD was)
+        (NP (PDT such) (DT a) (JJ big) (NN hit))
+        (SBAR (IN that)
+          (S
+            (NP (PRP we))
+            (VP (VBD brought)
+              (NP (PRP him))
+              (ADVP (RB back))
+              (NP (DT the) (JJ following) (NN week))
+              (PP (IN for)
+                (NP (DT another) (NN event))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Luke))
+    (VP (VBD began)
+      (ADJP (JJ entertaining)
+        (SBAR
+          (S
+            (NP (PRP$ our) (NNS guests))
+            (NP (DT the) (NN moment))
+            (NP (PRP he))
+            (VP (VBD entered)
+              (NP (DT the) (NN door))
+              (PP (IN without)
+                (NP (DT any) (NN direction)
+                  (CC or)
+                  (NN introduction))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ His) (JJ friendly) (NN demeanor))
+      (CC and)
+      (NP (JJ natural) (NN charm)))
+    (VP (VBD added)
+      (NP (DT a) (JJ special) (NN element))
+      (PP (TO to)
+        (NP (PRP$ our) (NN work) (NN event))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP
+      (VP (VBP look)
+        (ADVP (RB forward))
+        (PP (TO to)
+          (S
+            (VP (VBG working)
+              (PP (IN with)
+                (NP
+                  (NP (NNP Luke))
+                  (PP (IN in)
+                    (NP (DT the) (NN future)))))))))
+      (CC and)
+      (VP (MD would)
+        (VP (VB recommend)
+          (NP (PRP him))
+          (PP (TO to)
+            (NP
+              (NP (NN anyone))
+              (SBAR
+                (WHNP (WP who))
+                (S
+                  (VP (VBZ is)
+                    (VP (VBG looking)
+                      (S
+                        (VP (TO to)
+                          (VP (VB add)
+                            (NP (DT an) (JJ unique) (NN entertainer))
+                            (PP (TO to)
+                              (NP (PRP$ their) (NN event)))))))))))))))
+    (. !)))
+
+

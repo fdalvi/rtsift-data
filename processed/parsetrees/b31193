@@ -1,0 +1,45 @@
+(ROOT
+  (FRAG
+    (ADJP (RB Very) (JJ friendly))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Just))
+    (VP (VB like)
+      (NP (DT the) (NNS branches))
+      (ADVP (RB back))
+      (PP (IN in)
+        (NP (NNP Hawaii))))
+    (. .)))
+
+
+(ROOT
+  (SINV
+    (FRAG
+      (SBAR (IN While)
+        (FRAG
+          (PP (IN on)
+            (NP (NN vacation))))))
+    (, ,)
+    (VP (VBD went)
+      (PRT (RP in))
+      (S
+        (VP (TO to)
+          (VP (VB get)))))
+    (NP (DT some) (NN cash))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Nice))
+    (, ,)
+    (NP
+      (NP (JJ clean) (NN location))
+      (, ,)
+      (NP (NN staff)))
+    (VP (VBD were)
+      (ADJP (RB very) (JJ friendly)))
+    (. .)))
+
+

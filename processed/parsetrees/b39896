@@ -1,0 +1,144 @@
+(ROOT
+  (NP
+    (NP (JJ Lovely) (NN pub))
+    (PP (IN in)
+      (NP
+        (NP (DT a) (JJ beautiful) (NN setting))
+        (PP (IN on)
+          (NP
+            (NP (DT the) (NN side))
+            (PP (IN of)
+              (NP (DT the) (NNP Water)))))))
+    (PP (IN of)
+      (NP (NNP Leith)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBG Relaxing)
+      (NP
+        (NP (NN atmosphere))
+        (CC and)
+        (NP (DT a) (JJ good) (NN menu)))
+      (ADVP (RB too)))
+    (. .)))
+
+(ROOT
+  (NP (FW Smart) (. .)))
+
+
+(ROOT
+  (NP
+    (NP (NNP Friendly))
+    (, ,)
+    (NP (JJ helpful) (NN staff))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBD were)
+        (NP
+          (NP (CD 1))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (CD 10) (NNS pubs))
+              (PP (IN on)
+                (NP
+                  (NP (DT a) (NN pubcrawl))
+                  (PP (IN from)
+                    (NP
+                      (NP (NNP World) (POS 's))
+                      (NNP End) (NNP Pub))))))))
+        (PP (IN on)
+          (NP (DT the) (NNP Royal) (NNP Mile)))))
+    (, ,)
+    (CC and)
+    (S
+      (S
+        (VP (VBG coming)
+          (NP (PDT all) (DT the) (NN way))
+          (PRT (RP out))
+          (PP (TO to)
+            (NP (NNP Leith)))))
+      (VP (VBD seemed)
+        (SBAR
+          (ADVP
+            (NP (DT a) (RB bit))
+            (RB much))
+          (IN so)
+          (S
+            (NP (PRP I))
+            (VP (MD could)
+              (VP (VB get)
+                (NP
+                  (NP (DT a) (NN stamp))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (MD would)
+                        (VP (VB lead)
+                          (PP (TO to)
+                            (NP (DT a) (NN T-shirt))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Nonetheless))
+    (, ,)
+    (NP (DT The) (NNP Waterline))
+    (VP (VBZ is)
+      (NP (DT a) (JJ cozy) (, ,) (JJ warm) (NN place))
+      (, ,)
+      (S
+        (VP (VBG combining)
+          (NP (DT a) (JJ modern) (NN feel))
+          (PP (IN with)
+            (NP
+              (NP (DT an) (JJ ancient) (NN building))
+              (PP (IN with)
+                (NP
+                  (NP (NNS lots))
+                  (PP (IN of)
+                    (NP (NN light)))))))
+          (PP (IN in)
+            (NP
+              (NP (DT the) (NN front)
+                (CC and)
+                (JJ brown) (NN wood) (NN interior))
+              (PP (IN in)
+                (NP (DT the) (NN back))))))))
+    (. .)))
+
+(ROOT
+  (SINV (RB Also)
+    (VP (VBP love))
+    (NP
+      (NP (DT the) (NNP Biergarten))
+      (, ,)
+      (NP (DT a) (NNP la) (NNP Germany)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Ale) (NN selection))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (JJR less))
+        (SBAR (IN than)
+          (S
+            (NP (PRP I))
+            (VP (VBD 'd)
+              (VP (VBN hoped)
+                (PP (IN for))
+                (, ,)
+                (SBAR (IN though)
+                  (S
+                    (NP (PRP they))
+                    (VP (VBD did)
+                      (VP (VB have)
+                        (NP (JJ good) (JJ Scottish) (NN ale))))))))))))
+    (. .)))
+
+

@@ -1,0 +1,73 @@
+(ROOT
+  (S
+    (VP (VB Nice)
+      (NP (NN event)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNS Lots))
+    (PP (IN of)
+      (NP (JJ great) (NN craft) (NNS beers)))
+    (PP (IN from)
+      (ADVP (RB out)))
+    (PP (IN of)
+      (NP (NN state)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (JJ fine) (NN addition))
+      (PP (TO to)
+        (NP
+          (NP (DT the) (NN bevy))
+          (PP (IN of)
+            (NP (NN alcohol))))))
+    (VP (VBD related)
+      (NP
+        (NP (NNS festivals))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBP make)
+              (S
+                (NP
+                  (NP (NNP Old) (NNP Town) (NNP Scottsdale))
+                  (PP (JJ such)
+                    (NP (DT a) (JJ great) (NN place))))
+                (VP (TO to)
+                  (VP (VB be)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN one))
+    (VP
+      (VP (VBZ is)
+        (ADJP (JJ new)))
+      (CC and)
+      (VP (MD will)
+        (ADVP (RB surely))
+        (VP (VB get)
+          (S
+            (ADJP (JJR bigger)
+              (CC and)
+              (JJR better))
+            (NP (DT each) (NN year))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VB Awesome))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (NP (NN Best) (NN day))
+    (ADVP (RB ever))
+    (. !)))
+
+

@@ -1,0 +1,179 @@
+(ROOT
+  (S
+    (NP (NNP Kavabean) (NNPS Commons))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ great) (JJ little) (NN cafe/restaurant))
+        (PP (IN in)
+          (NP (NNP Downtown) (NNP Kitchener)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN With)
+      (NP (JJ friendly) (NN service)
+        (CC and)
+        (NN tasty) (NNS beverages)))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (NP
+        (NP (DT a) (JJ welcome) (NN treat))
+        (PP (IN for)
+          (NP
+            (NP (DT those) (NNS times))
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP I) (DT an))
+                (PP (IN in)
+                  (NP
+                    (NP (NNP Downtown) (NNP Kitchener))
+                    (PP (IN near)
+                      (NP
+                        (NP (DT the) (NNP Charles) (NNP Street) (NNP Terminal))
+                        (PP (IN for)
+                          (NP (NNP Grand) (NNP River) (NNP Transit)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Fans))
+      (PP (IN of)
+        (NP (DT the) (NNP A.) (NNP L.) (NNP Van) (NNP Houtte) (NN coffee))))
+    (VP (MD will)
+      (VP (VB be)
+        (ADJP (JJ happy)
+          (S
+            (VP (TO to)
+              (VP (VB know)
+                (SBAR (IN that)
+                  (S
+                    (NP (PRP it))
+                    (VP (VBZ is)
+                      (ADVP (RB proudly))
+                      (VP (VBN served)
+                        (ADVP (RB here))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Normally))
+      (S
+        (NP (PRP I))
+        (ADVP (RB just))
+        (VP (VBP get)
+          (NP (PRP$ my) (NN coffee)
+            (S
+              (VP (TO to)
+                (VP (VB go)))))))
+      (: ...)
+      (CC but)
+      (S
+        (NP (NN coffee))
+        (VP (VBZ is) (RB n't)
+          (NP
+            (NP (DT all))
+            (SBAR
+              (S
+                (NP (EX there))
+                (VP (VBZ is)
+                  (PP (TO to)
+                    (NP (NNP Kavabean) (NNPS Commons))))))))))
+    (, ,)
+    (NP (EX there))
+    (VP (VBZ 's)
+      (ADVP (RB also))
+      (NP (JJ great) (NN breakfast) (, ,) (NN snacks)
+        (CC and)
+        (NN lunch) (NNS specials))
+      (PP (IN for)
+        (NP
+          (NP (DT those))
+          (VP (VBG looking)
+            (PP (IN for)
+              (NP
+                (ADJP (RBR more) (IN than) (JJ liquid))
+                (NN refreshment)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB Halfway))
+      (IN in) (IN between)
+      (NP
+        (NP (PRP$ your) (JJ local) (JJ greasy) (NN spoon))
+        (CC and)
+        (NP (NNP Starbuck))))
+    (, ,)
+    (NP (NNP Kavabean))
+    (VP (VBZ offers)
+      (NP (JJ great) (NNS breakfasts))
+      (PP (IN with)
+        (PP
+          (ADVP
+            (NP (DT an) (NN ambiance))
+            (RBR closer))
+          (TO to)
+          (NP (DT a) (JJ higher-end) (NN coffee) (NN shop)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Service))
+      (VP (VBZ is)
+        (ADJP (JJ quick))))
+    (PRN (, ,)
+      (S
+        (NP (DT the) (NN seating))
+        (VP (VBZ is)
+          (ADJP (JJ clean)
+            (CC and)
+            (JJ comfortable))))
+      (, ,))
+    (CC and)
+    (S
+      (NP (DT the) (NNS windows))
+      (VP (VBP let)
+        (PP (IN in)
+          (NP
+            (NP (NNS lots))
+            (PP (IN of)
+              (NP (NN light)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VP (VB Go)
+        (PP (IN for)
+          (NP
+            (NP (NN tea))
+            (, ,)
+            (NP
+              (NP (NN coffee))
+              (, ,)
+              (NP (JJ light) (NN lunch))
+              (CC or)
+              (NP (NN breakfast)))
+            (, ,))))
+      (CC but)
+      (VP (VB avoid)
+        (SBAR (IN if)
+          (S
+            (NP (PRP you))
+            (VP (VBP 're)
+              (VP (VBG looking)
+                (PP (IN for)
+                  (NP
+                    (NP (NN something) (NN fancy))
+                    (CC or)
+                    (NP (JJ real) (JJ sit-down) (NN service))))))))))
+    (. .)))
+
+

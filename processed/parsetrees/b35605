@@ -1,0 +1,76 @@
+(ROOT
+  (FRAG
+    (ADJP (RB So) (JJ happy))
+    (S
+      (VP (TO to)
+        (VP (VB find)
+          (NP (NNP Kim) (POS 's))
+          (PP (IN after)
+            (NP
+              (NP (DT a) (JJ bad) (NN experience))
+              (PP (IN with)
+                (NP (NNP CVS))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Keith))
+    (VP (VBZ is)
+      (ADJP (RB very) (JJ helpful)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP (JJ nice)
+        (S
+          (VP (TO to)
+            (VP (VB work)
+              (PP (IN with)
+                (NP
+                  (NP (DT a) (NN pharmacist))
+                  (SBAR
+                    (WHNP (WP who))
+                    (S
+                      (VP (VBZ is)
+                        (ADJP (JJ knowledgeable)
+                          (CC and)
+                          (JJ caring))))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Kim) (POS 's))
+      (NN pharmacy))
+    (VP (VBZ offers)
+      (NP (JJ fast) (JJ friendly) (NN service)))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (JJS Best) (NN part))
+      (VP (VBZ is)
+        (SBAR (IN that)
+          (S
+            (NP (PRP$ your) (NNS prescriptions))
+            (VP (VBP are)
+              (VP (VBN filled)
+                (S
+                  (ADJP (RB very) (JJ quick)))))))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBP are)
+        (ADVP (RB always))
+        (PP (IN in)
+          (NP
+            (NP (NN stock))
+            (PP (IN for)
+              (NP (PRP$ your) (NNS medications)))))))
+    (. .)))
+
+

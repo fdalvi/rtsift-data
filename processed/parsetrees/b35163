@@ -1,0 +1,184 @@
+(ROOT
+  (S
+    (NP (JJ Great) (NN breakfast))
+    (VP (VBZ burrito))
+    (. .)))
+
+(ROOT
+  (NP
+    (ADJP
+      (ADJP (RB Very) (JJ friendly))
+      (CC and)
+      (ADJP (RB not) (JJ shy)
+        (PP (IN on)
+          (NP (DT the) (JJ serving) (NN size)))))
+    (NNPS !!)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN tortilla))
+      (VP (VBZ is)
+        (ADJP (JJ soft)
+          (CC and)
+          (JJ flavorful))))
+    (CC and)
+    (S
+      (NP (DT the) (NN bacon))
+      (VP (VBZ is)
+        (ADJP (JJ nice)
+          (CC and)
+          (JJ thick))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD could) (RB n't)
+      (ADVP (RB even))
+      (VP (VB eat)
+        (NP
+          (NP (NN half))
+          (PP (IN of)
+            (NP (PRP it))))
+        (SBAR (IN so)
+          (S
+            (NP (PRP I))
+            (VP (VBP 'm)
+              (VP (VBG looking)
+                (ADVP (RB forward))
+                (PP (TO to)
+                  (NP (JJ leftovers) (NN tomorrow)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB just))
+    (VP (VBP wish)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBD gave)
+            (NP (PRP you))
+            (NP (JJR more) (NN salsa))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBD ordered)
+        (NP (CD two) (NNS combos))))
+    (: ...)
+    (S
+      (NP (JJ tthe) (JJ refried) (NNS beans))
+      (VP (VBD were)
+        (ADJP
+          (NP (DT a) (RB bit))
+          (JJ watery-other))
+        (SBAR (IN than) (IN that)
+          (S
+            (NP (PRP it))
+            (VP (VBD was)
+              (ADJP (RB pretty) (JJ average)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN rice))
+    (VP (VBD was)
+      (ADJP (RB pretty) (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS meals))
+    (VP (VBD were)
+      (PP (IN under)
+        (NP
+          (NP ($ $) (CD 15.00))
+          (PP (IN for)
+            (NP (CD two) (NNS people))))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (DT The) (JJS Best))
+    (NP
+      (NP (NNP Street) (NNP Side) (NNP Tacos))
+      (PP (IN in)
+        (NP (NNP Phoenix))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 've)
+        (VP (VBN been)
+          (VP (VBG searching)
+            (PP (IN for)
+              (NP
+                (NP (JJ real) (NNS tacos))
+                (PP (IN in)
+                  (NP (NNP Phoenix)))))
+            (PP (IN for)
+              (NP (NNS years)))))))
+    (CC and)
+    (S
+      (NP (DT this) (NN place))
+      (VP (VBZ has)
+        (NP (PRP them))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Cabeza))
+      (, ,)
+      (NP (NN lengua))
+      (, ,)
+      (NP (NN carne))
+      (, ,)
+      (NP (NN pastor))
+      (CC and)
+      (NP (RB there)))
+    (VP
+      (VP (VBD served)
+        (PRT (RP up))
+        (PP (IN with)
+          (NP (JJ grilled) (NNS jalepenos))))
+      (CC and)
+      (VP (VBZ onions)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Everything))
+    (VP (VBZ is)
+      (ADJP (JJ great)
+        (SBAR
+          (S
+            (NP
+              (NP (PRP$ their) (NNS tortas))
+              (, ,)
+              (NP
+                (NP (NNS beans))
+                (, ,)
+                (NP (NN rice)))
+              (, ,))
+            (VP (VBP ceviche))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS flavors))
+    (VP (VBP are)
+      (NP (NN spot))
+      (PP (IN on)))
+    (. .)))
+
+

@@ -1,0 +1,168 @@
+(ROOT
+  (SINV
+    (VP (VBD Did))
+    (NP
+      (NP (DT an) (JJ awesome) (NN job))
+      (PP (IN on)
+        (NP (PRP$ my) (NN garage) (NNS cabinets))))))
+
+
+(ROOT
+  (S
+    (VP (VBD Did)
+      (NP (DT an) (JJ awesome) (NN job))
+      (PP (IN on)
+        (NP (PRP$ our) (NN garage) (NNS cabinets))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP He))
+      (VP (VBD kept)
+        (NP (PRP$ his) (NN word))
+        (PP (IN with)
+          (NP (NN everything)))))
+    (NP (PRP he))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (MD would)
+            (VP (VB do))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Cabinets) (NN look))
+      (ADJP
+        (ADJP (JJ great))
+        (CC and)
+        (ADJP (RB very) (JJ professional))
+        (: -)))
+    (VP (MD would)
+      (VP (VB recommend)
+        (NP (PRP him))
+        (PP (TO to)
+          (NP
+            (NP (DT any))
+            (PP (IN of)
+              (NP (PRP$ our) (NNS friends)
+                (CC or)
+                (NN family)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD did)
+      (NP
+        (NP (DT the) (JJ upper))
+        (CC and)
+        (NP (JJR lower) (NNS cabinets))
+        (, ,)
+        (NP (NN workbench))
+        (, ,)
+        (NP (NN tool) (NN wall))
+        (, ,)
+        (CC and)
+        (NP (JJ overhead) (NN storage) (NN rack))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NN Best) (NN garage))
+    (PP (IN in)
+      (NP (DT the) (NN neighborhood)))
+    (. .)))
+
+(ROOT
+  (NP (NNP Thanks) (NNP David) (. !)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Garage) (NNP Cabinets))
+      (CC and)
+      (NP (NN workbench)))
+    (VP (VBP are)
+      (ADJP (JJ awesome)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Also))
+    (NP (PRP he))
+    (VP (VBZ coated)
+      (NP (PRP$ our) (NNS floors)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP
+      (VP
+        (ADVP (RB also))
+        (VBD turned)
+        (ADJP (IN out) (RB very) (JJ nice)))
+      (CC and)
+      (VP (VBZ looks)
+        (S
+          (VP (TO to)
+            (VP (VB last)
+              (SBAR
+                (S
+                  (NP (DT a) (NN lifetime) (NN Work))
+                  (VP (VBD was)
+                    (VP (VBN done)
+                      (PP (IN in)
+                        (NP (DT a) (JJ timely) (NN manner))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Communication))
+    (VP (VBD was)
+      (ADJP (RB very) (JJ good))
+      (ADVP (RB also)))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (JJ Great) (NN job))
+    (PP (IN on)
+      (NP (PRP$ our) (JJ epoxy) (NN floor) (NN coating)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Great))
+    (NP (NN price)
+      (CC and)
+      (NN customer) (NN service))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Amazing) (NN job))
+    (PP (IN on)
+      (NP
+        (NP (NN garage) (NNS cabinets))
+        (CC and)
+        (NP (NN work) (NN bench))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Transformed)
+      (NP (PRP$ my) (NN garage))
+      (PP (IN into)
+        (NP (DT an) (VBN organized)
+          (ADJP (JJ functional))
+          (NN space))))
+    (. !)))
+
+

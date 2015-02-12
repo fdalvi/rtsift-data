@@ -1,0 +1,84 @@
+(ROOT
+  (S
+    (NP (NNP Great))
+    (VP (VBP place)
+      (S
+        (VP (TO to)
+          (VP (VB get)
+            (NP (DT some)
+              (ADJP (JJ delicious))
+              (JJ Mexican) (NN treats))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Will))
+    (VP (VBP be)
+      (ADVP (RB back) (RB soon))
+      (S
+        (VP (TO to)
+          (VP (VB get)
+            (NP (DT some) (NNS raspados))
+            (PP (IN during)
+              (NP (DT this) (JJ hot) (NN weather)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VB Awesome))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Coco) (NNP raspado))
+    (VP (VBD was)
+      (ADJP (JJ great)))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Staff))
+      (VP (VBZ is)
+        (ADJP (JJ friendly))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP are)
+      (ADJP (JJ interested)
+        (PP (IN in)
+          (NP (NNS products))))
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NN customer))
+          (VP (VBZ wants)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP have)
+          (NP (DT a) (JJ favorite) (JJ Mexican) (NN snack)))))
+    (, ,)
+    (NP (PRP they))
+    (VP (MD 'll)
+      (VP (VB try)
+        (S
+          (VP (TO to)
+            (VP (VB make)
+              (NP (PRP it))
+              (PP (IN for)
+                (NP (PRP you))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VBG Coming)
+      (ADVP (RB back) (RB soon))
+      (PP (IN for)
+        (NP (DT a) (NN bionico) (NN !!!!))))))
+
+

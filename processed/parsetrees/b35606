@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (S
+      (NP (DT This))
+      (VP (VBZ is)
+        (NP
+          (NP (CD one))
+          (PP (IN of)
+            (NP (DT the) (JJS best) (NNS places)))
+          (S
+            (VP (TO to)
+              (VP (VB eat)))))))
+    (: ...)
+    (FRAG
+      (NP (NN Bar) (NN food))
+      (: ...)
+      (NP (NNP Great) (NNP French) (NN onion) (NN soup))
+      (. .))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (JJS best))
+      (ADVP (RB ever))
+      (VP (VBP try)
+        (NP (PRP it))))
+    (: ...)
+    (S
+      (S
+        (VP (VB perogies)
+          (ADVP (RB again) (JJ great)))
+        (: ...))
+      (, ,)
+      (NP (NNS wings))
+      (VP (VBP ok)))
+    (. ...)))
+
+

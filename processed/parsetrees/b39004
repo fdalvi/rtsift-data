@@ -1,0 +1,458 @@
+(ROOT
+  (NP
+    (NP
+      (NP (NNP Fast))
+      (CC and)
+      (NP (JJ friendly) (NN staff)))
+    (. !)))
+
+(ROOT
+  (SINV
+    (ADVP (RB Conveniently))
+    (VP (VBN located)
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN food) (NN court))
+          (PP (IN of)
+            (NP (DT the) (NNP Monte) (NNP Carlo) (NNP Hotel))))))
+    (NP
+      (NP (RB just) (NNS feet))
+      (PP (IN from)
+        (NP (DT the) (NN elevator))))
+    (. .)))
+
+
+(ROOT
+  (FRAG
+    (ADJP (RB Not) (JJ sure))
+    (SBAR (IN if)
+      (S
+        (NP
+          (NP (DT the) (NN review))
+          (PP (IN for)
+            (NP (DT this) (NN place))))
+        (VP (VBZ is)
+          (NP
+            (NP
+              (NP (DT the) (NN casino))
+              (NP (PRP itself)))
+            (CC or)
+            (NP
+              (NP (DT the) (NNPS Starbucks))
+              (PP (IN inside)
+                (NP (DT the) (NN casino))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD did)
+      (VP (VB go)
+        (PP (TO to)
+          (NP (DT both)))
+        (SBAR (IN so)
+          (S
+            (NP (PRP I))
+            (VP (MD can)
+              (VP (VB do)
+                (NP (DT a) (JJ brief) (NN review))
+                (PP (IN on)
+                  (NP
+                    (NP (DT each) (NN one))
+                    (PP (IN for)
+                      (NP
+                        (NP (DT the) (NN sake))
+                        (PP (IN of)
+                          (NP (DT this) (NN place)))))))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NN Casino))
+    (: :)
+    (NP
+      (NP (NNP Plenty))
+      (PP (IN of)
+        (NP
+          (NP
+            (NP (NN roulette) (NNS tables))
+            (CC and)
+            (NP (JJ electronic) (NNS machines)
+              (S
+                (VP (TO to)
+                  (VP (VB play)
+                    (NP (DT the) (NN game))
+                    (PRT (RP on)))))))
+          (, ,)
+          (NP
+            (NP (DT a) (JJ good) (NN amount))
+            (PP (IN of)
+              (NP (NN poker) (NNS tables))))
+          (, ,)
+          (NP (NNS craps))
+          (CC and)
+          (NP
+            (ADJP (RBR more) (IN than) (JJ enough))
+            (NN slot) (NNS machines)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (MD will)
+      (VP (VB have)
+        (S
+          (NP (DT no) (NN trouble) (NN finding) (NN something))
+          (VP (TO to)
+            (VP
+              (VP (VB test)
+                (NP (PRP$ your) (NN luck))
+                (PP (IN in)))
+              (CC and)
+              (VP (VB hope)
+                (S
+                  (VP (TO to)
+                    (VP (VB walk)
+                      (PRT (RP out))
+                      (NP (DT a) (NN winner)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VP (VBP Do) (RB n't)
+        (VP (VB forget)
+          (S
+            (VP (TO to)
+              (VP (VB wash)
+                (NP (PRP$ your) (NNS hands)))))))
+      (CC and/or)
+      (VP (VBP sanitize)
+        (NP (PRP them))
+        (PP (IN after)
+          (NP (NN playing)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Lots))
+      (PP (IN of)
+        (NP (NNS people))))
+    (VP (VB touch)
+      (NP (DT these) (NNS things)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD did) (RB not)
+      (VP (VB find)
+        (NP (DT a) (JJ non-smoking) (NN section))
+        (PP (IN in)
+          (NP (DT the) (NN casino)))
+        (SBAR (IN so)
+          (S
+            (NP (PRP it))
+            (VP (MD might)
+              (VP (VB be)
+                (ADJP
+                  (ADJP (RB fairly) (JJ small))
+                  (CC or)
+                  (ADJP (RB not) (JJ marked)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD did)
+      (VP
+        (VP (VB see)
+          (NP (DT a) (JJ few) (NNS restrooms))
+          (PRN (CC but)
+            (ADVP (RB again))))
+        (, ,)
+        (ADJP (RB not) (RB so) (JJ easy)
+          (S
+            (VP (TO to)
+              (VP (VB find)))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (NNS Starbucks))
+      (PP (IN inside)
+        (NP (DT the) (NNP Monte) (NNP Carlo) (NN casino))))
+    (: :)
+    (S
+      (NP (PRP It))
+      (VP (VBD was)
+        (ADJP (RB pretty) (JJ busy)
+          (PP (IN in)
+            (NP
+              (NP (DT the) (NN middle))
+              (PP (IN of)
+                (NP (DT the) (NN afternoon))))))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP
+              (NP (DT the) (NN husband))
+              (CC and)
+              (NP (PRP I)))
+            (VP (VBD showed)
+              (PRT (RP up)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBD was)
+      (NP
+        (NP (CD one) (NN cashier)
+          (CC and)
+          (CD one) (NN barista) (NNS multi))
+        (VP (VBG tasking))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (MD must)
+      (VP (VB have)
+        (VP (VBN had)
+          (S
+            (NP (PRP$ their) (NNS hands))
+            (ADJP (JJ full)
+              (PP (IN since)
+                (SBAR
+                  (WHADVP (WRB when))
+                  (S
+                    (NP (PRP we))
+                    (VP (VBD arrived)
+                      (SBAR
+                        (S
+                          (NP (PRP I))
+                          (ADVP (RB over))
+                          (VP (VBD heard)
+                            (SBAR
+                              (S
+                                (NP (DT the) (NN cashier))
+                                (VP (VBP tell)
+                                  (NP (DT the) (NN barista))
+                                  (SBAR (IN that)
+                                    (S
+                                      (NP (PRP he))
+                                      (VP (VBD forgot)
+                                        (S
+                                          (VP (TO to)
+                                            (VP (VB brew)
+                                              (NP
+                                                (NP (DT a) (JJ fresh) (NN pot))
+                                                (PP (IN of)
+                                                  (NP (NN coffee))))))))))))))))))))))
+          (SBAR (IN so)
+            (S
+              (NP (PRP he))
+              (VP
+                (VP (VBN excused)
+                  (NP (PRP himself)))
+                (CC and)
+                (VP (VBN made)
+                  (NP (CD one))
+                  (PP (IN for)
+                    (NP
+                      (NP (DT the) (NNS customers))
+                      (SBAR
+                        (WHNP (WDT that))
+                        (S
+                          (VP (VBD had)
+                            (VP (VBN been)
+                              (VP
+                                (ADVP (RB patiently))
+                                (VBG waiting)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Even)
+      (PP (IN with)
+        (NP
+          (NP (DT the) (NN place))
+          (VP (VBG being)
+            (ADJP (JJ busy))))))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBD did) (RB n't)
+      (VP (VB wait)
+        (ADVP (RB too) (RB long))
+        (PP (IN for)
+          (NP
+            (NP (PRP$ our) (NN drink))
+            (CC and)
+            (NP (PRP$ our) (NN cookie))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP (RB just) (JJ alright)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (DT No)
+      (NX
+        (NX (NNS bells))
+        (CC or)
+        (NX (NNS whistles))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP have) (RB n't)
+        (VP (VBN stayed)
+          (ADVP (RB here))
+          (PP (IN in)
+            (NP (NNS years))))))
+    (, ,)
+    (CC and)
+    (S
+      (PP (IN since)
+        (NP (RB then)))
+      (NP (PRP they))
+      (VP (VBP 've)
+        (VP (VBN remodeled))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP (DT the) (NN pub))
+    (VP (VBZ does) (RB n't)
+      (VP (VB brew)
+        (NP (PRP$ their) (JJ own) (NN beer))
+        (ADVP (RB anymore))))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VB Boo))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VB Nice)
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (ADVP (RB still))
+          (VP (VBZ has)
+            (NP
+              (NP (DT a) (NN tram))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBZ connects)
+                    (NP (PRP you))
+                    (PP (TO to)
+                      (NP (NNP Aria) (, ,) (NNP Crystals)
+                        (CC and)
+                        (NNP Bellagio)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Convenient))
+    (, ,)
+    (ADVP (CC but))
+    (VP (VBP wish)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD covered)
+            (NP
+              (NP (DT the) (JJ whole) (NN end))
+              (PP (IN of)
+                (NP
+                  (NP (DT this) (NN side))
+                  (PP (IN of)
+                    (NP (DT the) (NN strip))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNPS Summer))
+      (PP (IN at)
+        (NP
+          (NP (DT the) (NN check))
+          (PP (IN in)
+            (NP (NN desk))))))
+    (VP
+      (VP (VBD was)
+        (ADJP (JJ great)))
+      (: -)
+      (VP (VBD got)
+        (S
+          (NP (PRP us))
+          (NP (DT a) (NN view))))
+      (CC and)
+      (VP (VBD printed)
+        (NP (PRP$ my) (NN gaming) (NNS cards))
+        (PP (IN for)
+          (NP (PRP us)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT The) (NN casino))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (JJ glclean))
+        (CC and)
+        (RB very)
+        (ADJP (NN classy) (VBG looking))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP
+        (NP (DT a) (JJ wide) (NN variety))
+        (PP (IN of)
+          (NP (NNS slots)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN slot) (NNS technicians))
+    (VP (VBP are)
+      (ADVP (RB really))
+      (ADJP (JJ slow)
+        (S
+          (VP (TO to)
+            (VP (VB arrive)
+              (SBAR (IN if)
+                (S
+                  (NP (PRP you))
+                  (VP (MD need)
+                    (VP (VB help))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (ADJP (RBS Most) (JJ other))
+      (NN staff))
+    (VP (VBD were)
+      (ADJP (JJ friendly)))
+    (. .)))
+
+

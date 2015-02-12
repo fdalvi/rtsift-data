@@ -1,0 +1,38 @@
+(ROOT
+  (FRAG
+    (ADVP (RB Very))
+    (NP (JJ poor) (NN service))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Complete) (NNS disregard))
+    (PP (IN for)
+      (NP (NN customer)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP wish)
+      (SBAR
+        (S
+          (NP (PRP we))
+          (VP (VBD had)
+            (ADVP (RB never))
+            (VP
+              (VP (VBN bought)
+                (NP (NN anything))
+                (PP (IN from)
+                  (NP
+                    (NP (NNS sculleries))
+                    (PP (IN of)
+                      (NP (NN stockbridge))))))
+              (CC and)
+              (VP (MD would)
+                (ADVP (RB absolutely))
+                (VP (RB not) (VB recommend)
+                  (NP (PRP them)))))))))
+    (. .)))
+
+

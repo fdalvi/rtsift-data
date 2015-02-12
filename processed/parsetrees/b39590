@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (DT a)
+      (ADJP (RB very) (RB reasonably)))
+    (VP (VBD priced)
+      (NP (JJ varied) (NN cafe))
+      (PP (IN with)
+        (NP (NN plenty) (NN choice)))
+      (PP (IN in)
+        (NP
+          (NP (JJ nice) (NN part))
+          (PP (IN of)
+            (NP (NN town))))))
+    (. .)))
+
+

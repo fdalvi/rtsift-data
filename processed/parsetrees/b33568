@@ -1,0 +1,56 @@
+(ROOT
+  (NP (NNP Typical) (NNP Jimmy) (NNP Johns) (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Great))
+    (VP (VBZ subs))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Fast)
+      (NP (JJ friendly) (NN service)))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (JJ Good) (NN food))
+    (, ,)
+    (NP
+      (NP (JJ good) (NN value))
+      (, ,)
+      (NP (JJ fast) (NN service)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBZ is)
+      (ADJP (RB so) (JJ slow)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Easily))
+    (NP (DT the) (JJS slowest) (NN Jimmy))
+    (VP (VBZ johns)
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBP 've)
+            (ADVP (RB ever))
+            (VP (VBN been)
+              (PP (TO to)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ seems)
+      (ADJP (RB very) (JJ disorganized)))
+    (. .)))
+
+

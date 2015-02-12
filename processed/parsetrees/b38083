@@ -1,0 +1,95 @@
+(ROOT
+  (NP (JJ Friendly) (NN staff) (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Fresh))
+    (VP (VBZ eats))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ
+      (VP (VBZ 's) (RB not)
+        (PP (TO to)
+          (NP (NN love)))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (NNP Nom) (NNP nom))
+    (VP (VBP nom))
+    (. !)))
+
+
+(ROOT
+  (SINV
+    (ADVP (RB Just))
+    (VP (VBD tried))
+    (NP (DT the) (NNP Fritos) (NN enchilada))
+    (S
+      (VP (VB melt)))
+    (. .)))
+
+(ROOT
+  (NP (RB Not) (DT a) (JJ bad) (NN lunch) (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBD Had)
+        (S
+          (VP (TO to)
+            (VP (VB try)
+              (NP (PRP it)))))))
+    (: ...)
+    (S
+      (NP
+        (ADJP (RB Not) (JJ sure))
+        (NN Id))
+      (VP (VBP get)
+        (NP (DT another) (NN one))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ gets)
+      (ADJP
+        (NP (DT a) (RB little))
+        (JJ busy)
+        (PP (IN during)
+          (NP (NN lunch))))
+      (SBAR (IN so)
+        (S
+          (NP (DT the) (NN staff))
+          (ADVP (RB just))
+          (VP (VBZ focuses)
+            (PP (IN on)
+              (S
+                (VP (VBG getting)
+                  (NP (PRP you))
+                  (ADVP (IN in)
+                    (CC and)
+                    (IN out)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (FW i))
+        (VP (VBP eat)
+          (ADVP (RB there)))))
+    (NP (FW i))
+    (VP (MD 'll)
+      (ADVP (RB usually))
+      (VP (VB pick)
+        (NP
+          (NP (DT the) (JJ meatball) (NN marinara))
+          (CC or)
+          (NP (DT the) (JJ buffalo) (NN chicken)))))
+    (. .)))
+
+

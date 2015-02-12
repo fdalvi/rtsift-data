@@ -1,0 +1,84 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP love)
+      (NP (DT this) (NN audiologist)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD got)
+        (SBAR
+          (S
+            (NP (NN custom) (NN ear) (NNS plugs))
+            (VP (VBD made)
+              (PP (IN by)
+                (NP (PRP her))))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (ADVP (RB absolutely))
+      (VP (VBP love)
+        (NP (PRP them))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD wore)
+      (S
+        (NP (PRP them))
+        (VP (TO to)
+          (VP (VB EDC)
+            (S
+              (VP (TO to)
+                (VP
+                  (VP (VB protect)
+                    (NP (PRP$ my) (NNS ears)))
+                  (CC and)
+                  (VP (VB avoid)
+                    (S
+                      (VP (VBG getting)
+                        (NP (VBG ringing))
+                        (PP (IN in)
+                          (NP (PRP$ my) (NNS ears)))
+                        (PP (IN in)
+                          (NP (DT the) (NN future)))))))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP (RB Very) (JJ thorough)
+      (CC and)
+      (JJ efficient))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB recommend)
+        (NP (NN anyone))
+        (S
+          (VP (TO to)
+            (VP (VB go)
+              (VP (VB see)
+                (NP (PRP her))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (ADVP (RB also))
+    (VP (VBZ does)
+      (NP
+        (NP (JJ audio) (NN test))
+        (, ,)
+        (NP (NN balance) (NN test))
+        (CC and)
+        (NP (NN hearing) (NN aid) (NN consultation))))
+    (. .)))
+
+

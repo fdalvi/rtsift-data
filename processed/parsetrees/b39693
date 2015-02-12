@@ -1,0 +1,157 @@
+(ROOT
+  (FRAG
+    (NP (DT Some) (JJ actual) (NN stuff))
+    (S
+      (VP (TO to)
+        (VP (VB buy))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (RB much) (JJR bigger)
+          (PP (IN than)
+            (NP (CD one))))
+        (PP (IN in)
+          (NP (NNP Glendale)))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJR More) (NNS vendors))
+    (NP (JJ nice) (NN place))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Enjoyed)
+      (NP (PRP it))
+      (PP (IN with)
+        (S
+          (NP (PRP$ my) (NN son))
+          (ADVP (RB especially))
+          (VP (VBG getting)
+            (S
+              (NP (PRP him))
+              (NP
+                (NP (JJ Pokemon) (NNS cards))
+                (PP (IN for)
+                  (NP (CD 2) (NNS bucks)))))))))))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBZ is)
+      (ADJP (JJ so-so)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP$ Its))
+      (VP (VBD got)
+        (NP
+          (NP (DT a) (NN lot))
+          (PP (IN of)
+            (NP
+              (NP (NNS booths))
+              (ADJP (RB still) (JJ available)))))))
+    (IN so)
+    (S
+      (ADVP (RB hopefully))
+      (NP (PRP they))
+      (VP (MD 'll)
+        (VP
+          (VP (VB get)
+            (S
+              (NP (PRP them))
+              (VP (VBN filled))))
+          (CC and)
+          (VP (VB be)
+            (ADJP (JJ able)
+              (S
+                (VP (TO to)
+                  (VP (VB offer)
+                    (NP (JJR more) (NNS things))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX there))
+    (VP (VBZ 's)
+      (NP
+        (NP (DT a) (NN variety))
+        (PP (IN of)
+          (NP (NNS things)
+            (S
+              (VP (TO to)
+                (VP (VB choose)
+                  (PP (IN from)
+                    (NP (NN tho)))
+                  (SBAR (IN so)
+                    (S
+                      (VP (VBZ thats)
+                        (NP (DT a) (NN plus))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's)
+        (ADJP (JJ typical))))
+    (, ,)
+    (NP (NN nothing))
+    (ADVP (RB really))
+    (VP (VBD stood)
+      (PRT (RP out))
+      (PP (IN for)
+        (NP (PRP me)))
+      (SBAR (IN so)
+        (S
+          (NP (PRP I))
+          (VP (MD ca) (RB n't)
+            (VP (VB get)
+              (S
+                (NP (DT all))
+                (ADJP (JJ excited))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Same) (NN stuff))
+      (SBAR
+        (S
+          (NP (PRP you))
+          (VP (VBP find)
+            (PP (IN at)
+              (NP (DT any) (JJ other) (NN swap)))))))
+    (VP (VBP meet))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBD Did) (RB n't)
+      (VP (VB find)
+        (NP
+          (NP (NN anything))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBD interested)
+                (NP (PRP me))
+                (SBAR (IN so)
+                  (S
+                    (NP (PRP I))
+                    (VP (MD ca) (RB n't)
+                      (VP (VB comment)
+                        (PP (IN on)
+                          (NP (PRP$ their) (NN pricing)))))))))))))
+    (. .)))
+
+

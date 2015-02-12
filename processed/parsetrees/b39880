@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (NP
+      (NP (CD One))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (JJS best) (NN bus) (NNS services))
+          (SBAR
+            (S
+              (NP (FW i))
+              (VP (VBP have)
+                (NP
+                  (NP (JJ seen.The) (JJ only) (NN downside))
+                  (PP (IN about)
+                    (NP (DT this) (NN service))))))))))
+    (ADVP (RB now))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (ADVP (RB there))
+          (NP
+            (NP (NNS prices))
+            (PP (IN on)
+              (NP (NN everything))))
+          (VP (VBP have)
+            (VP (VBN gone)
+              (NP
+                (NP (NNS up.Its))
+                (PRN
+                  (ADVP (RB still))
+                  (NP (DT a)
+                    (ADJP
+                      (ADJP (JJ great))
+                      (CC and)
+                      (ADJP (JJS best)))
+                    (NN way))))
+              (S
+                (VP (TO to)
+                  (VP (VB get)
+                    (PRT (RP around))
+                    (NP (DT the) (NN city))))))))))
+    (. .)))
+
+

@@ -1,0 +1,120 @@
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (S
+          (NP (PRP you))
+          (VP (VBP think)
+            (NP
+              (NP (DT a) (NN couple))
+              (PP (IN of)
+                (NP (NNS sausages))))))
+        (CC and)
+        (S
+          (NP
+            (NP (DT a) (NN dollop))
+            (PP (IN of)
+              (NP (NN mash))))
+          (VP (VBZ does) (RB n't)
+            (VP (VB sound)
+              (NP
+                (NP (RB much))
+                (PP (IN of)
+                  (NP (DT a) (NN meal)))))))))
+    (ADVP (RB then))
+    (VP (VBP think)
+      (ADVP (RB again)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT These))
+    (VP
+      (VP (VBP are)
+        (ADVP (RB seriously))
+        (NP (JJ big) (NNS portions)))
+      (, ,)
+      (CC and)
+      (VP (VBP choose)
+        (NP (PRP$ your) (NN sausage))
+        (PP (IN from)
+          (NP
+            (NP (DT a) (NN range))
+            (SBAR
+              (WHNP (DT all)
+                (WHPP (IN of)
+                  (WHNP (WDT which) (NN sound))))
+              (S
+                (ADVP (RB so))
+                (VP (VBP scrummy)
+                  (SBAR
+                    (S
+                      (NP (PRP it))
+                      (VP (VBZ is)
+                        (ADJP (RB genuinely) (JJ hard))
+                        (S
+                          (VP (TO to)
+                            (VP (VB choose))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP
+        (NP (JJ simple) (NN fare))
+        (VP (VBN done)
+          (ADVP (RB well)))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Wire)
+      (PRT (RP in)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (JJ Hier) (NN gibt) (NN es))
+    (VP (VBD ?berraschend)
+      (NP
+        (NP (NN leckeren) (`` ``) (NNP Mash) ('' ''))
+        (PRN (-LRB- -LRB-)
+          (NP (NNP Kartoffelp?ree))
+          (-RRB- -RRB-)))
+      (PP (IN in)
+        (NP (JJ verschiedenen) (NNP Geschmacksrichtungen) (NN mit) (NN einer) (NN oder) (JJ mehreren) (NNS Sausages))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Die) (NNP Atmosph?re) (NNP ist))
+    (VP (VBZ etwas)
+      (S
+        (NP (JJ verspielt) (NN und) (NN man) (NN gibt))
+        (VP (VB sich)
+          (NP (NN sehr) (NN kinderfreundlich)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT An) (NNP der) (NNP Wand) (NN h?ngen) (NN jede) (NNP Menge) (NNP von) (NNP Kinderhand))
+    (VP (VBP gemalte)
+      (S
+        (NP (NNP W?rste) (NNP und) (NN zwischen) (NN den) (NNP Tischen) (NNP stehen) (NNPS Comics) (NN und) (NN Kinderheftchen) (NNP zur) (NNP Lekt?re))
+        (ADJP (JJ bereit))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP Die) (NNP Preise))
+      (VP (VBD sind)
+        (ADJP (JJ OK))))
+    (VP (VBP und)
+      (NP (NN satt)))
+    (NP (JJ wird) (NN man) (NNP von) (NN den) (NN reichhaltigen) (NNP Portionen) (NNP ebenso))
+    (. .)))
+
+

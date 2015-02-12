@@ -1,0 +1,156 @@
+(ROOT
+  (S
+    (NP (DT This) (JJ lovely) (NN shop))
+    (VP (VBZ is)
+      (VP (VBN located)
+        (PP (IN inside)
+          (NP (DT the) (NNP Promenade)))
+        (PP (IN across)
+          (PP (IN from)
+            (NP (NNP Nordstrom) (NNP Rack))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (NN nothing) (JJR better))
+        (PP (IN than)
+          (NP (DT a) (JJ healthy) (NN smoothie))))
+      (PP (IN after)
+        (NP (NN shopping))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN staff))
+      (VP (VBZ is)
+        (ADJP (JJ amazing))))
+    (CC and)
+    (S
+      (NP (DT the) (NNS drinks))
+      (VP (VBP are)
+        (UCP
+          (ADJP
+            (ADJP (JJ healthy))
+            (, ,)
+            (ADJP (JJ high)
+              (PP (IN in)
+                (NP (NN protein))))
+            (CC and)
+            (ADJP (JJ low)
+              (PP (IN in)
+                (NP (JJ refined) (NN sugar)))))
+          (: -)
+          (NP
+            (NP (DT a) (NN combo))
+            (SBAR
+              (S
+                (NP (PRP you))
+                (VP (MD would)
+                  (VP (VB be)
+                    (ADJP (RB hard) (VBN pressed)
+                      (S
+                        (VP (TO to)
+                          (VP (VB find)
+                            (ADVP (RB elsewhere))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB highly))
+    (VP (VBP recommend)
+      (S
+        (VP (VBG stopping)
+          (PP (IN by)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB personally))
+    (VP (VBD had)
+      (NP
+        (NP (DT the) (NNP Gladiator) (NN drink))
+        (PP (IN with)
+          (NP
+            (NP (CD 45) (NNS grams))
+            (PP (IN of)
+              (NP (NN protein)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP (JJ perfect)
+        (PP (IN after)
+          (NP (DT a) (NN workout)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Smoothie))
+    (VP (VBZ beats)
+      (NP
+        (NP (NN candy))
+        (NP (DT any) (NN day))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (NP (DT a) (JJ total) (NN smoothie) (NN freak)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN menu))
+    (VP (VBZ is)
+      (ADJP (JJ descriptive)
+        (PP (IN of)
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (VP (VBZ 's)
+                (PP (IN inside)
+                  (NP (DT the) (NN drink)))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP
+      (ADJP (JJ Good) (JJ flavor))
+      (CC and)
+      (ADJP (RB usually)
+        (ADVP (RB not) (RB very))
+        (JJ busy)))
+    (SBAR (IN so)
+      (S
+        (NP (PRP$ its) (JJ easy))
+        (VP (TO to)
+          (VP (VB get)
+            (PRT (RP in)
+              (CC and)
+              (RP out))
+            (PP (IN of)
+              (NP (RB there)))
+            (ADVP (RB quickly))))))
+    (. !)))
+
+
+(ROOT
+  (NP (NNP BOO) (NNP !!!)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD closed))
+    (. !)))
+
+

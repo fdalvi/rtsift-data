@@ -1,0 +1,200 @@
+(ROOT
+  (S
+    (VP (VB Pretty)
+      (NP (JJ good) (NN place)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (DT A) (JJ few) (JJ unique) (NNS flavors))
+    (PP (IN like)
+      (NP (JJ triple) (NN chocolate)
+        (CC and)
+        (NN birthday) (NN cake)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (DT A) (JJ large) (NN selection))
+    (PP (IN of)
+      (NP (NNS toppings)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Check)
+      (NP (PRP them))
+      (PRT (RP out))
+      (SBAR (IN if)
+        (S
+          (NP (PRP you))
+          (VP (VBP 're)
+            (PP (IN in)
+              (NP (DT the) (NN area)))))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (JJ Nice) (NN brand))
+    (NP
+      (NP (JJ new) (NNP Froyo) (NN shop))
+      (PP (IN around)
+        (NP
+          (NP (DT the) (NN corner))
+          (PP (IN from)
+            (NP (PRP$ my) (NN place))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (JJ Great) (NN selection))
+      (PP (IN of)
+        (NP (VBN frozen) (NN yogurt) (NNS flavors))))
+    (: ...)
+    (S (CC but)
+      (NP (PRP I))
+      (VP
+        (ADVP (RB really))
+        (VBP like)
+        (NP (DT the) (JJ little) (NNP LCD) (NNS screens))
+        (PP (IN with)
+          (NP
+            (NP (DT the)
+              (ADJP (JJ nutritional))
+              (NN info))
+            (PP (IN for)
+              (NP (DT each) (NN flavor)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (VBP are)
+      (ADJP (JJ welcome)
+        (S
+          (VP (TO to)
+            (VP (VB taste)
+              (NP (DT each) (NN flavor)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP
+          (NP (JJ Large) (NN selection))
+          (PP (IN of)
+            (NP (JJ fresh) (NN fruit) (NNS toppings))))
+        (, ,)
+        (CONJP (RB as) (RB well) (IN as))
+        (NP (DT the) (JJ assorted) (JJ other) (NN decadent)))
+      (VP (VBZ treats) (: ...)
+        (NP
+          (NP (JJ gummy) (NNS bears))
+          (, ,)
+          (VP (VBZ sprinkles))
+          (, ,)
+          (CC and)
+          (NP (PRP$ my) (NN fav)))))
+    (: ...)
+    (S
+      (NP (NN cheese))
+      (VP (VBZ cakes)
+        (NP (NNS bits))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (NN Pricing))
+    (VP
+      (VP (VBZ is)
+        (NP
+          (NP (CD .45))
+          (PP (IN per)
+            (NP (NN ounce)))))
+      (: ...)
+      (NP
+        (NP (RB about) (DT the) (JJ same))
+        (PP (IN as)
+          (NP (NNP Yogurtology)))))
+    (. .)))
+
+(ROOT
+  (VP (VB Be)
+    (ADJP (JJ careful))
+    (SBAR
+      (WHADJP (WRB how) (JJ much))
+      (S
+        (NP (PRP you))
+        (VP (VBD put)
+          (PP (IN into)
+            (NP (PRP$ your) (NN cup) (NN !!!))))))))
+
+(ROOT
+  (SBAR (IN If)
+    (S
+      (NP (PRP you))
+      (VP (VBP go)
+        (ADJP (JJ crazy)
+          (SBAR
+            (S
+              (NP (PRP you))
+              (VP (MD will)
+                (VP (VB end)
+                  (PRT (RP up))
+                  (PP (IN with)
+                    (NP (DT a)
+                      (ADJP ($ $) (CD 12))
+                      (NN yogurt) (NN sundae) (NN !!))))))))))))
+
+
+(ROOT
+  (S
+    (NP (DT A) (JJ decent) (NNP Frozen) (NNP Yogurt))
+    (VP (VBP place))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Basically))
+    (NP
+      (NP (DT a) (NN clone))
+      (PP (IN of)
+        (NP
+          (NP (NNP Yogurtology))
+          (PP (CC but)
+            (NP (DT the) (NN location))))))
+    (VP (VBZ is)
+      (ADVP (RB conveniently)
+        (S
+          (VP (VBN located)
+            (PP (IN near)
+              (NP (NNP Basha) (POS 's)
+                (CC and)
+                (NNP CVS)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBZ is)
+      (ADVP (RB no) (RB longer))
+      (PP (IN in)
+        (NP (NN business))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Sad)
+      (S
+        (VP (TO to)
+          (VP (VB see)
+            (S
+              (NP (PRP it))
+              (VP (VB go)))))))
+    (. .)))
+
+

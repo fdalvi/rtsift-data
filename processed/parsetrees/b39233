@@ -1,0 +1,230 @@
+(ROOT
+  (S
+    (NP (NNP Food))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (RB pretty) (JJ good))
+        (CC and)
+        (ADJP (RB very) (JJ fresh))))
+    (. .)))
+
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Why))
+    (SQ (VBZ is)
+      (NP (DT the) (NN poker) (NN player))
+      (VP (VBG complaining)))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT No) (NN matter))
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP (PRP you))
+          (VP (VBP think)
+            (PP (IN about)
+              (NP
+                (NP (DT the) (NN pricing))
+                (CC and)
+                (NP (DT that))))))))
+    (VP (VBZ is)
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP (PRP it))
+          (VP (VBZ is)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ His) (NN food))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (JJ excellent))
+        (CC and)
+        (ADJP (RB far) (JJR better)
+          (PP (IN than)
+            (NP (JJ average) (NNP BTW))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP are)
+          (ADJP (JJ unhappy)
+            (PP (IN with)
+              (NP (DT the) (NN pricing)))))))
+    (NP (DT that))
+    (VP
+      (VP (VBZ is)
+        (ADJP (JJ fine)))
+      (, ,)
+      (CC but)
+      (VP (VBP do) (RB n't)
+        (VP (VB knock)
+          (NP (DT the) (NN food)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Also))
+    (, ,)
+    (NP (NNP Dave))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ great) (NN guy))
+        (SBAR
+          (WHNP (WP who) (NNS bends))
+          (S
+            (ADVP (RB over) (RB backwards))
+            (VP (TO to)
+              (VP (VB make)
+                (NP (PRP$ my) (NNS meals))
+                (PP (IN on)
+                  (NP (DT the) (NN fly)))
+                (SBAR (IN since)
+                  (S
+                    (NP (FW i))
+                    (VP (VBP travel)
+                      (ADVP (RB so) (RB much)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VP
+        (ADVP (RB always))
+        (VBZ has)
+        (NP
+          (NP (PRP$ my) (NN food))
+          (ADJP (JJ ready)
+            (PP (IN on)
+              (NP (NN time))))))
+      (CC and)
+      (VP (MD will)
+        (ADVP (RB even))
+        (VP (VB alter)
+          (NP (PRP$ his) (NN schedule))
+          (PP (IN for)
+            (NP (PRP me))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB actually))
+    (VP (VBP get)
+      (NP
+        (NP (CD 2) (NNS meals))
+        (PP (RB out) (IN of)
+          (NP (DT each) (NN meal)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Anyways))
+    (VP (VBP give)
+      (NP (PRP him))
+      (NP (DT a) (NN shot))
+      (SBAR (IN if)
+        (S
+          (NP (PRP you))
+          (VP
+            (VP (VBP want)
+              (S
+                (VP (TO to)
+                  (VP (VB eat)
+                    (ADJP (JJ healthy))))))
+            (CC and)
+            (VP (VBP do) (RB n't)
+              (VP (VB have)
+                (NP (DT the) (NN time)
+                  (S
+                    (VP (TO to)
+                      (VP (VB cook)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Bottom)
+      (S
+        (S
+          (NP (NN line) (NN food))
+          (VP (VBZ is)
+            (ADJP (JJ incredible))))
+        (CC and)
+        (S
+          (NP (DT the) (NN service))
+          (VP (VBZ is)
+            (NP (JJ GREAT) (NNS !!!!!))))))))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN food))
+    (VP (VBZ is)
+      (NP (JJ amazing) (NNS !!)))))
+
+(ROOT
+  (FRAG
+    (ADJP (RB So) (JJ healthy)
+      (CC and)
+      (JJ fresh))
+    (SBAR
+      (WHNP (WDT which))
+      (S
+        (ADVP (RB usually))
+        (VP (VBZ means)
+          (NP
+            (NP
+              (NP (RB not) (DT a) (NN lot))
+              (PP (IN of)
+                (NP (NN flavor))))
+            (CONJP (CC but)
+              (RB not))
+            (NP (RB here))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (NNP Dave))
+    (VP (VBZ has)
+      (VP (VBN put)
+        (PRT (RP together))
+        (NP
+          (NP (JJ healthy) (NNS recipes))
+          (PP (JJ full) (IN of)
+            (NP (NN flavor))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VP (VB Be)
+        (ADJP (JJ cautious)))
+      (, ,)
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP
+            (NP (NN something))
+            (PP (IN on)
+              (NP (DT the) (NN menu))))
+          (VP (VBZ says)
+            (ADJP (`` ``) (JJ spicy) ('' '')
+              (SBAR
+                (S
+                  (NP (PRP it))
+                  (VP (VBZ 's)
+                    (ADVP (RB definitely))
+                    (ADJP (JJ hot) (, ,) (RB so) (JJ beware))))))))))
+    (. .)))
+
+

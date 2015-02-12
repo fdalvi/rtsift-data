@@ -1,0 +1,64 @@
+(ROOT
+  (FRAG
+    (NP (PRP$ Its) (JJ bad) (NN ass))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (DT The) (NN bar))
+    (VP
+      (VP (VBZ is)
+        (VP
+          (ADVP (RB fully))
+          (VBN stocked)))
+      (CC and)
+      (VP (MD ca) (RB n't)
+        (VP (VB be)
+          (ADJP (JJ beat)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN service))
+    (VP (VBZ is)
+      (ADJP (RB unbelievably) (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBP Walk)
+        (PP (IN in)
+          (NP (DT the) (NN door)))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBP intuit)
+        (NP
+          (NP (DT the) (NN drink))
+          (SBAR
+            (S
+              (NP (PRP you))
+              (VP
+                (VP (VBP want))
+                (CC and)
+                (VP (NN hand)
+                  (NP (PRP it))
+                  (PP (TO to)
+                    (NP (PRP you)))
+                  (PP (IN within)
+                    (NP (CD 5) (NNS minutes))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (ADVP
+        (NP (DT a) (NN home))
+        (RB not))
+      (NP (DT a) (NN bar)))))
+
+

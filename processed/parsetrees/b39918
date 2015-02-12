@@ -1,0 +1,194 @@
+(ROOT
+  (S
+    (NP (NNP Maddie)
+      (CC and)
+      (NNP Marks))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJ ultimate))
+        (PP (IN in)
+          (NP (NNS kids) (NN shoe) (NN shopping)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN choice))
+      (PP (IN of)
+        (NP (NN style)
+          (CC and)
+          (NN size/width))))
+    (VP (VBZ is)
+      (ADJP (JJ fantastic)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NN daughter))
+    (ADVP (RB always))
+    (VP (VBZ feels)
+      (PP (IN like)
+        (NP (DT a) (NNS princess)))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP we))
+          (VP (VBP visit)
+            (NP (DT the) (NN shop))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP You))
+      (VP (VBP are)
+        (ADVP (RB always))
+        (VP (VBN guaranteed)
+          (S
+            (VP (TO to)
+              (VP (VB find)
+                (S
+                  (NP (NN something))
+                  (ADJP (JJ different)))))))))
+    (: -)
+    (S
+      (NP (PRP they))
+      (VP (VB stock)
+        (SBAR
+          (S
+            (NP
+              (NP (DT a) (JJ great) (NN range))
+              (PP (IN of)
+                (NP (NN european))))
+            (VP (VBZ makes)
+              (SBAR (IN that)
+                (S
+                  (NP (PRP you))
+                  (ADVP (RB just))
+                  (VP (VBP do) (RB n't)
+                    (VP (VB seem)
+                      (VP (VB find)
+                        (ADVP (RB elsewhere))
+                        (PP (IN in)
+                          (NP (NNP Edinburgh)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN downside))
+      (VP (VBZ is)
+        (SBAR (IN that)
+          (S
+            (NP (PRP you))
+            (VP (VBP pay)
+              (PP (IN for)
+                (NP (DT the) (NN quality)
+                  (CC and)
+                  (NN choice))))))))
+    (: -)
+    (S
+      (NP (PRP$ my) (NN purse))
+      (VP (VBZ is)
+        (ADVP (RB always))
+        (ADJP (RB very) (RB noticeable) (JJR lighter))
+        (PP (IN after)
+          (NP (DT a) (NN visit)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT This))
+      (VP (VBD said)))
+    (, ,)
+    (NP (PRP you))
+    (VP (VBP pay)
+      (PP (IN for)
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (NP (PRP you))
+            (VP (VBP get))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB However))
+    (, ,)
+    (NP (PRP it))
+    (VP (MD would)
+      (VP (VB be)
+        (ADJP (JJ lovely))
+        (SBAR (IN if)
+          (S
+            (NP (PRP they))
+            (VP (VBD put)
+              (NP (NNS prices))
+              (PP (IN on)
+                (NP (PRP$ their) (NN display) (NNS shoes))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (CD One) (JJ other) (NN point))
+      (PP (TO to)
+        (NP (NN note))))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (NNS refunds))
+          (VP (VBP are)
+            (ADVP (RB only))
+            (VP (VBN given)
+              (PP (IN on)
+                (NP (VBN damaged) (NNS shoes))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (ADVP (RB just))
+        (VP (VB change)
+          (NP (PRP$ your) (NN wind)))))
+    (NP (PRP you))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBN given)
+          (NP (DT a) (NN credit) (NN note)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB All)
+      (PP (IN in)
+        (NP
+          (NP (DT all))
+          (, ,)
+          (SBAR (IN if)
+            (S
+              (NP (PRP you))
+              (VP (VBP are)
+                (NP (DT a) (NN shoe-aholic))))))))
+    (PRN (-LRB- -LRB-)
+      (CC or)
+      (S
+        (NP (PRP$ your) (NN child))
+        (VP (VBZ is)
+          (NP
+            (NP (CD one))
+            (PP (IN in)
+              (NP (DT the) (NN making))))))
+      (-RRB- -RRB-))
+    (NP (DT this))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN place))
+        (PP (IN for)
+          (NP (PRP you)))))
+    (. .)))
+
+

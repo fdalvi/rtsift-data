@@ -1,0 +1,47 @@
+(ROOT
+  (NP (JJ convenient) (NNS !!)))
+
+(ROOT
+  (S
+    (NP (EX there))
+    (VP (VBP open)
+      (NP (CD 7) (NNS days))
+      (NP (DT a) (NN week)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (DT The) (NN staff))
+    (VP (VBP are)
+      (ADJP (RB very) (JJ friendly)
+        (CC and)
+        (JJ helpful)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD had)
+      (VP
+        (VP (VBN been)
+          (VP (VBG going)
+            (PP (TO to)
+              (NP
+                (NP (DT this) (NN location))
+                (PP (IN for)
+                  (NP
+                    (QP (JJR more) (IN than) (CD 3))
+                    (NNS years)))))))
+        (CC and)
+        (ADVP (RB never))
+        (VP (VBN had)
+          (NP (DT any) (JJ bad) (NNS things))
+          (S
+            (VP (TO to)
+              (VP (VB say)
+                (PP (IN about)
+                  (NP (PRP them)))))))))
+    (. .)))
+
+

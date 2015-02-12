@@ -1,0 +1,324 @@
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP they))
+        (VP (VBP say)
+          (NP (NNP FastMed)))))
+    (NP (PRP they))
+    (VP (VBP mean)
+      (NP (PRP it))
+      (PP (IN at)
+        (NP (DT this) (NN location))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD booked)
+      (NP (DT an) (NN appt)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ online))
+      (PP (IN for)
+        (NP
+          (NP (PRP$ my) (NN son))
+          (PP (IN since)
+            (NP (PRP$ his) (NN PCP))))))
+    (VP (MD could) (RB n't)
+      (VP (VB see)
+        (NP (PRP him))
+        (NP (NN today))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP I))
+        (VP (VBD arrived))))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBD were)
+      (VP
+        (VP (VBN greeted))
+        (, ,)
+        (VP (VBN seen)
+          (PP (IN in)
+            (NP (NN triage))))
+        (, ,)
+        (VP (VBN visited)
+          (PP
+            (PP (IN by)
+              (NP (DT the) (NNP NP)))
+            (CC and)
+            (PP (IN out)
+              (NP
+                (NP (DT the) (NN door) (NN prescription))
+                (PP (IN in)
+                  (NP (NN hand)))))))
+        (PP (IN within)
+          (NP (CD 20) (NNS minutes)))))
+    (. !)))
+
+(ROOT
+  (S
+    (ADVP (RB Now))
+    (NP (PRP you))
+    (VP (MD ca) (RB n't)
+      (VP (VB beat)
+        (NP
+          (NP (DT that))
+          (PP (IN with)
+            (NP (DT a) (NN stick))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (JJ wonderful) (NN alternative))
+      (PP (IN for)
+        (NP
+          (NP (DT those) (NNS times))
+          (SBAR
+            (S
+              (NP (PRP you))
+              (VP (MD ca) (RB n't)
+                (VP (VB get))))))))
+    (VP (VBN squeezed)
+      (PP (IN in)
+        (PP (TO to)
+          (NP (PRP$ your) (JJ regular) (NN physician)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 'm)
+        (VP (VBG hoping)
+          (SBAR
+            (S
+              (NP (PRP we))
+              (VP (MD wo) (RB n't)
+                (VP (VB need)
+                  (S
+                    (VP (TO to)
+                      (VP (VB be)
+                        (VP (VBG visiting)
+                          (NP (JJ urgent) (NN care))
+                          (ADVP (RB anytime) (RB soon)))))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (SBAR (IN if)
+        (S
+          (NP (PRP we))
+          (VP (VBP do))))
+      (, ,)
+      (NP (DT this))
+      (VP (VBZ is)
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (NP (PRP we))
+            (VP (MD will)
+              (VP (VB go)))))))
+    (. !)))
+
+
+(ROOT
+  (NP (JJ Fantastic) (NN service) (. !)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT Every) (NN person))
+      (SBAR
+        (S
+          (NP (PRP we))
+          (VP (VBD encountered)))))
+    (VP (VBD was)
+      (ADJP (JJ kind)
+        (CC and)
+        (JJ helpful)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBD sprained)
+        (NP (PRP$ my) (NN ankle)))
+      (CC and)
+      (VP
+        (VP (VBD chose)
+          (S
+            (VP (TO to)
+              (VP (VB get)
+                (NP (DT the) (NN splint))))))
+        (CC and)
+        (VP (VBD decided)
+          (NP (DT the) (JJ next) (NN day))
+          (SBAR
+            (S
+              (NP (DT the) (NN boot))
+              (VP (MD would)
+                (VP (VB be)
+                  (NP (DT a) (JJR better) (NN option)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD saw)
+      (NP (PRP me))
+      (ADVP
+        (ADVP (RB right) (RB away))
+        (PRN (-LRB- -LRB-)
+          (VP
+            (ADVP (RB even))
+            (VBN helped)
+            (PP (IN with)
+              (NP (PRP$ my) (JJ crying) (NN toddler)))
+            (SBAR (IN that)
+              (S
+                (NP (FW i))
+                (VP (VBD had)
+                  (ADVP (RB just))
+                  (VP (VBN woke)
+                    (PRT (RP up))
+                    (SBAR (IN because)
+                      (S
+                        (NP (PRP I))
+                        (VP (VBD was)
+                          (PP (IN on)
+                            (NP (NNS crutches)))))))))))
+          (-RRB- -RRB-))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBD checked)
+        (PP (IN in) (NN online)))
+      (CC and)
+      (VP (VBD was)
+        (ADVP (IN in)
+          (CC and)
+          (IN out))
+        (PP (IN in)
+          (PP (IN under)
+            (NP (DT an) (NN hour)))))
+      (, ,)
+      (PP (VBG including)
+        (NP
+          (NP (NNS xrays.I))
+          (SBAR
+            (S
+              (VP (MD will)
+                (ADVP (RB definitely))
+                (VP (VB go)
+                  (ADVP
+                    (ADVP (RB here) (RB again))
+                    (SBAR (IN if)
+                      (S
+                        (NP (PRP$ my) (NN family))
+                        (VP (VBZ needs)
+                          (NP (JJ urgent) (NN care) (NNS services))
+                          (PP (IN in)
+                            (NP (DT the) (NN future))))))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 've)
+        (VP (VBN been)
+          (ADVP (RB here)
+            (PP (TO to)
+              (NP (DT this) (NN location))))
+          (NP
+            (QP (IN at) (JJS least) (CD 5))
+            (NNS times)))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's) (RB not)
+        (ADVP (RB exactly))
+        (VP (`` ``)
+          (ADVP (RB fast))
+          (VBN med) ('' '')
+          (NP
+            (NP (DT every) (NN time))
+            (SBAR
+              (S
+                (NP (PRP I))
+                (VP (VBP come)))))
+          (PP (TO to)
+            (NP
+              (NP (DT this) (NN location))
+              (SBAR
+                (S
+                  (NP (PRP it))
+                  (VP (VBZ 's)
+                    (NP (JJ slow) (NN service))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBZ 's)
+        (NP
+          (NP (DT no) (NN one))
+          (PP
+            (PP
+              (ADVP (RB ever))
+              (IN in)
+              (S
+                (VP (VBG wAiting)
+                  (NP (NN room)))))
+            (CC or)
+            (PP (IN in)
+              (NP (JJ patient) (NNS rooms)))))))
+    (CC but)
+    (S
+      (NP (EX there))
+      (VP (VBZ 's)
+        (ADVP (RB still))
+        (NP
+          (NP (DT a) (JJ 10-20) (NN minute) (NN wAit))
+          (SBAR
+            (S
+              (NP (PRP it))
+              (VP (VBZ 's)
+                (VP (VBG irritating)
+                  (ADVP (RB especially))
+                  (SBAR
+                    (WHADVP (WRB when))
+                    (S
+                      (NP (NNS kids)
+                        (CC or)
+                        (NN self))
+                      (VP (VBZ is)
+                        (ADJP (JJ sick))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Service))
+    (VP (MD could)
+      (VP (VB be)
+        (ADJP (JJR better))))
+    (. .)))
+
+

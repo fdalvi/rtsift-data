@@ -1,0 +1,109 @@
+(ROOT
+  (S
+    (NP (DT This) (NN store))
+    (VP (VBZ has)
+      (NP
+        (NP
+          (NP (RB just) (RB about) (NN everything))
+          (PP (IN from)
+            (NP (NN paper) (NNS goods))))
+        (, ,)
+        (NP
+          (NP (NN glass) (NN ware))
+          (PP (TO to)
+            (NP (NNS tools))))
+        (CC and)
+        (NP
+          (NP (DT a) (NN lot))
+          (PP (IN in)
+            (NP (IN between))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is) (RB not)
+      (NP
+        (NP (DT a) (NN lot))
+        (PP (IN of)
+          (NP (NNS places))))
+      (SBAR
+        (WHADVP (WRB where))
+        (S
+          (NP (PRP you))
+          (VP (MD can)
+            (ADVP (RB still))
+            (VP (VB buy)
+              (NP (NN flypaper)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Despite)
+      (NP (DT the) (NN name)))
+    (, ,)
+    (NP (RB not) (DT every) (NN item))
+    (VP (VBZ is)
+      (NP (CD 99) (NNS cents)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Everything))
+    (VP (VBZ is)
+      (ADJP (RB pretty) (JJ cheap))
+      (ADVP (RB though)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT Every) (NN time))
+    (NP (PRP I))
+    (VP (VBP go)
+      (SBAR
+        (S
+          (PP (IN in)
+            (NP (RB there)))
+          (NP (PRP I))
+          (ADVP (RB just))
+          (VP (VBP walk)
+            (PP (IN around)
+              (NP (DT the) (NN store)))
+            (S
+              (ADVP (RB just))
+              (VP (TO to)
+                (VP (VB look)
+                  (PP (IN at)
+                    (NP
+                      (NP (PDT all) (DT the) (JJ different) (NNS things))
+                      (SBAR
+                        (S
+                          (NP (PRP they))
+                          (VP (VBP sell)))))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (DT This))
+      (VP (VBD was)
+        (NP (DT a) (JJ teriffic) (JJ little) (NN store))))
+    (, ,)
+    (CC but)
+    (S
+      (ADVP (RB sadly))
+      (, ,)
+      (NP (PRP it))
+      (VP (VBZ has)
+        (VP (VBN closed))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN store))
+    (VP (VBZ is)
+      (ADJP (JJ closed)))))
+
+

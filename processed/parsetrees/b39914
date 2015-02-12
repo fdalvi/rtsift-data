@@ -1,0 +1,33 @@
+(ROOT
+  (FRAG
+    (ADVP (RB Very))
+    (NP (JJ large) (JJ retail) (NN outlet))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS sandwhiches))
+    (VP (VBP are)
+      (ADJP (JJ nice)
+        (CC and)
+        (JJ tasteful)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN although)
+      (S
+        (NP (FW i))
+        (VP (VBD was)
+          (ADVP (RB seriously))
+          (VP (VBN dissapointed)
+            (PP (IN with)
+              (SBAR
+                (WHADVP (WRB how))
+                (S
+                  (VP (VBN overpriced)))))))))
+    (NP (DT the) (NN food))
+    (VP (VBD was))
+    (. .)))
+
+

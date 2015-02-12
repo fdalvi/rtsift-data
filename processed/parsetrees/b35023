@@ -1,0 +1,710 @@
+(ROOT
+  (S
+    (NP (NNP Hotel) (NNP Indigo))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a)
+          (ADJP (RB fairly) (JJ new))
+          (NN hotel))
+        (PP (IN in)
+          (NP (NNP Edinburgh)))
+        (PRN (-LRB- -LRB-)
+          (VP (VBN opened)
+            (NP (RBR earlier) (DT this) (NN year)))
+          (-RRB- -RRB-))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN hotel))
+    (VP (VBZ is)
+      (PP (IN within)
+        (NP
+          (NP (DT a) (JJ brisk) (CD 10-15) (NN minute) (NN walk))
+          (PP (IN from)
+            (NP
+              (NP (DT the) (JJ central) (NN station))
+              (PP (IN in)
+                (NP
+                  (NP (NNP Edinburgh))
+                  (PRN (-LRB- -LRB-)
+                    (PP (IN on)
+                      (NP
+                        (NP (DT the) (NNP New) (NN town) (NN side))
+                        (PP (IN of)
+                          (NP (DT the) (NN city)))))
+                    (-RRB- -RRB-)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Location))
+    (VP (VBZ is)
+      (ADVP (RB good) (RB so))
+      (ADJP (JJ easy)
+        (S
+          (VP (TO to)
+            (VP (VB walk)
+              (PP (TO to)
+                (NP
+                  (NP (JJ many))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (NNS parts))
+                      (PP (IN of)
+                        (NP (DT the) (NN city) (NN center))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN hotel))
+      (VP (VBZ faces)
+        (NP (DT the)
+          (ADJP (RB rather) (JJ busy))
+          (NNP York) (NN Place))))
+    (CC but)
+    (S
+      (S
+        (NP (PRP we))
+        (VP (VBD were)
+          (ADVP (RB never))
+          (VP (VBN disturbed)
+            (PP (IN by)
+              (NP
+                (NP (DT any) (NN traffic) (NN noise))
+                (CC or)
+                (NP (JJ such)))))))
+      (CC but)
+      (S
+        (NP (PRP we))
+        (VP (VBD were)
+          (PP (IN on)
+            (NP (DT a) (JJ high) (NN floor))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (JJ check-in) (NN procedure))
+      (VP (VBD was)
+        (ADJP
+          (NP (DT a) (RB bit))
+          (JJ slow))))
+    (PRN (-LRB- -LRB-)
+      (S
+        (NP (RB only) (CD one) (NN person))
+        (VP (VBG handling)
+          (NP (NN check-in))))
+      (-RRB- -RRB-))
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (ADJP (JJ friendly) (RB enough))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (ADVP (RB however))
+      (ADJP (JJ apparent))
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (VBD was)
+            (NP (DT a) (JJ new) (NN hotel))
+            (SBAR (IN as)
+              (S
+                (NP (PRP it))
+                (ADVP (RB also))
+                (VP (VBD appeared)
+                  (SBAR (RB as) (IN if)
+                    (S
+                      (NP (NNS things))
+                      (VP (VBD were)
+                        (ADJP (JJ new)
+                          (PP (TO to)
+                            (NP
+                              (NP (DT some))
+                              (PP (IN of)
+                                (NP (DT the) (NN staff))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBD was)
+        (NP
+          (NP (DT a) (NN concierge))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (ADVP (RB actually))
+              (VP (VBD insisted)
+                (PP (IN on)
+                  (S
+                    (VP (VBG following)
+                      (NP (PRP us))
+                      (PP (TO to)
+                        (NP (PRP$ our) (NN room))))))))))))
+    (: -)
+    (S
+      (PP (IN in)
+        (NP (NN general)))
+      (NP (PRP I))
+      (VP (VBP prefer)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP
+                (VP (VBN left)
+                  (ADVP (RB alone)))
+                (CC and)
+                (VP (VBN tried)
+                  (S
+                    (VP (TO to)
+                      (VP (VB hint)
+                        (UCP
+                          (ADVP (IN at) (DT that))
+                          (CC but)
+                          (PP (IN with)
+                            (NP
+                              (NP (DT no) (NN success))
+                              (PRN (-LRB- -LRB-)
+                                (VP (MD would)
+                                  (VP (VB have)
+                                    (VP (VBN helped)
+                                      (ADVP (RBR more))
+                                      (PP (IN by)
+                                        (S
+                                          (VP (VBG having)
+                                            (S
+                                              (NP (CD two) (NNS people))
+                                              (VP (VBG handling)
+                                                (NP (NN check-in))))))))))
+                                (-RRB- -RRB-)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN room))
+    (VP (VBD was)
+      (ADVP (RB however))
+      (ADJP (JJ nice))
+      (, ,)
+      (ADJP (RB fairly) (JJ spacious)
+        (CC and)
+        (JJ new)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Design))
+      (VP (VBD was)
+        (NP
+          (NP (RB perhaps) (RB not))
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (NP (PRP I))
+              (VP (MD would)
+                (VP (VB have)
+                  (VP (VBN selected)
+                    (PP (IN for)
+                      (NP (NN home)))))))))))
+    (CC but)
+    (FRAG
+      (ADJP (RB pretty) (JJ good))
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (NP (DT a) (NN hotel))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP
+      (NP (JJ Big) (NN plus))
+      (PP (IN for)
+        (NP
+          (NP (DT the) (NN minibar))
+          (VP (VBG being)
+            (ADJP (JJ free))))))
+    (: -) (RB not)
+    (NP
+      (NP (DT a) (JJ huge) (NN selection))
+      (PP (IN of)
+        (NP
+          (NP (NNS things))
+          (PP (CC but)
+            (NP
+              (NP (DT a) (JJ few) (NNS sodas))
+              (, ,)
+              (NP (NNS snacks))
+              (CC and)
+              (NP
+                (NP (NN water))
+                (NP
+                  (ADJP (RB so) (RB very) (JJ nice))
+                  (JJ little) (JJ extra) (NNS perk))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (ADVP (RB also))
+    (VP (VBD received)
+      (NP
+        (NP (DT a) (JJ welcome) (NN tray))
+        (PP (IN of)
+          (NP (NNS fruits)
+            (CC and)
+            (NN chocolate)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Otherwise))
+      (NP (DT the) (NN room))
+      (VP (VBD had)
+        (NP
+          (NP (NN everything))
+          (SBAR
+            (S
+              (NP (PRP one))
+              (VP (MD would)
+                (VP (VB expect)
+                  (PP (IN from)
+                    (NP
+                      (NP (DT a) (CD 4) (NN star) (NN hotel))
+                      (PRN (-LRB- -LRB-)
+                        (NP
+                          (NP (NN desk))
+                          (S
+                            (VP (TO to)
+                              (VP (VB work)
+                                (PP (IN at) (, ,)
+                                  (ADVP (JJ safe))
+                                  (, ,)
+                                  (NP
+                                    (NP (NN iron))
+                                    (, ,)
+                                    (NP (JJ ironing) (NN board))
+                                    (, ,)
+                                    (NP (NN TV))
+                                    (, ,)
+                                    (NP (JJ free) (NNS wifi))
+                                    (, ,)
+                                    (NP (NN coffee/tea) (NN making) (NNS facilities))))))))
+                        (-RRB- -RRB-)))))))))))
+    (CC and)
+    (S
+      (NP (DT the) (NN bed))
+      (VP (VBD was)
+        (ADJP (RB very) (JJ comfortable)
+          (S
+            (VP (TO to)
+              (VP (VB sleep)
+                (PRT (RP in))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN bathroom))
+    (VP (VBD was)
+      (ADJP (JJ new)
+        (CC and)
+        (JJ clean)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT No) (NN bathtub))
+      (PP (CC but)
+        (NP (PRP I))))
+    (VP
+      (VP (MD can)
+        (VP (VB live)
+          (PP (IN without)
+            (NP (DT that)))))
+      (: -)
+      (VP (VBD did)
+        (ADVP (RB however))
+        (PP (IN like)
+          (NP (DT the) (NN fact)))
+        (SBAR (IN that)
+          (S
+            (NP (PRP they))
+            (VP (VBD put)
+              (PP (IN in)
+                (NP (NNS speakers)))
+              (PP (IN in)
+                (NP (DT the) (NN bathroom)))))))
+      (ADJP (RB so) (JJ possible)
+        (S
+          (VP (TO to)
+            (VP (VB listen)
+              (PP (TO to)
+                (NP
+                  (NP (DT the) (NN TV) (NN while))
+                  (PP (IN in)
+                    (NP (RB there))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN hotel))
+    (ADVP (RB also))
+    (VP (VBZ offers)
+      (NP (DT a) (JJ nice) (NN fitness) (NN center))
+      (PP (IN with)
+        (NP (JJ new) (NNS machines))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD did) (RB not)
+        (VP (VB try)
+          (PP (TO to)
+            (NP (NN restaurant))))))
+    (CC but)
+    (S
+      (NP (PRP they))
+      (VP (VBD tried)
+        (SBAR
+          (S
+            (S
+              (VP (VB sell)
+                (S
+                  (NP (PRP it))
+                  (ADJP (RB very) (JJ hard))))
+              (: -))
+            (VP (MD would)
+              (ADVP (RB however))
+              (VP
+                (ADVP (RB instead))
+                (VB go)
+                (PP (IN for)
+                  (NP (DT the) (JJ excellent) (NN restaurant)))
+                (PP (IN by)
+                  (NP
+                    (NP (NNP Mark) (NNP Greenaway))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP (VBZ is)
+                          (ADVP
+                            (NP (RB just) (CD 2-3) (NNS minutes))
+                            (RB away))
+                          (PP (IN from)
+                            (NP (DT the) (NN hotel))))))))))))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (NNP Great))
+    (NP
+      (NP (NN hotel))
+      (CC and)
+      (NP (JJ wonderful) (NN staff)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP New) (NN hotel))
+      (VP (VBD opened)
+        (PP (IN in)
+          (NP (CD 2013)))))
+    (, ,)
+    (NP
+      (NP (DT this) (JJ trendy) (NN hotel))
+      (PP (IN from)
+        (NP (NNP ICH) (NNS hotels))))
+    (VP (VBZ does) (RB not)
+      (VP (VB disappoint)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Great) (JJ modern) (NN design))
+    (, ,)
+    (NP (JJ comfortable) (NNS rooms))
+    (, ,)
+    (NP
+      (NP (JJ free) (NN mini) (NN bar))
+      (PRN (-LRB- -LRB-)
+        (NP (DT no) (NN alcohol))
+        (-RRB- -RRB-))
+      (, ,)
+      (NP (NNP Aveda) (NN bath) (NNS products)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN staff))
+    (VP (VBD was)
+      (ADVP (IN beyond))
+      (ADJP (JJ helpful)
+        (PP (IN with)
+          (NP (NNS recommendations))))
+      (PP (DT both) (IN in)
+        (NP
+          (NP (NNP Edinburgh))
+          (CC and)
+          (NP
+            (NP (DT the) (NN rest))
+            (PP (IN of)
+              (NP (NNP Scotland)))))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (DT A) (JJ modern) (NN hotel))
+    (PP (IN near)
+      (NP (DT the) (NN heart)))
+    (PP (IN of)
+      (NP
+        (NP (NNP Edinburgh) (POS 's))
+        (JJS oldest) (NNS sights)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN staff))
+      (VP (VBD were)
+        (ADJP (RB extremely) (JJ helpful))))
+    (CC and)
+    (S
+      (NP (PRP$ our) (NN experience))
+      (ADVP (RB there))
+      (VP (VBD was)
+        (ADVP (RB well))
+        (PP (IN worth)
+          (NP (DT the) (NN money)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ Their) (JJ complimentary) (NN mini) (NN bar))
+    (VP (VBD was)
+      (NP (DT a) (JJ nice) (NN treat))
+      (SBAR (IN as)
+        (S
+          (NP (PRP you))
+          (VP (MD 'll)
+            (ADVP (RB always))
+            (VP (VB have)
+              (NP (DT a) (JJ few) (NNS beverages)
+                (CC or)
+                (NNS snacks))
+              (S
+                (VP (TO to)
+                  (VP (VB enjoy)
+                    (PP (IN after)
+                      (NP
+                        (NP (DT a) (JJ long) (NN day))
+                        (VP (VBG seeing)
+                          (NP
+                            (NP (NNS sights))
+                            (PP (IN about)
+                              (NP (DT the) (NN town)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD found)
+        (NP (DT the) (NN shower)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (ADJP
+                  (ADJP
+                    (NP (DT a) (RB little))
+                    (JJR colder))
+                  (PP (IN than)
+                    (SBAR
+                      (WHNP (WP what))
+                      (S
+                        (NP (PRP I))
+                        (VP (MD 'd)
+                          (VP (VB prefer)))))))))))))
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (MD would)
+        (ADVP (RB certainly))
+        (VP (VB stay)
+          (ADVP (RB there))
+          (ADVP (RB again)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (CD 10-15) (NN minute))
+    (VP (VBP walk)
+      (PP (IN from)
+        (NP (DT the) (NN castle))))
+    (. .)))
+
+
+(ROOT
+  (FRAG
+    (NP (DT A)
+      (ADJP
+        (ADJP (RB very) (JJ nice))
+        (IN if)
+        (ADJP (RB somewhat) (JJ simple)))
+      (NN hotel))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (DT The) (NN room))
+    (PP (IN as)
+      (NP
+        (NP
+          (ADJP (JJ fine)
+            (PP (IN with)
+              (ADJP (JJ nice))))
+          (NNS furnishings))
+        (, ,)
+        (NP (DT a)
+          (ADJP (RB very) (JJ comfortable))
+          (NN bed))
+        (CC and)
+        (NP (DT a) (JJ great) (NN bathroom))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Sadly))
+      (NP (PRP$ my) (NN king) (NN room))
+      (VP
+        (VP (VBD had)
+          (NP
+            (NP (DT an) (NN outlook))
+            (PP (IN of)
+              (NP (NN nothing)))))
+        (CC and)
+        (VP
+          (ADVP (RB as)
+            (NP (RB almost) (DT no) (NN sunlight)))
+          (VBD came)
+          (PP (IN through)
+            (NP (DT the) (NN window))))))
+    (NP (PRP it))
+    (VP (VBD was)
+      (ADJP (RB almost)
+        (PP (IN like)
+          (S
+            (VP (VBG being)
+              (PP (IN in)
+                (NP (DT a) (JJ windowless) (NN room))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (JJ free) (NN minibar))
+      (VP (VBZ is)
+        (NP (DT a) (JJ nice) (NN touch))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT a) (NN shame))
+      (ADVP (RB there))
+      (VP (VBP are)
+        (NP
+          (NP (DT no) (JJ alcoholic) (NNS beverages))
+          (PP (IN in)
+            (NP (DT the) (NN room))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Ordered) (NN room) (NN service))
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBD was)
+            (ADJP (JJ expensive) (, ,) (JJ cold)
+              (CC and)
+              (JJ plain))))))
+    (VP (VBN accompanied)
+      (PP (IN with)
+        (NP
+          (NP (DT a) (JJ boring) (NN selection))
+          (PP (IN of)
+            (NP (NNS beers))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Give)
+      (S
+        (NP (DT this) (DT a))
+        (VP (VB miss)
+          (SBAR (IN if)
+            (S
+              (NP (PRP you))
+              (VP (VBP stay)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (ADJP
+        (ADJP (RB Not) (RB as) (JJ glamorous))
+        (SBAR (IN as)
+          (S
+            (NP (PRP you))
+            (VP (MD would)
+              (VP (VB expect)
+                (PP (IN for)
+                  (NP
+                    (NP (DT the) (NN price))
+                    (CC and)
+                    (NP (DT the) (JJ many)))))))))
+      (NNS hallways)
+      (CC and)
+      (NNS staircases))
+    (VP (VBP take)
+      (PRT (RP away))
+      (PP (IN from)
+        (NP (DT the) (JJ luxurious) (NN feel))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Probably))
+    (NP
+      (NP (JJR more))
+      (VP (VBN suited)
+        (PP (TO to)
+          (NP (NN business) (NNS guests)))
+        (PP (IN than)
+          (S
+            (NP (DT those))
+            (VP (VBG wanting)
+              (NP (DT a) (JJ romantic) (NN weekend) (NN getaway))
+              (PP (IN in)
+                (NP (JJ beautiful) (NNP Edinburgh))))))))
+    (. .)))
+
+

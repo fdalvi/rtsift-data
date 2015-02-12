@@ -1,0 +1,119 @@
+(ROOT
+  (S
+    (NP (NNP Grace))
+    (VP (VBD was)
+      (ADJP (RB very) (JJ helpful)
+        (PP (IN in)
+          (S
+            (VP (VBG explaining)
+              (NP (PRP$ my) (NNS options)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Doug))
+    (VP
+      (VP (VBD showed)
+        (PRT (RP up))
+        (PP (IN on)
+          (NP (NN time))))
+      (CC and)
+      (VP (VBD was)
+        (ADJP (JJ clean)
+          (CC and)
+          (JJ efficient))
+        (PP (IN in)
+          (S
+            (VP (VBG replacing)
+              (NP (PRP$ my) (NN windshield)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD could) (RB n't)
+      (VP (VB ask)
+        (PP (IN for)
+          (ADVP (RBR better)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Windshield))
+    (VP (VBD was)
+      (UCP
+        (ADJP (JJ replaced-short)
+          (CC and)
+          (JJ sweet))
+        (CC and)
+        (PP (TO to)
+          (NP (DT the) (NN point)))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NN Cost))
+    (PP
+      (ADVP
+        (NP ($ $) (CD 215))
+        (IN out))
+      (IN of)
+      (NP (NN pocket)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD had)
+        (S
+          (NP (DT a) (NN crack))
+          (ADJP
+            (ADJP (RB much) (JJR larger)
+              (PP (IN than)
+                (NP (DT a) (NN dollar) (NN bill))))
+            (SBAR (IN so)
+              (S
+                (NP (PRP$ my) (NN insurance))
+                (VP (MD would) (RB n't)
+                  (VP (VB cover)
+                    (NP (PRP it))))))))))
+    (CC and)
+    (S
+      (NP (DT this) (NN place))
+      (VP (VBD came)
+        (PP (TO to)
+          (NP (DT the) (NN rescue)))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (NNP MDR))
+    (VP (VBD was)
+      (ADJP (JJ terrific)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD had)
+        (NP
+          (NP (CD two) (VBN cracked) (NNS windsheilds))
+          (PP (IN in)
+            (NP (CD two) (NNS weeks))))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP
+        (VP (VBD were)
+          (ADJP (JJ quick)))
+        (CC and)
+        (VP (VBD helped)
+          (PP (IN with)
+            (NP (DT the) (NN insurance) (NN claim))))))
+    (. .)))
+
+

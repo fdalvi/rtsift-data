@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Service))
+      (VP (VBZ is)
+        (ADVP (RB usually))
+        (ADJP (JJ fast)
+          (CC and)
+          (JJ smooth))))
+    (: ...)
+    (S
+      (S
+        (NP (NNP Staff))
+        (VP (VBZ is)
+          (ADJP (JJ knowledgeable)
+            (CC and)
+            (JJ willing)
+            (S
+              (VP (TO to)
+                (VP (VB work)
+                  (PP (IN with)
+                    (NP (PRP ya)))))))))
+      (: ...)
+      (S
+        (NP (PRP I))
+        (VP (VBP love)
+          (NP
+            (NP (DT the) (NN fact))
+            (SBAR
+              (S
+                (NP (PRP they))
+                (VP (VBP know)
+                  (NP
+                    (NP (NN mine))
+                    (CC and)
+                    (NP
+                      (NP (PRP$ my) (NN wife) (POS 's))
+                      (NN name) (POS 's))))))))))))
+
+

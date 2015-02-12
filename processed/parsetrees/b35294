@@ -1,0 +1,79 @@
+(ROOT
+  (S
+    (ADVP (RB Just))
+    (VP (VB rented)
+      (NP
+        (NP (DT a) (NN space))
+        (PP (IN for)
+          (NP (PRP$ our) (NN truck)
+            (CC and)
+            (NN trailer)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN management) (NN team))
+    (VP (VBD was)
+      (ADJP (RB very) (JJ helpful)
+        (CC and)
+        (JJ knowledgeable))
+      (PP (IN about)
+        (NP
+          (NP (DT the) (NNS services))
+          (VP (VBN offered)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD gave)
+      (NP (PRP me))
+      (NP
+        (NP (DT a) (JJ great) (NN deal))
+        (PP (IN on)
+          (NP (DT this) (NN rental)))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB use)
+        (NP (PRP them))
+        (ADVP (RB again))
+        (PP (IN in)
+          (NP (DT a) (NN heartbeat)))))
+    (. !)))
+
+
+(ROOT
+  (NP (NNP Big) (NNP Fan) (. !)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (VP (VBN been)
+        (ADJP
+          (ADJP (NN nothing))
+          (CC but)
+          (ADJP (JJ wonderful)))
+        (S
+          (VP (TO to)
+            (VP (VB work)
+              (PP (IN with)))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Great) (NN service))
+    (, ,)
+    (NP
+      (NP (JJ clean) (NN space))
+      (CC and)
+      (NP
+        (ADJP (RB really) (JJ ideal))
+        (NN location)))
+    (. .)))
+
+

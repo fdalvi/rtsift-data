@@ -1,0 +1,75 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP love)
+      (NP (PRP her)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (VBZ is)
+      (NP (DT a)
+        (ADJP (JJ fantastic))
+        (NN stylist)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS girls))
+      (PP (IN at)
+        (NP (NN bombshell))))
+    (VP (VBP are)
+      (NP
+        (NP (JJ high) (NN energy))
+        (CC &)
+        (NP (JJ great) (NN stylist))))))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBG coming)
+          (ADVP (RB here))
+          (SBAR (IN since)
+            (S
+              (NP (PRP it))
+              (VP
+                (VP (VBD opened))
+                (CC and)
+                (VP
+                  (ADVP (RB always))
+                  (VBP get)
+                  (NP
+                    (NP (NNS compliments))
+                    (PP (IN on)
+                      (NP (PRP$ my) (NN hair)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Brook))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJS best) (NN stylist))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP have)
+              (ADVP (RB ever))
+              (VP (VBN had)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP
+      (ADVP (RB never))
+      (VBZ disappoints)
+      (NP (NNS !!)))))
+
+

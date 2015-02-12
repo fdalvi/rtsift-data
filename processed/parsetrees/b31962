@@ -1,0 +1,117 @@
+(ROOT
+  (S
+    (NP (NNP Great))
+    (VP (VBP place))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBP 've)
+        (VP (VBN tried)
+          (NP (JJ other) (NNS places)))))
+    (CC and)
+    (S
+      (NP (PRP$ my) (NN son))
+      (VP (VBZ loves)
+        (NP
+          (NP (DT this) (NN place))
+          (NP (DT the) (JJS best)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB also))
+    (VP (VBP serve)
+      (NP
+        (NP (NN dinner))
+        (PP (IN for)
+          (NP (PRP them))))
+      (PP (IN from)
+        (NP
+          (NP (JJ local) (NNS restaurants))
+          (PP (IN for)
+            (NP
+              (NP (DT an) (VBN added) (NN fee))
+              (PP (IN of)
+                (NP (NN course))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP we))
+      (VP (VBD liked)
+        (NP (PRP it))
+        (NP
+          (NP (DT the) (CD one) (NN time))
+          (SBAR
+            (S
+              (NP (PRP we))
+              (VP (VBD used)
+                (NP (PRP them))))))))
+    (CC but)
+    (S
+      (NP (PRP$ their) (NNP Facebook) (NN page))
+      (VP (VBZ says)
+        (SBAR
+          (S
+            (NP (PRP they))
+            (VP (VBD were)
+              (VP (VBG closing)
+                (NP
+                  (NP (NN end))
+                  (PP (IN of)
+                    (NP (NNP Sep) (CD 2012))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NN Anyone))
+    (VP (VBP know)
+      (SBAR (IN if)
+        (S
+          (NP (DT that))
+          (VP (VBZ is)
+            (ADJP (JJ true))))))
+    (. ?)))
+
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NNS kids))
+    (VP (VBD loved)
+      (NP (DT this) (NN place)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Unfortunately))
+    (NP (PRP it))
+    (VP (VBD had)
+      (S
+        (VP (TO to)
+          (VP (VB close)
+            (ADJP (JJ due)
+              (PP (TO to)
+                (NP
+                  (NP (JJ personal) (NNS issues))
+                  (PP (IN of)
+                    (NP (DT the) (NN owner))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (INTJ (UH Please))
+    (, ,)
+    (NP (NN someone))
+    (, ,)
+    (VP (VB open)
+      (NP (DT this) (NN place))
+      (ADVP (RB back) (RB up)))
+    (. !)))
+
+

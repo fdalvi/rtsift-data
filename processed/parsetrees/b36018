@@ -1,0 +1,204 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (JJ new) (NN gas) (NN station))
+      (NP (DT that)))
+    (VP (VBD opened)
+      (PRT (RP up))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN area))
+          (ADVP
+            (NP (DT a) (JJ few) (NNS months))
+            (RB ago)))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Bright))
+    (, ,)
+    (NP (JJ clean) (, ,) (JJ large) (NN convenience) (NN store))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP
+      (ADVP (RB Right) (JJ next))
+      (PP (TO to)
+        (NP
+          (NP (NNP Target))
+          (CC and)
+          (NP (NNP Win) (NNP Co.) (. .)))))
+    (NP (NN Best) (NN part))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (NNP Coke))
+    (VP (VBZ slushies)
+      (PP (IN for)
+        (ADJP (JJ cheap))))
+    (. !)))
+
+
+(ROOT
+  (SINV
+    (VP (VBD Can)
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBP say)
+            (SBAR
+              (S
+                (NP (PRP it))
+                (VP (VBZ 's)
+                  (PP (IN about)
+                    (NP (NN time))))))))))
+    (NP
+      (NP (DT a) (NN gas) (NN station))
+      (VP (VBN opened)
+        (PRT (RP up))
+        (PP (IN between)
+          (NP (NNP Costco)
+            (CC and)
+            (NNP Ann) (NN road) (NNS ?!)))))))
+
+(ROOT
+  (S
+    (NP (DT A) (JJ large) (, ,) (JJ cheap) (NN convenience))
+    (VP (VBP store)
+      (PP (IN with)
+        (NP (JJ cheap) (NN gas)))
+      (SBAR (IN that)
+        (S
+          (NP (PRP you))
+          (VP (VBP do) (RB n't)
+            (VP (VB need)
+              (NP (DT a) (NNP Costco) (NN membership))
+              (PP (IN for)))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP mean) (, ,)
+      (SBARQ
+        (WHNP (WP what) (RB else))
+        (SQ (MD could)
+          (NP (PRP you))
+          (VP (VB ask)
+            (PP (IN for)
+              (NP (NNP !!)))))))))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADVP (RB probably))
+      (NP
+        (NP (DT the) (JJS nearest) (NN gas) (NN station))
+        (PP (IN near)
+          (NP (PRP$ my) (NN neighborhood)))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (ADVP (RB actually))
+            (VP (VBZ has)
+              (NP
+                (NP (DT a)
+                  (ADJP (RB pretty) (JJ big))
+                  (NN convenience) (NN store))
+                (SBAR
+                  (S
+                    (NP (NNP :-RRB-) (NNP Need))
+                    (VP (TO to)
+                      (VP (VB start)
+                        (NP (DT a) (NN road) (NN trip))
+                        (PP (IN with)
+                          (NP
+                            (NP (NNS 100s))
+                            (PP (IN of)
+                              (NP (NN gas) (NN station) (NNS snacks)))))))))))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (NNP AMPM))
+    (VP (VBZ is)
+      (NP (DT the) (NN place))
+      (SBAR (IN for)
+        (S
+          (NP (PRP you))
+          (VP (VBZ :-RRB-)))))))
+
+
+(ROOT
+  (FRAG
+    (ADJP (JJ Easy))
+    (S
+      (VP (TO to)
+        (VP (VB get)
+          (PRT (RP in)
+            (CC and)
+            (RP out))
+          (NP (NN location)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Plenty))
+      (PP (IN of)
+        (NP
+          (NP (NNS pumps))
+          (, ,)
+          (NP (JJ nice) (NN car) (NN wash))
+          (CC and)
+          (NP
+            (NP (NNS lots))
+            (PP (IN of)
+              (NP (NNS drinks/snacks)))))))
+    (VP (VBP are)
+      (ADJP (JJ available)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN staff))
+      (VP (VBP are)
+        (ADVP (RB usually))
+        (ADJP (JJ friendly))))
+    (CC but)
+    (S
+      (NP (EX there))
+      (VP (VBZ is)
+        (NP
+          (NP (DT a) (NN pay))
+          (PP (IN at)
+            (NP
+              (NP (DT the) (NN pump) (NN feature))
+              (VP (VBG making)
+                (S
+                  (NP (PRP it))
+                  (ADJP (RB super) (JJ convenient)))))))))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Tip))
+    (: ...)
+    (S
+      (VP (VB bring)
+        (NP (NN cash))
+        (SBAR (IN unless)
+          (S
+            (NP (PRP you))
+            (VP (VBP want)
+              (S
+                (VP (TO to)
+                  (VP (VB pay)
+                    (NP (DT the) (JJ extra) (NN surcharge))))))))))
+    (. !)))
+
+

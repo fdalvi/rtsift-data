@@ -1,0 +1,101 @@
+(ROOT
+  (NP
+    (NP (JJ Excellent) (NN tennis) (NN club))
+    (, ,)
+    (VP (VBN attached)
+      (PP (TO to)
+        (NP (DT a) (NN community) (NNP Tree) (NNP Top) (NNP Park))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN Tennis) (NN club))
+    (VP (VBZ is)
+      (PP (IN in)
+        (NP
+          (NP (DT the) (JJ same) (NN parking) (NN lot))
+          (PP (IN of)
+            (NP (DT the) (NNS kids) (NN play) (NN area))))))))
+
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (ADJP (RB Very) (JJ nice))
+        (NN park))
+      (PP (IN with)
+        (NP
+          (NP (NNS lots))
+          (PP (IN of)
+            (NP (NN fun))))))
+    (VP (VBP stuff)
+      (PP (IN for)
+        (NP
+          (NP (DT the) (JJ little) (NNS ones))
+          (, ,)
+          (CONJP (RB as) (RB well) (IN as))
+          (NP
+            (NP (DT a) (NN lot))
+            (PP (IN of)
+              (NP
+                (NP (NN seating))
+                (PP (IN for)
+                  (NP (NNS adults)
+                    (S
+                      (VP (TO to)
+                        (VP (VB watch)
+                          (NP (DT the) (NNS kiddos)))))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP (DT a) (JJ typical) (NNP Summerlin) (NN park)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Clean))
+      (, ,)
+      (VP
+        (ADVP (RB well))
+        (VBN maintained))
+      (, ,))
+    (VP (VBZ etc.))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHNP (WP What))
+      (S
+        (NP (PRP I))
+        (VP (VBP like)
+          (SBAR (IN about)
+            (S
+              (NP (PRP it))
+              (VP (VBZ is)
+                (NP (PRP you))))))))
+    (VP (MD can)
+      (VP
+        (VP (VB walk)
+          (PRT (RP down))
+          (NP (DT a) (NN trail))
+          (PP
+            (PP (IN between)
+              (NP (NN housing) (NNS developments)))
+            (CC and)
+            (PP (IN under)
+              (NP (DT a) (NN street)))))
+        (CC and)
+        (VP (VB come)
+          (VP (VBN put)
+            (PP (IN in)
+              (NP (NNP Tree) (JJ Top) (NN park)))))))
+    (. !)))
+
+

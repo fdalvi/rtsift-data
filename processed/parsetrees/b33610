@@ -1,0 +1,78 @@
+(ROOT
+  (NP
+    (NP (JJ Outstanding))
+    (, ,)
+    (NP (JJ authentic) (JJ Columbian) (NN food))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Rotisserie))
+      (VP (VBD cooked)))
+    (, ,)
+    (NP (JJ marinated) (NN chicken))
+    (VP (VBZ falls)
+      (ADVP (RB right))
+      (PP (IN off)
+        (NP (DT the) (NN bone))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Do) (RB n't)
+      (VP (VB expect)
+        (NP
+          (NP
+            (NP (JJ Mexican) (NN rice))
+            (PP (IN with)
+              (NP (PRP$ your) (NNS beans))))
+          (: --)
+          (NP
+            (NP (RB just) (JJ sticky) (JJ white) (NN rice))
+            (, ,)
+            (NP (DT the) (JJS best) (NN kind))))
+        (S
+          (VP (TO to)
+            (VP (VB eat)
+              (PP (IN with)
+                (NP (NNS beans))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN owner))
+      (VP (VBZ says)
+        (SBAR
+          (S
+            (NP (NN everything))
+            (VP (VBZ is)
+              (VP (VBN made)
+                (PP (IN from)
+                  (NP (NN scratch)))))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP believe)
+        (NP (PRP it))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NNS hands))
+    (ADVP (RB still))
+    (VP (VBP smell)
+      (PP (IN like)
+        (NP (NN mesquite))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Chuy) (POS 's))
+    (VP (VBZ is)
+      (PP (IN in)
+        (NP (NN trouble))))
+    (. !)))
+
+

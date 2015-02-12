@@ -1,0 +1,151 @@
+(ROOT
+  (S
+    (NP (NNP Cafe) (NNP Lito))
+    (VP (VBZ is)
+      (ADJP (JJ awesome)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 've)
+        (VP (VBN tried)
+          (NP (JJ several) (NNS things)))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBP are) (RB all)
+        (ADJP (JJ outstanding))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN food) (NNS specials))
+      (VP (VBP are)
+        (ADJP (JJ awesome))))
+    (CC but)
+    (S
+      (NP (DT the) (NNS snacks))
+      (VP (VBP are)
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (VP (VBP bring)
+              (NP (PRP me))
+              (ADVP (RB back) (RB again)
+                (CC and)
+                (RB again)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ carmel) (NN pretzel))
+      (VP (VBZ sticks)))
+    (VP (VBP are)
+      (S
+        (VP (TO to)
+          (VP (VB die)
+            (PP (IN for)
+              (PRN (, ,)
+                (ADVP (RB especially))
+                (NP
+                  (NP (DT the) (NN orange))
+                  (CC and)
+                  (NP (JJ lemon)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN star))
+      (PP (IN of)
+        (NP (DT the) (NN show))))
+    (VP (VBZ is)
+      (NP (DT the) (JJ chili) (JJ lime) (JJ carmel) (NN corn)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJS best) (NN food))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP you))
+            (VP (VBP need)
+              (NP (DT a) (JJ little) (NN snack)))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB reccomend)
+        (NP
+          (NP (NNP Cafe) (NNP Lito))
+          (PP (TO to)
+            (NP (NN everyone))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (ADJP (JJ worth))
+      (S
+        (VP (VBG discovering))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (NN Love))
+    (NP (DT this) (JJ little) (JJ hidden) (NN spot))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN coffee)
+      (CC and)
+      (NN coffee) (NNS drinks))
+    (VP (VBP are)
+      (ADJP
+        (ADJP (JJ good))
+        (CC and)
+        (ADJP (RB reasonably) (VBN priced))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP
+      (NP (DT the) (NN food))
+      (CC and)
+      (NP (NNS snacks)))
+    (VP (VBP are)
+      (ADJP (RB so) (JJ yummy)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (RB Almost) (NN everything))
+      (VP (VBZ is)
+        (VP (VBN made)
+          (PP (IN from)
+            (NP (NN scratch))))))
+    (: ...)
+    (S
+      (NP (PRP it))
+      (VP (VBZ does) (RB n't)
+        (VP (VB get)
+          (ADJP (RB much) (JJR better))
+          (PP (IN than)
+            (NP (DT that))))))
+    (. !)))
+
+

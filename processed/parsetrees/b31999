@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (VP (VB Excellent))
+    (. !)))
+
+(ROOT
+  (NP
+    (NP (NNP Food))
+    (, ,)
+    (NP (NN service) (, ,) (NN presentation) (, ,)
+      (CC and)
+      (NN staff))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS prices))
+    (VP
+      (VP (VBP are)
+        (NP
+          (NP (DT a) (NN bit))
+          (PP (IN on)
+            (NP
+              (NP (DT the) (JJ pricier) (NN side))
+              (PP (IN of)
+                (NP (NNS things)))))))
+      (, ,)
+      (CC but)
+      (VP
+        (PP (IN worth)
+          (NP
+            (NP (PRP it))
+            (PP (IN for)
+              (NP (DT the) (NN ambience)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Highly))
+    (VP (VBD recommended))
+    (. !)))
+
+

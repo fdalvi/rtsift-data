@@ -1,0 +1,111 @@
+(ROOT
+  (NP
+    (NP (NNP Family) (NN run))
+    (, ,)
+    (NP (NN hole-in-the-wall))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VB Go)
+        (ADVP (RB there))
+        (PP (IN for)
+          (NP (JJ great) (JJ cheap) (JJ Mexican) (NN food)))))
+    (, ,)
+    (ADVP (RB however))
+    (VP (VBP do) (RB n't)
+      (VP (VB be)
+        (ADJP (JJ surprised))
+        (SBAR (IN if)
+          (S
+            (NP (PRP it))
+            (VP (VBZ takes)
+              (NP (PRP you))
+              (NP (JJ extra) (NN time))
+              (PP (TO to)
+                (NP (NN order)))
+              (SBAR (IN if)
+                (S
+                  (NP (PRP you))
+                  (VP (MD ca) (RB n't)
+                    (VP (VB speak)
+                      (ADJP (JJ Spanish)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Overall))
+      (NP (DT the) (NN food))
+      (VP (VBD was)
+        (ADJP (JJ excellent))))
+    (CC and)
+    (S
+      (NP (NNS prices))
+      (VP (VBP are)
+        (ADJP (JJ great))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNS Bonus))
+    (: -)
+    (S
+      (NP (PRP they))
+      (VP (VB make)
+        (NP (JJ fresh) (JJ squeezed) (NN veg/fruit) (NNS juices))
+        (PP (TO to)
+          (NP (NN order)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN neighborhood))
+    (VP
+      (VP (VBZ has)
+        (NP (RB much)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (ADJP (JJ desired))
+                (PRN (-LRB- -LRB-)
+                  (S
+                    (VP (VB expect)
+                      (NP (NNS panhandlers)
+                        (CC and)
+                        (NNS bums))
+                      (PP (IN on)
+                        (NP (DT the) (NN corner)))))
+                  (-RRB- -RRB-)))))))
+      (CC but)
+      (VP (VBP do) (RB n't)
+        (VP (VB let)
+          (S
+            (NP (DT that))
+            (VP (VB deter)
+              (NP (PRP you)))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is) (RB not)
+      (NP (DT the) (JJ real) (NN address))
+      (PP (IN from)
+        (NP (NNP las) (NNP Delicias) (NNP de) (NNP Las) (NNP Vegas) (NNP !!!))))))
+
+(ROOT
+  (S
+    (NP (NNP De) (JJ real) (NN address))
+    (VP (VBZ is)
+      (NP (CD 2129) (JJ industrial) (NN road) (NNS !!!)))))
+
+(ROOT
+  (S (CC And)
+    (NP (DT the) (NN phone) (NN #))
+    (VP (VBZ is)
+      (NP (CD 7025416286)))))
+
+

@@ -1,0 +1,208 @@
+(ROOT
+  (S (IN So)
+    (NP (PRP I))
+    (VP
+      (VP (VBD was)
+        (VP
+          (ADVP (RB just))
+          (VBG going)
+          (NP (DT the) (NNS farmers) (NN market))))
+      (CC and)
+      (VP (VBD saw)
+        (NP (DT this) (NN place))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBD was) (RB n't)
+        (PP (IN on)
+          (NP (NN yelp)))))
+    (, ,) (IN so)
+    (S
+      (PP (IN of)
+        (NP (NN course)))
+      (NP (PRP I))
+      (VP (VBD had)
+        (S
+          (VP (TO to)
+            (VP (VB add)
+              (NP (PRP it)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (ADJP (RB really) (JJ late))
+      (PP (IN in)
+        (NP (DT the) (NN day)))
+      (, ,)
+      (SBAR (IN so)
+        (S
+          (NP (DT the) (NN place))
+          (VP (VBD was)
+            (ADJP (JJ empty))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBD walked)
+        (S
+          (VP (TO to)
+            (VP (VB browse)))))
+      (CC and)
+      (VP (VBD took)
+        (NP
+          (NP (DT some) (NNS pictures))
+          (PP (IN of)
+            (NP (DT the) (NN product))))
+        (SBAR (IN that)
+          (S
+            (NP (PRP I))
+            (VP (VBP 've)
+              (VP (VBN uploaded)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP (DT a) (JJ decent) (NN variety))
+      (, ,)
+      (PP
+        (ADVP (RB specially))
+        (VBN given)
+        (NP (DT the) (NN location))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN server))
+    (VP
+      (VP (VBD was)
+        (ADJP (RB super) (JJ helpful)))
+      (CC and)
+      (VP (VBD took)
+        (NP (PRP$ her) (NN time))
+        (S
+          (VP (TO to)
+            (VP (VB explain)
+              (NP (PDT all) (DT the) (JJ different) (NNS deserts)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Unfortunately))
+    (NP (DT the) (NNS deserts))
+    (VP (VBD were)
+      (ADJP (NN nothing) (JJ special)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VP (VBD tasted)
+        (PP (IN like)
+          (NP (DT any) (JJ other) (JJ mediocre) (NN bakery) (NN desert))))
+      (CC and)
+      (VP (VBP are) (RB not)
+        (ADJP (JJ memorable))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD tried)
+      (NP
+        (NP (DT the) (NNP Egg) (NNP tart))
+        (, ,)
+        (NP (NNP Coconut) (NNP cupcake))
+        (, ,)
+        (CC and)
+        (NP
+          (NP (NN eclair))
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBD came)
+                (PRT (RP out))
+                (S
+                  (VP (TO to)
+                    (VP
+                      (ADVP (RB around))
+                      (VB ~)
+                      (NP ($ $) (CD 5) (NN Debit)
+                        (CC or)
+                        (NN cash))
+                      (ADVP (RB only)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Table)
+      (S
+        (NP (NN service))
+        (ADJP (JJ available))))))
+
+
+(ROOT
+  (NP
+    (NP (JJ Great) (NN selection))
+    (PP (IN of)
+      (NP (NNS pastries)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP like)
+      (NP (PRP$ their) (NNP Portuguese) (NNS tarts))
+      (, ,)
+      (PP (IN with)
+        (NP
+          (NP (JJ sugary)
+            (ADJP (JJ custard)
+              (CC and)
+              (JJ chewy))
+            (JJ tart) (NNS shells))
+          (PRN (-LRB- -LRB-)
+            (CONJP (RB instead) (IN of))
+            (NP
+              (NP (DT the) (NN eggy-tasting))
+              (CC and)
+              (NP (JJ flaky) (NNP Hong) (NN Kong-styled) (NNS ones)))
+            (-RRB- -RRB-)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN price))
+      (VP (VBZ is) (RB not)
+        (ADJP (JJ bad))))
+    (, ,)
+    (CC but)
+    (S
+      (ADVP (RB sometimes))
+      (NP (DT some) (NNS items))
+      (VP (VBP taste)
+        (SBAR (IN like)
+          (S
+            (NP (PRP they))
+            (VP (VBP 've)
+              (VP (VBN been)
+                (PP (IN in)
+                  (NP
+                    (NP (DT the) (NN fridge))
+                    (PP (IN for)
+                      (NP (DT a) (NN bit)))))
+                (ADVP (RB too) (RB long))))))))
+    (. .)))
+
+

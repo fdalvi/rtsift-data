@@ -1,0 +1,32 @@
+(ROOT
+  (FRAG (RB Not)
+    (ADJP (RB too) (JJ keen)
+      (PP (IN on)
+        (NP (DT this) (NN place))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NN Pricing))
+    (VP (VBZ is)
+      (ADVP (RB way) (RB too) (JJ high))
+      (VP (VBG considering)
+        (NP
+          (NP (DT the) (NN quality))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NN material))
+              (VP (VBN used)
+                (S
+                  (VP (TO to)
+                    (VP (VB make)
+                      (NP (DT the) (NNS clothes)))))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (DT The) (NNS jeans))
+    (ADVP (RB especially))
+    (. !)))
+
+

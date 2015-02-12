@@ -1,0 +1,238 @@
+(ROOT
+  (S
+    (VP (VB Shopped)
+      (ADVP (RB here))
+      (PP (IN for)
+        (NP
+          (NP (DT a) (NN battery))
+          (SBAR
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP it))
+                (VP (VBD conked)
+                  (PRT (RP out))
+                  (PP (IN from)
+                    (NP (DT the) (NNP AZ) (NN heat))))))
+            (CC and)
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP I))
+                (VP (VBD needed)
+                  (NP (DT a) (JJ tail) (NN light) (NN bulb))
+                  (NP (DT the) (JJ other) (NN day)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS employees))
+      (VP (VBP are)
+        (ADJP (JJ helpful))))
+    (CC and)
+    (S
+      (NP (PRP you))
+      (VP (VBP get)
+        (PRT (RP in)
+          (CC and)
+          (RP out))
+        (NP (JJ quick))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD visited)
+      (SBAR
+        (S
+          (NP (NNP O'Reilly))
+          (VP (VBZ 's)
+            (NP
+              (NP (DT this) (NN afternoon))
+              (PP (IN after)
+                (S
+                  (VP (VBG noticing)
+                    (SBAR
+                      (S
+                        (NP (PRP$ my) (NN headlight))
+                        (VP (VBD was)
+                          (ADVP (RB out)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Jared))
+      (, ,)
+      (NP
+        (NP (DT the) (NN gentleman))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBD greeted)
+              (NP (PRP me))
+              (ADVP
+                (ADVP (RB as) (RB soon))
+                (SBAR (IN as)
+                  (S
+                    (NP (PRP I))
+                    (VP (VBD walked)
+                      (PP (IN in)
+                        (NP (DT the) (NN door)))))))))))
+      (, ,))
+    (VP (VBD was)
+      (ADJP
+        (ADVP (RBR more) (IN than))
+        (JJ helpful)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD told)
+        (NP (PRP him))
+        (SBAR
+          (S
+            (NP (PRP$ my) (NN headlight))
+            (VP (VBD was)
+              (ADVP (RB out)))))))
+    (CC and)
+    (S
+      (NP (PRP he))
+      (ADVP (RB immediately))
+      (VP (VBD found)
+        (NP
+          (NP (DT the) (NN bulb))
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (VBD needed)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (CONJP (RB Not) (JJ only))
+    (SINV (VBD did)
+      (NP (PRP he))
+      (VP (VB help)
+        (S
+          (NP (PRP me))
+          (VP (VB find)
+            (NP (DT the) (JJ right) (NN bulb))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP he))
+      (VP
+        (VP (VBD volunteered)
+          (S
+            (VP (TO to)
+              (VP (VB replace)
+                (NP (PRP it))
+                (PP (IN for)
+                  (NP (PRP me)))))))
+        (, ,)
+        (VP (VBD showed)
+          (NP (PRP me))
+          (SBAR
+            (WHADVP (WRB how))
+            (S
+              (VP (TO to)
+                (VP (VB replace)
+                  (NP (PRP it)))))))
+        (, ,)
+        (CC and)
+        (ADVP (RB also))
+        (VP (VBD gave)
+          (S
+            (NP (PRP me))
+            (NP
+              (NP (DT a) (JJ few) (NNS tips))
+              (PP (IN on)
+                (SBAR
+                  (WHADVP (WRB how))
+                  (S
+                    (VP (TO to)
+                      (VP (VB make)
+                        (NP (DT the) (NNS bulbs))
+                        (ADVP (RB last) (RB longer))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD could) (RB n't)
+      (VP (VB have)
+        (VP (VBN asked)
+          (PP (IN for)
+            (NP (JJR better) (NN service))))))
+    (. !)))
+
+(ROOT
+  (S
+    (PP (IN After)
+      (NP (PDT such) (DT an) (JJ impressive) (NN experience)))
+    (NP (NN today))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP intend)
+      (S
+        (VP (TO to)
+          (VP (VB make)
+            (NP
+              (NP (DT all))
+              (PP (IN of)
+                (NP (PRP$ my) (JJ future) (JJ car-related) (NNS purchases))))
+            (PP (IN at)
+              (NP (NNP O'Reilly) (POS 's)))))))
+    (. .)))
+
+
+(ROOT
+  (FRAG
+    (PP (IN Across)
+      (NP
+        (NP (DT the) (NN street))
+        (PP (IN from)
+          (NP (NNP Autozone)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP 're)
+          (ADJP (RB too) (JJ lazy)
+            (S
+              (VP (TO to)
+                (VP (VB cross)
+                  (NP (DT the) (NN street)))))))))
+    (NP (DT this) (DT this))
+    (VP (VBZ is)
+      (NP (PRP$ your) (NN answer)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT These) (NNS stores))
+    (VP (VBP are)
+      (NP (DT a) (NN mirror) (NN image)))
+    (. .)))
+
+(ROOT
+  (SQ (MD Can)
+    (NP (CD two) (NNS stores))
+    (VP (VB sell)
+      (NP (JJ enough) (NN wiper) (NN fluid))
+      (S
+        (VP (TO to)
+          (VP (VB stay)
+            (PP (IN in)
+              (NP (NN business)))))))
+    (. ?)))
+
+

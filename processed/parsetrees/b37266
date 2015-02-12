@@ -1,0 +1,74 @@
+(ROOT
+  (S
+    (NP (NNP Kristyne))
+    (VP (VBZ is)
+      (ADJP (JJ amazing)))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (JJS Best))
+      (VP (VBP bartender)
+        (PP (IN in)
+          (NP (NN town)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ does) (RB n't)
+        (VP (VB hurt)
+          (SBAR (IN that)
+            (S
+              (NP (PRP she))
+              (VP (VBZ 's)
+                (VP (VBG smoking)
+                  (ADJP (JJ hot)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBZ has)
+      (NP
+        (NP (DT a) (JJ great) (NN staff))
+        (ADVP (DT all) (IN around)))
+      (, ,)
+      (PP
+        (NP (NNP Kristyne)
+          (CC and)
+          (NNP Glen))
+        (IN in)
+        (ADJP (JJ particular))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's)
+        (NP
+          (NP (NNP Monday))
+          (PP (IN at)
+            (NP (CD 9am))))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBP are) (RB not)
+        (ADJP (JJ open)
+          (PP (IN for)
+            (NP (NN breakfast))))
+        (SBAR (IN like)
+          (S
+            (NP (PRP$ their) (NN sign))
+            (VP (VBZ says))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP (NNP Daily))
+    (VP (VBZ 6-10am))
+    ('' '')))
+
+

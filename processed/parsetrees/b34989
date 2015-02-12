@@ -1,0 +1,165 @@
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (ADVP (RB often))
+      (VP (VBN thought)
+        (SBAR (IN that)
+          (S
+            (NP (DT this)
+              (ADJP (JJ petrol) (, ,)
+                (CC and)
+                (NN diesel) (, ,))
+              (NN station))
+            (VP (VBZ has)
+              (NP
+                (NP (DT the) (JJS cheapest) (NN fuel))
+                (PP (IN in)
+                  (NP
+                    (NP (NNP Edinburgh))
+                    (PP (RB because) (IN of)
+                      (NP
+                        (NP (DT the) (NN amount))
+                        (PP (IN of)
+                          (NP (NNS taxis)))))))
+                (SBAR
+                  (WHNP (WDT which))
+                  (S
+                    (VP (MD can)
+                      (VP (VB be)
+                        (VP (VBN seen)
+                          (ADVP (RB there))
+                          (PP (IN at)
+                            (NP
+                              (NP (DT any) (NN time))
+                              (PP (IN of)
+                                (NP (NN day)
+                                  (CC or)
+                                  (NN night))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Apparently))
+    (, ,)
+    (NP (DT this))
+    (VP (VBZ is) (RB not)
+      (NP (DT the) (NN case)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have)
+      (NP (PRP it))
+      (PP (IN on)
+        (NP
+          (NP (JJ great) (NN authority))
+          (, ,)
+          (NP (DT another) (NN taxi) (NN driver))))
+      (, ,)
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (VBZ 's)
+            (ADJP (JJ popular))
+            (SBAR (IN because)
+              (S
+                (NP (NNS drivers))
+                (VP (MD can)
+                  (VP (VB sit)
+                    (CC and)
+                    (VB blether)
+                    (NP (RB there))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (JJ other) (NN taxi) (NN driver))
+    (VP (VBD called)
+      (S
+        (NP (PRP them))
+        (ADJP (JJ fisherwomen)))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (NP (PRP I))
+          (VP (VBP 'm)
+            (ADJP (RB pretty) (JJ sure)
+              (SBAR
+                (S
+                  (VP (VBZ has)
+                    (NP (NN nothing)
+                      (S
+                        (VP (TO to)
+                          (VP (VB do)
+                            (PP (IN with)
+                              (NP (NN halibut)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP -LSB-) (NNP EDIT))
+      (: :)
+      (NP
+        (NP
+          (NP (DT The) (JJS cheapest) (NN fuel))
+          (PP (IN in)
+            (NP (NNP Edinburgh))))
+        (, ,)
+        (ADVP (RB apparently)))
+      (, ,))
+    (VP (VBZ is)
+      (PP (IN at)
+        (NP (NNP Morrisons)
+          (CC &)
+          (NNP Sainsbury) (POS 's)))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBP are)
+            (PP (IN in)
+              (NP
+                (NP (JJ constant) (NN competition))
+                (PP (IN with)
+                  (NP
+                    (NP (DT each) (JJ other) (JJ ~) (NN source))
+                    (, ,)
+                    (NP (DT the) (JJ same) (NN taxi) (NN driver))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (INTJ (UH Well))
+      (NP (PRP you))
+      (VP (MD can)
+        (VP (VB go)
+          (NP
+            (NP (JJ wrong) (, ,) (NN fuel) (, ,) (JJ convenient) (NN store))
+            (, ,)
+            (NP (NN lottery))
+            (CC and)
+            (NP
+              (NP (DT the) (JJ main) (NN thing))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBZ attracts)
+                    (NP (PRP me))
+                    (ADVP (RB here))))))))))
+    (: ...)
+    (S
+      (NP (NNP COSTA))
+      (VP (VBZ COFFEE)
+        (PP (IN with)
+          (NP
+            (NP
+              (QP (CD flavours) (CD 24H)))
+            (NP (DT a) (NN day))))))
+    (. !)))
+
+

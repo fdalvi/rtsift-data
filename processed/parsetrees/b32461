@@ -1,0 +1,148 @@
+(ROOT
+  (S
+    (NP (DT The) (NN campus))
+    (VP (VBZ is)
+      (ADJP (JJ clean)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN school))
+    (VP (VBZ is)
+      (PP (IN above)
+        (NP (NN average)))
+      (PP (IN by)
+        (NP (NNP Las) (NNP Vegas) (NNS standards))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (ADVP (RB First) (RB off))
+    (, ,)
+    (NP (DT this) (NN campus))
+    (VP (VBZ is)
+      (NP (NNP GIGANTIC)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB literally))
+    (VP (MD could) (RB not)
+      (VP (VB tell)
+        (NP (PRP it))
+        (ADVP (RB apart))
+        (PP (IN from)
+          (NP (DT the) (VBG surrounding) (NN college) (NNS buildings)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN school))
+    (VP (VBZ is)
+      (UCP
+        (ADJP (JJ huge))
+        (CC and)
+        (NP
+          (NP
+            (NP (DT the) (NN campus))
+            (SBAR
+              (S
+                (NP (PRP itself))
+                (VP (VBZ is)
+                  (ADJP (RB very) (JJ modern))))))
+          (: -)
+          (NP
+            (NP (JJ bathrooms)
+              (ADJP
+                (ADJP (RB consistently) (JJ clean))
+                (CC and)
+                (ADJP (RB very) (JJ big))
+                (, ,))
+              (NNS lots))
+            (PP (IN of)
+              (NP (NN technology)))
+            (ADJP (JJ available)
+              (PP (IN for)
+                (NP (NN teacher)
+                  (CC and)
+                  (NN student) (NN use))))
+            (, ,)
+            (CC and)
+            (NP
+              (NP (DT a) (JJ strong) (NN admin) (NN presence))
+              (PP (IN at)
+                (NP (DT this) (NN campus))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Per)
+        (NP (PRP$ their) (NNS rankings/scores))))
+    (, ,)
+    (NP (DT this) (NN school))
+    (VP (VBZ does)
+      (ADJP
+        (ADJP (RB fairly) (RB well))
+        (: -)
+        (ADJP (JJR better))
+        (PP (IN than)
+          (NP (NN average))))
+      (, ,)
+      (PP (IN at)
+        (NP (DT the) (RB very) (JJS least))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNPS Teachers))
+      (PP (IN with)
+        (NP (NNP CCSD))))
+    (VP
+      (VP (VBP undergo)
+        (NP
+          (NP (DT a) (NN lot))
+          (PP (IN of)
+            (NP (NN training)))))
+      (CC and)
+      (VP (VBP are)
+        (VP (VBN provided)
+          (PP (IN with)
+            (NP (JJ many) (NNS tools)))
+          (S
+            (VP (TO to)
+              (VP (VB succeed))))))
+      (, ,)
+      (CC and)
+      (VP (VBP are)
+        (ADJP (JJ open)
+          (PP (TO to)
+            (S
+              (VP
+                (VP (VBG meeting)
+                  (PP (IN with)
+                    (NP (NNS parents))))
+                (CC and)
+                (VP (VBG discussing)
+                  (NP
+                    (NP (NN anything))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP (VBP make)
+                          (VP (VB arise)
+                            (PP
+                              (PP (IN as)
+                                (NP
+                                  (NP (DT a) (NN problem))
+                                  (PP (IN on)
+                                    (NP (NN campus)))))
+                              (CC or)
+                              (PP (IN in)
+                                (NP (PRP$ their) (NNS classrooms))))))))))))))))
+    (. .)))
+
+

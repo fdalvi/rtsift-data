@@ -1,0 +1,302 @@
+(ROOT
+  (NP
+    (NP (JJ Ordered) (NN lunch))
+    (PP (IN for)
+      (NP (DT the) (JJ 2nd) (NN time)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ first) (NN time))
+    (NP (PRP it))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (JJ okay))
+        (: -)
+        (ADJP (JJ good) (RB enough)
+          (S
+            (VP (TO to)
+              (VP (VB go)
+                (ADVP
+                  (ADVP (RB back) (RB but))
+                  (SBAR
+                    (WHNP (WP what))
+                    (FRAG
+                      (NP (DT a) (NN disappointment)))))
+                (NP (NN today))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Greek) (NN salad))
+    (VP (VBD loaded)
+      (PP (IN with)
+        (NP
+          (NP (JJ cheap) (NNP Feta) (NN cheese))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBD was)
+                (ADJP
+                  (ADJP (RB very) (JJ hard))
+                  (CC and)
+                  (ADJP
+                    (NP (NN way))
+                    (JJ over-used)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN lettuce))
+    (VP (VBD was)
+      (NP
+        (NP
+          (NP (DT all) (NN Iceburg))
+          (CC and)
+          (NP (RB mostly) (DT the) (JJ hard) (JJ white) (NNS stalks)))
+        (CONJP (RB rather) (IN than))
+        (NP (NNS leaves))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Very) (JJ little) (NN flavor))
+      (PP (TO to)
+        (NP (DT the) (NN dressing))))
+    (, ,)
+    (VP (MD could)
+      (VP (VB see)
+        (SBAR
+          (S
+            (NP
+              (NP (DT no) (NN oregano))
+              (CC and)
+              (NP (DT the) (JJ garlic) (NN bread)))
+            (VP (VBD was)
+              (ADVP (RB greasy)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Co-worker))
+    (VP (VBD was)
+      (ADJP (JJ uninspired)
+        (PP (IN by)
+          (NP (DT the) (NN chicken) (NNS fingers))))
+      (PP (IN with)
+        (NP (JJ soggy) (NNS fries))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBD included)
+        (NP (DT a) (JJ free) (NN cheese) (NN pizza))))
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (UCP
+          (ADJP (JJ greasy))
+          (CC and)
+          (RB also)
+          (ADJP (JJ uninspired)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN sauce))
+    (VP (VBD tasted)
+      (PP (IN like)
+        (NP (JJ plain) (NN tomato) (NN sauce))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (MD wo) (RB n't)
+      (VP (VB be)
+        (VP (VBG ordering)
+          (ADVP (RB again)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (JJS Worst) (NN delivery) (NN I))
+    (VP (VBP have)
+      (ADVP (RB ever))
+      (VP (VBN had)
+        (PP (IN in)
+          (NP (PRP$ my) (NN life)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NN Driver))
+      (VP (VBD was)
+        (ADVP
+          (NP (CD two) (NNS hours))
+          (RB late))))
+    (, ,)
+    (VP (VBD did) (RB n't)
+      (VP (VB understand)
+        (SBAR
+          (WHADVP (WRB how))
+          (S
+            (VP (TO to)
+              (VP (VB open)
+                (NP (DT the) (NN gate))
+                (SBAR (RB even) (IN though)
+                  (S
+                    (NP (PRP I))
+                    (VP (VB order)
+                      (NP (NN food))
+                      (ADVP (RB weekly)))))))))))
+    (CC and)
+    (S
+      (NP (NN nobody) (RB else))
+      (VP (VBZ has)
+        (ADVP (RB ever))
+        (VP (VBN had)
+          (NP (DT a) (NN problem))
+          (S
+            (VP (VBG pressing)
+              (NP (DT a) (NN button)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN food))
+    (ADVP (PRP itself))
+    (VP (VBD was)
+      (ADJP (JJ horrible)))
+    (. .)))
+
+(ROOT
+  (SINV
+    (S
+      (NP (DT The) (NN mozzarella))
+      (VP (VBZ sticks)))
+    (VP (VBD did) (RB n't)
+      (VP
+        (VP (VB have)
+          (NP
+            (NP (NN cheese))
+            (PP (IN in)
+              (NP (PRP them))))
+          (SBAR (IN as)
+            (S
+              (NP (PRP it))
+              (VP (VBD had)
+                (VP (VBN been)
+                  (VP (VBN overcooked)
+                    (SBAR
+                      (WHNP (WDT which))
+                      (S
+                        (VP (VBD made)
+                          (NP (DT the) (NN cheese) (NN leak))
+                          (PP (IN out)
+                            (NP (DT the) (NNS sides))))))))))))
+        (CC and)
+        (VP (VB become)
+          (NP
+            (ADJP (JJ hard) (, ,) (JJ burnt))
+            (NN crust))
+          (ADVP (RB so)
+            (NP (RB basically) (RB just))))))
+    (NP
+      (NP (JJ empty) (NNS shells))
+      (PP (IN of)
+        (NP (JJ fried) (NN crap))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Pizza))
+    (VP (VBD was)
+      (NP
+        (NP (NN ice))
+        (ADJP (JJ cold)
+          (CC and)
+          (JJ tasted)))
+      (PP (IN like)
+        (NP (DT a) (JJ frozen) (NN pizza))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ NEVER) (NN order))
+    (PP (IN from)
+      (NP (DT these) (NNS people)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (WHNP (WP What)
+      (NP (DT a) (NN waste)))
+    (PP (IN of)
+      (NP (NN money)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (MD should)
+      (VP (VB give)
+        (NP
+          (NP (NNS refunds))
+          (PP (IN for)
+            (NP (JJ such) (NN unbelievably))))
+        (NP (NNP BAD) (NN service))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB unreal))
+    (. .)))
+
+
+(ROOT
+  (NP (NNP Love) (NNP Cafe) (NNP Verdi) (. !)))
+
+(ROOT
+  (FRAG
+    (ADJP
+      (ADJP (RB Very) (JJ convenient)
+        (CC and)
+        (JJ close))
+      (PP (TO to)
+        (NP (NNP Anthem))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN staff))
+    (VP (VBZ is)
+      (ADJP (JJ attentive)
+        (CC and)
+        (JJ friendly)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VP (VBP are)
+        (ADJP (RB very) (JJ flexible)
+          (PP (IN with)
+            (NP (NN menu) (NNS items)))))
+      (CC and)
+      (VP (VBP are)
+        (ADJP (JJ willing)
+          (S
+            (VP (TO to)
+              (VP (VB customize)
+                (NP (NNS orders))))))))
+    (. .)))
+
+

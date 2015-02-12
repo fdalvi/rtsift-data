@@ -1,0 +1,282 @@
+(ROOT
+  (FRAG
+    (NP (NNP YAY))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (NP (JJ Yummy) (JJ Thai) (NN food))
+    (ADJP (JJ close)
+      (PP (TO to)
+        (NP
+          (NP (NN home))
+          (PP (IN in)
+            (NP (NNP North) (NNP Las) (NNP Vegas))))))
+    (ADVP (RB finally))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VB Check)
+      (NP (DT this) (NN place))
+      (PRT (RP out)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP New))
+    (VP (VBP place)
+      (SBAR
+        (S
+          (NP (PRP we))
+          (VP (VBD tried)
+            (NP (NN close))
+            (PP (TO to)
+              (NP (PRP$ our) (NN home)))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP (RB Very) (JJ friendly))
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (PRP we))
+        (VP (VBD walked)
+          (PRT (RP in))
+          (S
+            (VP (TO to)
+              (VP (VB order)
+                (S
+                  (VP (VB take)
+                    (PRT (RP out))
+                    (PP (IN around)
+                      (NP (CD 6pm)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Ordered) (NNP Tom))
+    (VP (VBP yum)
+      (NP
+        (NP (NN soup))
+        (, ,)
+        (NP (NN chicken) (JJ red) (NN curry))
+        (, ,)
+        (NP (NN vegetable) (NN Thai) (NNS noodles))
+        (, ,)
+        (CC and)
+        (NP (JJ eggplant) (NN tofu))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 've)
+        (VP (VBN had)
+          (NP
+            (NP (JJ many) (NNP Thai) (NN resteraunts) (NNS experiences))
+            (PP (IN over)
+              (NP (DT the) (NNS years)))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP have)
+        (S
+          (VP (TO to)
+            (VP (VB say)
+              (NP (DT this) (NN food)))))
+        (S
+          (VP (VBN rocked)))
+        (PRN (, ,)
+          (S
+            (NP (PRP it))
+            (VP (VBZ 's)
+              (ADVP (IN in)
+                (NP (DT a) (NN location)))
+              (ADJP (JJ difficult)
+                (S
+                  (VP (TO to)
+                    (VP (VB see)
+                      (PP (IN from)
+                        (NP (DT the) (NN street) (NN close)))
+                      (PP (TO to)
+                        (NP (NNP Ann)
+                          (CC and)
+                          (NNP Simmons)))))))))
+          (, ,))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (NP (PRP I))
+            (VP (VBP hope)
+              (SBAR
+                (S
+                  (NP (NNS people))
+                  (VP (MD will)
+                    (VP (VB take)
+                      (NP (DT the) (NN time)
+                        (S
+                          (VP (TO to)
+                            (VP (VB find))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Portions))
+    (VP (VBD were)
+      (ADJP (JJ large)
+        (CC and)
+        (JJ generous))
+      (, ,)
+      (PP
+        (NP (JJ fresh) (JJ fresh) (NNS ingredients))
+        (IN with)
+        (NP
+          (NP (DT an) (JJ awesome) (NN balance))
+          (PP (IN of)
+            (NP
+              (NP (NN spice) (NN chemistry))
+              (, ,)
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (PP (IN with)
+                    (NP (NNP Thai) (NN food)))
+                  (VP (VBZ is)
+                    (ADVP (RB sometimes))
+                    (ADJP (RP off))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (S
+      (NP (PRP We))
+      (VP (VBD had)
+        (VP (VBN left))))
+    (VP (VBZ overs)
+      (PP (IN for)
+        (NP (NN lunch)
+          (CC and)
+          (NN dinner))))
+    (NP
+      (NP (DT the) (JJ following) (NN day))
+      (PRN (-LRB- -LRB-)
+        (NP (CD two) (NNS people))
+        (-RRB- -RRB-)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (IN So)
+        (PP (IN for)
+          (NP
+            (NP
+              (ADJP ($ $) (CD 38))
+              (NNS dollars))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBZ 's)
+                  (NP
+                    (NP (DT an) (JJ awesome) (NN deal))
+                    (PP (IN In)
+                      (NP
+                        (NP (DT a) (NN n) (NN economy))
+                        (PP (IN of)
+                          (S
+                            (VP (VBG finding)
+                              (NP (JJ good) (NN quality))
+                              (PP (IN at)
+                                (NP (DT a) (JJ good) (NN price)))))))))))))))
+      (, ,)
+      (NP (PRP we))
+      (VP (MD will)
+        (VP (VB be)
+          (VP (VBG going)
+            (ADVP (RB back))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBP have)
+        (NP
+          (NP (NN lunch) (NNS specials))
+          (PP (IN for)
+            (NP (CD 5.99))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VB Give)
+        (NP (PRP them))
+        (NP (DT a) (NN try))))
+    (, ,)
+    (NP (PRP it))
+    (VP (MD may)
+      (VP (VB be)
+        (NP
+          (NP (DT a) (JJ new) (JJ hidden) (NN gem))
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (MD will)
+                (ADVP (RB only))
+                (VP (VB survive)
+                  (SBAR (IN once)
+                    (S
+                      (NP (DT the) (NN word))
+                      (VP (VBZ gets)
+                        (PRT (RP out))))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB just))
+    (VP
+      (VP (VBD called)
+        (S
+          (VP (TO to)
+            (VP (VB ask)
+              (NP (DT some) (NNS questions))
+              (PP (IN about)
+                (NP (DT the) (NN menu)))))))
+      (CC and)
+      (VP (VBD was)
+        (VP (VBN told)
+          (PP (IN by)
+            (NP
+              (NP (DT the) (NN person))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBD answered)
+                    (SBAR (IN that)
+                      (S
+                        (NP (DT this) (NN restaurant))
+                        (VP (VBZ has)
+                          (VP (VBN closed)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN At)
+      (NP (DT the) (RB very) (JJS least)))
+    (, ,)
+    (NP (DT the) (NN phone) (NN number))
+    (VP (VBD posted)
+      (SBAR
+        (S
+          (VP (VBZ is) (RB not)
+            (NP (PRP$ their) (NN phone) (NN number))
+            (ADVP (DT any) (RBR more))))))
+    (. .)))
+
+

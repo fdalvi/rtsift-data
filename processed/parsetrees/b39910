@@ -1,0 +1,88 @@
+(ROOT
+  (FRAG (RB Not)
+    (ADJP (RB very) (JJ impressed)
+      (PP (CC both)
+        (PP (IN with)
+          (NP (NN service)
+            (CC and)
+            (NN food)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN Although)
+      (S
+        (S
+          (S
+            (ADJP (RB quite) (JJ expensive)
+              (SBAR
+                (S
+                  (NP (PRP we))
+                  (VP (VBD were)
+                    (ADJP (RB very) (JJ disappointed)
+                      (PP (IN in)
+                        (NP
+                          (NP (PRP$ our) (NN food))
+                          (SBAR
+                            (S
+                              (NP (PRP we))
+                              (VP (VBD received))))))))))))
+          (, ,)
+          (NP (NNS platters))
+          (VP (VBP are) (RB not)
+            (ADJP (JJ worth)
+              (SBAR
+                (S
+                  (NP
+                    (NP (DT the) (NN money))
+                    (SBAR (IN as)
+                      (S
+                        (NP (PRP you))
+                        (VP (MD could)
+                          (ADVP (RB hardly))
+                          (VP (VB share)
+                            (S
+                              (NP (PRP it))
+                              (ADJP (RB as) (RB very) (JJ low)
+                                (PP (IN on)
+                                  (NP (NNS portions))))))))))
+                  (, ,)
+                  (VP (VBD waited)
+                    (NP
+                      (QP (RB nearly) (CD 40))
+                      (NNS mins))
+                    (PP (IN for)
+                      (NP (JJ main) (NN course)))))))))
+        (CC and)
+        (S
+          (NP (PRP we))
+          (VP (VBD had)
+            (S
+              (VP (TO to)
+                (VP (VB go)
+                  (S
+                    (VP (TO to)
+                      (VP (VB bar)
+                        (S
+                          (VP (TO to)
+                            (VP (VB get)
+                              (NP (PRP$ our) (JJ own) (NNS drinks))
+                              (SBAR (IN as)
+                                (S
+                                  (NP (NN server))
+                                  (VP (VBD was)
+                                    (ADJP (RB that) (JJ bad))))))))))))))))))
+    (, ,)
+    (NP (RB only) (JJ good) (NN point))
+    (VP (VBZ is)
+      (SBAR
+        (S
+          (NP (PRP we))
+          (VP (VBD paid)
+            (PP (IN for)
+              (NP (NN food)))
+            (PP (IN with)
+              (NP (NNP Tesco) (JJ clubcard) (NNS vouchers)))))))
+    (. .)))
+
+

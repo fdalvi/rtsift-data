@@ -1,0 +1,107 @@
+(ROOT
+  (S
+    (NP (DT The) (NNS prices))
+    (ADVP (RB here))
+    (VP (VBP are)
+      (ADVP (RB always))
+      (ADJP
+        (ADJP (DT the) (JJS best))
+        (SBAR (IN so)
+          (S
+            (NP (PRP I))
+            (VP (VBP do) (RB not)
+              (VP (VB shop)
+                (PP (IN for)
+                  (NP (NN travel) (NNS deals)))
+                (ADVP (RB anymore))))))))
+    (. .)))
+
+(ROOT
+  (SBAR (RB Now)
+    (S
+      (NP (PRP I))
+      (VP (VBP have)
+        (NP
+          (NP
+            (NP (JJR more) (NN time))
+            (PP (IN for)
+              (NP (NNS vacations))))
+          (: ...)
+          (NP (NNP LOL)))))))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBP have)
+        (VP (VBN used)
+          (NP (NNP Fanda) (NN travel))
+          (PP (IN for)
+            (NP
+              (NP (NN hotel))
+              (, ,)
+              (NP
+                (NP (NN car))
+                (, ,)
+                (NP (NNS reservations)))))))
+      (CC and)
+      (VP
+        (ADVP (RB soon))
+        (MD will)
+        (VP (VB be)
+          (VP (VBG making)
+            (NP
+              (NP (DT a) (NN cruise) (NN reservation))
+              (SBAR
+                (S
+                  (NP (PRP they))
+                  (VP (VBP have)
+                    (ADVP (RB always))
+                    (VP (VBN had)
+                      (NP (DT the) (JJS best) (NN price))
+                      (S
+                        (VP (VB thank)
+                          (NP (PRP you)))))))))))))))
+
+
+(ROOT
+  (SINV
+    (ADVP (RB Recently))
+    (VP (VBD used)
+      (NP (NNP Fanda) (NNP Travel))
+      (PP (TO to)
+        (NP (NN book))))
+    (NP (DT a) (JJ Pebble) (NNP Beach) (NNP Golf) (NN Vacation))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN website))
+      (VP (VBZ offers)
+        (S
+          (NP (DT every) (NN tool))
+          (ADJP (JJ possible)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP
+        (NP (NNP Robert) (POS 's))
+        (JJ personal) (NN service))
+      (VP (VBD allowed)
+        (S
+          (NP (PRP me))
+          (VP (TO to)
+            (VP (VB get)
+              (NP
+                (NP (DT the) (JJS best) (NN price))
+                (PP (IN on)
+                  (NP
+                    (NP (DT a) (JJ first) (NN class))
+                    (, ,)
+                    (ADVP (RB once)
+                      (PP (IN in)
+                        (NP (DT a) (NN lifetime) (NN vacation))))))))))))))
+
+

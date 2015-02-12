@@ -1,0 +1,214 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN room))
+      (VP (VBD was)
+        (ADJP (RB very) (JJ clean))))
+    (CC and)
+    (S
+      (NP (DT the) (NN staff))
+      (VP (VBD was)
+        (ADJP (RB very) (JJ nice))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Went)
+      (PP (TO to)
+        (NP (DT the) (NN restaurant)))
+      (SBAR (IN because)
+        (S
+          (NP (PRP we))
+          (VP (VBD were)
+            (VP (VBN told)
+              (SBAR
+                (S
+                  (NP (PRP we))
+                  (VP (VBD got)
+                    (NP (DT a) (NN discount))
+                    (PP (IN for)
+                      (S
+                        (VP (VBG staying)
+                          (PP (IN at)
+                            (NP (DT the) (NN hotel))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN food))
+    (VP (VBD was)
+      (ADJP (JJ ok)
+        (CC but)
+        (RB very) (JJ overpriced)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBD was)
+      (NP
+        (NP (DT the) (JJS worst) (NN place))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP have)
+              (ADVP (RB ever))
+              (VP (VBN stayed)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD felt)
+      (SBAR (IN like)
+        (S
+          (NP (PRP I))
+          (VP (VBD was)
+            (PP (IN in)
+              (NP (DT a) (NN motel) (CD six)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN bug))
+      (PP (IN in)
+        (NP
+          (NP (PRP$ my) (NN bed))
+          (, ,)
+          (NP (NN couch)))))
+    (VP (VBD was)
+      (VP (VBN mixed)
+        (S
+          (VP (VB match)
+            (NP (NN cushion))))
+        (, ,)
+        (FRAG (RB not)
+          (ADJP (RB very) (JJ clean)))))
+    (. .)))
+
+(ROOT
+  (NP (NNP Gross)))
+
+
+(ROOT
+  (S
+    (NP (NN Front) (NN desk))
+    (VP (VBZ is)
+      (ADJP (RB very) (JJ friendly)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBD had)
+        (NP
+          (NP (JJ complimentary) (NNS wifi))
+          (PP (IN for)
+            (S
+              (VP (VBG being)
+                (NP (DT a) (JJ westgate) (NN owner))))))))
+    (CC but)
+    (S
+      (NP (DT the) (NN downfall))
+      (VP (VBZ is)
+        (ADVP (RB only))
+        (VP (VBG being)
+          (ADJP (JJ able)
+            (S
+              (VP (TO to)
+                (VP (VB connect)
+                  (PP (TO to)
+                    (NP
+                      (NP (CD one) (NN device))
+                      (PP (IN at)
+                        (NP (DT a) (NN time))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS units))
+      (VP (VBD had)
+        (NP (CD two) (JJ large) (JJ jetted) (NN garden) (NNS tub))))
+    (CC but)
+    (S
+      (NP (PRP you))
+      (VP (MD can)
+        (ADVP (RB only))
+        (VP (VB fill)
+          (S
+            (NP (PRP it))
+            (NP
+              (NP (CD 1/4))
+              (PP (IN of)
+                (NP (DT the) (NN way)))))
+          (SBAR (IN before)
+            (S
+              (NP (DT the) (JJ hot) (NN water))
+              (VP (VBZ is)
+                (ADJP (RB completely) (VBN gone))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (VP (VBN told)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBZ 's)
+              (SBAR (IN because)
+                (S
+                  (NP (PRP they))
+                  (VP (VBP use)
+                    (NP
+                      (NP (DT a)
+                        (ADJP (CD 25) (NN gallon))
+                        (NN water) (NN heater))
+                      (PP (IN for)
+                        (NP (DT the) (CD two) (NNS units)))
+                      (SBAR
+                        (WHNP (WDT which))
+                        (S
+                          (VP (VBZ is)
+                            (ADJP (JJ crazy))))))))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP
+      (ADJP (RB Very) (JJ grateful)
+        (S
+          (VP (TO to)
+            (VP (VB have)
+              (NP (DT a) (NN washer)
+                (CC and)
+                (NN dryer) (NN unit))
+              (SBAR (IN although)
+                (S
+                  (NP (PRP it))
+                  (VP (VBZ 's)
+                    (ADJP (RB very) (JJ small)
+                      (PP (IN in)
+                        (NP (NN capacity))))
+                    (ADVP (RB so)
+                      (NP (CD one))))))))))
+      (NN load))
+    (VP (SYM =)
+      (NP (PDT half) (DT a) (NN load)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NN Kitchen))
+    (VP (VBD was)
+      (VP
+        (ADVP (RB completely))
+        (VBN stocked)))
+    (. !)))
+
+

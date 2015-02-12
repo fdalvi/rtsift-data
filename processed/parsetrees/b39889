@@ -1,0 +1,44 @@
+(ROOT
+  (NP
+    (NP (DT An) (NN interior))
+    (PP (IN from)
+      (NP
+        (NP (DT a) (JJ bygone) (NN age))
+        (PP (IN with)
+          (NP
+            (NP (DT a) (JJ limited) (NN selection))
+            (PP (IN of)
+              (NP (NN booze)))))))
+    (S
+      (VP (TO to)
+        (VP (VB match))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Toilets))
+      (PP (IN in)
+        (NP
+          (NP (JJ good) (NN nick)
+            (CC and)
+            (JJ good) (NN amount))
+          (PP (IN of)
+            (NP (NN seating))))))
+    (RB all)
+    (VP (VBZ makes)
+      (PP (IN for)
+        (NP (DT a) (JJ good) (NN stopping)))
+      (PP (IN off)
+        (NP
+          (NP (NN point))
+          (PP (IN on)
+            (NP
+              (NP (DT the) (NN journey))
+              (PP (TO to)
+                (NP (DT either) (DT The) (NNP Shore)
+                  (CC or)
+                  (NNP Leith) (NNP Walk))))))))
+    (. .)))
+
+
