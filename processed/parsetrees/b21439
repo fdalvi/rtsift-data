@@ -1,0 +1,151 @@
+(ROOT
+  (S
+    (NP (NNP Dinkey) (NNP Donkey))
+    (VP (VBZ is)
+      (ADVP
+        (NP (CD 2) (NNS doors))
+        (RB over))
+      (PP (IN from)
+        (NP (DT the) (NNP Bad) (NNP Donkey))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Dinkey) (NNP Donkey))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NNP Ice) (NNP Cream)
+          (CC and)
+          (NNP Breakfast) (NNP Parlor))
+        (VP (VBN connected)
+          (PP (TO to)
+            (NP (DT the) (NNP Bad) (NNP Donkey))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Yummy) (NN ice) (NNP cream)
+      (CC &)
+      (NNP shakes))
+    (VP (VBD scooped)
+      (PP (IN with)
+        (NP (DT a) (JJ heavy) (NN hand))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (NNP Breakfast))
+    (VP (VBZ is)
+      (VP (VBG being)
+        (VP (VBN served)
+          (PP (IN from)
+            (NP (DT this) (JJ neon-lime) (JJ green) (NN parlor))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Great) (NN coffee))
+    (, ,)
+    (NP
+      (NP (JJ perfect) (NNS bagels))
+      (, ,)
+      (NP (JJ great) (NN egg) (NNS sanwiches)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (VP (VBN tracked)
+        (PRT (RP down))
+        (NP
+          (NP (DT the) (JJS Best) (NN Bagel))
+          (PP (IN in)
+            (NP
+              (NP (NNP Phoenix) (NNP Metro))
+              (PP (IN from)
+                (NP (DT a) (NNP New) (NNP York) (NN bagelman))))))
+        (S
+          (VP (VBG recreating)
+            (NP
+              (NP (DT the) (JJ magic) (NN daily))
+              (PRN (-LRB- -LRB-)
+                (VP (VBG selling)
+                  (NP
+                    (ADJP (JJ wholesale)
+                      (PP (IN near)
+                        (NP (NNP Deer) (NNP Valley))))
+                    (NN airport)))
+                (-RRB- -RRB-)))))))))
+
+
+(ROOT
+  (NP
+    (NP (JJ Yummy) (NN ice))
+    (NP (NNP cream) (-LRB- -LRB-) (NNP Cinnamon))
+    (. ?)))
+
+(ROOT
+  (S
+    (INTJ (UH Yes))
+    (, ,)
+    (VP (VB please))
+    (. !)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP -RRB-))
+      (CC and)
+      (NP (DT the) (`` ``) (JJ dinky) ('' '') (NN size)))
+    (VP (VBZ is)
+      (ADJP (RB just) (JJ perfect)
+        (PP (IN for)
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (PRP you))
+              (VP (VBP want)
+                (S
+                  (VP (TO to)
+                    (VP
+                      (VP (VB splurge)
+                        (PP (IN on)
+                          (NP (NN vacation))))
+                      (CC but)
+                      (RB not)
+                      (VP (VB go)
+                        (ADJP (RB too) (JJ crazy))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (FRAG (RB Not)
+        (ADJP (JJ sure)))
+      (NP (PRP we))
+      (VP (MD would)
+        (VP (VB have)
+          (VP
+            (ADVP (RB ever))
+            (VBN found)
+            (NP (PRP it))
+            (SBAR (IN if)
+              (S
+                (NP (NN someone))
+                (VP (VBD had)
+                  (VP (VBN brought)
+                    (S
+                      (NP (PRP us))
+                      (ADVP (RB there)))))))))))
+    (CC but)
+    (S
+      (ADJP (RB so) (JJ glad)
+        (SBAR
+          (S
+            (NP (PRP we))
+            (VP (VBD did)
+              (VP (VB go)))))))
+    (. !)))
+
+

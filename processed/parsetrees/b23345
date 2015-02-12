@@ -1,0 +1,88 @@
+(ROOT
+  (NP
+    (NP (NNP FREE) (NNP Lemonade) (NNP Mixer))
+    (PP (IN from)
+      (NP (NNS @AuntieAnnes)))
+    (PP (IN on)
+      (NP (NN @twitter)))
+    (. .)))
+
+(ROOT
+  (INTJ (UH Thanks) (. !)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB :--RRB-))
+      (NP (PRP I))
+      (VP (VBD tried)
+        (NP (DT the) (NN Watermelonade))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (ADVP (RB just))
+        (ADJP (RB as) (JJ refreshing))
+        (SBAR (IN as)
+          (S
+            (NP (PRP it))
+            (VP (VBZ sounds))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NNP Favorite) (NNP Pretzel) (NN place-you))
+    (VP (VBP have)
+      (S
+        (VP (TO to)
+          (VP (VB try)
+            (NP (PRP$ their) (JJ NEW) (JJ pepperoni) (NN pizza) (NN pretzel))
+            (PP (IN with)
+              (NP (NN marinara) (NNS !!)))))))))
+
+(ROOT
+  (NP
+    (NP (DT A) (NN change))
+    (PP (IN from)
+      (NP (DT that) (JJ old) (NN slice)))
+    (PP (IN of)
+      (NP (NN pizza)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Be)
+      (VP (VBN Sure)
+        (S
+          (VP (TO to)
+            (VP (VB Sign)
+              (PRT (RP up))
+              (PP (IN on)
+                (NP
+                  (NP (PRP$ their) (NN website))
+                  (PP (IN for)
+                    (NP (NNP Pretzel) (NNPS Perks)))))
+              (S
+                (VP (TO to)
+                  (VP (VB get)
+                    (NP
+                      (NP (JJ FREE) (NN stuff))
+                      (, ,)
+                      (NP (NNP Coupons)
+                        (CC &)
+                        (NP (JJ other) (JJ special) (NNS offers))))))))))))
+    (. .)))
+
+
+(ROOT
+  (FRAG
+    (NP
+      (ADJP (JJ Yummy)
+        (CC and)
+        (JJ delicious))
+      (JJ quick) (NN snack))
+    (PP (IN while)
+      (NP (NN shopping))
+      (. .))))
+
+

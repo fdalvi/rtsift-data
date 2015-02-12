@@ -1,0 +1,97 @@
+(ROOT
+  (S
+    (NP (NNP BG))
+    (VP (VBZ Cycles)
+      (NP
+        (NP
+          (NP (NN stock) (NNS bikes))
+          (PP (TO to)
+            (NP (NN suit) (NN everyone) (NN mountain))))
+        (CC &)
+        (NP
+          (NP (JJ all-terrain) (NNS bikes))
+          (, ,)
+          (NP (NNP BMX))
+          (, ,)
+          (NP (JJ off-road) (NNS bikes))
+          (, ,)
+          (NP (NN racing) (NNS bikes))
+          (, ,)
+          (NP (NNS sports) (NNS bikes))))
+      (, ,)
+      (PP (IN through)
+        (S
+          (VP (VBG touring)
+            (NP (NNS bikes))
+            (PP (TO to)
+              (NP
+                (NP (NN hybrid))
+                (CC &)
+                (NP (JJ urban) (NN street) (NNS bikes))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (DT the) (NN run))
+    (NP (DT a) (JJ great) (NN repair) (NN service))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP use)
+        (NP (PRP them))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP I))
+            (VP (VBP want)
+              (NP (DT a) (JJ new) (NN tyre)))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (ADVP (RB just))
+      (VP (VBP do) (RB n't)
+        (VP (VB want)
+          (S
+            (VP (TO to)
+              (VP (VB get)
+                (NP (DT all) (JJ oily))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (MD can)
+      (VP
+        (VP (VB true)
+          (NP (PRP$ your) (NNS wheels)))
+        (CC and)
+        (VP (VB replace)
+          (NP (NNS bits)
+            (CC and)
+            (NNS pieces))
+          (ADVP
+            (ADVP (RB very) (RB quickly))
+            (CC and)
+            (ADVP (RB expertly))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (DT The) (RB also) (NN stock) (NNS lots))
+    (PP (IN of)
+      (NP (JJ skate) (NNS accessories)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Great))
+    (NP
+      (NP (NN staff))
+      (CC and)
+      (NP (JJ good) (NNS prices)))
+    (. .)))
+
+

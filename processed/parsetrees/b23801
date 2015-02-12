@@ -1,0 +1,83 @@
+(ROOT
+  (S
+    (S
+      (VP
+        (VP (VBD had)
+          (NP
+            (NP (DT a) (NN sicilian) (NN pizza))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBD was)
+                  (ADJP (JJ good)))))))
+        (: ...)
+        (SBAR
+          (SBAR
+            (S
+              (S (CC but)
+                (NP (PRP they))
+                (VP (VBD put)
+                  (NP (PRP it))
+                  (PP (IN on)
+                    (NP (NN foil)))))
+              (CC and)
+              (S
+                (NP (PRP it))
+                (VP (VBD stuck)
+                  (PP (IN on)
+                    (NP (DT the) (NN foil)))))))
+          (CC and)
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBD was)
+                (ADJP (RB incredibly) (JJ annoying))))))
+        (: ...)))
+    (ADVP (RB almost))
+    (VP (VBD had)
+      (NP
+        (NP
+          (NP (NN foil))
+          (PP (IN for)
+            (NP (NN dinner))))
+        (: ...)
+        (NP
+          (NP (DT NO) (NN BUENO))
+          (, ,)
+          (NP (NNP MAN)))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (NNP Poor))
+    (NP (NN guest) (NN service))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (VP (VBP ur)
+          (S
+            (VP (VBG looking)
+              (PP (IN for)
+                (NP (NN service)))
+              (PP (IN with)
+                (NP (DT an) (NN attitude))))))))
+    (NP (DT this))
+    (VP (VBZ is)
+      (NP (NN ur) (NN spot)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (MD Wo) (RB n't)
+      (VP (VB be)
+        (VP (VBG coming)
+          (PP (TO to)
+            (NP (DT this) (NN location)))
+          (ADVP (RB again)))))
+    (. .)))
+
+

@@ -1,0 +1,135 @@
+(ROOT
+  (NP (JJ Great) (NN service) (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP (RB Extremely) (JJ knowledgeable))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Eugene))
+    (VP (VBD was)
+      (ADJP (JJ great)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP one))
+        (VP (VBZ is)
+          (PP (IN in)
+            (NP
+              (NP (NN need))
+              (PP (IN of)
+                (NP (NN anything) (NNP Montblanc))))))))
+    (NP (DT this))
+    (VP (VBZ is)
+      (NP
+        (NP (DT THE) (NN store))
+        (SBAR
+          (WHPP (TO to)
+            (WHNP (WDT which)))
+          (S
+            (NP (PRP you))
+            (VP (VBP need)
+              (S
+                (VP (TO to)
+                  (VP (VB pay)
+                    (NP (DT a) (NN visit))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VB emphasize)
+      (NP (DT the) (NN word))
+      (SBAR (IN because)
+        (S
+          (NP (DT this) (JJ particular) (NN location))
+          (VP (VBZ is)
+            (ADJP (RB that) (JJ good))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN On)
+      (NP
+        (NP (DT the) (NN occasion))
+        (PP (IN of)
+          (NP (PRP$ my) (NN visit)))))
+    (NP (PRP I))
+    (VP (VBD was)
+      (ADJP (JJ fortunate)
+        (S
+          (VP (TO to)
+            (VP
+              (VP (VB have)
+                (NP (NNP Julie) (NNP Y.) (NN approach)))
+              (, ,)
+              (VP (VB greet))
+              (CC and)
+              (ADVP (RB later))
+              (VP (VB proceed)
+                (S
+                  (VP (TO to)
+                    (VP (VB demonstrate)
+                      (PP (IN for)
+                        (NP (PRP me))
+                        (NP
+                          (NP (NNP Montblanc) (POS 's))
+                          (NNP Oyster) (NNP Grey) (NN ink))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (MD would)
+      (ADVP (RB also))
+      (VP (VB produce)
+        (CC and)
+        (VB show)
+        (PP (TO to)
+          (NP (PRP$ my) (NN fiance)))
+        (NP (DT a) (NNP Princess) (NNP Grace) (NN fountain) (NN pen))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Julie))
+      (VP (VBZ is)
+        (NP (DT an) (NNP All-Star))))
+    (CC and)
+    (S
+      (NP (DT the) (NN store))
+      (VP (VBZ is)
+        (VP (VBN spacious)
+          (PP (IN with)
+            (NP
+              (NP (DT a) (JJ large) (NN selection))
+              (PP (IN of)
+                (NP (NN merchandise))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP concur)
+      (PP (IN with)
+        (NP
+          (NP
+            (NP (DT a) (NN statement))
+            (PP (IN from)
+              (NP (DT the) (CD 4/4/2013) (NN review)))
+            (, ,) ('' ''))
+          (: ...)
+          (NP
+            (NP (NN shop))
+            (PP (IN at)
+              (NP (NNP Montblanc)))))))
+    (. !)))
+
+

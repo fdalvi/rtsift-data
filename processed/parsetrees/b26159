@@ -1,0 +1,330 @@
+(ROOT
+  (S
+    (NP (RB Not) (NNP Roberto))
+    (VP (VBZ 's)
+      (ADVP
+        (ADVP (RB anymore))
+        (PRN (-LRB- -LRB-)
+          (S
+            (NP (NNP Maria))
+            (VP (VBZ 's)
+              (NP (NNP Taco) (NNP Shop))
+              (ADVP (RB now))))
+          (. ?) (-RRB- -RRB-))))
+    (: ...)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB probably))
+    (SBAR (IN because)
+      (S
+        (NP (PRP they))
+        (VP (VBD got)
+          (SBAR
+            (S
+              (NP (PRP$ their) (NN franchise))
+              (VP (VBD pulled)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBN Avoid))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBD used)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (NP (DT a)
+              (NX (NNP Roberto) (POS 's)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Now))
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (VP (VBN called)
+        (S
+          (NP (NNP Maria) (POS 's)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Pretty)
+        (NP (RB much) (DT the) (JJ same) (NN menu))
+        (ADVP (RB though))))
+    (, ,)
+    (CC and)
+    (S
+      (VP (MD might)
+        (ADVP (RB even))
+        (VP (VB be)
+          (NP (DT the) (JJ same) (NNS employees)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD ordered)
+      (NP
+        (NP (DT a) (NN california) (NN burrito))
+        (CC and)
+        (NP (DT a) (NN cheese) (NN quesadilla))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Burrito))
+    (VP
+      (VP (VBD was)
+        (ADJP (JJ fine)))
+      (, ,)
+      (CC but)
+      (VP (VBD was)
+        (VP (VBG missing)
+          (NP (NN guacamole)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 'm) (RB not)
+        (ADJP (JJ sure))
+        (SBAR (IN if)
+          (S
+            (NP (PRP they))
+            (VP (VBD forgot)
+              (S
+                (VP (TO to)
+                  (VP (VB put)
+                    (NP (PRP it))
+                    (PP (IN in))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP
+        (NP (JJ carne) (NN asada))
+        (PP (IN without)
+          (NP (NN guacamole))))
+      (VP (VBZ is)
+        (ADVP (RB just))
+        (ADJP (RB plain) (JJ wrong))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Quesadilla))
+    (VP (VBD was)
+      (ADJP (JJ okay)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB have)
+        (VP (VBN preferred)
+          (PP
+            (PP (IN for)
+              (S
+                (NP (PRP it))
+                (VP (VB be)
+                  (ADJP (RBR more) (JJ buttery)))))
+            (CC and)
+            (PP (IN for)
+              (NP (DT the) (NN tortilla)
+                (S
+                  (VP (TO to)
+                    (VP (VB be)
+                      (ADJP (RBR more) (JJ flakey))
+                      (ADVP (RB though)))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD used)
+        (S
+          (VP (TO to)
+            (VP (VB love)
+              (NP (NNP Roberto) (POS 's)))))
+        (PRN (-LRB- -LRB-)
+          (S
+            (NP (NNP aka) (NNP Maria))
+            (VP (VBZ 's)))
+          (-RRB- -RRB-))
+        (SBAR (IN because)
+          (S
+            (NP (PRP I))
+            (VP (MD could)
+              (VP (VB walk)
+                (ADVP (RB there))))))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBD had)
+        (NP
+          (ADJP (JJ decent) (, ,) (JJ consistent))
+          (JJ Mexican) (NN food))
+        (PP (IN at)
+          (NP (DT a) (JJ good) (NN price)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB However))
+    (, ,)
+    (NP (DT the) (JJ last) (JJ couple) (NNS times))
+    (PRN
+      (S
+        (NP (PRP I))
+        (VP (VBP 've)
+          (VP (VBN been)
+            (ADVP (RB there)))))
+      (, ,))
+    (NP (DT the) (NN food))
+    (VP (VBZ has) (RB not)
+      (VP (VBN been)
+        (ADJP (JJ decent))
+        (ADVP (IN at) (DT all))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NN husband))
+    (VP
+      (VP (VBD got)
+        (NP (DT a) (JJ carne) (NN asada) (NN burrito)))
+      (CC and)
+      (VP (VBD pulled)
+        (PP (IN out)
+          (NP
+            (NP (DT a) (NN chunk))
+            (PP (IN of)
+              (NP
+                (ADJP (JJ fat)
+                  (ADVP (RB probably))
+                  (NP (CD one)))
+                (NN inch)))))
+        (PP (IN by)
+          (NP (CD one) (NN inch)))
+        (PP (IN by)
+          (NP (CD one) (NN inch)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT No) (NN exaggeration))
+    (, ,)
+    (NP (EX there))
+    (VP (VBD was)
+      (NP
+        (NP (CD zero) (NN meat))
+        (PP (IN on)
+          (NP (DT this) (NN chunk)))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Sick))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN After)
+      (NP (DT that)))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBD decided)
+      (S
+        (VP (TO to)
+          (VP (VB give)
+            (NP (NNP Roberto/Maria))
+            (NP
+              (QP (CD one) (JJR more)))
+            (S
+              (VP (VB try)
+                (SBAR (IN since)
+                  (S
+                    (NP (PRP we))
+                    (VP (VBD had)
+                      (VP (VBN had)
+                        (NP
+                          (NP
+                            (ADJP (RB so) (JJ many))
+                            (JJ good) (NNS times))
+                          (PP (IN in)
+                            (NP (DT the) (NN past))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Once) (RB again))
+    (, ,)
+    (S
+      (NP (DT the) (NN meat))
+      (VP (VBD was)
+        (ADVP (RB gristly))))
+    (CC and)
+    (S
+      (NP
+        (NP (DT neither))
+        (PP (IN of)
+          (NP (PRP us))))
+      (VP (VBD finished)
+        (NP (PRP$ our) (NNS meals))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Instead))
+    (, ,)
+    (NP (PRP I))
+    (VP (MD 'll)
+      (VP (VB be)
+        (VP (VBG going)
+          (ADVP (IN across)
+            (NP (DT the) (NN street))
+            (PP (TO to)
+              (NP
+                (NP
+                  (ADJP (CD 100) (NN %))
+                  (NNP Natural))
+                (PP (IN for)
+                  (NP (PRP$ my) (JJ takeout) (JJ Mexican) (NN food)))))
+            (PP (IN from)
+              (ADVP (RB now))))
+          (PP (IN on)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's)
+        (ADJP
+          (ADVP
+            (NP (DT a) (RB little))
+            (RBR more))
+          (JJ expensive))))
+    (, ,)
+    (CC but)
+    (S
+      (ADVP (IN at) (JJS least))
+      (NP (PRP I))
+      (VP (MD can)
+        (ADVP (RB actually))
+        (VP (VB eat)
+          (NP (PRP it)))))
+    (. !)))
+
+

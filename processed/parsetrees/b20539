@@ -1,0 +1,75 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 've)
+        (VP (VBN used)
+          (NP
+            (NP (DT these) (NNS guys))
+            (PP (IN for)
+              (NP (NNS years)))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP 've)
+        (VP (VBN switched)
+          (NP (PRP$ my) (JJ whole) (NN family))
+          (PP (TO to)
+            (NP (PRP them))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Mr) (NNP Murray))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJS best) (NN optician))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP 've)
+              (ADVP (RB ever))
+              (VP (VBN come)
+                (PRT (RP across))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Ross))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBZ helps)
+            (SBAR
+              (S
+                (NP (PRP you))
+                (VP (VBP choose)
+                  (SBAR
+                    (S
+                      (NP (DT a) (NN frame))
+                      (VP
+                        (VP (VBZ has)
+                          (NP (JJ great) (NN taste)))
+                        (CC and)
+                        (VP (VBZ Maureen)
+                          (NP (DT the) (NN receptionist)))))))))))))
+    (VP (VBZ knows)
+      (SBAR
+        (WHNP (RB exactly) (WP what))
+        (S
+          (VP (VBZ 's)
+            (VP (VBG going)
+              (PRT (RP on))
+              (PP (IN in)
+                (NP (DT the) (NN practice))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (DT A) (JJ great) (NN value))
+    (PP (IN for)
+      (NP (NN money) (JJ optical) (NN experience)))
+    (. .)))
+
+

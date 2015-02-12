@@ -1,0 +1,174 @@
+(ROOT
+  (NP
+    (NP
+      (NP (DT The) (JJ only) (NN downfall))
+      (VP (VBZ is)
+        (NP (NNS hours))))
+    (: ;)
+    (NP
+      (NP
+        (NP (CD 10-8) (NN mon))
+        (: -)
+        (ADJP (JJ fri,10-7)
+          (NP (CD sat)
+            (CC and)
+            (CD 12-4))))
+      (PP (IN on)
+        (NP (NN sun))))))
+
+
+(ROOT
+  (S
+    (NP (NNP Cheaper))
+    (ADVP (RB then))
+    (VP
+      (VP (VBP KFC))
+      (CC and)
+      (VP (VBZ tastes)
+        (ADVP (RBR better))
+        (PP (IN in)
+          (NP (PRP$ my) (NN book)))))
+    (. .)))
+
+
+(ROOT
+  (SINV
+    (S
+      (INTJ (UH Well))
+      (NP (PRP I))
+      (ADVP (RB actually))
+      (VP (VBD went)
+        (PP (TO to)
+          (NP (DT the) (NN burger) (NN king)))
+        (PP
+          (ADVP (RB right) (JJ next) (NN door))
+          (IN but)
+          (NP (DT the) (NNS popeyes)))))
+    (VP (VBZ is))
+    (NP
+      (NP (DT a) (JJ great) (NN place))
+      (ADVP (RB also)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Borne) (NNS places))
+    (VP (VBP have)
+      (NP (JJ great) (NN customer) (NN service)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP want)
+          (NP (NN something))
+          (PP
+            (ADVP (RB cheap))
+            (RB not)
+            (NP (DT a) (JJ bad) (NN place)))
+          (S
+            (VP (TO to)
+              (VP (VB go)))))))
+    (, ,)
+    (S (CC but)
+      (NP (PRP I))
+      (VP (VBP recommend)
+        (S
+          (VP (VBG going)
+            (PP (IN after)
+              (NP (DT the) (NN lunch) (NN rush)))))))
+    (CC or)
+    (S
+      (NP (PRP you))
+      (VP (MD might)
+        (VP (VB be)
+          (VP (VBG waiting)
+            (PP (IN for)
+              (NP (DT a) (NN bit)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ is)
+        (ADJP (JJ popeyes))))
+    (CC and)
+    (S
+      (NP (NN burger) (NN king))
+      (VP (VBD combined)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBD was)
+              (NP (PRP$ my) (JJ last) (NN meal))
+              (SBAR (IN before)
+                (S
+                  (NP (PRP I))
+                  (VP (VBD started)
+                    (NP (PRP$ my) (NN weight) (NN loss))
+                    (PP (IN for)
+                      (NP (DT the) (NN year)))))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNS Thanks))
+    (PP (IN for)
+      (NP (DT a) (JJ good) (JJ last) (NN meal)))
+    (. .)))
+
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What) (JJR more))
+    (SQ (MD can)
+      (NP (PRP you))
+      (VP (VB say)))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP
+      (NP (CD One) (NN thing))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBP wish)
+            (SBAR
+              (S
+                (NP (PRP they))
+                (VP (VBD had)
+                  (NP (RB here))
+                  (SBAR (IN that)
+                    (S
+                      (NP (PRP they))
+                      (VP (VBP do)
+                        (ADVP (RB overseas))))))))))))
+    (VP (VBZ is)
+      (NP (NN breakfast)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Popeye))
+    (VP (VBZ 's)
+      (PP (IN on)
+        (NP (NNS bases)))
+      (ADVP (JJ overseas)
+        (PP (TO to)
+          (NP
+            (NP (DT a) (JJ spicy) (NN chicken) (NN breast))
+            (VP (VBN fillet)
+              (PP (IN with)
+                (NP (NN egg)
+                  (CC and)
+                  (NN cheese)))
+              (PP (IN on)
+                (NP (DT a) (NN biscuit))))))))
+    (. .)))
+
+

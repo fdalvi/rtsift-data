@@ -1,0 +1,124 @@
+(ROOT
+  (S
+    (NP (NNP Moving))
+    (VP (VBZ is)
+      (ADJP (JJ tough)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP you))
+        (VP (VBP need)
+          (NP
+            (NP (DT a) (NN place))
+            (PP (IN for)
+              (NP (PRP$ your) (NNS things)
+                (S
+                  (VP (TO to)
+                    (VP (VB avoid)
+                      (NP (JJ overcrowding) (DT the) (NN house/apartment)))))))))))
+    (, ,)
+    (NP (DT this) (NN place))
+    (VP (VBZ provides)
+      (NP (JJ roomy) (NNS units))
+      (PP (IN at)
+        (NP (JJ cheap) (NNS prices))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBP are)
+        (NP
+          (NP (NNS promotions))
+          (PP (IN on)
+            (NP (PRP$ their) (JJ local) (NN website))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADJP (JJ worth))
+        (S
+          (VP (VBG checking)
+            (PRT (RP out))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD saved)
+      (ADVP (RB almost)
+        (NP ($ $) (CD 40/month))
+        (PP (IN for)
+          (NP
+            (NP (CD three) (NNS months))
+            (PP (IN with)
+              (NP (DT the) (NNS promotions))))))
+      (SBAR
+        (S
+          (NP (PRP we))
+          (VP (VBD found)
+            (PP (NN online))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP$ Their) (NN location))
+      (VP (VBZ is)
+        (ADJP (JJ great))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (NN security))
+      (VP (VBZ is)
+        (ADJP (JJ good))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN On)
+      (NP
+        (NP (NN top))
+        (PP (IN of)
+          (NP (DT that)))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (ADJP (JJ clean)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD did) (, ,)
+        (ADVP (RB however))
+        (, ,)
+        (S
+          (VP (VB notice)
+            (NP (DT a) (NN bug) (NN problem))))))
+    (, ,)
+    (CC but)
+    (S
+      (S
+        (VP (VBG being)
+          (PP (IN in)
+            (NP
+              (NP (DT the))
+              (PP (IN in)
+                (NP (NN desert)))))))
+      (, ,)
+      (NP (PRP I))
+      (VP (VBP find)
+        (S
+          (NP (DT that))
+          (ADJP (RB quite) (JJ normal)))))
+    (. .)))
+
+

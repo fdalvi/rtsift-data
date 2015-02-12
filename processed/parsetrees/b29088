@@ -1,0 +1,199 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (ADVP (RB here)
+        (ADVP (IN at) (JJS least) (RB once)))
+      (NP (DT a) (NN week)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN staff))
+    (ADVP (RB always))
+    (VP (VBZ greets)
+      (NP
+        (NP (NNS customers))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP they))
+            (VP (VBP walk)
+              (PRT (RP in)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have)
+      (ADVP (RB never))
+      (VP (VBN had)
+        (NP
+          (NP (DT a) (NN problem))
+          (PP (IN at)
+            (NP (DT this) (NN store))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT This))
+      (VP (VBZ is)
+        (NP
+          (NP (CD one))
+          (PP (IN of)
+            (NP (DT the) (JJR smaller) (NNS stores))))))
+    (, ,) (IN so)
+    (S
+      (NP (PRP you))
+      (VP (VBP have)
+        (S
+          (VP (TO to)
+            (VP (VB get)
+              (ADVP (RB here) (RB early))
+              (PP (IN on)
+                (NP (NNPS Tuesdays)))
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (DT the) (JJ new) (NNS movies))
+                  (VP (VBP come)
+                    (PRT (RP out))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD switched)
+      (PP (IN from)
+        (NP (NNP Netflix)))
+      (PP (TO to)
+        (NP (NNP Blockbuster) (NNP Total) (NNPS Access) (NNP Premium)))
+      (SBAR (IN because)
+        (S
+          (NP (PRP I))
+          (VP (MD can)
+            (VP (VB exchange)
+              (NP (DT the) (NNS movies))
+              (PP (IN for)
+                (NP
+                  (NP (JJR more) (NNS rentals))
+                  (PP (IN in)
+                    (NP (DT the) (NN store))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB also))
+    (VP (VBP give)
+      (NP (PRP me))
+      (NP
+        (NP (CD 2) (JJ free) (NN movie)
+          (CC or)
+          (NN game) (NN rental) (NNS coupons))
+        (NP (DT each) (NN month))
+        (PP (IN for)
+          (NP
+            (QP (RB just) ($ $) (CD 17.99) (CD /))
+            (NN month)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBZ is)
+      (ADVP (RB always))
+      (ADJP (RB very) (JJ calm)
+        (CC and)
+        (JJ neat)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS people))
+    (VP (VBP greet)
+      (NP (PRP you))
+      (SBAR (IN as)
+        (S
+          (NP (PRP you))
+          (VP
+            (VP (VBP come)
+              (PRT (RP in)))
+            (CC and)
+            (VP (VBP have)
+              (ADVP (RB always))
+              (VP (VBN chatted)
+                (S
+                  (VP (VB w)
+                    (NP (PRP me))
+                    (SBAR
+                      (WHADVP (WRB when))
+                      (S
+                        (NP (PRP I))
+                        (VP (VBP 'm)
+                          (VP (VBG checking)
+                            (PRT (RP out))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBZ 's)
+        (ADVP (RB never))
+        (NP
+          (NP (DT a) (NN shortage))
+          (PP (IN of)
+            (NP (NNS movies))))))
+    (CC and)
+    (S
+      (SBAR (IN if)
+        (S
+          (NP (PRP you))
+          (ADVP (RB ever))
+          (VP (MD need)
+            (VP (VB help)
+              (S
+                (VP (VBG finding)
+                  (NP
+                    (NP (CD one))
+                    (SBAR
+                      (S
+                        (NP (PRP you))
+                        (VP (MD ca) (RB n't)
+                          (VP (VB remember)
+                            (NP
+                              (NP (DT the) (NN name))
+                              (PP (IN of))))))))))))))
+      (, ,)
+      (NP (DT the) (NNS associates))
+      (VP (MD will)
+        (VP (VB help)
+          (S
+            (NP (PRP you))
+            (VP (VB find)
+              (NP (PRP it)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VBN CLOSED))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB recently))
+    (VP
+      (VP (VBD had)
+        (NP (PRP$ their) (NN closeout) (NN sale)))
+      (CC and)
+      (VP (VBP are)
+        (ADVP (RB now))
+        (ADJP (JJ closed))))
+    (. .)))
+
+

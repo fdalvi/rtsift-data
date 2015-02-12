@@ -1,0 +1,99 @@
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (ADJP (JJ good))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP you))
+          (VP (VBP are)
+            (UCP
+              (PP (IN on)
+                (NP (DT the) (NN road)))
+              (CC and)
+              (VP (VBG stopping)
+                (PP (IN for)
+                  (NP (NN fuel)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (EX there))
+        (VP (VBD was)
+          (NP
+            (NP (DT any) (JJ other) (JJ fast) (NN food) (NN restaurant))
+            (PP (IN around)
+              (NP (PRP I)))))))
+    (VP (MD would)
+      (VP (VB choose)
+        (SBAR
+          (S
+            (NP (PRP them))
+            (VP (VBZ hands)
+              (PRT (RP down))
+              (PP (IN over)
+                (NP (NN subway))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NN chicken))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (JJ tasteless))
+        (CC but)
+        (ADJP (JJ good) (NN enough)))
+      (S
+        (VP (TO to)
+          (VP (VB fill)
+            (NP (DT an) (JJ empty) (NN stomach))))))))
+
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP Prompt))
+      (CC and)
+      (NP (JJ friendly) (NN service)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Food))
+    (VP (VBD was)
+      (ADJP (RB no) (JJ different)
+        (PP (IN from)
+          (NP
+            (NP (DT any) (JJ other) (NN Subway))
+            (SBAR
+              (S
+                (NP (PRP I))
+                (VP (VBP 've)
+                  (VP (VBN visited)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ Our) (JJ only) (NN problem))
+    (VP (VBD was)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NNP AC))
+          (VP (VBD was)
+            (VP (VBN cranked)
+              (ADVP
+                (ADVP (RB so) (RB much))
+                (SBAR (IN that)
+                  (S
+                    (NP (PRP it))
+                    (VP (VBD was)
+                      (VP (VBN COLD)
+                        (PP (IN inside)
+                          (NP (DT the) (NN restaurant)))))))))))))
+    (. .)))
+
+

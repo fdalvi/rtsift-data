@@ -1,0 +1,177 @@
+(ROOT
+  (S
+    (S
+      (NP (DT This))
+      (VP (VBZ is)
+        (NP
+          (NP (DT a)
+            (ADJP (RB relatively) (JJ small))
+            (NN branch))
+          (PP (IN of)
+            (NP (NNP Jane) (NNP Norman))))))
+    (CC but)
+    (S
+      (NP (DT the) (NN staff))
+      (VP (VBP are)
+        (ADJP (JJ friendly))))
+    (CC and)
+    (S
+      (NP (DT the) (NN store))
+      (VP (VBZ is)
+        (ADVP
+          (ADVP (RB well) (RB stocked))
+          (CC and)
+          (ADVP (RB very) (RB well)))
+        (VP (VBN organised)
+          (ADVP (RB too)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 've)
+        (ADVP (RB always))
+        (VP (VBN found)
+          (S
+            (NP (NNP Jane) (NNP Norman))
+            (VP (TO to)
+              (VP
+                (VP (VB be)
+                  (VP
+                    (NP (DT a) (JJ little) (NN bit))
+                    (VBN hit)))
+                (CC or)
+                (VP (VB miss))))))))
+    (CC and)
+    (S
+      (NP (DT some) (NNS items))
+      (VP (MD can)
+        (VP (VB look)
+          (NP
+            (QP (JJR more) (IN than) (DT a) (JJ little)))
+          (ADVP (RB tacky)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN price))
+    (ADVP (RB also))
+    (ADVP (RB never))
+    (VP (VBZ seems)
+      (S
+        (VP (TO to)
+          (VP (VB correspond)
+            (PP (TO to)
+              (NP (DT the) (NN quality)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP have)
+        (NP
+          (NP (DT a) (NN friend))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBZ adores)
+                (NP (PRP it))
+                (PP (IN in)
+                  (NP (RB here)))
+                (ADVP (RB though))))))))
+    (CC and)
+    (S
+      (NP (PRP she))
+      (VP (VBZ is)
+        (ADVP
+          (ADVP (RB as) (RB far))
+          (PP (IN from)
+            (ADVP (RB tacky))))
+        (SBAR (IN as)
+          (S
+            (NP (PRP I))
+            (VP (MD can)
+              (VP (VB imagine)
+                (SBAR (IN so)
+                  (S
+                    (NP (PRP she))
+                    (VP (VBZ seems)
+                      (S
+                        (VP (TO to)
+                          (VP (VB pick)
+                            (PRT (RP out))
+                            (NP
+                              (NP (DT the) (JJS best))
+                              (PP (IN of)
+                                (NP (DT the) (NN bunch))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (ADVP (RB recently))
+      (VP (VBD picked)
+        (PRT (RP up))
+        (NP (DT a)
+          (ADJP (RB pretty) (JJ yellow))
+          (NN cami))
+        (PP
+          (PP (IN from)
+            (NP (RB here)))
+          (CC and)
+          (PP (IN at)
+            (NP
+              (NP (# #) (CD 20))
+              (SBAR
+                (S
+                  (NP (PRP I))
+                  (VP (VBD thought)
+                    (SBAR (IN that)
+                      (S
+                        (VP (VBD was)
+                          (ADJP (RB very) (JJ reasonable)))))))))))))
+    (, ,)
+    (NP (PRP you))
+    (ADVP (RB also))
+    (VP (VBP get)
+      (NP (NN student) (NN discount)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have)
+      (S
+        (VP (TO to)
+          (VP (VB admit))))
+      (, ,)
+      (SBAR (IN although)
+        (S
+          (NP (PRP it))
+          (VP (VBZ 's)
+            (ADJP (RB very) (JJ pretty)
+              (SBAR
+                (S
+                  (NP (PRP I))
+                  (VP (VBP 'm) (RB not)
+                    (ADJP (JJ sure)
+                      (SBAR
+                        (WHADJP (WRB how) (JJ many))
+                        (S
+                          (VP (VBZ washes)
+                            (SBAR
+                              (S
+                                (NP (PRP it))
+                                (VP (MD will)
+                                  (VP (VB last)
+                                    (SBAR (IN as)
+                                      (S
+                                        (NP (DT the) (NN material))
+                                        (VP (VBZ is)
+                                          (ADJP (RB quite) (JJ flimsy)))))))))))))))))))))
+    (. .)))
+
+

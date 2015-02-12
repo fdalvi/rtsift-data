@@ -1,0 +1,112 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN selection))
+        (PP (IN in)
+          (NP (RB here))))
+      (: ;)
+      (VP (VBZ is)
+        (ADJP (RB much) (JJ different))
+        (SBAR (IN than)
+          (S
+            (NP (PRP I))
+            (VP (VBP 've)
+              (ADVP (RB ever))
+              (VP (VBN seen)
+                (PP (IN in)
+                  (NP (NNP las) (NNP Vegas)))))))))
+    (: ;)
+    (S
+      (NP (PRP they))
+      (ADVP (RB actually))
+      (VP (VB carry) (, ,)
+        (S
+          (NP
+            (NP (JJ litto) (NN gomez) (NN cigar)
+              (CC and)
+              (JJ other) (JJ popular) (NN smokes))
+            (: ;)
+            (NP
+              (ADJP (RB even) (JJ pre))
+              (NN embargo) (NNS cigars))
+            (: ;))
+          (VP (VBN priced)
+            (ADVP (RB fairly) (RB well))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (VP (VB Do) (RB n't)
+      (VP (VB mean)
+        (S
+          (NP
+            (NP (NN anything))
+            (, ,)
+            (SBAR (IN if)
+              (S
+                (NP (PRP you))
+                (VP (VBP do) (RB n't)
+                  (VP (VB smoke)
+                    (NP (PRP them)))))))
+          (: ;)
+          (NP (PRP they))
+          (VP (VBP 're)
+            (ADVP (DT all) (RB round))
+            (NP (DT an) (JJ brown)))
+          ('' ''))))
+    (. .)))
+
+(ROOT
+  (INTJ (JJ Good) (NN spot) (. .)))
+
+
+(ROOT
+  (NP
+    (NP (JJ Great) (NN customer))
+    (NP (NN service))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBP walk)
+        (PRT (RP in))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (NP
+          (NP (DT this) (JJ little) (NN guy))
+          (PP (IN with)
+            (NP
+              (NP (NNS glasses))
+              (VP (VBG smoking)
+                (NP
+                  (NP (DT a) (NN cigar))
+                  (, ,)
+                  (NP (JJ classic)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD recommended)
+      (NP (DT a)
+        (ADJP (JJ blueberry)
+          (CC and)
+          (NN vanilla))
+        (NN cigar)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Greatness))
+    (VP (VBZ is)
+      (VP (IN about)
+        (S
+          (VP (TO to)
+            (VP (VB occur))))))))
+
+

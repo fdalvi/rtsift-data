@@ -1,0 +1,81 @@
+(ROOT
+  (S
+    (S
+      (VP (VBN Located)
+        (PP (IN in)
+          (NP (NNP Ocean) (NNP Terminal)))))
+    (, ,)
+    (NP
+      (NP (DT this) (NN branch))
+      (PP (IN of)
+        (NP (NNP Fat) (NNP Face))))
+    (VP (VBZ is)
+      (ADVP (RB very) (RB well))
+      (ADJP (JJ organised) (, ,) (JJ bright)
+        (CC and)
+        (JJ airy))
+      (PP (IN with)
+        (NP
+          (NP (JJ friendly) (NN staff))
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBZ makes)
+                (NP (PDT all) (DT the) (NN difference))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP feel)
+        (SBAR (IN like)
+          (S
+            (NP (PRP I))
+            (VP (VBP 've)
+              (VP (VBN grown)
+                (PRT (RP out))
+                (PP (IN of)
+                  (NP
+                    (NP (NNS shops))
+                    (PP (IN like)
+                      (NP (NNP Fat) (NNP Face)))))))))))
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBD did)
+        (VP (VB notice)
+          (NP
+            (NP (DT a) (JJ good) (NN selection))
+            (PP (IN of)
+              (NP
+                (NP (NNS bikinis))
+                (, ,)
+                (NP (NNS swimsuits))
+                (CC and)
+                (NP (JJ other) (NN holiday) (NN wear))))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBD was)
+                  (NP (JJ excellent) (NN quality)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS prices))
+      (VP (VBP are)
+        (ADJP (RB quite) (JJ reasonable)
+          (PP (IN for)
+            (NP (DT the) (NN quality))))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (ADVP (RB often))
+      (VP (VBP do)
+        (NP (JJ good) (NNS sales))
+        (ADVP (RB too))))
+    (. .)))
+
+

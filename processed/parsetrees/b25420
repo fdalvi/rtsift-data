@@ -1,0 +1,231 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Always))
+      (ADJP
+        (ADJP (JJ friendly))
+        (, ,)
+        (CC and)
+        (ADJP (RB always) (JJ great))))
+    (VP (VBZ deals))
+    (. .)))
+
+
+(ROOT
+  (S
+    (ADVP (RB Absolutely))
+    (VP (VB love)
+      (NP (DT this) (JJ particular) (NN store)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Clean))
+      (CC and)
+      (NP (NN staff)))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (JJ helpful))
+        (CC and)
+        (ADJP (RB very) (JJ friendly))))
+    (. !)))
+
+
+(ROOT
+  (FRAG
+    (ADVP (RB Always))
+    (NP (JJ great) (NNS coupons))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Store))
+    (VP (VBZ is)
+      (ADJP (JJ bright)
+        (CC and)
+        (JJ clean)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Always))
+    (NP
+      (NP (RB plenty))
+      (PP (IN of)
+        (NP (NNS cashiers))))
+    (VP (VBP open))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NN Simple))
+    (, ,)
+    (NP (JJ fast) (NNS returns))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP love)
+      (SBAR (IN that)
+        (S
+          (NP (PRP I))
+          (VP (MD can)
+            (VP
+              (VP (VB order)
+                (PP (NN online)))
+              (CC and)
+              (VP (VB return)
+                (PP (IN in)
+                  (NP (DT the) (NN store)))
+                (ADVP (RB so) (RB as)
+                  (S
+                    (VP (TO to)
+                      (VP (VB avoid)
+                        (NP (NN shipping) (NNS charges))))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP I))
+    (ADVP (RB always))
+    (VP (VBP have)
+      (NP
+        (NP (NNS coupons))
+        (CC or)
+        (NP (NNP Kohls) (NN cash))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Never))
+    (VP (VBP have)
+      (S
+        (VP (TO to)
+          (VP (VB wait)
+            (PP (IN in)
+              (NP (NN line)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (ADVP (RB really))
+      (VP (VBP like)
+        (NP
+          (NP (DT the) (NN quality))
+          (PP (IN of)
+            (NP (NNS clothes))))
+        (PP (IN at)
+          (NP (NNP Kohl) (POS 's)))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBP are)
+        (VP
+          (ADVP (RB always))
+          (VBG having)
+          (NP (NNS sales)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB also))
+    (VP (VBP send)
+      (NP (PRP me)
+        (NP
+          (NP (DT those)
+            (ADJP ($ $) (CD 10))
+            (NN gift) (NNS cards))
+          (PP (IN in)
+            (NP (DT the) (NN mail)))))
+      (NP (PDT all) (DT the) (NN time)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP like)
+        (S
+          (VP (TO to)
+            (VP
+              (VP (VB go))
+              (CC and)
+              (VP (VB look)
+                (PP (IN for)
+                  (NP
+                    (NP (NNS shirts))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP
+                          (VP (VBP are)
+                            (ADVP (RB originally))
+                            (PP (IN around)
+                              (NP ($ $) (CD 30))))
+                          (CC but)
+                          (VP (VBP are)
+                            (PP (IN on)
+                              (NP (NN sale)))
+                            (PP (IN for)
+                              (NP
+                                (NP (CD 50) (NN %))
+                                (ADVP (RB off)
+                                  (CC and)
+                                  (RB then))))
+                            (PP (IN with)
+                              (NP (DT the) (NN gift) (NN card)))))))))))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP walk)
+      (ADVP (RB away)
+        (PP (IN with)
+          (NP (PRP it))))
+      (PP (IN for)
+        (NP ($ $) (CD 5))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB always))
+    (VP (VBP have)
+      (NP
+        (NP (DT a) (NN receipt))
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (NP (DT the) (NNS savings) (NN total))
+            (VP (VBZ is)
+              (ADJP
+                (ADJP (JJR higher))
+                (PP (IN than)
+                  (NP (DT the) (NN payment) (NN total)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB also))
+    (VP (VBP have)
+      (NP
+        (NP
+          (NP (JJ great) (JJ trendy) (NNS clothes))
+          (PP (IN for)
+            (NP (JJ teen) (NNS girls))))
+        (CC and)
+        (NP
+          (NP (JJ nice) (NNS clothes))
+          (PP (IN for)
+            (NP (NNS men)
+              (CC and)
+              (NNS boys))))))
+    (. .)))
+
+

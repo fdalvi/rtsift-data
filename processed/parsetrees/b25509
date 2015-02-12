@@ -1,0 +1,157 @@
+(ROOT
+  (NP (CD Rude) (NNS employees) (. .)))
+
+(ROOT
+  (S
+    (VP (VB Awful)
+      (NP (NN company)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Waste))
+    (PP (IN of)
+      (NP (NN time) (, ,) (NN money) (, ,) (NN energy)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (ADVP (RB Meh))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD had)
+      (NP
+        (NP (JJR better) (NNS services))
+        (FRAG
+          (WHADVP
+            (ADVP (RB else))
+            (WRB where)))))
+    (. .) (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD went)
+        (PRT (RP in))
+        (SBAR (IN because)
+          (S
+            (NP (PRP$ my) (NN account))
+            (VP (VBD was)
+              (NP
+                (QP (JJ negative) ($ $) (CD 300))))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBD was) (RB not)
+        (NP
+          (NP (DT the) (NN one))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBD did)
+                (NP (PRP it))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (VP (VBN pointed)
+        (PP (TO to)
+          (NP
+            (NP (DT a) (NN banker) (NN Joey))
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBD was)
+                  (ADJP (JJ amazing)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD talked)
+      (PP (TO to)
+        (NP (DT the) (NN fraud) (NN department)))
+      (SBAR (IN for)
+        (S
+          (NP (PRP me))
+          (VP
+            (VP (VBD set)
+              (PRT (RP up))
+              (NP (PRP$ my) (JJ new) (NN bank) (NN account)))
+            (CC and)
+            (VP (VBD made)
+              (NP
+                (NP (NN everything) (JJ smooth))
+                (CC and)
+                (NP (NN payment))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD were)
+      (ADJP (RB even) (JJ able)
+        (S
+          (VP (TO to)
+            (VP (VB get)
+              (NP (PRP me))
+              (NP
+                (NP
+                  (NP (PRP$ my) (VBN stolen) (NN money))
+                  (VP
+                    (ADVP (RB back))
+                    (VBG using)
+                    (NP (DT the) (NNS banks))))
+                (NP (NN fraud) (NN insurance) (NN thing))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Def)
+      (ADJP (JJ glad))
+      (SBAR (IN that)
+        (S
+          (NP (PRP I))
+          (VP (VBD had)
+            (NP (NNP Chase))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (RBR Earlier) (NN today))
+    (, ,)
+    (NP (DT the) (NN teller))
+    (VP (VBD gave)
+      (NP (PRP me))
+      (NP (NN money))
+      (SBAR (IN so)
+        (S
+          (NP (PRP I))
+          (VP (VBD left)
+            (NP (DT the) (NN bank))
+            (ADVP (RB swiftly))
+            (, ,)
+            (PP (IN like)
+              (NP
+                (NP (NNP Spiderman))
+                (VP (VBG eating)
+                  (NP
+                    (NP (DT a) (NN peanut) (NN butter) (NN sandwich))
+                    (VP (VBG living)
+                      (ADVP (RB happily))
+                      (ADVP (RB ever))
+                      (PP (IN after))
+                      (, ,)
+                      (NP
+                        (NP (DT the) (NN rest))
+                        (PP (IN of)
+                          (NP (PRP$ my) (NN day)))))))))))))
+    (. .)))
+
+

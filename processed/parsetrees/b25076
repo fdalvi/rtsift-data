@@ -1,0 +1,181 @@
+(ROOT
+  (S
+    (VP (VB Fast)
+      (ADVP (RB in))
+      (, ,)
+      (ADVP (RB fast) (RB out)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB rarely))
+    (ADVP (RB ever))
+    (VP (VBP have)
+      (S
+        (VP (TO to)
+          (VP (VB wait)
+            (PP (IN in)
+              (NP (NN line)))
+            (ADVP (RB long))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB also))
+    (VP (VBP have)
+      (NP (DT a) (NNP Redbox) (NN outside)))
+    (. .)))
+
+
+(ROOT
+  (SQ (VBZ Is)
+    (NP (PRP it))
+    (ADVP (RB just))
+    (NP (PRP me))
+    (. ?)))
+
+(ROOT
+  (S (CC Or)
+    (, ,)
+    (PRN
+      (SINV (VBZ does)
+        (NP (PRP it))
+        (VP (VB seem)
+          (PP (IN like)
+            (S
+              (VP (VBG bringing)
+                (NP (DT a) (NN gun))
+                (PP (TO to)
+                  (NP (DT this) (NNPS Walgreens)))))))))
+    (VP (VBZ is)
+      (VP (VBG getting)
+        (ADJP
+          (ADJP (JJR more))
+          (CC and)
+          (ADJP (RBR more) (JJ appropriate)))))
+    (. ?)))
+
+
+(ROOT
+  (S
+    (NP (NNP Pretty) (JJ basic) (NNS Walgreens))
+    (VP (VBP wtih)
+      (NP
+        (NP (DT all))
+        (PP (IN of)
+          (NP (PRP$ your) (NNS essentials)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (CD one) (NN thing) (NN worth))
+      (VP (VBG noting)))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP (VBP do)
+            (NP
+              (NP (VB sell) (NN alcohol))
+              (PP (IN at)
+                (NP (DT this) (NN location))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP know)
+        (SBAR
+          (S
+            (NP (RB not) (DT all) (NNS locations))
+            (VP (VBP do))))))
+    (, ,) (IN so)
+    (S
+      (NP (DT that))
+      (VP (VBZ 's)
+        (NP (NN something)
+          (S
+            (VP (TO to)
+              (VP (VB keep)
+                (PP (IN in)
+                  (NP (NN mind)))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBP come)
+        (PP (TO to)
+          (NP (DT this) (NNPS Walgreens)))
+        (ADVP
+          (NP (RB quite) (DT a) (NN bit))
+          (CC and)
+          (ADVP (RB just) (RB recently))))
+      (, ,)
+      (VP (VBD transferred)
+        (NP (PRP$ my) (NNS scripts))
+        (ADVP (RB here) (RB as) (RB well))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN service))
+    (VP (VBZ is)
+      (ADJP (JJ good)
+        (CC and)
+        (JJ friendly)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN store))
+    (VP (VBZ is)
+      (ADVP (RB well))
+      (VP (VBN stocked)
+        (PP (IN with)
+          (NP
+            (NP (NNS lots))
+            (PP (IN of)
+              (NP (NN variety)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN pharmacy))
+      (VP (VBZ seems)
+        (S
+          (VP (TO to)
+            (VP (VB open)
+              (ADVP
+                (ADVP
+                  (NP (DT a) (JJ few) (NNS minutes))
+                  (RBR later))
+                (SBAR (IN than)
+                  (S
+                    (VP (VBD posted)
+                      (NP (NNS hours)))))))))))
+    (CC but)
+    (ADVP (RB maybe))
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (NP (DT a) (JJ rare) (NN circumstance))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Overall))
+    (, ,)
+    (NP (DT a)
+      (ADJP (JJ good) (, ,) (JJ clean)))
+    (VP (VBZ Walgreens))
+    (. .)))
+
+

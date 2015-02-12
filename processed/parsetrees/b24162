@@ -1,0 +1,169 @@
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP (DT a) (NNP BP) (NN station)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Guy))
+      (VP (VBG running)
+        (NP (DT the) (NN place))))
+    (VP (VBZ seems)
+      (ADJP (RB so) (JJ melancholic)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP He))
+      (VP (VBD was)
+        (VP (VBG daydreaming)
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (PRP I))
+              (VP (VBD entered)
+                (S
+                  (VP (TO to)
+                    (VP (VB get)
+                      (NP
+                        (NP (DT a) (NN key))
+                        (PP (IN for)
+                          (NP (DT the) (NN washroom)))))))))))))
+    (: ...)
+    (S
+      (NP (PRP he))
+      (VP (VBD did) (RB n't)
+        (VP (VB let)
+          (S
+            (NP (PRP me))
+            (VP (VB interrupt)
+              (NP (PRP$ his) (NN daydream))))
+          (, ,)
+          (S
+            (VP (VBG gazing)
+              (PRT (RP up))
+              (PP (IN into)
+                (NP (DT the) (NN sky)))
+              (PP (IN through)
+                (NP (DT the) (JJ front) (NN window)))
+              (, ,)
+              (PP (IN while)
+                (S
+                  (VP (VBG pointing)
+                    (PP (TO to)
+                      (NP (DT the) (JJ key) (NN hanging)))
+                    (PP (IN beside)
+                      (NP (DT the) (NN door)))))))))))
+    (. ...)))
+
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Thanks)
+        (PP (TO to)
+          (NP
+            (NP (NNP Matt) (NNP W) (POS 's))
+            (NN picture)))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD recognized)
+      (SBAR (IN that)
+        (S
+          (NP (PRP I))
+          (VP (VBP stop)
+            (PP (IN at)
+              (NP (DT this) (JJ particular) (NNP BP)))
+            (ADVP (RB quite) (RB often))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (VP (VBG Pros) (: :)
+      (S
+        (NP (NNP +) (NNP Super))
+        (ADJP (JJ easy)
+          (S
+            (VP (TO to)
+              (VP (VB get)
+                (NP
+                  (NP (NN in-and-out))
+                  (PP (IN of)
+                    (NP (JJ +) (NNS Prices))))))))))
+    (VP (VBP are)
+      (ADJP (JJ on-par)
+        (PP (IN with)
+          (NP (NN everyone)))))
+    (NP
+      (NP (RB else) (CD +))
+      (SBAR
+        (S
+          (NP (DT The) (NN morning) (NN cashier))
+          (VP (VBZ is)
+            (ADVP (RB always))
+            (NP
+              (ADJP (JJ friendly)
+                (CC and)
+                (JJ helpful))
+              (NNP +) (NNP Nice) (NN selection)))))
+      (PP (IN of)
+        (NP
+          (NP (NN grab-n-go) (`` ``) (NN food) ('' ''))
+          (PRN (-LRB- -LRB-)
+            (VP
+              (ADVP (RB mostly))
+              (VBN packaged)
+              (NP (NN stuff)))
+            (-RRB- -RRB-))
+          (NP
+            (NP
+              (NP (NNP +) (NNP Bonus))
+              (: :)
+              (NP
+                (NP (DT the) (NN sign))
+                (SBAR (IN that)
+                  (S
+                    (NP
+                      (NP (NNS posts))
+                      (NP (JJ little) (`` ``) (NNS thoughts) ('' '')))
+                    (VP (VBZ is)
+                      (ADVP (RB usually))
+                      (ADJP (RB quite) (JJ humorous))
+                      (S
+                        (NP
+                          (NP
+                            (NP (NNP +) (NNP Easy))
+                            (PP (TO to)
+                              (NP (NN access) (NN air) (NN compressor))))
+                          (PRN (-LRB- -LRB-)
+                            (NP
+                              (NP (NN fee))
+                              (VP
+                                (VP (VBN based))
+                                (, ,)
+                                (CC but)
+                                (VP (VBZ works)
+                                  (ADVP (RB well)))))
+                            (-RRB- -RRB-))
+                          (NP (NNP Cons))))))))
+              (: :))
+            (: -)
+            (NP
+              (NP (RB Quite) (JJ cramped))
+              (PP (IN inside) (: -)
+                (NP
+                  (NP (RB Not) (DT a) (JJ huge) (NN amount))
+                  (PP (IN of)
+                    (NP
+                      (NP (NN choice))
+                      (PP (IN for)
+                        (NP
+                          (NP (NN food) (NNS items))
+                          (PP (JJ other) (IN than)
+                            (NP (NN chips/beef) (NN jerky/etc))))))))))))))))
+
+

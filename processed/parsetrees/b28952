@@ -1,0 +1,168 @@
+(ROOT
+  (NP
+    (NP (NNP Location))
+    (, ,)
+    (NP
+      (NP (NN location))
+      (, ,)
+      (NP (NN location)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN reason))
+      (SBAR
+        (S
+          (NP (DT this) (NNPS Starbucks))
+          (VP (VBZ is)
+            (NP (DT the) (JJ only) (JJ corporate) (NN coffee)
+              (S
+                (VP (VB shop)
+                  (S
+                    (NP (PRP I))
+                    (ADJP (JJ frequent)
+                      (PP (IN on)
+                        (NP (DT a) (JJ regular) (NN basis))))))))))))
+    (VP (VBZ is)
+      (SBAR (IN because)
+        (S
+          (NP (PRP it))
+          (VP (VBZ 's)
+            (VP (VBN located)
+              (PP (IN on)
+                (NP
+                  (NP (DT the) (JJ first) (NN floor))
+                  (PP (IN of)
+                    (NP (NNP Waterstones))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ 's)
+      (NP
+        (NP (JJ big) (NNS windows))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VB flood)
+              (PP (IN with)
+                (NP
+                  (NP (NN sunshine))
+                  (PP (IN in)
+                    (NP
+                      (NP (DT the) (NN spring)
+                        (CC and)
+                        (NN summer))
+                      (CC and)
+                      (NP (JJ lovely) (NNS views))))))
+              (PP (IN over)
+                (NP (NNP Princes) (NNP Street) (NNPS Gardens))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN thing))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP
+            (VP (VBZ wins)
+              (NP (PRP me))
+              (PRT (RP over))
+              (ADVP (RB however)))
+            (, ,)
+            (VP (VBZ is)
+              (NP
+                (NP (DT the) (NN coffee) (NN shop))
+                (SBAR
+                  (S
+                    (VP (VBZ is)
+                      (VP (VBN surrounded)
+                        (PP (IN by)
+                          (NP (NNS tables)))))))))
+            (CC and)
+            (VP (VBZ bookcases))))))
+    (VP (VBD packed)
+      (PP (IN with)
+        (NP
+          (NP (JJ brightly) (VBN coloured) (NNS volumes))
+          (PP (IN of)
+            (NP
+              (ADJP (JJ hard)
+                (CC and)
+                (JJ paperback))
+              (NNS books))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBZ 's)
+        (NP (NN art) (, ,) (NN photography) (, ,) (NN film)
+          (CC and)
+          (NN travel) (NNS volumes))))
+    (CC but)
+    (S
+      (NP (DT the) (JJ real) (NN draw))
+      (VP (VBZ is)
+        (NP
+          (NP (DT the) (JJ mouth-watering) (NN selection))
+          (PP (IN of)
+            (NP (NN food)
+              (CC and)
+              (NN drink) (NNS books))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Providing)
+        (SBAR
+          (S
+            (NP (PRP you))
+            (VP
+              (VP (VBP 're)
+                (ADJP (JJ careful)))
+              (CC and)
+              (VP (VBP do) (RB n't)
+                (VP (VB leave)
+                  (NP (JJ sticky) (NNS fingermarks)))))))))
+    (, ,)
+    (NP (DT the) (NN staff))
+    (VP (VBP do) (RB n't)
+      (VP (VB seem)
+        (S
+          (VP (TO to)
+            (VP (VB mind)
+              (S
+                (NP (PRP you))
+                (VP (VBG browsing)
+                  (PP (IN through)
+                    (NP (NNS books))))))))
+        (SBAR (IN as)
+          (S
+            (NP (PRP you))
+            (VP (VBP sip)
+              (NP (PRP$ your) (NN cappucino)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Oh))
+      (CC and)
+      (NP
+        (NP (DT the) (JJ flat) (JJ white))
+        (CC and)
+        (NP (NNP Americanos))))
+    (ADVP (RB here))
+    (VP (VBP are) (RB n't)
+      (ADJP (JJ bad))
+      (ADVP (RB either)))
+    (. !)))
+
+

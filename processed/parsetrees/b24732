@@ -1,0 +1,139 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Erin))
+      (VP (VBZ 's)
+        (SQ (VBZ is)
+          (ADJP (JJ great) (. .))))
+      (. .))
+    (NP (DT An) (NN under-appreciated))
+    (VP (VBZ spot))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Big) (NNP clean))
+    (VP (VB bar)
+      (PP (IN with)
+        (NP
+          (NP (JJ good) (NNS prices))
+          (CC and)
+          (NP (JJ good) (NNS people))))
+      (. .))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Pool) (NNS tables))
+    (, ,)
+    (NP (NN darts))
+    (, ,)
+    (NP
+      (NP (NNS lots))
+      (PP (IN of)
+        (NP (NNP TV) (POS 's))))
+    (, ,)
+    (NP
+      (NP (RB plenty))
+      (PP (IN of)
+        (NP
+          (NP (NNS seats))
+          (CC and)
+          (NP (DT a) (JJ decent) (NN jukebox)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP
+        (VP (VB Stop)
+          (PRT (RP in)))
+        (CC and)
+        (VP (VB check)
+          (NP (PRP it))
+          (FRAG
+            (ADVP (RB out) (. .))
+            (. .)))))
+    (VP (VBP Get)
+      (NP
+        (NP (DT a) ($ $) (CD 1.50))
+        (SBAR
+          (S
+            (VP (VBP PBR)
+              (SBAR (IN while)
+                (S
+                  (NP (PRP you))
+                  (VP (VBP 're)
+                    (PP (IN at)
+                      (NP (PRP it)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Biker)
+      (ADJP (JJ friendly)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (DT This))
+      (VP (VBZ seems)
+        (SBAR (IN like)
+          (S
+            (NP (PRP it))
+            (VP (MD could)
+              (VP (VB be)
+                (NP (DT a) (JJ cool) (NN place))))))))
+    (CC But)
+    (S
+      (ADVP (RB here))
+      (NP (PRP it))
+      (VP (VBZ is)
+        (PP (IN at)
+          (NP
+            (NP (CD 10:00) (NN pm))
+            (PP (IN on)
+              (NP (DT a) (NNP Saturday) (NN night)))))))
+    (CC and)
+    (S
+      (NP (DT the) (NN place))
+      (VP (VBZ is)
+        (ADJP
+          (ADVP (DT all)
+            (CC but))
+          (JJ dead))))))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN bar))
+    (VP (VBZ is)
+      (ADVP (RB now))
+      (`` ``)
+      (S
+        (NP (NNP Dodey))
+        (VP (VBZ 's)))
+      ('' ''))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBN Sold)
+      (ADVP (RB just))
+      (PP (IN under)
+        (NP (DT a) (NN year) (IN ago))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (X (SYM *))
+    (VP (VBD See)
+      (S (`` ``)
+        (NP
+          (NP (NNP Dodey) (POS 's))
+          (NNS reviews))))
+    (. .)))
+
+

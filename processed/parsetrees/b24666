@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (NP (NN Chocolate)
+      (CC and)
+      (NN peanutbutter))
+    (VP (VBP are)
+      (NP (PRP$ my) (NN favorite)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Berry) (NNP Good))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ tiny) (JJ little) (NN yogurt) (NN shop))
+        (VP (VBN tucked)
+          (PRT (RP back))
+          (PP (IN in)
+            (NP (DT a)
+              (ADJP (RB not) (RB very) (JJ busy))
+              (NN shopping) (NN center))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ is)
+        (NP
+          (NP
+            (ADJP (JJ cute)
+              (CC and)
+              (JJ friendly))
+            (NN spot))
+          (ADVP (RB unfortunately))
+          (SBAR
+            (S
+              (NP (PRP$ their))
+              (VP (VBP are) (RB not)
+                (NP
+                  (NP (JJ many) (NNS choices))
+                  (PP (IN of)
+                    (NP (NNS flavors))))))))))
+    (CC and)
+    (S
+      (NP (DT the) (NN yogurt))
+      (VP (VBZ is)
+        (PP (IN on)
+          (NP (DT the) (JJ bland) (NN side)))))
+    (. .)))
+
+

@@ -1,0 +1,656 @@
+(ROOT
+  (S
+    (VP (VB Wir)
+      (NP (JJ waren) (NN jetzt) (NN schon) (NN zweimal) (NN da)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Beim))
+    (NP (NN ersten) (NNP Mal) (NN hatte) (NN ich) (NN es))
+    (VP (VBP aus)
+      (NP (RB Not)
+        (NP
+          (NP (JJ gebucht) (, ,) (JJ weil) (NN wir) (NN f?r) (NN den) (NN letzten) (NNS Tag))
+          (PP (IN in)
+            (NP (NNP der) (NNP N?he) (NNP des) (NNP Flughafens) (NNP kein) (NNP Hotel) (NNP oder) (NNP Bed)
+              (CC &)
+              (NNP Breakfast) (NN finden) (NN konnten))))
+        (, ,)
+        (NP (NNP beim) (NNP letzten) (NNP Mal) (NN war) (NN es) (NN eher) (NNP Nostalgie))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Die) (NNP Zimmer))
+    (VP (VBD sind)
+      (NP (JJ sauber) (NN und) (NN nicht) (NN zu) (NN klein)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (FRAG
+      (NP (NNP Im) (NNP Doppelzimmer) (NN gibt) (NN es))
+      (NP
+        (NP (NN idR) (NN ein) (NNP Bad) (NNP mit) (NNP Badewanne))
+        (, ,)
+        (NP (JJ einen) (NNP Fernseher) (NN und) (NN sogar) (NN einen) (NNP Wasserkocher))
+        (, ,)
+        (NP (JJ damit) (NN liegt) (NN der) (NN Ausstattungsstandard) (NN sogar) (NN leicht) (NN ?ber) (NN anderen) (NNS Hostels))
+        (, ,)
+        (NP
+          (NP (JJ allerdings) (NN ist) (NN das) (NN Mobiliar) (NN das) (NNS eines))
+          (NP (NNP Hostels)))))
+    (: -)
+    (FRAG
+      (NP (NN da) (NN sollte) (NN man) (NN nicht))
+      (NP (JJ zuviel) (NN erwarten))
+      (. .))))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Das) (NNP Hostel) (NNPS ist) (NNP von) (NN der) (NNP Innenstadt) (NNP Edinburghs))
+      (VP (VBZ etwas)
+        (NP (NN abgelegen))))
+    (, ,)
+    (NP (NN daher) (NN gibt) (NN es) (NN kaum) (NNP Probleme) (NNP ein) (NNP Zimmer))
+    (VP (VBP zu)
+      (NP (NN bekommen)))
+    (. .)))
+
+(ROOT
+  (SINV
+    (S
+      (NP (NNP Das) (NNP Globetrotter) (NN bietet) (NN aber) (NN einen) (NNP Shuttleservice) (NNP zwischen) (NNP Edinburgh) (NNP City))
+      (VP (VBP und)
+        (S
+          (VP (VBG dem)
+            (NP (NN Hostel) (DT an))))))
+    (, ,)
+    (VP (VBD was))
+    (NP (NN g?nstiger) (NN als) (NNP Bus) (NN oder) (NNP Taxi) (NNP ist))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Leider) (NN gibt) (NN es) (NNP vom) (NNP Hostel) (NN aus) (NN keinen) (NNP Shuttleservice) (NNP oder))
+    (VP (VBP direkte)
+      (SBAR
+        (S
+          (NP
+            (NP (NNP Buslinie) (NNP zum) (NNP Flughafen))
+            (, ,)
+            (NP
+              (NP (NN der) (NN ganz))
+              (PP (IN in)
+                (NP (NNP der) (NNP N?he) (NNP ist))))
+            (, ,))
+          (VP (VBP hei?t)
+            (NP
+              (NP (JJ das) (NNP Hostel) (NN liegt) (NNS quasi))
+              (PP (IN in)
+                (NP (NNP der) (NNP Einflugschneise) (NNP und) (NN das) (NN h?rt) (NN man) (NN auch))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Zum) (NNP Flughafen))
+    (NP (JJ bietet) (JJ sich) (NN ein) (NN Taxi))
+    (NP (DT an) (JJ -) (NN kostet) (NN ca.))))
+
+(ROOT
+  (NP
+    (NP (CD 15) (NN Pfund))
+    (: -)
+    (S
+      (S
+        (NP (NN aber) (NN zumeist))
+        (VP (VBP ist)
+          (NP (NN man) (NN nicht) (NN der) (NN einzige) (NNP Reisende) (NNP zum) (NNP Flughafen))))
+      (, ,) (IN so)
+      (S
+        (NP (JJ dass) (NN man))
+        (VP (VBP sich)
+          (NP (NN ein) (NN Taxi) (NN teilen) (NN kann)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP F?r))
+    (VP (VBP die)
+      (SBAR
+        (S
+          (NP
+            (NP (NNP Lage) (NNP muss) (NN ich) (NN leider) (NNS zwei) (NNP Punkte) (NNP abziehen) (, ,) (NNP da))
+            (PP (IN in)
+              (NP (NNP der) (NNP Gegend) (NN wirklich) (NNS nichts))))
+          (VP (VBP los)
+            (S
+              (NP (NN ist) (NN und) (NN eine) (NNP Anbindung) (NNP zum) (NNP Flughafen))
+              (VP (VB nicht)
+                (NP (NN vorhanden) (NN ist))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Das) (NNP erkennt) (NN man) (NN leider) (NNP im) (NNP Vorfeld))
+    (VP (VBP ?berhaupt)
+      (NP (NN nicht)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (ADVP (RB first))
+      (VP (VBD experienced)
+        (NP (NNS Globetrotters))
+        (PP (IN on)
+          (NP (DT a) (NN school) (NN trip)))))
+    (: -)
+    (S
+      (NP (PRP we))
+      (VP (VBD were)
+        (VP (VBG looking)
+          (PP (IN for)
+            (NP
+              (NP (NN something))
+              (ADJP (JJ cheap) (, ,) (JJ cheerful)
+                (CC and)
+                (JJ clean)))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (NNS Globetrotters))
+    (ADVP (RB definitely))
+    (VP (VBD delivered))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ makes)
+        (NP (DT a) (NN change))
+        (PP (IN from)
+          (NP (PRP$ your) (JJ standard) (NN hotsel)))
+        (SBAR (IN as)
+          (S
+            (NP (DT the) (NN building))
+            (VP (VBZ is)
+              (ADJP (RB really) (JJ beautiful)))))))
+    (, ,)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (NP
+          (NP (DT a) (JJ typical))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NN Georgian-style))
+              (SBAR
+                (S
+                  (NP (PRP you))
+                  (VP (MD can)
+                    (VP (VB see)
+                      (PP (IN in)
+                        (NP
+                          (NP (NNP Edinburgh) (POS 's))
+                          (NNP New) (NNP Town))))))))))))
+    (CC and)
+    (S
+      (NP (DT the) (NN interior))
+      (VP (VBZ is)
+        (ADJP (RB really) (JJ modern))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (INTJ (UH Yeah))
+      (NP (PRP you))
+      (VP (MD can)
+        (ADVP (RB definitely))
+        (VP (VB tell)
+          (SBAR
+            (S
+              (NP (PRP it))
+              (VP (VBZ 's)
+                (NP (DT a) (NN hostel))))))))
+    (PRN (, ,)
+      (S
+        (NP (PRP it))
+        (VP (VBZ reminds)
+          (S
+            (NP (PRP me))
+            (NP
+              (NP (DT a) (NN bit))
+              (PP (IN of)
+                (NP (DT an) (JJ insane) (NN asylum)))))))
+      (, ,))
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADJP (JJ nice) (RB enough))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP (RB really) (JJ bright)
+        (CC and)
+        (JJ colourful)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (PP (IN in)
+          (NP
+            (NP (DT a) (NN room))
+            (PP (IN with)
+              (NP
+                (NP (CD 6) (NNS beds))
+                (, ,)
+                (NP (NN bunk) (NNS beds))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (ADJP (RB pleasant) (JJ enough))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT Each) (NN bed))
+    (VP (VBD had)
+      (NP (DT a) (JJ little) (NN curtain)
+        (S
+          (VP (TO to)
+            (VP (VB separate)
+              (NP (PRP it))
+              (PP (IN from)
+                (NP (NN everyone) (RB else))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (ADJP (RB quite) (JJ difficult)
+        (S
+          (VP (TO to)
+            (VP (VB climb)
+              (PRT (RP up))
+              (PP (TO to)
+                (NP
+                  (NP (DT the) (NN top-bunk))
+                  (, ,)
+                  (ADVP (RB however)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS bathrooms))
+    (VP (VBD were)
+      (ADJP
+        (ADJP (JJ huge) (: -)
+          (PP (IN reminded)
+            (NP
+              (NP (PRP me))
+              (PP (IN of)
+                (NP (PRP$ my) (JJ primary) (NN school) (NNS days))))))
+        (, ,)
+        (CC but)
+        (ADJP
+          (ADVP (RB again))
+          (JJ nice)
+          (CC and)
+          (JJ clean))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN As)
+      (S
+        (NP (DT the) (NNP Inn))
+        (VP (VBZ is)
+          (NP
+            (NP
+              (QP (RB about) (CD 20))
+              (NNS mins))
+            (PP (IN outside)
+              (NP (NNP Edinburgh)))))))
+    (NP (EX there))
+    (VP (VBD was)
+      (NP
+        (NP (DT a) (JJ free) (NN bus))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD took)
+              (NP (PRP us))
+              (PP (IN into)
+                (NP (NN town)))
+              (SBAR
+                (WHADVP (WRB whenever))
+                (S
+                  (NP (PRP we))
+                  (VP
+                    (VP (VBD wanted))
+                    (, ,)
+                    (CC and)
+                    (VP (VBD picked)
+                      (NP (PRP us))
+                      (PRT (RP up))))))))))
+      (SBAR
+        (WHADVP (WRB whenever))
+        (S
+          (NP (PRP we))
+          (VP (VBD called)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBD were)
+        (NP
+          (NP (DT a) (JJ few) (NN hen) (NNS parties))
+          (PP (IN on)
+            (NP
+              (NP (DT the) (JJ same) (NN floor))
+              (PP (IN as)
+                (NP (PRP us))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (ADJP (JJ brilliant)
+          (WHPP (IN for)
+            (WHNP (WDT that))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Overall))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (ADJP (RB quite) (JJ pleasant)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBD was)
+      (NP (DT a) (JJ big) (NN kitchen))
+      (SBAR (IN so)
+        (S
+          (NP (PRP we))
+          (VP (MD could)
+            (VP (VB make)
+              (S
+                (NP
+                  (NP (PRP$ our) (JJ own) (NN food))
+                  (CC and)
+                  (NP (DT a) (JJ nice) (NN area)))
+                (VP (TO to)
+                  (VP (VB eat)
+                    (NP (PRP it))
+                    (PP (IN in))))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP (JJ A-Ok))
+    (. !)))
+
+
+(ROOT
+  (S (IN So)
+    (NP (PRP I))
+    (VP (VBD found)
+      (SBAR
+        (S
+          (NP (DT this))
+          (VP (VBP place)
+            (NP
+              (NP (DT a) (NN couple))
+              (PP (IN of)
+                (NP (NNS years))))
+            (ADVP (RB ago)
+              (PP (IN with)
+                (NP
+                  (NP (DT a) (JJ few) (NNS friends))
+                  (VP (VBG wanting)
+                    (S
+                      (VP (TO to)
+                        (VP (VB find)
+                          (NP (DT a)
+                            (ADJP (JJ fantastic) (, ,) (RB yet) (JJ cheap))
+                            (NN place))
+                          (S
+                            (VP (TO to)
+                              (VP (VB stay)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBZ is)
+      (ADVP (RB definitely))
+      (NP (PRP it)))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS drinks))
+      (VP (VBD were)
+        (ADJP (JJ cheap))))
+    (, ,)
+    (S
+      (NP
+        (NP (DT the) (NN service))
+        (PP (TO to)
+          (CC and)
+          (IN from)
+          (NP (DT the) (NN city) (NN centre))))
+      (VP (VBD was)
+        (ADJP
+          (ADVP (RBR more) (IN than))
+          (JJ adequate))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (NP
+          (NP (RB only) (DT a) (JJ short) (NN walk))
+          (PP (IN from)
+            (NP (NN everything)))
+          (SBAR
+            (S
+              (NP (PRP you))
+              (VP (MD 'd)
+                (VP (VB need))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBN Recommended)
+      (PP (IN for)
+        (NP (NNS students)
+          (CC and)
+          (NNS backpackers))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP (PRP$ your) (JJ typical) (NN hostel)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (MD can)
+      (VP
+        (VP (VB get)
+          (NP (JJ single/double) (NNS rooms)))
+        (, ,)
+        (CC or)
+        (VP (VB stay)
+          (PP (IN in)
+            (NP (DT the) (JJ super) (JJ cheap) (CD 6) (NN person) (NNS rooms))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP
+      (VP (VBZ is)
+        (NP
+          (ADJP (RB pretty) (JJ sound))
+          (NN proof)))
+      (CC and)
+      (VP (VBD had)
+        (NP (DT no) (NNS problems) (NN sleeping))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN bar) (NNS downstairs))
+        (PP (IN with)
+          (NP (JJ super) (JJ nice) (NNS bartenders)))
+        (SBAR
+          (S
+            (NP (EX there))
+            (VP (TO to)
+              (VP (VB answer)
+                (NP
+                  (NP (DT any) (NNS questions) (NN til) (NN midnight))
+                  (ADVP (IN at) (JJS least)))
+                (ADVP (RB normally))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB also))
+    (VP (VBP have)
+      (NP
+        (NP (DT a) (NN shuttle) (NN service))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (MD will)
+              (VP
+                (VP (VB drop)
+                  (PRT (RP off)))
+                (CC and)
+                (VP (VB pick)
+                  (NP (PRP you))
+                  (PRT (RP up))
+                  (PP (IN at)
+                    (NP
+                      (NP (DT any) (JJ nearby) (NNS stations))
+                      (CC and)
+                      (NP (RB sometimes) (DT the) (NN tourist) (NNS destinations))))))))))
+      (SBAR (IN if)
+        (S
+          (NP (PRP they))
+          (VP (VBP 're)
+            (UCP (RB not)
+              (ADJP (JJ busy))
+              (CC and)
+              (PP (IN in)
+                (NP (DT a) (JJ good) (NN mood))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (WDT Which))
+    (VP (VBZ is)
+      (ADJP (JJ helpful)
+        (PP (IN as)
+          (NP
+            (NP (PRP$ its) (NN out))
+            (PP (IN on)
+              (NP
+                (NP (DT the) (NN edge))
+                (PP (IN of)
+                  (NP (NN town)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP
+      (VP (VBD had)
+        (NP (RB not) (CD one) (NN issue))
+        (ADVP (RB here)))
+      (CC and)
+      (VP (VBD had)
+        (NP (DT a) (JJ great) (NN time))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD met)
+      (NP
+        (NP (DT a) (NN lot))
+        (PP (IN of)
+          (NP (JJ new) (NNS friends))))
+      (ADVP (RB too)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBD was)
+      (NP
+        (NP
+          (NP (NNS lots))
+          (PP (IN of)
+            (NP (NN room)))
+          (S
+            (VP (TO to)
+              (VP (VB socialize)
+                (SBAR (IN if)
+                  (S
+                    (NP (PRP you))
+                    (VP (VBD wanted)
+                      (PP (TO to)))))))))
+        (, ,)
+        (CC and)
+        (NP (NN room)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (PP (IN by)
+                  (NP (PRP yourself)))
+                (SBAR (IN if)
+                  (S
+                    (NP (DT that))
+                    (VP (VBD was)
+                      (NP (PRP$ your) (NN preference)))))))))))
+    (. .)))
+
+

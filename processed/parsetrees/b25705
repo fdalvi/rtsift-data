@@ -1,0 +1,129 @@
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP
+        (NP
+          (NP (DT the) (JJS best) (NN Subway))
+          (PP (IN in)
+            (NP (DT the) (NN area))))
+        (: -)
+        (NP (NNS hands)))
+      (ADVP (RB down)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN location))
+    (VP (VBZ has)
+      (NP
+        (NP (JJ ample) (NN parking))
+        (, ,)
+        (SBAR
+          (S
+            (VP (VBZ is)
+              (ADJP
+                (ADJP (JJ clean))
+                (, ,)
+                (CC and)
+                (ADJP (RB rarely) (RB too) (JJ busy))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB Even)
+      (S
+        (VP (VBG durring)
+          (NP (DT the) (NN lunch) (NN rush)))))
+    (, ,)
+    (NP (DT this) (NN place))
+    (VP (VBZ is)
+      (ADJP (JJ efficient)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Never))
+      (VP (VBP do)
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP crave)
+              (NP (DT a) (NN Subway)))))))
+    (, ,)
+    (CC but)
+    (S
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP I))
+          (VP (VBP want)
+            (NP
+              (NP (JJ fast) (NN food))
+              (CC &)
+              (RB still)
+              (NP (NN desire)))
+            (S
+              (VP (TO to) (`` ``)
+                (VP (VB eat)
+                  (ADJP (JJ fresh)))
+                ('' ''))))))
+      (NP (DT this))
+      (VP (VBZ is)
+        (NP (PRP$ my) (NN spot))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBN Located)
+      (PP (IN in)
+        (NP (DT the) (JJ Whole) (NNP Foods) (NN shopping) (NN center)))
+      (PP (IN on)
+        (NP
+          (NP (DT the) (JJ South-East) (NN corner))
+          (PP (IN of)
+            (NP
+              (NP (NNP Ray))
+              (CC &)
+              (NP (DT the) (CD 101)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT the) (NN staff))
+    (ADVP (RB here))
+    (VP (VBZ is) (RB not)
+      (VP (VBG enjoying)
+        (NP (PRP$ their) (NN work))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ feels)
+      (ADVP
+        (ADVP (RB too) (RB much))
+        (PP (IN like)
+          (NP (DT a) (NN factory) (NN assembly) (NN line))
+          (ADVP (RB here))))
+      (PP (IN in)
+        (NP (RB here))))
+    (. .)))
+
+(ROOT
+  (NP (NNP SMILE) (NNP PEOPLE) (. !)))
+
+(ROOT
+  (S
+    (NP (NNP Life))
+    (VP (VBZ 's)
+      (ADJP (RB too) (JJ short))
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (ADJP (JJ miserable))))))
+    (. .)))
+
+

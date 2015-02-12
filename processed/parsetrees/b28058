@@ -1,0 +1,126 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG Getting)
+        (PRT (RP out))
+        (PP
+          (PP (IN of)
+            (NP (NNP Princess) (NNP Street)))
+          (CC and)
+          (PP (IN onto)
+            (NP (NNP Leith) (NNP Walk))))))
+    (VP (VBZ is)
+      (NP (RB almost) (DT a) (JJ humbling) (NN journey)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Cafes))
+    (VP
+      (ADVP (RB down)
+        (NP (DT this) (NN way)))
+      (VBP spend)
+      (NP (JJR less) (NN time))
+      (S
+        (VP (VBG showing)
+          (PRT (RP off))
+          (PP (IN with)
+            (NP
+              (NP (JJ expensive) (NN decor))
+              (CC and)
+              (NP (JJR more) (NN time))))
+          (PP (IN on)
+            (NP (DT the) (NN food))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (S
+      (NP (DT The) (NNP Spicy) (NNP Pot))
+      (VP (VBZ is)
+        (PP (IN like)
+          (NP (DT a) (NNP Mediterranean) (NNP Subway)))
+        (, ,)
+        (ADJP (RB very) (JJ healthy))))
+    (VP (VBD sized))
+    (NP
+      (NP (NNS portions))
+      (PP (IN of)
+        (NP (PRP$ your) (JJ favorite) (NN sandwich)
+          (CC or)
+          (NN wrap) (NNS combos))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (SBAR
+      (WHNP (WDT that))
+      (S
+        (VP (VBZ 's)
+          (ADVP (RB also))
+          (NP
+            (NP (DT the) (JJS biggest) (NN problem))
+            (PP (IN with)
+              (NP (DT this) (NN place)))))))
+    (, ,)
+    (NP (DT the) (NN menu) (NNS options))
+    (VP (VBP are)
+      (ADJP (JJ limited)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP (DT a) (JJ real) (NN shame))
+      (SBAR (IN because)
+        (S
+          (NP (PRP they))
+          (VP (VBD put)
+            (NP (PRP me))
+            (NP
+              (NP (RB together) (DT a)
+                (ADJP (RB very) (JJ nice))
+                (NN Club))
+              (, ,)
+              (VP (VBN made)
+                (SBAR
+                  (WHADVP (RB exactly) (WRB how))
+                  (S
+                    (NP (PRP I))
+                    (VP (VBD wanted)
+                      (SBAR
+                        (S
+                          (NP (PRP it)
+                            (CC and)
+                            (PRP it))
+                          (VP (VBD tasted)
+                            (ADJP (JJ divine))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP are)
+        (ADJP
+          (ADVP (RBR more) (IN than))
+          (JJ capable)
+          (PP (IN than)
+            (S
+              (VP (VBG producing)
+                (NP (JJ excellent) (NN Med) (NN food))))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP hope)
+      (S
+        (NP (PRP they))
+        (VP (VB take)
+          (S
+            (NP (DT a) (NN chance))
+            (DT an)
+            (VP (VB expand)
+              (NP (DT the) (NN menu)))))))
+    (. !)))
+
+

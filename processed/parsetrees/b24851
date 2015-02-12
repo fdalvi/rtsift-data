@@ -1,0 +1,326 @@
+(ROOT
+  (NP
+    (NP (NN Love))
+    (NP
+      (NP (DT the) (NN butcher))
+      (PP (IN at)
+        (NP (DT this) (NNP Safeway) (NNP !!!))))))
+
+(ROOT
+  (S
+    (S
+      (VP (VB Reminds)
+        (NP (PRP me))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN butcher))
+            (PP (IN at)
+              (NP (DT the) (NN grocer)))))))
+    (NP (PRP we))
+    (VP (VBD went)
+      (PP (TO to)
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP I))
+            (VP (VBD was)
+              (VP (VBG growing)
+                (PRT (RP up))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VP (VBZ knows)
+        (NP (NN everything))
+        (PP (IN about)
+          (NP
+            (NP (DT every) (NN cut))
+            (PP (IN of)
+              (NP (NN meat)))
+            (, ,)
+            (PP (VBG including)
+              (NP
+                (NP (DT the) (JJS best) (NNS ways))
+                (SBAR
+                  (S
+                    (VP (TO to)
+                      (VP (VB cook)
+                        (NP (PRP them)))))))))))
+      (: ...)
+      (CC and)
+      (VP (MD will)
+        (VP (VB take)
+          (NP (DT the) (NN time)
+            (S
+              (VP (TO to)
+                (VP (VB talk)
+                  (PP (TO to)
+                    (NP (PRP you)))
+                  (PP (IN about)
+                    (NP (PRP it))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD told)
+        (NP (PRP him))
+        (PP (IN about)
+          (NP
+            (NP (NN something))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBD had) (RB n't)
+                  (VP (VBN turned)
+                    (PRT (RP out))
+                    (NP (RB quite) (JJ right)
+                      (NP (DT the) (JJ last) (NN time)))
+                    (SBAR
+                      (S
+                        (NP (PRP I))
+                        (VP (VBD made)
+                          (NP (PRP it)))))))))))))
+    (: --)
+    (S
+      (S
+        (NP (PRP he))
+        (VP (VBD gave)
+          (NP (PRP me))
+          (NP (DT a) (NN tip))))
+      (CC and)
+      (S
+        (NP (PRP it))
+        (VP (VBD turned)
+          (PRT (RP out))
+          (NP (NN melt-in-your-mouth))
+          (ADVP (RB perfectly)))))
+    (. .)))
+
+(ROOT
+  (S (RB So)
+    (PP (IN besides)
+      (NP
+        (NP (DT the) (NN fact))
+        (SBAR (IN that)
+          (S
+            (NP (DT this) (NNP Safeway))
+            (VP (VBZ has)
+              (NP
+                (NP
+                  (NP (DT the) (JJ same) (NNS women) (POS 's))
+                  (NN health) (NN mix))
+                (SBAR (IN that)
+                  (S
+                    (NP (PRP I))
+                    (VP (VBD used)
+                      (S
+                        (VP (TO to)
+                          (VP (VB have)
+                            (S
+                              (VP (TO to)
+                                (VP (VB drive)
+                                  (PP (TO to)
+                                    (NP (NNP Scottsdale))))))
+                            (S
+                              (VP (TO to)
+                                (VP (VB get)
+                                  (PP (IN from)
+                                    (NP
+                                      (NP (JJ Whole) (NNPS Foods))
+                                      (CC or)
+                                      (NP (DT the) (NN fact))))
+                                  (SBAR (IN that)
+                                    (S
+                                      (NP (PRP they))
+                                      (VP (VBP have)
+                                        (NP
+                                          (NP (JJ other) (NN specialty) (NNS items))
+                                          (SBAR
+                                            (WHNP (WDT that))
+                                            (S
+                                              (VP (VBP are)
+                                                (ADJP
+                                                  (ADJP (JJR cheaper))
+                                                  (PP (IN than)
+                                                    (S
+                                                      (VP (VBG going)
+                                                        (PP (TO to)
+                                                          (NP (NNP AJ) (POS 's)))))))))))))))))))))))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (ADJP (IN worth)
+        (NP
+          (NP (DT the) (NN drive))
+          (PP (TO to)
+            (NP (NNP Vistancia)))))
+      (S
+        (ADVP (RB just))
+        (VP (TO to)
+          (VP (VB visit)
+            (NP (DT the) (NN butcher))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP love)
+      (NP (NNP Safeway)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP (JJ clean) (JJ upscale) (NNS stores))
+      (NP
+        (NP (DT all))
+        (PP (IN over)
+          (NP (DT the) (NN valley)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (ADVP (RB recently))
+      (VP (VBD moved)))
+    (CC and)
+    (S
+      (S
+        (NP (NNP Safeway))
+        (VP (VBZ is)
+          (NP (DT the) (JJS closest) (NN grocer))))
+      (CC and)
+      (S
+        (NP (PRP I))
+        (VP (VBP couldnt)
+          (VP (VB be)
+            (ADJP (RBR more) (JJ happy))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN one))
+    (VP (VBZ is)
+      (VP (VBN located)
+        (PP (IN between)
+          (NP
+            (NP (PRP$ my) (NNS kids) (NN school))
+            (CC and)
+            (NP (NN home))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Perfect))
+      (PP (IN for)
+        (S
+          (VP (VBG stopping)
+            (PRT (RP in))
+            (PP (IN for)
+              (NP (DT any) (NN dinner) (NNS items)))))))
+    (VP (VBD needed))
+    (. !)))
+
+(ROOT
+  (S
+    (ADVP
+      (NP (NNS Starbucks))
+      (RB inside))
+    (, ,)
+    (S
+      (NP (NN staff))
+      (VP (VBZ is)
+        (ADJP (JJ helpful))))
+    (CC and)
+    (S
+      (NP (DT the) (JJ floral) (NN department))
+      (VP (VBZ is)
+        (ADVP (RB always))
+        (ADJP (JJ beautiful))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP like)
+          (NP
+            (NP (JJ long) (NNS lines))
+            (CC and)
+            (NP (JJ awful) (NN customer) (NN service))))))
+    (NP (DT this))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN store))
+        (PP (IN for)
+          (NP (PRP you)))))
+    (. .)))
+
+(ROOT
+  (S (CC Plus)
+    (SBAR (IN if)
+      (S
+        (NP (PRP you))
+        (VP
+          (VP (VBP want)
+            (NP (DT a) (NN drink))
+            (PP (IN at)
+              (NP (PRP$ their) (NNS Starbucks))))
+          (, ,)
+          (CC and)
+          (VP (VBD dont)))))
+    (VP (VB mind)
+      (S
+        (VP (VBG waiting)
+          (NP
+            (NP
+              (QP (IN at) (JJS least) (CD 15)))
+            (PP (IN for)
+              (NP (DT the) (NN guy)
+                (S
+                  (VP (TO to)
+                    (VP (VB make)
+                      (NP (PRP$ your) (NN drink)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Then))
+    (NP (PRP you))
+    (ADVP (RB truly))
+    (VP (VBP have)
+      (NP
+        (NP (DT a) (NN store))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ fits)
+              (S
+                (NP (PRP your))
+                (NP (DT every) (NN need))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Wish)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD was) (RB n't)
+            (NP
+              (NP (DT the) (JJ only) (NN grocery) (NN store))
+              (ADJP (VBP close)
+                (PP (TO to)
+                  (NP (PRP me)))))))))))
+
+

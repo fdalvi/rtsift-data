@@ -1,0 +1,87 @@
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBZ is)
+      (ADJP (JJ awesome)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP have)
+        (ADVP (RB cheap))
+        (VP (VBN used)
+          (NP (NNS bikes)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (NN money))
+      (VP (VBZ goes)
+        (PP (TO to)
+          (NP (NN charity)))))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What) (JJR more))
+    (SQ (MD could)
+      (NP (PRP you))
+      (VP (VB ask)
+        (PP (IN for))))
+    (. ?)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (JJ only) (NN problem))
+      (VP (VBZ is) (, ,)
+        (SBAR (IN because)
+          (S
+            (NP (PRP they))
+            (VP (VBP get)
+              (NP (PRP$ their) (NNS bikes))
+              (PP (IN as)
+                (NP (NNS donations))))))))
+    (, ,)
+    (NP (DT the) (NN selection))
+    (VP (MD can)
+      (VP (VB be)
+        (ADJP (JJ spotty))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD stopped)
+        (PP (IN in)
+          (S
+            (VP (VBG looking)
+              (PP (IN for)
+                (NP (DT a) (JJ used) (NN road) (NN bike))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBD had)
+        (NP
+          (NP
+            (NP (NNS 58cm))
+            (CC and)
+            (NP (JJR larger) (NNS frames)))
+          (, ,)
+          (CC and)
+          (NP
+            (NP (NNS 50cm))
+            (CC and)
+            (NP (JJR smaller) (NNS frames))))
+        (, ,)
+        (PP (IN with)
+          (NP
+            (NP (NN nothing))
+            (PP (IN in)
+              (NP (IN between)))))))
+    (. .)))
+
+

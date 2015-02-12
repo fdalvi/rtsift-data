@@ -1,0 +1,244 @@
+(ROOT
+  (S
+    (NP (NNP Excellent))
+    (VP (VBP bnb))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP David))
+    (VP (VBZ takes)
+      (NP
+        (NP (JJ good) (NN care))
+        (PP (IN of)
+          (NP (PRP you)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN location))
+    (VP (VBZ has)
+      (NP (JJ super) (JJ easy) (NN access))
+      (PP (TO to)
+        (NP
+          (NP (NN city) (NN centre))
+          (PP (IN via)
+            (NP (NN bus))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Busses))
+    (VP (VBP run)
+      (ADVP (RB frequently))
+      (PP (IN until)
+        (NP (NN midnight))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Safe))
+    (VP (VBZ neighborhood))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBZ serves)
+      (NP (DT a) (JJ mean) (JJ Scottish) (NN breakfast))
+      (, ,)
+      (PP (IN with)
+        (NP
+          (NP (DT an) (NN egg))
+          (, ,)
+          (NP (NN bacon))
+          (, ,)
+          (NP (NN sausage))
+          (, ,)
+          (NP (JJ black) (NN pudding))
+          (, ,)
+          (NP (NNP Haggis))
+          (, ,)
+          (NP (NN tomato))
+          (, ,)
+          (CC and)
+          (NP (NN potato) (NN scone)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN room))
+    (VP (VBZ is)
+      (ADJP (RB perfectly) (JJ sized)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN shower) (NN water))
+    (VP (VBZ takes)
+      (ADJP (JJ long)
+        (S
+          (VP (TO to)
+            (VP (VB heat)
+              (PRT (RP up))
+              (ADVP (RB though)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD spent)
+      (NP
+        (NP
+          (QP (# #) (CD 50)))
+        (NP (DT a) (NN night)))
+      (PP (IN for)
+        (NP (DT a) (JJ single) (NN room))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (DT this))
+          (VP (VBZ is)
+            (NP (DT a) (JJ great) (NN deal))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ small) (NN hotel))
+        (PP (IN with)
+          (NP (DT a)
+            (ADJP (RB very) (JJ friendly)
+              (CC and)
+              (JJ helpful))
+            (NN host)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VP (VBZ provides)
+        (NP (PRP you))
+        (PP (IN with)
+          (NP
+            (ADJP (RB very) (JJ useful))
+            (NNS tips))))
+      (CC and)
+      (VP (VBZ hints)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB All) (RB together))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ comfortable)
+        (PP (IN in)
+          (NP (JJ British) (NN style)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS rooms))
+      (VP (VBP are)
+        (ADJP
+          (ADJP (JJ small))
+          (: -)
+          (SBAR
+            (ADVP (RB especially))
+            (IN if)
+            (S
+              (NP (PRP you))
+              (VP (VBP are) (RB not)
+                (VP (VBG travelling)
+                  (ADVP (RB alone))))))
+          (: -))))
+    (PRN (, ,)
+      (S
+        (NP (DT the) (NNS walls))
+        (VP (VBP are)
+          (ADJP (JJ thin))))
+      (, ,))
+    (CC and)
+    (S
+      (NP (DT the) (NN furniture))
+      (VP (VBZ is)
+        (ADVP (RB somewhat))
+        (VP (VBN run)
+          (PRT (RP down)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Nonetheless))
+    (NP (DT the) (NNS rooms))
+    (VP (VBP are)
+      (ADJP (JJ clean)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (MD can)
+      (ADVP (RB easily))
+      (VP (VB reach)
+        (NP (NNP Edinburgh) (NN downtown))
+        (PP (IN by)
+          (NP
+            (NP (NN bus))
+            (PP (IN in)
+              (NP
+                (QP (RB about) (CD 10))
+                (NNS minutes)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ stops)
+      (ADVP (RB just))
+      (PP (IN in)
+        (NP
+          (NP (NN front))
+          (PP (IN of)
+            (NP (DT the) (NN hotel))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ old) (NN harbour))
+      (PP (IN of)
+        (NP (NNP Leith))))
+    (VP (VBZ is)
+      (ADVP
+        (NP (RB just) (CD 15) (NNS minutes))
+        (RB away))
+      (PP (IN by)
+        (NP (NN foot))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Here))
+    (NP (PRP you))
+    (VP (VBP find)
+      (NP
+        (NP (DT a) (NN lot))
+        (PP (IN of)
+          (NP (JJ good) (NNS restaurants)
+            (CC and)
+            (NNS pubs)))))
+    (. .)))
+
+

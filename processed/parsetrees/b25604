@@ -1,0 +1,119 @@
+(ROOT
+  (S
+    (NP (JJ Small) (NN store))
+    (VP (VBN located)
+      (ADVP (JJ next)
+        (PP (TO to)
+          (NP (DT the) (NN target))))
+      (PP (IN at)
+        (NP (DT the) (NN summit) (NN shopping) (NN center))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBP have)
+      (VP (VBN stopped)
+        (PP (IN in)
+          (NP
+            (NP (DT a) (JJ few) (NNS times))
+            (PP (IN for)
+              (NP (CD one)
+                (CC or)
+                (CD two) (NNS things)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN layout))
+    (VP (VBZ is)
+      (ADJP (RB pretty) (JJ standard)
+        (PP (IN with)
+          (NP
+            (NP (DT the) (NN selection))
+            (PP (IN of)
+              (NP
+                (NP
+                  (NP (NNS electronics))
+                  (PP (IN in)
+                    (NP (DT the) (NN middle))))
+                (CC and)
+                (NP
+                  (NP (NNS supplies))
+                  (PP (IN on)
+                    (NP
+                      (NP (DT either) (NN side))
+                      (PP (IN of)
+                        (NP (DT the) (NN store))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB also))
+    (VP (VBP have)
+      (NP (DT a) (NN computer) (NN center))
+      (PP (IN with)
+        (NP (NN tech) (NN support)
+          (CC and)
+          (NN printing) (NNS services))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Super))
+      (ADJP (JJ easy)
+        (S
+          (VP (TO to)
+            (VP (VB find))))))
+    (CC and)
+    (S
+      (ADVP (RB also))
+      (VP (VBG super)
+        (NP (JJ nice) (NN inside))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN customer) (NN service))
+    (VP
+      (VP (VBZ is)
+        (ADJP (JJ great)))
+      (CC and)
+      (VP (VBP love)
+        (SBAR
+          (WHADVP (WRB how))
+          (S
+            (NP (PRP they))
+            (VP (VBP have)
+              (NP (DT a) (JJ huge) (NN printing) (NN section) (NN inside)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Everything))
+    (VP (VBZ is)
+      (ADVP (RB also))
+      (ADVP (RB always))
+      (ADJP
+        (ADJP
+          (ADJP (RB very) (JJ neat))
+          (CC and)
+          (ADJP (VBN organized)))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP
+              (VP (VBZ is)
+                (ADJP (JJ great)))
+              (CC and)
+              (VP (VBZ makes)
+                (S
+                  (VP (VBG finding)
+                    (NP (NN everything))
+                    (ADVP (RB easy))))))))))
+    (. .)))
+
+

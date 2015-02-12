@@ -1,0 +1,131 @@
+(ROOT
+  (S
+    (ADVP (RB Probably))
+    (NP (DT the) (JJS worst) (NN pizza) (NN I))
+    (VP (VBP 've)
+      (VP (VBD had)
+        (VP (VBN delivered)
+          (PP (TO to)
+            (NP (PRP$ my) (NN house))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Ever))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBD ordered)
+        (NP (DT a)
+          (QP (# #) (CD 16.99) (CD pizza))))
+      (CC but)
+      (ADVP (RB thankfully))
+      (VP (VBD had)
+        (NP
+          (NP (DT a) (NN voucher))
+          (SBAR (IN so)
+            (S
+              (NP (PRP it))
+              (ADVP (RB only))
+              (VP (VBD cost)
+                (NP
+                  (NP (# #) (CD 9.99))
+                  (: -)
+                  (NP
+                    (NP (NNP Thank) (NNP God))
+                    (SBAR (IN as)
+                      (S
+                        (NP (PRP it))
+                        (VP (VBD was) (RB n't)
+                          (ADVP (RB even))
+                          (ADJP (IN worth)
+                            (WHNP (WDT that))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN base))
+      (VP (VBD was)
+        (VP (VBN uncooked))))
+    (CC and)
+    (S
+      (NP
+        (NP (DT the) (NN amount))
+        (PP (IN of)
+          (NP (NNS toppings))))
+      (VP (VBD was)
+        (ADJP (JJ laughable))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 've)
+      (VP (VBN seen)
+        (ADVP (RBR more))
+        (S
+          (VP (VBG topping)
+            (PP (IN on)
+              (NP (DT a) (JJ bog) (JJ standard) (NN supermarket) (NN pizza)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB also))
+    (VP (VBD asked)
+      (PP (IN for)
+        (NP
+          (NP (CD three) (NNS dips))
+          (, ,)
+          (NP
+            (NP (DT a) (JJ simple) (NN request))
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (NP (PRP they))
+                (ADVP (RB also))
+                (VP (VBD managed)
+                  (S
+                    (VP (TO to)
+                      (VP (VB get)
+                        (ADJP (JJ wrong))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD had)
+      (S
+        (VP (TO to)
+          (VP
+            (VP (VB fire)
+              (PRT (RP up))
+              (NP (PRP$ my) (NN oven)))
+            (CC and)
+            (VP (VB cook)
+              (NP (PRP it))
+              (ADVP (RB properly))
+              (SBAR
+                (WHNP
+                  (WHNP (WDT which) (NN kind))
+                  (PP (IN of)))
+                (S
+                  (VP (VBD defeated)
+                    (NP
+                      (NP (DT the) (JJ whole) (NN purpose))
+                      (PP (IN of)
+                        (NP (DT a) (NN take))))
+                    (ADVP (RB away))))))))))
+    (. .)))
+
+(ROOT
+  (FRAG (RB Not)
+    (ADJP (JJ good) (RB enough))
+    (. .)))
+
+

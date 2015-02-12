@@ -1,0 +1,82 @@
+(ROOT
+  (S
+    (NP (DT No) (NNP CAKE))
+    (VP (VBZ POPS))
+    (. !)))
+
+(ROOT
+  (NP
+    (NP (DT No) (NN chocolate))
+    (NP (NN chai) (NN mix))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (MD Wo) (RB n't)
+      (VP (VB take)
+        (NP (PRP$ my) (NNP Starbucks) (NN card))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (ADVP (IN at) (JJS least))
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (ADJP (JJ close)
+        (PP (TO to)
+          (NP (DT the) (NN room) (NNS elevators)))))
+    (: ...)))
+
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (UCP
+        (FRAG
+          (ADJP (RB very) (JJ convenient)))
+        (CC and)
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBZ does) (RB n't)
+              (VP (VB love)
+                (NP (NNS Starbucks))))))))
+    (. ?)))
+
+(ROOT
+  (S (CC But)
+    (S
+      (NP (PRP$ my) (NN gift) (NN card))
+      (VP (VBP wasnt)
+        (S
+          (VP (VBG working)))))
+    (CC and)
+    (S
+      (NP (EX there))
+      (VP (VBZ 's)
+        (NP
+          (NP (DT a) (NN lot))
+          (PP (IN of)
+            (NP
+              (NP (NNS things))
+              (SBAR
+                (S
+                  (NP (PRP they))
+                  (VP (VBP do) (RB n't)
+                    (VP (VB have))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (ADJP (RB Really) (JJ long))
+        (NNS lines))
+      (PP (IN in)
+        (NP (DT the) (NNS mornings))))
+    (ADVP (RB too))
+    (VP (VBP btw))
+    (. !)))
+
+

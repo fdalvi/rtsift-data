@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP feel)
+      (NP
+        (NP (NNP Boots))
+        (SBAR
+          (S
+            (NP (DT the) (NN chemist))
+            (VP (VBZ has)
+              (NP
+                (NP (DT a) (JJ great) (NN range))
+                (PP (IN of)
+                  (NP
+                    (NP (JJ various) (NNS vitamins))
+                    (, ,)
+                    (SBAR
+                      (WHNP
+                        (NP (DT some))
+                        (WHPP (IN of)
+                          (WHNP (WDT which))))
+                      (S
+                        (NP (FW i))
+                        (VP (VBP have)
+                          (VP (VBN purchased)
+                            (NP (PRP myself))
+                            (PP (IN on)
+                              (NP (DT a) (JJ few) (NNS occasions)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN staff))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBD served)
+            (NP (PRP me))))))
+    (VP (VBD were)
+      (ADJP (RB very) (JJ approachable)
+        (CC and)
+        (JJ kind)))
+    (. .)))
+
+

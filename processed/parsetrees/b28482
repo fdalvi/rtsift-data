@@ -1,0 +1,134 @@
+(ROOT
+  (S (`` `)
+    (VP (VBP Oooh))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Aaah))
+    (. .)))
+
+(ROOT
+  (NP (CD Shiny) (NNS things) (. .)))
+
+(ROOT
+  (S ('' ')
+    (NP (NNP Galerie) (NNP Mirages))
+    (VP (VBD provoked)
+      (NP (DT this) (NN reaction))
+      (PP (IN in)
+        (NP (PRP me)))
+      (PP (IN with)
+        (NP
+          (NP
+            (NP (PRP it) (POS 's))
+            (JJ huge) (NN display))
+          (PP (IN of)
+            (NP (JJ beautiful) (NN jewellery) (, ,) (NNS trinkets)
+              (CC and)
+              (NNS ornaments))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP
+        (VP (VBP 'm)
+          (NP
+            (NP (DT a) (NN sucker))
+            (PP (IN for)
+              (NP
+                (ADJP (JJ cute) (JJ little))
+                (NNS ornaments)))))
+        (CC and)
+        (VP (VBD spent)
+          (NP (DT a)
+            (ADJP (JJ good)
+              (PP (IN while)
+                (S
+                  (VP (VBG ogling)
+                    (NP
+                      (NP (PRP$ their) (NNS elephants))
+                      (, ,)
+                      (NP (NNS birds))
+                      (, ,))))))
+            (NN everything)))))
+    (: ...)
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's) (RB all)
+        (ADJP (JJ wonderful))
+        (, ,)
+        (S
+          (VP (VB trust)
+            (NP (PRP me))))))
+    (. !)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP 're)
+          (PP (IN on)
+            (NP
+              (NP (DT a) (NN budget))
+              (PP (IN for)
+                (NP (DT a) (NN gift))))))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP 've)
+      (VP (VBN got)
+        (NP
+          (NP (DT a) (JJ wide) (NN variety))
+          (PP (IN of)
+            (NP (NNS prices))))
+        (PP (IN from)
+          (NP (JJR cheaper) (JJ little) (NNS trinkets)))
+        (PP (TO to)
+          (NP
+            (ADJP (RBR more) (JJ expensive))
+            (NN jewellery) (NNS pieces)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD had)
+      (S
+        (VP (TO to)
+          (VP (VB show)
+            (NP (DT some) (JJ serious) (NN restraint))
+            (, ,)
+            (S
+              (VP (VBG leaving)
+                (PP (IN with)
+                  (NP (RB only) (DT a)
+                    (ADJP (JJ regal) (JJ blue))
+                    (JJ clip-on) (NN peacock)))))))))
+    (. !)))
+
+(ROOT
+  (S (-LRB- -LRB-)
+    (NP (WDT Which))
+    (VP (VBZ looks)
+      (ADJP (JJ marvelous)))
+    (VP (VBN clipped)
+      (PP (TO to)
+        (NP
+          (NP (DT the) (JJ ornate) (NN gold) (NN mirror))
+          (PP (IN in)
+            (NP (PRP$ my) (NN room))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (NNP -RRB-))
+    (ADVP (RB Now))
+    (VP (VBP go)
+      (VP (VB see)
+        (NP (JJ shiny) (NNS things))))
+    (. !)))
+
+

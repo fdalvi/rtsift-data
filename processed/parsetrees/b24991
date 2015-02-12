@@ -1,0 +1,112 @@
+(ROOT
+  (S (`` ``)
+    (NP (CD 6) (NN inch))
+    (VP (VBD tuna)
+      (PP (IN on)
+        (NP (JJ white) (NN bread)))
+      (, ,)
+      (PP (IN with)
+        (NP
+          (NP (NN everything))
+          (PP (VBG including)
+            (NP
+              (NP (NN spinach))
+              (, ,)
+              (CC but)
+              (NP (DT NO) (NNS pickles)))))))
+    ('' '') (. .)))
+
+(ROOT
+  (NP
+    (NP (RB Not) (RB even) (JJ joking))
+    (, ,)
+    (NP
+      (NP (DT this) (DT THE) (JJ only) (NN subway))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (ADVP (RB ever))
+          (VP (VBZ gets)
+            (NP (PRP$ my) (NN sandwich) (NN right))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VB Thank)
+        (NP (PRP you))
+        (PP (IN for)
+          (NP (DT the)
+            (ADJP ($ $) (CD 5))
+            (NN meal) (NN deal)))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ beats)
+      (NP
+        (NP (DT the) (JJ other) (NNS chains))
+        (PP (IN in)
+          (NP (DT this) (NN shopping) (NN plaza))))
+      (ADVP
+        (ADVP (RB as) (RB far))
+        (PP (IN as)
+          (NP
+            (NP (NN price))
+            (PP (IN for)
+              (NP (NN lunch)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP make)
+      (NP
+        (NP
+          (NP (PRP$ your) (NN sandwich))
+          (NP (DT the) (NN way)))
+        (SBAR
+          (S
+            (NP (PRP you))
+            (VP (VBP ask)
+              (PP (IN for)
+                (NP (PRP it))))))))
+    (. .)))
+
+(ROOT
+  (S (CC Plus)
+    (, ,)
+    (NP (PRP they))
+    (VP
+      (VP (VBP 're)
+        (ADJP (JJ fast)))
+      (CC and)
+      (VP (VBD gave)
+        (NP (PRP me))
+        (NP (DT a) (JJ free) (NN cookie) (NN card)))
+      (PP (IN for)
+        (S
+          (VP (VBG being)
+            (PP (IN in)
+              (NP (DT the) (NN health) (NN profession)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Three))
+    (VP (VBZ stars)
+      (SBAR (IN because)
+        (S
+          (NP (PRP I))
+          (VP (VBP consider)
+            (S
+              (NP (NNP Subway))
+              (VP (TO to)
+                (VP (VB be)
+                  (NP
+                    (NP (DT an) (JJ average) (NN chain))
+                    (CC and)
+                    (RB not)
+                    (NP (NN gourmet) (NN food))))))))))
+    (. .)))
+
+

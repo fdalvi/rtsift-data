@@ -1,0 +1,76 @@
+(ROOT
+  (S
+    (ADVP (RB Had))
+    (NP (DT a) (JJ great) (NN weekend))
+    (VP (VBP stay))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS owners))
+      (VP (VBP are)
+        (ADJP (JJ friendly)
+          (CC and)
+          (JJ warm))))
+    (PRN (, ,)
+      (S
+        (NP (DT the) (NNS accommodations))
+        (VP (VBD were)
+          (ADJP (JJ comfortable))))
+      (, ,))
+    (CC and)
+    (S
+      (NP (DT the) (NN location))
+      (VP (VBZ is)
+        (ADJP (JJ good))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Just))
+    (NP (DT a) (CD 20) (NN min))
+    (VP
+      (VP (VBP walk)
+        (PP (TO to)
+          (NP (DT the) (JJ old) (NN town))))
+      (CC or)
+      (VP (VBP take)
+        (NP (DT a) (JJ quick) (NN bus) (NN ride))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN bus) (NN stop))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ is)
+              (ADJP (RB very) (JJ close)
+                (PP (IN with)
+                  (NP (JJ many) (NNS buses))))
+              (S
+                (VP (VBG heading)
+                  (PP (IN towards)
+                    (NP (DT the) (NN city) (NN centre))))))))))
+    (. .)))
+
+(ROOT
+  (SQ (MD Will)
+    (NP (NNP definitely))
+    (VP (VB stay)
+      (ADVP (RB here) (RB again))
+      (NP
+        (NP (DT the) (JJ next) (NN time))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP 'm)
+              (PP (IN in)
+                (NP (NNP Edinburgh))))))))
+    (. !)))
+
+

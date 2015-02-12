@@ -1,0 +1,111 @@
+(ROOT
+  (S
+    (NP (PRP$ My) (NN favorite))
+    (VP (VBP place)
+      (S
+        (VP (TO to)
+          (VP (VB get)
+            (NP (PRP$ my) (NN haircut))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP love)
+      (S
+        (VP (VBG getting)
+          (NP (PRP$ my) (NN hair) (NN cut))
+          (ADVP (RB here)))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 've)
+      (VP
+        (VP (VBN been)
+          (VP (VBG going)
+            (PP (TO to)
+              (NP
+                (NP (NNP Tina))
+                (PP (IN for)
+                  (NP (NNS years)))))))
+        (CC and)
+        (ADVP (RB not) (RB once))
+        (VP (VB have)
+          (S
+            (NP (PRP I))
+            (VP (VBD complained)
+              (ADVP (RB yet)))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN owner))
+      (, ,)
+      (NP (NNP Tina)))
+    (VP
+      (VP (VBZ is)
+        (ADJP (RB super) (JJ friendly)))
+      (CC and)
+      (VP (VBZ gives)
+        (NP (PRP you))
+        (NP
+          (NP (NNS tips)
+            (CC and)
+            (NNS pointers))
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (PRP you))
+              (VP (MD ca) (RB n't)
+                (VP (VB decide)
+                  (PP (IN on)
+                    (NP (DT a) (NN cut))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ Her) (NN son))
+      (, ,)
+      (NP (NNP Marco))
+      (, ,))
+    (VP (VBZ is)
+      (ADVP (RB also))
+      (ADJP
+        (ADJP (RB very) (JJ nice))
+        (CC and)
+        (ADJP (RB just) (RB as) (JJ great)))
+      (PP (IN as)
+        (NP (PRP$ his) (NN mom))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Good))
+    (VP (VBP place)
+      (S
+        (VP (TO to)
+          (VP (VB get)
+            (NP (DT a) (NN haircut))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (MD Can)
+      (ADVP (RB sometimes))
+      (VP
+        (VP (VB be)
+          (NP (DT a) (NN hit)))
+        (CC or)
+        (VP (VB miss) (, ,)
+          (FRAG (CC but)
+            (ADVP (RB overall))
+            (NP (DT a) (JJ good) (NN place))))))
+    (. .)))
+
+

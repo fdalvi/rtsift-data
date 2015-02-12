@@ -1,0 +1,158 @@
+(ROOT
+  (NP (NNP Standard) (NNP Taco) (NNP Bell) (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD used)
+      (S
+        (VP (TO to)
+          (VP (VB work)
+            (PP (IN by)
+              (NP
+                (NP (DT this) (NN one))
+                (NP (DT a) (NN lot))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's)
+        (ADVP (RB always))
+        (ADJP (JJ clean))))
+    (CC and)
+    (S
+      (NP (DT the) (NNS employees))
+      (VP (VBP are)
+        (ADVP (RB always))
+        (ADJP (JJ nice))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (ADVP (RB really))
+      (ADVP (RB probably))
+      (VP (VBP eat)
+        (ADVP (RB far) (RB too) (RB much))
+        (PP (IN of)
+          (NP (DT this) (NN stuff)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADJP (RB so) (JJ good))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS employees))
+      (ADVP (RB here))
+      (VP (VBP are) (RB all)
+        (ADJP (RB very) (JJ nice))))
+    (CC and)
+    (S
+      (NP
+        (NP (DT the) (NN food))
+        (PP (IN as)
+          (NP (DT a) (NN whole))))
+      (VP (VBZ is)
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (NP (PRP I))
+            (VP (MD would)
+              (VP (VB expect)
+                (PP (IN from)
+                  (NP (DT a) (NNP Taco) (NNP Bell)))))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP
+      (NP (DT the) (NN burrito))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBD had)
+            (ADVP (RB here)
+              (PP (IN about)
+                (ADVP
+                  (NP (CD two) (NNS months))
+                  (RB ago))))
+            (VP (VBN had)
+              (NP (PDT such) (DT a) (JJ strong) (NNS patchouli)))))))
+    (VP (VBP taste)
+      (SBAR (IN that)
+        (S
+          (NP (PRP I))
+          (VP (VBP have) (RB not)
+            (VP (VBN gone)
+              (ADVP (RB back)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (ADVP (RB seriously))
+    (VP (VBD tasted)
+      (SBAR (RB as) (IN if)
+        (S
+          (NP (PRP it))
+          (VP (VBD had)
+            (VP (VBN been)
+              (ADJP (JJ seasoned))
+              (PP (IN with)
+                (NP (NNS patchouli))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT The) (NN good))
+    (VP (VBZ is)
+      (ADVP (RB always))
+      (ADJP (JJ hot)
+        (CC and)
+        (JJ fresh)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP (JJ convenient)
+        (PP (IN for)
+          (NP (PRP me))))
+      (S
+        (VP (TO to)
+          (VP (VB walk)
+            (PP (IN across)
+              (NP
+                (NP (DT the) (NN parking) (NN lot))
+                (PP (IN on)
+                  (NP (PRP$ my) (NN lunch) (NN break)))))
+            (S
+              (VP (TO to)
+                (VP (VB grab)
+                  (NP (NN something))
+                  (S
+                    (VP (TO to)
+                      (VP (VB eat)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN customer) (NN service))
+    (VP (VBZ is)
+      (ADJP (JJ excellent)
+        (PP (IN as)
+          (ADVP (RB well)))))
+    (. !)))
+
+

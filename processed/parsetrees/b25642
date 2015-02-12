@@ -1,0 +1,150 @@
+(ROOT
+  (S
+    (S
+      (NP (JJ Horrible) (NN customer) (NN service) (, ,))
+      (VP (VBD went)
+        (PP (IN in)
+          (S
+            (VP (VBG looking)
+              (PP (IN for)
+                (NP
+                  (NP (DT a) (JJ specific) (NN pair))
+                  (PP (IN of)
+                    (NP (NNS shoes))))))))))
+    (NP (PRP I))
+    (VP (VBD needed)
+      (SBAR (IN for)
+        (S
+          (NP
+            (NP (DT a) (NN wedding))
+            (CC and)
+            (NP (DT no) (NN one)))
+          (VP
+            (VP (VBD greeted)
+              (NP (PRP me)))
+            (CC or)
+            (VP (VBD acknowledged)
+              (NP (PRP me))
+              (ADVP (IN at) (DT all)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (SBAR (IN After)
+          (S
+            (NP (PRP I))
+            (VP (VBD found)
+              (NP (DT the) (NNS shoes))
+              (PP (IN on)
+                (NP (PRP$ my) (JJ own))))))
+        (NP (PRP I))
+        (VP (VBD went)
+          (S
+            (VP (TO to)
+              (VP (VB check)
+                (PRT (RP out)))))))
+      (CC and)
+      (S
+        (NP (EX there))
+        (VP (VBD was)
+          (NP
+            (NP (DT a) (NN woman))
+            (VP
+              (ADVP (RB already))
+              (VBG checking)
+              (PRT (RP out)))))))
+    (CC and)
+    (RB then)
+    (S
+      (S
+        (NP (DT another) (NN customer))
+        (VP (VBD was)
+          (VP (VBG waiting)
+            (PP (IN behind)
+              (NP (PRP me))))))
+      (CC and)
+      (S
+        (NP (DT the) (JJ other) (NN cashier))
+        (VP (VBD rang)
+          (NP (PRP them))
+          (ADVP
+            (ADVP (RB up) (JJ first))
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP I))
+                (VP (VBD was)
+                  (ADVP (RB clearly))
+                  (NP (DT the) (JJ next) (NN customer)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT Both) (NNS cashiers))
+    (VP (VBD were)
+      (ADJP (JJ unprofessional))
+      (, ,)
+      (S
+        (VP (VBG talking)
+          (PP (TO to)
+            (NP (DT each) (JJ other)))
+          (NP
+            (NP (DT the) (JJ entire) (NN checkout) (NN process))
+            (CC and)
+            (ADVP (RB never))
+            (SBAR
+              (S
+                (ADVP (RB once))
+                (VP (VBD said)
+                  (INTJ
+                    (INTJ (UH hi))
+                    (CC or)
+                    (INTJ (UH looked)))
+                  (PP (IN at)
+                    (NP (PRP me))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD 'll)
+      (ADVP (RB never))
+      (VP (VB shop)
+        (ADVP (RB here))
+        (ADVP (RB again))))
+    (. .)))
+
+
+(ROOT
+  (FRAG
+    (NP (RB not) (DT a) (JJ bad) (NN store))
+    (NP (RB just) (JJ pricey))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Service))
+    (VP (VBD was)
+      (ADJP (JJ good)
+        (CC and)
+        (JJ friendly))
+      (S
+        (VP (VBN had)
+          (NP
+            (NP (DT some)
+              (ADJP (JJ cute))
+              (NNS shoes))
+            (PP (IN for)
+              (NP (NNS women)
+                (CC and)
+                (NNS kids))))))
+      (SBAR (CC but)
+        (S
+          (NP (PRP$ my) (NN husband))
+          (VP (VBD did) (RB not)
+            (VP (VB find)
+              (NP (NN anything)))))))))
+
+

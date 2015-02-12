@@ -1,0 +1,123 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have)
+      (ADVP (RB never))
+      (VP (VBN been)
+        (VP (VBN laughed)
+          (PP (IN at)
+            (PP (IN by)
+              (NP (DT a) (NN salesperson)))))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 'm) (RB not)
+        (ADJP (JJ sensitive))))
+    (, ,)
+    (NP (PRP I))
+    (VP
+      (VP (VBP am)
+        (NP (DT a) (JJ seasoned) (JJ western) (NN rider)))
+      (CC and)
+      (VP (VBP am)
+        (VP (VBN shocked)
+          (PP (IN at)
+            (NP
+              (NP (DT the) (NN lack))
+              (PP (IN of)
+                (NP (NN knowledge)
+                  (CC and)
+                  (NN customer) (NN service)))
+              (SBAR
+                (S
+                  (NP (DT this) (NN place))
+                  (VP (VBZ has)))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB recently))
+    (VP (VBD bought)
+      (NP
+        (NP (DT a) (NN pair))
+        (PP (IN of)
+          (NP (NN cowboy) (NNS boots))))
+      (PP (IN from)
+        (NP (RB there))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Nice)
+      (NP
+        (NP (NN selection))
+        (, ,)
+        (CONJP (CC but)
+          (RB rather))
+        (NP (JJ pricey))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (ADJP (JJ able)
+        (S
+          (VP (TO to)
+            (VP (VB get)
+              (NP (CD 20) (NN %))
+              (PRT (RP off))))))
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBD made)
+            (S
+              (NP (DT the) (NN purchase))
+              (ADJP (RBR more) (JJ reasonable)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP have)
+        (NP
+          (ADJP (RB much) (RBR more) (JJ fashionable))
+          (NN stuff))
+        (PP (IN than)
+          (NP (DT the) (NN boot) (NN barn)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (NN guy))
+      (VP (VBG working)
+        (SBAR
+          (S
+            (NP (EX there))
+            (VP (VBD helped)
+              (S
+                (NP (PRP me))
+                (VP (VB pick)
+                  (PRT (RP out))
+                  (NP
+                    (NP (DT a) (JJ nice) (NN pair))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP (VBD was) (RB n't)
+                          (PP (IN like)
+                            (NP
+                              (NP (DT a) (NN lot))
+                              (PP (IN of)
+                                (NP (DT the) (NNS others))))))))))))))))
+    (. .)))
+
+(ROOT
+  (INTJ (JJ Good) (NN job) (. !)))
+
+

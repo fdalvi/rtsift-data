@@ -1,0 +1,23 @@
+(ROOT
+  (NP
+    (NP
+      (NP (NNP Friendly))
+      (CC and)
+      (NP (JJ skilled) (NN staff)))
+    (. .)))
+
+(ROOT
+  (FRAG (CC And)
+    (NP
+      (NP (RB pretty) (RB well))
+      (VP (VBN priced)
+        (ADVP (RB too))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Defo))
+    (VP (VBP recommend))
+    (. .)))
+
+

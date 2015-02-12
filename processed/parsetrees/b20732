@@ -1,0 +1,200 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Muffins) (NNP Coffee) (NNP House))
+      (VP (VBZ has)
+        (VP (VBN been)
+          (ADVP (RB here))
+          (PP (IN for)
+            (NP (NNS years))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBD used)
+        (S
+          (VP (TO to)
+            (VP (VB pop)
+              (PRT (RP in))
+              (PP (IN for)
+                (NP
+                  (NP (DT a) (NN cake))
+                  (PP (IN with)
+                    (NP (PRP$ my) (NN gran)))))
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (PRP I))
+                  (VP (VBD was)
+                    (NP (JJR younger))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP
+      (VP (VBZ has)
+        (NP (DT a) (JJ nice) (JJ friendly) (NN atmosphere)))
+      (, ,)
+      (VP (VBZ has)
+        (NP (DT a)
+          (ADJP (JJ cute))
+          (NN name)))
+      (CC and)
+      (VP (VBZ has)
+        (NP
+          (NP (DT a) (JJ great) (NN selection))
+          (PP (IN of)
+            (NP (NNS cakes)
+              (S
+                (VP (TO to)
+                  (VP (VB choose)
+                    (PP (IN from))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP You))
+      (VP (MD can)
+        (VP (VB take)
+          (NP (PRP$ your) (NNS cakes))
+          (PRT (RP away))
+          (PP (IN with)
+            (NP (PRP you))))))
+    (CC or)
+    (S
+      (NP (PRP you))
+      (VP (MD can)
+        (VP
+          (VP (VB sit)
+            (PRT (RP in)))
+          (CC and)
+          (VP (VB have)
+            (NP
+              (NP (DT a) (NN cup))
+              (PP (IN of)
+                (NP (NN tea)
+                  (CC or)
+                  (NN coffee))))
+            (SBAR (IN if)
+              (S
+                (NP (PRP you))
+                (VP (VBP 're)
+                  (VP (VBG looking)
+                    (PP (IN for)
+                      (NP (DT a)
+                        (ADJP (RBR more) (JJ relaxing))
+                        (NN afternoon)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (NN addition))
+        (PP (TO to)
+          (NP (NNS cakes)))))
+    (, ,)
+    (S
+      (NP (NNS lunches))
+      (VP (VBP are)
+        (ADVP (RB also))
+        (ADJP (JJ available))
+        (ADVP (RB here))))
+    (CC and)
+    (S
+      (NP (EX there))
+      (VP (VBZ 's)
+        (ADVP (RB always))
+        (NP
+          (NP (DT a) (JJ good) (NN choice))
+          (PP (IN of)
+            (NP
+              (NP (NNS goodies))
+              (PP (IN on)
+                (NP (NN offer))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBD was)
+      (ADVP (RB just))
+      (ADJP (RB so) (JJ cute)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBD was)
+        (ADJP (RB really) (JJ old)
+          (SBAR
+            (S
+              (S
+                (S
+                  (VP (VBN fashioned)
+                    (SBAR
+                      (WHNP (WDT which))
+                      (S
+                        (NP (PRP I))
+                        (VP (VBP like))))))
+                (, ,)
+                (NP (DT the) (NN quality))
+                (VP (VBZ is)
+                  (ADJP (RB so) (JJ good))))
+              (CC and)
+              (S
+                (NP (PRP they))
+                (VP (VBP do) (RB n't))))))))
+    (, ,)
+    (NP (NN t))
+    (VP (VBP feel)
+      (S
+        (NP (DT the) (NN need))
+        (VP (TO to)
+          (VP (VB do)
+            (NP
+              (NP (DT some)
+                (ADJP (JJ fancy)
+                  (CC and)
+                  (JJ inappropriate))
+                (NN refurbishment))
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (NP (PRP I))
+                  (VP (VB respect)
+                    (NP (DT a) (NN lot))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD had)
+      (NP
+        (NP (DT a) (JJ beautiful) (JJ homemade) (NN potato)
+          (CC and)
+          (NN leek) (NN soup))
+        (CC and)
+        (ADVP (RB then))
+        (NP (DT a) (JJ coronation) (NN chicken) (NN salad))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NN mum))
+    (VP (VBD liked)
+      (NP (PRP$ her) (NN brie)
+        (CC and)
+        (NN apple) (NNS panini))
+      (ADVP (RB too)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Yummy))
+    (. .)))
+
+

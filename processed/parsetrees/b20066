@@ -1,0 +1,169 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Edinburgh))
+      (VP (VBZ does)
+        (NP
+          (NP (NNS lots))
+          (PP (IN of)
+            (NP (NNS things))))
+        (ADVP (RB very) (RB well))))
+    (, ,)
+    (CC but)
+    (S
+      (PP (IN in)
+        (NP (NN general)))
+      (, ,)
+      (NP (NNS nightclubs))
+      (VP (VBP are) (RB n't)
+        (ADVP (RB really))
+        (NP
+          (NP (CD one))
+          (PP (IN of)
+            (NP (PRP them))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (UCP
+          (NP (JJ Shameless) (NN cheese))
+          (CC and)
+          (ADJP (JJ /)
+            (CC or)
+            (JJ fawning))))
+      (NP (DT the) (NNP Cristal) (NNP sipping))
+      (ADVP (RB fraternity))
+      (VP (VBP are)
+        (ADVP (RB usually))
+        (NP
+          (NP (DT the) (NN order))
+          (PP (IN of)
+            (NP (DT the) (NN day))))))
+    (, ,)
+    (CC and)
+    (S
+      (SBAR (IN while)
+        (S
+          (NP (EX there))
+          (VP (VBP are)
+            (NP (DT a)
+              (ADJP (JJ few) (JJR more))
+              (NN thought-provoking))
+            (NP (NNS nights)
+              (CC and)
+              (NNS venues))
+            (SBAR (IN that)
+              (S
+                (VP (VBP do)
+                  (NP (DT a) (NN turn))))))))
+      (, ,)
+      (NP (PRP you))
+      (VP (MD 'll)
+        (ADVP (RB often))
+        (VP (VB find)
+          (NP
+            (NP (JJ decent) (NN stuff))
+            (VP (VBN relegated)
+              (PP (TO to)
+                (NP
+                  (NP (JJ once-a-month) (NNS events))
+                  (, ,)
+                  (CC or)
+                  (RB even)
+                  (NP (NN sparser)))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (S
+      (NP (NNP Berlin))
+      (VP (VBZ does)
+        (NP
+          (NP (DT a) (JJ semi-acceptable) (NN job))
+          (PP (IN of)
+            (S
+              (VP (VBG imitating)
+                (NP (DT a) (NN house))))))))
+    (: /)
+    (FRAG
+      (NP (NN techno) (NN club))
+      (PP (IN in)
+        (NP
+          (NP
+            (NP (DT the)
+              (ADJP (RB rather) (JJR more))
+              (NN bangin) (POS '))
+            (NN city))
+          (SBAR
+            (S
+              (NP (PRP it))
+              (VP (VBZ 's)
+                (VP (VBN named)
+                  (PP (IN after)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (SBAR (IN As)
+        (S
+          (VP (VBZ is)
+            (PP (IN with)
+              (S
+                (NP (JJS most) (NNS clubs))
+                (VP (VBG playing)
+                  (NP
+                    (NP (DT this) (NN kind))
+                    (PP (IN of)
+                      (NP (NN music)))))))
+            (, ,)
+            (SBAR (IN if)
+              (S
+                (NP (PRP you))
+                (VP (VBP 're) (RB not)
+                  (ADVP (RB really))
+                  (PP (IN into)
+                    (NP (PRP it)))
+                  (, ,)
+                  (ADVP (RB then))))))))
+      (NP (PRP it))
+      (VP (MD will) (RB all)
+        (VP (VB sound)
+          (NP (DT the) (JJ same))
+          (PP (IN after)
+            (NP
+              (QP (RB about) (CD 15))
+              (NNS minutes))))))
+    (, ,)
+    (CC but)
+    (S
+      (SBAR (IN if)
+        (S
+          (NP (PRP it))
+          (VP (VBZ 's)
+            (SBAR
+              (S
+                (NP (PRP you))
+                (VP (VBP 're)
+                  (NP (NN thing))))))))
+      (, ,)
+      (ADVP (RB then))
+      (NP (DT this) (NN venue))
+      (VP (VBZ is) (RB n't)
+        (ADJP (JJ bad))
+        (ADVP (IN at) (DT all))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (SBAR (IN if)
+      (S
+        (NP (DT a) (NN bit))
+        (VP (VBG lacking)
+          (PP (IN in)
+            (NP (DT any) (JJ discernable) (NN atmosphere))))))
+    (. .)))
+
+

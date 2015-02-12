@@ -1,0 +1,176 @@
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP (PRP$ my) (NN neighborhood) (NN gas) (NN station)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN gas))
+      (VP (VBZ is)
+        (ADVP (RB always))
+        (ADJP
+          (ADJP (JJR cheaper))
+          (PP (IN than)
+            (NP
+              (NP (DT the) (JJ other) (NNS stores))
+              (PP (IN in)
+                (NP (DT the) (NN area))))))))
+    (, ,)
+    (S
+      (NP (DT the) (NN staff))
+      (VP (VBZ is)
+        (ADVP (RB usually))
+        (ADJP (RB pretty) (JJ friendly))))
+    (, ,)
+    (S
+      (NP (DT the) (NN store))
+      (VP (VBZ is)
+        (ADVP (RB always))
+        (ADJP (JJ clean))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBP are)
+        (ADJP (RB fairly) (JJ competitive)
+          (PP (IN with)
+            (NP
+              (NP (NNS prices))
+              (PP (IN inside)
+                (NP (DT the) (NN store))))))
+        (ADVP (RB as) (RB well))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP The))
+    (VP (VBP have)
+      (NP
+        (NP (DT a) (JJ great) (NN selection))
+        (PP (IN of)
+          (NP (NNS drinks)
+            (CC and)
+            (NN food)))
+        (PP (VBG including)
+          (NP
+            (NP (DT a) (NNP Fountian) (NNP Drinks))
+            (CC and)
+            (NP (PRP$ their) (`` ``) (NN grill) ('' ''))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN As)
+      (NP (DT a) (NN bonus)))
+    (NP (PRP they))
+    (VP (VBP have)
+      (NP
+        (NP (DT a) (NN fixin) (POS 's))
+        (NN bar)
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (NP (PRP you))
+            (VP (MD can)
+              (VP (VB add)
+                (NP (NNS toppings))
+                (PP (TO to)
+                  (NP (PRP$ your) (NNS sandwiches) (, ,) (NNS nachos) (, ,) (FW etc.)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB also))
+    (VP (VBP have)
+      (NP
+        (NP (DT an) (JJ attached) (NN car))
+        (SBAR
+          (S
+            (VP (VBP wash)
+              (SBAR (IN that)
+                (S
+                  (NP (PRP you))
+                  (VP (MD can)
+                    (VP (VB get)
+                      (NP (DT a) (NN discount))
+                      (PP (IN at)
+                        (SBAR (IN if)
+                          (S
+                            (NP (PRP you))
+                            (VP (VBP buy)
+                              (SBAR
+                                (S
+                                  (NP
+                                    (NP (NN gas))
+                                    (CC and)
+                                    (NP (DT a) (NN car)))
+                                  (VP (VBP wash)
+                                    (PP (IN at)
+                                      (NP (DT the) (JJ same) (NN time)))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (JJ only) (JJ major) (NN gripe))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP (VBP charge)
+            (S
+              (NP (DT a) (NN fee))
+              (VP (TO to)
+                (VP (VB use)
+                  (NP (PRP$ your) (NN debit) (NN card)))))
+            (, ,)
+            (SBAR
+              (WHADVP (RB however))
+              (S
+                (SBAR (IN if)
+                  (S
+                    (NP (PRP you))
+                    (VP (VBP run)
+                      (NP (DT a) (JJ debit) (NN card))
+                      (PP (IN as)
+                        (NP (NN credit))))))
+                (, ,)
+                (NP (PRP they))
+                (VP (VBP do) (RB n't)
+                  (VP (VB charge)
+                    (NP (NN anything))))))))))))
+
+
+(ROOT
+  (S
+    (NP
+      (ADJP (JJ Absolute) (JJS best))
+      (NN car))
+    (VP (VBP wash)
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN area))
+          (CC and)
+          (NP (RB always) (DT a) (JJ friendly) (NN staff))))
+      (PP (IN in)
+        (NP (PDT both)
+          (NP (DT the) (NN car) (NN wash))
+          (CC and)
+          (NP (DT the) (NN store)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN store))
+    (ADVP (PRP itself))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (RB always) (JJ clean))
+        (CC and)
+        (ADJP (RB well) (JJ stocked))))
+    (. .)))
+
+

@@ -1,0 +1,168 @@
+(ROOT
+  (S
+    (ADVP (RB Really))
+    (NP (NNP tasty))
+    (VP (VBZ pretzels))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ fresh) (NN lemonade))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP
+          (NP (DT a) (RB little))
+          (JJR tart))
+        (, ,)
+        (CC but)
+        (ADJP (JJ yummy))))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VB Grab)
+      (NP
+        (NP (DT a) (CD two))
+        (PP (IN for)
+          (NP
+            (NP (CD one) (NN coupon))
+            (PP (IN from)
+              (NP (DT the) (NNP Entertainment) (NNP Book)))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (VP (VB Cin)
+      (NP (DT a) (NN bitz)))
+    (. .)))
+
+(ROOT
+  (FRAG (: ...)
+    (VP (VBP do)
+      (ADVP (RB yummy)))
+    (. !)))
+
+(ROOT
+  (S (CC So)
+    (VP (VBZ is)
+      (NP (DT the) (NNP Pepperoni) (NNS pretzels)))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN line))
+      (VP (VBD was)
+        (ADJP (JJ long))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP I))
+      (ADVP (RB just))
+      (VP (VBD needed)
+        (NP (NN something))
+        (S
+          (VP (TO to)
+            (VP (VB eat))))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (MD ca) (RB n't)
+        (VP (VB remember)
+          (NP (DT the) (NN service)))))
+    (, ,)
+    (CC but)
+    (S
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP (PRP I))
+          (VP (VBD got))))
+      (VP (VBD was)
+        (ADJP (JJ good))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (ADVP (RB personally))
+      (VP (VBP like)
+        (NP
+          (NP (NNP Auntie) (NNP Ann) (POS 's))
+          (NNS pretzels))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP we))
+      (VP
+        (VP (VBD were)
+          (VP (VBG starving)))
+        (CC and)
+        (VP (VBD needed)
+          (NP (DT a) (NN snack)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBD ordered)))
+    (CC and)
+    (S
+      (NP (DT both))
+      (VP (VBD felt)
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (NN dough))
+            (VP (VBD was)
+              (ADJP (RB overly) (JJ salted)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (RB Even) (IN though)
+      (S
+        (NP (PRP I))
+        (VP (VBD asked)
+          (PP (IN for)
+            (NP (DT a) (JJ plain) (NN pretzel)))
+          (PP (IN with)
+            (NP (DT no) (NN salt))))))
+    (, ,)
+    (NP (EX there))
+    (VP (VBD was)
+      (NP
+        (NP (DT a) (JJ large) (NN salt) (NN presence))
+        (VP (VBN tasted))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD liked)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NN cheese))
+          (VP (VBZ sauce)
+            (SBAR (IN that)
+              (S
+                (NP (PRP they))
+                (VP (VBD gave)
+                  (SBAR
+                    (S
+                      (NP (PRP us))
+                      (VP (VBD was)
+                        (UCP
+                          (ADJP (JJ warm))
+                          (, ,)
+                          (CC and)
+                          (VP (VBG flowing)))))))))))))
+    (. .)))
+
+

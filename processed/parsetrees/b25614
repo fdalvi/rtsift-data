@@ -1,0 +1,170 @@
+(ROOT
+  (S
+    (NP (NNP Everything) (NNP I))
+    (VP (VBP need)
+      (PP (IN for)
+        (NP
+          (NP (DT an) (JJ improptu) (NNP Carne) (NNP Asada) (NN party))
+          (: -)
+          (NP
+            (ADJP (JJ carne) (, ,) (JJ pollo) (, ,) (JJ tortillas)
+              (CC and)
+              (JJ delicious))
+            (NN guacamole)))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (VP (VB Throw)
+        (PP (IN in)
+          (NP
+            (NP (DT some) (NNP Bimbo) (NNS pastries))
+            (CC and)
+            (NP (NNP Coke))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP feel)
+        (SBAR (IN like)
+          (S
+            (NP (PRP I))
+            (VP (VBP am)
+              (PP (IN in)
+                (NP (NNP San) (NNP Carlos))))))))
+    (. !)))
+
+
+(ROOT
+  (NP
+    (NP (JJ Excellent) (NN carniceria))
+    (PP (IN in)
+      (NP (NNP Peoria)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP agree)
+        (PP (IN with)
+          (NP (JJ other) (NNS reviews)))))
+    (, ,)
+    (S
+      (NP (DT this))
+      (VP (VBZ is)
+        (NP
+          (NP (DT the) (RBS most) (JJ northern) (NN carniceria))
+          (PP (TO to)
+            (SBAR
+              (WHADVP (WRB where))
+              (S
+                (NP (PRP I))
+                (VP (VBP live))))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP love)
+        (NP (PRP it))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VP (VBN Been)
+        (VP
+          (ADVP (RB here)
+            (NP
+              (QP (RB about) (CD 6) (NNS times))))
+          (VBG ordering)
+          (NP (DT the) (JJ carne) (NN asada))))
+      (CC and)
+      (VP (VBP have)
+        (ADVP (RB never))
+        (VP (VBN had)
+          (NP (DT a) (JJ bad) (NN experience)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT Every) (NN time))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VB cook)
+            (S
+              (NP (DT the) (NN carne))
+              (NP (PRP I)))))))
+    (VP (VBP get)
+      (NP (NNS compliments)
+        (CC and)
+        (NNS questions))
+      (SBAR
+        (WHADVP (WRB where))
+        (S
+          (NP (PRP I))
+          (VP (VBP buy)
+            (NP (PRP it))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Great))
+    (VP (VBP place))
+    (. !)))
+
+
+(ROOT
+  (NP
+    (NP (NN Best) (NN carniceria))
+    (PP (IN in)
+      (NP (NN peoria)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (ADVP (RB cant))
+    (VP (VBD beat)
+      (NP (DT the) (NN price))
+      (PP (IN for)
+        (NP
+          (NP (DT a) (JJ full) (NN tray))
+          (PP (IN of)
+            (NP (JJ cooked) (NN carne) (NN asada) (NN meat))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NN Love))
+    (VP
+      (VP (VBG going)
+        (ADVP (RB here)))
+      (CC and)
+      (VP (VBG buying)
+        (NP (NN lunch))
+        (PP (IN for)
+          (NP
+            (NP (NN work))
+            (PP (IN for)
+              (NP (NN everyone)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Insde)
+      (NP
+        (NP (JJ theres) (NNS lots))
+        (PP (IN of)
+          (NP
+            (ADJP (JJ cooked)
+              (CC and)
+              (JJ uncooked))
+            (NN meat))))
+      (S
+        (VP (TO to)
+          (VP (VB chose)
+            (PP (IN from))))))))
+
+

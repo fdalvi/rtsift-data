@@ -1,0 +1,83 @@
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP (RB always) (JJ busy))
+      (ADVP (RB here)))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VBN Avoid)
+      (PP (IN between)
+        (NP
+          (NP (CD 3))
+          (CC &)
+          (NP (CD 4))))
+      (PP (IN on)
+        (NP (NN week) (NNS days)))
+      (SBAR (IN as)
+        (S
+          (NP (EX there))
+          (VP (VBP are)
+            (VP (VBG kids)
+              (NP
+                (NP (DT all))
+                (PP (IN over)
+                  (NP (DT the) (NN shop)))))))))
+    (. .)))
+
+(ROOT
+  (NP (RB Pretty) (RB much) (DT another) (JJ average) (NN supermarket) (. .)))
+
+
+(ROOT
+  (S
+    (ADVP (RB Ahh))
+    (, ,)
+    (NP (PRP me))
+    (VP (VBZ thinks)
+      (SBAR
+        (S
+          (NP
+            (NP (NNP Tesco))
+            (PP (IN at)
+              (NP (NNP Dalkeith))))
+          (VP (MD should)
+            (VP (VB take)
+              (NP (NNS lessons))
+              (PP (IN from)
+                (NP (PRP$ their) (NNS people)))
+              (PP (IN at)
+                (NP (DT the) (NNP Musselburgh) (NN store))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN check))
+      (PP (IN out)
+        (NP (NN operator))))
+    (VP (VBD was)
+      (NP
+        (NP (DT a) (NN tad))
+        (PP (IN on)
+          (NP (DT the) (NN sullen) (NN side)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS T'was))
+    (VP
+      (ADVP (RB here))
+      (S
+        (VP (TO to)
+          (VP (VB pick)
+            (PRT (RP up))
+            (NP
+              (NP (DT some) (NN food))
+              (PP (IN for)
+                (NP (NN dinner) (NN tonight))))))))
+    (. .)))
+
+

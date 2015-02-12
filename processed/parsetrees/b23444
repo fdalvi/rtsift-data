@@ -1,0 +1,336 @@
+(ROOT
+  (S
+    (NP (NNP Owner))
+    (VP (VBZ is)
+      (NP (DT a) (JJ greedy) (NN crook)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Supreme) (NN pizza))
+      (VP (VBZ is)
+        (NP ($ $) (CD 8.50))))
+    (, ,)
+    (NP (NN hawaiian))
+    (VP (VBZ is)
+      (NP ($ $) (CD 6.50)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Ordered) (NN half) (NN hawaiian/half))
+    (VP (VBZ supreme))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP I))
+        (VP (VBD picked)
+          (PRT (RP up))
+          (NP (DT the) (NN pizza)))))
+    (, ,)
+    (NP (DT the) (NN owner))
+    (VP (VBD charged)
+      (NP
+        (NP ($ $) (CD 13.50))
+        (PP (IN for)
+          (NP (DT an) (CD 8) (NN dollar) (NN pizza)))))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WDT What) (NN kind))
+      (PP (IN of)
+        (NP (NN scam))))
+    (SQ (VBZ is)
+      (NP (DT the) (NN owner))
+      (VP (VBG trying)
+        (S
+          (VP (TO to)
+            (VP (VB run)
+              (NP (NNS ?!)))))))))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ d-bag) (NN owner))
+    (VP (VBD tried)
+      (S
+        (VP (TO to)
+          (VP (VB give)
+            (NP (DT some) (NNP BS) (NN excuse))
+            (SBAR (IN that)
+              (S
+                (NP (PRP he))
+                (VP (VBZ does) (RB n't)
+                  (VP (VB do)
+                    (NP (NN half/half))
+                    (PP (IN on)
+                      (NP
+                        (NP (NNS pizzas))
+                        (SBAR
+                          (S
+                            (NP (CC &))
+                            (ADVP (RB instead))
+                            (VP (VBZ doubles)
+                              (NP (DT the) (NNS toppings))
+                              (PP (IN on)
+                                (NP
+                                  (NP (DT each) (NN half))
+                                  (PP (IN of)
+                                    (NP (DT a) (JJ single) (NN pizza))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (NP (NNP WTF) (NNP ?!)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD did) (RB n't)
+      (VP (VB order)
+        (NP (JJ double) (NNS toppings))
+        (, ,)
+        (ADVP (RB a-hole))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN Of)
+        (NP (NN course)))
+      (NP (PRP he))
+      (VP (VBZ does) (RB n't)
+        (VP (VB tell)
+          (NP (PRP you))
+          (NP
+            (NP (DT this))
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP you))
+                (VP (VB order))))))))
+    (, ,)
+    (NP (PRP he))
+    (VP
+      (VP (VBZ waits)
+        (SBAR (IN until)
+          (S
+            (NP (PRP you))
+            (VP (VBP 're)
+              (VP (VBG picking)
+                (PRT (RP up))
+                (NP (PRP$ your) (NN pizza)))))))
+      (, ,)
+      (VP (VBZ charges)
+        (NP (PRP you)))
+      (CC and)
+      (VP (VBZ hopes)
+        (SBAR
+          (S
+            (NP (PRP you))
+            (VP (VBP do) (RB n't)
+              (VP (VB notice)
+                (NP
+                  (NP (DT the)
+                    (ADJP (CD 70) (NN %))
+                    (NN mark-up))
+                  (PP (IN on)
+                    (NP (DT the) (NN price))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (ADVP (RB then))
+    (VP (VBD tried)
+      (S
+        (VP (TO to)
+          (VP (VB explain)
+            (SBAR (IN that)
+              (S
+                (NP (PRP$ his) (NN way))
+                (VP (VBZ is)
+                  (ADJP
+                    (ADJP (JJR cheaper))
+                    (PP (IN by)
+                      (S
+                        (VP
+                          (VP (VBG telling)
+                            (NP (PRP me))
+                            (SBAR (IN that)
+                              (S
+                                (S
+                                  (NP (CD two) (JJ large) (NNS pizzas))
+                                  (VP (MD would)
+                                    (VP (VB have)
+                                      (VP (VBN been)
+                                        (NP ($ $) (CD 15))))))
+                                (CC and)
+                                (S
+                                  (NP (PRP he))
+                                  (VP (VBZ 's)
+                                    (VP (VBG doing)
+                                      (S
+                                        (NP (PRP me))
+                                        (NP (DT a) (NN favor)))))))))
+                          (CC and)
+                          (VP (VBG saving)
+                            (NP (PRP me))
+                            (NP (NN money))))))))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB So))
+    (SBAR
+      (WHNP (WP what))
+      (S
+        (NP (PRP you))
+        (ADVP (RB just))
+        (VP (VBD told)
+          (SBAR
+            (S
+              (NP (PRP me))
+              (VP (VBZ is)
+                (SBAR (IN that) (IN because)
+                  (S
+                    (PP (IN of)
+                      (NP (PRP$ your) (JJ little) (NN scam)))
+                    (NP (PRP I))
+                    (ADVP (RB just))
+                    (VP (VBD paid)
+                      (NP
+                        (NP ($ $) (CD 13))
+                        (PP (IN for)
+                          (NP (CD one) (NN pizza))))
+                      (SBAR
+                        (WHADVP (WRB when))
+                        (S
+                          (NP (PRP I))
+                          (VP (MD could)
+                            (VP (VB have)
+                              (VP (VBN paid)
+                                (NP
+                                  (NP ($ $) (CD 15))
+                                  (PP (IN for)
+                                    (NP (CD two) (NNS pizzas))))
+                                (ADVP (RB ?!))))))))))))))))))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (ADVP (RB just))
+    (VP (VBD made)
+      (SBAR
+        (S
+          (NP (PRP yourself))
+          (VP (VBP look)
+            (PP (IN like)
+              (NP
+                (NP (DT an)
+                  (ADJP (RB even) (JJR more)))
+                (PP (IN of)
+                  (NP
+                    (NP (DT an) (NN A-hole))
+                    (, ,)
+                    (NP (NN dude))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB How))
+      (S
+        (NP (NN anyone))
+        (VP (VBZ believes)
+          (SBAR
+            (S
+              (NP (PRP they))
+              (VP (MD can)
+                (VP (VB get)
+                  (PRT (RP away))
+                  (PP (IN with)
+                    (S
+                      (VP (VBG trying)
+                        (S
+                          (VP (TO to)
+                            (VP (VB rip)
+                              (NP (NNS people))
+                              (PRT (RP off))
+                              (PP (IN in)
+                                (NP
+                                  (NP (DT the) (NN age))
+                                  (PP (IN of)
+                                    (NP (DT the) (NN internet))))))))))))))))))
+    (VP (VBZ is)
+      (PP (IN beyond)
+        (NP (PRP me))))
+    (. .)))
+
+(ROOT
+  (NP (NNP P.S.)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD called)
+      (SBAR
+        (S
+          (NP
+            (NP (CD 4) (JJ other) (NNP Little) (NNP Caesars) (NNS franchises))
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NN area)
+                  (CC and)
+                  (NN none))
+                (PP (IN of)
+                  (NP (PRP them))))))
+          (VP (VBP charge)
+            (NP
+              (NP (CD 70) (NN %))
+              (SBAR
+                (S
+                  (NP (JJ extra))
+                  (VP (VBP do)
+                    (NP (DT a) (NN half/half) (NN pizza))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT The) (CD 5))
+    (ADVP
+      (NP ($ $) (CD pizza))
+      (RB never))
+    (VP (VBZ fails))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBP 've)
+        (VP (VBN come)
+          (ADVP (RB here))
+          (NP (DT a) (CD zillion) (NNS times)))))
+    (CC and)
+    (S
+      (NP (DT the) (NN pizza))
+      (VP (VBZ is)
+        (ADJP (JJ delicious))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB highly))
+    (VP (VBP recommend)
+      (NP (PRP it)))
+    (. !)))
+
+

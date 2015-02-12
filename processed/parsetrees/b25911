@@ -1,0 +1,40 @@
+(ROOT
+  (NP
+    (NP (DT The) (JJS best))
+    (NP (NNP Doctor) (NNP Office) (NNP EVER) (NNP !!!))))
+
+(ROOT
+  (NP
+    (NP (JJ Great) (NN office) (NN staff))
+    (, ,)
+    (NP
+      (NP (NN nurse) (NN practitioner))
+      (CC and)
+      (NP (JJ pediatric) (NN doctor)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NN daughter))
+    (VP
+      (VP (VBZ loves)
+        (NP (PRP$ their) (NN office)))
+      (CC and)
+      (VP
+        (ADVP (RB so))
+        (VBP do)
+        (NP
+          (NP (NNP I.))
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (MD would)
+                (VP (VB recommend)
+                  (NP (DT the) (NN office))
+                  (PP (TO to)
+                    (NP (NN anyone))))))))
+        (PP (IN with)
+          (NP (DT a) (NN child)))))
+    (. !)))
+
+

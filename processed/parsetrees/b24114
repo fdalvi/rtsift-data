@@ -1,0 +1,320 @@
+(ROOT
+  (S
+    (S
+      (ADVP (RB Conveniently))
+      (VP (VBN located)
+        (PP (IN on)
+          (NP
+            (NP (NNP Madison) (POS 's))
+            (JJ near) (NN north) (NN side)))))
+    (, ,)
+    (NP (NNP Drackenberg) (POS 's))
+    (VP (VBZ is)
+      (NP
+        (NP
+          (NP (NN home))
+          (PP (IN of)
+            (NP
+              (NP
+                (NP (DT a) (JJ large) (NN selection))
+                (PP (IN of)
+                  (NP (JJ fine) (NNS cigars))))
+              (CC and)
+              (NP
+                (NP (DT a) (JJ wide) (NN assortment))
+                (PP (IN of)
+                  (NP
+                    (ADJP
+                      (ADJP (JJ domestic))
+                      (, ,)
+                      (ADJP (JJ imported))
+                      (, ,))
+                    (PRN (-LRB- -LRB-)
+                      (CC and)
+                      (ADJP (JJ exotic))
+                      (-RRB- -RRB-))
+                    (NNS wines)))))))
+        (, ,)
+        (NP (NNS beers))
+        (, ,)
+        (CC and)
+        (NP
+          (NP (NNS liquors))
+          (: ...)
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBD was)
+                (PP (IN from)
+                  (NP (PRP$ their) (NN website) (: ...) (NN truth)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP love)
+      (NP (DT this) (NN bar)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Jackson))
+      (CC and)
+      (NP (PRP$ his) (NN staff)))
+    (VP (VBP are)
+      (ADJP (DT both) (JJ amiable)
+        (CC and)
+        (JJ knowledgeable)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (WDT Which))
+    (VP (VBZ is)
+      (ADJP (RB very) (JJ difficult))
+      (S
+        (VP (TO to)
+          (VP (VB find)
+            (PP (IN on)
+              (NP
+                (NP (DT the) (JJ fashionable) (NNP East) (NN side))
+                (PP (IN of)
+                  (NP (NNP Madison)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN beer) (NN selection))
+    (VP
+      (VP (VBZ rotates)
+        (ADVP (RB regularly)))
+      (CC and)
+      (VP (VBZ is)
+        (ADVP (RB always))
+        (ADJP (JJ capable)
+          (PP (IN of)
+            (S
+              (VP (VBG accompanying)
+                (NP (DT a) (JJ fine) (NN cigar))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Jackson))
+    (VP (VBZ has)
+      (ADVP (RB also))
+      (VP (VBN stocked)
+        (NP (DT the) (NN bar))
+        (PP (IN with)
+          (NP
+            (NP (DT an) (JJ extensive) (NN amount))
+            (PP (IN of)
+              (NP (NNS wines)
+                (CC and)
+                (NNS liquors)))))))
+    (: ...)))
+
+(ROOT
+  (SBAR (IN If)
+    (S
+      (NP (PRP you))
+      (VP (VBP are)
+        (VP (VBG looking)
+          (PP (IN for)
+            (NP (PRP it))))))
+    (: ...)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBZ 's)
+      (ADVP (RB probably))
+      (VP (VBN got)
+        (NP (PRP it))
+        (ADVP (RB back) (RB there) (RB somewhere))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Sometimes))
+      (NP (PRP it))
+      (VP
+        (VP (MD can)
+          (VP (VB get)
+            (NP (DT a) (NN bit) (NN smokey))
+            (PP (IN in)
+              (NP (DT the) (NN establishment)))))
+        (: ...)
+        (CC but)
+        (VP (VBP hey))))
+    (: ...)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (NP
+          (NP (DT a) (NN cigar) (NN bar))
+          (: ...)
+          (SBARQ
+            (WHNP (WP what))
+            (SQ (MD would)
+              (NP (PRP you))
+              (VP (VB expect)))
+            (. ?)))))))
+
+
+(ROOT
+  (S
+    (VP (VB Nice)
+      (NP (NN location))
+      (PP (IN on)
+        (NP
+          (NP (DT the) (NN north) (NN side))
+          (PP (IN of)
+            (NP (NNP Madison))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB desperately)
+      (PP (IN with)
+        (NP (PRP I))))
+    (VP (VBD knew)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD was)
+            (ADVP (RB there))
+            (NP
+              (NP (DT the) (CD seven) (NNS years))
+              (SBAR
+                (S
+                  (NP (PRP I))
+                  (VP (VBD lived)
+                    (PP (IN on)
+                      (NP (DT the) (NN north) (NN side)))))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP
+          (NP (NNP Jackson))
+          (CC and)
+          (NP
+            (NP (DT the) (NN rest))
+            (PP (IN of)
+              (NP (DT the) (NN staff)))))
+        (VP (VBP are)
+          (ADJP (RB very) (JJ friendly))))
+      (, ,)
+      (CC and)
+      (S
+        (NP
+          (NP (DT the) (NN selection))
+          (PP (IN at)
+            (NP (DT the) (NN bar))))
+        (VP (VBZ is)
+          (ADJP (JJ nice)))))
+    (: -)
+    (S
+      (NP (PRP they))
+      (VP (VBP 've)
+        (VP (VBN got)
+          (SBAR
+            (S
+              (NP
+                (NP (CD one))
+                (PP (IN of)
+                  (NP (DT the) (JJS largest) (NN whisky))))
+              (VP (VBZ lists)
+                (SBAR
+                  (S
+                    (NP (PRP I))
+                    (VP (VBP 've)
+                      (VP (VBN seen)
+                        (PP (IN in)
+                          (NP (DT the) (NN area)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP 're) (RB not)
+          (ADJP (JJ sure)
+            (SBAR
+              (WHNP (WP what))
+              (S
+                (NP (PRP you))
+                (VP (VBP want))))))))
+    (, ,)
+    (PP (IN in)
+      (NP (CC either)
+        (NP (DT a) (NN drink))
+        (CC or)
+        (NP (DT a) (NN cigar))))
+    (, ,)
+    (NP
+      (NP (NNP Jackson))
+      (CC or)
+      (NP
+        (NP (CD one))
+        (PP (IN of)
+          (NP (DT the) (NNS bartenders)))))
+    (VP (MD can)
+      (ADVP (RB probably))
+      (VP (VB give)
+        (NP (PRP you))
+        (NP (DT a) (JJ useful) (NN recommendation))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN humidor))
+    (, ,)
+    (SBAR (IN while)
+      (FRAG
+        (ADJP (JJ small))))
+    (, ,)
+    (VP (VBZ is)
+      (ADJP (RB generally) (JJ well-stocked))
+      (, ,)
+      (SBAR (IN if)
+        (S
+          (NP
+            (NP (DT a) (JJ tiny) (NN bit))
+            (PP (IN on)
+              (NP (DT the) (JJ dry) (NN side))))
+          (ADJP (JJ humidity-wise)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (CD One))
+      (PP (IN of)
+        (NP (PRP$ my) (NN favorite))))
+    (VP
+      (VP (VBZ places)
+        (PP (IN in)
+          (NP (NN town)))
+        (S
+          (VP (TO to)
+            (VP
+              (VP (VB hang)
+                (PRT (RP out))
+                (PP (IN with)
+                  (NP (NNS friends))))
+              (CC and)
+              (VP (VB enjoy)
+                (NP (DT a) (NN cigar)))))))
+      (CC and)
+      (VP (VBZ drinks)))
+    (. .)))
+
+

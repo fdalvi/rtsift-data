@@ -1,0 +1,491 @@
+(ROOT
+  (FRAG
+    (NP (NNP SportClips) (NNPS Haircuts))
+    (: :)
+    (S
+      (NP (NNS Guys))
+      (VP (VBP watch)
+        (NP (NNS sports))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (NNS Guys))
+    (VP (VBP get)
+      (NP (NNS haircuts)))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (WHNP (WDT What))
+    (PP (FW a)
+      (NP (DT an) (NN experience)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (NNS SportClips))
+    (VP (VBZ offers)
+      (NP
+        (NP (JJ inexpensive) (NNS men) (POS 's))
+        (NNS haircuts))
+      (PP (IN with)
+        (NP (NNS options))))
+    (. !)))
+
+(ROOT
+  (NP
+    (NP
+      (QP (RB Just) ($ $) (CD 16)))
+    (PP (IN for)
+      (NP
+        (NP
+          (NP (DT a) (NNS men) (POS 's))
+          (NN haircut)
+          (CC and)
+          (NN wash) (NN AFTER))
+        (PRN (-LRB- -LRB-)
+          (NP
+            (NP (JJ great))
+            (SBAR (IN so)
+              (S
+                (NP (PRP you))
+                (VP (VBP do) (RB n't)
+                  (VP (VB have)
+                    (NP (JJ little) (NNS hairs))
+                    (PP
+                      (ADVP (RB everywhere))
+                      (IN for)
+                      (NP
+                        (NP (DT the) (NN rest))
+                        (PP (IN of)
+                          (NP (DT the) (NN day))))))))))
+          (-RRB- -RRB-))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (ADVP (RB also))
+    (VP (VBP have)
+      (NP
+        (NP (DT the) (NN option))
+        (PP (IN of)
+          (S
+            (VP (VBG doing)
+              (NP (DT a) (NN shoulder) (NN massage) (: -) (NN heaven)))))))
+    (. !)))
+
+(ROOT
+  (S
+    (ADVP (RB Meanwhile))
+    (, ,)
+    (S
+      (NP (PRP you))
+      (VP (VBP are)
+        (PP (IN in)
+          (NP
+            (NP (DT a) (JJ cool) (NN place))
+            (PP (IN with)
+              (NP (NNS sports) (NN decor)))))
+        (ADVP (RB everywhere))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NNS TVs))
+      (VP (VBG playing)
+        (NP
+          (NP (DT the) (NNS sports))
+          (SBAR
+            (S
+              (NP (PRP you))
+              (VP (VBP like)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS employees))
+      (ADVP (RB definitely))
+      (VP (VBP know)
+        (NP (NNS sports))))
+    (, ,)
+    (CC and)
+    (S
+      (PP (IN in)
+        (NP (PRP$ my) (NN case)))
+      (, ,)
+      (NP (NNP Deana))
+      (VP (VBD was)
+        (UCP
+          (ADJP (JJ nice) (, ,) (JJ friendly))
+          (, ,)
+          (CC and)
+          (VP (VBD gave)
+            (NP (PRP me))
+            (NP (DT the) (JJ perfect) (NN cut))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBZ reminds)
+      (NP
+        (NP
+          (NP (PRP me))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (JJ old-style) (NNS barbers))
+              (PP (IN of)
+                (NP (DT the) (NNS 1940s))))))
+        (CC &)
+        (NP
+          (NP (NNS 50s))
+          (, ,)
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBD cut)
+                (NP (PRP$ your) (NN hair))
+                (SBAR (IN while)
+                  (S
+                    (NP
+                      (NP (PRP you))
+                      (CC and)
+                      (NP (DT the) (JJ other) (NNS guys)))
+                    (VP (VB talk)
+                      (PP (IN about)
+                        (NP (NN guy) (NNS things)))
+                      (: -)
+                      (PP (IN like)
+                        (NP (NNS sports))))))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT this) (NN day)
+        (CC and)
+        (NN age)))
+    (, ,)
+    (NP (EX there))
+    (VP (VBP are)
+      (NP
+        (NP (RB plenty))
+        (PP (IN of)
+          (NP
+            (NP (NNS salons))
+            (PP (IN for)
+              (NP (NNS women)))))))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB Why))
+    (SQ (VBP do)
+      (NP (NNS guys))
+      (VP (VB need)
+        (S
+          (VP (TO to)
+            (VP
+              (VP (VB sit)
+                (ADVP (RB there)))
+              (CC and)
+              (VP (VB get)
+                (NP (PRP$ their) (NN haircut))
+                (PP (IN in)
+                  (NP
+                    (NP (DT an) (NN atmosphere))
+                    (SBAR
+                      (S
+                        (NP (PRP they))
+                        (VP (VBP feel)
+                          (ADJP (JJ uncomfortable)
+                            (PP (IN in))))))))))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ modern-style) (, ,) (JJ friendly) (, ,) (JJ sporty) (NN place))
+        (PP (IN with)
+          (NP
+            (NP (JJ great) (NNS services))
+            (CC and)
+            (NP (JJ low) (NNS prices))))))
+    (. !)))
+
+(ROOT
+  (NP
+    (NP (CD Three) (NNP Madison) (NNS locations))
+    (: :)
+    (NP
+      (NP (NN Corner))
+      (PP (IN of)
+        (NP
+          (NP (NNP PD)
+            (CC &)
+            (NNP Verona) (NNP Rd))
+          (, ,)
+          (NP
+            (NP (NNP Deming) (NNP Way))
+            (PP (IN in)
+              (NP (NNP Middleton))))
+          (, ,)
+          (CC and)
+          (NP
+            (NP (NNP Gammon) (NNP Rd))
+            (PP (IN near)
+              (NP (NNP Woodman) (POS 's)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD 'll)
+      (ADVP (RB definitely))
+      (VP (VB be)
+        (VP
+          (VP (VBG coming)
+            (ADVP (RB back)))
+          (PRN (-LRB- -LRB-)
+            (S
+              (PP (IN after)
+                (NP (DT all)))
+              (, ,)
+              (NP (PRP I))
+              (VP (VBD got)
+                (NP
+                  (NP (DT a) (NN coupon))
+                  (PP (IN for)
+                    (NP ($ $) (CD 5))))
+                (PP (IN off)
+                  (NP
+                    (NP (PRP$ my) (JJ next) (NN haircut))
+                    (, ,)
+                    (NP ($ $) (CD 4))))
+                (PP
+                  (PP (IN off)
+                    (NP (DT the) (JJ following) (NN one)))
+                  (, ,)
+                  (CC and)
+                  (ADVP (RB so) (RB on))
+                  (, ,) (RB down)
+                  (PP (TO to)
+                    (NP ($ $) (CD 2))))
+                (, ,)
+                (SBAR
+                  (WHNP (WDT which))
+                  (S
+                    (NP (PRP I))
+                    (VP (VBP believe)
+                      (SBAR
+                        (S
+                          (NP (DT all) (JJ new) (NNS clients))
+                          (VP (VBP get)))))))))
+            (-RRB- -RRB-)))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NN son))
+    (VP (VBD wanted)
+      (NP
+        (NP (DT a) (JJ flat) (NN top))
+        (SBAR
+          (S
+            (NP (DT no) (NN one))
+            (VP (VBD did) (RB n't)
+              (VP (VBD knew)
+                (SBAR
+                  (WHADVP (WRB how))
+                  (S
+                    (VP (TO to)
+                      (VP (VB do)
+                        (NP (PRP it))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN With)
+      (S
+        (VP (VBG being)
+          (NP
+            (NP (DT a) (NN guy) (NN place))
+            (PP (IN for)
+              (NP (NNS haircuts)))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB think)
+        (SBAR
+          (S
+            (NP (PRP they))
+            (VP (MD could)
+              (VP
+                (NP (DT a) (JJ flat) (NN top))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD will) (RB not)
+      (VP (VB be)
+        (ADVP (RB back))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP (RB Very) (VBN disappointed))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBG taking)
+          (NP (PRP$ my) (NN son))
+          (ADVP (RB here))
+          (PP (IN for)
+            (NP
+              (NP (DT a) (NN while))
+              (ADVP (RB now)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VP (VBZ is)
+        (NP (DT a) (NN teen)))
+      (CC and)
+      (VP (VBZ seems)
+        (S
+          (VP (TO to)
+            (VP (VB like)
+              (NP (PRP it))
+              (ADVP (RBR better))
+              (PP (IN than)
+                (NP (JJ normal) (NNS salons))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (ADVP (RB always))
+    (VP (VBP get)
+      (PRT (RP in)
+        (CC and)
+        (RP out))
+      (NP (JJ quick)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT The) (NN hair) (NNS cutters))
+    (PRN
+      (S
+        (NP (PRP I))
+        (VP (VBP 've)
+          (VP (VBN had)
+            (S
+              (VP (VBD did)
+                (NP (DT a) (JJ good) (NN job)))))))
+      (, ,))
+    (VP (MD ca) (RB n't)
+      (VP (VB complain)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 'm) (RB not)
+      (ADJP (RB too) (JJ picky)
+        (PP (IN about)
+          (NP (PRP$ my) (NN haircut))))
+      (PP (IN like)
+        (NP (DT some) (NNS people))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP do) (RB n't)
+      (VP (VB enjoy)
+        (NP (DT the) (NN atmosphere))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP
+        (NP
+          (NP (DT a) (NN bunch))
+          (PP (IN of)
+            (NP (NNS men))))
+        (CC and)
+        (NP
+          (NP (CD 5-6) (JJ young) (NNS women))
+          (PP (IN with)
+            (NP (NN sportscenter) (NN playing))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP (JJ hard)
+        (S
+          (VP (TO to)
+            (VP (VB carry)
+              (PP (IN on)
+                (NP
+                  (NP (DT a) (NN conversation))
+                  (PP (IN with)
+                    (NP (DT the) (NN hair) (NNS cutters))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Stadium) (NNP Barbers))
+      (PP (IN by)
+        (NP (NNP Camp) (NNP Randall))))
+    (VP (VBZ is)
+      (NP (DT a) (JJ real) (NN barber) (NN shop)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD used)
+        (S
+          (VP (TO to)
+            (VP (VB go)
+              (ADVP (RB there))
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (PRP I))
+                  (VP (VBD lived)
+                    (NP (NN downtown))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (ADVP (RB now))
+      (NP (PRP I))
+      (VP (VBP go)
+        (ADVP (RB here))
+        (PP (IN for)
+          (NP (DT the) (NN proximity)))))
+    (. .)))
+
+

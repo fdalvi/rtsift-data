@@ -1,0 +1,135 @@
+(ROOT
+  (S
+    (VP (VB Loved)
+      (NP (DT the) (NNS people))
+      (PP (IN at)
+        (NP (NNP Woof))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD took)
+      (NP (PRP$ my) (NN yorkie/poo))
+      (PP (IN in)
+        (PP (IN for)
+          (NP (JJ first) (NN time))))
+      (NP (NN today)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBD finished)
+        (PP (IN in)
+          (NP (CD 1.5) (NNS hours)))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (ADJP (RB very) (JJ happy))
+        (PP (IN with)
+          (NP (DT the) (NNS results)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Staff))
+    (VP
+      (VP (VBZ is)
+        (ADJP (RB very) (JJ friendly)))
+      (CC and)
+      (VP (VBD seemed)
+        (S
+          (VP (TO to)
+            (VP (VB genuinely)
+              (NP (NN care))
+              (PP (IN for)
+                (NP (PRP$ my) (NN pet))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP You))
+      (VP (VBP have)
+        (S
+          (VP (TO to)
+            (VP (VB make)
+              (NP (DT an) (NN appt)))))))
+    (CC but)
+    (S
+      (ADJP (RB so) (JJ worth)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (RB not)
+              (S
+                (VP (VBG having)
+                  (S
+                    (VP (TO to)
+                      (VP (VB leave)
+                        (NP (PRP$ your) (NN dog))
+                        (ADVP (RB there))
+                        (PP (IN for)
+                          (NP (NNS hours)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (NP (DT a)
+        (ADJP
+          (ADJP (JJ calm))
+          (CC and)
+          (ADJP (RB exceptionally) (JJ clean)))
+        (NN environment)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP love)
+      (SBAR
+        (WHADVP (WRB how))
+        (S
+          (NP (JJ friendly) (DT the) (NN staff))
+          (VP (VBZ is)
+            (PP (IN at)
+              (NP (NNP Woof)))))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (ADVP (RB always))
+      (VP (VBP do)
+        (NP
+          (NP (DT a) (JJ great) (NN job))
+          (VP (VBG cutting)
+            (NP (PRP$ my) (NNS dogs))
+            (NP (JJ long) (JJ shaggy) (NN hair))))))
+    (CC and)
+    (S
+      (NP (PRP she))
+      (VP (VBZ smells)
+        (ADJP (RB so) (JJ good)
+          (PP (IN for)
+            (NP
+              (NP (DT the) (JJ next) (NN couple))
+              (PP (IN of)
+                (NP (NNS days))))))))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (NP (DT A)
+      (ADJP (RB very) (JJ clean) (, ,) (JJ cute))
+      (NN place))
+    (. !)))
+
+

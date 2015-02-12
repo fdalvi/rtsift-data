@@ -1,0 +1,79 @@
+(ROOT
+  (S
+    (NP (DT This) (NNPS Walgreens))
+    (VP (VBZ smells)
+      (NP (NNP NEW)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN store))
+    (VP (VBD was)
+      (ADJP (RB so) (JJ clean)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS employees))
+    (VP (VBD were)
+      (ADVP (RB ALL))
+      (ADJP (RB so) (JJ nice)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBZ seems)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (ADVP (RB everywhere)
+              (PP (IN around)
+                (NP (DT the) (NN corner)
+                  (S
+                    (VP (TO to)
+                      (VP (VB assist)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Love)
+      (NP (DT the) (NN layout)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (ADJP (JJ new) (, ,) (JJ nice) (, ,) (JJ clean)
+        (CC and)
+        (JJ kind))
+      (PP (IN of)
+        (NP
+          (NP (VBN upgraded))
+          (PP (IN from)
+            (NP
+              (NP (DT the) (JJR older) (NNS Walgreens))
+              (PP (IN in)
+                (NP (NN town))))))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (# #) (CD 1))
+    (NP
+      (NP (NNP Walgreens))
+      (PP (IN in)
+        (NP (DT the) (NN neighborhood) (NN !!!!!))))))
+
+(ROOT
+  (S
+    (NP (NNP CLEAN))
+    (VP (VB place)
+      (PP (IN with)
+        (NP (JJ amazing) (NNS staffs)))
+      (. .))
+    (. .)))
+
+

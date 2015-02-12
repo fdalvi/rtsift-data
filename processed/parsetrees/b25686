@@ -1,0 +1,213 @@
+(ROOT
+  (S
+    (NP (DT The) (NN food))
+    (VP (VBZ is)
+      (ADVP (RB always))
+      (ADJP (JJ fresh)
+        (CC and)
+        (JJ consistent))
+      (PP (IN from)
+        (NP (DT this) (NN location))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN service))
+    (VP (VBZ is)
+      (ADVP (RB always))
+      (ADJP (JJ great) (RB too)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have) (RB not)
+      (VP (VBD screw)
+        (PRT (RP up))
+        (NP (DT a) (NN take))
+        (PP (IN out)
+          (NP
+            (NP (NN order))
+            (PP (IN on)
+              (NP (PRP us)))))
+        (ADVP (RB yet))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (ADVP (RB As) (RB far)
+      (SBAR (IN as)
+        (S
+          (NP (JJ fast) (NN food))
+          (VP (VBZ goes)))))
+    (NP (PRP it))
+    (VP (VBZ does) (RB n't)
+      (VP (VB get)
+        (ADJP (RB much) (JJR better))
+        (PP (IN than)
+          (NP (DT this) (NN store)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Service))
+      (VP (VBZ is)
+        (ADJP (JJ great))))
+    (, ,)
+    (NP (NN food))
+    (VP (VBZ is)
+      (ADVP (RB always))
+      (ADJP (JJ fresh)
+        (CC and)
+        (JJ hot)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP
+      (NP (VBG Dining) (NN area))
+      (CC and)
+      (NP (NNS restrooms)))
+    (VP (VBP are)
+      (ADVP (RB always))
+      (ADJP (JJ clean)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Drive) (NNP thru))
+      (VP (VBZ is)
+        (ADJP (JJ 24hrs))))
+    (, ,) (IN so)
+    (S
+      (PP
+        (PP (IN at)
+          (NP (CD two)
+            (CC or)
+            (CD three)))
+        (PP (IN in)
+          (NP (DT the) (NN morning)))
+        (PP (IN after)
+          (S
+            (VP (VBG having)
+              (NP (DT a) (JJ few))))))
+      (, ,)
+      (NP (EX there))
+      (VP (VBP are)
+        (ADVP (RB always))
+        (NP
+          (NP
+            (NP (RB plenty))
+            (PP (IN of)
+              (NP (JJ hot)
+                (CC and)
+                (JJ fresh) (NNS tacos))))
+          (CC and)
+          (NP (NN chicken) (NNS sandwiches)
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (VP (VBN had)))))))))
+    (. .)))
+
+
+(ROOT
+  (FRAG (RB So)
+    (ADJP (JJ much)
+      (PP (IN for)
+        (NP (JJ fast) (NN food))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT This) (NN place))
+      (VP (VBZ is)
+        (ADVP (RB usually))
+        (ADJP (JJ fast)
+          (PP (IN in)
+            (S
+              (VP (VBG getting)
+                (NP (DT the) (NN food))
+                (PRT (RP out))))))))
+    (, ,)
+    (CC but)
+    (S
+      (ADVP (RB lately))
+      (NP (DT the) (NN service))
+      (VP (VBZ has)
+        (VP (VBN slowed))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP (RB Not) (JJ sure))
+    (SBAR
+      (WHNP (WP what))
+      (S
+        (VP (VBZ is)
+          (VP (VBG going)
+            (PRT (RP on))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Quality))
+    (VP (VBZ is)
+      (ADJP (JJ right))
+      (SBAR
+        (WHADVP (WRB where))
+        (S
+          (NP (PRP it))
+          (VP (MD should)
+            (VP (VB be)
+              (PP (IN for)
+                (NP
+                  (NP (DT a) (NNP Jack))
+                  (PP (IN in)
+                    (NP (DT the) (NNP Box)))))
+              (PP (IN except) (IN for)
+                (NP
+                  (NP (DT the) (NNS times))
+                  (SBAR
+                    (WHADVP (WRB when))
+                    (S
+                      (NP (PRP they))
+                      (VP (VBD screw)
+                        (PRT (RP up))
+                        (NP
+                          (NP (DT an) (NN order))
+                          (SBAR
+                            (WHNP (WDT which))
+                            (S
+                              (VP (VBZ does) (RB not)
+                                (VP (VB happen)
+                                  (ADVP (RB too) (RB often)))))))))))))))))
+    (. .)))
+
+
+(ROOT
+  (FRAG
+    (ADVP (RB fast))
+    (ADJP
+      (ADJP (RB +) (JJ cheap))
+      (SBAR (IN if)
+        (S
+          (NP (PRP you))
+          (VP (VB order)
+            (NP (DT the) (JJ right) (NN thing) (NN +))
+            (SBAR
+              (S
+                (NP (JJ open) (JJ late) (NNS +))
+                (VP (VBZ makes)
+                  (NP (JJ goofy) (NNS commercials)))))))))
+    (: =)
+    (NP
+      (NP (NNP Jack))
+      (PP (IN in)
+        (NP (DT the) (NNP Box))))))
+
+

@@ -1,0 +1,101 @@
+(ROOT
+  (NP (JJ nice) (NN store)))
+
+
+(ROOT
+  (NP
+    (NP (NNP Standard) (NNP Circle) (NNP K))
+    (, ,)
+    (NP
+      (NP (RB pretty) (JJ tidy))
+      (PP (IN for)
+        (S
+          (VP (VBG being)
+            (PP (IN under)
+              (NP (NN construction)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNS Restrooms))
+      (VP (MD could)
+        (VP (VB use)
+          (NP (DT a) (JJ little) (NN tending)))))
+    (CC and)
+    (S
+      (NP (DT the) (NN food) (NNS warmers))
+      (VP (MD could)
+        (VP (VB use)
+          (NP (DT some)
+            (ADJP (RBR more) (JJ grill))
+            (NNS items)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (VP (VB Be)
+          (ADJP (JJ careful)
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NN hill))
+                (VP (VBG turning)
+                  (PP (IN onto)
+                    (NP (DT the) (NN street))))
+                (ADVP (JJ next)
+                  (PP (TO to)
+                    (NP (PRP it)))))))))
+      (, ,)
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADJP
+          (NP (DT a) (RB bit))
+          (JJ steep))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADJP (JJ easy)
+          (S
+            (VP (TO to)
+              (VP (VB bottom)
+                (PRT (RP out))
+                (NP
+                  (NP (DT a) (JJ standard) (JJ sized) (NN sedan))
+                  (PP (IN with)
+                    (NP (NNS passengers))))
+                (SBAR (IN if)
+                  (S
+                    (NP (PRP you))
+                    (VP (VBP do) (RB n't)
+                      (VP (VB take)
+                        (NP (PRP it))
+                        (PP (IN at)
+                          (NP
+                            (NP (DT the) (JJ right) (NN speed))
+                            (CC and)
+                            (NP (NN angle))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ Our) (NN cashier))
+    (VP (VBD was)
+      (ADVP (RB also))
+      (ADJP (RB very) (JJ quick)
+        (CC and)
+        (JJ polite)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ is)
+              (ADVP (RB always))
+              (NP
+                (NP (DT a) (JJ welcome) (NN response))
+                (PP (IN at)
+                  (NP (DT a) (NN gas) (NN station)))))))))
+    (. .)))
+
+

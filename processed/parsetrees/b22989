@@ -1,0 +1,116 @@
+(ROOT
+  (S
+    (SBAR (RB Even) (IN though)
+      (S
+        (NP (PRP I))
+        (VP (VBD was)
+          (UCP
+            (S
+              (VP (VBG nursing)
+                (NP (DT a) (NN hangover))))
+            (CC and)
+            (PP (IN in)
+              (NP
+                (NP (NN need))
+                (PP (IN of)
+                  (NP (JJ crappy) (, ,) (JJ greasy) (NN food)))))))))
+    (, ,)
+    (NP (DT this))
+    (VP (VBD was)
+      (NP (DT a) (NN letdown)))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP First))
+        (PP (IN off)
+          (NP (NN service))))
+      (VP (VBD was)
+        (ADJP (RB so) (JJ slow))))
+    (CC and)
+    (S
+      (NP (DT the) (NN cashier))
+      (VP (VBD was)
+        (ADJP (RB utterly) (JJ lackadaisical))
+        (PP (IN in)
+          (NP (PRP$ her) (NN attitude)))))
+    (. .)))
+
+(ROOT
+  (S
+    (INTJ (UH Oh))
+    (INTJ (UH well))
+    (, ,)
+    (NP (WDT what))
+    (VP (VBD did)
+      (SBAR
+        (S
+          (NP (PRP I))
+          (ADVP (RB really))
+          (VP (VBP expect)))))
+    (: ...)))
+
+
+(ROOT
+  (FRAG (RB Not)
+    (ADJP (JJ bad))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Pan) (NNS pizzas))
+      (VP (VBD were) (RB n't)
+        (VP (VBN cut)
+          (NP (PDT all) (DT the) (NN way))
+          (PP (IN through)))))
+    (, ,)
+    (CC and)
+    (S
+      (PP (IN of)
+        (NP
+          (NP (NN course))
+          (ADJP (DT no)
+            (ADJP (JJ knives)
+              (PP (IN in)
+                (NP (DT the) (NN airport))))
+            (, ,)
+            (CC but)
+            (ADJP (JJ hot)
+              (CC and)
+              (JJ fresh)
+              (CC and)
+              (JJ everything)))))
+      (NP (PRP it))
+      (VP (VBD needed)
+        (S
+          (VP (TO to)
+            (VP (VB be))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN food))
+      (VP (VBD was)
+        (ADJP (JJ old))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (WDT what))
+      (VP (VBP do)
+        (SBAR
+          (S
+            (NP (PRP you))
+            (VP (VBP expect)
+              (PP (IN at)
+                (NP
+                  (NP (DT an) (NN airport))
+                  (PP (JJ late) (IN in)
+                    (NP (DT the) (NN evening))))))))))
+    (. .)))
+
+

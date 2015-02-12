@@ -1,0 +1,67 @@
+(ROOT
+  (SINV (VBD Had)
+    (NP (DT a) (JJ lovely) (NN lunch) (NN today))
+    (VP (VBN !))))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Pizza))
+      (VP
+        (VP (VBD was)
+          (ADJP (RB very) (JJ tasty)
+            (PP (IN with)
+              (NP
+                (NP (RB plenty))
+                (PP (IN of)
+                  (S
+                    (VP (VBG topping))))))))
+        (CC and)
+        (VP (VBD made)
+          (ADVP (RB pretty) (RB well)))))
+    (, ,)
+    (NP (NN pasta))
+    (VP (VBD did) (RB n't)
+      (VP (VB have)
+        (NP
+          (NP (DT that)
+            (UCP
+              (NP (JJ much) (NN chicken))
+              (CC and)
+              (RB not)
+              (ADVP (RB as) (RB much)))
+            (NN flavor))
+          (PP (CC but)
+            (NP
+              (NP (DT the) (NN help))
+              (PP (IN of)
+                (NP
+                  (NP (DT a) (JJ little) (NN salt)
+                    (CC and)
+                    (NN pepper))
+                  (VP (VBN done)
+                    (NP (DT the) (NN trick))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Staff))
+      (VP (MD could)
+        (VP (VB be)
+          (ADJP
+            (NP (DT a) (RB little))
+            (JJR happier)
+            (PP (IN behind)
+              (NP (DT the) (NN counter)))))))
+    (CC but)
+    (ADVP (RB overall))
+    (S
+      (NP (PRP I))
+      (VP (MD will)
+        (ADVP (RB definately))
+        (VP (VB be)
+          (ADVP (RB back)))))
+    (. !)))
+
+

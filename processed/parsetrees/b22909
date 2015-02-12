@@ -1,0 +1,233 @@
+(ROOT
+  (NP
+    (NP
+      (NP (NNP Recipe))
+      (PP (IN for)
+        (NP (NN success))))
+    (: :)
+    (NP
+      (NP (NNP A))
+      (ADJP (CD 24) (NN oz)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP
+          (NP (NN craft) (NN beer))
+          (PP (IN on)
+            (NP
+              (NP (DT the) (NN patio))
+              (PP (IN during)
+                (NP (DT the) (NN summer))))))
+        (PRN (-LRB- -LRB-)
+          (S
+            (NP
+              (NP (NNP Bell) (POS 's))
+              (CD Two) (NN Hearted))
+            (VP (VBZ is)
+              (ADJP
+                (ADJP (JJ available))
+                (CC and)
+                (ADJP (RB highly) (JJ recommended)))))
+          (-RRB- -RRB-)))
+      (PP (IN After)
+        (NP (CD one)
+          (CC or)
+          (CD two))))
+    (, ,)
+    (NP (DT a) (NNP Peet))
+    (VP (VBZ 's)
+      (NP (NN coffee)
+        (S
+          (VP (TO to)
+            (VP (VB wake)
+              (NP (PRP you))
+              (PRT (RP up)))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (DT All))
+    (PP (IN in)
+      (NP
+        (NP (DT a) (JJ classic) (, ,) (JJ cool) (NN building))
+        (PP (IN on)
+          (NP (DT a) (JJ beautiful) (NN lake)))))
+    (PP (IN in)
+      (NP
+        (NP (DT the) (NN middle))
+        (PP (IN of)
+          (NP (DT a) (JJ great) (NN campus)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (MD ca) (RB n't)
+        (VP (VB believe)
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (VBP 'm)
+                (VP (VBG saying)
+                  (NP (DT this)))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADJP
+          (ADJP (JJR better))
+          (PP (IN than)
+            (NP (DT any) (JJ other) (NN coffee))))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP have)
+              (VP (VBN tasted)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN staff))
+      (VP (VBZ is)
+        (ADJP
+          (ADJP (RB consistently) (JJ friendly))
+          (CC and)
+          (ADJP (RB really) (JJ helpful)))))
+    (: -)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADVP (RB always))
+        (NP
+          (NP (DT a) (NN pleasure))
+          (VP (VBG talking)
+            (PP (TO to)
+              (NP (PRP them)))
+            (PP (IN at)
+              (NP (DT the) (NN counter)))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (, ,)
+    (NP (DT the) (NN coffee))
+    (VP
+      (VP (VBZ has)
+        (VP (VBN been)
+          (ADJP (RB pretty) (VBN hit))))
+      (CC and)
+      (VP (VBP miss)
+        (PP (IN in)
+          (NP (PRP$ my) (NN experience)))))
+    (. .)))
+
+(ROOT
+  (ADJP
+    (ADJP (RB Not) (JJ sure))
+    (SBAR (IN if)
+      (S
+        (NP (PRP it))
+        (VP (VBZ 's)
+          (NP
+            (NP (DT the) (NN method))
+            (CC or)
+            (NP (DT the) (JJ actual) (NN roast/flavor)))))
+      (: ...))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (ADJP (RBR more) (JJ inclined)
+        (S
+          (VP (TO to)
+            (VP (VB say)
+              (SBAR
+                (S
+                  (NP (PRP it))
+                  (VP (VBZ 's)
+                    (NP (DT the) (NN latter))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN On)
+      (NP (DT an) (JJ unrelated-yet-related) (NN note)))
+    (, ,)
+    (S
+      (NP (DT this))
+      (VP (VBZ is)
+        (NP (DT a) (JJ great) (NN place)
+          (S
+            (VP (TO to)
+              (VP (VB sit)
+                (CC and)
+                (VB read/study)))))))
+    (: -)
+    (S
+      (NP (NNP Peet) (POS 's))
+      (VP (VBZ likes)
+        (S
+          (VP (TO to)
+            (VP (VB play)
+              (NP
+                (NP (DT a)
+                  (ADJP (RB fairly) (JJ solid))
+                  (NN selection))
+                (PP (IN of)
+                  (NP (JJ classical) (NN music)))))))))
+    (CC and)
+    (S
+      (NP (EX there))
+      (VP (VBZ 's)
+        (NP
+          (NP (DT a) (JJ decent) (NN number))
+          (PP (IN of)
+            (NP (JJ granite-topped) (NNS tables)
+              (CC and)
+              (NNS outlets))))
+        (ADVP (RB nearby))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (RB Not) (DT a) (JJ good) (NN place))
+      (SBAR
+        (S
+          (VP (TO to)
+            (VP (VB go)
+              (SBAR (IN if)
+                (S
+                  (NP (PRP you))
+                  (VP (VBP need)
+                    (NP
+                      (NP (NNS lots))
+                      (PP (IN of)
+                        (NP (NN room))))
+                    (SBAR (IN as)
+                      (S
+                        (NP (DT the) (NNS tables))
+                        (VP (VBP are)
+                          (ADJP (JJ individual-sized)))))))))))))
+    (: ...)
+    (VP (VBP go)
+      (ADVP (IN around)
+        (NP (DT the) (NN corner))
+        (PP (IN into)
+          (NP (DT the) (NNP Rathskellar)
+            (CC or)
+            (NNP Paul) (NNP Bunyan) (NN room))))
+      (PP (IN for)
+        (NP (DT that))))
+    (. .)))
+
+

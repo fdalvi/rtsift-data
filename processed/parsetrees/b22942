@@ -1,0 +1,194 @@
+(ROOT
+  (FRAG
+    (ADJP (RB Unbelievably) (JJ expensive))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD paid)
+      (NP
+        (QP (RB almost) (RB twice) (IN as) (JJ much)))
+      (PP (IN for)
+        (NP
+          (NP (DT an) (NN oil) (NN change))
+          (, ,)
+          (NP (NN tire) (NN rotation))
+          (, ,)
+          (CC and)
+          (NP (JJ in-cabin) (NN air) (NN filter) (NN change))))
+      (SBAR (IN than)
+        (S
+          (NP (PRP I))
+          (VP (VBD did)
+            (PP (IN at)
+              (NP
+                (NP (DT the) (NN dealer))
+                (PP (IN for)
+                  (NP
+                    (NP (DT the) (JJ same) (NNS services))
+                    (ADVP
+                      (NP (DT a) (JJ few) (NNS months))
+                      (RB back))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD wo) (RB n't)
+      (VP (VB be)
+        (ADVP (RB back))
+        (PP (IN for)
+          (ADJP (JJ sure)))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (DT The) (NN good))
+    (: :)
+    (NP (JJ nice) (JJ clean) (NN waiting) (NN room))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN fridge))
+      (PP (JJ full) (IN of)
+        (NP
+          (NP (NNS sodas))
+          (, ,)
+          (NP
+            (NP
+              (NP (JJ fresh) (JJ baked) (NNS cookies))
+              (PRN (-LRB- -LRB-)
+                (PP (IN in)
+                  (NP (DT a) (NN toaster) (NN oven)))
+                (-RRB- -RRB-)))
+            (CC and)
+            (NP
+              (NP (DT a) (NN brew))
+              (PP (IN by)
+                (NP (DT the) (NN cup) (NN coffee) (NN machine))))))))
+    (VP (VBP are)
+      (ADVP (DT all) (RB there))
+      (PP (IN for)
+        (NP (PRP you)))
+      (S
+        (VP (TO to)
+          (VP (VB help)
+            (NP (PRP yourself))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN service))
+    (VP (VBD was)
+      (ADJP (JJ fast)))
+    (. !)))
+
+(ROOT
+  (S
+    (SBAR (IN Tire)
+      (S
+        (NP (NN rotation)
+          (CC and)
+          (NN oil) (NN change))
+        (VP (VBD was)
+          (VP (VBN promised)
+            (PP (IN in)
+              (NP (CD 20) (NNS minutes)))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD was)
+      (ADVP (RB out))
+      (PP (IN in)
+        (NP (CD 15) (NNS !!!))))))
+
+(ROOT
+  (SQ (VBD Did)
+    (NP (PRP I))
+    (VP (VB mention)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD was)
+            (ADJP (RB really) (JJ clean)
+              (CC and)
+              (JJ nice))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (X (DT The)
+      (ADJP (JJ Bad)))
+    (: :)
+    (NP
+      (NP (DT a) (NN bit))
+      (VP (VBN overpriced)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP
+      (NP ($ $) (CD 36))
+      (PP (IN for)
+        (NP (DT an) (NN oil) (NN change))))
+    (, ,)
+    (NP
+      (NP
+        (NP ($ $) (CD 15))
+        (PP (IN for)
+          (NP (DT a) (NN tire) (NN rotation))))
+      (PRN (-LRB- -LRB-)
+        (S
+          (NP (PRP they))
+          (VP (VBD did)
+            (VP (VB give)
+              (NP (PRP it))
+              (PP (TO to)
+                (NP (PRP me)))
+              (PP (IN for)
+                (NP ($ $) (CD 10))))))
+        (-RRB- -RRB-)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Overall))
+    (: :)
+    (NP (PRP I))
+    (VP (MD 'll)
+      (VP (VB be)
+        (ADVP (RB back))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (CD 15) (NNS minutes))
+        (PP (IN in)
+          (NP (DT a) (NNP Saturday))))
+      (VP (VBZ is)
+        (ADJP (JJ impressive))))
+    (CC and)
+    (S
+      (S
+        (VP (TO to)
+          (VP (VB pay)
+            (NP (DT a) (JJ few) (NNS bucks))
+            (NP
+              (NP (JJR more) (NN o))
+              (PP (IN save)
+                (NP
+                  (NP (DT an) (NN hour))
+                  (PP (IN of)
+                    (NP (PRP$ my) (NN weekend)))))))))
+      (VP (VBZ is)
+        (ADVP (RB well))
+        (PP (IN worth)
+          (NP (PRP it)))))
+    (. !)))
+
+

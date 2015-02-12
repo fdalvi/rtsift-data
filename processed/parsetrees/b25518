@@ -1,0 +1,42 @@
+(ROOT
+  (NP
+    (NP (NN Love))
+    (NP (JJ happy) (NN hour) (NN half) (NN price) (NNS drinks))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (JJ Fast) (NN service))
+    (, ,)
+    (ADVP (RB never))
+    (VP (VBD had)
+      (NP (DT a) (NN problem)))
+    (. .)))
+
+
+(ROOT
+  (X
+    (ADVP (RB Really))
+    (NP (JJ nice) (, ,) (JJ modern) (, ,) (JJ clean) (NN location))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Good))
+    (NP (NN service)
+      (CC and)
+      (NN food))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (PP (IN As)
+      (ADVP (RB good) (RB as)))
+    (NP (PRP it))
+    (VP (VBD gets) ('' '')
+      (PP (IN for)
+        (NP (DT a) (NNP Sonic))))
+    (. .)))
+
+

@@ -1,0 +1,53 @@
+(ROOT
+  (FRAG
+    (ADJP (RB Perfectly) (JJ located))
+    (, ,)
+    (VP (VBG parking)
+      (ADVP
+        (ADVP (RB not) (RB far))
+        (SBAR (IN unless)
+          (S
+            (NP (PRP it))
+            (VP (VBZ 's)
+              (VP (VBG raining)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Receptionist))
+    (VP (VBD was)
+      (NP
+        (NP (DT a)
+          (ADJP
+            (ADJP (JJ cheerful))
+            (CC and)
+            (ADJP (RB well) (JJ informed)))
+          (JJ Irish) (NN lady))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBD gave)
+              (NP (PDT all) (DT the) (JJ right) (NN info)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN room))
+      (PP (IN on)
+        (NP (DT the) (JJ 3rd) (NN floor))))
+    (VP (VBD was)
+      (ADJP (JJ warm) (, ,) (JJ comfortable)
+        (CC and)
+        (NN nicely) (NN decorated)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Deffo))
+    (VP (MD would)
+      (VP (VB stay)
+        (ADVP (RB again))))
+    (. .)))
+
+

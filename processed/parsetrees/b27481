@@ -1,0 +1,215 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD went)
+      (PP (IN for)
+        (NP (NN breakfast)))
+      (PP (IN with)
+        (NP (DT a) (NN friend))))
+    (. .)))
+
+(ROOT
+  (NP (NNP YUM) (NNP !!)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD had)
+      (NP (DT the)
+        (ADJP (RBS most) (JJ delicous))
+        (NN breakfast) (NN burrito)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS potatoes))
+    (VP (VBP are)
+      (ADJP (RB as) (JJ yummy)
+        (SBAR (IN as)
+          (S
+            (NP (PRP they))
+            (VP (VBP come))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBD used)
+        (SBAR
+          (S
+            (NP
+              (NP (DT an) (NN entertainment) (NN coupon))
+              (PP (IN for)
+                (NP (JJ buy) (CD one))))
+            (VP (VBP get)
+              (NP (CD one)))))))
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (MD would)
+        (VP (VB have)
+          (VP (VBN been)
+            (ADJP (JJ cheap) (RB even))
+            (PP (IN without)
+              (NP (PRP it)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD ca) (RB n't)
+      (VP (VB wait)
+        (S
+          (VP (TO to)
+            (VP (VB go)
+              (ADVP (RB back)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Sunrise) (NNP Cafe))
+    (VP (VBZ is)
+      (NP (PRP$ my) (NNP FAVORITE) (NN breakfast) (NN place)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (JJ ONLY) (NN thing))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (MD can)
+            (VP (VB complain)
+              (PRT (RP about)))))))
+    (VP (VBZ is) (, ,)
+      (S
+        (NP (PRP$ its) (JJ only))
+        (VP (VB open)
+          (PP (IN till)
+            (NP (CD 3))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBG coming)
+          (NP
+            (NP (RB here))
+            (PP (IN for)
+              (NP (NNS years))))
+          (ADVP
+            (ADVP (RB even) (RB back))
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP it))
+                (VP (VBD was)
+                  (ADVP (RB still))
+                  (VP (VBN called)
+                    (S
+                      (NP (NNP Theo) (POS 's)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN food))
+    (VP (VBZ is)
+      (ADVP (RB always))
+      (NP
+        (ADJP
+          (ADJP (JJ awesome))
+          (CC and)
+          (ADJP (RB very) (JJ inexpensive)))
+        (JJ GREAT) (NN service)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN owner) (NN Andre))
+    (VP (VBZ is)
+      (NP
+        (NP (CD one))
+        (SBAR
+          (S
+            (NP
+              (NP (DT the) (JJ friendliest) (NNS guys))
+              (SBAR
+                (WHNP (WP who))
+                (S
+                  (VP (VBZ makes)
+                    (ADJP (JJ sure)
+                      (NP
+                        (NP (PRP$ your))
+                        (NP (DT every) (NN visit))))))))
+            (VP (VBZ is)
+              (ADVP (NN nothing))
+              (NP (PRP$ my) (JJ excellent)))))))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT Oh)
+      (NP (NNP and)))
+    (SQ (VBD did)
+      (NP (FW i))
+      (VP (VB mention)
+        (NP (PRP$ their) (NNS gyros))))
+    (. ?)))
+
+(ROOT
+  (NP
+    (NP (JJS best))
+    (PP (IN in)
+      (NP (DT the) (NNP State)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Traditional) (NN homestyle) (NNS diners))
+      (PP (IN with)
+        (NP
+          (NP (NN valley) (NN girl) (NNS waitresses))
+          (PP (IN like)
+            (NP (DT this) (NN place))))))
+    (VP (VBP are)
+      (ADJP (JJ hard)
+        (S
+          (VP (TO to)
+            (VP (VB come)
+              (PP (IN by)
+                (NP (DT these) (NNS days))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN food))
+      (VP (VBZ is)
+        (ADJP (JJ great))
+        (SBAR (IN if)
+          (S
+            (NP (PRP you))
+            (VP (VBP 're)
+              (VP (VBG looking)
+                (PP (IN for)
+                  (NP (DT a) (JJ simple) (NN brunch) (NN meal)))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (NN service))
+      (VP (VBZ is)
+        (NP
+          (ADJP (JJ quaint) (, ,)
+            (CC and)
+            (JJ worth))
+          (DT the) (NN price))))
+    (. .)))
+
+

@@ -1,0 +1,99 @@
+(ROOT
+  (S
+    (NP
+      (NP (CD One))
+      (PP (IN of)
+        (NP (DT the) (JJS best) (NN Dollar))))
+    (VP (VBZ Trees)
+      (PP (IN in)
+        (NP (DT the) (NNP Las) (NNP Vegas) (NN area))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN staff))
+      (VP (VBZ is)
+        (ADJP (RB very) (JJ friendly))))
+    (, ,)
+    (NP (DT the))
+    (VP (VBP store)
+      (S
+        (NP (PRP$ its))
+        (ADJP (RB pretty) (JJ clean))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Everything))
+      (VP (VBZ is)
+        (VP (VBN organized))))
+    (CC and)
+    (S
+      (NP (EX there))
+      (VP (VBZ is)
+        (ADVP (RB always))
+        (NP
+          (NP (DT a) (JJ good) (NN selection))
+          (PP (IN of)
+            (NP (NNS items)
+              (S
+                (VP (TO to)
+                  (VP (VB choose)
+                    (PP (IN from))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB also))
+    (VP (VBP love)
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP (VBP are)
+            (ADJP (JJ open)
+              (ADVP
+                (NP (DT an) (NN hour))
+                (RBR later))
+              (PP (IN than)
+                (NP
+                  (ADJP (RBS most) (JJ other))
+                  (NNP Dollar) (NNP Trees))))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP like)
+      (SBAR
+        (S
+          (NP (DT this))
+          (VP (VBZ places)
+            (SBAR
+              (S
+                (NP
+                  (NP (JJ good) (NNS prices))
+                  (CC and)
+                  (NP (DT the) (NN ppl)))
+                (VP (VBP are)
+                  (ADJP (JJ nice)
+                    (SBAR
+                      (X
+                        (ADVP (RB here) (RB there) (RB always))
+                        (NP (NN something)))
+                      (S
+                        (NP (PRP you))
+                        (VP
+                          (VP (VBP want))
+                          (CC or)
+                          (VP (MD might)
+                            (VP (VB want)
+                              (S
+                                (VP (TO to)
+                                  (VP (VB get)
+                                    (NP (RB just) (NN cuz))))))))))))))))))))
+
+

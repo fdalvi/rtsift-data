@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBP have)
+      (VP (VBN used)
+        (S
+          (NP (DT this))
+          (VP
+            (VP (VB florist)
+              (NP
+                (NP (DT a) (NN number))
+                (PP (IN of)
+                  (NP
+                    (NP (NNS times))
+                    (PP (IN over)
+                      (NP (DT the) (JJ past) (JJ few) (NNS years)))))))
+            (CC and)
+            (VP (VB have)
+              (ADVP (RB always))
+              (VP (VBN been)
+                (ADJP (RB highly) (JJ satisfied))
+                (PP (IN with)
+                  (NP
+                    (NP (DT the) (NN quality)
+                      (CC and)
+                      (NNS prices))
+                    (PP (IN of)
+                      (NP (PRP$ their) (NN work)))))))))))
+    (. .)))
+
+

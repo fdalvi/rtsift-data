@@ -1,0 +1,154 @@
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP (DT a) (JJ nice) (NN park)))
+    (. .)))
+
+(ROOT
+  (SBAR (RB Even) (IN if)
+    (S
+      (NP (DT the) (NN playground))
+      (VP (VBZ is)
+        (ADJP (JJ dirty))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT The) (VBN upgraded) (NN park))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP
+          (ADVP (RB so) (RB much) (RBR more))
+          (ADJP (JJR better))
+          (CC and)
+          (ADJP (RB much) (JJR more)))
+        (JJR cleaner))
+      (PP (IN than)
+        (NP
+          (NP (DT the) (NN park))
+          (SBAR
+            (S
+              (NP (PRP it))
+              (VP (VBD was)
+                (ADVP
+                  (NP (DT a) (JJ few) (NNS years))
+                  (RB ago))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP
+        (VP (VBZ is)
+          (NP
+            (NP (DT a) (NNS tons))
+            (PP (IN of)
+              (NP (NN room)))
+            (S
+              (VP (TO to)
+                (VP (VB run)
+                  (NP (JJ several) (NNS laps))))
+              (, ,))))
+        (PRN (-LRB- -LRB-)
+          (PP (IN for)
+            (NP
+              (NP (DT those))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBP enjoy)
+                    (NP (DT a) (NN run)))))))
+          (-RRB- -RRB-))
+        (NP
+          (CONJP (RB as) (RB well) (IN as))
+          (NP (DT a) (JJ skate) (NN park))
+          (PP (IN for)
+            (NP (DT those)))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBP enjoy)
+                (NP (NN skating)
+                  (CC and)
+                  (NN bmx)))))
+          (, ,)
+          (NP
+            (NP (NN everyone) (NNS minds))
+            (SBAR
+              (S
+                (NP (PRP$ their))
+                (VP (VBP own)
+                  (SBAR
+                    (WHADVP (WRB when))
+                    (S
+                      (NP (PRP they))
+                      (VP (VBP 're)
+                        (ADVP (RB here))))))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (UCP
+          (NP
+            (NP (RB just) (DT a) (JJ nice) (NN park))
+            (SBAR
+              (S
+                (VP (TO to)
+                  (VP (VB enjoy)
+                    (PP (IN on)
+                      (NP (DT a) (JJ beautiful) (JJ sunny) (NN day))))))))
+          (, ,)
+          (CC or)
+          (ADJP (JJ hot)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP know)
+        (SBAR
+          (S
+            (NP
+              (NP (DT a) (NN lot))
+              (PP (IN of)
+                (NP (NNS people))))
+            (VP (VBP do) (RB n't)
+              (VP (VB think)
+                (SBAR (IN that)
+                  (S
+                    (NP
+                      (NP (DT this) (NN side))
+                      (PP (IN of)
+                        (NP (NN town))))
+                    (VP (VBZ is)
+                      (ADJP (JJ safe)))))))))))
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBP feel)
+        (SBAR (IN that)
+          (S
+            (NP (PRP it))
+            (VP (VBZ is))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN police) (NN academy))
+    (VP
+      (VP (VBZ is)
+        (ADJP (JJ right)
+          (PP (IN across)
+            (NP (DT the) (NN street)))))
+      (CC and)
+      (ADVP (RB so))
+      (VP (VBZ is)
+        (NP (DT the) (NN fire) (NN station))))
+    (. .)))
+
+

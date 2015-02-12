@@ -1,0 +1,67 @@
+(ROOT
+  (S
+    (NP (NNP Store))
+    (VP (VBZ is)
+      (UCP
+        (ADJP (JJ big))
+        (CC and)
+        (VP
+          (ADVP (RB well))
+          (VBN stocked))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Employees))
+    (VP (VBP are)
+      (ADJP (JJ nice) (RB enough)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (RB Not)
+      (NP (DT the) (NN cleanest))
+      (CC or)
+      (NP (JJS best)))
+    (VP (VBD maintained)
+      (NP (NN grocery) (NN store))
+      (PP (IN around)
+        (SBAR (CC but)
+          (S
+            (NP (DT that))
+            (VP (VBZ 's)
+              (ADJP (JJ normal)
+                (PP (IN in)
+                  (NP
+                    (NP (DT this) (NN part))
+                    (PP (IN of)
+                      (NP (NN town))))))
+              (ADVP (RB anyway)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP
+        (NP (DT a) (NN Fry))
+        (VP (VBZ 's))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Better))
+    (VP (VB service)
+      (UCP
+        (PP (IN than)
+          (NP (JJS most) (JJ other) (NNS ones)))
+        (CC but)
+        (RB not)
+        (ADJP (RB really) (RB much)
+          (S
+            (VP (TO to)
+              (VP (VB explain)))))))
+    (. .)))
+
+

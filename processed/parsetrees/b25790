@@ -1,0 +1,83 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD had)
+      (NP (DT a) (JJ veggie) (NN sandwich)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN bread))
+      (VP (VBD was)
+        (ADJP (JJ fresh))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (ADJP (RB pretty) (JJ darn))
+        (ADVP (RB tastey))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Servers))
+    (VP (VBD were)
+      (ADJP (RB very) (JJ friendly)
+        (CC and)
+        (JJ accomodating)))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (NNP Great))
+    (NP
+      (NP (NN service))
+      (CC &)
+      (NP (NN food)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (FW i))
+    (VP
+      (VP (VBP love)
+        (NP (PRP$ their) (NN mac)
+          (CC and)
+          (NN chesse)))
+      (, ,)
+      (CC but)
+      (VP (VBD was)
+        (ADJP
+          (NP (DT a) (RB bit))
+          (JJ disappointed))
+        (S
+          (VP (TO to)
+            (VP (VB see)
+              (NP (PRP it))
+              (PP (IN in)
+                (NP
+                  (NP (DT a) (JJ plastic) (NN bag))
+                  (VP (VBG being)
+                    (VP (VBN microwaved))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN for)
+      (NP (DT some) (NN reason)))
+    (NP (FW i))
+    (ADVP (RB always))
+    (VP (VBD thought)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD was)
+            (ADJP (JJ fresh)
+              (CC and)
+              (JJ warm))))))
+    (. .)))
+
+

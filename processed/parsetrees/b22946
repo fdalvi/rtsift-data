@@ -1,0 +1,252 @@
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP (DT a)
+        (ADJP (RB very) (JJ nice))
+        (NP (NNP Holiday) (NNP Inn))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP
+      (VP (VBZ is)
+        (VP (VBN located)
+          (PP (IN near)
+            (NP (DT the) (NNP American) (NNP Family) (NNP Insurance) (NN head) (NNS quarters) (NN building)))))
+      (CC and)
+      (VP (VBZ is)
+        (PP
+          (NP (RB about) (CD 15-20) (NNS minutes))
+          (IN from)
+          (NP (DT the) (NN airport)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD gave)
+      (NP (DT this)
+        (NP (NN hotel))
+        (ADVP
+          (NP (CD 5) (NNS stars))
+          (RB because))
+        (: ;)
+        (NP (CD 1))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (ADJP (RB very) (JJ clean)
+        (PP (IN in)
+          (NP
+            (NP (DT all) (NNS areas))
+            (NP (CD 2))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN staff))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (JJ incredible))
+        (CC and)
+        (ADJP (RB so) (JJ friendly))
+        (NP (CD 3))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (S
+      (NP (DT The) (NN bar/lounge))
+      (VP
+        (VP (VBZ is)
+          (ADJP (JJ comfortable)))
+        (CC and)
+        (VP (VBZ has)
+          (NP (JJ good) (NN food)))))
+    (, ,)
+    (VP (VBZ appetizers))
+    (NP (CD 4))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Breakfast))
+    (VP (VB buffet)
+      (NP
+        (NP (DT each) (NN morning)
+          (CC and)
+          (NN coffee))
+        (ADJP (NN bar) (CD 5))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Free) (NN shuttle))
+    (PP (TO to)
+      (NP (NN airport)
+        (CC and)
+        (NN mall)))
+    (. .)))
+
+(ROOT
+  (SQ (VBD Did)
+    (NP (PRP I))
+    (VP (VB mention)
+      (SBAR
+        (S
+          (NP (DT the) (NN staff))
+          (VP (VBZ is)
+            (ADJP (JJ incredible))))))
+    (. ?)))
+
+
+(ROOT
+  (S
+    (VP (VBN Stayed)
+      (ADVP (RB here))
+      (PP (IN over)
+        (NP
+          (NP (JJ 4th))
+          (PP (IN of)
+            (NP
+              (NP (NNP July))
+              (PP (IN with)
+                (NP (NN family))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB Not)
+      (PP (TO to)
+        (NP
+          (NP (JJ many) (NNS people))
+          (VP (VBG staying)
+            (ADVP (RB then))))))
+    (, ,)
+    (ADVP (RB so))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (ADJP
+        (ADVP (NN kind) (IN of))
+        (JJ hard)
+        (S
+          (VP (TO to)
+            (VP (VB judge)
+              (SBAR (IN if)
+                (S
+                  (NP (DT the) (NNS walls))
+                  (VP (VB keep)
+                    (NP
+                      (NP (NN noise))
+                      (PP (IN from)
+                        (NP (JJ other) (NNS rooms))))
+                    (PRT (RP out))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Staff))
+    (VP (VBZ is)
+      (NP (JJ friendly) (, ,) (JJ clean) (, ,) (JJ nice) (NN pool)
+        (CC and)
+        (JJ hot) (NN tub)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Wi-Fi))
+    (VP (VBZ is)
+      (ADJP (JJ free)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Rooms))
+    (VP (VBP are)
+      (ADJP (JJ small) (, ,)
+        (CC but)
+        (JJ comfortable)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Price))
+    (VP (VBD was)
+      (ADJP (JJ fair)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Breakfast))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (JJ expensive))
+        (, ,)
+        (SBAR
+          (S
+            (VP (VBD went)
+              (PRT (RP off))
+              (NP (NN property))
+              (S
+                (VP (TO to)
+                  (VP (VB eat)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Air) (NNP conditioning))
+    (VP
+      (VP (VBD was)
+        (ADJP (JJ loud))
+        (PP (IN at)
+          (NP (NN night))))
+      (, ,)
+      (VP (VBD did) (RB n't)
+        (VP (VB complain)))
+      (, ,)
+      (VP (VBP do) (RB n't)
+        (VP (VB know)
+          (SBAR (IN if)
+            (S
+              (NP (PRP they))
+              (VP (MD could)
+                (VP (VB have)
+                  (VP (VBN fixed)
+                    (NP (PRP it))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Madison))
+    (VP (VBZ is)
+      (NP (DT a)
+        (ADJP (JJ quick)
+          (NP (CD 10-15)))
+        (NN min) (NN drive)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP$ your) (NNS travels))
+        (VP (VBP take)
+          (NP (PRP you))
+          (PP (TO to)
+            (NP (NNP Madison))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP suggest)
+      (S
+        (VP (VBG checking)
+          (NP (DT this) (NN place))
+          (PRT (RP out)))))
+    (. .)))
+
+

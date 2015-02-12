@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (S
+      (NP (DT This))
+      (VP (VBZ is)
+        (NP
+          (NP (DT an) (NN out))
+          (PP (IN of)
+            (NP
+              (NP (NN town) (NN shopping) (NN centre.It) (NNS offers))
+              (NP (DT a) (NN lot))))
+          (PP (IN of)
+            (NP (NN parking))))))
+    (CC and)
+    (S
+      (NP (JJ good) (NN shops.It))
+      (ADVP (RB also))
+      (VP (VBZ offers)
+        (SBAR
+          (S
+            (NP
+              (NP (NNS places))
+              (PP (TO to)
+                (NP (NN eat.It))))
+            (VP (VBZ has)
+              (NP
+                (NP (DT a) (NNS morrisons))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBZ is)
+                      (NP (DT a) (JJ doesnt) (NN size)
+                        (S
+                          (VP (TO to)
+                            (VP (VB do)
+                              (NP (PRP$ your) (NNS shopping.Its))
+                              (NP (DT a) (JJ good) (NN place)
+                                (S
+                                  (VP (TO to)
+                                    (VP (VB go)
+                                      (PP (TO to)))))))))))))))))))
+    (. .)))
+
+

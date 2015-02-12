@@ -1,0 +1,417 @@
+(ROOT
+  (FRAG
+    (NP (JJ Corporate) (NNP Mega-chain) (NNP Fun) (NNP Fact))
+    (: :)
+    (S
+      (NP (NNP Walgreen) (NNP Co.))
+      (VP (VBZ is)
+        (VP (VBN named)
+          (PP (IN after)
+            (NP
+              (NP (NNP Charles) (NNP R.) (NNP Walgreen))
+              (, ,)
+              (NP
+                (NP (NNP Sr.))
+                (SBAR
+                  (WHNP (WP who))
+                  (S
+                    (VP (VBD founded)
+                      (NP
+                        (NP (DT the) (NN chain))
+                        (PP (IN of)
+                          (NP (NN drug) (NNS stores)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP He))
+      (VP (VBD had)
+        (VP (VBN planned)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (NP
+                  (NP (DT a) (JJ professional) (NN athlete))
+                  (PP (IN in)
+                    (NP (PRP$ his) (NN youth))))))))))
+    (CC but)
+    (S
+      (PP (IN after)
+        (S
+          (VP (VBG loosing)
+            (NP (DT a) (NN finger))
+            (PP (IN in)
+              (NP (DT a) (NN factory) (NN accident))))))
+      (, ,)
+      (NP (PRP he))
+      (VP (VBD decided)
+        (S
+          (VP (TO to)
+            (VP (VB become)
+              (NP (DT a) (NN pharmacist)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD purchased)
+      (NP
+        (NP
+          (NP (PRP$ his) (JJ first) (NN pharmacy))
+          (, ,)
+          (SBAR
+            (WHADVP (WRB where))
+            (S
+              (NP (PRP he))
+              (VP (VBD was)
+                (VP (VBG working)
+                  (PP (IN at)
+                    (NP (DT the) (NN time)))))))
+          (, ,))
+        (PP (IN in)
+          (NP (CD 1901)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (JJ Due) (TO to)
+      (NP
+        (NP (PRP$ his) (NNS improvements))
+        (PP (IN in)
+          (NP
+            (NP (NN customer) (NN service))
+            (PRN (-LRB- -LRB-)
+              (PP (VBG including)
+                (NP (DT a) (JJ speedy) (NN delivery) (NN service)))
+              (-RRB- -RRB-))))))
+    (S
+      (NP (DT the) (NN store))
+      (VP (VBD thrived)))
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP (VBD was)
+        (ADJP (JJ able)
+          (S
+            (VP (TO to)
+              (VP
+                (VP (VB add)
+                  (NP (JJR more) (NNS stores)))
+                (CC and)
+                (ADVP (RB eventually))
+                (VP (VB expand)
+                  (PP (IN beyond)
+                    (NP (DT the) (NNP Chicago) (NN area))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (JJ particular) (NN location))
+    (VP (VBZ is) (RB not)
+      (ADJP
+        (NP
+          (QP (CD 100) (CD +))
+          (NNS years))
+        (JJ old)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Actually))
+    (NP (PRP it))
+    (VP (VBD was)
+      (VP (VBN built)
+        (ADJP (JJ new)
+          (PP (IN from)
+            (NP (DT the) (NN ground))))
+        (ADVP
+          (NP
+            (QP (RB up) (RB just) (DT a) (NN couple))
+            (NNS years))
+          (RB ago))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Everything))
+    (VP
+      (VP
+        (ADVP (RB still))
+        (VBZ looks)
+        (ADJP (JJ clean)))
+      (CC and)
+      (VP (VBD organized)
+        (SBAR (IN so)
+          (S
+            (PP (IN for)
+              (NP (DT that) (NN reason)))
+            (NP (PRP it))
+            (VP (VBZ is)
+              (NP
+                (NP (PRP$ my) (JJ favorite) (NN drug) (NN store))
+                (PP (IN in)
+                  (NP (DT the) (NN area)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBP are)
+      (ADJP (JJ many)
+        (SBAR
+          (S
+            (NP (JJ popular) (NNS restaurants)
+              (CC and)
+              (NNS sports))
+            (VP (VBZ bars)
+              (PP (IN in)
+                (NP (DT this) (NN shopping) (NN center)))
+              (SBAR (IN so)
+                (S
+                  (NP (NN parking))
+                  (VP (MD can)
+                    (VP (VB be)
+                      (NP
+                        (NP (DT a) (NN problem))
+                        (PP (IN in)
+                          (NP (DT the) (NNS evenings)))))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (SBAR (IN if)
+      (S
+        (NP (PRP you))
+        (VP (VBP try)
+          (NP (DT the) (NNS spaces))
+          (PP (IN on)
+            (NP
+              (NP (DT the) (NN north)
+                (CC and)
+                (NN west) (NN side))
+              (PP (IN of)
+                (NP (DT the) (NN store))))))))
+    (NP (PRP you))
+    (VP (MD will)
+      (VP (VB find)
+        (NP
+          (NP (RB plenty))
+          (PP (IN of)
+            (NP (NNS spots))))
+        (SBAR (IN since)
+          (S
+            (NP (DT those))
+            (VP (VBP are)
+              (VP (VBN marked)
+                (PP (IN for)
+                  (NP (NNP Walgreens) (NNS customers)))
+                (ADVP (RB only))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (JJ Huge) (NN selection))
+        (, ,)
+        (NP (JJ friendly) (NNS employees))
+        (, ,)
+        (NP (JJ great) (NN holiday) (NNS items))
+        (, ,)
+        (NP
+          (NP (NNS lots))
+          (PP (IN of)
+            (NP (NNS coupons))))
+        (CC and)
+        (NP (JJ special) (NNS deals)))
+      (, ,)
+      (NP (NNP Walgreens)))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJ go-to) (NN store))
+        (PP (IN for)
+          (NP
+            (NP (NN middle))
+            (PP (IN of)
+              (NP
+                (NP
+                  (NP (DT the) (NN night))
+                  (NP (JJ cold) (NNS medications)))
+                (CC and)
+                (NP
+                  (NP (DT the) (JJ random) (NN gallon))
+                  (PP (IN of)
+                    (NP
+                      (NP (NN milk))
+                      (CC and)
+                      (NP (DT some) (NN bread)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP are)
+      (ADVP (RB consistently))
+      (NP (DT a) (CD 4) (NN star) (NN store)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBZ is)
+        (ADVP (RB pretty) (RB much))
+        (NP
+          (NP (DT a) (NNPS Walgreens))
+          (PP (IN on)
+            (NP (DT every) (NN street) (NN corner))))))
+    (CC and)
+    (S
+      (NP (DT this) (NN one))
+      (VP (VBZ is)
+        (ADJP (RB no) (JJ different)
+          (PP (IN from)
+            (NP (DT the) (NNS others))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Staff))
+    (VP
+      (VP (VBZ is)
+        (ADJP (JJ friendly)))
+      (CC and)
+      (VP (VBP are)
+        (ADVP (RB usually))
+        (ADJP (JJ willing)
+          (S
+            (VP (TO to)
+              (VP (VB help)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN pharmacist) (NN Muna) (, ,))
+    (VP (VBZ is)
+      (ADJP (RB extremely) (JJ helpful))
+      (SBAR (IN if)
+        (S
+          (NP (PRP you))
+          (VP (VBP need)
+            (NP
+              (NP (DT any) (NN health))
+              (CC or)
+              (NP (JJ medical) (NN assistance)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Overall))
+    (, ,)
+    (NP (PRP$ its) (NNS Walgreens))
+    (ADVP (RB however))
+    (PRN (, ,)
+      (S
+        (NP (EX there))
+        (VP (VBZ is) (RB n't)
+          (NP (DT a) (NN redbox))))
+      (, ,))
+    (NP (WDT which))
+    (VP (VBZ is)
+      (ADJP (JJ inconvenient)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP (DT a) (JJ super-nice) (NN location)))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN layout))
+      (VP (VBZ is)
+        (ADJP (JJ excellent))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ is)
+        (ADJP (JJ easy)
+          (S
+            (VP (TO to)
+              (VP (VB see)
+                (PP (IN throughout)
+                  (NP
+                    (NP (DT the) (NN store))
+                    (PP (IN from)
+                      (NP (DT the) (NN door)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBP are)
+      (ADVP (RB also))
+      (NP
+        (NP (JJ big) (, ,) (JJ open) (NNS aisles))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBP make)
+              (SBAR
+                (S
+                  (NP (PRP it))
+                  (VP (VBP feel)
+                    (ADJP (JJ comfortable)
+                      (S
+                        (VP (TO to)
+                          (VP (VB shop)
+                            (ADVP (RB there))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (ADVP (RB also))
+    (VP (VBP have)
+      (S
+        (VP (TO to)
+          (VP (VB love)
+            (NP (DT the) (NNS sales))
+            (SBAR (IN that)
+              (S
+                (NP (NNP Walgreens))
+                (VP (VBZ has)
+                  (VP
+                    (PP (IN on)
+                      (NP (NNS medications)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB always))
+    (VP (VBP have)
+      (NP
+        (NP (JJ good) (NNS deals))
+        (CC and)
+        (NP
+          (NP (DT a) (JJ solid) (NN selection))
+          (PP (IN of)
+            (NP (NNS generics))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Overall)
+      (NP (DT a)
+        (ADJP (RB very) (JJ good))
+        (NN experience)))))
+
+

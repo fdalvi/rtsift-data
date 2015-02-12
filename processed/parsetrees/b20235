@@ -1,0 +1,618 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP Nelson) (POS 's))
+        (NNP Monument))
+      (, ,)
+      (VP (VBN located)
+        (PP (IN on)
+          (NP
+            (NP (DT the) (NN top))
+            (PP (IN of)
+              (NP (NNP Carlton) (NNP Hill))))))
+      (, ,))
+    (VP (VBZ is)
+      (PP (IN in)
+        (NP
+          (NP
+            (NP (NN honour))
+            (PP (IN of)
+              (PRN (-LRB- -LRB-)
+                (S
+                  (NP (PRP you))
+                  (VP (VBD guessed)
+                    (NP (PRP it))))
+                (-RRB- -RRB-))
+              (NP (NNP Admiral) (NNP Nelson))))
+          (, ,) (RB hence)
+          (NP
+            (NP (PRP$ its)
+              (ADJP (RB quite) (JJ clever))
+              (NN design))
+            (PP (IN as)
+              (NP (DT an) (JJ upside-down) (NN telescope)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (VP (VBN built)
+        (PP (IN in)
+          (NP (DT the) (JJ early) (CD 1800)))
+        (PP (IN at)
+          (NP
+            (NP (DT a) (NN time))
+            (PP (IN of)
+              (NP
+                (NP (JJ new) (NN prosperity))
+                (PP (IN for)
+                  (NP (NNP Edinburgh)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (IN On) (JJ top))
+      (PP (IN of)
+        (NP (DT the) (NN monument))))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN time) (NN ball))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP
+              (VP (VBZ is)
+                (VP (VBN lowered)
+                  (CC and)
+                  (VBN raised)))
+              (CC and)
+              (VP (VBZ acts)
+                (SBAR (IN as)
+                  (S
+                    (NP (DT a) (NN time))
+                    (VP (VBP signal)
+                      (ADVP (RB initially))
+                      (PP
+                        (PP (IN for)
+                          (NP
+                            (NP (DT the) (NNS ships))
+                            (PP (IN in)
+                              (NP (NNP Leith)))))
+                        (CC and)
+                        (PP (IN in)
+                          (NP (DT the) (NNP Forth)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Nowadays))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (VP (VBN linked)
+        (S
+          (NP (NN time))
+          (ADJP (JJ wise)
+            (PP (TO to)
+              (NP
+                (NP (DT the) (CD One) (NNP O'Clock) (NNP Gun))
+                (PP (IN at)
+                  (NP (NNP Edinburgh) (NN castle)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB actually))
+    (VP
+      (VP (VBD went)
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NN top))
+            (PP (IN on)
+              (NP (DT a) (JJ doors-open) (NN day)))
+            (NP (CD one) (NN year)))))
+      (CC and)
+      (VP (VBD was)
+        (VP (VBN blown)
+          (PRT (RP away))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (CD 360) (NN degree) (NN view))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (NN City)
+                    (CC and)
+                    (NN port))
+                  (PP (IN of)
+                    (NP (NNP Leith)))))))
+          (: -)
+          (ADVP (RB definitely))
+          (PP (IN worth)
+            (NP (PRP it)))))
+      (SBAR (IN as)
+        (S
+          (NP (PRP you))
+          (VP (MD can)
+            (VP (VB see)
+              (PP (IN for)
+                (NP (NNS miles))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (ADVP (RB However))
+    (, ,)
+    (SBAR (RB even) (IN if)
+      (S
+        (NP (PRP you))
+        (VP (VBP do) (RB n't)
+          (VP (VB flog)
+            (NP (PDT all) (DT the) (NN way))
+            (PP (TO to)
+              (NP (DT the) (NN top)))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (ADJP (RB well) (JJ worth))
+      (S
+        (VP (VBG heading)
+          (PRT (RP up))
+          (NP (NNP Carlton) (NNP Hill))
+          (S
+            (VP (TO to)
+              (VP
+                (VP (VB see)
+                  (NP (PRP it)))
+                (PRN (-LRB- -LRB-)
+                  (S (CC and)
+                    (NP (PRP it))
+                    (VP (VBZ 's)
+                      (VP (VBG neighbouring)
+                        (NP (NNS monuments)))))
+                  (-RRB- -RRB-))
+                (CC and)
+                (VP (VB admire)
+                  (NP (NNP Edinburgh))
+                  (ADVP (RB below)))))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Nelsons) (NNP Monument))
+      (VP (VBZ rises)
+        (PRT (RP out))
+        (PP (IN of)
+          (NP
+            (NP (NNP Calton) (NNP Hill))
+            (PP (IN like)
+              (NP
+                (NP (NN something))
+                (PP (RB out) (IN of)
+                  (NP (DT the) (JJ deep)))))))))
+    (: -) (RB so)
+    (S
+      (NP (PRP$ its)
+        (ADJP (JJ safe)
+          (S
+            (VP (TO to)
+              (VP (VB assume)
+                (SBAR
+                  (S
+                    (NP (NNP Lord) (NNP Nelson))
+                    (VP (MD would)
+                      (VP (VB have)
+                        (NP (NN m))))))))))
+        (NN ost) (RB probably))
+      (VP (VBD liked)
+        (S
+          (NP (DT this) (NN monument))
+          (NP (PRP himself)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN monument))
+    (VP (VBZ is)
+      (UCP
+        (ADJP (JJ spectacular))
+        (: -)
+        (NP
+          (NP (DT the) (NN coloumn))
+          (SBAR
+            (S
+              (NP (PRP itself))
+              (VP (VBZ is)
+                (VP
+                  (ADVP
+                    (NP (DT a) (NN upside))
+                    (RB down))
+                  (VBN telescope) (-LRB- -LRB-)
+                  (NP (RB very) (JJ neat)))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP -RRB-))
+      (CC and)
+      (NP
+        (NP (RB on) (JJ top))
+        (PP (IN of)
+          (NP (DT the) (NN plinth)))))
+    (VP (VBZ stands)
+      (NP
+        (NP (NNP Nelson) (NNP himself))
+        (: -)
+        (NP (PRP$ its)
+          (QP (JJR more) (IN than) (CD impressive)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VB Get)
+        (ADVP (RB right) (RB up) (JJ close))
+        (PP (TO to)
+          (NP (PRP it)))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (MD will)
+        (VP (VB take)
+          (NP (PRP$ your) (NN breath))
+          (ADVP (RB away)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (NNS views))
+        (PP (IN from)
+          (NP (DT the) (NN top))))
+      (VP (MD must)
+        (VP (VB be)
+          (ADJP (JJ spectacular)))))
+    (, ,)
+    (CC but)
+    (S
+      (SBAR (IN as)
+        (S
+          (NP (PRP you))
+          (VP (MD can)
+            (VP (VB get)
+              (PRT (RP up))
+              (ADVP (RB there))))))
+      (S
+        (NP (PRP you))
+        (VP (MD 'll)
+          (VP (VB have)
+            (S
+              (VP (TO to)
+                (VP (VB make)
+                  (VP (VB do)
+                    (PP (IN with)
+                      (NP (DT the) (NNS views)))
+                    (ADVP (RB down)
+                      (PP (IN at)
+                        (NP (DT the) (NN bottom)))))))))))
+      (: -)
+      (CC but)
+      (S
+        (S
+          (VP (VBG saying)
+            (SBAR (IN as)
+              (S
+                (NP (PRP you))
+                (VP (VBP are)
+                  (PP (IN on)
+                    (NP (NNP Calton) (NNP Hill))))))))
+        (, ,)
+        (NP (PRP they))
+        (VP (VBP are)
+          (ADVP (RB still))
+          (ADJP (JJ special)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP Worth))
+        (NP (DT a) (NN visit)))
+      (PRN (: -)
+        (SBAR (RB even) (IN if)
+          (S
+            (NP (PRP it))
+            (VP (VBZ is)
+              (SBAR (RB only) (RB just) (IN so)
+                (S
+                  (NP (PRP you))
+                  (VP (MD can)
+                    (VP (VB say)
+                      (NP (PRP you)))))))))))
+    (VP (VBP have)
+      (VP (VBN been)
+        (ADVP (RB there))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 'm)
+        (VP (VBG going)
+          (S
+            (VP (TO to)
+              (VP (VB keep)
+                (NP (DT this) (NN simple))))))))
+    (: -)
+    (S
+      (SBAR (IN if)
+        (S
+          (NP (PRP you))
+          (VP (VBP 're)
+            (UCP
+              (PP (IN in)
+                (NP (NNP Edinburgh)))
+              (CC and)
+              (S
+                (VP
+                  (VP (VBN done)
+                    (NP (PDT all) (DT the) (JJ touristy) (NN stuff)))
+                  (CC and)
+                  (VP (VBG looking)
+                    (PP (IN for)
+                      (NP
+                        (NP (DT that) (`` `) (JJ oh) (NN wow) ('' '))
+                        (: ...)
+                        (NP (DT the) (JJ x) (NN factor))
+                        (: ...)
+                        (NP (DT that) (NN something) (NN special)))))))))))
+      (, ,)
+      (ADVP (RB then))
+      (VP
+        (VP (VB make)
+          (NP (PRP$ your) (NN way))
+          (PP (TO to)
+            (NP (NNP Calton) (NNP Hill))))
+        (CC and)
+        (VP (VB get)
+          (VP (VBN involved)
+            (PP (IN in)
+              (NP (DT the) (NNP Nelson) (NNP Monument)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD ca) (RB n't)
+      (ADVP (RB really))
+      (VP (VB say)
+        (ADVP
+          (ADVP (RB much) (RBR more))
+          (SBAR (IN as)
+            (S
+              (NP (PRP it))
+              (VP
+                (VP (VBZ 's) (RB all)
+                  (VP (VBN been)
+                    (VP (VBN said)
+                      (PP (IN before)
+                        (NP (PRP me))))))
+                (: ...)
+                (CC but)
+                (VP (VBP wow))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB just))
+    (VP (VB wow))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VBG Honouring)
+      (NP (NNP Nelson)))
+    (: ...)))
+
+(ROOT
+  (NP
+    (NP
+      (NP (NN Looming))
+      (PP (IN over)
+        (NP (DT the) (NN city))))
+    (: ...)
+    (NP
+      (NP (DT A) (JJ great) (NN view))
+      (PP (IN at)
+        (NP (NN dusk))))
+    (. !)))
+
+
+(ROOT
+  (INTJ (UH Yes) (. !)))
+
+(ROOT
+  (S
+    (VP (VB Go)
+      (ADJP (RB here) (JJ !!!)))))
+
+(ROOT
+  (S
+    (S
+      (ADJP (JJ Free)
+        (S
+          (VP (TO to)
+            (VP (VB enter)
+              (UCP
+                (NP (JJ Calton) (NN hill))
+                (CC but)
+                (S
+                  (VP (TO to)
+                    (VP (VB climb)
+                      (NP (DT the) (NN monument)))))))))))
+    (NP (PRP you))
+    (VP (MD will)
+      (VP (VB have)
+        (S
+          (VP (TO to)
+            (VP (VB drop)
+              (NP
+                (QP (# #) (CD 4))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (VBP get)
+      (S
+        (NP (DT a) (NN certificate))
+        (VP (VBG stating)
+          (SBAR
+            (S
+              (NP (PRP you))
+              (VP (VBD climbed)
+                (NP
+                  (NP (DT all))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (NNS stairs))
+                      (CC and)
+                      (NP (JJ such)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ provides)
+      (NP
+        (NP (DT an) (JJ awesome) (NN view))
+        (PP (IN of)
+          (NP (NN edi)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD enjoyed)
+      (NP (DT this) (NN one))
+      (ADVP
+        (ADVP (RB as) (RB much))
+        (SBAR (IN as)
+          (S
+            (NP (PRP I))
+            (VP (VBD enjoyed)
+              (NP
+                (NP (NNP Scott) (POS 's))
+                (NN Monument)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP
+          (ADJP (RB Very) (JJ friendly))
+          (NN woman))
+        (PP (IN at)
+          (NP (NN desk))))
+      (CC and)
+      (NP
+        (NP (DT the) (JJ little) (NN museum))
+        (PP (IN at)
+          (NP (DT the) (NN bottom)))))
+    (VP (VBD was)
+      (ADJP (RB pretty) (JJ interesting))
+      (S
+        (VP (VBG giving)
+          (NP
+            (NP (DT the) (NN history))
+            (PP (IN of)
+              (NP (NNP Nelsons) (NN monument)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VP (VB Go)
+        (PP (TO to)
+          (NP (NNP Calton) (NN hill))))
+      (CC or)
+      (VP (VB watch)
+        (PP (IN from)
+          (NP (JJ princes) (NN street)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN At)
+      (NP (CD 12.50-12) (CD .55) (NNS p)))
+    (NP (DT the) (NN ball))
+    (VP
+      (VP (VBZ raises)
+        (PP (TO to)
+          (NP (DT the) (NN top))))
+      (CC and)
+      (VP (VBZ drops)
+        (PP (IN at)
+          (NP (CD 1p)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (VP (VBN designed)
+        (PP (IN for)
+          (NP
+            (NP (DT the) (NNS men))
+            (PP (IN on)
+              (NP (DT the) (NNS ships)))))
+        (S
+          (VP (TO to)
+            (VP (VB see)
+              (NP (NN time))
+              (SBAR (IN since)
+                (S
+                  (NP (PRP it))
+                  (VP (VBD traveled)
+                    (ADVP (RBR faster))
+                    (PP (IN than)
+                      (NP
+                        (NP (DT the) (NN speed))
+                        (PP (IN of)
+                          (NP (NN sound)))))
+                    (PRN (-LRB- -LRB-)
+                      (NP (DT the) (NN castle) (NN canon))
+                      (-RRB- -RRB-))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Very)
+      (S
+        (ADJP (JJ interesting)
+          (CC and)
+          (JJ worth))
+        (NP (PRP it))))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VB Bring)
+      (NP (NN camera)
+        (CC and)
+        (NN walking))
+      (NP (NNS shoes)))
+    (. .)))
+
+

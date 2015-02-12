@@ -1,0 +1,199 @@
+(ROOT
+  (S
+    (NP (NNP Friendly) (NN staff))
+    (, ,)
+    (VP (VBD did) (RB n't)
+      (VP (VB have)
+        (S
+          (VP (TO to)
+            (VP (VB wait)
+              (ADVP (RB long))
+              (PP (IN for)
+                (NP
+                  (NP (DT a) (NN table))
+                  (PRN (-LRB- -LRB-)
+                    (ADJP (JJ busy)
+                      (NP (NNP Saturday) (CD evening)))
+                    (-RRB- -RRB-)))))))
+        (SBAR (IN although)
+          (S
+            (NP (JJ later) (NNS arrivals))
+            (VP (VBD were)
+              (VP (VBG having)
+                (S
+                  (VP (TO to)
+                    (VP (VB wait)
+                      (PRT (RP up))
+                      (PP (TO to)
+                        (NP (CD 20) (NNS minutes))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Drinks) (NN order))
+      (VP (VBN taken)
+        (ADVP
+          (ADVP (RB as) (RB soon))
+          (SBAR (IN as)
+            (S
+              (NP (PRP we))
+              (VP (VBD sat)
+                (PRT (RP down))
+                (, ,)
+                (S
+                  (VP (VB prompt)
+                    (NP (VB service))
+                    (: ...)
+                    (ADVP (RB but) (RB not))))))))))
+    (VP (VBD rushed)
+      (S
+        (VP (TO to)
+          (VP (VB order)
+            (ADVP (RB quickly))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT Both))
+    (VP (VBD had)
+      (NP (DT the) (JJ 7oz) (NNP Balmoral) (NNP Sirloin) (NN steak))
+      (, ,)
+      (ADVP (RB perfectly))
+      (VP (VBN cooked)
+        (PP (TO to)
+          (NP
+            (NP (NN order))
+            (PRN (-LRB- -LRB-)
+              (ADJP (JJ rare))
+              (-RRB- -RRB-))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Slightly)
+      (NP
+        (ADJP
+          (ADJP (RB too) (RB much) (JJ haggis)
+            (PP (IN for)
+              (NP
+                (NP (DT the) (NN size))
+                (PP (IN of)
+                  (NP (NN steak))))))
+          (CC but)
+          (ADJP (RB otherwise) (JJ good)))
+        (NN portion) (NNS sizes)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN trio))
+      (PP (IN of)
+        (NP
+          (NP (NNS desserts))
+          (PP (IN on)
+            (NP (DT a) (JJ wooden) (NN board))))))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ nice) (NN touch))
+        (, ,)
+        (NP
+          (NP (DT a) (NN choice))
+          (PP (IN of)
+            (NP (CD six)))
+          (S
+            (VP (TO to)
+              (VP (VB choose)
+                (PP (IN from))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Handy))
+    (VP
+      (VP (VBD location)
+        (SBAR (IN if)
+          (S
+            (NP (PRP you))
+            (VP (VBP are)
+              (VP (VBG driving)
+                (PP (TO to)
+                  (NP (DT the) (NNP Queen) (NNP Margaret) (NNP University) (NN campus)))
+                (PP (IN from)
+                  (NP (DT the) (NN south))))))))
+      (CC and)
+      (VP (VBP are)
+        (VP (VBG looking)
+          (PP (IN for)
+            (NP (NN lunch))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Good) (NN food))
+      (, ,)
+      (NP
+        (NP (NN menu))
+        (NP (JJR more))))
+    (VP (VBZ adventurous)
+      (PP (IN than)
+        (NP (JJ typical) (NN pub) (NN grub))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Let)
+      (PRT (RP down))
+      (PP (IN by)
+        (NP (JJ sluggish) (NN service))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD sat)
+      (PP (IN for)
+        (NP (NNS ages)))
+      (PP (IN with)
+        (NP
+          (NP
+            (NP
+              (NP (NN table))
+              (VP (VBN littered)
+                (PP (IN with)
+                  (NP (JJ finished) (NNS plates)))
+                (, ,)
+                (S
+                  (VP (VBG waiting)
+                    (SBAR
+                      (S
+                        (NP (NN staff))
+                        (VP (VBD were)
+                          (ADJP (JJ oblivious)))))))))
+            (PRN (-LRB- -LRB-)
+              (S
+                (NP (PRP it))
+                (VP (VBD was)
+                  (NP (DT a) (JJ quiet) (NNP Sunday))))
+              (-RRB- -RRB-)))
+          (, ,)
+          (NP (RB hence) (DT the) (JJ average) (NN rating)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (DT the) (NN service))
+        (VP (VBD was)
+          (NP (DT a) (JJ little) (NN snappier)))))
+    (NP (PRP it))
+    (VP (MD would)
+      (VP (VB be)
+        (NP (CD four) (NNS stars))))
+    (. .)))
+
+

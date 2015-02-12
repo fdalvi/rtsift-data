@@ -1,0 +1,87 @@
+(ROOT
+  (S
+    (NP (NNP Wide))
+    (VP (VBP range)
+      (PP (IN of)
+        (NP
+          (NP (NN reading) (NN material))
+          (PP (IN for)
+            (NP (DT all) (NNS ages)))))
+      (SBAR (IN as)
+        (S
+          (NP (PRP you))
+          (VP (MD 'd)
+            (VP (VB expect))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNS Lots))
+    (PP (IN of)
+      (NP (NNS periodicals)))
+    (S
+      (VP (TO to)
+        (VP (VB peruse))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNS CDs))
+    (ADJP (JJ available)
+      (S
+        (VP (TO to)
+          (VP (VB borrow)))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NN Internet))
+    (NP (NN access))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Regular) (NNS storytimes))
+      (PP (IN for)
+        (NP
+          (NP (NN wee) (NNS ones))
+          (CC and)
+          (NP (NNP Bookstart)))))
+    (VP (VBZ rhymetimes)
+      (PP (IN for)
+        (NP
+          (ADJP (RB very) (JJ wee))
+          (NNS ones))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Friendly))
+    (, ,)
+    (NP (JJ helpful) (NN staff))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VB Nice)
+      (NP
+        (NP (NN selection))
+        (PP (IN of)
+          (NP
+            (NP (NNS books))
+            (CC and)
+            (NP (DT an) (JJ awsome) (JJ local) (NN history) (NN section))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Helpful) (NN staff))
+    (VP (VBP know)
+      (NP (PRP$ their) (NN way))
+      (PP (IN around)
+        (NP (DT the) (NNS stacks))))
+    (. .)))
+
+

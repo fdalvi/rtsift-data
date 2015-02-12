@@ -1,0 +1,370 @@
+(ROOT
+  (S
+    (S
+      (NP (DT This) (NN business))
+      (VP (VBZ is) (RB not)
+        (NP (DT a) (NN place))
+        (SBAR (IN that)
+          (S
+            (NP (PRP I))
+            (VP (MD would)
+              (VP (VB return)
+                (ADVP (RB too))))))))
+    (: -)
+    (S
+      (NP (PRP They))
+      (VP (VBP do)
+        (NP
+          (NP (DT a) (NN coupon))
+          (PP (IN on)
+            (NP
+              (NP (DT the) (NNP Fry) (POS 's))
+              (NNS receipts))))
+        (: -)
+        (NP (JJ good) (NN idea))))
+    (: -)
+    (CC but)
+    (S
+      (S
+        (ADVP (RB then)))
+      (NP (PRP they))
+      (ADVP (RB only))
+      (VP (VBP have)
+        (NP
+          (NP (DT a) (NNP FEW) (NNS shirts))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBP qualify)
+                (PP (IN for)
+                  (NP (DT the) (NN coupon)))))))))
+    (CC and)
+    (S
+      (NP
+        (NP (DT the) (NNS prices))
+        (PP (IN for)
+          (NP (DT a) (JJ normal) (NN item))))
+      (VP (VBP are)
+        (NP (NNP HIGH) (NNP !!))))))
+
+(ROOT
+  (NP
+    (NP ($ $) (CD 10.00))
+    (PP (IN for)
+      (NP
+        (NP (DT a)
+          (ADJP (RB simply)
+            (NP (NN summer)))
+          (NN dress))
+        (, ,)
+        (NP
+          (NP ($ $) (CD 4.90))
+          (PP (IN for)
+            (NP
+              (NP (DT a) (NNS womens) (POS '))
+              (NNP BLOUSE) (NNP ??))))))))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB When))
+    (SQ
+      (NP (FW i))
+      (VP (VBD asked)
+        (PP (IN about)
+          (NP
+            (NP (DT the) (NN dress))
+            (SBAR
+              (S
+                (NP (PRP it))
+                (VP (VBD was)
+                  (SBAR (IN because)
+                    (S
+                      (NP (PRP it))
+                      (VP (VBD was)
+                        (VP (VBG LONG))))))))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBP are)
+      (NP
+        (NP (JJ other) (NNS cleaners))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN area))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBP are)
+                  (NP
+                    (NP (JJ overall) (NN fair))
+                    (VP
+                      (VP (VBN priced))
+                      (CC and)
+                      (VP (VBP do) (RB not)
+                        (VP (VB do)
+                          (NP (DT this) (`` ``) (JJ bait)
+                            (CC and)
+                            (NN switch) ('' '') (NN tactic))
+                          (SBAR (IN that)
+                            (S
+                              (NP (FW i))
+                              (VP (VBP feel)
+                                (SBAR
+                                  (S
+                                    (NP (DT this) (NN place))
+                                    (VP (VBZ does))))))))))))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (NNS Coupons))
+    (VP (MD should)
+      (VP (VB be)
+        (NP
+          (NP (DT an) (NN opportunity))
+          (PP (IN for)
+            (NP (DT a) (NN place)
+              (S
+                (VP (TO to)
+                  (VP
+                    (VP (VB GET)
+                      (NP (JJ new) (NN business)))
+                    (CC and)
+                    (VP (VB keep)
+                      (NP (PRP them))
+                      (: -)
+                      (S (RB not)
+                        (VP (VB make)
+                          (SBAR
+                            (S
+                              (NP (PRP them))
+                              (VP (VBP say)
+                                (NP (DT no) (NNS thanks))))))))))))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBZ is)
+      (ADVP (NN way))
+      (ADJP (RB too) (JJ expensive)
+        (PP (IN for)
+          (ADJP (JJ dry))))
+      (S
+        (VP (VBG cleaning)
+          (PP (IN in)
+            (NP (NNP Phoenix))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (ADVP (RB also))
+      (VP (VBP live)
+        (PP (IN in)
+          (NP (NNP Los) (NNP Angeles)))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP do) (RB n't)
+        (ADVP (RB even))
+        (VP (VB pay)
+          (NP (DT these) (NNS prices))
+          (ADVP (RB there)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Dry) (NN cleaning) (NNS services))
+      (VP (VBP are)
+        (ADJP (RB pretty) (JJ standard)
+          (PP (IN from)
+            (NP (NN location))))
+        (PP (TO to)
+          (NP (NN location)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP they))
+      (VP (VBP seem)
+        (S
+          (VP (TO to)
+            (VP (VB think)
+              (SBAR
+                (S
+                  (NP (PRP they))
+                  (VP (MD can)
+                    (VP (VB charge)
+                      (NP (JJ outrageous) (NNS prices))
+                      (PP (IN for)
+                        (NP (PRP$ their) (NNS services))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP are)
+        (ADJP (NN nothing) (JJ special))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (MD wo) (RB n't)
+        (VP (VB be)
+          (ADVP
+            (ADVP (RB back) (RB again))
+            (SBAR (IN until)
+              (S
+                (NP (PRP they))
+                (VP (VB lower)
+                  (NP (PRP$ their) (NNS prices)))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VB Do) (RB not)
+      (VP (VB use)
+        (NP (DT this) (JJ dry) (NNS cleaners))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP do) (RB not)
+      (VP (VB accept)
+        (NP
+          (NP (NN responsibility))
+          (PP (IN for)
+            (NP (NN damage))))
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NNS garments))
+            (ADJP (RB iothey) (JJ clean))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NN husband))
+    (VP (VBD took)
+      (NP
+        (NP (DT a) (NN shirt))
+        (SBAR
+          (WHPP (IN in)
+            (WHNP (WDT that)))
+          (S
+            (NP (PRP he))
+            (VP (VBD picked)
+              (PRT (RP up))
+              (NP (DT the) (NN day))
+              (ADVP (RB before)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD had)
+      (NP
+        (NP (DT a) (JJ huge) (NN rip))
+        (ADVP (RB down)
+          (NP (CD one)))
+        (PP (IN of)
+          (NP (DT the) (NNS sleeves)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN response))
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBD received)))))
+    (VP (VBD was)
+      (S (`` ``)
+        (NP (PRP it))
+        (VP (VBZ happens))
+        ('' '')))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (DT A)
+      (ADJP ($ $) (CD 70))
+      (NN shirt))
+    (ADJP (VBN ruined))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBD was)
+        (NP (DT no) (NN apology))))
+    (: -)
+    (S
+      (ADVP (RB instead))
+      (NP (PRP he))
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBD was)
+              (NP (DT a) (`` ``) (JJ used) ('' '') (NN shirt)))))))
+    (. .)))
+
+(ROOT
+  (SQ (VBD Are) (RB n't)
+    (NP
+      (NP (DT the) (NNS clothes))
+      (SBAR
+        (S
+          (NP (PRP we))
+          (VP (VBP take)
+            (PP (TO to)
+              (NP (DT the) (JJ dry) (NNS cleaners)))
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (VP (VBN cleaned)
+                    (S (`` ``)
+                      (ADJP (VBN used))
+                      ('' ''))))))))))
+    (NP (NN clothing))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (WHNP (WDT What))
+    (PP (FW a)
+      (NP (JJ ridiculous) (NN remark)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Luckily))
+    (NP (PRP we))
+    (VP (VBP have)
+      (NP
+        (NP (JJ other) (NNS choices))
+        (PP (IN for)
+          (NP
+            (NP (JJ dry) (NN cleaning))
+            (PP (IN in)
+              (NP (NNP Anthem))))))
+      (SBAR (IN because)
+        (S
+          (NP (PRP we))
+          (VP (MD will) (RB not)
+            (VP (VB be)
+              (VP (VBG returning)
+                (PP (TO to)
+                  (NP (PRP$ My) (NNS Cleaners)))))))))
+    (. .)))
+
+

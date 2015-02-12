@@ -1,0 +1,60 @@
+(ROOT
+  (S
+    (VP (VB FAST)
+      (NP (NN delivery))
+      (ADVP (RB always)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Super) (NNP impressed))
+    (VP (VBP cause)
+      (SBAR
+        (S
+          (NP (PRP we))
+          (VP (VBP 're)
+            (ADVP (RB probably))
+            (PP (IN on)
+              (NP
+                (NP (DT the) (NNS outskirts))
+                (PP (IN of)
+                  (NP (PRP$ their) (NN delivery) (NN area)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Keep)
+      (NP (PRP it))
+      (PRT (RP up)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (JJ Great) (NN location))
+      (, ,)
+      (NP (NNS employees))
+      (VP (VBP have)
+        (ADVP (RB always))
+        (VP (VBN been)
+          (ADJP (RB super) (JJ helpful)
+            (CC and)
+            (JJ friendly)))))
+    (PRN (, ,)
+      (S
+        (NP (PRP$ my) (NN pizza))
+        (VP (VBZ is)
+          (ADVP (RB always))
+          (VP (VBN cooked)
+            (ADVP (RB perfectly)))))
+      (, ,))
+    (CC and)
+    (S
+      (NP (NN delivery))
+      (VP (VBZ is)
+        (ADVP (RB always))
+        (ADJP (RB really) (JJ fast))))
+    (. !)))
+
+

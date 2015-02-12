@@ -1,0 +1,101 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB only))
+    (VP (VBP use)
+      (NP
+        (NP (DT this) (NN branch) (POS 's))
+        (JJ drive-thru) (NN ATM)))
+    (. .)))
+
+(ROOT
+  (X
+    (ADVP (RB Good)
+      (CC and)
+      (RB fast))
+    (, ,)
+    (NP
+      (NP
+        (ADJP (RB very) (JJ bright))
+        (NN area))
+      (PP (IN during)
+        (NP (NN night) (NN time) (NNS hours))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP (RB Very) (JJ safe))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (PP (IN Near)
+      (NP
+        (NP (NN SR-51)
+          (CC and)
+          (NN Loop-101))
+        (PP (IN in)
+          (NP (DT the)
+            (ADJP (NNP Northeast) (NNP Phoenix))
+            (NN neighborhood)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (VP (VB Nice) (, ,) (VB clean) (, ,)
+        (ADVP (RB fast))))
+    (, ,)
+    (CC and)
+    (ADVP (RB always))
+    (S
+      (VP (VBG pleasant)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VB Have)
+        (VP (VBN been)
+          (VP (VBG using)
+            (NP
+              (NP (DT this) (NN branch))
+              (PP (IN for)
+                (NP (NNS years))))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (MD ca) (RB n't)
+        (VP (VB think)
+          (PP (IN of)
+            (NP (DT a) (JJ single) (NN negative))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN drive))
+        (PP (IN through)
+          (NP (NNP ATM))))
+      (VP (VBZ is) (RB not)
+        (ADJP (JJ great)
+          (PP (IN for)
+            (S
+              (VP (VBG depositing)
+                (NP (NNS checks))))))))
+    (CC but)
+    (S
+      (NP (DT that))
+      (VP (VBZ serves)
+        (S
+          (NP (PRP me))
+          (ADJP (JJ right)
+            (PP (IN for)
+              (S
+                (VP (VBG being)
+                  (ADJP (JJ lazy)))))))))
+    (. .)))
+
+

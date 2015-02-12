@@ -1,0 +1,113 @@
+(ROOT
+  (S
+    (PP (IN After)
+      (NP
+        (NP (DT a) (JJ horrible) (NN experience))
+        (PP (IN at)
+          (NP (NNP Metro) (NNP PCS)))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD went)
+      (PP (IN through)
+        (NP (DT the) (NN drive)))
+      (PP (IN through))
+      (S
+        (VP (TO to)
+          (VP (VB get)
+            (NP (DT some) (NN lunch))
+            (PP (IN on)
+              (NP (DT the) (NN fly)))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (CD 5) (NNS stars))
+    (PP (IN for)
+      (NP
+        (NP (DT the)
+          (ADJP (JJ cheerful)
+            (CC and)
+            (JJ efficient))
+          (NN gal))
+        (PP (IN at)
+          (NP (DT the) (NN drive)))))
+    (PP (IN thru)
+      (NP (NN window)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN food))
+    (VP (VBZ is)
+      (ADVP (RB always))
+      (ADJP (RB consistently) (JJ good)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT The) (NN food))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (JJ delicious))
+        (CC and)
+        (ADJP (RB tasted) (RB very) (JJ fresh)))
+      (S
+        (VP (VBG considering)
+          (SBAR
+            (S
+              (NP (PRP it))
+              (VP (VBD was)
+                (PP (IN after)
+                  (NP (NN lunch) (NN time)))))))))))
+
+
+(ROOT
+  (S
+    (NP (PRP$ My) (JJ orange) (NN chicken))
+    (VP (VBD was)
+      (ADJP (JJ dry))
+      (SBAR (IN like)
+        (S
+          (NP (PRP it))
+          (VP (VBD had)
+            (VP (VBN been)
+              (VP (VBG sitting)
+                (ADVP (RB there))
+                (PP (IN for)
+                  (NP (DT a) (NN while)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NNS noodles))
+    (VP (VBD were)
+      (ADJP (RB almost) (JJ cold)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Never))
+    (VP (VBG going)
+      (ADVP (RB back)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Yuck))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP wish)
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBD had)
+            (VP (VBN gone)
+              (S
+                (VP (TO to)
+                  (VP (VB firehouse)
+                    (NP (NNS subs))
+                    (ADVP (RB instead))))))))))
+    (. .)))
+
+

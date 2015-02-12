@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (NP (DT the) (JJR worse) (NN place) (NN I))
+    (VP (VBP have)
+      (ADVP (RB ever))
+      (VP (VBN been)
+        (PP (TO to))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (VP (VBN located)
+        (PP (IN inside)
+          (NP (DT a) (NN run)))
+        (PP (IN down)
+          (NP (NN gas) (NN station)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN place))
+    (VP (VBZ has)
+      (NP
+        (NP (DT a) (NN feel))
+        (PP (IN of)
+          (NP (NNP Texas) (NN chainsaw) (NN massacre)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Inside))
+    (, ,)
+    (NP (DT the) (NN place))
+    (VP (VBD was)
+      (ADJP (RB equally) (JJ horrific))
+      (PP (IN as)
+        (NP (DT the) (NN outside))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (NP
+        (NP (DT no) (NN way))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (MD would)
+              (VP (VB send)
+                (NP (PRP$ my) (NN dog))
+                (ADVP (RB there) (RB ever) (RB again))))))))
+    (. .)))
+
+

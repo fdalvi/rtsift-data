@@ -1,0 +1,153 @@
+(ROOT
+  (S
+    (NP (NNP SUPER))
+    (ADJP (JJ expensive))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD dropped)
+        (PRT (RP off))
+        (NP
+          (NP (CD 9) (NNS garments))
+          (PP (IN for)
+            (NP (JJ same) (NN day) (NN service))))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP do) (RB n't)
+      (VP (VB have)
+        (VP (VBN set)
+          (NP
+            (NP (NNS prices))
+            (PP (IN per)
+              (NP (NN garment))))
+          (SBAR (IN so)
+            (S
+              (NP (FW i))
+              (VP (VBD did) (RB n't)
+                (VP (VB get)
+                  (NP
+                    (NP (DT a) (NN price))
+                    (PP (IN at)
+                      (NP
+                        (NP (DT the) (NN time))
+                        (PP (IN of)
+                          (NP (NN drop))))))
+                  (PRT (RP off)))))))))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (JJ much))
+    (SQ (MD could)
+      (NP (PRP it))
+      (VP (VB be)))
+    (. ?)))
+
+(ROOT
+  (S
+    (VP
+      (VP (VB Came)
+        (PRT (RP back))
+        (NP (RBR later) (DT that) (NN day))
+        (S
+          (VP (TO to)
+            (VP (VB pick)
+              (PRT (RP up))))))
+      (CC and)
+      (VP (VBD was)
+        (VP (VBN charged)
+          (NP
+            (QP ($ $) (CD 125) (CD !!!))))))))
+
+(ROOT
+  (S
+    (PP (IN For)
+      (S
+        (NP
+          (NP (CD 9) (NNS things))
+          (, ,)
+          (ADJP (JJ thats) (JJ ridiculous))
+          (, ,))
+        (VP
+          (ADVP (RB especially))
+          (VBG considering))))
+    (NP (EX there))
+    (VP (VBP are)
+      (NP
+        (NP (NNS cleaners))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (MD will)
+              (VP (VB charge)
+                (NP
+                  (NP
+                    (QP (JJR less) (IN than) ($ $) (CD 3)))
+                  (PP (IN per)
+                    (NP (NN garment))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (JJ Fast) (JJ same) (NN day) (NN service))
+        (, ,)
+        (ADVP (RB always))
+        (NP (JJ great) (NN customer)))
+      (VP (VBP care)))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (ADVP (RB always))
+      (VP (VBP remember)
+        (NP (DT the) (JJ small) (NNS details))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (ADVP (IN By) (RB far))
+    (, ,)
+    (NP
+      (NP (CD one))
+      (PP (IN of)
+        (NP (DT the)
+          (ADJP (RBS most) (JJ overpriced)))))
+    (VP (VBZ places)
+      (PP (IN in)
+        (NP (NN town))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP am) (RB not)
+      (VP (VBG making)
+        (NP (DT any) (JJ negative) (NNS comments))
+        (PP (IN about)
+          (NP
+            (NP (PRP$ their) (NN work))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (MD may)
+                  (VP (VB be)
+                    (ADJP (JJ terrific))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (ADJP (RB so) (RB far) (JJ overpriced))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ does) (RB n't)
+      (VP (VB matter)))
+    (. .)))
+
+

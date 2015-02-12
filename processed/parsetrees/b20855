@@ -1,0 +1,361 @@
+(ROOT
+  (NP (NNP Ein) (NNP absoluter) (NNP Preis-Leistungsknaller) (. !)))
+
+(ROOT
+  (S
+    (NP (NNP F?r))
+    (VP (VBP umgerechnet)
+      (SBAR
+        (S
+          (NP (CD 40) (NNP Euro) (NN f?r))
+          (VP (VBP das)
+            (S
+              (NP (NNP Doppelzimmer) (NNP f?r) (CD 2) (NNP Personen))
+              (ADJP (JJ inkl)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (CD Fr?hst?ck) (JJ pro) (NNP Nacht) (NN darf) (NN man))
+    (VP (VBP nat?rlich)
+      (NP (JJ nicht) (JJ allzuviel) (NN erwarten)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Die)
+      (NP (NNP Zimmer) (NN haben) (NN schon) (NN bessere) (NNP Tage) (NNP gesehen)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Der) (NNP Mangel))
+      (NP (DT an) (NNP Komfort) (NN macht) (NN sich)))
+    (VP (VBD entsprechend)
+      (SBAR
+        (S
+          (NP (NN auch) (NN im) (NNP Bad) (NNP und) (NN bei) (NN der) (NNP Qualit?t) (FW des) (NNP Bettes))
+          (VP (VBP bemerkbar)))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (FRAG
+      (NP (NN Wer) (NN hier) (NN zimperlich) (NN ist)))
+    (, ,)
+    (VP (VBP sollte)
+      (NP (NN besser) (NN nach)))
+    (NP (NN einer) (NN anderen) (NNP Alternative) (NNP suchen))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Das) (NNP Fr?hst?ck) (NN besteht) (NN aus) (NNP Toast) (NNP mit) (NNP Marmelade))
+    (VP (VBP und)
+      (NP (NNS Cornflakes)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Dazu))
+    (VP (VBZ gibts)
+      (NP (NNP Orangensaft) (, ,) (NNP Milch) (NNPS und) (NNP Kaffee)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP F?r) (NN eine) (NN erste) (NNP St?rkung) (NNP am) (NNP Tag))
+    (VP (VBD ausreichend))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Mehr))
+    (VP (VBP aber)
+      (NP (NN nicht)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Die)
+      (NP (NNP Lage) (FW des) (NNP Hotels) (NN ist) (NNPS super)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Zwar) (NNP befindet) (NN sich) (NN das) (NNP Hotel) (JJ nicht) (NN im) (NNP Stadtzentrum) (, ,) (NNP daf?r) (JJ h?lt) (NN ein) (NNP Bus) (JJ direkt) (NN vor) (NN der) (NNP T?r) (NNP der))
+    (VP (VBP alle)
+      (NP (CD 5) (NNP Minuten) (NNP ins) (NNP Zentrum) (NN f?hrt)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Die)
+      (NP (NNP Fahrt) (NN dauert) (NNP maximal) (CD 10) (NNP Minuten)))
+    (. .)))
+
+(ROOT
+  (SINV
+    (VP (VBG Fu?l?ufig)
+      (NP (JJ erreicht) (NN man)))
+    (VP (VBP ein)
+      (NP
+        (NP (NNP Einkaufszentrum) (NNP mit) (NNP riesigem) (NNP Supermarkt))
+        (, ,)
+        (PP (IN in)
+          (NP (DT dem) (NN man) (NN sich)))))
+    (NP (NN mit) (NN reichlich) (NNP Proviant) (NN f?r) (NN den) (NNP Tag) (NNP eindecken) (NNP kann))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Das) (NNP Personal))
+    (VP (VBP ist)
+      (NP (JJ freundlich) (NN und) (NN hilfsbereit)))
+    (. .)))
+
+(ROOT
+  (S (IN So)
+    (NP (NN war) (NN es) (NN kein) (NNP Problem) (NNP einen) (NNP Steckeradapter))
+    (VP (VBZ kostenfrei)
+      (NP (NN auszuleihen)))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP Bad))
+      (, ,)
+      (CONJP (CC but)
+        (RB not))
+      (NP (DT the) (JJS worst)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Internet))
+    (ADVP (RB only))
+    (VP (VBD worked)
+      (NP (NNS downstairs))
+      (PP (IN in)
+        (NP (DT the) (JJ common) (NN room))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Room))
+    (VP (VBD was)
+      (ADJP (JJ clean)
+        (CC and)
+        (JJ comfortable)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Breakfast))
+      (VP (VBD was)
+        (ADJP (JJ good))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBD looked)
+        (ADVP (RB forward))
+        (PP (TO to)
+          (NP (PRP it)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Location))
+    (VP (VBZ is)
+      (ADJP (JJ convenient)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Owner))
+    (VP (VBZ is)
+      (NP (DT a) (JJ nice) (NN guy)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (MD will)
+      (VP (VB charge)
+        (S
+          (NP (PRP you))
+          (ADJP
+            (NP (CD 5) (NN %))
+            (JJ extra))
+          (SBAR (IN if)
+            (S
+              (NP (PRP you))
+              (VP (VBP use)
+                (S
+                  (NP
+                    (NP (DT a) (NN credit) (NN card))
+                    (CC and)
+                    (NP (CD 1) (NN %)))
+                  (ADJP (JJ extra))
+                  (SBAR (IN if)
+                    (S
+                      (NP (PRP you))
+                      (VP (VBP use)
+                        (NP (DT a) (JJ debit) (NN card))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Wifi))
+    (VP (VBZ costs)
+      (SBAR
+        (S
+          (NP (CD 3) (NNP L.) (NN TV))
+          (VP (VBZ is)
+            (ADJP (JJ tiny))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBZ Gets)
+      (NP
+        (NP (DT a) (JJ decent) (NN selection))
+        (PP (IN of)
+          (NP (NNS channels)))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Free) (NN parking))
+    (PP (IN in)
+      (NP (NN back)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ My) (NN boyfriend))
+      (CC and)
+      (NP (PRP I)))
+    (VP (VBD stayed)
+      (ADVP (RB here))
+      (PP (IN for)
+        (NP (CD 2) (NNS nights)))
+      (ADVP (RB though))
+      (NP (DT the) (NN week))
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (NP (PRP I))
+          (VP (VBD bought)
+            (PP (IN on)
+              (NP (DT a) (NN deal)))
+            (PP (IN from)
+              (NP (JJ Late) (NNS Rooms)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (UCP
+        (ADJP (RB really) (JJ cheap))
+        (, ,)
+        (CC and)
+        (NP
+          (NP (DT the) (NN hotel))
+          (SBAR
+            (S
+              (NP (PRP itself))
+              (VP (VBZ is)
+                (ADJP (JJ okay))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (DT The) (NN good))
+    (: :)
+    (NP
+      (NP (JJ Great) (NN location))
+      (, ,)
+      (NP (JJ lovely) (NN receptionist))
+      (, ,)
+      (NP (JJ easy) (NN check) (NN in/out))
+      (, ,)
+      (NP (JJ clean) (NNS rooms))
+      (, ,)
+      (NP (JJ comfortable) (NN bed)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (DT The) (JJ bad))
+    (: :)
+    (NP
+      (NP (NNP Breakfast))
+      (, ,)
+      (NP
+        (NP (DT both)
+          (ADJP (`` `) (JJ continental) ('' ')
+            (CC and)
+            (JJ cooked) (, ,) (JJ consists)))
+        (PP (IN of)
+          (NP (JJ cheap) (NN stuff)))))
+    (: -)
+    (NP
+      (NP (JJ cheap) (NN bread))
+      (, ,)
+      (NP (NNS sausages))
+      (, ,)
+      (NP (JJ own) (NN brand) (NN cereal))
+      (, ,)
+      (NP (JJ cheap) (JJ orange) (NN juice))
+      (CC and)
+      (NP (JJ bad) (NN coffee)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP (DT The) (NNS walls))
+        (VP (VBP are)
+          (ADJP
+            (NP (NN paper))
+            (JJ thin))))
+      (CC and)
+      (S
+        (NP (PRP you))
+        (VP (VBP hear)
+          (NP (NN everything)))))
+    (: ;)
+    (S
+      (NP (DT the) (NN cleaner))
+      (VP (VBD had)
+        (S
+          (NP (DT a) (NN radio))
+          (ADJP (JJ blasting)
+            (PP (IN through)
+              (NP (DT the) (NN hallway))))
+          (SBAR (IN whilst)
+            (S
+              (NP (PRP she))
+              (VP (VBD cleaned)
+                (NP
+                  (NP (DT the) (NNS rooms))
+                  (: -)
+                  (ADJP (JJ annoying)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Internet))
+    (ADJP (RB not) (JJ great))
+    (. .)))
+
+

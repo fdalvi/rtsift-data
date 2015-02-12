@@ -1,0 +1,137 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN muter) (NN paneer))
+      (VP (VBD was)
+        (ADJP
+          (NP (DT a) (RB bit))
+          (JJ runny)
+          (PP (IN for)
+            (NP (PRP me))))))
+    (CC but)
+    (FRAG
+      (NP (JJ tasted) (NN ok) (. .))
+      (PP (IN As)
+        (NP
+          (NP (JJ main) (NNS entree))
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (VBD had)
+                (NP
+                  (NP (DT the) (JJ karahi) (NN murghi) (NN keema) (NN massalla))
+                  (, ,)
+                  (SBAR
+                    (WHNP (WDT which))
+                    (S
+                      (VP (VBD was)
+                        (ADJP (JJ good)
+                          (CC but)
+                          (RB not) (JJ awesome))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's)
+        (ADJP (RB somewhat) (JJ odd))
+        (S
+          (VP (TO to)
+            (VP (VB see)
+              (NP (RB only) (JJ western) (NN dessert))
+              (PP (IN in)
+                (NP (DT the) (NN menu))))))))
+    (, ,)
+    (CC but)
+    (S
+      (ADVP (RB nevertheless))
+      (NP
+        (NP (DT the) (NN one))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBD had))))
+        (PRN (-LRB- -LRB-)
+          (NP
+            (NP (NN something))
+            (PP (IN with)
+              (NP (NN biscuit)
+                (CC and)
+                (NN ice) (NN cream))))
+          (-RRB- -RRB-)))
+      (VP (VBD was)
+        (ADJP (JJ excellent))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Will))
+    (VP (VBP give)
+      (ADVP
+        (NP (DT a) (NN try))
+        (RB again))
+      (PP (IN in)
+        (NP (DT the) (NN future))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (S
+        (VP (VB Close)
+          (PP (TO to)
+            (NP (DT the) (NN Marriott)))))
+      (, ,)
+      (S
+        (VP
+          (ADVP (RB easy))
+          (VBG walking)
+          (NP (NN distance)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP they))
+      (VP (VBP deliver)
+        (PP (IN for)
+          (NP (NN anything)))
+        (PP (IN over)
+          (NP (CD 12) (NNS pounds)))
+        (PRN (-LRB- -LRB-)
+          (S
+            (NP (NN order))
+            (VP (VBZ online)))
+          (. !) (-RRB- -RRB-))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Food))
+    (VP (VBD arrived)
+      (ADJP
+        (ADJP (JJ fast))
+        (CC and)
+        (ADJP (RB very) (JJ hot))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Food))
+      (VP (VBD was)
+        (NP
+          (NP (JJ good) (NN quality))
+          (PP (IN for)
+            (NP (DT the) (NN price))))))
+    (: -)
+    (S
+      (NP (JJ spicy) (NNS mushrooms))
+      (VP (VBD were)
+        (ADJP (JJ excellent))))
+    (. !)))
+
+(ROOT
+  (NP (NN http://www.abida-restaurant.co.uk/home)))
+
+

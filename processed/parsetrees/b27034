@@ -1,0 +1,114 @@
+(ROOT
+  (FRAG
+    (NP (JJ Good) (JJ Mexican) (NN food))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Pretty)
+      (NP (JJ quick) (NN service)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Owners))
+    (VP (VBD were)
+      (ADJP (RB really) (JJ nice)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Great))
+    (PP (IN for)
+      (NP (DT some) (JJ quick) (JJ authentic) (JJ Mexican) (NN food)))
+    (. .)))
+
+
+(ROOT
+  (SINV
+    (VP (VB Un)
+      (NP (NN lugar) (NN muy) (NNS lejos)))
+    (NP
+      (NP (FW de) (FW la) (NN strip) (NN pero))
+      (SBAR
+        (S
+          (NP
+            (NP (JJ con) (NN una) (NN comida) (NN tan) (NN sabrosa) (NN vivo))
+            (PP (IN en)
+              (NP (NNP Hawaii) (NN pero) (NNP soy) (IN de) (NNP Guadalajara) (NNP Asi))))
+          (VP (VBP que)
+            (SBAR
+              (S
+                (NP (DT la) (NN comida) (NN que) (NN tienen))
+                (VP (VBP ahi)
+                  (SBAR
+                    (S
+                      (NP (PRP me))
+                      (VP (VBD cayo)
+                        (SBAR
+                          (S
+                            (NP
+                              (NP (IN de) (JJ lo) (NN lindo))
+                              (PP (FW la)
+                                (NP (JJ birria) (JJ super) (NN sabrosa) (NN las) (NNS tortas))))
+                            (VP (VBZ ahogadas)
+                              (NP
+                                (NP
+                                  (NP (NN para) (NN chuparse))
+                                  (NP
+                                    (ADJP (NNP Los) (JJ dedos))
+                                    (NN las) (NNS tostadas)))
+                                (IN de)
+                                (NP
+                                  (NP (NNS cueritos))
+                                  (VP (VBZ sabrosisimas)
+                                    (NP (JJ great) (NN food))
+                                    (PP (IN at)
+                                      (NP (DT a) (JJ great) (NN price)))))))))))))))))))))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN restaurant))
+    (VP (VBZ is)
+      (VP (VBN closed)
+        (PRT (RP down))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD went)
+        (ADVP (RB there))
+        (NP (CD 2) (NNS times))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (VP
+          (ADVP (RB always))
+          (VBN closed))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (WHNP (WP What)
+      (NP (DT a) (NN waste)))
+    (PP (IN of)
+      (NP (PRP$ my) (NN time)))
+    (. .)))
+
+(ROOT
+  (X
+    (NP (NNP Yelp))
+    (: -)
+    (FRAG
+      (VP (VB please)
+        (VP (VB mark)
+          (NP
+            (NP (DT this) (NN restaurant))
+            (ADJP (RB as) (VBN closed))))))
+    (. .)))
+
+

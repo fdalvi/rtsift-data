@@ -1,0 +1,95 @@
+(ROOT
+  (S
+    (VP (VB Say)
+      (SBAR
+        (WHNP (WDT whatever))
+        (S
+          (NP (PRP you))
+          (VP (VBP want)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN school))
+    (VP (VBD taught)
+      (NP (PRP me))
+      (ADVP (RB well)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (INTJ (RB Sure))
+      (, ,)
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (NP (DT a) (VBG boarding) (NN school))))
+    (, ,)
+    (ADVP (RB sure))
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADJP (RB quite) (JJ hard))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (NP
+          (NP (RB arguably) (CD one))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (JJS best) (NNS schools))
+              (PP (IN in)
+                (NP (NNP Scotland))))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBD learned)
+        (ADVP (RB so) (RB much))
+        (PP (IN from)
+          (NP (PRP it)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Sometimes))
+      (, ,)
+      (NP (PRP I))
+      (VP (VBP wonder)
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (VP (MD would)
+              (VP (VB happen)
+                (SBAR (IN if)
+                  (S
+                    (NP (PRP I))
+                    (VP (VBD did) (RB n't)
+                      (VP (VB go)
+                        (PP (TO to)
+                          (NP (DT this) (JJ boarding) (NN school)))))))))))))
+    (: ...)
+    (S
+      (ADVP (RB maybe))
+      (NP (PRP I))
+      (VP
+        (VP (MD would)
+          (VP (VB be)
+            (VP (VBN left)
+              (PP (IN in)
+                (NP (DT the) (`` ``) (NN dark) ('' ''))))))
+        (CC and)
+        (VP
+          (ADVP (RB never))
+          (VBD knew)
+          (SBAR (IN that)
+            (S
+              (NP (DT the) (NN world))
+              (VP (VBZ is)
+                (NP (PDT such) (DT a) (JJ big) (NN place) (NNS ~))))))))))
+
+

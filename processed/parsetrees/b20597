@@ -1,0 +1,21 @@
+(ROOT
+  (NP
+    (NP (DT A) (JJ large)
+      (CC and)
+      (JJ spacious) (NN gym))
+    (PP (IN with)
+      (NP
+        (NP
+          (NP (NNS lots))
+          (PP (IN of)
+            (NP (NNS treadmills)
+              (CC and)
+              (NNS bikes))))
+        (CC and)
+        (NP
+          (NP (DT a) (JJ decent) (NN choice))
+          (PP (IN of)
+            (NP (NNS classes))))))
+    (. .)))
+
+

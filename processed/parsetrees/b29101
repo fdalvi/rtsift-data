@@ -1,0 +1,195 @@
+(ROOT
+  (S
+    (VP (VBD Had)
+      (NP
+        (NP (DT the) (NN lunch) (NN special))
+        (PRN (-LRB- -LRB-)
+          (NP
+            (NP (NN fish))
+            (, ,)
+            (NP (NN shrimp))
+            (, ,)
+            (NP (JJ hush) (NNS puppies))
+            (, ,)
+            (NP (NNS sides)))
+          (-RRB- -RRB-))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Fried) (NNP catfish))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (RB finely) (JJ breaded))
+        (, ,)
+        (ADJP (JJ tasty))
+        (CC and)
+        (ADJP (RB not) (RB too) (JJ greasy))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Macaroni) (NN salad)
+      (CC and)
+      (NN coleslaw))
+    (ADVP (RB definitely))
+    (VP (VBP homemade)
+      (PP (IN with)
+        (NP
+          (NP (DT a) (JJ nice) (NN light) (NN flavor)
+            (CC and)
+            (NN texture))
+          (, ,)
+          (NP (DT a) (JJ good) (NN balance))))
+      (PP (TO to)
+        (NP (DT the) (JJ fried) (NN meal))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Loved)
+      (NP (DT the) (JJ hole-in-the-wall) (, ,) (JJ family-run) (NN feel)))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (JJ Lunch) (NNS specials))
+    (PP (IN for)
+      (NP ($ $) (CD 5.95)))
+    (. !)))
+
+(ROOT
+  (NP
+    (NP (JJ 3pc) (NN fish))
+    (, ,)
+    (NP (JJ 3pc) (NN shrimp))
+    (, ,)
+    (NP
+      (NP (CD 2) (JJ hush) (NNS puppies))
+      (CC AND)
+      (NP (CD 2) (NN side) (NNS orders)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT This))
+      (SBAR
+        (S
+          (NP (DT all) (NN seafood) (NN restaurant))
+          (VP (VBZ is)
+            (NP (PRP$ my) (NN pescetarian) (NN dream))))))
+    (VP (VBP come)
+      (ADJP (JJ true)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP offer)
+      (NP
+        (NP (NN snapper) (, ,) (NN catfish) (, ,) (NN tilapia) (, ,) (NNS trout) (, ,) (NN buffalo) (, ,) (JJ whiting) (NN shrimp))
+        (, ,)
+        (CC and)
+        (ADVP (RB even))
+        (NP (NNS oysters))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Great) (NN food))
+    (PP (IN at)
+      (NP (JJ great) (NNS prices)))
+    (. .)))
+
+(ROOT
+  (S (RB Not)
+    (VP (VB open)
+      (NP (NNP Sundays)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB also))
+    (VP (VBP have)
+      (NP (NNP Gumbo)))
+    (. !)))
+
+(ROOT
+  (NP (NNP and) (NNP Po'Boys) (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN number))
+        (PP (TO to)
+          (NP (DT this) (NN place))))
+      (VP (VBZ is)
+        (NP (CD 602-268-7022))))
+    (: ...)
+    (S
+      (NP
+        (NP (NN call))
+        (PP (IN in)
+          (NP (NN order))))
+      (VP (VBZ is)
+        (NP (DT the) (NN way)
+          (S
+            (VP (TO to)
+              (VP (VB go)
+                (PP (IN because)
+                  (NP (DT no) (NN wait)))))))))
+    (. !)))
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNS Address))
+      (VP (VBZ is)))
+    (: :)
+    (NP
+      (NP (NNP 1638) (NNP E) (NNP Southern) (NNP Ave.))
+      (, ,)
+      (NP (NNP Phoenix) (, ,) (NNP AZ)))))
+
+
+(ROOT
+  (S
+    (INTJ (UH Okay))
+    (VP (VB lunch)
+      (NP (JJ special)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Get)
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP (PRP you))
+          (VP (VBP pay)
+            (PP (IN for))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (ADJP
+        (ADJP (RB Too) (RB much) (JJ breading))
+        (PRN (, ,)
+          (S
+            (NP (NN hush) (NNS puppies))
+            (VP (VBD were)
+              (ADJP
+                (NP (DT a) (RB bit))
+                (JJ tiny))))
+          (, ,)))
+      (NNS salads))
+    (VP (VBD were)
+      (NP (NN soso)))))
+
+

@@ -1,0 +1,163 @@
+(ROOT
+  (S
+    (VP (VB Excellent))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Reliable))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Professional))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (ADJP (RB very) (JJ pleased)
+        (PP (IN with)
+          (NP
+            (NP (DT the) (NN work))
+            (SBAR
+              (S
+                (NP (NNP Rich))
+                (VP (VBD did)
+                  (PP (IN for)
+                    (NP (PRP me))))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP (PRP I))
+        (VP (VBD needed)
+          (S
+            (VP (TO to)
+              (VP (VB have)
+                (NP
+                  (NP (DT a) (JJ coax) (NN cable))
+                  (VP (VBN rerouted)
+                    (PP (IN in)
+                      (NP (PRP$ my) (NN house))))))))))
+      (CC and)
+      (S
+        (NP (NNP Cox))
+        (VP (VBD was)
+          (ADJP (JJ unable)
+            (S
+              (VP (TO to)
+                (VP (VB do)
+                  (NP (PRP it)))))))))
+    (, ,) (IN so)
+    (S
+      (NP (DT a) (NN friend))
+      (VP (VBD referred)
+        (NP (PRP me))
+        (PP (TO to)
+          (NP (NNP Rich)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VP (VBD came)
+        (PRT (RP out))
+        (ADVP (RB right) (RB away)))
+      (, ,)
+      (VP (VBD got)
+        (NP (DT the) (NN cable))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBD needed)))))
+      (CC and)
+      (VP (VBD set)
+        (NP (PRP it))
+        (ADVP (RB up)
+          (NP (DT no) (NN problem)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB really))
+    (VP (VBD appreciated)
+      (SBAR
+        (WHNP
+          (WHADJP (WRB how) (JJ much))
+          (NN time))
+        (S
+          (NP (PRP he))
+          (VP (VBD spent)
+            (S
+              (VP (VBG explaining)
+                (NP (NNS things))
+                (PP (TO to)
+                  (NP (PRP me)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB definitely))
+    (VP (VBP plan)
+      (S
+        (VP (TO to)
+          (VP (VB call)
+            (NP (PRP him))
+            (ADVP (RB again))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD had)
+      (S
+        (VP (TO to)
+          (VP (VB have)
+            (NP
+              (NP (PRP$ our) (JJ patio) (NN roof))
+              (VP (VBN replaced)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT These) (NNS guys))
+    (VP (VBD did)
+      (NP
+        (NP (JJ excellent) (NN work))
+        (, ,)
+        (NP (JJ quick) (NN turn) (IN around))
+        (, ,)
+        (NP (JJ great) (NN price) (NN quote))
+        (CC and)
+        (NP (RB very) (JJ professional))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP
+      (VP (VBP are)
+        (ADJP (RB very) (JJ please)
+          (PP (IN with)
+            (NP
+              (NP (DT the) (NN work))
+              (VP (VBN completed))))))
+      (CC and)
+      (VP (MD will)
+        (VP (VB be)
+          (VP (VBG using)
+            (NP (PRP them))
+            (PP (IN in)
+              (NP (DT the) (NN future)))))))
+    (. !)))
+
+

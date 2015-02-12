@@ -1,0 +1,86 @@
+(ROOT
+  (S
+    (S
+      (S
+        (NP (DT This) (NN restaurant))
+        (VP (VBZ has)
+          (NP (NN style))))
+      (CC and)
+      (S
+        (NP (DT the) (NN menu)
+          (S
+            (VP (TO to)
+              (VP (VB suit)
+                (SBAR (CC but)
+                  (S
+                    (NP (DT the) (NN atmosphere))
+                    (VP (VBD was)
+                      (VP (VBG lacking)
+                        (NP (NN something))
+                        (PP (IN with)
+                          (ADVP (RB just)))))))))))
+        (VP (VBD made)
+          (SBAR
+            (S
+              (NP (PRP it))
+              (VP (VBP feel)
+                (NP (DT a) (JJ good) (NN place)
+                  (S
+                    (VP (TO to)
+                      (VP (VB eat)))))))))))
+    (CC and)
+    (RB not)
+    (S
+      (NP (DT a) (JJ great) (NN place)
+        (S
+          (VP (TO to)
+            (VP (VB eat)))))
+      (, ,)
+      (VP (MD could) (RB n't)
+        (VP (VB pin)
+          (NP (PRP it))
+          (PRT (RP down)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN food))
+      (VP (VBD was)
+        (NP
+          (UCP
+            (ADJP (RB very) (JJ good))
+            (CC and)
+            (NP (DT a) (JJ good) (NN wine)))
+          (NN selection))))
+    (, ,)
+    (CC but)
+    (S
+      (ADVP (RB not) (RB somewhere))
+      (NP (PRP I))
+      (VP (MD would)
+        (VP (VB return)
+          (ADVP (RB too)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP (JJ 4-stars)
+      (PP (IN from)
+        (NP
+          (NP (PRP me))
+          (PP (IN for)
+            (NP
+              (NP (NN quality))
+              (PP (IN of)
+                (NP (NN food)
+                  (CC and)
+                  (NN serive))))))))
+    (S (CC but)
+      (NP (PRP I))
+      (VP (MD would) (RB n't)
+        (VP (VB be)
+          (NP (DT a) (VBG retuning) (NN customer)))))
+    (. .)))
+
+

@@ -1,0 +1,102 @@
+(ROOT
+  (S
+    (NP (PRP$ My) (NNS parents))
+    (VP (VBD set)
+      (PRT (RP up))
+      (NP (DT a) (NNS savings) (NN account))
+      (PP (IN for)
+        (NP (PRP me)))
+      (ADVP (RB here))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP I))
+          (VP (VBD was)
+            (ADJP (JJ little))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (ADJP (RB so) (JJ glad)
+        (SBAR
+          (S
+            (NP (PRP they))
+            (VP (VBD did))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have)
+      (ADVP (RB always))
+      (VP (VBN gotten)
+        (NP (JJ excellent) (NN customer) (NN service))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB now))
+    (VP (VBP have)
+      (S
+        (VP (VBG saving)
+          (CC and)
+          (VBG checking)
+          (NP
+            (NP (NNS accounts))
+            (CONJP (RB as) (RB well) (IN as))
+            (NP (NN vehicle)
+              (CC and)
+              (NN home) (NNS loans))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHNP (WP What))
+      (S
+        (NP (PRP I))
+        (VP (VBP like)
+          (SBAR
+            (SBAR
+              (S
+                (VP (VBZ is)
+                  (SBAR (IN that)
+                    (X
+                      (X (DT the) (JJR more))
+                      (NP
+                        (NP (NNS services))
+                        (SBAR
+                          (S
+                            (NP (PRP you))
+                            (VP (VBP have))))))))))
+            (CC and)
+            (SBAR
+              (X (DT the) (JJR longer))
+              (S
+                (NP (PRP you))
+                (VP (VBP have)
+                  (VP (VBN been)
+                    (PP (IN with)
+                      (NP (PRP them)))))))))))
+    (, ,)
+    (NP (DT the) (JJR more))
+    (VP (VBZ benefits)
+      (S
+        (NP (PRP you))
+        (VP (VB receive)))
+      (: -)
+      (PP (VBG including)
+        (NP (NN rate) (NNS discounts))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (JJ Great) (NN customer))
+    (NP (NN service))
+    (. .)))
+
+

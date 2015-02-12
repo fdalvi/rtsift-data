@@ -1,0 +1,103 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP Real) (NNP Scot) (NNP Shop))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (RB slightly) (RBR less) (JJ garish))
+        (PP (IN than)
+          (NP
+            (NP (DT a) (NN lot))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NN tourist) (NNS shops))
+                (PP (IN in)
+                  (NP (NNP Edinburgh)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Selling)
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (VP (VBZ looks)
+              (PP (IN like)
+                (NP
+                  (NP (JJ real) (NN tartan) (NNS kilts))
+                  (CONJP (RB as) (RB well) (IN as))
+                  (NP (NNS sporrans)))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ seems)
+      (SBAR (IN like)
+        (S
+          (NP (PRP it))
+          (VP (VBZ makes)
+            (NP (DT an) (NN attempt)
+              (S
+                (VP (TO to)
+                  (VP (VB get)
+                    (NP
+                      (NP (DT the) (JJ traditional) (NN culture))
+                      (PP (IN of)
+                        (NP (NNP Scotland))))
+                    (ADVP
+                      (ADVP (RB just) (RB right))
+                      (PP (IN in)
+                        (NP (PRP$ its) (NN stock))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN As)
+      (S
+        (NP (NNP Steph))
+        (VP (VBD said))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VB stock)
+      (NP
+        (NP
+          (NP (DT some) (NN classier) (NNS gifts))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (MD would)
+                (VP (VB be)
+                  (ADJP (JJ fitting)
+                    (PP (IN for)
+                      (NP (DT a) (JJ formal) (NN present)))))))))
+        (, ,)
+        (CC or)
+        (NP
+          (NP (NN something) (NN tasteful))
+          (PP (IN for)
+            (NP (PRP$ your) (NN gran))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP (PRP they))
+    (ADVP (RB also))
+    (VP (VBP have)
+      (NP
+        (NP (DT a) (NN range))
+        (PP (IN of)
+          (NP
+            (ADJP (RB slightly) (JJ tackier))
+            (NNS souvenirs))))
+      (SBAR (IN if)
+        (S
+          (NP (DT that))
+          (VP (VBZ 's)
+            (SBAR
+              (WHNP (WP what))
+              (S
+                (NP (PRP you))
+                (VP (VBP 're)
+                  (VP (VBG looking)
+                    (PP (IN for))))))))))
+    (. .)))
+
+

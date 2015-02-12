@@ -1,0 +1,352 @@
+(ROOT
+  (S
+    (SBAR (IN As)
+      (S
+        (NP (NNP Homer))
+        (VP (MD would)
+          (VP (VB say)))))
+    (: :) (`` ``)
+    (ADVP (RB ahhh))
+    (, ,)
+    (VP (VBZ doughnuts))
+    (. !)))
+
+(ROOT
+  (S ('' '')
+    (S (CC But)
+      (NP (DT that))
+      (VP (VBD said)))
+    (, ,)
+    (NP (NNP Krispy) (NNP Kreme))
+    (VP (VBZ is)
+      (VP (VBN known)
+        (PP (IN for)
+          (NP
+            (NP (PRP$ their)
+              (ADJP (JJR lighter)
+                (PP (IN than)
+                  (NP (NN air))))
+              (JJ glazed) (NNS doughnuts))
+            (PP (IN for)
+              (NP (JJ good) (NN reason)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ good) (NN location))
+        (PP (IN with)
+          (NP
+            (NP (JJ many) (JJ upscale) (NNS shops))
+            (VP (VBN located)
+              (PP (IN in)
+                (NP (DT this) (JJ open) (NN air) (NN mall))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN service))
+      (PP (IN behind)
+        (NP (DT the) (NN counter))))
+    (VP (VBZ is)
+      (ADJP (JJ good)
+        (CC and)
+        (JJ fast)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Also))
+    (, ,)
+    (S
+      (NP (DT the) (NN owner))
+      (VP (VBZ is)
+        (ADVP (RB actively))
+        (VP (VBN involved)
+          (PP (IN in)
+            (NP (JJ local) (JJ non-profit) (NN work))))))
+    (: :) (`` ``)
+    (S
+      (NP (NNS Guests))
+      (VP (MD can)
+        (ADVP (RB also))
+        (VP (VB participate)
+          (PP (IN in)
+            (NP
+              (NP (DT the) (NN celebration))
+              (PP (IN of)
+                (NP
+                  (NP (NNP Breast) (NNP Cancer) (NNPS Awareness) (NNP Month))
+                  (PRN (-LRB- -LRB-)
+                    (NP (NNP October))
+                    (, ,)
+                    (NP (CD 2010))
+                    (-RRB- -RRB-))))))
+          (PP (IN by)
+            (S
+              (VP (VBG purchasing)
+                (NP (DT a) (JJ second) (NN dozen) (NNS doughnuts))
+                (PP (IN for)
+                  (NP
+                    (NP (DT a) (VBN discounted) (NN price))
+                    (PP (IN of)
+                      (NP
+                        (NP ($ $) (CD 5))
+                        (, ,)
+                        (SBAR
+                          (WHPP (IN of)
+                            (WHNP (WDT which)))
+                          (S
+                            (NP ($ $) (CD 1))
+                            (VP (MD will)
+                              (VP (VB be)
+                                (VP (VBN donated)
+                                  (PP (TO to)
+                                    (NP
+                                      (NP (DT the) (NNP Phoenix) (NNP Affiliate))
+                                      (PP (IN of)
+                                        (NP
+                                          (NP (NNP Susan) (NNP G.) (NNP Komen))
+                                          (PP (IN for)
+                                            (NP (DT the) (NNP Cure))))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Already))
+      (PP (IN at)
+        (NP
+          (NP (DT an) (NN average))
+          (PP (IN of)
+            (NP (CD 1,500)))))
+      (NP (JJ second) (NN dozen))
+      (VP (VBD sold)
+        (NP (DT each) (NN week))))
+    (: ...) ('' '')
+    (PRN
+      (S
+        (VP
+          (VP
+            (ADVP (RB So))
+            (VB stop)
+            (PP (IN by)))
+          (CC and)
+          (VP (VB purchase)
+            (NP
+              (NP (DT that) (JJ second) (NN dozen))
+              (PP (IN for)
+                (NP (DT a) (JJ good) (NN cause))))))))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Enjoy))
+    (. !)))
+
+
+(ROOT
+  (NP (NN Ok) (: ...)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 'm) (RB not)
+        (PP (IN from)
+          (PP (IN around)
+            (NP (DT these) (NNS parts))))))
+    (, ,) (IN so)
+    (S
+      (ADVP (RB maybe))
+      (NP (PRP I))
+      (VP (VBP 'm)
+        (ADJP (JJ spoiled))))
+    (. .)))
+
+(ROOT
+  (SBARQ (CC But)
+    (WHNP (WP what))
+    (SQ
+      (VP (VBD happened)
+        (PP (TO to)
+          (NP (DT the) (JJ fresh) (JJ Krispy-Kreme) (NN experience)))))
+    (. ?)))
+
+(ROOT
+  (NP
+    (NP (DT The) (`` `) (JJ hot) (NN donuts) (JJ now) ('' '))
+    (NP (NN sign))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (DT These) (NNS things))
+    (VP (VBP make)
+      (S
+        (NP (NNP Krispy-Kreme))
+        (ADJP (JJ unique))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VB Take)
+        (NP (PRP 'em))
+        (PRT (RP away))))
+    (CC and)
+    (S
+      (NP (PRP you))
+      (VP (VBP 're)
+        (VP (VBN left)
+          (PP (IN with)
+            (NP
+              (NP (RB just) (DT a)
+                (ADJP (RB plain) (JJ donut))
+                (NN shop))
+              (VP (VBG serving)
+                (NP (VBN overpriced) (NNS donuts))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Luckily))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD was)
+      (VP (VBG getting)
+        (NP (DT a) (NN dozen)
+          (S
+            (VP (TO to)
+              (VP (VB go)
+                (PRT (RP back))
+                (PP (TO to)
+                  (NP (DT the) (NN condo)))
+                (SBAR
+                  (WHADVP (WRB where))
+                  (S
+                    (NP
+                      (NP (DT a) (JJ quick) (NN trip))
+                      (PP (IN through)
+                        (NP (DT the) (NN microwave))))
+                    (VP (MD will)
+                      (VP (VB restore)
+                        (NP (DT these) (NNS puppies))
+                        (PP (TO to)
+                          (NP (PRP$ their) (JJ former) (NN glory)))
+                        (PP (IN before)
+                          (S
+                            (VP (VBG being)
+                              (VP (VBN devoured)
+                                (PP (IN by)
+                                  (NP (PRP$ my) (JJ donut) (VBN deprived) (NN family)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS donuts))
+      (ADVP (PRP themselves))
+      (VP (VBP are)
+        (PP (IN of)
+          (NP
+            (NP (DT a) (JJ different) (NN texture))
+            (PP (IN than)
+              (NP (NNS others)))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP they))
+      (VP (VBP are)
+        (ADJP (JJ small))
+        (, ,)
+        (SBAR (IN so)
+          (S
+            (NP
+              (NP ($ $) (CD 10))
+              (PP (IN for)
+                (NP (DT a) (NN dozen))))
+            (VP (VBP are)
+              (ADJP (RB truly)
+                (NP (DT a) (RB once)))
+              (PP (IN in)
+                (NP (DT a) (JJ great) (NN while) (NN experience))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD visited)
+        (NP (DT this) (NN shop))
+        (PP (IN at)
+          (NP (CD 8am)))
+        (PP (IN on)
+          (NP (DT a) (NNP Thursday)))))
+    (CC and)
+    (S
+      (NP (EX there))
+      (VP (VBD was)
+        (NP
+          (NP (RB only) (CD one) (JJ other) (NN person))
+          (PP (IN in)
+            (NP (DT the) (NN shop))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN girl))
+      (PP (IN at)
+        (NP (DT the) (NN counter))))
+    (VP (VBD was)
+      (ADJP (JJ ready)
+        (S
+          (VP (TO to)
+            (VP (VB go)
+              (SBAR
+                (S
+                  (NP (CC &))
+                  (VP (VBD assembled)
+                    (NP
+                      (NP (PRP$ my) (NN dozen))
+                      (UCP
+                        (ADVP (RB quickly))
+                        (CC and)
+                        (PP (IN with)
+                          (NP (DT a) (NN smile)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Overall))
+      (, ,)
+      (NP (DT the) (NN visit))
+      (VP (VBD was)
+        (ADJP (JJ good))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBP miss)
+        (NP (DT the) (JJ old) (NN experience))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN location))
+    (VP (VBZ is)
+      (VP (VBN CLOSED) (: -)
+        (ADVP (IN out)
+          (PP (IN of)
+            (NP
+              (NP (NN business))
+              (PP (RB as) (IN of)
+                (NP (NNP Aug) (CD 2011))))))))))
+
+

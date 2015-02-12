@@ -1,0 +1,117 @@
+(ROOT
+  (NP
+    (NP (NNP Delicious) (JJ frozen) (NN yogurt))
+    (, ,)
+    (NP
+      (NP (JJ great) (NNS toppings))
+      (CC and)
+      (NP (JJ friendly) (NN staff)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (NNP Fat) (JJ free) (JJ =) (NN guilt))
+      (ADVP (JJ free)))
+    (ADJP
+      (ADJP (RB so) (JJ whats))
+      (RB not)
+      (S
+        (VP (TO to)
+          (VP (VB love)))))
+    (. ?)))
+
+
+(ROOT
+  (S
+    (PP (VBN Given)
+      (NP
+        (NP (PDT all) (DT the) (JJ yogurt) (NNS places))
+        (PP (IN in)
+          (NP
+            (NP (NN today) (POS 's))
+            (NN market)))))
+    (, ,)
+    (NP (DT the) (NN flavor) (NN quality))
+    (ADVP (RB here))
+    (VP (VBZ does) (RB not)
+      (VP (VB impress)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (ADVP (RB Too) (RB bad))
+    (NP (PRP I))
+    (VP (MD ca) (RB n't)
+      (VP (VB do)
+        (NP (CD zero) (NNS stars))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT This) (NN place))
+      (VP (VBZ is)
+        (ADJP (JJ busy)
+          (CC and)
+          (JJ everytime))
+        (SBAR
+          (S
+            (NP (FW i))
+            (VP (VBP get)
+              (SBAR
+                (S
+                  (NP
+                    (NP (DT a) (NN coupon))
+                    (PP (IN in)
+                      (NP (DT the) (NN mail) (NN i))))
+                  (VP (VBP think)))))))))
+    (: ...)
+    (S
+      (NP (VB let) (POS 's))
+      (VP (VBP try)
+        (NP
+          (NP (PRP it))
+          (ADVP
+            (NP (CD one))
+            (RBR more)))
+        (NP (NN time))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Even)
+      (PP (IN with)
+        (NP
+          (NP (DT the)
+            (ADVP
+              (NP (CD 50) (NN %))
+              (IN off))
+            (NN coupon))
+          (: ...)
+          (ADJP (RB still) (RB not) (JJ worth)))))
+    (NP (PRP it))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (FRAG (RB Not)
+          (ADJP (JJ good)
+            (PP (IN at)
+              (NP
+                (NP (DT all))
+                (: ...))))
+          (. .)))
+      (PP
+        (ADVP (RB especially))
+        (IN for)
+        (NP
+          (NP (SYM a))
+          (VP (VBN yogurt)))))
+    (VP (VB shop))
+    (. .)))
+
+

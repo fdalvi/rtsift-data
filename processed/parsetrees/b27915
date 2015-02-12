@@ -1,0 +1,239 @@
+(ROOT
+  (NP
+    (NP
+      (NP (NNP Actual) (NNP Date))
+      (PP (IN of)
+        (NP (NNP Visit))))
+    (: :)
+    (NP
+      (NP (CD 10/9/2011))
+      (SBAR
+        (WHADVP (WRB When))
+        (S
+          (NP (PRP I))
+          (ADVP (RB first))
+          (VP (VBD moved)
+            (PP (TO to)
+              (NP (NNP Scottsdale)))
+            (SBAR
+              (S
+                (NP (PRP I))
+                (VP (VBD had)
+                  (NP (DT no) (NN idea))
+                  (SBAR
+                    (WHADVP (WRB where))
+                    (S
+                      (VP (TO to)
+                        (VP (VB get)
+                          (NP (DT a) (NN bed)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD went)
+        (PP (TO to)
+          (NP (NNP Macy) (POS 's)))))
+    (CC but)
+    (S
+      (NP (PRP$ their) (NNS prices))
+      (VP (VBD were) (DT either)
+        (NP
+          (NP
+            (QP (RB about) ($ $) (CD 500)
+              (CC or)
+              ($ $) (CD 1000)))
+          (, ,)
+          (NP
+            (NP (NN nothing))
+            (PP (IN in)
+              (NP (IN between)))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (DT The) (NN saleswoman))
+    (PP (IN at)
+      (NP
+        (NP
+          (NP (NNP Macy) (POS 's))
+          (VBN suggested) (NN Bedmart))
+        (PRN (-LRB- -LRB-)
+          (S
+            (NP (PRP I))
+            (VP (VBD was)
+              (ADJP (RB so) (JJ greatful))
+              (PP (IN for)
+                (NP (DT that)))))
+          (-RRB- -RRB-))))
+    (. !)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP I))
+        (VP (VBD went)
+          (PP (TO to)
+            (NP (NNP Bedmart))))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBD had)
+      (NP
+        (NP (DT some) (NNP Columbus) (NNP Day) (NNS specials))
+        (VP (VBG going)
+          (PRT (RP on)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBD was) (RB n't)
+        (ADJP (JJ busy))))
+    (CC and)
+    (S
+      (NP (PRP$ my) (NN salesperson) (NNP Randy))
+      (VP (VBD was)
+        (ADJP (RB very) (JJ helpful))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (JJ descriptive)
+          (CC and)
+          (JJ honest))
+        (, ,)
+        (ADJP (RB not) (JJ pushy))
+        (ADVP (IN at) (DT all))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD got)
+      (SBAR
+        (WHADJP (RB exactly) (WP what))
+        (S
+          (NP (FW i))
+          (VP (VBD wanted)
+            (PP (IN for)
+              (NP (DT a) (JJ great) (NN price)))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (PRP$ My) (JJ only) (NN critique))
+    (: :)
+    (S
+      (NP (PRP$ Their) (NN delivery) (NNS times))
+      (VP (VBP are) (RB not)
+        (ADVP (RB necessarily))
+        (NP (DT the) (JJS best))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (ADJP (JJ difficult)
+        (PP (IN for)
+          (NP (PRP them))))
+      (S
+        (VP (TO to)
+          (VP (VB work)
+            (PRT (RP around))
+            (NP (PRP$ my) (NN schedule))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Randy))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (RB very) (JJ patient))
+        (, ,)
+        (ADJP (JJ informative))
+        (, ,)
+        (CC and)
+        (ADJP (JJ accommodating))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VP (VBD made)
+        (S
+          (NP (PRP$ my) (NN experience))
+          (ADJP (RB very) (JJ easy))))
+      (CC and)
+      (VP (VBD took)
+        (NP
+          (NP (JJ good) (NN care))
+          (PP (IN of)
+            (NP (PRP me))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (ADVP (RB Brett))
+    (, ,)
+    (NP (PRP$ our) (NNS sales) (NN consultant))
+    (VP (VBD was)
+      (ADJP (RB absolutely) (JJ great)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (NNP Brett))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (RB very) (JJ knowledgable))
+        (CC and)
+        (ADJP (RB genuinely) (JJ interested)))
+      (PP (IN in)
+        (S
+          (VP (VBG finding)
+            (S
+              (NP (PRP us))
+              (NP (DT the)
+                (ADJP (JJS best) (JJ possible))
+                (NN bed)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP$ Their) (NN selection))
+      (VP (VBD was)
+        (ADJP (JJ fabulous))))
+    (CC and)
+    (S
+      (NP (DT the) (NN store))
+      (VP (VBD was)
+        (ADJP
+          (ADJP (RB very) (JJ clean))
+          (CC and)
+          (ADJP (VBN organized)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would)
+      (ADVP (RB absolutely))
+      (VP (VB purchase)
+        (NP (PRP$ my) (JJ next) (NNS mattress))
+        (PP (IN from)
+          (NP (NNP Brett)))))
+    (. .)))
+
+

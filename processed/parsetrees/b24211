@@ -1,0 +1,216 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP work)
+        (PP (IN across)
+          (NP
+            (NP (DT the) (NN street))
+            (PP (IN at)
+              (NP (NNP Xtreme) (NNP Manufacturing)))))))
+    (CC and)
+    (S
+      (NP (PRP$ my) (NN shipping) (NN department))
+      (VP (VBZ uses)
+        (NP
+          (NP (DT this) (NN port))
+          (PP (IN for)
+            (NP (DT all) (JJ last) (JJ minute) (NNS shipments))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN staff))
+    (VP (VBZ is)
+      (ADJP (JJ awesome)))
+    (. !)))
+
+
+(ROOT
+  (NP
+    (NP (NNP YELP) (NNP 365) (NNP CHALLENGE) (NNP 2014))
+    (: -)
+    (NP
+      (NP (-LRB- -LRB-)
+        (QP (CD 120/365))
+        (-RRB- -RRB-))
+      (`` ``)
+      (NP
+        (NP (NNP DO) (NNP NOT) (NNP Return))
+        (PP (TO To)
+          (NP (NNP Sender)))))
+    (. !)))
+
+(ROOT
+  (NP ('' '')
+    (CC Do)
+    (NP
+      (NP (RB n't))
+      (SBAR
+        (S
+          (NP (PRP you))
+          (VP (VBP hate)
+            (NP (PRP it))
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP$ your) (NN work))
+                (VP (VB schedule)
+                  (NP (NNS conflicts))
+                  (PP (IN with)
+                    (NP (DT the) (NNP UPS) (NN Man))))))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Already))
+      (VP (VBG receiving)
+        (S
+          (NP
+            (NP (CD two))
+            (`` ``)
+            (S
+              (NP (PRP We))
+              (VP (VBD missed)
+                (NP (PRP you))))
+            ('' ''))
+          (NP (NNS notices)))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD needed)
+      (S
+        (VP (TO to)
+          (VP (VB act)
+            (ADVP (RB fast))
+            (SBAR (IN before)
+              (S
+                (NP (PRP$ my) (NNP Moscato) (NN shipment))
+                (VP (VBD was)
+                  (VP (VBG gon)
+                    (S
+                      (VP (TO na)
+                        (VP (VB be)
+                          (VP (VBN sent)
+                            (PRT (RP back))
+                            (PP (TO to)
+                              (NP (NNP Wine) (NNP Country)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VP (VBN Called)
+        (NP (DT the) (NN number))
+        (PP (IN on)
+          (NP
+            (NP (DT the) (NN slip))
+            (, ,)
+            (VP (VBN located)
+              (NP (PRP$ my) (NN package)))
+            (, ,))))
+      (CC and)
+      (VP (VBN asked)
+        (S
+          (NP (PRP them))
+          (VP (TO to)
+            (VP (VB hold)
+              (NP (PRP it))
+              (SBAR (IN so)
+                (S
+                  (NP (PRP I))
+                  (VP (MD could)
+                    (VP (VB pick)
+                      (NP (PRP it))
+                      (PP (IN up)
+                        (NP (PRP myself))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB Luckily))
+      (IN for)
+      (NP (PRP me)))
+    (, ,)
+    (NP (DT this) (NN location))
+    (VP (VBZ is)
+      (ADJP (JJ open)
+        (PP (IN past)
+          (NP (CD 6) (NN pm))))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP I))
+          (VP
+            (VP (VBP get)
+              (PRT (RP off))
+              (NP (NN work)))
+            (, ,)
+            (CC and)
+            (VP (VBZ is)
+              (PP (IN on)
+                (NP (DT the) (NN way) (NN home))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Parking))
+      (VP (VBD was)
+        (ADJP (JJ plentiful))))
+    (PRN (, ,)
+      (S
+        (NP (NN service))
+        (VP (VBD was)
+          (ADJP (JJ great))))
+      (, ,))
+    (CC and)
+    (S
+      (NP (EX there))
+      (VP (VBD were)
+        (NP
+          (NP (DT no) (NNS lines))
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (PRP I))
+              (VP (VBD got)
+                (ADVP (RB there))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN about)
+      (NP (JJ 5-10) (NNS minutes)))
+    (ADVP (RB later))
+    (, ,)
+    (VP (VBP got)
+      (NP (PRP$ my) (NN shipment))
+      (: ...)
+      (UCP
+        (ADJP (JJ quick) (, ,) (JJ painless))
+        (, ,)
+        (CC and)
+        (NP (DT no) (NN problemo))))
+    (. !)))
+
+(ROOT
+  (NP (NNP ALOHA) (NNP !!!)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Shaka) (NNP Meter))
+    (: :)
+    (NP
+      (NP (JJ \) (NN uuu))
+      (NP
+        (PRN (: /)
+          (NP (JJ \) (NN uuu))
+          (: /))
+        (JJ \) (NN uuu)))
+    (: /)
+    (VP (VBN \)
+      (NP (NN uuu) (NN /) (CD 4)))))
+
+

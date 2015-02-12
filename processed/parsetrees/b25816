@@ -1,0 +1,135 @@
+(ROOT
+  (FRAG
+    (NP (NNP Super))
+    (ADJP (JJ friendly))
+    (ADVP (IN at) (RB fast))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VB Love)
+      (NP (PRP them)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD had)
+      (S
+        (VP (TO to)
+          (VP
+            (VP (VB copy))
+            (, ,)
+            (VP (VB print)
+              (NP (CC &)
+                (NN ship)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN staff))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (RB extremely) (JJ helpful))
+        (, ,)
+        (ADJP (RB very) (JJ efficient))
+        (CC and)
+        (ADJP (JJ friendly))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP have)
+        (VP (VBN had)
+          (NP (DT a) (NN mailbox))
+          (PP
+            (ADVP (RB here))
+            (IN for) (IN over)
+            (NP (DT a) (NN year))))))
+    (CC and)
+    (S
+      (NP (DT the) (NN service))
+      (VP (VBZ is)
+        (ADJP (JJ excellent))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ small) (NN staff))
+    (VP (VBP are)
+      (ADVP (RB always))
+      (ADJP (JJ helpful)
+        (CC and)
+        (JJ friendly)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP have)
+        (VP (VBN had)
+          (NP
+            (NP (NNS things))
+            (VP (VBN shipped) (, ,) (VBN packed) (, ,) (VBN faxed)
+              (CC and)
+              (VBN copied))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (ADVP (RB never))
+      (VP (VBD had)
+        (NP (DT a) (NN problem))
+        (SBAR (IN as)
+          (S
+            (NP (PRP they))
+            (VP (VBP are)
+              (ADVP (RB there))
+              (S
+                (VP (TO to)
+                  (VP (VB assist)
+                    (NP (PRP you))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (MD can)
+        (VP (VB get)
+          (PP (TO to)
+            (NP (PRP$ my) (NN box)))
+          (PP (IN after)
+            (NP (NNS hours))))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBP do) (RB n't)
+        (VP (VB mind)
+          (SBAR (IN if)
+            (S
+              (NP (PRP you))
+              (VP (VBP call)
+                (S
+                  (VP (TO to)
+                    (VP (VB see)
+                      (SBAR (IN if)
+                        (S
+                          (NP (PRP you))
+                          (VP (VBP have)
+                            (NP (DT a) (NN package))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN candy) (NN bowl))
+    (VP (VBZ is)
+      (NP (DT a) (NN plus))
+      (ADVP (RB too)))
+    (. .)))
+
+

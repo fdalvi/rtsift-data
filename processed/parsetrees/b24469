@@ -1,0 +1,106 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ great) (NN place))
+      (, ,)
+      (NP (NN everyone)))
+    (VP (VBZ is)
+      (ADJP (JJ friendly)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJS best) (NN part))
+    (VP (VBZ is)
+      (NP (DT the) (JJ nursery/kids) (NN club) (NN area)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NNS kids))
+    (VP (VBP love)
+      (NP
+        (NP (DT this))
+        (, ,)
+        (CONJP (RB as) (RB well) (IN as))
+        (NP
+          (NP (DT the) (NN wife))
+          (CC and)
+          (NP (PRP I)))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP we))
+      (VP (VBP drop)
+        (NP (PRP them))
+        (PRT (RP off))
+        (PP (IN for)
+          (NP
+            (QP (IN up) (TO to) (CD 1))
+            (NN hr)))))
+    (: ...)
+    (S
+      (NP (NN talk) (RB about))
+      (VP (VBP stress)
+        (NP (JJ free) (NN grocery) (NN shopping))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN location))
+    (VP (VBZ is)
+      (PP (IN in)
+        (NP (DT a) (RB very) (JJ pleasant) (NN neighborhood))))))
+
+
+(ROOT
+  (FRAG (RB Not)
+    (NP
+      (NP
+        (NP (DT the) (JJS smartest) (NNS people))
+        (CC and)
+        (NP (RB nowhere)))
+      (PP (IN near)
+        (NP (DT the) (JJS lowest) (NNS prices))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (RB only) (JJ good) (NN thing))
+      (PP (IN about)
+        (NP (DT this) (NNP Bashar))))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (VBZ is)
+            (ADJP (JJ convenient))
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP I))
+                (VP (VBP am)
+                  (PP (IN in)
+                    (NP (DT the) (NN neighborhood)
+                      (S
+                        (VP (TO to)
+                          (VP (VB get)
+                            (NP (PRP$ my) (NN hair) (NN cut))
+                            (PP (IN at)
+                              (NP (DT the) (NNP Great) (NNPS Clips)))
+                            (PRN (-LRB- -LRB-)
+                              (SBAR
+                                (WHNP (WDT which))
+                                (S
+                                  (VP (VBZ is)
+                                    (NP
+                                      (NP (DT the) (JJS best) (NN one))
+                                      (PP (IN in)
+                                        (NP (NNP Gilbert)))))))
+                              (-RRB- -RRB-))))))))))))))
+    (. .)))
+
+

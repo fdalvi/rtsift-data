@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (ADJP
+          (ADJP
+            (NP (DT A) (RB little))
+            (RBR more) (JJ expensive))
+          (ADVP (RB then)))
+        (NNS others))
+      (PP (IN in)
+        (NP
+          (NP (NN town))
+          (PP (CC but)
+            (NP
+              (NP (DT the) (NN customer) (NN service))
+              (CC and)
+              (NP (DT the) (JJ friendly) (NN service)))))))
+    (VP (VBZ is)
+      (ADJP (JJ worth)
+        (NP (PRP it))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD got)
+      (NP (PRP$ my) (NN car))
+      (PRT (RP in)
+        (CC and)
+        (RP out))
+      (PP (IN in)
+        (NP (CD 15) (NNS minutes))))
+    (. !)))
+
+(ROOT
+  (S
+    (ADVP (RB Now))
+    (NP (DT that))
+    (VP (VBZ is)
+      (NP (NN service)))
+    (. !)))
+
+

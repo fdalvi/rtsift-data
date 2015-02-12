@@ -1,0 +1,69 @@
+(ROOT
+  (FRAG
+    (NP (NNP Very))
+    (ADJP (JJ friendly))
+    (ADVP (RB here))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Great) (NN customer))
+    (NP (NN service))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS People))
+    (VP (VBP need)
+      (S
+        (VP (TO to)
+          (VP (VB remember)
+            (SBAR
+              (S
+                (NP (DT this))
+                (VP (VBZ is)
+                  (NP
+                    (NP (DT an) (NN ice) (NN cream) (NN shop))
+                    (ADJP (RB not) (JJ mcdonalds))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (INTJ (UH Yeah))
+      (NP (PRP they))
+      (VP (VBP have)
+        (NP (NN food) (NNS items))))
+    (CC but)
+    (S
+      (NP (NNP DQ))
+      (VP (VBZ is)
+        (NP
+          (NP (DT all))
+          (PP (IN about)
+            (NP (DT the) (VBN frozen) (NN treats))))))
+    (. !)))
+
+
+(ROOT
+  (PRN
+    (S
+      (NP (NNP Victoria))
+      (VP (VBD was)
+        (ADJP (RB very) (JJ helpful))
+        (PRN
+          (S (CC and)
+            (NP (JJ friendly))
+            (VP (VBP hope)
+              (PRN
+                (S
+                  (NP (DT the) (NN cake))
+                  (VP (VBZ is)
+                    (ADJP (RB as) (JJ good)
+                      (PP (IN as)
+                        (NP (DT the) (NN customer) (NN service))))))
+                (-RRB- -RRB-))))
+          (-RRB- -RRB-))))
+    (-RRB- -RRB-)))
+
+

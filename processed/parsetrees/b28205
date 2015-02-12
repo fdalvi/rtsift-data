@@ -1,0 +1,381 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 've)
+        (VP (VBN used)
+          (NP
+            (NP (NNP Controlled) (NNP Rain))
+            (PP (IN for)
+              (NP (NNS years)))))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBP 've)
+        (ADVP (RB always))
+        (VP (VBN arrived)
+          (PP (IN on)
+            (NP (NN time)))
+          (PP (IN with)
+            (NP (JJ great) (NN customer) (NN service))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP do) (RB n't)
+      (VP (VB know)
+        (SBAR
+          (SBAR (IN that)
+            (S
+              (NP (PRP they))
+              (VP (VBP 're)
+                (NP (DT the) (JJS cheapest)))))
+          (CC but)
+          (SBAR (IN if)
+            (S
+              (NP (PRP you))
+              (VP (VBP have)
+                (NP
+                  (NP (DT a) (JJ nasty) (NN irrigation) (NN problem))
+                  (SBAR
+                    (S
+                      (NP (PRP they))
+                      (VP (VBP 're)
+                        (NP
+                          (NP (DT all))
+                          (PP (IN over)
+                            (NP (PRP it))))))))))))))
+    (. !)))
+
+(ROOT
+  (NP (DT A) (NN +) (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (VP (VBN Called)
+        (PP (IN at)
+          (NP (CD 7:15) (RB am)))))
+    (, ,)
+    (VP (VBD received)
+      (NP (DT a) (NN call))
+      (ADVP (RB back))
+      (PP (IN at)
+        (NP (CD 7:55) (RB am))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (CD 5) (NNPS Minutes))
+      (PP (IN before)
+        (NP (PRP they))))
+    (VP (VBP are)
+      (VP (VBN scheduled)
+        (S
+          (VP (TO to)
+            (VP (VB open))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Sent)
+      (PP (IN out)
+        (NP (NNP Josh))
+        (NP (DT the) (JJ same) (NN day)))
+      (S
+        (VP (TO to)
+          (VP (VB take)
+            (NP (DT a) (NN look))
+            (PP (IN at)
+              (NP
+                (NP (DT a) (JJ leaking) (NN valve))
+                (PP (IN in)
+                  (NP (DT the) (JJ back) (NN yard)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VP (VBD Was)
+        (ADJP (RB very) (JJ honest)))
+      (, ,)
+      (CC and)
+      (VP
+        (VP (VBD said)
+          (S
+            (VP (TO to)
+              (VP (VB do)
+                (NP
+                  (NP (DT a) (NN couple))
+                  (PP (IN of)
+                    (NP (NNS things))))))))
+        (CC and)
+        (VP (MD will)
+          (VP (VB return)
+            (S
+              (VP (TO to)
+                (VP (VB fix)
+                  (PP (IN on)
+                    (NP (NNP Wednesday))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB Not) (DT an) (NN issue))
+      (PP (IN since)
+        (NP (DT the) (NN water))))
+    (VP (VBD was)
+      (ADJP (JJ able)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN turned)
+                (PRT (RP off))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBD Was)
+      (VP (VBG going)
+        (S
+          (VP (TO to)
+            (VP (VB replace)
+              (S
+                (NP (DT the) (NNS pipes))
+                (VP (VBG connecting)
+                  (NP
+                    (NP (DT the) (NNS valves))
+                    (PRN (-LRB- -LRB-)
+                      (NP (CD 3) (NNS valves))
+                      (-RRB- -RRB-))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Estimate))
+    (VP (VBD was)
+      (NP
+        (NP ($ $) (CD 110))
+        (, ,)
+        (PP (IN with)
+          (NP ($ $) (CD 10)))
+        (ADVP (IN off)
+          (PP (IN for)
+            (NP
+              (NP (DT the) (NNP Angie) (POS 's))
+              (NN list) (NN coupon))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (NNP Josh))
+        (VP
+          (VP (VBD returned)
+            (PP (IN on)
+              (NP
+                (NP (NNP Wednesday))
+                (PRN (-LRB- -LRB-)
+                  (PP (IN at)
+                    (NP
+                      (NP (NNS 9am))
+                      (, ,)
+                      (NP (DT the) (VBN scheduled) (NN time))))
+                  (-RRB- -RRB-)))))
+          (CC and)
+          (VP (VBD went)
+            (S
+              (VP (TO to)
+                (VP (VB go)
+                  (S
+                    (VP (TO to)
+                      (VP (VB work)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (CD 5) (NNS minutes) (RB later))
+    (NP (NNP Josh))
+    (VP (VBZ tells)
+      (NP (PRP me))
+      (NP
+        (NP (DT the) (NNS valves))
+        (SBAR
+          (S
+            (VP (VBD were)
+              (ADJP (RB simply) (JJ loose)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VP (VBD Was)
+        (ADJP (RB really) (JJ cool)))
+      (CC and)
+      (VP
+        (ADVP (RB just))
+        (VBD said)
+        (SBAR
+          (WHADVP (WRB how))
+          (S
+            (VP (MD would)
+              (ADVP (RB anyone))
+              (VP (VB know)
+                (SBARQ
+                  (WHADVP (WRB when))))))))
+      (NP (PRP$ its)
+        (ADJP (JJ under))
+        (NN water)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN After)
+      (S
+        (VP (VBG talking)
+          (PRT (RP about))
+          (SBAR (IN if)
+            (S
+              (NP (PRP we))
+              (VP (MD should)
+                (VP (VB move)
+                  (ADVP (RB forward))
+                  (PP (IN with)
+                    (NP (NN pipe) (NN replacement)))
+                  (, ,)
+                  (PP (VBN based)
+                    (PP (IN on)
+                      (NP (PRP$ his) (NN suggestion)))))))))))
+    (NP (PRP it))
+    (VP (VBD was) (RB n't)
+      (VP
+        (ADVP (RB really))
+        (VBN needed)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN After)
+      (S
+        (NP (PRP he))
+        (VP
+          (VP (VBP tighten)
+            (NP (PDT all) (DT the) (NNS valves)))
+          (, ,)
+          (CC and)
+          (VP (VBD checked)
+            (PP (IN for)
+              (NP (NNS leaks))))
+          (, ,)
+          (VP (VBD said)))))
+    (NP (PRP he))
+    (VP (VBD was)
+      (VP (VBG going)
+        (S
+          (VP (TO to)
+            (VP (VB do)
+              (NP
+                (NP (DT an) (NN evaluation))
+                (PP (IN of)
+                  (NP (DT the) (JJ whole) (NN yard)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD checked)
+      (NP (DT all) (NNS heads) (, ,) (NN coverage)
+        (CC and)
+        (NN anything) (NN pertaining))
+      (PP (TO to)
+        (NP (DT the) (NNS sprinklers))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (ADVP (RB Not) (RB only))
+    (VBD did)
+    (NP (PRP he))
+    (VP (VB do)
+      (NP (DT all))
+      (SBAR (IN that) (, ,)
+        (S
+          (NP (PRP he))
+          (VP
+            (VP (VBD set)
+              (NP (DT the) (NN timer)))
+            (, ,)
+            (CC and)
+            (VP (VBD made)
+              (NP
+                (NP (DT a) (NN couple))
+                (PP (IN of)
+                  (NP (NNS adjustments)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN After)
+      (NP (DT all)))
+    (NP
+      (NP (DT this))
+      (PRN (-LRB- -LRB-)
+        (NP
+          (NP
+            (QP (RB about) (CD 30))
+            (NNS minutes))
+          (PP (JJ worth) (IN of)
+            (NP (NN work))))
+        (-RRB- -RRB-))
+      (, ,))
+    (VP (VBD wrote)
+      (NP (DT a) (NN check))
+      (PP (IN for)
+        (NP ($ $) (CD 45))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Only))
+    (VP (VBD charged)
+      (S
+        (NP (PRP me))
+        (VP (TO to)
+          (VP (VB re-wire)
+            (NP
+              (NP (DT the) (NNS valves))
+              (CC and)
+              (NP (DT the)
+                (NP (DT the) (NN yard))
+                (NN evaluation)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (MD Would)
+      (VP (VB use)
+        (NP (DT these) (NNS guys))
+        (ADVP (RB again)
+          (CC and)
+          (RB again))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (JJ Great) (NN service))
+    (, ,)
+    (CC and)
+    (FRAG
+      (ADJP (JJ extreme))
+      (ADJP (JJ honest)
+        (CC and)
+        (JJ fair)))
+    (. .)))
+
+

@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (NNP Es) (NN geht) (NN doch))
+    (VP (VBZ nichts)
+      (S
+        (NP (NN ?ber) (NN ein) (NNS gepflegtes))
+        (NP (NNP Stout))))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VB Typisch))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (DT A) (JJ good) (NN boozer)
+      (S
+        (VP (TO to)
+          (VP (VB come)
+            (PP (TO to))
+            (PP (IN for)
+              (NP (DT a) (JJ quiet) (JJ few) (NNS pints)))))))
+    (VP (VBZ whilst)
+      (S
+        (VP (VBG watching)
+          (NP
+            (NP (NN sport))
+            (CC or)
+            (NP
+              (NP (DT the) (NN football) (NNS results))
+              (VP (VBG coming)
+                (PRT (RP in))))))))
+    (. .)))
+
+

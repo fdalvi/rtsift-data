@@ -1,0 +1,207 @@
+(ROOT
+  (S
+    (NP (CD One) (NN word))
+    (`` ``)
+    (VP (VBZ A-mazing))
+    (. !)))
+
+(ROOT
+  (S ('' '')
+    (NP (DT The) (NN staff))
+    (ADVP (IN at)
+      (NP (JJ little) (NNS tykes)))
+    (VP (VBZ is)
+      (ADJP (JJ phenomenal)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Dr.) (NNP Carmichael))
+      (CC and)
+      (NP (PRP$ his) (NN staff)))
+    (VP (MD will)
+      (VP (VB go)
+        (PRT (RP out))
+        (PP (IN of)
+          (NP (PRP$ their) (NN way)
+            (S
+              (VP (TO to)
+                (VP (VB make)
+                  (ADJP (JJ sure)
+                    (SBAR
+                      (S
+                        (NP (PRP you) (NNS concerns))
+                        (VP (VBP are)
+                          (VP (VBN addressed)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP are)
+      (ADJP
+        (ADJP (RB very) (VBG accommodating))
+        (CC and)
+        (ADJP (NN professional))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ My) (CD 4) (NN year))
+      (ADJP (JJ old)))
+    (VP (VBZ loves)
+      (S
+        (VP (VBG going))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Thank)
+      (S
+        (NP (PRP you))
+        (NP (DT all))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (NNP Dr.) (NNP Carmichael))
+    (VP (VBZ is)
+      (NP (DT an) (JJ amazing) (JJ pediatric) (NN dentist)))
+    (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Really))
+      (VP (VBD loved)
+        (NP (DT the) (NNP Dr.))))
+    (CC but)
+    (S
+      (NP
+        (NP (DT the) (NN hygenist))
+        (SBAR
+          (S
+            (NP (PRP we))
+            (VP (VBD saw))))
+        (PRN (-LRB- -LRB-)
+          (NP
+            (NP
+              (NP (DT both) (NNS times))
+              (PP (IN with)
+                (NP (PRP$ my) (JJR older) (NN daughter-age))))
+            (NP (CD 6)))
+          (-RRB- -RRB-)))
+      (ADVP (RB highly))
+      (VP (VBN encouraged)
+        (S
+          (NP (PRP me))
+          (VP (TO to) (`` ``)
+            (VP (VB wait)
+              (PP (IN in)
+                (NP (DT the) (VBG waiting) (NN room) ('' '')))
+              (SBAR (IN while)
+                (S
+                  (NP (PRP she))
+                  (VP (VBD took)
+                    (NP (PRP her))
+                    (ADVP (RB away))
+                    (PP (IN for)
+                      (NP (NNS procedures)))
+                    (SBAR (IN because) (`` ``)
+                      (S
+                        (NP (NNS kids))
+                        (VP (VBP do)
+                          (ADVP
+                            (ADVP (RBR better))
+                            (SBAR
+                              (WHADVP (WRB when))
+                              (S
+                                (NP (NNS parents))
+                                (VP (VBP are) (RB n't)
+                                  (ADVP (RB around)))))))))))))
+            ('' '')))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (MD would) (RB n't)
+        (VP (VB allow)
+          (NP (PRP it))))
+      (: -)
+      (CC but)
+      (VP (VBP think)
+        (SBAR
+          (S
+            (NP (DT some) (NNS parents))
+            (VP (MD may) (RB not)
+              (VP (VB know)
+                (SBAR (IN that)
+                  (S
+                    (NP (PRP they))
+                    (VP (MD can)
+                      (CC and)
+                      (MD should)
+                      (VP (VB ask)
+                        (S
+                          (VP (TO to)
+                            (VP (VB be)
+                              (ADJP (JJ present)
+                                (PP (IN during)
+                                  (NP
+                                    (NP (JJ medical) (NNS exams/procedures))
+                                    (VP (VBG involving)
+                                      (NP (PRP$ their) (NNS children)))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN hygenist) (POS 's))
+    (ADVP (RB here))
+    (VP
+      (VP (VBP need)
+        (NP (DT a) (JJ little) (NN training))
+        (PP (IN on) (`` ``)
+          (NP
+            (ADJP (NN family) (VBD centered))
+            (NN care))
+          ('' '')))
+      (CC and)
+      (VP (VBP need)
+        (S
+          (VP (TO to)
+            (VP
+              (VP (VB put)
+                (NP (PRP$ their) (JJ own) (NNS conveniences))
+                (PP (TO to)
+                  (NP (DT the) (NN side))))
+              (CC and)
+              (RB not)
+              (VP (VB act)
+                (SBAR (RB as) (IN if)
+                  (S
+                    (NP (NNS parents))
+                    (VP (VBP are)
+                      (PP (IN in)
+                        (NP (DT the) (NN way))))))))))))
+    (. .)))
+
+(ROOT
+  (X
+    (NP (JJ Cute) (, ,) (JJ kid) (JJ friendly) (NN environment))
+    (: -)
+    (S (CC but)
+      (NP (DT the) (NN staff))
+      (VP (VBZ needs)
+        (S
+          (VP (TO to)
+            (VP (VB match)
+              (NP (DT the) (NN decor)))))))
+    (. .)))
+
+

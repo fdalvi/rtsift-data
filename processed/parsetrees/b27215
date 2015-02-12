@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (NNP Food))
+    (VP (VBZ is)
+      (ADJP (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBD did) (RB n't)
+        (VP (VB honor)
+          (NP (PRP$ our) (NN restaurant.com) (NN coupon)))))
+    (CC but)
+    (S
+      (NP (NN food))
+      (VP (VBD was)
+        (ADJP (RB super) (JJ cheap))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Avg) (NNP entree) (NN price))
+    (VP (VBZ is)
+      (PP (IN under)
+        (NP (CD 10) (NNS bucks))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Service))
+    (VP (VBP ok)
+      (NP (JJ weak) (NNP English)))
+    (. .)))
+
+

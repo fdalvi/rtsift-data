@@ -1,0 +1,451 @@
+(ROOT
+  (FRAG
+    (NP (NNP Time))
+    (S
+      (VP (TO to)
+        (VP (VB mix)
+          (NP (PRP it))
+          (ADVP (RB up))
+          (: ...)
+          (PP (IN with)
+            (NP
+              (NP (DT a) (NN review))
+              (PP (IN of)
+                (NP (PRP$ my) (NN bank))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 've)
+      (VP (VBN been)
+        (NP
+          (NP (DT a) (NNP BofA) (NN customer))
+          (PP (IN for)
+            (NP (NNS years))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD started)
+      (PP (IN with)
+        (NP (PRP them)))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP I))
+          (VP (VBD opened)
+            (NP (PRP$ my) (JJ first) (NN bank) (NN account))
+            (PP (IN in)
+              (NP (NNP Georgia)))
+            (ADVP
+              (NP
+                (QP (NN close) (TO to) (CD 15))
+                (NNS years))
+              (RB ago))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VB stick)
+        (PP (TO to)
+          (NP (DT the) (NNPS ATMs))))
+      (CC and)
+      (VP (VB manage)
+        (NP (PRP$ my) (NNS accounts))
+        (PP (NN online))
+        (SBAR
+          (WHADVP (WRB whenever))
+          (S
+            (SBAR
+              (UCP
+                (ADJP (JJ possible))
+                (CC but)
+                (ADVP (DT every) (RB now)
+                  (CC and)
+                  (RB then)))
+              (S
+                (NP (PRP I))
+                (VP (VBP do))))
+            (VP (VBP need)
+              (S
+                (VP (TO to)
+                  (VP (VB go)
+                    (PP (IN into)
+                      (NP
+                        (NP (DT the) (NN bank))
+                        (PP (IN for)
+                          (NP
+                            (NP (DT a) (NN transaction))
+                            (PP (IN of)
+                              (NP (DT some) (NN sort)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP I))
+        (VP (VBP do)
+          (S
+            (VP (VB go)
+              (PRT (RP in)))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (ADVP (RB usually))
+      (NP
+        (NP (NNP Eddie))
+        (PP (IN at)
+          (NP (DT this) (NN location))))
+      (SBAR (IN that)
+        (S
+          (NP (PRP I))
+          (VP (VBP work)
+            (PP (IN with))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VP (VBZ 's)
+        (ADJP (RB very) (NN professional)))
+      (CC and)
+      (VP (VBZ takes)
+        (NP
+          (NP
+            (NP (NN care))
+            (PP (IN of)
+              (NP
+                (NP (NN business))
+                (PP (IN for)
+                  (NP (PRP us))))))
+          (: -)
+          (NP (DT no) (NN problem)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP (JJ interesting))
+      (SBAR (IN because)
+        (S
+          (NP
+            (NP (PRP$ my) (NN husband) (POS 's))
+            (NN work)
+            (CC and)
+            (JJ personal) (NN bank) (NNS accounts))
+          (VP (VBP are)
+            (PP (IN at)
+              (NP
+                (NP (DT another) (NN bank))
+                (PP (IN with)
+                  (NP (DT a) (NN branch)))))
+            (ADVP (RB just) (RB down)
+              (NP (DT the) (NN street))
+              (PP (IN from)
+                (NP (DT this) (NN one))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP He))
+      (VP (VBZ loves)
+        (NP (PRP$ his) (NN bank))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (ADVP (RB somehow))
+      (VP (VBD convinced)
+        (S
+          (NP (PRP him))
+          (VP (TO to)
+            (VP (VB keep)
+              (NP (PRP$ our) (VBN shared) (NN account))
+              (PP (IN at)
+                (NP (NNP BofA))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP (PRP I))
+        (VP (VBP 've)
+          (VP (VBN had)
+            (S
+              (VP (TO to)
+                (VP (VB go)
+                  (PP (TO to)
+                    (NP
+                      (NP (PRP$ his) (NN bank))
+                      (PP (IN for)
+                        (NP (DT some) (NNS transactions)))))
+                  (ADVP (RB as) (RB well))))))))
+      (, ,)
+      (CC and)
+      (S
+        (NP (PRP I))
+        (VP (VBP see)
+          (SBAR
+            (WHADVP (WRB why))
+            (S
+              (NP (PRP he))
+              (VP (VBZ is)
+                (ADJP (JJ loyal)
+                  (PP (TO to)
+                    (NP (PRP them))))))))))
+    (: ;)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (NP
+          (NP (DT a) (JJR friendlier) (NN atmosphere))
+          (PP (IN over)
+            (NP (RB there))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Nonetheless))
+    (, ,)
+    (NP (PRP I))
+    (VP
+      (VP (VBP 'm)
+        (ADVP (RB still))
+        (NP (DT a) (JJ loyal) (NNP BofA) (NN customer)))
+      (CC and)
+      (VP (MD ca) (RB n't)
+        (VP (VB complain)
+          (PP (IN about)
+            (NP (PRP$ their) (NNS services)))
+          (ADVP (IN at) (DT all)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP wish)
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (MD could)
+              (VP (VB say)
+                (SBAR (IN that)
+                  (S
+                    (NP (PRP I))
+                    (VP (VBP 'm)
+                      (VP (VBG making)
+                        (NP
+                          (NP (DT a) (NN ton))
+                          (PP (IN of)
+                            (NP (NN money))))
+                        (PP (IN on)
+                          (NP (DT the) (NN interest)))))))))))))
+    (PRN
+      (S
+        (NP (PRP I))
+        (VP (VBP 'm)
+          (VP (VBG earning)
+            (PP (IN with)
+              (NP (PRP$ my) (NNP BofA) (NNS accounts))))))
+      (, ,))
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBP 'm) (RB not)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 'm) (RB not)
+      (VP (VBG losing)
+        (NP (NN money))
+        (ADVP (RB either))
+        (ADVP (RB though))))
+    (. .)))
+
+(ROOT
+  (S (IN So)
+    (SBAR (IN if)
+      (S
+        (NP (PRP you))
+        (VP (VBP 're)
+          (VP (VBG looking)
+            (PP (IN for)
+              (NP
+                (NP (DT a) (JJ reliable) (NN bank))
+                (PP (IN with)
+                  (NP
+                    (NP (DT a) (JJ convenient) (NN location))
+                    (PP (IN in)
+                      (NP (DT the) (NNP Old) (NNP Town) (NN area)))))))))))
+    (, ,)
+    (NP (DT this))
+    (VP (MD may)
+      (VP (VB be)
+        (PP (IN for)
+          (NP (PRP you)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (ADVP (RB normally))
+      (VP (VBP do) (RB n't)
+        (VP (VB make)
+          (NP (NNS trips))
+          (PP (TO to)
+            (NP (DT the) (NN bank)))
+          (SBAR
+            (ADVP (RB now))
+            (IN that)
+            (S
+              (NP (NNP BofA))
+              (VP (VBZ has)
+                (NP
+                  (NP (DT the) (NN deposit) (NN option))
+                  (PP (IN from)
+                    (NP (PRP$ your) (NN phone))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP I))
+          (VP (VBP have)
+            (VP (VBN had)
+              (S
+                (VP (TO to)
+                  (VP (VB go)
+                    (PP (IN into)
+                      (NP (DT the) (NN bank))))))))))
+      (NP (PRP I))
+      (VP (VBP 've)
+        (ADVP (RB always))
+        (VP (VBN been)
+          (VP (VBN treated)
+            (ADVP (RB well))
+            (PP (IN by)
+              (NP
+                (NP (DT the) (JJ courteous) (NN staff))
+                (PP (IN at)
+                  (NP (DT this) (NN location)))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN customer) (NN service))
+      (PP (IN at)
+        (NP (DT this) (NN location))))
+    (VP (VBZ is)
+      (NP (DT the) (JJS best)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT Every) (NN one))
+    (VP (VBZ is)
+      (VP (VBN super)
+        (S
+          (ADJP (JJ nice) (, ,) (JJ helpful)
+            (CC and)
+            (JJ efficient)))))
+    (. !)))
+
+
+(ROOT
+  (NP
+    (NP (JJ Fast) (NN service))
+    (PP (IN inside)
+      (NP (DT the) (NN branch)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (RB now)))
+    (, ,)
+    (NP (EX there))
+    (VP (VBZ 's)
+      (NP
+        (QP (RB only) (CD 1))
+        (JJ drive-thru) (NN lane)
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (NP (PRP you))
+            (VP (MD can)
+              (VP (VB do)
+                (NP (NNS payments))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ other) (NN lane))
+    (VP (VBZ is) (RB either)
+      (ADVP (IN out)
+        (PP (IN of)
+          (NP (NN service) (NNS and/or))))
+      (VP (VBG being)
+        (VP (VB fix))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD waited)
+      (PP (IN for)
+        (NP
+          (QP (RB about) (CD 10))
+          (NNS minutes))
+        (ADVP (RB recently)))
+      (PP (IN at)
+        (NP (DT the) (JJ drive-thru) (NN lane))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP need)
+      (S
+        (VP (TO to)
+          (VP (VB make)
+            (ADJP (JJ sure)
+              (SBAR
+                (S
+                  (NP (PRP they))
+                  (VP (VBP have)
+                    (NP
+                      (NP (JJ enough) (NNS lanes))
+                      (PP (IN for)
+                        (NP (PRP$ their) (JJ daily) (NNS businesses))))))))
+            (SBAR (IN as)
+              (S
+                (NP (EX there))
+                (VP (VBZ 's)
+                  (NP
+                    (NP (RB only) (CD one) (NN B))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT A) (NN branch))
+                        (PP (IN in)
+                          (NP (DT the) (NN area)))))))))))))
+    (. .)))
+
+

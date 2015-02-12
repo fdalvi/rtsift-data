@@ -1,0 +1,185 @@
+(ROOT
+  (S
+    (NP (NNS Ravenous))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ great) (NN sandwich) (NN bar))
+        (VP
+          (VP (VBN located)
+            (PP (IN on)
+              (NP (NNP Dundas) (NNP Street))))
+          (CC and)
+          (VP (VBZ offers)
+            (NP (JJ great) (NN quality) (NN food))
+            (PP (IN at)
+              (NP
+                (ADJP (RB very) (JJ good))
+                (NNS prices)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN sandwich) (NN bar))
+    (VP
+      (VP (VBZ is)
+        (ADJP (RB relatively) (JJ new)
+          (PP (TO to)
+            (NP (NNP Edinburgh)))))
+      (CC and)
+      (VP (VBD opened)
+        (ADVP
+          (NP
+            (QP (RB only) (DT a) (JJ few))
+            (NNS months))
+          (RB ago))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (ADVP (RB first))
+      (VP (VBN attracted)
+        (PP (TO to)
+          (NP (DT the) (NN bar)))
+        (PP (IN by)
+          (NP
+            (NP (DT the) (JJ modern) (NN d?cor))
+            (CC and)
+            (NP (DT the) (JJ cool) (NN name))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN bar))
+      (VP (VBZ does)
+        (NP (NNS breakfasts)
+          (CC and)
+          (NNS lunches))))
+    (: -)
+    (S
+      (PP (IN in)
+        (NP (DT the) (NN morning)))
+      (NP (PRP you))
+      (VP (MD can)
+        (VP (VB have)
+          (NP (NN porridge)
+            (CC and)
+            (NNS rolls))
+          (, ,)
+          (SBAR (IN although)
+            (S
+              (NP (PRP I))
+              (VP (VBP have) (RB not)
+                (VP (VBN tried)
+                  (ADVP (DT this)
+                    (CC yet)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (NN afternoon)))
+    (, ,)
+    (S
+      (NP (PRP you))
+      (VP (MD can)
+        (VP (VB get)
+          (NP
+            (NP (DT a) (JJ good) (NN selection))
+            (PP (IN of)
+              (NP (NNS sandwiches) (, ,) (NNS soups)
+                (CC and)
+                (NNS paninis)))))))
+    (CC and)
+    (S
+      (NP (EX there))
+      (VP (VBZ is)
+        (ADVP (RB also))
+        (NP
+          (NP (DT a) (JJ good) (NN range))
+          (PP (IN of)
+            (NP
+              (NP (NNS salads))
+              (, ,)
+              (SBAR
+                (WHADVP (WRB where))
+                (S
+                  (NP (PRP you))
+                  (VP (MD can)
+                    (VP (VB get)
+                      (NP
+                        (NP (DT a) (NN selection))
+                        (PP (IN of)
+                          (NP (NN salad))))
+                      (S
+                        (VP (TO to)
+                          (VP (VB choose)
+                            (PP (IN from))
+                            (S
+                              (VP (TO to)
+                                (VP (VB put)
+                                  (PP (IN in)
+                                    (NP (DT a) (NN salad) (NN box))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBZ is)
+        (NP
+          (NP (DT a) (JJ few) (NNS seats))
+          (PP (IN in)
+            (NP (RB there))))
+        (SBAR (IN although)
+          (S
+            (NP
+              (NP (RB not) (JJ many))
+              (, ,)
+              (CC and)
+              (NP (DT the) (NN place)))
+            (VP (MD can)
+              (VP (VB get)
+                (ADJP (RB pretty) (JJ busy)
+                  (PP (IN at)
+                    (NP (NN lunch) (NNS times))))
+                (SBAR (IN as)
+                  (S
+                    (NP (DT the) (NN office) (NNS workers))
+                    (VP (VBP fill)
+                      (NP (DT the) (NN place)))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT the) (NN staff))
+      (VP (VBD were)
+        (ADJP (RB very) (JJ good)
+          (PP (IN at)
+            (S
+              (VP (VBG providing)
+                (NP (JJ quick)
+                  (CC and)
+                  (JJ polite) (NN service))))))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (JJ good) (NN mocha))
+    (PP (IN for)
+      (NP (# #) (CD 2)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP they))
+    (VP (VBP sell)
+      (NP
+        (NP (JJ small) (NNS bags))
+        (PP (IN of)
+          (NP (JJ haggis) (NNS crisps)))))
+    (. !)))
+
+

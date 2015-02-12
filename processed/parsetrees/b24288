@@ -1,0 +1,135 @@
+(ROOT
+  (S
+    (NP (DT A)
+      (ADJP (RB very) (JJ solid) (, ,) (JJ inexpensive))
+      (NN pizza))
+    (VP (VB buffet))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP like)
+      (S
+        (NP (DT the) (NN food))
+        (ADJP
+          (ADJP (RB much) (JJR better))
+          (PP (IN than)
+            (NP (NNP Cici) (POS 's))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ cheesy) (NNS breadsticks))
+    (VP (VBP are)
+      (ADVP (RB heart-stoppingly))
+      (ADJP (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN buffet))
+      (VP (VBZ includes)
+        (NP
+          (NP (DT a) (NN salad) (NN bar))
+          (CC and)
+          (NP (DT some) (NNS pastas)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (ADVP (RB usually))
+      (VP (VBP stick)
+        (PP (IN with)
+          (NP (DT the) (NN pizza)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB Only) (NN thing))
+      (VP (VBG lacking)))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN dessert) (NN selection))
+        (SBAR
+          (S
+            (VP (VBZ does) (RB n't)
+              (VP (VB compare)
+                (PP (IN with)
+                  (NP (NNP Cici) (POS 's)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN lot))
+      (PP (IN of)
+        (NP (DT the) (NN time))))
+    (ADVP (RB there))
+    (VP (VBZ is)
+      (NP (DT no) (NN dessert) (NN pizza))
+      (ADVP (RB out)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (MD will)
+      (VP (VB make)
+        (SBAR
+          (WHNP (WDT whatever))
+          (S
+            (NP (PRP you))
+            (VP (VBP ask)
+              (PP (IN for)
+                (NP
+                  (NP (IN though) (RB so))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (VBZ 's)
+                        (NP (DT a) (JJ definite) (NN plus))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Could))
+    (VP (VBP stand)
+      (S
+        (VP (TO to)
+          (VP (VB have)
+            (NP
+              (NP (DT the) (NNS tables)
+                (CC and)
+                (NNS booths))
+              (VP (VBN wiped)
+                (PRT (RP down))
+                (ADVP
+                  (ADVP
+                    (ADVP
+                      (NP (DT a) (RB bit))
+                      (RBR more))
+                    (RB frequently) (RB as))
+                  (RB well))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (NN restaurant))
+    (VP
+      (VP (VBZ is)
+        (ADVP (RB now))
+        (ADJP (JJ closed)))
+      (CC and)
+      (VP (VBD was)
+        (VP (VBN replaced)
+          (PP (IN by)
+            (NP
+              (NP (DT a) (NN place))
+              (VP (VBN called)
+                (NP (NNS NaNos))))))))))
+
+

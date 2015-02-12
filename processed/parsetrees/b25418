@@ -1,0 +1,122 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT This) (NNP Circle) (NNP K))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBP 'm)
+            (VP (VBG guessing))))))
+    (VP (VBZ is)
+      (NP
+        (NP (CD one))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN 1st))
+            (PP (IN in)
+              (NP
+                (NP (NNP Gilbert))
+                (VP (VBG judging)
+                  (PP (IN by)
+                    (SBAR
+                      (WHADVP (WRB how))
+                      (S
+                        (NP (DT the) (NN building))
+                        (VP (VBZ looks))))))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Friendly))
+    (NP
+      (NP (NNS people))
+      (CC and)
+      (NP (JJ good) (NN coffee)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Staff))
+      (VP (VBZ is)
+        (ADJP (JJ friendly)
+          (CC and)
+          (JJ nice))))
+    (, ,)
+    (NP (NNP Store))
+    (VP (VBZ is)
+      (ADVP (RB always))
+      (ADJP (JJ clean)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP (DT a) (NN gas) (NN station))
+      (SBAR (IN so)
+        (S
+          (NP (PRP you))
+          (VP (MD ca) (RB n't)
+            (VP (VB expect)
+              (NP (RB much)))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP (DT this))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJS closest) (NN gas) (NN station))
+        (PP (TO to)
+          (NP (PRP$ my) (NN house))))
+      (SBAR (IN so)
+        (S
+          (NP (PRP I))
+          (VP (VBP am)
+            (ADVP (RB here))
+            (VP
+              (ADVP (RB often) (RB no))
+              (NN matter)
+              (NP
+                (NP (DT the) (NN time))
+                (PP (IN of)
+                  (NP (DT the) (NN day)
+                    (CC or)
+                    (NN night)))))))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP
+      (NP (DT No) (NNS hotdogs))
+      (PP (IN on)
+        (NP (DT the) (NNS rollers))))
+    (: ...)
+    (NP (NNP FAIL))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Circle) (NNP K))
+    (VP (VBZ has)
+      (NP
+        (NP (JJ few) (NNS expectations))
+        (SBAR
+          (S
+            (NP (CC but)
+              (NP (NN gas))
+              (, ,)
+              (NP (NN coffee))
+              (, ,)
+              (CC and)
+              (NP (NNS hotdogs)))
+            (VP (VBP are)
+              (NP (DT a) (MD must))))))
+      (PP (IN for)
+        (NP (DT a) (CD five) (NN star) (NN rating))))
+    (. .)))
+
+

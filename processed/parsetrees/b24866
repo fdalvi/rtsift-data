@@ -1,0 +1,197 @@
+(ROOT
+  (NP (JJ Great) (NN location) (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP like)
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (VBZ 's)
+            (VP (VBN carpeted))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (DT This) (NNP CVS))
+      (VP (VBZ is)
+        (ADVP (RB conveniently)
+          (S
+            (VP (VBN located)
+              (PP (IN on)
+                (NP (DT the) (NN corner))))))))
+    (, ,) (IN so)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADJP (JJ great)
+          (PP (IN for)
+            (NP
+              (NP (DT any))
+              (VP (VBN forgotten)
+                (NP
+                  (NP (NNS items))
+                  (SBAR
+                    (S
+                      (NP (PRP you))
+                      (VP (VBP need)
+                        (S
+                          (VP (TO to)
+                            (VP (VB get)
+                              (PP (IN on)
+                                (NP (DT the) (NN way) (NN home))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VP (VBP sell)
+        (NP (NN liquor)))
+      (, ,)
+      (VP (VBP have)
+        (NP (DT a) (NN prescription) (NN drive) (NN thru)))
+      (, ,)
+      (CC and)
+      (VP (VBP are)
+        (ADJP (JJ open)
+          (NP (CD 24) (NNS hours)))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP love)
+      (NP (DT this) (NNP CVS)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP get)
+      (SBAR
+        (S
+          (NP (PDT all) (PRP$ my) (NN Rx))
+          (VP
+            (VP (VBZ 's)
+              (ADVP (RB here)))
+            (PRN (-LRB- -LRB-)
+              (SBAR (IN unless)
+                (S
+                  (NP
+                    (NP (PRP$ their) (NN out))
+                    (PP (IN of)
+                      (NP (PRP$ my))))
+                  (VP (VBZ meds))))
+              (-RRB- -RRB-))
+            (CC and)
+            (VP
+              (NP (NN shop))
+              (ADVP
+                (ADVP
+                  (ADVP (RB here) (RB quite))
+                  (RB often) (RB especially))
+                (PP (IN for)
+                  (NP (DT the) (NN coupon) (NNS sales) (NNS items)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN store))
+    (VP (VBZ is)
+      (ADVP (RB always))
+      (ADJP (JJ nice)
+        (CC and)
+        (JJ clean)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS people))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBP work)
+            (ADVP (RB there))))))
+    (VP (VBP are)
+      (ADJP (RB very) (JJ friendly)
+        (CC and)
+        (JJ helpful)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ only) (NN reason))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBP give)
+            (NP (PRP it))
+            (NP (CD 4) (NNS stars))))))
+    (VP (VBZ is)
+      (SBAR (IN because)
+        (S
+          (NP (PRP they))
+          (VP (VBP have)
+            (NP
+              (NP (CD one) (NN cashier))
+              (SBAR
+                (WHNP (WP who))
+                (S
+                  (VP (VBZ is)
+                    (ADJP (RB extremely) (JJ irritating))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VP (VBZ is)
+        (ADJP (RB extremely) (JJ slow)))
+      (CC and)
+      (VP (VBZ makes)
+        (S
+          (NP (NNS transactions))
+          (ADJP (JJ difficult))
+          (SBAR (RB especially) (IN if)
+            (S
+              (NP (PRP you))
+              (VP (VBP have)
+                (NP
+                  (NP (DT a) (NN return))
+                  (PRN (-LRB- -LRB-)
+                    (PP
+                      (ADVP (RB even))
+                      (IN with)
+                      (NP (DT the) (NN receipt)))
+                    (-RRB- -RRB-)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP try)
+        (S
+          (VP (TO to)
+            (VP (VB go)
+              (PP (TO to)
+                (NP (DT another) (NN cashier))))))))
+    (CC but)
+    (S
+      (NP (PRP they))
+      (ADVP (RB usually))
+      (ADVP (RB only))
+      (VP (VBP have)
+        (S
+          (NP (CD one) (NN line))
+          (ADJP (JJ open)))))
+    (. .)))
+
+

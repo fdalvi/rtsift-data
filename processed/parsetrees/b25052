@@ -1,0 +1,197 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (MD will)
+        (VP (VB tell)
+          (NP (PRP you))
+          (NP
+            (NP (PRP$ your) (NN insurance) (NN company) (NNS states))
+            (SBAR
+              (S
+                (NP (PRP you))
+                (VP
+                  (VP (VBP have) (RB not)
+                    (VP (VBN met)
+                      (NP (PRP$ your) (JJ deductible))))
+                  (, ,)
+                  (CC and)
+                  (VP (MD will)
+                    (VP (VB have)
+                      (S
+                        (NP (PRP you))
+                        (VP (VB pay)
+                          (PRT (RP out))
+                          (PP (IN of)
+                            (NP (NN pocket))))))))))))))
+    (: ...)
+    (CC and)
+    (S
+      (SBAR (IN if)
+        (S
+          (NP (PRP you))
+          (VP (VBP do) (RB not))))
+      (NP (PRP you))
+      (VP (MD can) (RB not)
+        (VP (VB be)
+          (VP (VBN seen)))))
+    (. .)))
+
+(ROOT
+  (S (RB Then)
+    (NP (PRP they))
+    (VP (MD will)
+      (VP
+        (VP (VB bill)
+          (NP (PRP$ your) (NN insurance) (NN carrier)))
+        (, ,)
+        (CC and)
+        (VP (VB get)
+          (VP (VBN paid)))
+        (, ,)
+        (CC and)
+        (VP (RB not)
+          (VP (VB reimburse)
+            (NP (PRP you))
+            (, ,)
+            (SBAR (IN unless)
+              (S
+                (NP (PRP you))
+                (VP
+                  (VP (VBP happen)
+                    (S
+                      (VP (TO to)
+                        (VP (VB call)
+                          (NP (PRP$ your) (NN insurance) (NN carrier))))))
+                  (CC and)
+                  (VP (VBP note)
+                    (SBAR
+                      (S
+                        (NP (PRP they))
+                        (VP (VBP have)
+                          (VP (VBN been)
+                            (VP (VBN paid)))))))))))
+          (CC and)
+          (VP (VB call)
+            (PP (IN for)
+              (NP (NN reimbursement)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP you))
+        (VP (VBP call)
+          (PP (IN for)
+            (NP (NN reimbursement))))))
+    (, ,)
+    (NP (PRP they))
+    (VP
+      (VP (MD will) (RB not)
+        (VP (VB apologize)))
+      (, ,)
+      (CC and)
+      (VP (MD will)
+        (VP (VB treat)
+          (NP (PRP you))
+          (PP (IN in)
+            (NP (DT a)
+              (ADJP (RBR less) (IN than) (JJ kind))
+              (NN manner))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP guess)
+      (S
+        (VP (VBG getting)
+          (VP (VBN caught)
+            (NP
+              (NP (NN double-dipping))
+              (VP (VBN ticked)
+                (NP (PRP them))
+                (PRT (RP off))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VBN Stopped)
+      (PP (IN by)
+        (NP (RB here)))
+      (PP (IN with)
+        (NP (DT some) (JJ strep) (NN throat))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBD were)
+        (ADJP (RB very) (JJ quick))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (NN lady))
+      (ADVP (RB up) (RB front))
+      (VP (VBD was)
+        (ADJP
+          (ADJP (RB very) (JJ nice))
+          (CC and)
+          (ADJP (VBG accommodating)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNP Doctor))
+      (VP (VBD was)
+        (ADJP (RB very) (JJ helpful))))
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP (VBD offered)
+        (NP (PRP me))
+        (NP
+          (NP (JJ many) (JJ different) (NNS options))
+          (PP (IN for)
+            (NP (NNS medicines)
+              (CC and)
+              (NNS treatments))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 've)
+        (ADVP (RB also))
+        (VP (VBN had)
+          (NP
+            (NP (JJ other) (NN family) (NNS members))
+            (VP (VBN come)
+              (PP (TO to)
+                (NP (DT this) (NN location))))))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (ADVP (DT all))
+      (VP (VBD enjoyed)
+        (NP (PRP$ their) (NN experience))))
+    (. .)))
+
+
+(ROOT
+  (FRAG
+    (ADJP (JJ Fast)
+      (CC and)
+      (JJ easy))
+    (. .)))
+
+(ROOT
+  (NP (NNP Love) (NNP WAHOO) (. !)))
+
+

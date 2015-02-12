@@ -1,0 +1,109 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 've)
+        (VP (VBN been)
+          (PP (TO to)
+            (NP (DT this) (NN place))))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (`` `)
+      (VP (VBP snot)
+        (ADVP (RB exactly))
+        (NP (PRP$ my) (NN favourite))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN food))
+    (VP (VBZ 's)
+      (VP (VBN rotton)
+        (PP (IN in)
+          (NP (DT the) (NN refectory)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (ADVP (RB ever))
+        (NP (PRP you))
+        (VP (VBP ask)
+          (PP (IN for)
+            (NP (DT a) (NN roll) (NN w) (NN sausage)
+              (CC or)
+              (NN bacon) (NN etc))))))
+    (NP (PRP you))
+    (VP (VBP have)
+      (S
+        (VP (TO to)
+          (VP (VB ask)
+            (PP (IN for)
+              (NP (DT the) (NN butter)))
+            (SBAR (IN as)
+              (S
+                (NP (DT the) (NN butter))
+                (VP (VBZ is) (RB not)
+                  (PP (IN in)
+                    (NP (DT the) (JJ prepared) (NN roll))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP give)
+      (NP (PRP you))
+      (NP (DT a)
+        (ADJP (RB wee) (JJ scabby))
+        (NN plastic) (NN knife)
+        (S
+          (VP (TO to)
+            (VP (VB butter)
+              (NP (DT the) (NN roll))
+              (PP (IN with)
+                (ADVP (RB as) (RB well))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (NN refectory)))
+    (NP (PRP you))
+    (VP (VBP are) (RB not)
+      (VP (VBN allowed)
+        (S
+          (VP (TO to)
+            (VP (VB take)
+              (NP (DT a) (JJ packed) (NN lunch)))))
+        (, ,)
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (FW i))
+            (ADVP (RB first))
+            (VP (VBD heard)
+              (SBAR (IN that)
+                (S
+                  (NP (PRP I))
+                  (VP (VBD thought)
+                    (NP (NN wtf))))))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP want)
+          (NP (JJ decent) (NN lunch) (NN advice)))))
+    (VP (VB go)
+      (NP (NN home))
+      (RB then)
+      (VP (VB return)
+        (ADVP (RB afterwards))))
+    (. .)))
+
+

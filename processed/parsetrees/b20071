@@ -1,0 +1,246 @@
+(ROOT
+  (S
+    (NP (NNP Herbie) (POS 's))
+    (VP (VBZ does)
+      (NP (PRP$ my) (NN head))
+      (PP (IN in)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN branch))
+    (VP (VBZ is)
+      (ADJP (JJ tiny))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ means)
+            (SBAR (IN if)
+              (S
+                (NP (PRP you))
+                (VP (VBP 're)
+                  (NP
+                    (NP (DT a) (NN claustrophobe))
+                    (PP (IN like)
+                      (NP (PRP me)))
+                    (SBAR
+                      (S
+                        (NP (PRP you))
+                        (VP (MD can)
+                          (ADVP (RB only))
+                          (VP (VB shop)
+                            (ADVP (RB here))
+                            (NP (JJ mid) (NN week))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN At)
+      (NP (DT the) (NN weekend)))
+    (NP (EX there))
+    (VP (VBP are)
+      (ADVP (RB too)
+        (NP (JJ many) (NN folk))
+        (PP (IN in)
+          (NP
+            (ADJP (RB too) (JJ small))
+            (DT a) (NN space))))
+      (VP (VBG stocking)
+        (PRT (RP up))
+        (PP (IN on)
+          (NP (JJ Artisan) (NN bread)
+            (CC and)
+            (NN chicken) (NN liver) (NN pate)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT That))
+      (VP (VBD said)))
+    (, ,)
+    (NP (PRP$ their) (NN pate))
+    (VP (VBZ is)
+      (NP (DT the) (JJS finest)
+        (NP
+          (NP (DT this) (NN side))
+          (PP (IN of)
+            (NP (DT the) (NNP Channel))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (PRN (-LRB- -LRB-)
+      (CC and)
+      (S
+        (NP (PRP it))
+        (VP (VBZ is)
+          (NP
+            (NP (DT a) (NN whopper))
+            (PP (IN of)
+              (NP
+                (NP (SYM a))
+                (`` `)
+                (NP (IN but))
+                ('' '))))))
+      (-RRB- -RRB-))
+    (NP (DT the) (NN artisan) (NNS loaves))
+    (VP
+      (VP (VBP come)
+        (PP (IN in)
+          (NP
+            (QP (IN at) (RB just) (IN under) (# #) (CD 3)))))
+      (CC and)
+      (VP
+        (ADVP (RB there))
+        (VBZ is)
+        (NP (DT no) (NN space)
+          (S
+            (VP (TO to)
+              (VP (VB browse)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VB Pick)
+        (NP (DT a) (JJ quiet) (NN moment))))
+    (CC and)
+    (S
+      (NP (PRP you))
+      (VP
+        (VP (MD can)
+          (VP (VB enjoy)
+            (NP
+              (NP (DT the) (JJ wide) (NN range))
+              (PP (IN of)
+                (NP (JJ fresh) (NNS deli) (NN produce)
+                  (CC and)
+                  (JJ bottled) (NNS oils))))))
+        (, ,)
+        (VP (VBZ preserves))
+        (CC and)
+        (VP (VBZ trucklements))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Dither))
+      (PP (IN during)
+        (NP
+          (NP (DT a) (JJ busy) (NN moment))
+          (CC and)
+          (NP (PRP you)))))
+    (VP (MD 'll)
+      (VP (VB be)
+        (ADJP (RB as) (JJ welcome))
+        (PP (IN as)
+          (NP
+            (NP (DT a) (NN tourist))
+            (PP (IN in)
+              (NP (DT a) (NNP New) (NNP York) (NN diner)))))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP Aberdeen) (NNP Angus) (NNP Rare) (NNP Roast) (NNP Beef))
+      (, ,)
+      (NP (NNP Wild) (NNP Venison) (NNP Haggis))
+      (, ,)
+      (NP (NNP Brie) (NNP De) (NNP Meaux))
+      (, ,)
+      (NP (NNP Chicken) (NNP Liver) (NNP Pate))
+      (, ,)
+      (CC and)
+      (NP (JJ fresh) (JJ crunchy) (JJ crusty) (NN bread)))
+    (: --)
+    (NP
+      (NP (RB now))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBZ 's)
+            (SBAR
+              (WHNP (WP what))
+              (S
+                (S
+                  (NP (PRP I))
+                  (VP (VBP call)
+                    (NP (DT an)
+                      (ADJP (RB absolutely) (JJ perfect))
+                      (NNP Saturday) (NN afternoon) (NN meal))))
+                (: ...)
+                (S
+                  (FRAG
+                    (INTJ (UH Oh))
+                    (, ,)
+                    (ADVP (IN if) (RB only)))
+                  (NP (PRP I))
+                  (VP (VBD lived)
+                    (ADVP (RBR closer))
+                    (PP (TO to)
+                      (NP
+                        (NP (DT this) (JJ little) (NN bit))
+                        (PP (IN of)
+                          (NP (NN heaven)))))))))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN chicken) (NN liver) (NN pat?))
+      (VP (VBZ is)
+        (ADJP (JJ delicious))))
+    (: --)
+    (S
+      (NP (DT any) (NN time))
+      (NP (PRP I))
+      (VP (VBP 'm)
+        (PP (IN over)
+          (SBAR
+            (WHNP
+              (WHNP (WDT that) (NN side))
+              (PP (IN of)
+                (NP (NN town))))
+            (S
+              (NP (PRP I))
+              (VP (VBP make)
+                (S
+                  (NP (DT a) (NN detour))
+                  (VP (TO to)
+                    (VP (VB pick)
+                      (NP (DT some))
+                      (PRT (RP up)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN On)
+      (NP (DT the) (JJ other) (NN hand)))
+    (, ,)
+    (NP
+      (NP (PRP$ their) (NN bread))
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (NP (PRP they))
+          (VP (VBP claim)
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (NP
+                    (NP (DT the) (JJS best))
+                    (PP (IN in)
+                      (NP (NNP Edinburgh)))))))))))
+    (VP (VBZ is)
+      (ADJP (JJ okay)
+        (CC but)
+        (JJ overpriced)))
+    (. .)))
+
+

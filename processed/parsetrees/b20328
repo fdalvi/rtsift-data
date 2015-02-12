@@ -1,0 +1,122 @@
+(ROOT
+  (NP
+    (NP (NNP Nice) (NNPS Chinese))
+    (PP (IN in)
+      (NP (DT the) (NNP West) (NN End)))
+    (PP (IN of)
+      (NP (NNP Edinburgh)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NN Bit))
+    (VP (VBD tucked)
+      (ADVP (RB away)
+        (PRN (CC but)
+          (ADVP (RB still))
+          (ADVP (RB easy)))
+        (S
+          (VP (TO to)
+            (VP (VB find))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB mainly))
+    (VP (VBP go)
+      (ADVP (RB here))
+      (PP (IN for)
+        (NP (NN lunch)))
+      (SBAR (IN as)
+        (S
+          (NP (PRP it))
+          (VP (VBZ is)
+            (ADJP (JJ close)
+              (PP (TO to)
+                (NP (PRP$ our) (NN office))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP (DT a) (JJ fabulous)
+        (ADJP
+          (QP (# #) (CD 9) (CD three)))
+        (NN course) (NN lunch) (NN deal)))
+    (. .)))
+
+(ROOT
+  (S
+    (INTJ (JJ Good))
+    (VP (VB tasty)
+      (NP
+        (NP (NN food))
+        (CC and)
+        (NP (JJ friendly) (NN service))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN On)
+        (NP (DT the) (NNS occasions)))
+      (NP (PRP I))
+      (VP (VBP have)
+        (VP (VBN been)
+          (ADVP (RB here))
+          (PP (IN for)
+            (NP
+              (NP (NN dinner))
+              (SBAR
+                (S
+                  (NP (DT the) (NN food))
+                  (VP (VBD was)
+                    (VP (VBN been)
+                      (ADJP (JJ good)))))))))))
+    (CC and)
+    (S
+      (NP (DT the) (NN price))
+      (VP (VBZ is)
+        (ADJP (JJ good))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Lunch) (NNS times))
+      (PRN (-LRB- -LRB-)
+        (ADJP (RB especially) (JJ Fridays))
+        (-RRB- -RRB-)))
+    (VP (MD can)
+      (VP (VB get)
+        (ADJP (JJ busy))
+        (ADVP (RB so) (RB best))
+        (PP (TO to)
+          (NP (NN book)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (SBAR
+        (WHADVP (WRB When))
+        (S
+          (NP (PRP you))
+          (ADVP (RB first))
+          (VP (VBP come)
+            (PP (IN in)
+              (NP (PRP it))))))
+      (VP (VBP look)
+        (PP (IN like)
+          (NP (DT a) (JJ small) (NN place)))))
+    (CC but)
+    (S
+      (NP (EX there))
+      (VP (VBZ is)
+        (ADVP (RB also))
+        (NP (JJ downstairs) (NN seating))))
+    (. .)))
+
+

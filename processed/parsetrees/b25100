@@ -1,0 +1,367 @@
+(ROOT
+  (S
+    (VP (VB Bar)
+      (NP
+        (NP (RB far) (DT the) (JJS best) (NN haircut))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP have)
+              (ADVP (RB ever))
+              (VP (VBN received)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (ADVP (RB recently))
+      (VP (VBD moved)
+        (PP (IN from)
+          (NP (NNP Arizona)))
+        (PP (TO to)
+          (NP (NNP Seattle)))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP have) (RB not)
+        (VP (VBN been)
+          (ADJP (JJ able)
+            (S
+              (VP (TO to)
+                (VP (VB find)
+                  (NP
+                    (NP (DT a) (NN barber))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP (MD can)
+                          (VP (VB match)
+                            (NP (NNP Ely))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB highly))
+    (VP (VBD reccomend))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VP (VBZ is)
+        (ADJP (RB very) (JJ precise)))
+      (CC and)
+      (VP (VBZ takes)
+        (NP (PRP$ his) (NN time)
+          (S
+            (VP (TO to)
+              (VP (VB ensure)
+                (SBAR (IN that)
+                  (S
+                    (NP (PRP he))
+                    (VP (VBZ gives)
+                      (S
+                        (NP (DT the) (JJS best) (NN cut))
+                        (ADJP (JJ possible))))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT The) (NN owner))
+    (VP
+      (VP (VBZ is)
+        (PP (IN from)
+          (NP (NNP NYC))))
+      (CC and)
+      (VP (VBD escaped)
+        (NP
+          (NP (DT the) (NN hustle)
+            (CC and)
+            (NN bustle))
+          (PP (IN of)
+            (NP (DT the) (JJ big) (NN city))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBZ knows)
+      (NP (PRP$ his) (NN stuff) (, ,)
+        (ADJP (JJ excellent))
+        (NN barber)))
+    (. .)))
+
+(ROOT
+  (X
+    (NP (JJ Excellent) (NN service))
+    (: -)
+    (FRAG
+      (VP (VBD went)
+        (ADVP (IN over)
+          (CC and)
+          (IN beyond))
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (NP (PRP I))
+            (VP (VBD asked)
+              (PP (IN for)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBG looking)
+          (PP (IN for)
+            (NP
+              (NP (DT a) (JJ good) (NN barber))
+              (PP (IN on)
+                (NP
+                  (NP (DT this) (NN side))
+                  (PP (IN of)
+                    (NP (NN town))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (ADVP (RB Finally))
+    (VP (VBD found))
+    (NP (PRP it))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ great) (NN barbershop) (JJ good) (NN work))
+        (CC and)
+        (NP (JJ decent) (NNS prices))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (NNP Definitely) (CD one))
+    (PP (IN of)
+      (NP
+        (NP (DT the) (JJS best) (NNS barbers))
+        (PP (IN on)
+          (NP (DT the) (NN westside)))))
+    (PP (IN of)
+      (NP (NN town)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Ely))
+    (VP
+      (VP (VBZ takes)
+        (NP (PRP$ his) (NN time)))
+      (CC and)
+      (VP (VBZ makes)
+        (ADJP (JJ sure)
+          (SBAR
+            (S
+              (NP (PRP you))
+              (VP (VBP are)
+                (ADJP (JJ satisfied))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP have)
+        (VP (VBN tried)
+          (NP
+            (NP (DT a) (JJ few) (JJ different) (NNS barbers))
+            (PP (IN around)
+              (NP (NN town)))))))
+    (CC and)
+    (S
+      (NP (DT this))
+      (VP (VBZ is)
+        (NP
+          (NP (DT the) (JJS best) (NN spot))
+          (PP (IN by)
+            (ADVP (RB far))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP recommend)
+      (NP (DT this) (NN spot))
+      (SBAR (IN if)
+        (S
+          (NP (PRP you))
+          (VP (VBP 're)
+            (VP (VBG looking)
+              (PP (IN for)
+                (NP (DT a)
+                  (ADJP (JJ great)
+                    (CC and)
+                    (JJ friendly))
+                  (NN barber))))))))
+    (. !)))
+
+
+(ROOT
+  (FRAG
+    (NP (DT Every) (NN time)
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBP 've)
+            (VP (VBN been)
+              (PP (IN at)
+                (NP (DT this) (NN shop))))))))
+    (: Ely)
+    (VP (VBZ hooks)
+      (NP (PRP it))
+      (PRT (RP up))
+      (PP (IN with)
+        (NP (DT a)
+          (ADJP (RB really) (JJ nice))
+          (NN cut))))
+    (. !)))
+
+(ROOT
+  (S
+    (ADVP (RB Also))
+    (VP (VB make)
+      (ADJP (JJ sure)
+        (S
+          (VP (TO to)
+            (VP (VB go)
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (PRP it))
+                  (VP (VBZ 's) (RB not)
+                    (ADJP (JJ busy))
+                    (SBAR (IN since)
+                      (S
+                        (NP (PRP he))
+                        (VP (VBZ 's)
+                          (NP (DT the) (JJ only) (NN barber)))))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBP 've)
+        (VP (VBN been)
+          (PP (IN around)
+            (NP (DT the) (NN world)))))
+      (CC and)
+      (VP (VBP have)
+        (VP (VBN grown)
+          (S
+            (VP (TO to)
+              (VP (VB appreciate)
+                (NP (JJ real) (NNS barbers))
+                (SBAR (IN like)
+                  (S
+                    (NP (PRP they))
+                    (VP (VBP have)
+                      (VP
+                        (PP (IN throughout)
+                          (NP (NNP Turkey)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Here))
+    (NP (NNP Armen))
+    (VP (VBZ is)
+      (NP (DT a) (NN master)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Do) (RB n't)
+      (VP (VB be)
+        (VP (VBN fooled)
+          (PP (IN by)
+            (NP
+              (NP (DT the) (JJ simple) (NN decor))
+              (CC and)
+              (NP (JJR older) (NN neighborhood)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBZ is)
+      (NP (DT a) (JJ buried) (NN treasure))
+      (SBAR (IN if)
+        (S
+          (NP (PRP you))
+          (VP (VBP want)
+            (NP (DT a) (JJ real) (NN cut))
+            (PP (IN by)
+              (NP
+                (NP (NN someone))
+                (SBAR
+                  (WHNP (WP who))
+                  (S
+                    (VP (VBZ enjoys)
+                      (NP (PRP$ their) (NN work)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD came)
+      (PP (IN from)
+        (NP (NNP Uzbekistan)))
+      (ADVP (RB then))
+      (S
+        (VP (TO to)
+          (VP (VB NYC)
+            (ADVP (RB then))
+            (PP (TO to)
+              (NP (NNP Scottsdale)))
+            (SBAR (RB now)
+              (S
+                (NP (PRP he))
+                (VP (VBZ owns)
+                  (NP
+                    (NP (DT this) (NN place))
+                    (PP (IN in)
+                      (NP (NNP Glendale)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (PP (IN worth)
+        (NP (DT a) (NN trip))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VP (VB Get)
+        (NP (DT the) (NNS works)))
+      (: :)
+      (NP
+        (NP (NN hair))
+        (VP (VBN beard)
+          (S
+            (ADJP (JJ mustache))))))
+    (. .)))
+
+

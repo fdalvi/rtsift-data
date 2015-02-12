@@ -1,0 +1,196 @@
+(ROOT
+  (S
+    (VP (VB Loved)
+      (NP
+        (NP (DT this) (NN place))
+        (, ,) (RB especially)
+        (NP (DT the) (JJ all-you-can-eat) (NNP Taco) (NNP Tuesday))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Unfortunately))
+    (NP (DT this) (NN location))
+    (VP (VBD closed)
+      (ADVP (RB down))
+      (, ,)
+      (ADVP (RB apparently)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN location))
+        (PP (IN in)
+          (NP (NNP Silverado) (NNP Ranch))))
+      (VP (VBZ is)
+        (ADVP (RB still))
+        (ADJP (RB up)
+          (CC and)
+          (VBG running))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP believe))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (SBAR (IN if)
+      (S
+        (NP (PRP you))
+        (VP (VBP 're)
+          (PP (IN in)
+            (NP
+              (NP (DT the) (JJ North) (NN part))
+              (PP (IN of)
+                (NP (NN town)
+                  (CC and)
+                  (NN need) (NN something) (NNS tasty))))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP recommend)
+      (NP
+        (NP (NNP Alfonsos))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ is)
+              (ADVP (RB right) (RB up))
+              (NP (DT the) (NN street)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (ADVP (RB now))
+      (NP
+        (NP
+          (NP (DT a) (NNP Roberto) (POS 's))
+          (NNP Taco))
+        (CC and)
+        (NP
+          (ADJP (DT no) (JJR longer))
+          (NNP Los) (NNP Burritos))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN food))
+    (VP (VBZ is)
+      (ADVP (RB still))
+      (ADJP (JJ good) (IN though)))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (JJ entire) (NN place))
+      (VP (VBZ has)
+        (VP (VBN been)
+          (VP (VBN remodeled)))))
+    (CC and)
+    (S
+      (NP (PRP$ its) (JJ pretty) (JJ much) (NN brand))
+      (ADJP (JJ new)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB always))
+    (VP (VBP get)
+      (NP (DT the) (JJ same) (NN thing)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (NNP Carne) (NNP Asada) (NNP Fries))
+      (, ,)
+      (NP (NNP Carne) (NNP Asada) (NNP Burrito))
+      (, ,)
+      (CC and)
+      (NP (NNP Menudo)))
+    (. !)))
+
+
+(ROOT
+  (NP
+    (NP (NNP Dirty))
+    (: ...)
+    (NP (NNS Floors) (, ,) (NNS tables) (, ,) (NN waste) (NNS cans))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Salsa) (NN bar))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (VBN watered)
+          (PRT (RP down)))
+        (CC and)
+        (ADJP (JJ tasteless))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Cashier))
+      (VP (VBD was)
+        (S
+          (VP
+            (VP (VBG handling)
+              (NP (DT the) (NN food))
+              (PP (IN with)
+                (NP (PRP$ her) (JJ bare) (NNS hands))))
+            (: --)
+            (VP (VBG patting)
+              (NP (DT the) (NN burrito) (NNS shells))
+              (PP (IN on)
+                (NP (DT the) (NN grill))))
+            (CC and)
+            (VP (VBG transferring)
+              (NP (DT the) (JJ cooked) (NN food))
+              (PP (TO to)
+                (NP (DT the) (NNS trays))))))))
+    (: ...)
+    (S
+      (ADVP (RB seriously))
+      (, ,)
+      (NP (DT this))
+      (VP (VBZ is)
+        (NP (DT a) (NN health) (NN violation))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN food))
+    (VP
+      (VP (VBD was)
+        (ADJP (JJ good)))
+      (, ,)
+      (CC but)
+      (VP (MD could)
+        (VP (VB have)
+          (VP (VBN been)
+            (ADJP (JJR better))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP am) (RB not)
+        (ADJP (RB overly) (JJ sensitive))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT this))
+      (VP (VBD was)
+        (ADJP (RB too) (JJ much))))
+    (. .)))
+
+

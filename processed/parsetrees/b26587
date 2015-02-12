@@ -1,0 +1,130 @@
+(ROOT
+  (FRAG
+    (ADJP (RB Really) (JJ great))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD got)
+      (SBAR
+        (S
+          (S
+            (NP (PRP them))
+            (VP (VBN mixed)
+              (PRT (RP up))
+              (PP (IN with)
+                (NP (DT another) (NN company)))))
+          (CC and)
+          (S
+            (NP (PRP they))
+            (ADVP (RB barely))
+            (VP (VBD charged)
+              (NP (PRP us))
+              (PP (IN for)
+                (S
+                  (ADVP (RB completely))
+                  (VP (VBG wasting)
+                    (NP (PRP$ their) (NN time))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP$ My) (NN AC))
+      (VP (VBD went)
+        (PRT (RP out))
+        (NP (JJ mid) (NN summer))))
+    (NP (PRP I))
+    (VP (VBD called)
+      (NP (PRP$ my) (JJ regular) (NNS techs))
+      (SBAR
+        (S
+          (NP
+            (NP (DT no) (NN response))
+            (SBAR (IN so)
+              (S
+                (NP (PRP I))
+                (VP (VBD called)
+                  (SBAR
+                    (S
+                      (NP (NNP ARA) (NNP the))
+                      (VP (VBD came)
+                        (PRT (RP out))
+                        (ADVP
+                          (NP (CD 20) (NNS mins))
+                          (RB later)))))))))
+          (VP (VBD found)
+            (SBAR
+              (S
+                (NP (NN problem))
+                (VP (VBD had)
+                  (S
+                    (VP (TO to)
+                      (VP (VB replace)
+                        (NP
+                          (NP (JJ outside) (NN unit))
+                          (SBAR
+                            (S
+                              (NP (PRP I))
+                              (VP (VBD knew)
+                                (SBAR
+                                  (S
+                                    (NP (PRP it))
+                                    (VP (VBD was)
+                                      (VP (VBG going)
+                                        (S
+                                          (VP (TO to)
+                                            (VP (VB happen))))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (JJ next) (NN day))
+    (VP (VBD was)
+      (NP
+        (NP (DT the) (NN weekend))
+        (SBAR
+          (S
+            (NP (PRP they))
+            (VP (VBD replaced)
+              (SBAR
+                (S
+                  (NP (PRP it))
+                  (VP (VBD checked)
+                    (NP (PRP$ my) (JJ other) (NN unit))
+                    (PP (IN at)
+                      (NP
+                        (NP (DT no) (JJ extra) (NN charge))
+                        (CC and)
+                        (NP (DT no) (NN charge))))
+                    (PP (IN for)
+                      (NP (DT the) (NN weekend) (NN repair)))))))))))
+    (. .)))
+
+(ROOT
+  (NP (JJ Great) (NN service)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (NN Erick))
+      (PP (IN with)
+        (NP
+          (NP (NNP Ara) (NNP Heating))
+          (CC and)
+          (NP (NNP Air) (NNP Conditioning)))))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (RB very) (JJ helpful))
+        (, ,)
+        (ADJP (JJ thorough))
+        (CC and)
+        (ADJP (JJ knowledgeable)
+          (PP (IN on)
+            (NP (PRP$ our) (NN service) (NN call))))))
+    (. !)))
+
+

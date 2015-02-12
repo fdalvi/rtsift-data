@@ -1,0 +1,288 @@
+(ROOT
+  (S
+    (S
+      (VP (VBN Located)
+        (ADVP
+          (NP
+            (QP (RB about) (CD 1.5))
+            (NNS miles))
+          (RB north))
+        (PP (IN of)
+          (NP (JJ downtown) (NNP Chandler)))))
+    (, ,)
+    (NP (NNP Magic) (NNP Kabob))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ great) (NN addition))
+        (PP (TO to)
+          (NP (DT the) (NNP Chandler) (JJ ethnic) (NN restaurant) (NN scene)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN restaurant))
+      (VP (VBZ has)
+        (ADVP (RB just))
+        (VP (VBN opened))))
+    (CC and)
+    (S
+      (S
+        (NP (PRP I))
+        (VP (VBD visited)
+          (PP (IN on)
+            (NP (DT a) (NNP Sunday) (NN afternoon)))))
+      (CC and)
+      (S
+        (NP (DT the) (JJ grand) (NN opening) (NN sign))
+        (VP (VBD was)
+          (VP (VBG flapping)
+            (PP (IN in)
+              (NP (DT the) (NN breeze)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD ordered)
+      (NP
+        (NP (DT the) (NNP Chicken) (NNP Kafta) (NN sandwich) (NN lunch) (NN special))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ includes)
+              (NP (DT either) (JJ french) (NNS fries)
+                (CC or)
+                (NN soup)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD went)
+      (PP (IN with)
+        (NP
+          (NP (DT the) (NN soup))
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBD was)
+                (NP (DT a)
+                  (ADJP (JJ tasty))
+                  (JJ crushed) (NN lentil))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN kafta))
+    (VP
+      (VP (VBD was)
+        (VP (VBN wrapped)
+          (PP (IN in)
+            (NP (DT a) (JJ thin) (NN pita)))))
+      (CC and)
+      (VP (VBD had)
+        (NP
+          (NP (DT a) (JJ garlic) (NN sauce))
+          (PP (IN with)
+            (NP
+              (NP (DT an) (NN assortment))
+              (PP (IN of)
+                (NP (JJ chopped) (NNS pickles)))))
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBD was)
+                (ADJP (JJ excellent))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Normally))
+      (ADVP (RB in))
+      (NP (PRP I))
+      (VP (VBP think)
+        (PP (IN of)
+          (NP
+            (NP (NN kafta))
+            (PP (IN as)
+              (NP (DT a)
+                (ADJP (RB finely) (VBN ground))
+                (NN meat)))))))
+    (, ,)
+    (CC but)
+    (S
+      (PP (IN in)
+        (NP (DT this) (NN case)))
+      (NP (EX there))
+      (VP (VBD were)
+        (NP
+          (NP (NNS chucks))
+          (PP (IN of)
+            (NP (JJ marinated) (NN chicken))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN restaurant))
+      (VP (VBZ is)
+        (ADVP (JJ open)
+          (NP (CD 7) (NNS days)))
+        (NP
+          (NP (DT a) (NN week))
+          (PP (IN for)
+            (NP (NN lunch)
+              (CC and)
+              (NN dinner))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (MD will)
+        (ADVP (RB definitely))
+        (VP (VB be)
+          (VP (VBG stopping)
+            (PP (IN by)
+              (ADVP (RB again)))
+            (S
+              (VP (TO to)
+                (VP (VB try)
+                  (NP
+                    (NP (DT some))
+                    (PP (IN of)
+                      (NP
+                        (NP
+                          (NP (DT the) (NNS entrees))
+                          (PP (IN like)
+                            (NP (JJ grilled) (NN lamb) (NNS chops))))
+                        (CC or)
+                        (NP
+                          (NP (NN vegetarian) (NN ghallaba))
+                          (SBAR
+                            (WHNP (WDT which))
+                            (S
+                              (VP (VBZ is)
+                                (NP (DT a)
+                                  (ADJP (RB savory) (JJ Lebanese))
+                                  (NN stew))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (NNS vegetarians)))
+    (NP (EX there))
+    (VP (VBP are)
+      (NP
+        (NP (DT the) (JJ usual) (NNS options))
+        (PP (IN for)
+          (NP
+            (NP
+              (NP (DT a) (JJ middle) (JJ eastern) (NN restaurant))
+              (PRN (-LRB- -LRB-)
+                (NP
+                  (NP (NNS tabbouli))
+                  (, ,)
+                  (NP (NN fattoush))
+                  (, ,)
+                  (NP (NN falafel))
+                  (, ,)
+                  (NP (JJ stuffed) (NN grape) (NNS leaves))
+                  (, ,)
+                  (NP (NNS hommous))
+                  (, ,)
+                  (CC and)
+                  (NP (NN baba) (NN ghannooj) (NN etc)))
+                (-RRB- -RRB-)))
+            (CC and)
+            (NP (JJ few) (NN specialty) (NNS items))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Magic) (NNP Kabob))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN breath))
+        (PP (IN of)
+          (NP
+            (NP (JJ fresh) (NN air))
+            (PP (TO to)
+              (NP (NNP Chandler)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD ordered)
+      (NP
+        (NP (DT the) (JJ stuffed) (JJ grape) (NNS leaves))
+        (CC and)
+        (NP (DT the) (JJ gyro) (NN platter))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (JJ lentil) (NN soup))
+      (VP (VBD came)
+        (PP (IN with)
+          (NP (DT the) (FW entree)))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (ADJP (RB quite) (JJ tasty))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBD was)
+      (NP
+        (NP (RB plenty))
+        (PP (IN of)
+          (NP (NN food)))
+        (S
+          (VP (TO to)
+            (VP (VB take)
+              (NP (NN home)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Magic) (NNP Kabob))
+    (VP (VBZ has)
+      (NP
+        (NP (JJ outstanding) (JJ authentic) (NN Mediterranean) (NN food))
+        (PP (IN with)
+          (NP (DT an) (JJ inviting) (NN atmosphere)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (JJ Last))
+      (VP
+        (VP (VBN reviewed)
+          (ADVP
+            (NP (CD 3?1/2) (NNS years))
+            (RB ago)))
+        (CC and)
+        (VP
+          (ADVP (RB website))
+          (VBN gone))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP believe)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBP are)
+            (VP (VBN gone))))))
+    (. !)))
+
+

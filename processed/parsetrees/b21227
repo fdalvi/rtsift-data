@@ -1,0 +1,58 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG Living)
+        (ADVP (RB localy))))
+    (NP (PRP I))
+    (VP (VBP have)
+      (VP (VBN frequented)
+        (S
+          (NP (DT this) (NN bar))
+          (NP
+            (NP (DT a) (NN number))
+            (PP (IN of)
+              (NP (NNS times)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADJP (RB Nicely) (VBN decorated)))
+    (CC and)
+    (S
+      (PP (IN with)
+        (NP
+          (NP (DT a) (JJ good) (NN selection))
+          (PP (IN of)
+            (NP (NNS drinks)))))
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADJP (JJ good)
+          (PP (IN for)
+            (S
+              (VP (VBG meeting)
+                (PRT (RP up))
+                (PP (IN with)
+                  (NP (NNS friends)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN food))
+    (VP (VBZ has)
+      (ADVP (RB generaly))
+      (VP (VBN been)
+        (PP (IN of)
+          (NP
+            (NP (DT a)
+              (ADJP (JJ good) (TO to) (JJ high))
+              (NN standard))
+            (PP (IN with)
+              (NP (NNS prices)))))
+        (PP (IN around)
+          (NP
+            (NP (# #) (CD 10-15))
+            (PP (IN for)
+              (NP (DT a) (JJ main) (NN course)))))))))
+
+

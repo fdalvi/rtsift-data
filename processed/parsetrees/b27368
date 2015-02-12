@@ -1,0 +1,161 @@
+(ROOT
+  (S
+    (S
+      (NP (DT This) (NN shopping) (NN center))
+      (VP (VBZ has)
+        (NP
+          (NP (DT a) (JJ little) (NN bit))
+          (PP (IN of)
+            (NP (RB almost) (NN everything))))))
+    (: ...)
+    (S
+      (NP
+        (NP (JJ functional) (NN shopping))
+        (PRN (-LRB- -LRB-)
+          (NP
+            (NP (NNS clothes))
+            (, ,)
+            (NP (NN food))
+            (, ,)
+            (NP (NN home) (NN improvement)))
+          (-RRB- -RRB-))
+        (, ,)
+        (NP
+          (NP (NN food))
+          (, ,)
+          (NP (NN drinking)))
+        (, ,)
+        (NP (NN entertainment))
+        (, ,))
+      (VP (VBZ etc.)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ only) (NN thing))
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ does) (RB n't)
+            (VP (VB have)
+              (SBAR (IN that)
+                (S
+                  (NP (PRP I))
+                  (VP (VBP think)
+                    (SBAR
+                      (S
+                        (NP (PRP it))
+                        (VP (MD should))))))))))))
+    (VP (VBZ is)
+      (NP (DT a) (NN gas) (NN station)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJS closest) (NN gas) (NN station))
+      (CC or)
+      (NP (NN convenience) (NN store)))
+    (VP (VBZ is)
+      (ADVP (RB out))
+      (PP (IN on)
+        (NP (NNP Alma) (NNP School)
+          (CC and)
+          (NNP 8th))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (RB Not) (DT a) (JJ HUGE) (NN inconvenience))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (MD could)
+        (VP (VB be)
+          (VP (VBG misleading)
+            (NP
+              (NP (DT the) (JJ first) (NN time))
+              (SBAR
+                (S
+                  (NP (PRP you))
+                  (VP (VBP go)))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This) (JJ sleepy) (NN shopping) (NN center))
+    (VP (VBZ has)
+      (NP (DT some) (JJ good) (NNS places)
+        (S
+          (VP (TO to)
+            (VP (VB go))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNP Cinemark))
+      (ADVP (RB here))
+      (VP (VBZ smells)
+        (ADJP (JJ weird))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP you))
+      (VP (MD can)
+        (VP (VB count)
+          (PP (IN on)
+            (NP (DT the) (NN fact)))
+          (SBAR (IN that)
+            (S
+              (NP (EX there))
+              (VP (MD wo) (RB n't)
+                (VP (VB be)
+                  (NP (DT any) (NNS crowds)))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD will)
+      (VP (VB avoid)
+        (NP
+          (NP (NNP Tempe) (NNP Marketplace))
+          (PP (IN like)
+            (NP (DT the) (NN plague))))
+        (SBAR (IN if)
+          (S
+            (NP (PRP I))
+            (VP (MD can)
+              (VP (VB find)
+                (NP (DT a) (JJ comparable) (NN store/restaurant/movie) (NN time))
+                (PP (IN at)
+                  (NP (DT this) (NN location)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP love)
+      (NP (PRP it)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Easy) (NN parking))
+    (, ,)
+    (NP (JJ great) (NN layout))
+    (, ,)
+    (NP
+      (NP (JJ excellent) (NN variety))
+      (PP (IN of)
+        (NP (NNS shops)
+          (CC and)
+          (NNS services))))
+    (. .)))
+
+

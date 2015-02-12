@@ -1,0 +1,353 @@
+(ROOT
+  (S (RB Yet)
+    (VP (VB ANOTHER)
+      (NP (JJ Italian) (NN restaurant))
+      (PP (IN on)
+        (NP (NNP Antigua) (NNP Street))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (ADVP (RB really))
+    (VP (VBZ amazes)
+      (NP (PRP me)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT This) (NN restaurant))
+      (, ,)
+      (ADJP
+        (ADJP (RB fittingly) (NN family) (JJ owned))
+        (CC and)
+        (ADJP (RB overwhelmingly) (JJ Italian)))
+      (, ,))
+    (VP (VBZ is)
+      (NP
+        (NP (CD one))
+        (PP (IN of)
+          (NP
+            (NP (JJ many))
+            (PP (IN of)
+              (NP
+                (NP (PRP$ its) (NN kind))
+                (PP (IN in)
+                  (NP
+                    (NP (DT the) (NN area))
+                    (VP (VBG surrounding)
+                      (NP (DT the) (NNP Playhouse)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP take)
+        (NP
+          (NP (NN advantage))
+          (PP (IN of)
+            (NP (DT this))))))
+    (, ,)
+    (CC and)
+    (S
+      (S
+        (VP (VB have)
+          (NP
+            (NP (DT a) (JJ special) (JJ pre-theatre) (NN menu))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (NP (PRP I))
+                (VP (VBP have)
+                  (S
+                    (VP (TO to)
+                      (VP (VB say))))))))))
+      (VP (VBZ is)
+        (ADJP (RB extremely) (RB reasonably) (VBN priced))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS starters) (, ,) (NNS pizzas)
+      (CC and)
+      (NN pasta) (NNS dishes))
+    (VP (VBP are)
+      (ADJP (RB quite) (JJ similar)
+        (PP (TO to)
+          (NP
+            (NP (DT those))
+            (PP (IN on)
+              (NP (PRP$ their) (JJ regular) (NN menu))))))
+      (, ,)
+      (SBAR (IN although)
+        (S
+          (NP (PRP you))
+          (VP (MD wo) (RB n't)
+            (VP (VB find)
+              (NP (PRP$ their) (NN fish) (NNS dishes))
+              (PP (IN on)
+                (NP (DT this) (NN menu))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would)
+      (ADVP (RB definitely))
+      (VP (VB recommend)
+        (S
+          (VP (VBG saving)
+            (NP (PRP yourself))
+            (PP (IN for)
+              (NP (DT the) (NNS desserts)))))
+        (, ,)
+        (SBAR (IN as)
+          (S
+            (NP
+              (NP (DT every) (NN one))
+              (PP (IN of)
+                (NP (PRP them))))
+            (VP (VBZ is)
+              (ADJP (RB so) (JJ tempting)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD joined)
+        (NP (DT some) (NNS friends))
+        (ADVP (RB there))
+        (PP (IN after)
+          (NP (PRP$ their) (JJ main) (NN meal)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (JJ tiramisu) (NN I))
+      (VP (VBD had)
+        (VP (VBD was)
+          (ADJP (RB absolutely) (JJ foodgasmic)))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP
+      (VP (VBZ is)
+        (NP (DT a)
+          (ADJP (RB pretty) (JJ good))
+          (NN restaurant)))
+      (CC and)
+      (VP (MD would)
+        (VP (VB recommend)
+          (NP (PRP it))
+          (SBAR (IN if)
+            (S
+              (NP (PRP you))
+              (VP (VBP want)
+                (NP (DT a) (JJ decent) (NN meal))
+                (PP (IN before)
+                  (S
+                    (VP (VBG heading)
+                      (PP (TO to)
+                        (NP (DT the) (NNP Playhouse))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD came)
+      (ADVP (RB here))
+      (PP (IN with)
+        (NP
+          (NP (DT a) (NN couple))
+          (PP (IN of)
+            (NP (NNS friends)))))
+      (PP (IN before)
+        (S
+          (VP (VBG watching)
+            (NP
+              (NP (DT a) (NN movie))
+              (PP (IN in)
+                (NP (DT the) (NN omnicentre))))
+            (PP
+              (ADVP (RB just))
+              (IN down)
+              (NP (DT the) (NN road)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD ordered)
+      (NP
+        (NP (DT the) (NNP Pizza) (NNP Mamma) (NNP Roma))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBD came)
+              (PP (IN with)
+                (NP (NNS asparagus) (, ,) (NN cheese)
+                  (CC and)
+                  (NN ham))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD thought)
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (NN food))
+            (VP (VBD tasted)
+              (ADJP (RB pretty) (JJ bland)))))))
+    (, ,)
+    (CC but)
+    (S
+      (S
+        (NP (DT the) (NNS prices))
+        (VP (VBP are)
+          (ADJP (JJ reasonable))))
+      (CC and)
+      (S
+        (NP (PRP you))
+        (VP (VBP do)
+          (VP (VB get)
+            (NP
+              (NP (JJ good) (NNS portions))
+              (PP (IN of)
+                (NP (NN food))))
+            (S
+              (VP (TO to)
+                (VP (VB ensure)
+                  (NP (DT a) (JJ full) (NN tummy)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP (EX There))
+        (VP (VBP are)
+          (NP
+            (NP (DT a) (JJ huge) (NN amount))
+            (PP (IN of)
+              (NP
+                (NP (NNS dishes))
+                (PP (IN on)
+                  (NP
+                    (NP (NN offer))
+                    (PP (IN at)
+                      (NP (NNP Mamma) (NNP Roma))))))))))
+      (, ,)
+      (CC and)
+      (S
+        (NP
+          (NP (PRP me))
+          (CC and)
+          (NP (PRP$ my) (NNS friends)))
+        (ADVP (RB only))
+        (VP (VBD ordered)
+          (NP (NNS pizzas))
+          (ADVP (RB there)))))
+    (, ,) (IN so)
+    (S
+      (ADVP (RB perhaps))
+      (NP (PRP$ their) (NN food))
+      (VP (VBZ has)
+        (NP
+          (NP (JJR more) (NN flavour))
+          (PP (IN in)
+            (NP
+              (NP (DT some))
+              (PP (IN of)
+                (NP (DT the) (JJ other) (NNS dishes))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN decor))
+    (VP
+      (VP (VBZ is)
+        (ADJP (RB pretty) (JJ nice)))
+      (, ,)
+      (CC but)
+      (VP (VBZ is)
+        (VP (VBN tainted)
+          (PP (IN by)
+            (NP (DT the) (NN fact)))
+          (SBAR (IN that)
+            (S
+              (NP (PRP they))
+              (VP
+                (VP (VBP seem)
+                  (S
+                    (VP (TO to)
+                      (VP (VB be)
+                        (VP (VBG playing)
+                          (PRT (RP up))
+                          (PP (TO to)
+                            (NP (DT the) (JJ stereotypical) (JJ Italian) (NNS features))))))))
+                (CC and)
+                (VP (VBZ gives)
+                  (NP (DT the) (NN place))
+                  (NP
+                    (NP (DT a) (JJ cheesy) (NN feel))
+                    (PP (TO to)
+                      (NP (PRP it)))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (VP (VBN Ordered)
+      (NP (NN pasta))
+      (PP (IN with)
+        (NP
+          (NP (NNS mushrooms))
+          (, ,)
+          (NP (NNS asparagus))
+          (CC and)
+          (NP (DT a) (NN cream) (NN sauce))))
+      (PP (IN for)
+        (NP (NN takeaway)))
+      (NP (JJ last) (NN night)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBZ 's)
+      (SBAR
+        (WHADJP (RB exactly) (WP what))
+        (S
+          (NP (PRP I))
+          (VP (VBZ got-no)
+            (NP
+              (NP (NN salt))
+              (, ,)
+              (NP (NN pepper))
+              (, ,)
+              (CC or)
+              (NP (DT any) (NN herbs/spices/cheese)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJS worst) (NN part))
+    (VP (VBD was)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NNS asparagus)
+            (CC and)
+            (NNS mushrooms))
+          (VP (VBD were)
+            (VP (VBN canned))))))
+    (. .)))
+
+

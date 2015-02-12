@@ -1,0 +1,155 @@
+(ROOT
+  (PP (IN Over)
+    (NP
+      (ADJP (VBN priced)
+        (CC and)
+        (JJ under))
+      (JJ portioned) (NNS !!!!))))
+
+(ROOT
+  (FRAG (CC and)
+    (NP
+      (NP (PRP it))
+      (SBAR
+        (S
+          (NP (DT all) (NN crap))
+          (VP (VBZ !!)))))))
+
+
+(ROOT
+  (FRAG
+    (WHNP (WDT What))
+    (PP (FW a)
+      (NP (JJ fabulous) (NN coffee) (NN shop)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBD had)
+      (NP
+        (NP (DT a) (JJ nice) (NN selection))
+        (PP (IN of)
+          (NP
+            (NP
+              (ADJP (VBN made)
+                (PP (TO to)
+                  (NP (NN order) (NNS Starbucks))))
+              (NNS coffees))
+            (, ,)
+            (CONJP (RB as) (RB well) (IN as))
+            (NP
+              (NP
+                (NP (NN breakfast) (NNS sandwiches))
+                (, ,)
+                (NP (NN lunch) (NNS options)))
+              (, ,)
+              (CC and)
+              (NP
+                (NP (DT all) (NNS sorts))
+                (PP (IN of)
+                  (NP (JJ healthy) (NNS snacks)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN staff))
+    (VP (VBZ is)
+      (ADJP (RB rather) (JJ friendly))
+      (ADVP
+        (ADVP (RB as) (RB well))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (ADVP (RB always))
+            (VP (VBZ makes)
+              (S
+                (NP (DT the) (NN experience))
+                (ADJP
+                  (ADVP (RB that) (RB much))
+                  (RBR more) (JJ enjoyable))))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (DT This))
+      (VP (VBZ is)
+        (UCP
+          (S
+            (NP (DT a) (NN coffee))
+            (NP
+              (NP (NN shop) (NNS deli))
+              (PP (IN in)
+                (NP (DT the) (NN hotel)))))
+          (CC and)
+          (SBAR (IN if)
+            (S
+              (NP (PRP your))
+              (VP (VBG looking)
+                (PP (IN for)
+                  (NP (DT a) (JJ quick) (NN breakfast) (, ,) (NN lunch)
+                    (CC or)
+                    (NN snack)))))))))
+    (NP (DT this))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJS best) (NN option))
+        (PP (IN in)
+          (NP (DT the) (NN area)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN coffee))
+    (VP (VBZ is)
+      (ADVP
+        (ADVP (RBR better))
+        (PP (IN than)
+          (NP
+            (NP (DT the) (NNS sandwiches))
+            (CC and)
+            (RB even) (IN though)
+            (NP (PRP$ its)
+              (QP (DT a) (NN bit))
+              (NNS pricey)))))
+      (NP
+        (NP (PRP$ its)
+          (ADJP
+            (ADJP (RB still) (JJR cheaper)
+              (S
+                (VP (TO to)
+                  (VP (VB eat)
+                    (ADVP (RB here))))))
+            (PP (IN than)
+              (NP (NNP Rick) (POS 's))))
+          (NNS Cafe))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ is)
+              (NP
+                (NP (CD one))
+                (PP (IN of)
+                  (NP
+                    (NP (DT the) (JJ few) (JJ other) (NN lunch) (NNS options))
+                    (PP (IN in)
+                      (NP (DT the) (NN area)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (NP
+        (NP (DT a) (JJR larger) (NN selection))
+        (PP (IN of)
+          (NP (JJ other) (NN convenience) (NN store) (NN type) (NNS items))))
+      (PRN
+        (ADVP (RB here))
+        (ADVP (RB as) (RB well))))
+    (. .)))
+
+

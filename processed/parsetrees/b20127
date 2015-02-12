@@ -1,0 +1,109 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (JJ traditional) (NN pub))
+      (CC &)
+      (NP (NN hotel)))
+    (VP (VBN located)
+      (ADVP (JJ next))
+      (PP (TO to)
+        (NP (DT the) (NNP Murrayfield) (NNP Hotel))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP
+      (ADJP (RB Very) (JJ friendly)
+        (NP (NN staff)))
+      (, ,)
+      (ADJP (JJ quaint) (NN bar))
+      (CC and)
+      (ADJP (JJ impressive)))
+    (S
+      (VP (VBG looking)
+        (NP (NN menu))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBP have) (RB n't)
+        (ADVP (RB as) (RB yet))
+        (VP (VBN eaten)
+          (ADVP (RB here))
+          (SBAR (IN so)
+            (S
+              (VP (MD can) (RB not)
+                (VP (VB comment)))))))
+      (, ,)
+      (CC but)
+      (VP (VBP plan)
+        (PP (TO to))
+        (ADVP (RB soon) (RB enough))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Hampton))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJS nearest) (NN thing))
+        (PP (TO to)
+          (NP
+            (NP (DT a) (NN pub))
+            (PP (IN in)
+              (NP
+                (NP (DT this) (NN area))
+                (PP (IN of)
+                  (NP (NN town)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Nice)
+      (NP
+        (NP (NN bar) (NN area))
+        (CC and)
+        (NP
+          (ADJP (RB very) (JJ friendly))
+          (NN staff))))
+    (. .)))
+
+(ROOT
+  (S
+    (SINV
+      (VP (VBD Had)
+        (NP (NN food))
+        (ADVP (RB once)))
+      (NP (RB here)))
+    (, ,)
+    (CC but)
+    (S
+      (PP (IN as)
+        (NP (DT a) (NN veggie)))
+      (NP (EX there))
+      (VP (VBD was) (RB n't)
+        (NP (DT a) (JJ huge) (NN amount)
+          (S
+            (VP (TO to)
+              (VP (VB choose)
+                (PP (IN from)
+                  (PP (IN on)
+                    (NP (DT the) (NN menu))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBN Has)
+      (NP
+        (NP (DT a) (JJ good) (NN reputation))
+        (PP (IN for)
+          (NP (NN food))))
+      (PP (IN with)
+        (NP (JJ local) (NN folk)))
+      (ADVP (RB though)))
+    (. .)))
+
+

@@ -1,0 +1,103 @@
+(ROOT
+  (S
+    (NP (PRP$ Our) (NN family))
+    (VP (VBZ eats)
+      (PRT (RP out))
+      (PP (IN at)
+        (NP
+          (NP (NNP Chinese))
+          (PP (IN on)
+            (NP (DT a) (JJ regular) (NN basis))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN restaurant))
+    (VP (VBD was)
+      (NP
+        (NP (NN nothing))
+        (PP (IN over)
+          (NP (DT the)
+            (UCP
+              (PP (TO to))
+              (, ,)
+              (CC but)
+              (ADVP (RB definitely))
+              (PP
+                (ADVP (RBR better))
+                (IN than)
+                (NP (DT the) (JJ other))))
+            (NNS reviews)))
+        (SBAR
+          (S
+            (VP (MD would)
+              (VP (VB lead)
+                (S
+                  (NP (PRP you))
+                  (VP (TO to)
+                    (VP (VB believe))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ aromatic) (NN duck))
+    (VP (VBD was)
+      (VP
+        (VP
+          (ADVP (RB slightly))
+          (VBN overlooked))
+        (CC but)
+        (VP (VBN tasted)
+          (S
+            (ADJP (JJ great))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN pork))
+      (VP (VBD was)
+        (VP (VBN cooked)
+          (ADVP (RB perfectly)))))
+    (CC and)
+    (S
+      (NP (DT the) (JJ dry) (JJ fried) (JJ green) (NNS beans))
+      (VP (VBD were)
+        (ADJP (JJ outstanding))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Great))
+    (NP
+      (NP (JJ garlic) (NN mix))
+      (CC and)
+      (NP (DT a) (JJ nice) (NN spice)))
+    (PP (TO to)
+      (NP (PRP them)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Everything))
+    (VP (VBD had)
+      (NP
+        (NP (DT a) (JJ terrific) (NN flavour))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD was)
+              (ADJP (JJ enjoyable)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB return)
+        (PP (TO to)
+          (NP (DT this) (NN location)))
+        (ADVP (RB again))))
+    (. .)))
+
+

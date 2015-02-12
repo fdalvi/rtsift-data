@@ -1,0 +1,102 @@
+(ROOT
+  (NP
+    (NP (CD 5) (NNS stars))
+    (PP (IN for)
+      (NP
+        (NP (DT the) (NNS drinks))
+        (CC &)
+        (NP (NNS desserts))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Seriously))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP LOVE)
+      (NP
+        (NP (JJ happy) (NN hour))
+        (CC and)
+        (NP (DT the) (NN blend)))
+      (SBAR (IN that)
+        (S
+          (NP (NNP Sonic))
+          (VP (VBZ has)
+            (VP
+              (PP (IN for)
+                (NP (PRP$ their) (NNS sodas))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Food))
+    (VP (MD might)
+      (VP (VB be)
+        (NP (DT a) (JJ different) (NN story))
+        (SBAR (IN if)
+          (S
+            (NP (PRP I))
+            (VP (VBD were)
+              (NP
+                (NP (NN rating))
+                (SBAR
+                  (WHNP (WDT that)))))))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (NN Love) (NN sonic))
+    (NP (CC &)
+      (DT the) (JJ happy) (NN hour) (NNS specials))
+    (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Had)
+        (NP (DT a) (JJ bad) (NN experience))
+        (NP (JJ last) (NN night))))
+    (NP (PRP$ our) (NN order))
+    (VP (VBD was) (RB n't)
+      (ADJP (RB even) (JJ close)
+        (PP (TO to)
+          (S
+            (VP (VBG being)
+              (ADJP (JJ correct))))))
+      (, ,)
+      (S
+        (NP (PRP they))
+        (ADJP (JJ mixed)
+          (PP (IN up)
+            (NP (NN everything))))
+        (SBAR (RB even) (IN after)
+          (S
+            (NP (PRP I))
+            (VP (VBD asked)
+              (ADVP (RB twice))
+              (PP (IN at)
+                (NP (DT the) (NN window)))
+              (SBAR (IN if)
+                (S
+                  (NP (PRP they))
+                  (VP (VBD had)
+                    (S
+                      (NP (PRP it))
+                      (ADJP (RB right)))))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP (RB Really) (JJ bad))
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (PRP they))
+        (VP (MD ca) (RB n't)
+          (VP (VB get)
+            (NP (DT a) (NN cheeseburger) (NN right))))))
+    (. .)))
+
+

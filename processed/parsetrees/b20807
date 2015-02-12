@@ -1,0 +1,119 @@
+(ROOT
+  (S
+    (NP (DT The) (JJS best) (NN meat))
+    (VP (VBP pies)
+      (PP (IN in)
+        (NP (NNP Edinburgh)))
+      (: ...)
+      (CC but)
+      (FRAG
+        (VP (VB get)
+          (NP (PRP them))
+          (ADVP (RB early))
+          (SBAR (IN as)
+            (S
+              (NP (PRP they))
+              (VP (VBD sellout)
+                (ADVP (RB quickly))
+                (NP (DT each) (NN day))))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (S
+      (VP (VBN Used)
+        (S
+          (VP (TO to)
+            (VP (VB work)
+              (PP (IN with)
+                (NP (NNP Mrs) (NNP Bain)))
+              (: ...)
+              (SBAR
+                (WHADVP (WRB whenever))
+                (S
+                  (NP (PRP we))
+                  (VP (VBD were)
+                    (VP (VBN set)
+                      (S
+                        (VP (TO to)
+                          (VP (VB come)
+                            (PP (IN in) (IN for)
+                              (NP
+                                (NP (DT a) (NN spot))
+                                (PP (IN of)
+                                  (NP (NN weekend) (NN overtime)))))))))))))))))
+    (, ,)
+    (NP (PRP she))
+    (VP (MD 'd)
+      (VP (VB take)
+        (NP
+          (NP (DT an) (NN order))
+          (PP (IN of)
+            (NP (NNP Scotch) (NNPS Pies))))))
+    (: ...)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD 'd)
+      (VP (VB get)
+        (ADJP (JJ enough)
+          (S
+            (VP (TO to)
+              (VP (VB last)
+                (NP (PRP me))
+                (NP (DT all) (NN week))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (JJ Good) (NN ol') (NNP John) (NNP Bain))
+    (VP
+      (VP (VBZ makes)
+        (NP (PRP$ his) (NNS Scotchies))
+        (PP (IN with)
+          (NP
+            (NP (NN mutton))
+            (ADJP (RB as) (VBN opposed)
+              (PP (TO to))))))
+      (: ...)
+      (SBAR
+        (WHNP (WDT whatever))
+        (S
+          (NP (NN meat))
+          (VP (VBZ 's)
+            (ADVP (RB usually))
+            (PP (IN in)
+              (NP (NNP Scotch) (NNPS Pies))))))
+      (: ...))
+    (. !)))
+
+(ROOT
+  (SINV (CC And)
+    (ADVP (RB boy))
+    (MD can)
+    (NP (PRP you))
+    (VP (VB taste)
+      (NP (DT the) (NN difference)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (MD Ca) (RB n't)
+        (VP (VB vouch)
+          (PP (IN for)
+            (NP
+              (NP (DT the) (NN rest))
+              (PP (IN of)
+                (NP (DT the) (NN shop))))))))
+    (, ,)
+    (S (CC but)
+      (NP (DT the) (NNS pies))
+      (ADVP (RB alone))
+      (VP (VBP merit)
+        (NP (CD 4) (NNS stars))))
+    (. !)))
+
+

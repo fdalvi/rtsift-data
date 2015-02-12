@@ -1,0 +1,263 @@
+(ROOT
+  (S
+    (NP (NNP Hidden))
+    (ADVP (RB away)
+      (PP (IN on)
+        (NP (NNP Lame) (NNP Mendota))))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ little) (NN place))
+        (VP (VBN called)
+          (NP
+            (NP (NNP Cafe))
+            (PP (IN on)
+              (NP (DT the) (NNP Pier))))
+          (PP (IN at)
+            (NP
+              (NP (DT the) (NN bottom))
+              (PP (IN of)
+                (NP (DT the) (NNP Edgewater) (NN hotel))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN cocktail))
+        (SBAR
+          (WHNP
+            (NP (NN bar)
+              (CC and)
+              (NN restaurant))
+            (PP (IN on)
+              (NP
+                (NP (DT a) (NN pier))
+                (PP (IN over)
+                  (NP (DT the) (NN water))))
+              (: -)))
+          (S
+            (VP (VBZ does) (RB not)
+              (VP (VB seem)
+                (SBAR (IN like)
+                  (S
+                    (NP (PRP you))
+                    (VP (VBP are)
+                      (PP (IN in)
+                        (NP (NNP Madison)))
+                      (SBAR
+                        (WHADVP (WRB when))
+                        (S
+                          (NP (PRP you))
+                          (VP (VBP visit)
+                            (NP
+                              (NP (DT the) (NNP Pier) (NNP Very) (JJ neat) (NN place))
+                              (: -)
+                              (NP
+                                (NP (JJ great) (NN drink) (NN menu))
+                                (PP (IN with)
+                                  (NP
+                                    (NP (DT a) (NN lot))
+                                    (PP (IN of)
+                                      (NP (JJ unique) (NN cocktail) (NNS options)))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS drinks))
+      (VP (VBP are)
+        (ADJP
+          (ADVP (NN kind) (IN of))
+          (JJ pricey))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT the) (NN location))
+      (ADVP (RB definitely))
+      (VP (VBZ is)
+        (ADJP (JJ worth)
+          (NP (PRP it)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Great))
+    (VP (VBP place)
+      (S
+        (VP (TO to)
+          (VP (VB grab)
+            (NP
+              (NP (DT a) (NN drink))
+              (PP (IN in)
+                (NP (DT the) (CD one)
+                  (CC or)
+                  (CD two) (NNS months)))
+              (PP (IN of)
+                (NP (NN summer))))
+            (PP (IN in)
+              (NP (NNP Madison)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (SBAR (IN While)
+      (S
+        (NP (PRP I))
+        (VP (VBP 'm)
+          (ADVP (RB still))
+          (VP (VBG sitting)
+            (PP (IN on)
+              (NP
+                (NP (DT the) (NN deck))
+                (PP (IN at)
+                  (NP (DT the) (NNP Edgewater) (NNP Pier)))))))))
+    (NP (PRP I))
+    (VP (VBD felt)
+      (S
+        (NP (PRP it))
+        (ADVP (RB best))
+        (VP (TO to)
+          (VP (VB review)
+            (ADVP (RB immediately))
+            (SBAR (IN while)
+              (S
+                (NP (PRP$ my) (NNS feelings))
+                (VP (VBP are)
+                  (ADJP (JJ fresh)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNS Drinks))
+        (, ,)
+        (PP (VBG including)
+          (NP (NN beer)))
+        (, ,))
+      (VP (VBP are)
+        (ADJP (RB very) (JJ overpriced))))
+    (: -)
+    (S
+      (NP (NN food))
+      (VP (VBZ is)
+        (ADVP (RB also))
+        (ADJP (JJ overpriced)
+          (CC and)
+          (JJ bland))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Service))
+    (VP (VBZ is)
+      (ADJP (JJ slow)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (JJ only) (NN perk))
+      (VP (VBZ is)
+        (NP (DT the) (NN view))))
+    (, ,)
+    (CC but)
+    (S
+      (SBAR (IN if)
+        (S
+          (NP (PRP you))
+          (VP (VBP have)
+            (NP (DT a) (NN boat)))))
+      (NP (PRP you))
+      (VP (VBP 're)
+        (ADJP (JJR better) (RP off)
+          (S
+            (VP
+              (VP (VBG packing)
+                (NP (PRP$ your) (JJ own) (NNS drinks)))
+              (, ,)
+              (VP (VBG grabbing)
+                (NP (DT some) (NNPS McDs)))
+              (CC and)
+              (VP (VBG dining)
+                (PP (IN on)
+                  (NP (DT the) (NN lake)))))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD ordered)
+      (SBAR
+        (S
+          (NP
+            (NP
+              (NP (DT the) (NN fish) (NN sandwich))
+              (PRN (-LRB- -LRB-)
+                (ADVP (RB hovers))
+                (NP
+                  (QP (IN between) ($ $) (CD 8)
+                    (CC and)
+                    ($ $) (CD 9)))
+                (-RRB- -RRB-)))
+            (CC and)
+            (NP (PRP$ my) (NN hubby)))
+          (VP (VBD ordered)
+            (NP (DT a) (NN bbq) (NN chicken) (NN sandwich))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBD was)
+      (NP (DT a) (JJ nice) (NN guitar) (NN singer) (NN sololist)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Wait) (NN staff))
+    (VP (VBD was)
+      (ADJP (JJ attentive)
+        (CC and)
+        (JJ friendly)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBD was)
+        (NP
+          (NP (DT a) (JJ gorgeous) (NN day))
+          (, ,)
+          (NP
+            (NP (JJ low) (NNS 80s))
+            (PP (IN around)
+              (NP (NN sunset)))))))
+    (, ,) (IN so)
+    (S
+      (NP (DT this))
+      (ADVP (RB really))
+      (VP (VBD had)
+        (NP
+          (NP (DT a) (JJ nice) (NN impact))
+          (PP (IN on)
+            (NP (PRP$ my) (JJ first) (NN time))))
+        (ADVP (RB here))))
+    (. .)))
+
+(ROOT
+  (NP (DT No) (NNS complaints) (. !)))
+
+(ROOT
+  (FRAG
+    (NP (DT A) (JJ hidden) (NN gem))
+    (, ,)
+    (PP (IN for)
+      (ADJP (JJ sure)))
+    (. .)))
+
+

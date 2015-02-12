@@ -1,0 +1,254 @@
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (DT a) (JJ fast) (NN food) (NN chain) (NN restaurant)))
+    (, ,)
+    (NP (DT this) (NN location))
+    (VP (VBZ does)
+      (S
+        (NP (PRP it))
+        (ADJP (RB right))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Fast))
+    (, ,)
+    (NP (JJ friendly) (NN service))
+    (, ,)
+    (S
+      (NP (PRP they))
+      (ADVP (RB always))
+      (VP
+        (VP (VBP get)
+          (NP (PRP$ my) (NN order) (NN right)))
+        (, ,)
+        (CC and)
+        (VP
+          (NP (PRP$ its) (NN filling) (NN food))
+          (PP (IN at)
+            (NP (DT a) (JJ super) (JJ economical) (NN price))))))
+    (. .)))
+
+
+(ROOT
+  (NP (JJ Friendly) (NN service) (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Clean))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Outdoor)
+      (NP (NN seating))
+      (ADVP (RB too)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Thursday) (NN chicken) (NNP tacos) (NNP 3))
+      (PP (IN for)
+        (NP ($ $) (CD 2))))
+    (VP (VBP are)
+      (ADJP (JJ delicious)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (ADVP (RB Gross))
+    (, ,)
+    (NP (DT this) (NN place))
+    (VP (VBZ is)
+      (NP (JJ gross)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ is)
+        (ADJP (JJ cheap))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT that))
+      (VP (VBZ is)
+        (ADVP (RB obviously))
+        (PP (IN for)
+          (NP (DT a) (NN reason)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT Some) (JJ fast) (NN food) (NNS places))
+    (ADVP (RB nearby))
+    (VP (VBP are)
+      (NP
+        (NP (RB even) (JJR worse))
+        (, ,)
+        (CC &)
+        (RB not)
+        (NP (RB even)
+          (ADJP
+            (ADJP (RB as) (JJ cheap))
+            (SBAR (IN though)
+              (S (, ,)
+                (ADVP (IN so)
+                  (NP (DT no) (NN surprise)))
+                (NP (PRP they))
+                (VP (VBP are)
+                  (ADVP (RB still))
+                  (PP (IN in))))))
+          (NN business))))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is)
+      (NP
+        (NP (PRP it))
+        (PP (IN about)
+          (NP (JJ fast) (NN food) (NNS places))))
+      (VP (RB not) (VBG serving)
+        (NP
+          (NP
+            (NP (JJ healthy) (NN food))
+            (, ,)
+            (SBAR
+              (WHNP
+                (ADVP (RB seriously))
+                (WP what))
+              (S
+                (VP (VBZ is)
+                  (ADJP (RB so) (JJ slow)
+                    (PP (IN about)
+                      (NP (DT an) (NN apple))))))))
+          (, ,)
+          (CC or)
+          (NP (NN banana)))))
+    (. ?)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (JJ Healthy) (NNS alternatives))
+        (SBAR
+          (WHPP (TO to)
+            (WHNP (WP what)))
+          (S
+            (NP (DT this) (NN place))
+            (VP (VBZ serves)
+              (PRT (RP up))))))
+      (VP (MD may)
+        (ADVP (RB even))
+        (VP (VB be)
+          (ADJP (RBR more) (JJ affordable)
+            (PP (IN in)
+              (NP (DT some) (NNS cases)))))))
+    (, ,)
+    (NP (JJ organic) (NNS bananas))
+    (VP (VBP sell)
+      (PP (IN for)
+        (NP
+          (NP (CD 69) (NNS cents))
+          (NP (DT a) (NN pound))))
+      (ADVP (RB nearby)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP
+        (NP (DT those))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBP believe)
+              (SBAR
+                (S
+                  (NP (NN depopulation))
+                  (VP (VBZ is)
+                    (ADJP (JJ necessary))))))))))
+    (, ,)
+    (NP (DT this) (NN place))
+    (VP (VBZ is)
+      (ADVP (RB highly))
+      (VP (VBN recommended)
+        (PP (IN for)
+          (NP (PRP you)))
+        (ADVP (RB first))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Great))
+    (VP (VBP hang)
+      (PRT (RP out))
+      (NP (NN spot)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ Their) (NNS burgers))
+    (VP (VBP are)
+      (NP
+        (NP (DT some))
+        (PP (IN of)
+          (NP (PRP$ my) (NNS favorites)))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP$ Their) (NNS churros))
+    (VP (VBP are)
+      (ADJP (JJ great))
+      (, ,)
+      (ADVP (RB too)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Open)
+      (ADVP (RB late)))
+    (. .)))
+
+(ROOT
+  (NP (FW Cheap) (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Taco) (NNP Tuesday))
+    (ADJP (JJ friendly))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VB Ask)
+      (PP (IN for)
+        (NP
+          (NP (DT a) (JJ quad) (NN burger))
+          (CC or)
+          (NP (DT a) (JJ triple) (NN del)))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (MD 'll)
+      (VP (VB add)
+        (NP (NNS parties))
+        (PP (IN onto)
+          (NP
+            (NP (DT the) (NNS burgers))
+            (PP (IN for)
+              (NP (DT an) (JJ extra) (NN charge)))))))
+    (. .)))
+
+

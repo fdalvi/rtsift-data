@@ -1,0 +1,413 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP Maid))
+      (PP (IN of)
+        (NP (DT the) (NNP Forth))))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN ferry)
+          (CC and)
+          (NN cruise) (NN service))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ operates)
+              (PP (IN from)
+                (NP (NNP South) (NNP Queensferry))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ Its) (JJ various) (NNS trips))
+    (VP (VBP have)
+      (NP
+        (NP (DT the) (NN attraction))
+        (PP (IN of)
+          (S
+            (VP (VBG sailing)
+              (PP
+                (PP (IN under)
+                  (NP (DT the) (JJ famous) (NNP Forth) (NNP Rail) (NNP Bridge)))
+                (, ,)
+                (CC and)
+                (RB usually)
+                (PP (TO to)
+                  (NP
+                    (NP (DT the) (JJ historic) (NN site))
+                    (PP (IN of)
+                      (NP
+                        (NP (NNP Inchcolm) (NNP Abbey))
+                        (PP (IN on)
+                          (NP
+                            (NP (DT the) (NN Island))
+                            (PP (IN of)
+                              (NP (DT the) (JJ same) (NN name)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN As)
+      (NP
+        (NP (CD one))
+        (PP (IN of)
+          (NP
+            (NP (CD two) (NN ferry) (NNS services))
+            (ADVP (RB up)
+              (NP (DT the) (NN Forth))
+              (PP (IN from)
+                (NP (NNP Queensferry))))))))
+    (, ,)
+    (NP (DT The) (NNP Maid))
+    (VP (VBZ offers)
+      (NP
+        (NP (CD two) (JJ main) (NNS types))
+        (PP (IN of)
+          (NP (NN cruise)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ first))
+    (VP (VBZ is)
+      (NP (DT a) (JJ simple) (NN sail))
+      (ADVP (RB up))
+      (, ,)
+      (PP
+        (PP (IN under)
+          (NP (DT the) (NNP Rail) (NNP Bridge)))
+        (CC and)
+        (PP (IN around)
+          (NP (DT the) (NNP Inchcolm) (NNP Island)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ other))
+    (VP (VBZ is)
+      (ADVP (RB much)
+        (NP (DT the) (JJ same)))
+      (PP (CC but)
+        (IN with)
+        (NP
+          (NP (DT an) (NN opportunity))
+          (PP (IN for)
+            (NP (NNS visitors)))))
+      (S
+        (VP (TO to)
+          (VP
+            (VP (VB stop)
+              (PRT (RP off))
+              (PP (IN on)
+                (NP (DT the) (NNP Island))))
+            (CC and)
+            (VP (VB explore)
+              (NP (PDT both)
+                (NP (PRP it))
+                (CC and)
+                (NP (DT the) (NN Abbey))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN cruise))
+      (SBAR
+        (S
+          (NP (PRP itself))
+          (VP (VBZ takes)
+            (PP (IN about)
+              (NP
+                (NP (DT an) (NNS hours))
+                (PP (IN in)
+                  (NP (NN total)))))
+            (, ,)
+            (PP (IN with)
+              (NP
+                (NP (DT an) (JJ extra) (NN hour))
+                (CC and)
+                (NP (NN half))))))))
+    (VP (VBD added)
+      (PP (IN for)
+        (NP (DT an) (NNP Island) (NN visit))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN cruise))
+    (ADVP (RB only))
+    (VP (MD will)
+      (VP (VB cost)
+        (S
+          (NP
+            (NP
+              (QP (RB around) (# #) (CD 10)))
+            (PP (IN for)
+              (NP
+                (NP
+                  (NP (DT an) (NN adult))
+                  (, ,)
+                  (NP
+                    (NP (# #) (CD 3.50))
+                    (PP (IN for)
+                      (NP (NNS children))))
+                  (, ,))
+                (PP (IN with)
+                  (NP (NNS concessions)
+                    (CC and)
+                    (NN family) (NNS discounts))))))
+          (ADJP (JJ available)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (DT A) (NN cruise)
+        (CC and)
+        (JJ explore) (NN tripe) (NNS costs))
+      (ADJP (# #) (CD 14.70))
+      (PP (IN for)
+        (NP (NNS adults))))
+    (, ,)
+    (PP
+      (NP
+        (QP (# #) (CD 5.85)))
+      (IN for)
+      (NP (NNS children)))
+    (, ,)
+    (PP (IN with)
+      (NP (JJ similar) (NNS discounts)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT All))
+      (PP (IN in)
+        (NP (PDT all) (DT this))))
+    (VP (VBZ makes)
+      (NP (DT a) (JJ lovely) (NN day) (NN trip)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADJP (JJ Needless)
+        (S
+          (VP (TO to)
+            (VP (VB say)
+              (NP (DT this) (NN trip)))))))
+    (VP (VBZ is)
+      (ADJP (RB somewhat) (RB weather) (JJ dependent)))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP (NNS kids))
+    (VP (VBP seem)
+      (S
+        (VP (TO to)
+          (VP (VB love)
+            (NP (PRP it))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADVP (RB also))
+      (NP
+        (NP (DT a) (JJ great) (NN opportunity))
+        (PP (TO to)
+          (NP (NN bird) (NN spot)))
+        (, ,)
+        (ADJP (RB particularly) (JJ puffins))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP I))
+        (VP (VBD was)
+          (PP (IN aboard)
+            (NP (DT the) (NN ferry))))))
+    (NP (PRP we))
+    (ADVP (RB also))
+    (VP (VBD managed)
+      (S
+        (VP (TO to)
+          (VP (VB get)
+            (NP
+              (NP (DT a) (JJ great) (NN view))
+              (PP (IN of)
+                (NP (CD two) (JJ sunbathing) (NNS seals))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP Maid))
+      (PP (IN of)
+        (NP (DT the) (NNP Forth))))
+    (ADVP (RB also))
+    (VP (VBZ offers)
+      (NP (JJ special) (NNS events))
+      (, ,)
+      (PP (IN like)
+        (NP (JJ educational) (NN school) (NNS trips)
+          (CC and)
+          (NN wedding) (NNS services))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is) (RB all)
+      (ADJP (JJ detailed)
+        (PP (IN on)
+          (NP (PRP$ their) (NN website))))
+      (ADVP (IN along)
+        (PP (IN with)
+          (NP (DT a) (NN sailing) (NN schedule)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (ADJP (JJ great))
+      (, ,)
+      (NP
+        (NP (PRP it))
+        (SBAR
+          (S
+            (NP (PRP you))
+            (VP (VBP want)
+              (S
+                (VP (TO to)
+                  (VP (VB have)
+                    (NP
+                      (NP (DT a) (JJR better) (NN view))
+                      (PP (IN of)
+                        (NP (DT the) (NNP Firth))))))
+                (PP (IN Of)
+                  (NP
+                    (NP (NNP Forth))
+                    (PP (IN than)
+                      (S
+                        (VP
+                          (ADVP (RB simply))
+                          (VBG driving)
+                          (PRT (RP over))
+                          (NP (PRP them))
+                          (ADVP (RB !!)))))))))))))))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP get)
+          (NP (DT a)
+            (ADJP (JJ good) (JJ clear))
+            (NN day)))))
+    (NP (PRP you))
+    (VP (VBP get)
+      (NP
+        (NP (DT a) (JJ good) (NN view))
+        (PP (IN of)
+          (NP (NN edinburgh)
+            (CC and)
+            (NN Fife)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP
+        (QP (# #) (CD 5) (CD extra))))
+    (NP (PRP you))
+    (VP (MD can)
+      (VP (VB land)
+        (PP (IN at)
+          (NP (NNP Inclom) (NNP Island)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN boat))
+    (VP
+      (VP (VBZ has)
+        (NP (DT a) (NN cafe)))
+      (CC and)
+      (, ,)
+      (VP (NN bar))
+      (CC and)
+      (VP (VBZ snacks)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD got)
+        (NP (PRP$ my) (NNS tickets))
+        (PP (IN on)
+          (NP (NNP Groupon) (NNP cheaper)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (JJ normal) (NN price))
+      (VP (VBZ is)
+        (NP
+          (NP (# #) (CD 11))
+          (PP (IN per)
+            (NP (NN person))))
+        (, ,)
+        (S
+          (VP (VB geat)
+            (NP (PRP it))
+            (SBAR
+              (S
+                (NP (PRP you))
+                (VP (VBP have)
+                  (NP
+                    (NP (DT a) (NN day)
+                      (CC and)
+                      (NN unsure))
+                    (SBAR
+                      (WHNP (WP what))
+                      (S
+                        (VP (TO to)
+                          (VP (VB do)))))))))))))
+    (. !)))
+
+
+(ROOT
+  (FRAG
+    (NP (JJ Great) (NN day))
+    (ADVP (RB out))
+    (. !)))
+
+(ROOT
+  (NP
+    (NP (NNS Lots))
+    (PP (IN of)
+      (NP (NNS things)))
+    (S
+      (VP (TO to)
+        (VP (VB see)
+          (PP (IN from)
+            (NP
+              (NP (DT the) (NN boat))
+              (PP (VBG including)
+                (NP
+                  (NP (NNS seals))
+                  (CC and)
+                  (NP (NN sea) (NNS birds)))))))))
+    (. .)))
+
+

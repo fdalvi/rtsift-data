@@ -1,0 +1,109 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD will)
+      (VP (VB take)
+        (NP
+          (NP (NNP Baja) (NNP Fresh))
+          (PP (IN over)
+            (NP (DT that) (JJ other) (NN place))))
+        (NP (DT any) (NN time))))
+    (. .)))
+
+(ROOT
+  (NP (DT Any) (NN time) (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (JJ particular) (NN place))
+    (VP (VBZ is)
+      (ADJP (JJ clean)
+        (CC and)
+        (JJ friendly)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB personally))
+    (VP (VBP stick)
+      (PP (IN with)
+        (NP (DT the) (JJ orignal) (NNP Baja) (NN fish) (NNS tacos))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (NP
+        (NP (NN something))
+        (PP (IN about)
+          (NP (PRP$ their) (JJ special) (JJ tangy) (NN sauce))))
+      (SBAR (IN that)
+        (S
+          (NP (PRP I))
+          (ADVP (RB really))
+          (VP
+            (ADVP (RB really))
+            (VBP like)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB also))
+    (VP (VBP get)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the)
+              (ADJP (JJ express))
+              (NN guacamole))
+            (CC and)
+            (NP (NNS chips))
+            (: -))
+          (VP (VBD made)
+            (ADJP (JJ fresh))
+            (PP (IN with)
+              (NP (DT no) (JJ wierd) (NNS additives)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS chips))
+      (VP (VBP are)
+        (ADJP (JJ fresh)
+          (SBAR
+            (S
+              (VP (VBD made)))))))
+    (PRN (, ,)
+      (S
+        (NP (PRP I))
+        (VP (MD can)
+          (VP (VB tell))))
+      (, ,))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP 'm)
+        (ADJP (RB so) (JJ glad)
+          (SBAR
+            (S
+              (NP (PRP they))
+              (VP (VBP do)
+                (NP (DT this))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Comfortable) (NN seating))
+    (: ;)
+    (NP (DT an) (JJ ideal) (NN place)
+      (S
+        (VP (TO to)
+          (VP (VB have)
+            (NP (DT a) (JJ quick) (NN meal))))))
+    (. .)))
+
+

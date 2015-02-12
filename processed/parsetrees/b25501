@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (S
+      (S
+        (S
+          (VP (VBG visiting)
+            (PP (IN from)
+              (NP (FW Hawaii)
+                (CC and)
+                (FW i)))))
+        (VP (VBD wanted)
+          (S
+            (VP (TO to)
+              (VP (VB check)
+                (NP (DT this) (NN store))
+                (PRT (RP out)))))))
+      (CC but)
+      (S
+        (NP (PRP I))
+        (VP
+          (VP (MD could) (RB n't)
+            (VP (VB find)
+              (NP (PRP it))))
+          (CC and)
+          (VP (VBD came)
+            (S
+              (VP (TO to)
+                (VP (VB find)
+                  (PRT (RP out)))))))))
+    (NP (PRP it))
+    (VP (VBD went)
+      (PRT (RP out))
+      (PP (IN of)
+        (NP (NN business))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP guess)
+      (SBAR
+        (S
+          (NP
+            (NP (PDT all) (DT the) (JJ bad) (NNS reviews))
+            (PP (IN about)
+              (NP (DT the) (NNS workers))))
+          (VP (VBD put)
+            (NP (PRP them))
+            (PRT (RP out))
+            (PP (IN of)
+              (NP (NN business)))))))
+    (. .)))
+
+

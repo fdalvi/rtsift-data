@@ -1,0 +1,148 @@
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (DT an) (NN airport) (NN restaurant)))
+    (, ,)
+    (NP (DT this) (NN place))
+    (VP (VBZ is)
+      (ADVP (RB really))
+      (ADJP (RB quite) (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD had)
+      (NP
+        (NP (DT the) (`` ``) (NN curry) (NN feast))
+        (PP (IN for)
+          (NP (CD two)))))
+    (. .)))
+
+(ROOT
+  (S ('' '')
+    (S
+      (PP (IN For)
+        (NP (CD 15) (NNS pounds)))
+      (NP (PRP we))
+      (VP (VBD had)
+        (NP
+          (NP (DT the) (NNP Chicken) (NNP Jalfrezi))
+          (CC and)
+          (NP (DT the) (NNP Lamb) (NNP Rogan) (NNP Josh)))))
+    (: -)
+    (S
+      (NP (DT both))
+      (VP (VBD were)
+        (ADJP (JJ excellent))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN price))
+    (ADVP (RB also))
+    (VP (VBD included)
+      (NP
+        (NP (CD two) (NNS drinks))
+        (, ,)
+        (NP
+          (NP (DT a) (NN pint))
+          (PP (IN of)
+            (NP (NNP Fosters))))
+        (CC and)
+        (NP
+          (NP (DT a) (NN glass))
+          (PP (IN of)
+            (NP (NN wine))))))
+    (. .)))
+
+(ROOT
+  (S
+    (INTJ (UH Oh))
+    (, ,)
+    (NP
+      (NP (RB yes))
+      (, ,)
+      (CC and)
+      (NP (DT some) (NNS poppadums)))
+    (VP (VBD were)
+      (VP (VBN included) (, ,)
+        (ADVP (IN along)
+          (PP (IN with)
+            (NP (DT some) (NN naan)
+              (CC and)
+              (NN chutney))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (JJ real) (NN treat))
+      (CC and)
+      (NP (RB not) (DT a) (JJ bad)))
+    (VP (NN bargain)
+      (PP (TO to)
+        (NP (NN boot))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (ADVP (RB Probably))
+    (NP (DT the) (JJS best) (NN airport))
+    (VP (VBD restaurant/pub)
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBP 've)
+            (VP (VBN been)
+              (PP (TO to))
+              (PP (IN in)
+                (NP (NNS ages))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Typical) (`` `) (NNP Spoons) (NN fare))
+    (, ,)
+    (S
+      (VP (CC but)
+        (VP (VBN price-adjusted)
+          (PP (IN for)
+            (NP (DT the) (NN airport))))))
+    (VP (VBD set))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (INTJ (RB Still))
+    (, ,)
+    (NP (RB quite) (JJ reasonable))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Good) (NN food))
+    (, ,)
+    (NP
+      (NP (JJ cold) (NNS drinks))
+      (, ,)
+      (NP (JJ pleasant) (NN service)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN While)
+      (S
+        (VP (VBG waiting)
+          (PP (IN for)
+            (NP (DT a) (NN flight))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (MD could) (RB n't)
+      (VP (VB ask)
+        (PP (IN for)
+          (ADVP (RBR better)))))
+    (. .)))
+
+

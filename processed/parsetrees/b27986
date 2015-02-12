@@ -1,0 +1,82 @@
+(ROOT
+  (NP (FW Fantastic) (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD had)
+      (NP
+        (NP (DT a) (JJ great) (NN experience))
+        (PP (IN with)
+          (NP (DT this) (NN company)))))
+    (. .)))
+
+
+(ROOT
+  (UCP
+    (ADVP (RB Very))
+    (ADJP (NN professional))
+    (, ,)
+    (ADJP (JJ easy)
+      (PP (TO to)
+        (NP (NN work)))
+      (PP (IN with)))
+    (, ,)
+    (CC and)
+    (NP (JJ CREATIVE) (NN !!))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would) (RB not)
+      (VP (VB recommend)
+        (PP (TO to)
+          (NP
+            (NP (NN anyone))
+            (PP (IN in)
+              (NP (PRP$ my) (NN field)))))
+        (SBAR (IN because)
+          (S
+            (NP (DT that))
+            (VP (MD would)
+              (VP (VB decrease)
+                (NP (PRP$ my) (JJ competitive) (NN edge) (NN :-RRB-))))))))))
+
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VP (VBD listened)
+        (PP (TO to)
+          (NP (PRP$ our) (NN need)))
+        (PP (IN for)
+          (NP
+            (NP (DT a) (JJ specific) (NN type))
+            (PP (IN of)
+              (NP (NN branding))))))
+      (CC and)
+      (VP (VBD came)
+        (PP (IN with)
+          (NP (DT a) (NN home) (NN run)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP (JJ Easy))
+    (S
+      (VP (TO to)
+        (VP (VB work)
+          (PP (IN with))
+          (, ,)
+          (ADJP (JJ timely)
+            (CC and)
+            (JJ effective)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (JJ Great) (NNS people))
+    (. !)))
+
+

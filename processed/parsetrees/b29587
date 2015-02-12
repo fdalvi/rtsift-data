@@ -1,0 +1,343 @@
+(ROOT
+  (NP
+    (NP (NNP Grand) (NNP Opening))
+    (NP (NNP Blue) (NNP Diamond)
+      (CC &)
+      (NNP Decatur))))
+
+
+(ROOT
+  (FRAG
+    (NP (NNP Clean))
+    (ADVP (RB inside))
+    (. .)))
+
+(ROOT
+  (NP (CD Friendly) (NNS employees) (. .)))
+
+(ROOT
+  (S
+    (NP (VBG Parking) (NN lot))
+    (VP (VBZ is)
+      (ADJP (JJ easy))
+      (ADVP (IN in)
+        (CC and)
+        (IN out)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Nicely))
+    (VP
+      (VP (VBD layed)
+        (PRT (RP out)))
+      (CC and)
+      (VP
+        (NP (JJ wide) (NNS aisles))
+        (, ,)
+        (PP (IN with)
+          (NP
+            (NP (JJ good) (NNS markings))
+            (SBAR (IN so)
+              (S
+                (NP (PRP you))
+                (VP (VBP find)
+                  (SBAR
+                    (WHNP (WP what))
+                    (S
+                      (NP (PRP your))
+                      (VP (VBG looking)
+                        (PP (IN for))))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJS best) (NN service))
+      (PP (IN from)
+        (NP (DT the) (NN pharmacy) (NN staff))))
+    (ADJP (JJ !!!!))))
+
+
+(ROOT
+  (S
+    (NP (NN Today))
+    (SBAR (IN after)
+      (S
+        (VP (VBP work)
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (VBD stopped)
+                (PRT (RP in))
+                (S
+                  (VP (TO to)
+                    (VP (VB buy)
+                      (NP (DT a) (JJ bday) (NN card)))))))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD saw)
+      (NP (DT a) (JJ few) (NN makeup) (NNS items))
+      (PP (IN on)
+        (NP (NN clearance))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP
+        (VP (VB pay))
+        (CC and)
+        (VP (VB walk)
+          (PRT (RP out))
+          (, ,)
+          (S
+            (NP (PRP I))
+            (VP (VB realize)
+              (VP
+                (ADVP (RB just))
+                (VBN paid)
+                (NP ($ $) (CD 34))))))
+        (CC and)
+        (VP (VB reach)
+          (PP (IN for)
+            (NP (DT the) (NN receipt))))))
+    (, ,)
+    (NP (PRP$ my) (NN receipt))
+    (VP
+      (VP (VBZ flies)
+        (PRT (RP out))
+        (PP (IN of)
+          (NP (DT the) (NN bag))))
+      (CC and)
+      (VP (VBZ is)
+        (VP (VBN gone))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBP go)
+        (ADVP (RB back))
+        (PP (IN in)
+          (NP (NN store))))
+      (CC and)
+      (VP (VBP ask)
+        (SBAR (IN if)
+          (S
+            (NP (PRP I))
+            (VP (MD could)
+              (VP
+                (NP
+                  (NP (DT a) (NN copy))
+                  (PP (IN of)
+                    (NP (DT the) (NN receipt))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP
+        (VP (VBP print)
+          (NP (CD one))
+          (PRT (RP out)))
+        (, ,)
+        (VP (VBP yep)
+          (NP
+            (NP (DT the) (NN mascara))
+            (SBAR
+              (S
+                (NP (PRP I))
+                (VP (VBD purchased)
+                  (SBAR
+                    (S
+                      (VP (VBD was)
+                        (VP (VBN marked)
+                          (NP ($ $) (CD 3.99)))))))))))
+        (CC but)
+        (VP (VBD rang)
+          (PRT (RP up))
+          (NP ($ $) (CD 7.99)))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP ask)
+      (SBAR
+        (S
+          (PP (IN for)
+            (NP (DT a) (NN refund)))
+          (, ,)
+          (NP (PRP I))
+          (VP (VBP 'm)
+            (VP (VBN told)
+              (SBAR (IN that)
+                (S
+                  (VP (VBZ 's)
+                    (NP
+                      (NP (DT the) (NN price))
+                      (SBAR
+                        (S
+                          (VP (VBZ is)
+                            (ADJP (JJ correct))
+                            (SBAR (IN so)
+                              (S
+                                (NP (PRP I))
+                                (VP (VBP decide)
+                                  (S
+                                    (VP (TO to)
+                                      (VP (VB return)
+                                        (NP (DT the) (NN item))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN At)
+      (NP (DT this) (NN point)))
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (VP (VBN told)
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (MD can)
+              (ADVP (RB only))
+              (VP (VB get)
+                (NP (NN store) (NN credit))
+                (SBAR (IN because)
+                  (S
+                    (NP (PRP I))
+                    (VP (VBP do) (RB n't)
+                      (VP (VB have)
+                        (NP
+                          (NP (DT the) (JJ original) (NN receipt))
+                          (PRN (-LRB- -LRB-)
+                            (NP
+                              (NP (NN lmao))
+                              (PP (IN at)
+                                (NP (DT this) (NN point))))
+                            (-RRB- -RRB-)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (RB Even) (IN though)
+      (S
+        (NP
+          (NP (DT the) (NN receipt))
+          (SBAR
+            (S
+              (NP (PRP they))
+              (VP (VBD printed)))))
+        (VP (VBZ has)
+          (NP
+            (NP (PRP$ my) (JJ debit) (NN card) (NN info))
+            (CC and)
+            (NP
+              (NP (DT the) (NN clerk))
+              (SBAR
+                (WHNP (WP who))
+                (S
+                  (VP (VBD cashed)
+                    (SBAR
+                      (S
+                        (NP (PRP me))
+                        (ADVP (RB out))
+                        (VP (VBZ is)
+                          (VP (VBG vouching)
+                            (PP (IN for)
+                              (NP (PRP me)))))))))))))))
+    (NP (PRP I))
+    (VP (VBP 'm) (RB not)
+      (VP
+        (VP (VBG getting)
+          (NP (PRP$ my) (NN money))
+          (ADVP (RB back)))
+        (PRN (-LRB- -LRB-)
+          (S
+            (NP (PRP I))
+            (VP (MD must)
+              (ADVP (RB really))
+              (VP (VB look)
+                (PP (IN like)
+                  (NP (DT a) (NN crack) (NN whore)))
+                (: ...)
+                (ADVP (RB not) (RB even) (JJ close)))))
+          (-RRB- -RRB-))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN person))
+      (PP (IN in)
+        (NP (NN charge))))
+    (PRN (-LRB- -LRB-)
+      (S
+        (NP (NN baby))
+        (VP (VBP talk)
+          (NP (NNP Angela))))
+      (-RRB- -RRB-))
+    (VP (VBZ is) (RB not)
+      (VP (VBN trained)
+        (PP (IN in)
+          (NP (JJ common) (NN sense)
+            (CC or)
+            (NN customer) (NN service)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBD chose)
+        (S
+          (VP (TO to)
+            (VP (VB leave)
+              (NP (DT the) (NN store))
+              (PP (IN without)
+                (NP
+                  (NP (DT any))
+                  (PP (IN of)
+                    (NP (DT the) (NNS items)))))))))
+      (CC and)
+      (VP (VBD disputed)
+        (NP (DT the) (NN charge))
+        (PP (IN with)
+          (NP
+            (NP (PRP$ my) (NN bank))
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBP are)
+                  (ADJP (JJ awesome)))))))))
+    (. .)))
+
+(ROOT
+  (S (RB so)
+    (VP (VB guess)
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP (NN baby))
+          (VP (VBP talk)
+            (SBAR
+              (S
+                (S
+                  (NP (PRP I))
+                  (VP (VBD got)
+                    (NP (PRP$ my) (NN money))
+                    (ADVP (RB back))))
+                (CC and)
+                (S
+                  (NP (PRP I))
+                  (VP (MD wo) (RB n't)
+                    (VP (VB spend)
+                      (NP (CD one) (JJR more) (NN $))
+                      (PP (IN in)
+                        (NP (PRP$ your) (NN store))))))))))))
+    (. .)))
+
+

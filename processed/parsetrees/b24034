@@ -1,0 +1,111 @@
+(ROOT
+  (NP
+    (NP ($ $) (CD 9.75))
+    (PP (IN for)
+      (NP
+        (NP (DT a) (NN filling) (NN roast) (NN beef) (NN sandwich))
+        (, ,)
+        (NP
+          (NP (NN bag))
+          (PP (IN of)
+            (NP
+              (NP (NNS chips))
+              (, ,)
+              (NP (NN chocolate) (NN chip) (NN cookie))
+              (, ,)
+              (CC and)
+              (NP (NN bottle)))))))
+    (PP (IN of)
+      (NP (NN water)))
+    (. .)))
+
+(ROOT
+  (FRAG (RB Not)
+    (ADJP (JJ Bad))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN location))
+    (VP (VBZ is)
+      (ADVP
+        (NP (RB about) (DT a) (NN block))
+        (RB away))
+      (PP (IN from)
+        (NP (NNP Subway))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP
+        (VP (VBP 'm)
+          (ADVP (IN out)
+            (PP (IN in)
+              (NP (NNP Madison))))
+          (PP (IN for)
+            (NP (DT a) (NN conference))))
+        (PRN (-LRB- -LRB-)
+          (S
+            (NP (NNP Chicago))
+            (VP (VBZ is)
+              (NP (NN home))))
+          (-RRB- -RRB-))
+        (CC and)
+        (VP (VBD wanted)
+          (NP
+            (NP (NN something))
+            (UCP
+              (ADJP (JJ cheap))
+              (, ,)
+              (ADJP (JJ good))
+              (, ,)
+              (ADJP (JJ fast))
+              (, ,)
+              (CC and)
+              (NP (NN filling)))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (MD would)
+        (VP (VB say)
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (VBD got)
+                (NP (PRP it))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT This) (NN place))
+      (VP (VBZ is)
+        (ADVP (RB also))
+        (ADJP (JJ similar)
+          (PP (TO to)
+            (NP (NNP Jimmy) (NNP John) (POS 's))))))
+    (CC but)
+    (S
+      (NP (DT the) (NN sandwich))
+      (VP (VBD was)
+        (ADVP (RBR more))
+        (VP (VBG filling))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN place))
+    (VP (VBD was)
+      (ADJP (JJ empty))
+      (PP (IN at)
+        (NP (NN dinner)))
+      (NP (NN time))
+      (, ,)
+      (ADJP (JJ clean)
+        (CC and)
+        (JJ efficient)))
+    (. .)))
+
+

@@ -1,0 +1,379 @@
+(ROOT
+  (S
+    (VP (VB Cheapest)
+      (NP (NN gas) (NNS prices))
+      (PP (IN in)
+        (NP (NN town) (NNS !!))))))
+
+(ROOT
+  (S
+    (ADVP
+      (NP
+        (NP (DT A) (NN couple))
+        (PP (IN of)
+          (NP (NNS weeks))))
+      (IN ago))
+    (NP (PRP I))
+    (VP (VBD paid)
+      (NP
+        (NP
+          (QP ($ $) (CD 2.49) (CD /)))
+        (NP (NN gallon))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NN Yesterday))
+    (NP (PRP it))
+    (VP (VBD was)
+      (NP
+        (NP ($ $) (CD 2.59))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (JJS most) (NNS places))
+            (VP (VBP are)
+              (PP
+                (PP (IN over)
+                  (NP ($ $) (CD 2.60)))
+                (CC or)
+                (RB even)
+                (PP (TO to)
+                  (NP ($ $) (CD 2.77)))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN clerk))
+    (VP (VBD was)
+      (NP
+        (ADJP (RB real) (JJ nice)))
+      (, ,)
+      (ADVP (RB too)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (FRAG
+        (NP
+          (NP (CD 4) (NNS stars))
+          (PP (IN for)
+            (NP
+              (NP (NN gas) (NNS prices))
+              (NP
+                (NP (CD 3) (NNS stars))
+                (PP (IN for)
+                  (NP (NN pump)))))))
+        (: /)
+        (NP
+          (NP (NN terminal) (NN upkeep))
+          (: :)
+          (NP
+            (NP (CD 1/2))
+            (NP (DT the) (NN time)))))
+      (NP (DT the) (NNS terminals) (NN wont))
+      (VP (VBP accept)
+        (NP (DT any) (NNS cards))))
+    (PRN (, ,)
+      (S
+        (NP (PRP you))
+        (VP (MD cant)
+          (VP (VB use)
+            (NP (PRP them))
+            (ADVP (RB inside)))))
+      (, ,))
+    (CC and)
+    (S
+      (NP (NN weve))
+      (VP (VBZ has)
+        (VP (VB pump)
+          (NP
+            (NP
+              (QP (# #) (CD 1) (CD overflow)))
+            (PP (IN on)
+              (NP (PRP us))))
+          (ADVP (RBR more) (IN than) (RB once)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (CD 1) (NN star))
+      (PP (IN for)
+        (NP (NN customer) (NN service))))
+    (: :)
+    (S
+      (NP (PRP I))
+      (VP (MD will)
+        (ADVP (RB only) (RB ever))
+        (VP (VB buy)
+          (NP (NN gas))
+          (ADVP (RB here)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS people))
+    (ADVP
+      (NP (DT that) (NN work))
+      (RB here))
+    (VP (VBP are)
+      (ADJP (RB horribly) (JJ rude)))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (NNP Dateline))
+    (: :)
+    (NP (NNP 21st) (NNP Century))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT A) (NN driver))
+    (VP
+      (VP (VBZ swings)
+        (PP (IN by)
+          (NP (DT a) (NN gas) (NN station) (NN right)))
+        (PP (IN off)
+          (NP (DT the) (CD 101))))
+      (, ,)
+      (VP (VBZ pulls)
+        (PRT (RP up))
+        (PP (TO to)
+          (NP (DT the) (NN pump))))
+      (, ,)
+      (VP (VBZ whips)
+        (PRT (RP out))
+        (NP (PRP$ his) (NN credit) (NN card)))
+      (, ,)
+      (CC and)
+      (VP (VBZ buys)
+        (NP (DT some) (NN gas))))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (INTJ (UH Oh) (, ,) (UH wait))
+    (, ,)
+    (INTJ (UH no) (. .))))
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBZ 's) (RB not)
+      (SBAR
+        (WHADVP (WRB how))
+        (S
+          (NP (PRP it))
+          (VP (VBD went)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT A) (NN driver))
+    (VP
+      (VP (VBZ swings)
+        (PP (IN by)
+          (NP (DT a) (NN gas) (NN station) (NN right)))
+        (PP (IN off)
+          (NP (DT the) (CD 101))))
+      (, ,)
+      (VP (VBZ pulls)
+        (PRT (RP up))
+        (PP (TO to)
+          (NP (DT the) (NN pump))))
+      (, ,)
+      (VP (VBZ whips)
+        (PRT (RP out))
+        (NP (PRP$ his) (NN credit) (NN card)))
+      (, ,)
+      (CC and)
+      (VP (VBZ is)
+        (ADJP (VBN confused)
+          (SBAR
+            (WHADVP (WRB how)
+              (PP (IN in)
+                (NP (DT the) (NN hell))))
+            (S
+              (NP (DT a) (NN gas) (NN station))
+              (NP (DT these) (NNS days))
+              (VP (VBZ does) (RB n't)
+                (VP (VB take)
+                  (NP (JJ freaking) (NN plastic)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Seriously))
+    (, ,)
+    (NP (DT this) (NN place))
+    (VP (VBZ does) (RB n't)
+      (VP (VB take)
+        (NP (NN credit) (NNS cards))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (JJS Most) (NNP ARCO) (NNS stations))
+      (VP (VBP do) (RB n't))
+      (, ,)
+      (ADVP (RB apparently)))
+    (PRN (-LRB- -LRB-)
+      (SBAR (IN though)
+        (S
+          (NP
+            (NP (NNP BP))
+            (, ,)
+            (NP (PRP$ their) (NN parent) (NN company))
+            (, ,))
+          (VP (VBZ does))))
+      (-RRB- -RRB-))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP know)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBP say)
+            (SBAR
+              (S
+                (NP (PRP it))
+                (VP (VBZ 's)
+                  (S
+                    (VP (TO to)
+                      (VP (VB save)
+                        (NP (NN money))
+                        (PP (IN on)
+                          (NP
+                            (NP (NNS fees))
+                            (PP (TO to)
+                              (NP (NN card) (NNS companies)))))
+                        (SBAR (IN so)
+                          (S
+                            (NP (PRP they))
+                            (VP
+                              (VP (MD can)
+                                (VP (VB pass)
+                                  (PP (IN on)
+                                    (NP (DT the) (NNS savings)))))
+                              (, ,)
+                              (CC but)
+                              (VP (VBP come)
+                                (PRT (RP on))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC Plus)
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP charge)
+      (S
+        (NP (PRP you))
+        (VP (TO to)
+          (VP (VB use)
+            (NP (DT a) (JJ debit) (NN card))
+            (PP (IN with)
+              (NP (DT a) (NNP PIN)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN Unless)
+      (S
+        (NP (PRP you))
+        (VP (VBP have)
+          (NP (NN cash)))))
+    (, ,)
+    (NP (DT this) (NN place))
+    (VP (VBZ is)
+      (VP (VBG going)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (NP
+                (NP (DT a) (NN wash))
+                (PP (IN on)
+                  (NP (JJS most) (NN gas) (NNS purchases)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN With)
+      (S
+        (NP (JJS most))
+        (VP (VBZ purchases)
+          (NP
+            (NP (DT these) (NNS days))
+            (VP (VBG going)
+              (PP (IN onto)
+                (NP (NNS cards)))))
+          (PRN (-LRB- -LRB-)
+            (CC or)
+            (VP (VBN run)
+              (PP (IN through)
+                (NP (DT a) (JJ debit) (NN system))))
+            (-RRB- -RRB-)))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (NP
+        (NP (NN time))
+        (PP (IN for)
+          (NP (DT this) (VBG freaking) (NN place)
+            (S
+              (VP (TO to)
+                (VP (VB join)
+                  (NP (DT the) (JJ 21st) (NNP Century)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (TO To)
+        (VP (VB add)
+          (NP (NN insult))
+          (PP (TO to)
+            (NP (NN injury))))))
+    (, ,)
+    (NP (DT this) (JJ particular) (NN location))
+    (VP (VBZ is)
+      (NP (NN kinda) (NN dumpy)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's) (RB not)
+      (PP (JJ worth)
+        (NP
+          (NP (PRP$ their) (VBN alleged) (NNS savings))
+          (PRN (-LRB- -LRB-)
+            (S
+              (NP (PRP you))
+              (VP (MD can)
+                (ADVP (RB usually))
+                (VP (VB find)
+                  (NP (DT the) (JJ same) (NN price))
+                  (PP (IN on)
+                    (NP
+                      (NP (NN gas))
+                      (ADVP (RB elsewhere)))
+                    (ADVP (RB nearby))))))
+            (-RRB- -RRB-)))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Do) (RB n't)
+      (VP (VB bother)))
+    (. .)))
+
+

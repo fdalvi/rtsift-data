@@ -1,0 +1,131 @@
+(ROOT
+  (S
+    (VP (VB Yup))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP
+        (NP (DT a) (NN TacoBell))
+        (PP (RB just) (IN like)
+          (NP (DT every) (JJ other) (NN TacoBell)))))
+    (. .)))
+
+(ROOT
+  (SBAR
+    (WHNP (WDT Which))
+    (S (, ,)
+      (PP (IN by)
+        (NP (DT the) (NN way)))
+      (, ,)
+      (VP (VBZ begs)
+        (NP
+          (NP (DT the) (NN question))
+          (: ...)
+          (SBARQ
+            (WHADVP (WRB Why))
+            (SQ (VBP are)
+              (NP (PRP you))
+              (VP (VBG looking)
+                (PP (IN at)
+                  (NP
+                    (NP (DT a) (NN review))
+                    (PP (IN for)
+                      (NP (NNP TacoBell)))))))
+            (. ?)))))))
+
+(ROOT
+  (S
+    (SBAR (IN As)
+      (S
+        (NP (PRP they))
+        (VP (VBP go)
+          (NP (DT this) (NN one)))))
+    (VP (VBZ is)
+      (ADJP (RB pretty) (JJ new)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Nice))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Neat))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Clean))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Fast))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (DT the) (NNS people))
+    (VP (VBP are)
+      (ADJP (JJ nice)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Better))
+    (PP (IN than)
+      (NP (DT the) (JJ average) (NN TacoBell)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NN taco) (NN bell))
+    (VP (VBP yum))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (FW i))
+    (VP (VBP have)
+      (ADVP (RB never))
+      (VP (VBN had)
+        (NP
+          (NP (DT a)
+            (ADJP (JJ messed)
+              (PRT (RP up)))
+            (NN order))
+          (PP (IN from)
+            (NP (DT this) (NN location))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (VP (VBP bring)
+      (PRT (RP back))
+      (NP (JJ chili) (NN cheese) (NNS burritos)
+        (CC and)
+        (NN bell) (NNS beefers)))
+    (NP (JJ taco) (NN bell) (NNS !!!!))))
+
+
+(ROOT
+  (FRAG
+    (ADJP (JJ Fast)
+      (CC and)
+      (JJ good))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What) (JJR more))
+    (SQ (MD can)
+      (NP (PRP you))
+      (VP (VB ask)
+        (PP (IN for))))))
+
+

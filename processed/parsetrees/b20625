@@ -1,0 +1,88 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB really))
+    (VP (VBP love)
+      (NP (DT this) (NN shop)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP have)
+        (NP (JJ great) (NNS prices) (, ,) (JJ large) (NNS portions))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADVP (RB always))
+        (VP (VBN made)
+          (ADVP (RB fast)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHNP (WP What))
+      (S
+        (VP (VBZ is)
+          (ADJP (RB even) (JJR better)))))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP (VBP are)
+            (ADJP (JJ open)
+              (PP (IN until)
+                (NP
+                  (NP (NNS 11pm))
+                  (SBAR
+                    (WHNP (WDT which))
+                    (S
+                      (VP (VBZ means)
+                        (NP
+                          (NP (JJ yummy) (JJ late) (NNS purchases))
+                          (SBAR
+                            (WHADVP (WRB when))
+                            (S
+                              (NP (PRP you))
+                              (VP (VBP get)
+                                (NP (DT those) (NNS cravings))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ Their)
+      (ADJP (JJ sweet)
+        (CC and)
+        (JJ sour))
+      (NN pork))
+    (VP (VBZ is)
+      (ADJP (RB very) (JJ good)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (RB Only) (JJ downside))
+    (: -)
+    (S
+      (NP (NNP CASH) (NNP ONLY))
+      (VP (VBD :-LRB-)
+        (SBAR
+          (S
+            (S (CC But)
+              (NP (DT an) (NNP ATM))
+              (VP (VBZ is)
+                (ADVP (RB just))
+                (PP (IN across)
+                  (NP (DT the) (NN street)))))
+            (IN so)
+            (S
+              (NP (PRP it))
+              (VP (VBZ works)
+                (PRT (RP out))
+                (NP (NN fine))))))))
+    (. .)))
+
+

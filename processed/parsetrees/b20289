@@ -1,0 +1,190 @@
+(ROOT
+  (S
+    (NP (NNP Izzi) (POS 's))
+    (VP (VBZ is)
+      (ADJP (JJ alright)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would) (RB n't)
+      (VP (VB rush)
+        (PRT (RP out))
+        (S
+          (VP (TO to)
+            (VP (VB dine)
+              (ADVP (RB here)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP$ Their) (NN sushi))
+      (VP (VBZ is)
+        (ADJP (JJ great))
+        (SBAR (IN if)
+          (S
+            (NP (PRP you))
+            (VP (VBP are)
+              (ADJP (JJ new)
+                (PP (TO to)
+                  (NP (DT the) (NN cuisine)))))))))
+    (, ,)
+    (CC but)
+    (S
+      (S
+        (ADVP (RB really))
+        (, ,)
+        (NP (PRP it))
+        (VP (VBZ is)
+          (ADJP
+            (NP (RB just) (DT a) (JJ little) (NN bit))
+            (JJ boring))))
+      (, ,)
+      (CC but)
+      (S
+        (PP (IN on)
+          (NP (DT the) (JJ plus) (NN side)))
+        (, ,)
+        (NP (PRP it))
+        (VP (VBZ does)
+          (NP
+            (NP (NN taste))
+            (ADJP (RB much) (RBR more) (JJ fresh)))
+          (PP (IN than)
+            (NP (JJ other) (NNS establishments))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ first) (NN time))
+      (SBAR
+        (S
+          (NP (PRP we))
+          (VP (VBD went)
+            (ADVP (RB there))))))
+    (, ,)
+    (S
+      (NP
+        (NP (DT the) (JJS best) (NN part))
+        (PP (IN of)
+          (NP (DT the) (NN meal))))
+      (VP (VBD was)
+        (NP (DT a) (NN prawn)
+          (CC and)
+          (NN fish) (NN roe) (NN salad))))
+    (: -)
+    (S
+      (NP (DT the) (JJ last) (NN time))
+      (, ,)
+      (NP (DT the) (NN dish))
+      (VP (VBD was)
+        (ADJP (RB pretty) (JJ stingy)
+          (PP (IN on)
+            (ADJP (JJ content)
+              (CC and)
+              (JJ heavy))))
+        (PP (IN on)
+          (NP (DT the) (NN mayonnaise)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NN Fusion) (NNS restaurants))
+      (VP (VBP do) (RB n't)
+        (VP (VB tend)
+          (S
+            (VP (TO to)
+              (VP (VB tempt)
+                (NP (PRP me))))))))
+    (: -)
+    (S
+      (S
+        (VP (VB stick)
+          (PP (TO to)
+            (S
+              (VP
+                (VP (VBG making)
+                  (S
+                    (NP (CD one) (NN cuisine))
+                    (ADJP (JJ good))))
+                (CONJP (RB rather) (IN than))
+                (VP (VBG trying)
+                  (S
+                    (VP (TO to)
+                      (VP (VB please)
+                        (NP (NN everyone)))))))))))
+      (, ,)
+      (NP (PRP it))
+      (ADVP (RB never))
+      (ADVP (RB really))
+      (VP (VBZ works)
+        (NP (DT that))
+        (ADVP (RB well))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Extra) (NN star))
+      (PP (IN for)
+        (NP
+          (NP (DT the) (JJ Japanese) (NN tea))
+          (, ,) (RB not)
+          (NP (JJ enough) (NNS places)))))
+    (VP (VBP serve)
+      (NP (PRP it)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP enjoy)
+      (SBAR
+        (S
+          (NP (NNP sushi) (NNP /) (NN sashimi) (NNP Bento) (NNP Box))
+          (VP (VBZ lunches)
+            (PP (IN at)
+              (NP (NNP Izzi)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN price))
+    (VP
+      (VP (VBZ is)
+        (ADJP (JJ right)
+          (PP (IN at)
+            (PP (IN under)
+              (NP (# #) (CD 10))))))
+      (CC and)
+      (VP (VBZ includes)
+        (NP (NN miso) (NN soup))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN staff))
+      (VP (VBP are)
+        (ADJP (JJ attentive))))
+    (CC and)
+    (S
+      (NP (PRP you))
+      (VP (VBP have)
+        (NP
+          (NP (DT the) (NN fun))
+          (PP (IN of)
+            (S
+              (VP (VBG finishing)
+                (PRT (RP off))
+                (NP (DT the) (NN meal))
+                (PP (IN with)
+                  (NP (DT a) (NN fortune) (NN cookie)))))))))
+    (. .)))
+
+

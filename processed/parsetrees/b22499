@@ -1,0 +1,284 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Humpty) (NNP Dumpty))
+      (VP (VBD sat)
+        (PP (IN on)
+          (NP (DT a) (NN wall)))))
+    (, ,)
+    (NP (NNP Humpty) (NNP Dumpty))
+    (VP (VBD had)
+      (NP (DT a) (JJ great) (NN fall)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PDT All) (DT the) (NNP King))
+      (VP (VBZ 's)
+        (NP (NNS horses))))
+    (, ,)
+    (CC And)
+    (S
+      (NP (PDT all)
+        (NP (DT the) (NNP King) (POS 's))
+        (NNS men))
+      (VP (MD Could) (RB n't)
+        (VP (VB put)
+          (NP (NNP Humpty))
+          (ADVP (RB together) (RB again)))))
+    (: ...)
+    (CC but)
+    (S
+      (NP
+        (NP (DT the) (NNS therapists))
+        (PP (IN at)
+          (NP (NNP Matt) (NNP Smith) (NNP Physical) (NNP Therapy))))
+      (VP (MD could)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Seriously))
+    (, ,)
+    (SBAR (IN if)
+      (S
+        (NP (PRP you))
+        (VP (VBP need)
+          (NP
+            (NP (JJ physical) (NN therapy))
+            (CC or)
+            (NP (JJ occupational) (NN therapy))))))
+    (, ,)
+    (NP (DT this))
+    (VP (VBZ is)
+      (NP (DT the) (NN place)
+        (S
+          (VP (TO to)
+            (VP (VB go))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBD was)
+      (NP (DT the) (JJR worse) (NN experience))
+      (SBAR (IN that)
+        (S
+          (NP (PRP I))
+          (VP (VBP 've)
+            (ADVP (RB ever))
+            (VP (VBN had)
+              (PP (IN at)
+                (NP (DT a) (JJ physical) (NN therapy) (NN clinic))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN facility))
+      (VP (VBD was)
+        (NP (DT a) (NNP ZOO))))
+    (, ,)
+    (NP (NN everyone))
+    (VP (VBD was)
+      (VP (VBG running)
+        (PP (IN around)
+          (NP
+            (NP (SYM &))
+            (ADJP (RB very) (JJ disorganized))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD had)
+      (NP
+        (NP (CD 4) (NNS sessions))
+        (PP (IN of)
+          (NP (JJ physical) (NN therapy))))
+      (PP (IN at)
+        (NP
+          (NP (DT this) (NN facility))
+          (SBAR
+            (S
+              (NP (CC &))
+              (VP (VBD was)
+                (VP (VBN treated)
+                  (NP
+                    (NP (JJS most))
+                    (PP (IN of)
+                      (NP (DT the) (NN time))))
+                  (PP (IN by)
+                    (NP (DT the) (NNPS Technicians))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNPS Technicians))
+      (VP (VBD were)
+        (ADJP (JJ nice))))
+    (, ,)
+    (CC but)
+    (S
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP I))
+          (VP (VBP go)
+            (PP (TO to)
+              (NP (JJ physical) (NN therapy))))))
+      (, ,)
+      (NP (PRP I))
+      (VP (VBP expect)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN treated)
+                (PP (IN by)
+                  (NP (JJ physical) (NN therapist)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 've)
+      (VP (VBN had)
+        (NP
+          (NP (JJ many) (NNS sessions))
+          (PP (IN of)
+            (NP
+              (NP (JJ physical) (NN therapy))
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (NN past))
+                  (ADJP (JJ due)
+                    (PP (TO to)
+                      (NP
+                        (NP (JJ various) (NNS injuries))
+                        (PP (IN throughout)
+                          (NP (PRP$ my) (NN life))))))
+                  (SBAR
+                    (S
+                      (NP (CC &))
+                      (VP (MD would) (RB not)
+                        (VP (VB recommend)
+                          (NP
+                            (NP (NNP Matt) (NNP Smith))
+                            (PP (TO to)
+                              (NP (NN anyone)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB also))
+    (VP (VBD spoke)
+      (PP (TO to)
+        (NP
+          (NP
+            (NP (JJ several) (NNS patients))
+            (PP (IN at)
+              (NP (DT the) (NN facility))))
+          (CC &)
+          (RB not)
+          (NP
+            (NP (CD one))
+            (PP (IN of)
+              (SBAR
+                (S
+                  (NP (PRP them))
+                  (VP (VBD was)
+                    (ADJP (JJ happy)
+                      (PP (IN with)
+                        (NP (DT the) (NNS services))))
+                    (SBAR (IN that)
+                      (S
+                        (NP (PRP they))
+                        (VP (VBD were)
+                          (VP (VBG getting)))))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS people))
+      (PP (IN at)
+        (NP (NNP Matt) (NNP Smith))))
+    (VP (VBP are)
+      (ADJP (JJ GREAT)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (MD could) (RB n't)
+        (ADVP (RB possibly))
+        (VP (VB acknowledge)
+          (NP (DT all))
+          (SBAR (IN that)
+            (S
+              (NP (PRP they))
+              (VP (VBP have)
+                (VP (VBN done)
+                  (PP (IN for)
+                    (NP (PRP me)))))))))
+      (CC or)
+      (VP (VBP compliment)
+        (S
+          (NP (PRP them))
+          (ADJP (RB enough)
+            (PP (IN on)
+              (NP (PRP$ their) (JJ great) (NNS attitudes))))))
+      (NP
+        (NP (PRP$ their) (JJ friendly) (NN nature))
+        (CC and)
+        (ADVP (RB ultimately))
+        (NP (PRP$ their) (JJ caring) (NN approach)))
+      (PP (TO to)
+        (S
+          (VP (VBG helping)
+            (S
+              (NP (PRP you))
+              (VP (VB get)
+                (PRT (RP back))
+                (PP (TO to)
+                  (NP
+                    (NP (DT a) (`` ``) (JJ normal) ('' '') (NN life))
+                    (PP (IN with)
+                      (NP (JJ usual) (NNS activities)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ Their) (NN facility))
+    (VP
+      (VP (VBZ is)
+        (ADJP (JJ clean)))
+      (CC and)
+      (VP
+        (ADVP (RB well))
+        (VBD kept))
+      (, ,)
+      (CC and)
+      (ADVP (RB so))
+      (VP (VBZ is)
+        (NP (DT the) (NN equipment))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS therapists))
+    (VP (VBP are)
+      (ADJP (JJ knowledgable)
+        (CC and)
+        (JJ consistent))
+      (PP (IN in)
+        (NP (PRP$ their) (NN treatment))))
+    (. .)))
+
+

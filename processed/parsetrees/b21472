@@ -1,0 +1,126 @@
+(ROOT
+  (NP
+    (NP (CD Very) (JJ friendly) (JJ front) (NN desk) (NN team))
+    (, ,)
+    (NP
+      (NP (DT the) (NNS facilities))
+      (SBAR
+        (S
+          (NP (PRP themselves))
+          (VP (VBP are)
+            (UCP
+              (VP
+                (ADVP (RB well))
+                (VBN maintained))
+              (CC and)
+              (ADJP (JJ clean)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP have)
+        (NP
+          (NP (DT a) (JJ small) (JJ 5x5) (NN unit))
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBZ is)
+                (ADVP (RB indoors))))))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ is)
+        (ADVP (RB always))
+        (VP (VBN kept)
+          (ADJP (JJ cool))
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (NP (PRP I))
+              (VP (VBP like)
+                (SBAR (IN because)
+                  (S
+                    (NP (PRP I))
+                    (VP (VBD did) (RB n't)
+                      (VP (VB want)
+                        (NP (PRP$ my) (NN stuff)
+                          (S
+                            (VP (TO to)
+                              (VP (VB be)
+                                (VP (VBN left)
+                                  (PP (IN in)
+                                    (NP (CD 100) (NN degree) (NN heat))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP$ Their) (NNS prices))
+      (VP (VBP are)
+        (NP
+          (NP (DT some))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (JJS lowest))
+              (PP (IN in)
+                (NP (NN town))))))))
+    (CC but)
+    (S
+      (NP (PRP they))
+      (VP (VBP do)
+        (VP (VB include)
+          (NP
+            (NP (DT a) (JJ mandatory) (NN insurance) (NN plan))
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (MD will)
+                  (VP (VB cost)
+                    (NP (PRP you))
+                    (NP (DT an) (JJ extra) ($ $) (CD 9/mo))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was) (RB n't)
+      (VP (VBN told)
+        (PP (IN about)
+          (NP (DT this)))
+        (SBAR (IN until)
+          (S
+            (NP (PRP I))
+            (VP (VBD signed)
+              (NP (PRP$ my) (NN agreement)))))))
+    (. .)))
+
+
+(ROOT
+  (NP (JJ Friendly) (NN staff) (. .)))
+
+(ROOT
+  (NP (JJ Clean) (NN facility) (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP (RB Not) (RB too) (JJ happy))
+    (SBAR (IN that)
+      (S
+        (NP (NN rent))
+        (VP (VBD was)
+          (VP (VBN raised)
+            (PP (IN for)
+              (NP (DT no) (NN reason) (JJ other)))
+            (SBAR (IN than)
+              (S
+                (NP (PRP I))
+                (VP (VBD had)
+                  (VP (VBN been)
+                    (ADVP (RB there))
+                    (PP (IN for)
+                      (NP (CD 5) (NNS months)))))))))))
+    (. .)))
+
+

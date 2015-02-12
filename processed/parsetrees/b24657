@@ -1,0 +1,62 @@
+(ROOT
+  (S
+    (ADVP (RB Sadly))
+    (, ,)
+    (NP (DT this) (JJ lovely) (NN location))
+    (VP (VBZ is)
+      (VP (VBG closing)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP believe)
+      (SBAR
+        (S
+          (NP (DT the) (JJ last) (NN day) (NN open))
+          (VP (VBZ is)
+            (NP (NNP March) (CD 15))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Always))
+    (VP (VBP EXCELLENT)
+      (NP (NN service)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD 'll)
+      (VP (VB be)
+        (ADJP (JJ sad)
+          (S
+            (VP (TO to)
+              (VP (VB see)
+                (S
+                  (NP (PRP them))
+                  (VP (VB go)))))))))
+    (. .)))
+
+
+(ROOT
+  (SINV
+    (VP (VBD Was)
+      (ADJP (JJ great)))
+    (NP
+      (NP (DT the) (CD one) (NN time))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBD went) (, ,)
+            (SBAR
+              (S
+                (NP (DT this) (NN location))
+                (VP (VBZ is)
+                  (ADVP (RB now))
+                  (VP (VBN closed)
+                    (S
+                      (ADJP (JJ =-LRB-)))))))))))))
+
+

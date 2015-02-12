@@ -1,0 +1,189 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD did) (RB n't)
+        (VP (VB know)
+          (SBAR
+            (S
+              (NP (PRP it))
+              (VP (VBD was)
+                (ADJP (JJ possible)
+                  (S
+                    (VP (TO to)
+                      (VP (VB serve)
+                        (NP (DT a) (JJ bad) (NN BLT))))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT this) (NN place))
+      (VP (VBZ manages)
+        (S
+          (VP (TO to)
+            (VP (VB do)
+              (NP (PRP it)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN service))
+    (VP (VBZ is)
+      (ADJP (JJ slow)
+        (CC and)
+        (JJ unfriendly)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN food))
+    (VP (VBZ is)
+      (ADJP (JJ mediocre)
+        (PP (IN at)
+          (ADJP (JJS best)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (INTJ (UH Yes))
+    (, ,)
+    (NP (NNP GUS) (NNP Please))
+    (VP (VBP come)
+      (VP
+        (VP (VB buy)
+          (NP (DT this) (NN place)))
+        (CC and)
+        (VP (VB save)
+          (NP (PRP it))
+          (PP (IN from)
+            (NP
+              (NP (PRP it) (POS 's))
+              (ADJP (JJ sad) (, ,) (JJ awful))
+              (NN existence))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Went)
+      (PP (IN in)
+        (ADVP (RB apparently)))
+      (SBAR
+        (NP (CD 10) (NNS minutes))
+        (IN after)
+        (S
+          (NP (PRP they))
+          (VP (VBP stop)
+            (S
+              (VP (VBG serving)
+                (NP (NN breakfast))))))))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ
+      (VP (VBZ has)
+        (ADVP (RB ever))
+        (VP (VBN seen)
+          (NP
+            (NP (DT a) (NN diner))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBZ does) (RB not)
+                  (VP (VB serve)
+                    (NP
+                      (NP (NN breakfast))
+                      (NP (DT all) (NN day)))))))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (VP (VBN told)
+          (SBAR
+            (S
+              (NP (PRP they))
+              (VP (VBD had)
+                (VP (VBN put)
+                  (NP (PRP it))
+                  (ADVP (DT all) (RB away)))))))))
+    (, ,)
+    (NP (PRP you))
+    (VP (VBP mean)
+      (VP (VB like)
+        (PRT (RP back))
+        (PP (IN in)
+          (NP (DT the) (NN fridge)))
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (NP (PRP it))
+            (VP (MD would)
+              (VP (VB be)
+                (ADVP (RB anyway))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (ADJP (RB pretty) (JJ obvious))
+      (SBAR
+        (S
+          (NP (DT this) (NN place))
+          (VP (VBZ gets)
+            (NP
+              (NP
+                (QP (RB about) (CD 1))
+                (NN customer))
+              (NP (DT a) (NN day))))))
+      (SBAR (IN if)
+        (S
+          (S
+            (NP
+              (NP (DT that))
+              (PP (IN as)
+                (NP (DT the) (NNP ENTIRE) (NN restaurant))))
+            (VP (VBZ is)
+              (VP (VBN quartered)
+                (PRT (RP off)))))
+          (CC and)
+          (S
+            (NP (PRP they))
+            (ADVP (RB only))
+            (VP (VBP use)
+              (NP (DT the) (JJ tiny) (NN front) (NN portion)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (INTJ (UH Oh))
+    (VP (VB and)
+      (NP (DT no) (NNS croutons))
+      (PP (IN for)
+        (NP
+          (NP (PRP$ my) (NN salad))
+          (PP (IN on)
+            (NP
+              (NP (NN top))
+              (PP (IN of)
+                (NP (DT a)
+                  (ADJP (RB completely) (JJ bland)
+                    (CC and)
+                    (JJ unimaginative))
+                  (NN menu))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP JUST) (NNP CLOSE)
+      (CC AND)
+      (NNP GET) (NNP OUT))
+    (PP (IN OF)
+      (NP (NNP MY) (NNP TOWN)))
+    (. !)))
+
+

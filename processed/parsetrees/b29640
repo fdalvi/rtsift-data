@@ -1,0 +1,186 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP come)
+        (ADVP (RB here))
+        (PP (IN for)
+          (NP (NN lunch)))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (ADVP (RB definitely))
+      (VP (VBP know)
+        (NP
+          (NP (DT the) (NN value))
+          (PP (IN of)
+            (NP (JJ fast) (NN service))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP
+        (ADJP (RB fairly) (JJ authentic))
+        (, ,)
+        (ADJP (JJ fast))
+        (, ,)
+        (ADJP (RB very) (JJ cheap))
+        (CC and)
+        (ADJP (JJ delicious))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (MD could)
+      (VP
+        (VP (VB make)
+          (NP (PRP it))
+          (PRT (RP in)
+            (CC and)
+            (RP out))
+          (PP (IN in)
+            (NP
+              (QP (PDT half) (DT an) (NN hour))))
+          (SBAR (IN if)
+            (S
+              (NP (PRP you))
+              (VP (VBD wanted)
+                (PP (TO to))))))
+        (: -)
+        (VP (VB sit)
+          (PRT (RP down)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB highly))
+    (VP (VBP recommend)
+      (NP
+        (NP (PRP$ their) (NN pho))
+        (CC or)
+        (NP
+          (NP (DT any))
+          (PP (IN of)
+            (NP
+              (NP (PRP$ their) (NN rice))
+              (VP (VBN based)
+                (NP (NNS meals))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP 're)
+          (VP (VBG looking)
+            (PP (IN for)
+              (NP
+                (NP (JJ authentic) (JJ Vietnamese) (NN food))
+                (PP (IN with)
+                  (NP (JJ excellent) (NN service)))))
+            (PP (IN at)
+              (NP (JJ reasonable) (NNS prices)))))))
+    (, ,)
+    (NP (PRP I))
+    (ADVP (RB highly))
+    (VP (VBP recommend)
+      (S
+        (VP (VBG trying)
+          (NP (NNP DNK)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN menu))
+      (VP (VBZ includes)
+        (NP
+          (NP
+            (ADJP (JJ delicious))
+            (NN soup) (NNS dishes))
+          (PP (IN like)
+            (NP (NNP Pho))))))
+    (CC and)
+    (S
+      (NP
+        (NP (NN egg) (NN noodle) (NNS soups))
+        (, ,)
+        (NP (DT the) (JJS best) (NN spring) (NNS rolls))
+        (, ,))
+      (VP (VBP stir)
+        (NP
+          (NP (JJ fried) (NNS dishes))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBP are)
+                (VP (VBN cooked)
+                  (PP (IN with)
+                    (NP (JJ minimal) (NN oil)
+                      (CC and)
+                      (NN yummy) (NN bubbletea))))))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (PP (IN Unlike)
+      (NP
+        (NP (JJS most))
+        (PP (IN of)
+          (NP (DT the) (JJ local) (NN pho) (NNS places)))))
+    (, ,)
+    (NP (NNP Pho) (NNP DNK))
+    (VP (VBZ has)
+      (NP
+        (NP (DT an) (VBN updated) (NN decor))
+        (CC and)
+        (NP (JJ comfortable) (VBG seating))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD had)
+      (NP
+        (NP (DT a) (DT a) (NN bowl))
+        (PP (IN of)
+          (NP (NNS vermicelli))))
+      (PP (IN with)
+        (NP (DT a) (NN spring) (NN roll)
+          (CC and)
+          (NN bbq) (NN pork))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN spring) (NN roll))
+    (VP (VBD was)
+      (ADJP (DT a)
+        (ADJP (JJ let) (IN down))
+        (: -)
+        (ADJP (RB dried) (JJ out)
+          (CC and)
+          (JJ tough))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP
+      (NP
+        (NP (JJ Other))
+        (ADVP (RB then)))
+      (RB that))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBD was)
+      (VP (VBN ok)))
+    (. .)))
+
+

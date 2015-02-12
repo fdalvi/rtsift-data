@@ -1,0 +1,346 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Tony))
+      (CC and)
+      (NP (PRP$ his) (NN team)))
+    (VP (VBD did)
+      (NP (DT a) (JJ great) (NN job)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBD was)
+        (NP (DT a) (JJ first) (NN time) (NN customer)))
+      (, ,)
+      (CC and)
+      (VP (VBD asked)
+        (PP (IN for)
+          (NP (DT an) (NN oil) (NN change)))))
+    (. .)))
+
+(ROOT
+  (S
+    (CONJP (RB Not) (JJ only))
+    (SINV (VBD did)
+      (NP (PRP he))
+      (VP
+        (VP (VB change)
+          (NP (DT the) (NN oil)))
+        (CC and)
+        (VP (VB check)
+          (NP (DT all) (NNS fluids)))))
+    (, ,)
+    (S
+      (NP (PRP he))
+      (ADVP (RB also))
+      (VP (VBD checked)
+        (SBAR
+          (S
+            (NP
+              (NP (PRP$ my) (NN A/C))
+              (, ,)
+              (VP (VBN found)
+                (PRT (RP out))
+                (NP (PRP it))))
+            (VP
+              (VP (VBD needed)
+                (NP
+                  (NP (DT a) (NN pound))
+                  (PP (IN of)
+                    (NP (NN freon)))))
+              (CC and)
+              (VP (VBD added)
+                (NP (PRP it)))
+              (, ,)
+              (VP (VBD checked)
+                (NP (PRP$ my) (NNS brakes)))
+              (CC and)
+              (VP (VBD informed)
+                (NP (PRP me))
+                (SBAR
+                  (S
+                    (NP (PRP I))
+                    (VP (VBD had)
+                      (NP (RB about) (JJ 10k) (JJR more) (NNS miles))
+                      (SBAR (IN before)
+                        (S
+                          (NP (PRP they))
+                          (VP (VBD needed)
+                            (SBAR
+                              (S
+                                (S
+                                  (VP
+                                    (VP (VBN replaced))
+                                    (, ,)
+                                    (CC and)
+                                    (VP (VBD doubled))))
+                                (VP (VBD checked)
+                                  (NP (PRP$ my) (NN tail) (NNS lights))
+                                  (S
+                                    (VP (TO to)
+                                      (VP (VB confirm)
+                                        (SBAR
+                                          (S
+                                            (NP (DT all))
+                                            (VP (VBD was)
+                                              (PP (IN in)
+                                                (NP (JJ good) (NN order))))))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (NP (JJ Final) (NN price) (. ?)))
+
+(ROOT
+  (NP
+    (NP (RB only) (DT the) (NN cost))
+    (PP (IN of)
+      (NP (DT the) (NNP Oil) (NNP Change)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN rest))
+    (VP (VBD was)
+      (ADVP (RB complimentary)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN world))
+    (VP (VBZ needs)
+      (NP (JJR more) (NNS people))
+      (PP (IN like)
+        (NP
+          (NP (NNP Tony) (NNP Stewart))
+          (CC and)
+          (NP (PRP$ his) (NN team)))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Honest)
+      (CC and)
+      (VB Trustworthy))
+    (. .)))
+
+(ROOT
+  (NP (NNP Thanks) (NNP Tony) (. !)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD had)
+      (NP
+        (NP (DT an) (NN issue))
+        (PP (IN with)
+          (NP
+            (NP (PRP$ my) (NN power) (NN steering) (NN pump))
+            (VP
+              (ADVP (RB slowly))
+              (VBG leaking))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP
+          (QP (IN At) (JJS least) (CD three))
+          (JJ other) (NN repair) (NNS shops))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBD went)
+              (PP (TO to))))))
+      (VP (VBD told)
+        (NP (PRP me))
+        (SBAR (IN that)
+          (S
+            (NP (PRP it))
+            (VP (VBD needed)
+              (S
+                (VP (TO to)
+                  (VP (VB be)
+                    (VP (VBN replaced)
+                      (PP (IN for)
+                        (NP
+                          (QP (RB about) ($ $) (CD 400)))))))))))))
+    (: ;)
+    (S (IN so)
+      (NP (PRP I))
+      (VP (VBD let)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP
+              (VP (VBP leak))
+              (CC and)
+              (VP (VBD filled)
+                (NP (DT the) (NN fluid))
+                (ADVP (RB occasionally))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VB Went)
+        (PRT (RP in))
+        (PP (IN for)
+          (NP
+            (NP (DT an) (NN oil) (NN change))
+            (PP (IN at)
+              (NP (NNP Oasis)))))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP
+        (VP (VBD told)
+          (NP (PRP me))
+          (PP (IN about)
+            (NP (DT the) (NN leak))))
+        (CC and)
+        (VP (VBD said)
+          (SBAR
+            (S
+              (NP (PRP they))
+              (VP (MD could)
+                (VP (VB rebuild)
+                  (NP (PRP it))
+                  (PP (IN for)
+                    (NP ($ $) (CD 150))))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ has)
+      (VP (VBN worked)
+        (ADJP (JJ fine))
+        (ADVP (RB ever) (IN since))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (ADJP (RB so) (JJ refreshing))
+      (S
+        (VP (TO to)
+          (VP (VB find)
+            (NP (DT an) (JJ honest) (NN repair) (NN shop))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP Always) (NNP honest))
+        (CC and)
+        (NP (DT the) (NN work)))
+      (VP (VBZ is)
+        (VP (VBN done)
+          (ADVP (RB well)))))
+    (CC or)
+    (S
+      (NP (PRP it))
+      (VP (VBZ is)
+        (VP (VBN fixed)
+          (PP (IN for)
+            (ADJP (JJ free))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (VP (VBD Had)
+        (NP (DT a) (NN resonator)
+          (S
+            (VP (TO to)
+              (VP (VB install)
+                (PP (IN for)
+                  (NP (PRP$ my) (JJ loud) (NN turbo)))
+                (ADVP (RB back))))))))
+    (VP (VBP exhaust)
+      (SBAR
+        (S
+          (NP (PRP I))
+          (ADVP (RB just))
+          (VP (VBD put)
+            (PRT (RP in))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS folks))
+      (PP (IN at)
+        (NP (NNP Oasis))))
+    (VP (VBD were)
+      (ADJP (JJ honest)
+        (CC and)
+        (JJ great)
+        (S
+          (VP (TO to)
+            (VP (VB deal)
+              (PP (IN with)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD explained)
+      (SBAR
+        (SBAR
+          (WHADJP (RB exactly) (WP what))
+          (S
+            (NP (PRP they))
+            (VP (VBD were)
+              (ADVP (RB up))
+              (PP (IN against)))))
+        (CC and)
+        (SBAR
+          (WHADVP (WRB how))
+          (S
+            (NP (PRP they))
+            (VP (MD would)
+              (VP (VB be)
+                (ADJP (JJ able)
+                  (S
+                    (VP (TO to)
+                      (VP (VB help)
+                        (SBAR (IN as)
+                          (S
+                            (NP (PRP I))
+                            (VP (VBD had)
+                              (NP
+                                (NP (DT a) (NN fit) (NN issue))
+                                (PP (IN below)
+                                  (NP (DT the) (NN car)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN end) (NN result))
+      (VP (VBD was)
+        (ADJP (JJ great))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (MD could) (RB n't)
+        (VP (VB be)
+          (ADJP (JJR happier))
+          (PP (IN with)
+            (NP (PRP$ their) (NN service))))))
+    (. .)))
+
+(ROOT
+  (INTJ (UH Thanks) (. !)))
+
+

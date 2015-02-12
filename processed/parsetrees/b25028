@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (S
+      (S
+        (VP (VBN Annoyed)
+          (SBAR (IN that)
+            (S
+              (NP
+                (NP (DT the) (JJ very) (NN day))
+                (NP (PRP$ their) (JJ new) (NN add)))
+              (VP (VBZ comes)
+                (PRT (RP out)))))))
+      (, ,)
+      (NP (PRP I))
+      (VP (VBP go)
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NN store))
+            (PP (IN for)
+              (NP (CD 2) (NNS items)))))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBP have)
+        (NP (DT neither))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (JJ Nice) (NN planning))
+    (, ,)
+    (NP (NNP Officemax))
+    (. .)))
+
+

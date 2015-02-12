@@ -1,0 +1,101 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's) (RB not)
+        (NP (DT no) (NNP 24Hr) (NNP Fitness)
+          (CC nor)
+          (NNP LVAC))))
+    (, ,) (IN so)
+    (S
+      (SBAR (IN if)
+        (S
+          (NP (DT that))
+          (VP (VBZ 's)
+            (SBAR
+              (WHNP (WP what))
+              (S
+                (NP (PRP your))
+                (VP (VBG looking)
+                  (PP (IN for)
+                    (NP (RB then)))))))))
+      (NP (DT this))
+      (VP (VBZ is)
+        (ADVP (RB definitely))
+        (NP
+          (NP (RB not) (DT the) (NN gym))
+          (PP (IN for)
+            (NP (PRP you))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Snap) (NNP Fitness))
+    (VP (VBZ is)
+      (NP (DT a)
+        (ADJP (RB very) (JJ small))
+        (NN gym)
+        (S
+          (VP (TO to)
+            (VP
+              (VP (VB lose)
+                (NP (DT some) (NN weight)))
+              (CC or)
+              (VP (VB gain)
+                (NP (DT some) (NNS muscles))))))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (NNP Waste))
+    (PP (IN of)
+      (NP (NN money)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (RB Only) (JJ good) (NN thing))
+    (VP (VBZ is)
+      (ADVP (NN close) (TO to) (NN home)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Cheaper))
+    (VP (VBZ gyms)
+      (PRT (RP out))
+      (ADVP (RB there))
+      (PP (IN with)
+        (NP
+          (NP (RB much) (JJR more))
+          (PP (IN for)
+            (NP (JJR less))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP like)
+      (NP (DT this) (NN place))
+      (SBAR (IN because)
+        (S
+          (NP (PRP I))
+          (VP (MD can)
+            (VP (VB walk)
+              (PP (TO to)
+                (SBAR (IN if)
+                  (S
+                    (NP (PRP they))
+                    (VP (VBP have)
+                      (NP
+                        (NP (JJR better) (NN abs) (NN machine))
+                        (SBAR
+                          (S
+                            (VP (MD would)
+                              (VP (VB be)
+                                (ADJP (JJ great))))))))))))))))
+    (. !)))
+
+

@@ -1,0 +1,134 @@
+(ROOT
+  (S
+    (NP (NNP Dante) (POS 's))
+    (VP (VBZ has)
+      (ADVP (RB always))
+      (VP (VBN been)
+        (NP (DT a)
+          (ADJP (JJ reliable))
+          (, ,)
+          (ADJP (JJ friendly) (JJ local))
+          (JJ Italian) (NN restaurant))))
+    (. .)))
+
+(ROOT
+  (S
+    (CONJP (RB Not) (JJ only))
+    (SINV (VBZ is)
+      (NP
+        (NP (DT the) (NN decor)
+          (CC and)
+          (NN atmosphere))
+        (ADJP (JJ great))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT the) (NN menu))
+      (VP (VBZ is)
+        (UCP
+          (PP (IN of)
+            (NP (DT a) (JJR higher) (NN standard)))
+          (CC and)
+          (ADVP (RBR more))
+          (VP (VBN varied)
+            (ADVP (IN than) (RBS most))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ is)
+        (NP
+          (NP (NN child) (JJ friendly))
+          (CC but)
+          (RB still)
+          (NP
+            (NP (DT a) (JJ pleasant) (NN setting))
+            (PP (IN for)
+              (NP (DT a) (JJ romantic) (NN meal)))))
+        (PP (IN for)
+          (NP (CD two)))
+        (, ,)
+        (ADJP (JJ great)
+          (S
+            (VP (TO to)
+              (VP (VB pop)
+                (PRT (RP in))
+                (PP (IN for)
+                  (NP (DT a) (NN pizza)
+                    (CC or)
+                    (NN pasta) (NN lunch)))))))))
+    (, ,)
+    (CC but)
+    (S
+      (VP (VBG offering)
+        (NP (JJ excellect) (NN choice))
+        (PP (IN for)
+          (NP (DT a) (JJ special) (NN occasion)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD can)
+      (VP (VB recommend)
+        (NP (DT the) (NN prawn)
+          (CC and)
+          (NN scallop) (NNS ravioli))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (NP (DT a) (NN while))
+        (SBAR (IN since)
+          (S
+            (S
+              (NP (PRP I))
+              (ADVP (RB last))
+              (VP (VBD visited)))
+            (CC and)
+            (S
+              (NP (FW i))
+              (VP (VBD was)
+                (ADJP (RB pleasantly) (VBN surprised)
+                  (S
+                    (VP (TO to)
+                      (VP
+                        (VP (VB see)
+                          (SBAR (IN that)
+                            (S
+                              (NP
+                                (NP (DT the) (NNS prices))
+                                (PP (IN for)
+                                  (NP (NN food)
+                                    (CC and)
+                                    (NN wine))))
+                              (VP (VBP have) (RB not)
+                                (VP (VBN gone)
+                                  (PRT (RP up)))))))
+                        (CC and)
+                        (VP (VB remain)
+                          (ADJP (RB extremely) (JJ reasonable)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD can)
+      (VP (VB see)
+        (SBAR (IN that)
+          (S
+            (NP (PRP we))
+            (VP (MD 'll)
+              (VP (VB be)
+                (VP (VBG visiting)
+                  (ADVP (RB regularly))
+                  (ADVP (RB again))))))
+          (. .))))
+    (. .)))
+
+

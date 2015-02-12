@@ -1,0 +1,70 @@
+(ROOT
+  (NP (JJ Bomb) (NN ass) (NNS tacos)))
+
+
+(ROOT
+  (S
+    (NP (NNP Drive) (NNP thru))
+    (VP (VBZ Is)
+      (ADJP (JJ ok)))
+    (. .)))
+
+(ROOT
+  (NP (JJ Decent) (NN service) (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Surprised))
+    (ADVP (RB though))
+    (VP (VBP tht)
+      (SBAR
+        (S
+          (NP (DT the) (NN chicken) (NNS burritos))
+          (VP (VBZ does) (RB n't)
+            (VP (VB have)
+              (NP
+                (NP (DT any) (NNS beans))
+                (PP (IN in)
+                  (NP (PRP it)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBP wa)
+      (NP (RB just) (DT a) (JJ giant) (NN chicken) (NN taco)))
+    (: ...)))
+
+(ROOT
+  (S (CC But)
+    (NP (NN ehh))
+    (VP (VBZ anyways)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ 's) (RB not)
+            (ADJP (JJ disappointing))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Quick))
+    (VP (VBP grab)
+      (NP (DT an) (NN munch)))
+    (. .)))
+
+
+(ROOT
+  (FRAG
+    (NP (JJ Great) (JJ friendly) (NN service))
+    (, ,)
+    (PP
+      (ADVP (RB always))
+      (IN with)
+      (NP (DT a) (NN smile)))
+    (. .)))
+
+(ROOT
+  (INTJ (JJ Good) (NN stuff) (. !)))
+
+

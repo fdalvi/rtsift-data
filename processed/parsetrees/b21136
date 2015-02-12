@@ -1,0 +1,71 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT A)
+        (ADJP (RB very) (JJ welcome))
+        (NN sight))
+      (PP (IN on)
+        (NP (DT a) (NNP Sunday) (NN morning))))
+    (NP (DT this))
+    (VP (VBD was))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Good) (NN value) (NN bacon))
+      (CC and)
+      (NP (NN egg)))
+    (VP (VBP roll)
+      (ADJP
+        (ADJP (-LRB- -LRB-)
+          (NP
+            (QP (# #) (CD 1.45)))
+          (-RRB- -RRB-))
+        (CC and)
+        (ADJP
+          (ADVP (RB definitely))
+          (JJ preferable)
+          (PP (TO to)
+            (NP (DT the) (NNP Costa)))))
+      (PP (IN in)
+        (NP (DT the) (NNP Broughton) (NNP Road) (NNP Tesco))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT A) (JJ wide) (NN variety))
+        (PP (IN of)
+          (NP (JJ other) (NNS dishes))))
+      (VP (VBP are)
+        (PP (IN on)
+          (NP (NN offer)))))
+    (CC and)
+    (S
+      (NP (DT the) (NN vfm))
+      (VP (VBZ is)
+        (VP (VBN maintained)
+          (PP (IN by)
+            (NP
+              (NP (PRP$ their) (NNP Credit) (NNP Crunch) (NNP Lunch))
+              (: -)
+              (NP
+                (NP (CD 2) (NNS soups))
+                (, ,)
+                (NP (CD 2) (NNS rolls))
+                (CC and)
+                (NP (CD 2) (NNS coffees)))))
+          (PRN (-LRB- -LRB-)
+            (S
+              (NP (PRP I))
+              (VP (VBP assume)
+                (NP (NN tea))
+                (ADVP (RB also))))
+            (-RRB- -RRB-))
+          (PP (IN for)
+            (NP (# #) (CD 10))))))
+    (. .)))
+
+

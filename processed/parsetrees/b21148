@@ -1,0 +1,165 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN curry) (NN house) (NN meal))
+      (PP (IN for)
+        (NP
+          (NP (CD 2) (NN takeaway))
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (VBD had)))))))
+    (VP (VBD was)
+      (UCP
+        (ADJP (JJ plentiful))
+        (CC and)
+        (PP (IN of)
+          (NP (DT a) (JJ decent) (NN standard)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (JJ Good) (NNS curries))
+      (VP (VBP are)
+        (ADJP (JJ plentiful)
+          (PP (IN in)
+            (NP (NNP Edinburgh))))))
+    (CC and)
+    (S
+      (NP
+        (NP (DT the) (JJ only) (NN reason))
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBD did) (RB n't)
+              (VP (VB stand)
+                (PRT (RP out)))))))
+      (VP (VBD was)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBD was)
+              (ADVP
+                (NP (DT a) (NN carry))
+                (IN out)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (INTJ (JJ Good))
+    (VP (VB value?About)
+      (NP
+        (NP (DT the) (NN price))
+        (PP (IN for)
+          (NP
+            (NP (DT a) (JJ decent) (NN meal))
+            (PP (IN with)
+              (NP (NNS lots))))))
+      (S
+        (VP (TO to)
+          (VP (VB choose)
+            (PP (IN from))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB love)
+        (S
+          (VP (TO to)
+            (VP (VB see)
+              (S
+                (S
+                  (NP (DT a) (NN restaraunt))
+                  (VP (VBP do)
+                    (S
+                      (NP (NN something))
+                      (ADJP (JJ different)
+                        (PP (IN for)
+                          (NP (DT a) (NN change)))))))
+                (, ,)
+                (ADVP (RB maybe))
+                (S
+                  (NP (PRP I))
+                  (VP (VBP 'm)
+                    (VP (VBG missing)
+                      (NP (NN something)))))
+                (CC but)
+                (S
+                  (NP (PRP they))
+                  (ADVP (DT all))
+                  (VP (VBP seem)
+                    (NP (DT the) (JJ same))
+                    (ADVP (RB really))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Batches))
+      (PP (IN of)
+        (NP
+          (NP (NN sauce)
+            (CC and)
+            (NN regularity))
+          (PP (IN of)
+            (NP
+              (NP (NNS tastes))
+              (PP (IN for)
+                (NP (NN example))))))))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ hard)
+        (PP (TO to)
+          (NP (NN rate)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (MD 'll)
+        (VP (VB go)
+          (ADVP (RB again)
+            (CC and)
+            (RB again))
+          (PP (TO to)
+            (NP (DT the) (NNP Curry) (NN house))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBP live)
+        (PP (IN within)
+          (NP (CD 1km)))
+        (ADVP (RB seemingly))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN chicken) (NN korma))
+    (VP (VBD tasted)
+      (SBAR
+        (SBAR (IN like)
+          (S
+            (NP (DT the) (NN chicken))
+            (VP (VBD was)
+              (VP
+                (VP (VBN added))
+                (CONJP (RB rather) (IN than))
+                (VP (VBN cooked))
+                (PP (IN with)
+                  (NP (DT the) (NN sauce)))))))
+        (, ,)
+        (CC but)
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBZ buys)
+              (NP (NNS kormas))
+              (ADVP (RB anyway)))))))
+    (. ?)))
+
+

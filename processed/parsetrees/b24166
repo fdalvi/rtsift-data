@@ -1,0 +1,228 @@
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP$ my) (NN insurance))
+        (VP (VBD did) (RB n't)
+          (VP (VB require)
+            (S
+              (NP (PRP me))
+              (VP (TO to)
+                (VP (VB use)
+                  (NP (DT this) (NN pharmacy)))))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (MD would)
+      (ADVP (RB never))
+      (VP (VB set)
+        (NP (NN foot))
+        (PP (IN in)
+          (NP (PRP it)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (DT a) (JJ national) (NN chain)))
+    (, ,)
+    (S
+      (NP
+        (NP (PRP$ their) (NN supply))
+        (PP (IN of)
+          (NP (`` ``)
+            (NP (RB in) (NN store))
+            ('' '') (NNS drugs))))
+      (VP (VBZ is)
+        (ADJP (JJ limited))))
+    (, ,) (RB thus)
+    (S
+      (NP (NNP EVERYTHING))
+      (VP (VBZ has)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN ordered)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (SBAR
+        (WHADVP (WRB When))
+        (S
+          (NP (PRP they))
+          (VP (VBP call)
+            (PRT (RP around))
+            (PP (TO to)
+              (NP (JJ other) (NNP CVS) (NNS stores))))))
+      (, ,)
+      (NP (PRP they))
+      (VP (VB don)))
+    (: ;)
+    (S
+      (NP (NN t))
+      (VP (VBP have)
+        (NP
+          (NP (DT the) (NNS drugs))
+          (ADVP (RB either)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNS Orders))
+      (VP (VBP are) (RB not)
+        (VP (VBN filled)
+          (PP (IN in)
+            (NP (DT a) (JJ timely) (NN manner))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (NN staff))
+      (VP (VBP are)
+        (ADJP (JJ unfriendly))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBZ is)
+        (NP
+          (NP (JJ little) (NN communication))
+          (PP (IN between)
+            (NP (NN staff) (NNS memebers))))))
+    (, ,) (IN so)
+    (S
+      (NP
+        (NP (DT the) (NN call))
+        (SBAR
+          (S
+            (NP (PRP you))
+            (VP (VBD placed)
+              (NP (NN yesterday))))))
+      (, ,)
+      (NP (DT no) (NN one))
+      (VP (VBZ knows)
+        (PP (IN about)
+          (NP (NN today)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT Each) (NN trip))
+      (ADVP (RB in))
+      (VP (VBZ turns)
+        (PP (IN into)
+          (NP (DT a) (NN marathon) (NN visit)))))
+    (, ,)
+    (NP (JJ becuase) (DT no) (NN one))
+    (VP (VBZ knows)
+      (SBAR
+        (WHNP (WP what) (DT the) (NN heck))
+        (S
+          (NP (PRP they))
+          (VP (VBP are)
+            (VP (VBG doing))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (VP (VB Go)
+        (PP (TO to)
+          (NP (NNP Walgreens)))
+        (ADVP (RB instead))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJR cheaper)
+        (CC and)
+        (JJR better)))))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP am) (RB not)
+        (PP (IN against)
+          (NP (JJ national) (NNS chains)))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP like)
+        (S
+          (NP
+            (NP (DT the) (NN convenience))
+            (PP (IN of)
+              (NP (DT a) (NNP CVS))))
+          (ADVP (RB always))
+          (VP (VBG being)
+            (ADVP (RB nearby))))))
+    (SBAR
+      (WHADVP (WRB where))
+      (S
+        (NP (PRP I))
+        (VP (VBP am))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Middleton) (NN store))
+    (ADVP (RB however))
+    (VP (VBZ is) (RB not)
+      (ADVP (RB up)
+        (PP (TO to)
+          (NP
+            (NP (NN par))
+            (PP (IN with)
+              (NP (DT the) (JJ other) (NNP CVS) (NNS stores))))))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBP have)
+            (VP (VBN experienced))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (ADJP (RB Seemingly) (JJ lazy))
+        (NN staff))
+      (PP (IN with)
+        (NP (JJ poor) (NNS attitudes))))
+    (VP (VBP are)
+      (NP
+        (NP (DT the) (NN norm))
+        (CONJP (RB rather) (IN than))
+        (NP (DT the) (NN exception))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (MD can)
+          (VP
+            (NP (PRP you))))))
+    (NP (DT another) (NN location) (NN I))
+    (VP (MD would))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP CVS))
+      (PP (IN in)
+        (NP (JJ other) (NNS locations))))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (ADJP (JJ great))))
+    (. .)))
+
+

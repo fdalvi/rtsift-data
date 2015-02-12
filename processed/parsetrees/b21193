@@ -1,0 +1,182 @@
+(ROOT
+  (S
+    (S
+      (S
+        (NP (DT This))
+        (VP (VBZ is)
+          (NP (RB just) (DT a) (JJ regular) (JJ old) (NN subway))
+          (ADVP (RB really))))
+      (CC and)
+      (S
+        (SBAR (RB even) (IN though)
+          (S
+            (NP
+              (NP (DT no) (NN matter))
+              (SBAR
+                (WHADVP (WRB where))
+                (S
+                  (NP (PRP you))
+                  (VP (VBP are)
+                    (NP (DT every) (NN subway))))))
+            (VP (VBZ smells)
+              (NP
+                (NP (DT the)
+                  (ADJP (JJ same)
+                    (CC and)
+                    (DT no))
+                  (NN matter))
+                (SBAR
+                  (WHNP (WP what))
+                  (S
+                    (VP (VBZ subway)
+                      (S
+                        (NP (PRP you))
+                        (VP (VB get)
+                          (NP (PRP they)))))))))))
+        (NP (DT all))
+        (ADVP (RB just))
+        (VP (VBP taste)
+          (NP (DT the) (JJ same)))))
+    (: -)
+    (S
+      (NP (PRP I))
+      (ADVP (RB just))
+      (VP (MD ca) (RB n't)
+        (VP (VB help)
+          (CC but)
+          (VB like)
+          (NP (PRP them))
+          (, ,)
+          (ADVP (RB well))
+          (, ,)
+          (SBAR
+            (ADVP (RB as) (RB long))
+            (IN as)
+            (S
+              (NP (PRP$ my) (NN sub))
+              (VP (VBZ comes)
+                (PP (IN with)
+                  (NP
+                    (NP (RB plenty))
+                    (PP (IN of)
+                      (NP (NNP Southwest) (NN sauce)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB usually))
+    (VP (VBP go)
+      (PP (IN for)
+        (NP
+          (NP (DT the) (NN sub))
+          (PP (IN of)
+            (NP (DT the) (NN day)
+              (QP (RB as) (IN at) (# #) (CD 1.99))))))
+      (SBAR
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBZ 's)
+              (NP (DT a) (NN bargain)))))
+        (, ,)
+        (CC and)
+        (SBAR (IN like)
+          (S
+            (NP (PRP I))
+            (VP (VBD said) (, ,)
+              (SBAR
+                (ADVP (DT no) (NN matter))
+                (WHNP (WP what))
+                (S
+                  (NP (PRP you))
+                  (VP (VBP get)
+                    (S
+                      (NP (PRP they))
+                      (RB all)
+                      (VP (VB taste)
+                        (NP (DT the) (JJ same))
+                        (ADVP (RB anyway))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD popped)
+      (PP
+        (PP (IN in)
+          (NP (RB here))
+          (NP (DT the) (JJ other) (NN day)))
+        (, ,)
+        (CC but)
+        (RB instead)
+        (PP (IN of)
+          (NP
+            (NP (DT a) (NN sub))
+            (SBAR
+              (S
+                (NP (PRP I))
+                (VP (VBD opted)
+                  (PP (IN for)
+                    (NP
+                      (NP (DT the) (NNS nachos))
+                      (SBAR
+                        (WHNP (WDT that))
+                        (S
+                          (VP (VBP have)
+                            (ADVP (RB recently))
+                            (VP (VBN appeared)
+                              (PP (IN on)
+                                (NP (DT the) (NN menu))))))))))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP Plenty))
+      (PP (IN of)
+        (NP
+          (NP (NNS nachos))
+          (, ,)
+          (NP
+            (NP (NNS lots))
+            (PP (IN of)
+              (NP (NN cheese))))
+          (CC and)
+          (NP
+            (NP (DT a) (JJ generous) (VBG helping))
+            (PP (IN of)
+              (NP
+                (NP (NN salsa)
+                  (CC and)
+                  (NNS jalape?os))
+                (ADVP (RB too))))))))
+    (: -)
+    (NP
+      (NP (DT no) (NNS complaints))
+      (PP (IN from)
+        (NP (PRP me))))
+    (. !)))
+
+
+(ROOT
+  (NP
+    (NP (NNP Standard) (NN subway))
+    (, ,)
+    (NP
+      (NP (JJ reliable) (NN taste))
+      (SBAR
+        (WHADVP (WRB wherever))
+        (S
+          (NP (PRP you))
+          (VP (VBP go)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP (PRP$ my) (NN favourite)))
+    (. .)))
+
+

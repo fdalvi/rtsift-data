@@ -1,0 +1,70 @@
+(ROOT
+  (S
+    (S
+      (VP
+        (VP (VBN Been)
+          (VP (VBG going)
+            (PP (TO to)
+              (NP
+                (NP (DT this) (NN salon))
+                (PP (IN for)
+                  (NP
+                    (QP (RB about) (CD 2yrs))))))))
+        (, ,)
+        (NP
+          (NP (NN staff))
+          (ADJP (RB very) (JJ friendly)))))
+    (NP (CC &))
+    (VP (VBP listen)
+      (PP (TO to)
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (NP (PRP you))
+            (VP (VBN done))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (JJ Great) (NNS prices))
+    (ADVP (RB too))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Always))
+    (ADJP (JJ happy)
+      (PP (IN with)
+        (NP (NN end) (NN result))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (IN between)))
+    (VP (VBP have)
+      (VP
+        (PP (TO to)
+          (NP (JJ other) (NN salon)))))
+    (NP (CC &)
+      (NP (DT no)
+        (RRC
+          (ADJP
+            (WHADVP (WRB where))
+            (JJ near))
+          (PP (IN as)
+            (ADJP (JJ happy)
+              (PP (IN at)
+                (NP (NN finish) (NN hair))))))))
+    (. .)))
+
+(ROOT
+  (S (CC So)
+    (VP (MD will) (RB not)
+      (VP (VB go)
+        (PP (TO to)
+          (NP (DT another) (NN salon)))
+        (ADVP (RB now))))
+    (. .)))
+
+

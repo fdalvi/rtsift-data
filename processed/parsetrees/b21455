@@ -1,0 +1,144 @@
+(ROOT
+  (S
+    (NP (CD Brand) (JJ new) (NNP Subway) (NN store))
+    (VP (VBD opened)
+      (ADVP
+        (NP (RB just) (DT a) (NN week))
+        (CC or)
+        (ADVP (RB so) (RB ago))))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (ADJP (RB Very) (JJ convenient)
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NNP Fry) (POS 's))
+          (NNP Superstition) (NNP Springs) (NN shopping) (NN complex))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB Normally))
+      (IN like)
+      (NP (NN subway)))
+    (, ,)
+    (S
+      (NP (PRP they))
+      (VP (VBP are) (RB all)
+        (ADVP (RB pretty) (RB much))
+        (NP (DT the) (JJ same))))
+    (CC but)
+    (S
+      (NP (DT this) (NN one))
+      (VP (VBZ is)
+        (ADJP (RB painfully) (JJ slow))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBD were)
+        (NP
+          (NP (DT the) (JJ only) (NNS people))
+          (PP (IN in)
+            (NP (NN line))))
+        (PP (IN with)
+          (NP
+            (NP (CD two) (NNS workers))
+            (PP (IN behind)
+              (NP (DT the) (NN counter)))))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP
+        (VP (VBD took)
+          (NP (NN sooo))
+          (ADVP (RB long))
+          (S
+            (VP (TO to)
+              (VP (VB get)
+                (NP (PRP$ our) (NNS orders))))))
+        (CC and)
+        (VP (VBP leave)
+          (SBAR (IN that)
+            (S
+              (NP (PRP it))
+              (VP (VBD was)
+                (ADJP (JJ ridiculous))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VB Maybe)
+        (NP (RB just) (DT an))
+        (PRT (RP off))
+        (NP (NN night)
+          (CC or)
+          (NN something))))
+    (, ,) (IN but)
+    (S
+      (NP (PRP they))
+      (VP (MD should) (RB n't)
+        (VP (VB make)
+          (NP (PRP it))
+          (SBAR (IN that)
+            (FRAG
+              (ADJP (JJ hard))))
+          (S
+            (VP (TO to)
+              (VP (VB buy)
+                (NP (PRP$ their) (NN stuff))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (SBAR (IN If)
+        (S
+          (NP (PRP you))
+          (VP (VBP like)
+            (SBAR
+              (S
+                (NP (JJ soft) (NN bread))
+                (VP (VBP do) (RB n't)
+                  (VP (VB go)
+                    (PP (TO to)
+                      (NP (PRP$ his) (NN location))))))))))
+      (, ,)
+      (NP (DT this) (NN one))
+      (VP (VBZ is)
+        (PP (IN by)
+          (NP (PRP$ my) (NN house)))))
+    (CC but)
+    (S
+      (NP
+        (NP (DT every) (NN time))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP 've)
+              (VP (VBN gone)
+                (NP (PRP$ my) (NN sandwich)))))))
+      (VP (VBZ feels)
+        (PP (IN like)
+          (NP (PRP$ its)))
+        (PP (IN on)
+          (NP
+            (NP (DT a) (NN rock))
+            (PP (IN versus)
+              (NP (NN bread)))))))
+    (. .)))
+
+(ROOT
+  (FRAG (RB Not)
+    (ADJP (JJ fresh)
+      (PP (IN at)
+        (NP (DT all))))))
+
+

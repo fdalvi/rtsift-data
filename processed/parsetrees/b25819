@@ -1,0 +1,79 @@
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP are)
+      (VP (VBN called)
+        (NP
+          (NP
+            (NP (NNP Sr) (POS 's))
+            (NNP Barber) (NNP Shop))
+          (, ,)
+          (ADVP (RB now)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Have))
+    (VP (VBD visited)
+      (NP (DT this) (NN shop))
+      (NP (CD three) (NNS times)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Usually))
+    (NP
+      (NP
+        (QP (CD two) (TO to) (CD three))
+        (NNS barbers))
+      (CC and)
+      (NP (DT the) (CD two) (NNS ladies)))
+    (VP (VBP have)
+      (VP (VBN taken)
+        (NP
+          (NP (NN care))
+          (PP (IN of)
+            (NP (PRP me))))
+        (PP (IN on)
+          (NP (PRP$ my) (NNS visits)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT Both))
+    (VP (VBP do)
+      (NP (DT a) (JJ good) (NN job))
+      (PP (TO to)
+        (NP (PRP$ your) (NN direction))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (VP (VB Nice)
+          (NP (JJ little) (NN place))
+          (, ,)
+          (ADVP (RB usually))
+          (VP (VB get)
+            (NP (DT a) (NN chair))
+            (ADVP (RB right) (RB away)))))
+      (, ,)
+      (NP (NN quality))
+      (VP (VBD cut)))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NNS prices))
+      (VP (VBP are)
+        (ADJP (RB very) (JJ fair))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (MD Ca) (RB n't)
+      (VP (VB beat)
+        (NP (DT that))))
+    (. !)))
+
+

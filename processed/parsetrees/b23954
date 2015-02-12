@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (NP (JJ stiff) (NNS drinks))
+    (, ,)
+    (NP
+      (NP (JJ friendly) (NNS patrons))
+      (CC &)
+      (NP (NNS bartenders)))
+    (VP (VBZ has)
+      (NP
+        (NP (NNP PING) (NNP PONG))
+        (CC and)
+        (NP
+          (NP (DT the) (NN shake))
+          (PP (IN of)
+            (NP (NN day))))))))
+
+
+(ROOT
+  (S
+    (NP (NNP Great))
+    (VP (VBP taxidermy))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Awesome) (NN year) (NN round))
+    (VP (VBZ christmas)
+      (NP (NN decor)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Cheap))
+    (VP (VBZ drinks))
+    (. .)))
+
+(ROOT
+  (NP (RB Even) (DT a) (JJ free) (JJ ping) (JJ pong) (NN table) (. .)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ 's)
+      (ADJP (RB not)
+        (S
+          (VP (TO to)
+            (VP (VB like))))))
+    (. ?)))
+
+

@@ -1,0 +1,121 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNP Jasmine))
+      (VP (VBZ is)
+        (NP
+          (NP (DT a)
+            (ADJP
+              (ADVP (RB handily))
+              (VBN located))
+            (JJ Chinese) (NN restaurant))
+          (PP (IN for)
+            (NP (DT a) (JJ quick) (NN bite)
+              (S
+                (VP (TO to)
+                  (VP (VB eat)
+                    (PP (IN before)
+                      (NP (DT a) (NN trip)))
+                    (PP (TO to)
+                      (NP (DT the) (NN theatre)))))))))))
+    (: ;)
+    (S
+      (NP (DT the) (NNP Usher) (NNP Hall) (, ,) (NNP Traverse)
+        (CC and)
+        (NNP Lyceum))
+      (VP (VBP are) (RB all)
+        (PP (IN within)
+          (NP
+            (NP (DT a) (NN stone) (POS 's))
+            (NN throw)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBZ is)
+        (NP
+          (NP (DT an) (NN air))
+          (PP (IN of)
+            (NP
+              (NP (JJ oriental) (NN charm))
+              (PP (IN about)
+                (NP (DT the) (NN place))))))))
+    (, ,)
+    (S
+      (NP (PRP it))
+      (VP (VBZ is)
+        (ADJP
+          (ADJP (JJ smartly))
+          (CC and)
+          (ADJP
+            (ADVP (RB cleanly))
+            (VBN decorated)))))
+    (CC and)
+    (S
+      (NP (DT the) (NN staff))
+      (VP (VBP are)
+        (ADJP
+          (ADJP (JJ efficient))
+          (CC and)
+          (ADJP (NN professional)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP
+        (VP (VBP have)
+          (VP (VBN eaten)
+            (ADVP (RB here)
+              (NP (DT a) (JJ few) (NNS times)))
+            (PRN (-LRB- -LRB-)
+              (PP
+                (ADVP (RB mostly))
+                (IN at)
+                (NP
+                  (NP (PRP$ my) (NN sister) (POS 's))
+                  (NN insistence)))
+              (-RRB- -RRB-))))
+        (, ,)
+        (CC but)
+        (VP (MD ca) (RB n't)
+          (ADVP (RB really))
+          (VP (VB find)
+            (NP (DT any) (JJ discerning) (NNS features))))))
+    (: ;)
+    (S
+      (S
+        (NP (NN everything))
+        (VP (VBZ is)
+          (ADJP (`` `) (JJ nice) ('' '))))
+      (, ,)
+      (CC but)
+      (S
+        (NP (NN nothing))
+        (VP (VBZ is)
+          (ADJP (RB terribly) (JJ exciting)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP have)
+        (ADVP (RB never))
+        (VP (VBN had)
+          (NP (DT a) (JJ bad) (NN experience)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBP have)
+        (ADVP (RB never))
+        (VP (VBN experienced)
+          (ADJP (NN anything) (JJ amazing))
+          (ADVP (RB either)))))
+    (. .)))
+
+

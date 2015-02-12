@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP (NNP Cinnamon))
+    (VP (VBZ is)
+      (ADVP (RB probably))
+      (NP
+        (NP (DT the) (JJS best) (JJ Indian) (NN takeaway))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP 've)
+              (ADVP (RB ever))
+              (VP (VBN tried)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Fantastic) (JJ fresh) (NN food))
+    (VP (VBD cooked)
+      (PP (IN in)
+        (NP (PRP$ their) (JJ open) (NN kitchen)))
+      (SBAR (IN while)
+        (S
+          (NP (PRP you))
+          (VP (VBP wait)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Highly))
+    (VP (VBD recommended))
+    (. !)))
+
+

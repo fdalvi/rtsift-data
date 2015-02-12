@@ -1,0 +1,183 @@
+(ROOT
+  (S
+    (PP (IN As)
+      (NP (DT a) (NN student)))
+    (NP (PRP I))
+    (ADVP (RB always))
+    (VP (VBP seem)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (VP
+              (ADVP (IN in)
+                (CC and)
+                (IN out)
+                (PP (IN of)
+                  (NP (NNS stationers))
+                  (ADVP (RB constantly))))
+              (VBG trying)
+              (S
+                (VP (TO to)
+                  (VP (VB buy)
+                    (NP
+                      (NP (JJR more) (NNS pens)
+                        (CC and)
+                        (NNS pads))
+                      (PP (IN of)
+                        (NP (NN paper))))))))))))
+    (. .)))
+
+(ROOT
+  (S (IN So)
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (PRP I))
+        (VP (VBD was)
+          (VP (VBG strolling)
+            (PP (IN along)
+              (NP (NNP Portobello) (NNP High) (NNP Street)))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBD came)
+      (PP (IN across)
+        (NP (NNP Portobello) (NNPS Stationers))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBD did) (RB not)
+        (VP (VB look)
+          (ADJP (RB too) (JJ impressive))
+          (PP (IN from)
+            (NP (DT the) (NN outside))))))
+    (, ,)
+    (NP (JJ few) (NNS stationers))
+    (VP (VBP do))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN shop))
+    (VP (VBD had)
+      (NP
+        (NP (DT a) (NN window) (NN display))
+        (PP (IN of)
+          (NP
+            (NP (JJ traditional))
+            (VP (VBG looking)
+              (NP
+                (NP (NNS cards))
+                (CC and)
+                (NP (DT some)
+                  (ADJP (RB overly) (JJ large))
+                  (NNS balloons))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Inside))
+    (NP (DT the) (NN shop))
+    (VP
+      (VP (VBZ is) (RB not)
+        (ADJP (JJ flamboyant)))
+      (CC and)
+      (VP (VBZ seems)
+        (ADJP (RB very) (JJ restrained))
+        (PP (IN in)
+          (NP (PRP$ its) (NN appearance)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS cards))
+      (PP (IN in)
+        (NP (DT the) (NN shop))))
+    (VP (VBD were) (RB not)
+      (ADJP
+        (ADJP (RB very) (JJ funny))
+        (CC and)
+        (ADJP (RB seemed) (RB very) (JJ bland)))
+      (, ,)
+      (ADVP (RB perhaps))
+      (PP (IN like)
+        (NP
+          (NP (DT the) (NNS cards))
+          (SBAR
+            (S
+              (NP (PRP you))
+              (VP (VBP give)
+                (NP
+                  (NP (NN someone))
+                  (SBAR
+                    (S
+                      (NP (PRP you))
+                      (VP (VBP do) (RB n't)
+                        (VP (VB know)
+                          (ADVP (RB well)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Furthermore))
+    (, ,)
+    (NP
+      (NP (DT the) (NN shop) (NNS stocks))
+      (, ,)
+      (NP
+        (NP (PRP$ your) (JJ normal) (NN range))
+        (PP (IN of)
+          (NP (JJ stationary) (, ,) (JJ gift) (NN wrap)
+            (CC and)
+            (NN computer) (NNS accessories))))
+      (, ,))
+    (VP (RB all)
+      (ADVP (RB neatly))
+      (VBN stocked)
+      (PP (IN in)
+        (NP (PRP$ their) (NN appearance))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (VBN Compared)
+      (PP (TO to)
+        (NP (JJ Creative) (NNS Arts))))
+    (, ,)
+    (NP (DT this) (NN place))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJ reserved) (NN stationer) (POS 's))
+        (PP (IN of)
+          (NP (NNP Portobello)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ has)
+        (NP
+          (NP (DT a) (JJ good) (NN selection))
+          (PP (IN of)
+            (NP (NN stock)))
+          (SBAR
+            (WHPP (IN for)
+              (WHNP (WP what)))
+            (S
+              (NP (PRP it))
+              (VP (VBZ is)))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ lacks)
+        (NP (DT that)
+          (ADJP (RB much) (VBN needed))
+          (NN character))))
+    (. .)))
+
+

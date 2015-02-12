@@ -1,0 +1,71 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN tech) (NN guy))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBD came)))))
+    (VP (VBD was)
+      (ADVP (RB actually))
+      (ADJP (RB very) (JJ pleasant)
+        (CC and)
+        (JJ nice)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB However))
+    (, ,)
+    (NP (DT the) (NN carpet))
+    (VP (VBD did) (RB not)
+      (VP (VB come)
+        (PRT (RP out))
+        (S
+          (ADJP (RB very) (JJ clean))
+          (SBAR (RB even) (IN though)
+            (S
+              (NP (PRP it))
+              (VP (VBD was) (RB n't)
+                (ADJP (RB very) (JJ dirty)
+                  (S
+                    (VP (TO to)
+                      (VP (VB begin)
+                        (PP (IN with))))))))))))
+    (. .)))
+
+(ROOT
+  (PRN (-LRB- -LRB-)
+    (VP (VBN Reviewed)
+      (PP (IN for)
+        (NP (PRP$ my) (NN dad))))
+    (-RRB- -RRB-)))
+
+
+(ROOT
+  (S
+    (NP (PRP$ My) (JJ off-white) (NN carpet))
+    (VP (VBZ looks)
+      (PP (IN like)
+        (NP (NN brand) (JJ new))))
+    (. !)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP I))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (NN ownership))
+          (VP (VBZ is)
+            (ADJP (JJ different)
+              (PP (IN than)
+                (SBAR
+                  (WHNP (WP what))
+                  (S
+                    (VP (VBZ is)
+                      (VP (VBN listed)
+                        (ADVP (RB here))))))))))))
+    (. .)))
+
+

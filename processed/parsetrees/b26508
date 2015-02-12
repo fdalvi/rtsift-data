@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (VBP are)
+      (ADVP (RB never))
+      (ADJP (RB too) (JJ old)
+        (PP (IN for)
+          (NP (NNP VANS)))))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VB Cant)
+      (S
+        (VP (VB wait)
+          (S
+            (VP (TO to)
+              (VP (VB show)
+                (NP (PRP$ my) (NN GF))))))
+        (NP
+          (NP (PRP$ my) (JJ new) (NNS shoes))
+          (PRN (-LRB- -LRB-)
+            (S
+              (NP (PRP she))
+              (VP (VBZ is)
+                (VP (VBG going)
+                  (S
+                    (VP (TO to)
+                      (VP (VB kill)
+                        (NP (PRP me))))))))
+            (-RRB- -RRB-)))))))
+
+
+(ROOT
+  (S
+    (VP (VB Cool)
+      (NP (NNS shoes)
+        (CC and)
+        (NNS colors)))
+    (. !)))
+
+

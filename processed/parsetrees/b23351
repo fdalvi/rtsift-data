@@ -1,0 +1,238 @@
+(ROOT
+  (NP (: -) (NN EASY) (NN self) (NN check-out) (. .)))
+
+(ROOT
+  (NP (: -) (NN Convenient) (NN parking) (. !)))
+
+(ROOT
+  (NP (: -)
+    (NP
+      (NP (NNP Friendly))
+      (CC and)
+      (NP (VBG helpful) (NN staff)))
+    (. !)))
+
+(ROOT
+  (S (: -)
+    (NP (NNP Fresh))
+    (VP (VBP produce) (, ,)
+      (NP (JJ great) (NNS prices))
+      (ADVP (RB overall)))
+    (. !)))
+
+(ROOT
+  (FRAG (: -)
+    (VP (VBZ Excellent)
+      (NP (NN bakery) (NNS goods)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNP BEST) (NNP APPLE))
+    (VP (VBP PIE)
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBP have)
+            (ADVP (RB ever))
+            (VP (VBN had))))))
+    (. !)))
+
+(ROOT
+  (S (: -)
+    (NP
+      (NP ($ $) (CD 3))
+      (PP (IN off)
+        (NP ($ $) (CD 30))))
+    (VP (VBP purchase)
+      (NP (NN Coupon)))
+    (. .)))
+
+(ROOT
+  (FRAG (: -)
+    (VP (VBZ Delicious)
+      (NP
+        (NP (NN salad) (NNS dressings))
+        (CC and)
+        (NP (NN grab)
+          (CC &)
+          (NN go) (NNS salads))))
+    (. !)))
+
+(ROOT
+  (NP (: -) (NN Yup) (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP am)
+      (NP
+        (NP (DT a) (NN fan))
+        (PP (IN of)
+          (NP (NNP Fresh)
+            (CC &)
+            (NNP Easy)))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP like)
+      (NP (DT this) (NN place)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT Every) (NN time) (NN Ive))
+      (VP (VBN been)
+        (PP (IN in)
+          (NP
+            (NP (DT any))
+            (PP (IN of)
+              (NP
+                (NP (DT these) (NNS stores))
+                (SBAR
+                  (S
+                    (NP (DT the) (NNS products))
+                    (VP (VBZ has)
+                      (VP (VBN been)
+                        (PP (IN of)
+                          (NP
+                            (NP (JJ high) (NN quality))
+                            (CC and)
+                            (NP (DT the) (NNS prices))))))))))))))
+    (VP (VBP are)
+      (VP (VBN ok)
+        (PP (IN for)
+          (NP
+            (NP (DT this) (NN type))
+            (PP (IN of)
+              (NP (NN store)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have)
+      (ADVP (RB never))
+      (VP (VBN been)
+        (VP (VBN disapointed)
+          (PP (IN with)
+            (NP (PRP$ their) (NNS products)))
+          (PP (IN after)
+            (NP (NN purchase))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBD walked)
+        (PRT (RP in))
+        (PP (IN with)
+          (NP
+            (ADJP (RB very) (JJ high))
+            (NNS hopes))))
+      (CC and)
+      (VP (VBD walked)
+        (PRT (RP out))
+        (S
+          (ADJP (RB very) (VBN disappointed)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (ADVP (RB really))
+    (VP (VBD reminded)
+      (NP (PRP me))
+      (PP (IN of)
+        (NP
+          (NP (CD one))
+          (PP (IN of)
+            (NP
+              (NP (DT those) (JJ weird) (NN grocery) (NNS stores))
+              (PP (IN in)
+                (NP (NNP London)))))))
+      (SBAR
+        (WHADVP (WRB where))
+        (S
+          (NP (PDT all) (DT the) (NN food))
+          (VP (VBZ is)
+            (ADJP (JJ pre-packaged)
+              (CC and)
+              (JJ icky))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT All))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (ADVP (RB really))
+          (VP (VBD wanted)))))
+    (VP (VBD was)
+      (NP
+        (NP (DT a) (NN head))
+        (PP (IN of)
+          (NP
+            (NP (NN lettuce))
+            (CC and)
+            (NP (DT some) (JJ nice) (NN produce))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD walked)
+      (PRT (RP out))
+      (PP (IN with)
+        (NP (NN nothing))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP EVERYTHING))
+    (VP (VBZ is)
+      (ADJP (VBN packaged)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD had)
+      (VP (VBP know)
+        (NP (NN idea) (NNS !!))))))
+
+(ROOT
+  (S
+    (NP (DT This) (NN place))
+    (VP (VBZ is)
+      (NP
+        (NP (NN anything))
+        (PP (CC but)
+          (NP (NNP Fresh)))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Easy) (NNP yes))
+    (: ...)
+    (NP (JJ fresh) (DT no))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD will)
+      (VP (VB stick)
+        (PP (TO to)
+          (NP (NNP Trader) (NNP Joe) (POS 's)))))
+    (. .)))
+
+

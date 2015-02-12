@@ -1,0 +1,103 @@
+(ROOT
+  (S
+    (NP (NNP Actually))
+    (VP (VBD was)
+      (PP (IN in)
+        (NP (DT the) (NN costa))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (WDT which))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (RB quite) (JJ small))
+        (CC but)
+        (ADJP (JJ adequate))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBZ Seems)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (PP (IN on)
+                (NP (JJ basic) (NN staff))))))))
+    (CC and)
+    (S
+      (NP (DT the) (NN coffee))
+      (VP (VBZ is)
+        (ADJP (JJ alright))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (MD should)
+      (VP (VB 've)
+        (VP (VBN had)
+          (NP (NN syrup))
+          (PP (IN in)
+            (NP (PRP it)))
+          (SBAR (IN as)
+            (S
+              (NP (PRP it))
+              (ADVP (RB really))
+              (VP (VBZ needs)
+                (NP (PRP it))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (ADJP (DT a)
+        (ADJP (JJ costa))
+        (: -)
+        (ADJP
+          (NP
+            (NP (NN nothing))
+            (ADJP (JJR more) (NN nothing)))
+          (JJR less))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT another) (NN chain))
+      (PP (IN with)
+        (NP (PRP it))))
+    (VP (VBZ 's)
+      (NP (JJ basic) (NNS requirements)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (CC not)
+      (NP
+        (NP (PRP$ my) (JJ favourite) (NN costa))
+        (ADVP (RB though)))
+      (, ,)
+      (CC but)
+      (NP
+        (NP (PRP it))
+        (POS 's) (VBG seating)))
+    (VP (VBZ seems)
+      (S
+        (VP (TO to)
+          (VP (VB have)
+            (VP (VBN had)
+              (NP
+                (NP (DT a) (NN re) (NN vamp))
+                (SBAR
+                  (WHNP (WDT which))
+                  (S
+                    (VP (VBZ is)
+                      (ADJP (JJ nice)
+                        (S
+                          (VP (TO to)
+                            (VP (VB see))))))))))))))
+    (. .)))
+
+

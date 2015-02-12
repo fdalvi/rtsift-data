@@ -1,0 +1,63 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN staff))
+      (VP (VBZ is)
+        (ADVP (RB always))
+        (ADJP (RB really) (JJ helpful))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBP have)
+        (NP (NN stock))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (SBAR (IN If)
+        (S
+          (NP (PRP they))
+          (VP (VBP do) (RB n't))))
+      (NP (PRP they))
+      (VP (VBD called)
+        (NP (PRP me))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP they))
+            (VP (VBD restocked))))))
+    (: ...)
+    (S
+      (NP (NNP +) (NNP +))
+      (VP (VBZ +)))))
+
+
+(ROOT
+  (S
+    (NP (DT The) (NN staff))
+    (VP (VBZ is)
+      (ADJP (JJ friendly))
+      (SBAR (CC but)
+        (S
+          (NP
+            (NP (DT the) (NNS prices))
+            (PP (IN for)
+              (NP (NNS pens) (, ,) (NNS pencils)
+                (CC and)
+                (NN paper))))
+          (VP (VBZ is)
+            (ADVP (JJ just) (NN way) (IN over))
+            (VP (VBN priced)
+              (PP (VBN compared)
+                (PP (TO to)
+                  (NP (DT the) (JJ other) (JJ big) (NN box) (NNS stores)))))))))))
+
+
+(ROOT
+  (S
+    (VP (VB Closed)
+      (PRT (RP down)))
+    (. .)))
+
+

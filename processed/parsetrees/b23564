@@ -1,0 +1,107 @@
+(ROOT
+  (S
+    (NP (DT The) (JJ only) (NN reason))
+    (PRN
+      (S
+        (NP (PRP I))
+        (VP (VBP come)
+          (ADVP (RB here))
+          (ADVP (DT every) (RB now)
+            (CC and)
+            (RB then))))
+      (, ,))
+    (VP (VBZ is)
+      (SBAR (IN because)
+        (S
+          (NP (PRP it))
+          (VP (VBZ 's)
+            (ADJP (JJ close)
+              (PP (TO to)
+                (NP (PRP$ our) (NN home))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Otherwise))
+    (, ,)
+    (NP (DT this) (NN place))
+    (VP (VBZ is)
+      (VP (VBN known)
+        (S
+          (VP (TO to)
+            (VP (VB mess)
+              (PRT (RP up))
+              (NP (PRP$ your) (JJ drive-thru) (NN order)))))))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (DT A) (JJ great) (NN place))
+    (PP (IN in)
+      (NP (DT the) (JJ am)
+        (CC and)
+        (JJ mid) (NN day)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN At)
+        (NP (NN night)))
+      (NP (DT the) (NN staff))
+      (VP (VBZ is)
+        (ADJP (JJ rude))))
+    (CC and)
+    (S
+      (NP (DT the) (NN place))
+      (ADJP (JJ dirty)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (ADVP (RB just))
+    (VP (VBZ seems)
+      (SBAR (IN like)
+        (S
+          (PP (IN at)
+            (NP (NN night)))
+          (NP (PRP they))
+          (VP (VBP are)
+            (ADJP (RBR more) (JJ interested)
+              (PP (IN in)
+                (S
+                  (VP (VBG playing)
+                    (ADVP (RB then))
+                    (NP (DT the) (NN customer))))))))))
+    (. .)))
+
+
+(ROOT
+  (X
+    (X
+      (SBARQ
+        (WHNP
+          (NP (CD 0))
+          (PP (IN stars)
+            (NP (JJ bad) (NN customer) (NN service))))
+        (. .))
+      (. .))
+    (NP
+      (NP (NN didnt))
+      (PP (IN like)
+        (FRAG
+          (NP (JJ gms) (NN attitude) (. .))
+          (. .)
+          (NP (RB very) (JJ rude))
+          (. .))))))
+
+(ROOT
+  (S (CC And)
+    (NP (DT no) (NNS outlets))
+    (VP (VBP to.charge)
+      (NP (NNS phones)))
+    (. .) (. .)))
+
+

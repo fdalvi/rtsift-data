@@ -1,0 +1,109 @@
+(ROOT
+  (S
+    (PP (IN On)
+      (NP
+        (NP (DT the) (NN way))
+        (PP (TO to)
+          (NP (DT the) (NN bus) (NN station)))))
+    (NP
+      (NP (DT a) (NN friend))
+      (CC and)
+      (NP (PRP I)))
+    (VP (VBD came)
+      (PP (IN across)
+        (NP (DT a) (RB pretty) (JJ pleasant) (JJ green) (NN area))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP
+        (NP (DT a) (RB little))
+        (JJ odd))
+      (SBAR
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (DT this))
+            (VP (VBZ happens)
+              (PP (IN after)
+                (S
+                  (VP (VBG being)
+                    (PP (IN in)
+                      (NP
+                        (NP (DT the) (NN city))
+                        (PP (IN for)
+                          (NP (DT a) (NN year)))))))))))
+        (CC but)
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (VP (VBD was)
+              (NP
+                (NP (RB even) (JJR cooler))
+                (SBAR
+                  (S
+                    (VP (VBD was)
+                      (NP
+                        (NP (DT this) (JJ glass-like) (NN hub))
+                        (PP (IN of)
+                          (NP (DT a) (NN coffee) (NN house)))))))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (DT the) (NN weather))
+        (VP (VBZ is)
+          (ADJP
+            (ADJP (JJ good))
+            (, ,)
+            (CC or)
+            (ADJP (RB just) (JJ passable))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (NP (DT a)
+        (ADJP (JJ nice)
+          (CC and)
+          (JJ serene))
+        (NN way)
+        (S
+          (VP (TO to)
+            (VP (VB pass)
+              (NP
+                (NP (DT the) (NN day))
+                (VP (VBN seated)
+                  (ADVP (RB outside)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP 'm) (RB not)
+        (ADVP (RB really))
+        (NP (DT a) (NN coffee) (NN person))))
+    (, ,)
+    (CC but)
+    (S
+      (S
+        (NP (PRP you))
+        (VP (MD can)
+          (VP (VB get)
+            (NP (DT a) (JJ few) (NNS snacks))
+            (ADVP (RB there)))))
+      (CC and)
+      (S
+        (NP (EX there))
+        (VP (VBZ 's)
+          (ADVP (RB also))
+          (NP
+            (NP (DT the) (NN plus))
+            (PP (IN of)
+              (NP (JJ free) (NNS wifi)))))))
+    (. !)))
+
+

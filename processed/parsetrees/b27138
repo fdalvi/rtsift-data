@@ -1,0 +1,148 @@
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP (PRP$ my) (JJ favorite) (NN radio) (NN station)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (NN music)))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (NP
+        (NP (DT a) (JJ good) (NN mix))
+        (PP (IN of)
+          (NP
+            (NP (NN hip)
+              (UCP
+                (NP (NN hop))
+                (, ,)
+                (ADJP (JJ freestyle))
+                (, ,)
+                (CC and)
+                (NP (NN dance)))
+              (NN music))
+            (: -)
+            (PP (IN in)
+              (NP (JJ other) (NNS words)))
+            (, ,)
+            (NP (NN music)
+              (S
+                (VP (TO to)
+                  (VP (VB dance)
+                    (PP (TO to))
+                    (PP (IN at)
+                      (NP (DT a) (NN party)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ allows)
+      (S
+        (NP (PRP me))
+        (VP (TO to)
+          (VP (VB enjoy)
+            (NP (PRP$ my) (NN morning) (NN commute))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB Just) (IN like)
+      (NP
+        (NP (DT the) (NN name))
+        (PP (IN of)
+          (NP (DT the) (NN station)))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (NP
+        (NP (NN music))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ makes)
+              (SBAR
+                (S
+                  (NP (PRP me))
+                  (VP (VBP feel)
+                    (ADJP (JJ good))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (ADVP (RB sometimes))
+    (VP (VBP relive)
+      (NP (DT a) (NN memory)))
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (PRP I))
+        (VP (VBP hear)
+          (NP (DT a) (NN song))
+          (PP (IN from)
+            (NP
+              (NP (NN back))
+              (PP (IN in)
+                (NP (DT the) (NN day))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Hope))
+    (NP (DT the) (NN format))
+    (VP (VBZ stays)
+      (NP (DT the) (JJ same)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP like)
+      (NP (DT this) (NN radio) (NN station))
+      (SBAR (IN because)
+        (S
+          (NP (PRP they))
+          (VP
+            (VP (VB play)
+              (NP
+                (NP (DT a) (NN bunch))
+                (PP (IN of)
+                  (NP (NNP Old) (NNP School) (NNS songs))))
+              (PP (IN from)
+                (NP
+                  (NP (DT the) (CD 80) (NNS 's))
+                  (CC &)
+                  (NP (CD 90) (NNS 's)))))
+            (CC and)
+            (VP (VB mix)
+              (NP (PRP it))
+              (PP (IN in)
+                (PP (IN with)
+                  (NP (DT some) (JJR newer) (NN stuff)))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Very))
+    (ADJP (JJ mainstream))
+    (ADVP (RB though))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADVP (RB always))
+      (NP (DT a) (NN fun) (NN station)
+        (S
+          (VP (TO to)
+            (VP (VB listen)
+              (PP (TO to)))))))
+    (. .)))
+
+

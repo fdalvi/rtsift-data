@@ -1,0 +1,147 @@
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP
+        (NP (NNP MY) (NNP Fry))
+        (VP (VBZ 's))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP love)
+      (NP (DT this) (NN store)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Nice))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Neat))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Clean))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP have)
+        (NP
+          (NP (DT a) (JJ vast) (NN variety))
+          (PP (IN of)
+            (NP (NN stuff))))))
+    (CC and)
+    (S
+      (NP (DT the) (NN atmosphere))
+      (VP (VBZ is)
+        (ADVP
+          (NP (DT a) (RB little))
+          (RBR more))
+        (`` ``)
+        (ADJP (JJ upscale))
+        ('' '')
+        (SBAR (IN while)
+          (S
+            (NP (DT the) (NNS prices))
+            (VP (VBP are)
+              (ADJP (JJ right)
+                (PP (IN in)
+                  (NP (NN line))))
+              (PP (IN with)
+                (NP (DT the) (NN rest))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP
+        (NP (PRP$ my) (NN neighborhood))
+        (SBAR
+          (S
+            (NP
+              (NP (NNP Fry) (POS 's))
+              (CC and)
+              (NP (PRP I)))
+            (VP (VBP LOVE)
+              (S
+                (NP (PRP IT))
+                (ADJP (JJ !!))))))))))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (UCP
+        (ADJP (RB very) (JJ easy)
+          (S
+            (VP (TO to)
+              (VP (VB get)
+                (PRT (RP in)
+                  (CC and)
+                  (RP out))))))
+        (CC and)
+        (NP
+          (NP (DT the) (NN fact))
+          (SBAR (IN that)
+            (S
+              (NP (PRP they))
+              (VP (VBP carry)
+                (SBAR
+                  (S
+                    (NP
+                      (NP (NNP Boar) (POS 's))
+                      (NNP Head) (NNP Deli) (NNP Meat))
+                    (VP (VBZ is)
+                      (NP
+                        (NP (DT a) (JJ huge))
+                        (PP (CC plus)
+                          (NP (NNP +) (NNP +)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Checkout))
+      (VP (VBZ is)
+        (ADVP (RB always))
+        (NP (DT a) (NN snap))))
+    (CC and)
+    (S
+      (SBAR (IN if)
+        (S
+          (NP (PRP they))
+          (VP (VBP do) (RB n't)
+            (VP (VB stock)
+              (NP (NN something))
+              (ADVP (RB just) (VB let))))))
+      (NP (DT the) (NNP Customer) (NNP Service) (NNP Manager))
+      (VP (VBP know)
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (S
+              (NP (PRP you))
+              (VP (VBP are)
+                (VP (VBG looking)
+                  (PP (IN for)))))
+            (CC and)
+            (S
+              (NP (PRP they))
+              (VP (MD will)
+                (ADVP (RB usually))
+                (VP (VB bring)
+                  (NP (PRP it))
+                  (PP (IN in)))))))))
+    (. .)))
+
+

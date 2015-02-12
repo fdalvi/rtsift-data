@@ -1,0 +1,130 @@
+(ROOT
+  (S
+    (NP (DT Any) (NN chip) (NN shop))
+    (VP (MD can)
+      (VP (VB be)
+        (NP
+          (NP (DT a) (NN hit))
+          (CC or)
+          (NP (DT a) (NN miss)))
+        (, ,)
+        (PP (VBG depending)
+          (PP (IN on)
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP you))
+                (VP (VBP go)
+                  (PP (IN in)
+                    (SBAR (CC but)
+                      (S
+                        (NP (DT this) (NN chippy))
+                        (VP (VBZ is)
+                          (ADJP (RB genrally) (JJ OK))
+                          (SBAR (IN although)
+                            (S
+                              (NP (PRP they))
+                              (VP (VBP are)
+                                (ADJP (RB very) (JJ skimpy)
+                                  (PP (IN on)
+                                    (NP (DT the) (NNS chips))))))))))))))))))
+    (: ...)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (ADVP (RB only) (RB ever))
+      (VP (VBP have)
+        (NP (DT the) (NN Haddock))))
+    (CC and)
+    (S
+      (NP (NNS chips))
+      (ADVP (RB here) (RB so))
+      (VP (MD can) (RB not)
+        (VP (VB comment)
+          (PP (IN on)
+            (NP (DT the) (JJ other) (NN food))))))
+    (CC but)
+    (S
+      (NP (DT the) (NN fish) (NNS suppers))
+      (VP (VBP are)
+        (ADVP (RB consistently))
+        (ADJP (JJ excellent))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN batter))
+      (VP (VBZ is)
+        (ADVP (RB never))
+        (ADJP (JJ greasy))))
+    (CC and)
+    (S
+      (NP (DT the) (NNS chips))
+      (VP (VBP are)
+        (ADVP (RB always))
+        (VP
+          (ADVP (RB well))
+          (VBN cooked))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (VBG queuing) (NN system))
+    (VP (MD can)
+      (VP (VB seem)
+        (ADJP
+          (NP (DT a) (RB bit))
+          (JJ random))
+        (SBAR (IN as)
+          (S
+            (NP (PRP it))
+            (VP (VBZ is) (RB not)
+              (ADVP (RB always))
+              (ADJP (JJ clear))
+              (SBAR
+                (SBAR
+                  (WHNP (WP who))
+                  (S
+                    (VP (VBZ is)
+                      (ADVP (RB still))
+                      (VP (VBG waiting)
+                        (S
+                          (VP (TO to)
+                            (VP (VB place)
+                              (NP (DT an) (NN order)))))))))
+                (CC and)
+                (SBAR
+                  (WHNP (WP who))
+                  (S
+                    (VP (VBZ is)
+                      (VP (VBG waiting)
+                        (PP (IN for)
+                          (NP (PRP$ their) (NN order)
+                            (S
+                              (VP (TO to)
+                                (VP (VB be)
+                                  (VP (VBN made)
+                                    (PRT (RP up))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Staff))
+    (VP (VBP are)
+      (ADVP (RB always))
+      (ADJP (JJ polite)
+        (CC and)
+        (JJ efficient)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Consistently))
+    (NP (RB good))
+    (. .)))
+
+

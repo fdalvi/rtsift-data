@@ -1,0 +1,197 @@
+(ROOT
+  (NP
+    (NP (JJ Great) (NN service))
+    (, ,)
+    (NP (JJ decent) (NN price))
+    (, ,)
+    (NP (JJ small) (NNS portions))
+    (: ...)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD ordered)
+        (NP (NNS hummus) (, ,) (NN pesto)
+          (CC and)
+          (NNS veggies))
+        (PP (IN on)
+          (NP (NN flatbread)))))
+    (PRN (, ,)
+      (S
+        (NP (PRP it))
+        (VP (VBD was)
+          (ADJP (JJ tasty))))
+      (, ,))
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBD had)
+        (NP
+          (NP (JJ garlic) (NN breath))
+          (PP (IN for)
+            (NP
+              (NP (DT the) (NN rest))
+              (PP (IN of)
+                (NP (DT the) (NN day))))))
+        (ADVP (RB afterward))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Passable))
+      (PP (IN for)
+        (NP
+          (NP (DT a)
+            (ADJP (JJ fast)
+              (CC and)
+              (JJ inexpensive))
+            (NN lunch))
+          (, ,)
+          (CONJP (CC but)
+            (RB not))
+          (NP
+            (NP (NN something))
+            (NP (PRP I))))))
+    (VP (MD would)
+      (VP (VB seek)
+        (PRT (RP out))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (JJ Tropical) (NN smoothie))
+    (VP (VBZ is)
+      (NP
+        (NP (CD one))
+        (PP (IN of)
+          (NP
+            (NP (PRP$ my) (JJ favorite) (NN go))
+            (PP (TO to)
+              (NP (NNS places)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB always))
+    (VP (VBP get)
+      (NP (NN health) (NN nut))
+      (PP (IN with)
+        (NP (NN soy) (NN protein)))
+      (ADVP (RB instead)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NN family))
+    (VP (VBZ has)
+      (VP (VBN tried)
+        (NP (RB almost) (NN everything))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Everything))
+    (VP (VBZ is)
+      (ADJP (JJ good))
+      (SBAR (IN except)
+        (S
+          (NP (DT the) (NNS sandwiches))
+          (VP (VBP are)
+            (ADVP (JJR smaller) (IN than))
+            (VP (VBN expected))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT Every) (JJ tropical) (NN smoothie))
+      (VP (VBZ is)
+        (NP (DT a) (NN franchise))
+        (, ,)
+        (ADVP (RB therefore))))
+    (, ,)
+    (NP
+      (NP (JJ happy) (NNS hours)
+        (CC and)
+        (NNS hours))
+      (PP (IN of)
+        (NP (NN operation))))
+    (VP (VBZ varies))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN location))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN one))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP go)
+              (PP (TO to)
+                (NP (DT the) (JJS most))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Happy) (NN hour))
+    (VP (VBZ is)
+      (PP (IN from)
+        (NP (NNP 5-7p) (. .) (NNP m.))))))
+
+(ROOT
+  (S (CC and)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (S
+        (VP (VB buy)
+          (NP (CD 1))
+          (VP (VB get)
+            (NP (CD 1))
+            (PP (IN for)
+              (NP ($ $) (CD 1.99)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Tropical) (NN smoothie))
+    (VP (VBZ is)
+      (NP (DT a) (NNP Vegas) (JJ local) (NN spot)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Check)
+      (NP (PRP it))
+      (PRT (RP out)))
+    (. !)))
+
+
+(ROOT
+  (S (RB not)
+    (NP (PRP$ my) (NN fav) (NN location))
+    (VP (CC but)
+      (VP (VBP love)
+        (NP (JJ tropical) (NN smoothie))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NN way))
+    (ADJP (RB too) (JJ busy))
+    (ADVP (RB here))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (S
+      (ADVP (RB always))
+      (VP (VBG waiting)
+        (NP (NN forrrrrevr))))))
+
+

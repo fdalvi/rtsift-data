@@ -1,0 +1,174 @@
+(ROOT
+  (NP
+    (NP (JJ Great) (JJ little) (NN neighborhood))
+    (NP (NN coffee) (NN shop))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBD was)
+        (PP (IN in)
+          (NP
+            (NP (NN town))
+            (PP (IN for)
+              (NP (DT the) (NNP Ironman))))))
+      (CC and)
+      (VP (VBD needed)
+        (NP (PRP$ my) (NN morning) (NN jolt))
+        (S
+          (VP (TO to)
+            (VP (VB get)
+              (NP
+                (NP (DT the) (NN day))
+                (VP (VBG going))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Barista))
+      (VP (VBD was)
+        (ADJP (JJ friendly))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (NN coffee))
+      (VP (VBD was)
+        (ADJP (JJ strong) (RB enough)
+          (S
+            (VP (TO to)
+              (VP (VB shake)
+                (PRT (RP off))
+                (NP
+                  (NP (DT the) (CD 14) (NN hour) (NN drive))
+                  (SBAR
+                    (S
+                      (NP (PRP I))
+                      (ADVP (RB just))
+                      (VP (VBD finished)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP are)
+          (PP (IN in)
+            (NP (DT the) (NN neighborhood))))))
+    (, ,)
+    (NP (DT this))
+    (VP (VBZ beats)
+      (NP
+        (NP (DT a) (NN chain))
+        (NP (DT any) (NN day))
+        (PP (IN of)
+          (NP (DT the) (NN week)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP do) (RB n't)
+        (VP (VB drink)
+          (NP (NNS cappacinos) (, ,) (NNS lattes)
+            (CC or)
+            (JJ other) (NN coffee) (NNS drinks)))))
+    (, ,)
+    (NP (PRP I))
+    (ADVP (RB just))
+    (VP (VBP drink)
+      (NP (JJ black) (NN coffee)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (NNP EVP) (POS 's))
+        (PP (IN in)
+          (NP (NN town))))
+      (VP (VBP are)
+        (ADVP (RB simply))
+        (NP
+          (NP (DT the) (JJS best) (NN cup))
+          (PP (IN of)
+            (NP
+              (NP (JJ black) (NN coffee))
+              (PP (IN in)
+                (NP (NNP Madison))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT that))
+      (VP (VBZ means)
+        (NP (DT any) (NN brew))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN While)
+      (S
+        (NP (DT another) (NN coffee) (NN shop))
+        (VP (VBZ has)
+          (NP
+            (NP (PRP$ my) (JJ favorite) (JJ maple) (NN nut) (NN scone))
+            (PP (IN in)
+              (NP (NNP Madison)))))))
+    (, ,)
+    (NP (NNP EVP))
+    (ADVP (RB definitely))
+    (VP (VBZ has)
+      (NP
+        (ADJP (RB very) (JJ good))
+        (NN pastry)))
+    (. .)))
+
+
+(ROOT
+  (NP
+    (NP (CD One))
+    (PP (IN of)
+      (NP (PRP$ my) (JJ favourite) (NN coffee) (NNS shops)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Location))
+      (VP (VBZ is)
+        (ADJP (JJ good))
+        (PRN (-LRB- -LRB-)
+          (PP (IN for)
+            (NP (PRP me)))
+          (-RRB- -RRB-))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ has)
+        (NP
+          (NP (DT the) (NN downside))
+          (SBAR (IN that)
+            (S
+              (NP (PRP it))
+              (VP (VBZ closes)
+                (ADVP (RB early))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (INTJ (JJ Good) (NN coffee))
+    (, ,)
+    (NP (RB generally) (DT a) (JJ nice) (NN quiet))
+    (VP (VBP place)
+      (S
+        (VP (TO to)
+          (VP (VB work)))))
+    (. .)))
+
+

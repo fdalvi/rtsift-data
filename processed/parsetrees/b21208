@@ -1,0 +1,87 @@
+(ROOT
+  (S
+    (NP (NNP Great))
+    (VP (VBP taste))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Wheat))
+      (PRN (-LRB- -LRB-)
+        (NP (RB not) (NN gluten))
+        (-RRB- -RRB-)))
+    (VP (VBP free))
+    (. .)))
+
+(ROOT
+  (NP (NNP Low) (NNP GI) (. .)))
+
+(ROOT
+  (S
+    (VP (VB Wide)
+      (NP
+        (NP (NN range))
+        (PP (IN of)
+          (NP (NNS flavours)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN cheese) (NNS ones))
+      (CC and)
+      (NP (DT the) (JJ sweet) (NN ginger) (NNS ones)))
+    (VP (VBP are)
+      (ADJP (JJ great)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Available)
+      (PP (IN in)
+        (NP
+          (NP (JJS most) (NNS supermarkets))
+          (CONJP (RB as) (RB well) (IN as))
+          (NP
+            (NP (NN health) (NNS shops))
+            (NP (FW etc.))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB BUT))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBP contain)
+      (NP
+        (NP (NN palm) (NN fruit) (NN oil))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ is)
+              (ADJP
+                (ADJP (JJ unhealthy))
+                (CC and)
+                (ADJP (RB environmentally) (JJ unfriendly))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have)
+      (ADVP (RB recently))
+      (VP (VBN switched)
+        (NP (NNS brands))
+        (PP (TO to)
+          (NP
+            (NP (CD one))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBZ uses)
+                  (NP (JJ olive) (NN oil))
+                  (ADVP (RB instead)))))))))
+    (. .)))
+
+

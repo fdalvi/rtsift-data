@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (S
+      (VP (VBN Owned)
+        (CC and)
+        (VBN run)
+        (PP (IN by)
+          (NP (NNP Edinburgh) (NNP Leisure)))))
+    (, ,)
+    (NP (DT this) (CD 9) (NN hole) (NN golf) (NN course))
+    (VP (VBZ is)
+      (ADJP (JJ great)
+        (PP (IN for)
+          (NP
+            (NP (NNS beginners))
+            (CC and)
+            (NP
+              (NP (NN thouse))
+              (SBAR
+                (WHNP (WP who))
+                (S
+                  (ADVP (RB just))
+                  (VP (VBP do) (RB n't)
+                    (VP (VB want)
+                      (NP (DT a) (JJ long) (NN game)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP
+      (VP (VBZ 's)
+        (ADJP (JJ great)
+          (S
+            (VP (TO to)
+              (VP (VB play) (, ,)
+                (FRAG (RB not)
+                  (ADJP (RB too) (JJ challenging))))))))
+      (CC and)
+      (VP (VBZ is) (RB not)
+        (NP (DT a) (JJ good) (NN walk) (NN spoiled))))
+    (. .)))
+
+

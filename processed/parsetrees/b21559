@@ -1,0 +1,331 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (PRP$ My) (NN wife))
+        (CC and)
+        (NP (PRP I)))
+      (VP
+        (VP (VBD went)
+          (PP (TO to)
+            (NP (NNP Olive) (POS 's)))
+          (NP (RB just) (DT this) (NN evening)))
+        (CC and)
+        (VP (VBD had)
+          (NP (DT a)
+            (ADJP (RBS most) (JJ wonderful))
+            (NN experience)))))
+    (: ...)
+    (S
+      (NP (DT The) (NN restaurant))
+      (VP (VBZ is)
+        (ADJP (JJ cozy)
+          (CC and)
+          (JJ reminiscent))
+        (PP (IN of)
+          (NP (JJ tiny) (NN bistro)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Upon)
+      (S
+        (VP (VBG entering)
+          (SBAR
+            (S
+              (NP (PRP you))
+              (VP
+                (VP (VBP are)
+                  (VP (VBN greeted)
+                    (PP (IN by)
+                      (NP
+                        (NP (DT the) (NN chef)
+                          (CC and)
+                          (NN owner) (NN Tim))
+                        (SBAR
+                          (WHNP (WP who))
+                          (S
+                            (VP (VBZ is)
+                              (NP
+                                (QP (JJR more) (IN than) (CD welcoming))))))))))
+                (CC and)
+                (VP (VBZ makes))))))))
+    (NP (PRP you))
+    (VP (VBP feel)
+      (ADVP (IN at) (NN home))
+      (ADVP (RB immediately)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN food) (NN selection))
+      (VP (VBZ runs)
+        (NP (DT the) (JJ Italian) (NN gamut))))
+    (: ...)
+    (S
+      (NP
+        (NP
+          (NP (NNS pizzas))
+          (, ,)
+          (NP (NN pasta))
+          (, ,))
+        (ADJP
+          (ADJP (JJ salads))
+          (, ,)
+          (CONJP (RB as) (RB well) (IN as))
+          (ADJP (JJ great))))
+      (VP (VBG looking)
+        (NP (NNS sandwiches)
+          (CC and)
+          (NNS desserts))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD went)
+        (PP (IN for)
+          (NP (DT the) (NN gnocchi)))))
+    (CC and)
+    (S
+      (NP (PRP$ my) (NN wife))
+      (VP (VBP choose)
+        (NP (DT the) (NN pasta) (NN rustica))))
+    (: ...)
+    (S
+      (NP (DT The) (NN gnocchi))
+      (VP (VBD were)
+        (ADJP (RB butter) (JJ soft))))
+    (CC and)
+    (S
+      (NP (DT the) (JJ homemade) (NN vodka) (NN sauce))
+      (VP (VBD was)
+        (VP (VBG killer)
+          (VP (-LRB- -LRB-) (VB get)
+            (ADVP (DT this))
+            (NP (NN dish))))))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (ADJP (JJ -RRB-))
+    (, ,)
+    (SBAR (IN while)
+      (S
+        (NP
+          (NP (PRP$ my) (NN wife) (POS 's))
+          (NN rustica))
+        (VP (VBD was)
+          (NP (JJ sausage-y) (NN goodness)))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN place))
+      (VP (VBZ is)
+        (ADJP (JJ BYOB))))
+    (, ,)
+    (S
+      (ADVP (RB however))
+      (NP (EX there))
+      (VP (VBZ is)
+        (NP
+          (NP (DT a) (NN liquor) (NN store))
+          (ADVP (JJ next) (NN door))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (MD 'll)
+                (ADVP (RBR more) (IN than))
+                (VP
+                  (VP (VB hook)
+                    (NP (PRP you))
+                    (PRT (RP up)))
+                  (: ...)
+                  (VP (VB Go)))))))))
+    (CC and)
+    (S
+      (S
+        (NP (PRP you))
+        (VP (MD will)
+          (VP (VB love)
+            (NP
+              (NP (PRP it))
+              (, ,)
+              (NP
+                (NP (DT the) (NN owner))
+                (, ,)
+                (NP (DT the) (NN ambiance))))
+            (: ...)
+            (S
+              (INTJ (UH Oh))
+              (VP (VB yeah))))))
+      (, ,)
+      (CC and)
+      (S
+        (NP (NNP Elvis))
+        (VP (VBZ has)
+          (VP (VBN been)
+            (VP (VBN known)
+              (S
+                (VP (TO to)
+                  (VP (VB make)
+                    (NP (NNS appearances))
+                    (ADVP (RB there))))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB highly))
+    (VP
+      (VP (VB recommend)
+        (NP (DT this) (NN restaurant))
+        (: ...)
+        (PP (VBN Come)
+          (PP (IN with)
+            (NP (DT an) (JJ empty) (NN stomach)))))
+      (CC and)
+      (VP (VB be)
+        (ADJP (JJ ready)
+          (S
+            (VP (TO to)
+              (VP (VB take)
+                (ADVP (RB home))
+                (NP (DT a) (NN pizza)
+                  (S
+                    (VP (TO to)
+                      (VP (VB tide)
+                        (NP (PRP you))
+                        (PRT (RP over))
+                        (PP (IN until)
+                          (NP (PRP$ your) (JJ next) (NN visit)))))))))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD thought)
+      (SBAR
+        (S
+          (NP (DT the) (NN food))
+          (VP (VBD was)
+            (ADJP (RB very) (JJ good))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ My) (NN wife))
+      (CC and)
+      (NP (PRP I)))
+    (VP (VBD had)
+      (NP (VB lunch)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD started)
+      (PP (IN with)
+        (NP
+          (NP (DT a) (NN dinner) (NN salad))
+          (VP (VBN followed)
+            (PP (IN by)
+              (NP (CD two) (NNS entrees)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP She))
+      (VP (VBD had)
+        (NP (NNS gnocchi))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBD had)
+        (NP (NN chicken) (NN marsala))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD were)
+      (ADJP (DT both) (RB very) (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ has)
+      (NP
+        (NP (DT the) (NN ambience))
+        (SBAR
+          (S
+            (NP (PRP you))
+            (VP (VBP find)
+              (PP (IN in)
+                (NP (NNP Italy))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBD was)
+      (NP (DT some) (JJ outdoor) (NN seating)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN restaurant))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (MD shall)
+              (VP (VB return)
+                (PP (TO to))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Plenty))
+    (PP (IN of)
+      (NP (NN food)))
+    (PP (IN for)
+      (NP (DT a) (JJ reasonable) (NN price)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP
+      (VP (VBD were)
+        (VP (VBG going)
+          (S
+            (VP (TO to)
+              (VP (VB try)
+                (NP
+                  (NP (NNP Olive) (POS 's))
+                  (JJ last) (NN night)))))))
+      (CC but)
+      (VP (VBD found)
+        (SBAR
+          (S
+            (NP (PRP they))
+            (VP (VBP have)
+              (VP (VBN gone)
+                (PRT (RP out))
+                (PP (IN of)
+                  (NP (NN business)))))))))
+    (. .)))
+
+

@@ -1,0 +1,201 @@
+(ROOT
+  (NP
+    (NP (NNP Quick) (NN service))
+    (, ,)
+    (NP
+      (NP (JJ good) (NN selection))
+      (PP (IN of)
+        (NP (NN ice) (NN cream))))
+    (, ,)
+    (NP
+      (NP (JJ amazing) (NN selection))
+      (PP (IN of)
+        (NP (JJ add) (NN ins))))
+    (. .)))
+
+(ROOT
+  (FRAG (RB Not)
+    (NP
+      (NP (JJ many) (NNS choices))
+      (PP (IN for)
+        (NP (JJ low) (JJ fat) (NN ice) (NNS creams))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Service))
+    (VP (VBZ is)
+      (ADJP
+        (NP (DT a) (RB little))
+        (JJ slow))
+      (, ,)
+      (ADVP (RB however))
+      (SBAR
+        (S
+          (NP (DT the) (NN ice) (NN cream))
+          (VP (VBZ is)
+            (NP (JJ awesome) (NNS !!))))))))
+
+(ROOT
+  (S
+    (ADVP (RB Maybe))
+    (NP (PRP they))
+    (VP (VBP need)
+      (NP
+        (NP (DT some) (JJR more) (NN help))
+        (PP (IN in)
+          (NP (DT the) (NN afternoon)))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (NN Today))
+    (NP
+      (NP (RB only) (CD one) (NN person))
+      (VP (VBG doing)
+        (NP (DT the) (NN ice))))
+    (VP (VBP cream)
+      (CC and)
+      (VBP register))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ new) (NN oreo))
+      (VP (VBG filling)
+        (NP (NN ice) (NN cream))))
+    (VP (VBZ is)
+      (ADJP (JJ fantastic)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ TThe) (NNS prices))
+    (VP (VBP are)
+      (ADJP
+        (NP (DT a) (RB little))
+        (JJ hight)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP are)
+      (VP (VBG adding)
+        (NP (JJ new) (NNS selections))
+        (NP (PDT all) (DT the) (NN time))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD saw)
+      (NP
+        (NP (DT a) (NN sign))
+        (NP (DT this) (JJ last) (NN visit)))
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (ADVP (RB now))
+          (VP (VBP have)
+            (VP (VBN shaved)
+              (NP (NN ice)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN service))
+      (VP (VBZ is)
+        (ADJP (RB pretty) (JJ slow))
+        (ADVP (RB sometimes))))
+    (CC but)
+    (S
+      (NP (NN everyone))
+      (VP (VBZ is)
+        (ADVP (RB usually))
+        (ADJP (JJ friendly))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBP keep)
+        (S
+          (NP (DT the) (NNS tables))
+          (ADJP (JJ clean)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (ADVP (RB accidentally))
+      (VP (VBD went)
+        (PP (IN on)
+          (NP (DT a) (NN school) (NN fundraiser)))
+        (NP (NN night))
+        (NP
+          (NP (DT the) (NN line))
+          (SBAR
+            (S
+              (VP (VBD was)
+                (ADJP (JJ long))))))))
+    (CC but)
+    (S
+      (NP (DT the) (NN staff))
+      (VP (VBD was)
+        (VP (VBG working)
+          (ADVP (RB quickly)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBD were)
+        (ADJP (DT all) (JJ friendly)
+          (CC and)
+          (JJ helpful))))
+    (, ,)
+    (S
+      (NP (DT the) (NN ice) (NN cream))
+      (VP (VBD was)
+        (ADJP (JJ rich)
+          (CC and)
+          (JJ delicious))))
+    (CC and)
+    (S
+      (S
+        (VP (TO to)
+          (VP (VB top)
+            (NP (PRP it))
+            (PRT (RP off)))))
+      (NP (PRP I))
+      (VP (VBD had)
+        (S
+          (NP (DT a) (NN buy) (NN one))
+          (VP (VB get)
+            (NP (CD one) (JJ free) (NN coupon))
+            (PP (IN from)
+              (NP (PRP$ my) (NN dentist)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Without)
+      (NP (DT the) (NN coupon)))
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB say)
+        (SBAR
+          (S
+            (NP (DT the) (NN pricing))
+            (VP (VBZ is)
+              (PP (IN on)
+                (NP (DT the) (JJR higher) (NN end))))))))
+    (. .)))
+
+

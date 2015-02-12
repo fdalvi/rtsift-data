@@ -1,0 +1,142 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG Kind)
+        (PP (IN of) (IN like)
+          (NP
+            (NP (DT a) (CD one) (NN night) (NN stand))
+            (, ,)
+            (ADJP (JJ quick) (, ,) (JJ dirty) (, ,) (JJ cheap))))))
+    (CC and)
+    (S
+      (NP (PRP you))
+      (VP (VBP feel)
+        (PP (IN like)
+          (NP
+            (NP (NN crap))
+            (PP (IN in)
+              (NP (DT the) (NN morning)))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (CD Five) (NN dollar))
+    (VP (VBZ pizza))
+    (. .)))
+
+(ROOT
+  (FRAG (RB Not)
+    (ADJP
+      (ADJP
+        (ADJP (JJ great) (NN tasting))
+        (PRN (, ,)
+          (CC but)
+          (ADVP (RB better))))
+      (PP (IN than)
+        (NP
+          (NP (DT a) (NN mess))
+          (PP (IN in)
+            (NP (DT the) (NN kitchen)))
+          (NP (DT some) (NNS nights)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP (PRP it))
+          (VP (VBZ is)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP You))
+      (VP (VBP do) (RB n't)
+        (VP (VB go)
+          (PP (IN in)
+            (S
+              (VP (VBG expecting)
+                (NP (NNS miracles))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (MD wo) (RB n't)
+        (VP (VB give)
+          (NP (PRP you))
+          (NP (NNS miracles)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP (JJ cheap)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADJP (JJ fast)))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP it))
+    (VP (VBZ reheats)
+      (ADVP (RB well))
+      (NP (DT the) (JJ next) (NN day)))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What) (JJR more))
+    (SQ (VBP do)
+      (NP (PRP you))
+      (VP (VB want)))
+    (. ?)))
+
+
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (MD can)
+      (NP (NN anyone))
+      (VP (VB say)
+        (PP (IN about)
+          (NP (DT a) (JJ large) (CD 5.00) (NN pizza)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP
+      (VP (VBZ has)
+        (NP (DT a) (JJ good) (NN taste)))
+      (CC and)
+      (VP (VBZ is)
+        (ADJP (JJ fresh)
+          (CC and)
+          (JJ hot))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NN Dollar))
+    (PP (IN for)
+      (NP
+        (NP (NN dollar))
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBZ is)
+              (NP (DT a) (JJ great) (NN deal)))))))))
+
+

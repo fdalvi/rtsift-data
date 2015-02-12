@@ -1,0 +1,556 @@
+(ROOT
+  (NP
+    (NP (JJ Busy) (NN location))
+    (PP (IN on)
+      (NP
+        (NP (DT the)
+          (ADJP
+            (ADJP (JJ Strip) (: -)
+              (PP (IN with)
+                (NP
+                  (NP (NNP McDonald) (POS 's))
+                  (, ,)
+                  (NP (NNP Panda) (NNP Express))
+                  (, ,))))
+            (CC and)
+            (ADJP (JJ small)))
+          (NN convenience) (NN mart))
+        (PRN (-LRB- -LRB-)
+          (NP
+            (NP (NN strip) (NN mall))
+            (PP (IN across)
+              (PP (IN from)
+                (NP (NNP Mandalay) (NNP Bay) (NN casino)))))
+          (-RRB- -RRB-))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP are)
+          (PP
+            (PP (IN in)
+              (NP (DT a) (NN rush)))
+            (, ,) (RB especially)
+            (PP (IN during)
+              (NP (NN lunch) (NN time)))))))
+    (, ,)
+    (NP (PRP you))
+    (VP (MD should)
+      (VP
+        (VP (VB call)
+          (NP (DT the) (NN order))
+          (PP (IN in)))
+        (CC and)
+        (VP (VB pick)
+          (NP (PRP it))
+          (PRT (RP up)))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBG Parking)
+      (PRT (RP in))
+      (ADVP (NN front)
+        (CC and)
+        (NN back))
+      (, ,)
+      (PP (IN for)
+        (NP (PRP$ your) (NN convenience))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Serves)
+      (NP (NN breakfast)
+        (CC and)
+        (NNS salads))
+      (PP (IN besides)
+        (NP (NNS sandwiches)))
+      (, ,)
+      (NP
+        (NP (NNS sides))
+        (, ,)
+        (CC &)
+        (NP (NNS drinks))))
+    (. .)))
+
+(ROOT
+  (SINV (RB Also)
+    (VP (VBZ does))
+    (NP
+      (NP (NNP catering))
+      (: -)
+      (NP
+        (NP
+          (NP (NN sandwich) (NNS platters))
+          (PRN (-LRB- -LRB-)
+            (NP (NNP serves) (CD 5-9))
+            (-RRB- -RRB-)))
+        (CC and)
+        (NP
+          (NP (JJ giant) (NNS subs))
+          (-LRB- -LRB-)
+          (NP
+            (NP
+              (ADJP (CD 3) (NN ft.))
+              (NNS /))
+            (ADJP (CD 6) (NN ft.)))
+          (-RRB- -RRB-))))
+    (. .)))
+
+(ROOT
+  (S
+    (LST (-LRB- -LRB-) (LS 1) (-RRB- -RRB-))
+    (VP (VB Choose)
+      (NP
+        (NP (NN type))
+        (PRN (-LRB- -LRB-)
+          (VP (VBG footlong)
+            (NP
+              (NP (NNP /) (CD 6))
+              ('' '')
+              (VP (VBN sandwich/salad/flatbread))))
+          (-RRB- -RRB-))))
+    (. .)))
+
+(ROOT
+  (S
+    (LST (-LRB- -LRB-) (LS 2) (-RRB- -RRB-))
+    (VP (VB Choose)
+      (NP
+        (NP (NN type))
+        (PP (IN of)
+          (NP
+            (NP (NN bread))
+            (PRN (-LRB- -LRB-)
+              (NP
+                (NP (CD 9) (NN grain) (JJ wheat/9) (NN grain) (NN honey) (NN oat/italian/italian) (NNS herb))
+                (CC &)
+                (NP (NN cheese/flatbread)))
+              (-RRB- -RRB-))))))
+    (. .)))
+
+(ROOT
+  (S
+    (LST (-LRB- -LRB-) (LS 3) (-RRB- -RRB-))
+    (VP (VB Choose)
+      (NP
+        (NP (PRP$ your) (NN cheese))
+        (PRN (-LRB- -LRB-)
+          (NP (JJ american/monterey) (NN cheddar))
+          (-RRB- -RRB-))))
+    (. .)))
+
+(ROOT
+  (S
+    (LST (-LRB- -LRB-) (LS 4) (-RRB- -RRB-))
+    (VP (VB Choose)
+      (NP (PRP$ your) (NNS veggies))
+      (VP (-LRB- -LRB-) (VB lettuce/tomatoes/cucumbers)
+        (PRN (: /)
+          (ADVP (RB peppers/red))
+          (VP (VBZ onions/pickles/olives))
+          (: /))
+        (NP (NN banana) (NNS peppers/jalapenos))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (PRN (-LRB- -LRB-)
+        (NP (PRP$ my) (JJ favorite) (NN part))
+        (-RRB- -RRB-))
+      (S (-LRB- -LRB-)
+        (NP (CD 5))
+        (-RRB- -RRB-)
+        (VP (VBZ Choose)
+          (NP
+            (NP (PRP$ your) (NN sauce))
+            (PRN (-LRB- -LRB-)
+              (UCP
+                (ADJP (JJ fat) (JJ free))
+                (: -)
+                (NP
+                  (NP (JJ mustard/honey) (NN mustard/sweet))
+                  (NP (JJ onion/red) (NN wine)))))))))
+    (VP (VBZ vinegar/mustard)
+      (PRN (: -)
+        (NP
+          (NP (JJ full) (NN flavor))
+          (: -)
+          (NP (JJ light) (NN mayo/chipotle) (NN southwest/ranch/mayo)))
+        (: /))
+      (NP (NN oil)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (PRN (-LRB- -LRB-)
+          (NP (CD 6))
+          (-RRB- -RRB-)))
+      (VP (VBP Make)
+        (S
+          (NP (PRP it))
+          (NP (DT a) (NN meal)))))
+    (: -)
+    (S
+      (VP (VB choose)
+        (NP (PRP$ your) (NN drink)
+          (CC and)
+          (NN side))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (SBAR
+        (WHADVP (WRB When))
+        (S
+          (NP (PRP you))
+          (VP (VBP walk)
+            (PRT (RP in)))))
+      (, ,)
+      (NP (PRP you))
+      (VP (VBP smell)
+        (NP (DT the) (JJ fresh) (JJ baked) (NN bread))))
+    (: -)
+    (S
+      (NP (PRP$ my) (NN husband))
+      (VP (VBZ loves)
+        (NP (DT that) (NN smell))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (ADVP (RB usually))
+      (VP (VBP get)
+        (NP
+          (NP
+            (NP (DT the) (NN ham))
+            (CC or)
+            (NP (DT the) (NN turkey) (NN footlong)))
+          (CC and)
+          (NP
+            (ADVP (RB sometimes))
+            (NP
+              (NP (DT the) (NN ham)
+                (CC and)
+                (NN turkey) (NN combo))
+              (PP (IN on)
+                (NP (NN wheat)))
+              (, ,)
+              (PP (IN with)
+                (NP (JJ white) (NN cheese))))
+            (, ,)
+            (NP
+              (NP (NN mustard) (, ,) (NN lettuce) (, ,) (NNS tomatoes) (, ,) (NNS cucumbers) (, ,) (NNS peppers) (, ,) (NNS jalapenos) (, ,) (NN banana) (NNS peppers))
+              (, ,)
+              (NP (NNS olives)))))))
+    (: -)
+    (S
+      (NP (PRP I))
+      (VP (VBP love)
+        (SBAR (IN that)
+          (S
+            (NP (EX there))
+            (VP (VBP are)
+              (ADVP (RB so))
+              (NP
+                (NP (JJ many) (NN veggie) (NNS options))
+                (PRN (-LRB- -LRB-)
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (VBZ 's)
+                        (SBAR
+                          (WHNP (WP what))
+                          (S
+                            (NP (NNS edges))
+                            (ADVP (RB out))
+                            (VP (VBZ portasubs)))))))
+                  (-RRB- -RRB-))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (FRAG (CC And)
+      (NP
+        (NP (JJR healthier) (NNS options))
+        (ADVP (RB as) (RB well))))
+    (: -)
+    (FRAG
+      (NP (NNS sandwiches)
+        (CC and)
+        (NN dressing))
+      (. .))))
+
+(ROOT
+  (S (CC Plus)
+    (, ,)
+    (NP (DT this) (JJ popular) (NN sandwich) (NN chain))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN originator))
+        (PP (IN of)
+          (NP (DT the) (`` ``) (CD 5) (NNP Dollar) (NN Footlongs)))))
+    (. .)))
+
+(ROOT
+  (S ('' '')
+    (NP (NNP Sometimes))
+    (ADVP (RB there))
+    (VP (VBZ is)
+      (NP (JJ baked) (JJ lays) (NN potato) (NNS chips)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (SBAR (IN If)
+        (S
+          (NP (PRP you))
+          (VP (VBP get)
+            (NP
+              (NP (DT the) (NN oil))
+              (PP (IN on)
+                (NP (PRP$ your) (NN sandwich)))))))
+      (, ,)
+      (NP (PRP it))
+      (VP (VBZ makes)
+        (S
+          (NP (PRP it))
+          (VP (VBG soggy)
+            (CC and)
+            (VBG eating)
+            (NP
+              (NP (DT a) (JJ soggy) (NN sandwich))
+              (SBAR
+                (S
+                  (VP (VBZ is)
+                    (ADJP (RB pretty) (JJ messy))))))))))
+    (PRN (-LRB- -LRB-)
+      (S
+        (NP (DT the) (NN sandwich))
+        (VP
+          (VP
+            (ADVP (RB just))
+            (VBZ sticks)
+            (PP (TO to)
+              (NP
+                (NP (DT the) (NN roof))
+                (PP (IN of)
+                  (NP (PRP$ your) (NN mouth))))))
+          (: -)
+          (VP (VBP yuck))
+          (, ,)
+          (VP (VBP hate)
+            (NP (DT that)))))
+      (-RRB- -RRB-))
+    (CC and)
+    (S
+      (NP
+        (NP (JJ gross))
+        (: -)
+        (NP (NN drippy))
+        (, ,))
+      (VP (VBZ gets)
+        (NP
+          (NP (DT all))
+          (PP (IN over)
+            (NP (PRP$ your) (NNS fingers))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP like)
+      (S
+        (VP (TO to)
+          (VP
+            (VP (VB eat)
+              (NP (NN half)))
+            (CC and)
+            (VP (VB save)
+              (NP
+                (NP (NN half))
+                (PP (IN for)
+                  (NP
+                    (NP (DT another) (NN meal))
+                    (PRN (-LRB- -LRB-)
+                      (NP (PRP$ my) (JJ normal) (NN routine))
+                      (-RRB- -RRB-))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT This) (NN one))
+      (VP
+        (VP (VBZ is)
+          (ADJP (JJ close)
+            (S
+              (VP (TO to)
+                (VP (VB work))))))
+        (CC and)
+        (VP (VBZ is)
+          (ADJP (RB pretty) (JJ busy))
+          (PP (IN at)
+            (NP (NN lunch) (NN time))))))
+    (, ,) (IN so)
+    (S
+      (NP (PRP I))
+      (VP (VBP recommend)
+        (S
+          (VP (VBG calling)
+            (PP (IN in)
+              (NP (PRP$ your) (NN order)))
+            (SBAR (IN if)
+              (S
+                (NP (PRP you))
+                (VP (VBP 're)
+                  (PP (IN in)
+                    (NP (DT the) (NN area))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN Once)
+      (S
+        (S
+          (NP (PRP I))
+          (VP (VBD ordered)
+            (NP
+              (NP
+                (QP (RB about) (CD ten))
+                (NNS sandwiches))
+              (PP (IN for)
+                (NP (DT a) (JJ big) (NN meeting))))
+            (ADVP (RB here))))
+        (CC and)
+        (S
+          (NP
+            (NP (DT the) (JJ large) (NN order))
+            (PRN (-LRB- -LRB-)
+              (NP
+                (QP (IN under) ($ $) (CD 100)))
+              (-RRB- -RRB-)))
+          (VP (VBD was)
+            (ADJP (JJ ready)
+              (PP (IN for)
+                (NP (PRP me))))
+            (S
+              (VP (TO to)
+                (VP (VB pick)
+                  (PRT (RP up)))))))))
+    (, ,)
+    (VP (VB complete)
+      (PP (IN with)
+        (NP
+          (NP (NNS condiments)
+            (CC and)
+            (NNS napkins))
+          (: -)
+          (ADVP (RB really))
+          (NP (JJ good) (NN service)))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Glad)
+      (SBAR (IN that)
+        (S
+          (NP (PRP I))
+          (VP (VBD called)
+            (NP (PRP it))
+            (PP (IN in)
+              (PRN (, ,)
+                (SBAR (IN because)
+                  (S
+                    (NP (DT the) (NN line))
+                    (VP (VBD was)
+                      (ADJP (RB pretty) (JJ long)))))
+                (, -))
+              (NP
+                (QP (RB about) (CD 8))
+                (NNS people)))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP
+      (NP (DT some))
+      (PP (IN of)
+        (NP (DT the) (NNS seats))))
+    (VP (VBD were)
+      (ADJP (VBN occupied)
+        (SBAR (IN so)
+          (S
+            (NP (PRP I))
+            (VP (VBP 'm)
+              (ADJP (JJ sure)
+                (SBAR (IN that)
+                  (S
+                    (NP (PRP it))
+                    (VP (MD would)
+                      (VP (VB 've)
+                        (VP (VBN been)
+                          (NP (DT a) (JJ packed) (NN house))
+                          (SBAR (IN if)
+                            (S
+                              (NP
+                                (NP (DT the) (NNS people))
+                                (PP (IN in)
+                                  (NP (NN line))))
+                              (VP (VBD were)
+                                (ADVP (RB also))
+                                (VP (VBG eating)
+                                  (ADVP (RB there)))))))))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (JJ Good) (NN breakfast))
+    (VP
+      (VP (VBD sandwich.Nice))
+      (CC and)
+      (VP (VBD toasted)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (DT The) (NN placement))
+    (VP (VBZ is)
+      (NP (NN primo)))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (ADVP
+      (ADVP (RB Right) (JJ next))
+      (PP (TO to)
+        (NP (NNP Mandalay) (NNP Bay))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN service))
+      (VP (VBZ is)
+        (ADJP (JJ alright))))
+    (CC and)
+    (S
+      (NP (DT the) (NN food))
+      (VP (VBZ is)
+        (NP (JJ typical) (NN Subway))))
+    (. .)))
+
+

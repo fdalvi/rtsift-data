@@ -1,0 +1,32 @@
+(ROOT
+  (NP
+    (NP
+      (NP (DT The)
+        (ADJP (RBS most) (JJ smiley))
+        (NN staff))
+      (ADJP (RB ever) (, ,) (RB really) (JJ polite)
+        (PP (IN at)
+          (NP (DT the) (NN till)))
+        (, ,)))
+    (ADJP (JJ lovely)
+      (CC and)
+      (JJ refreshing))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Handy))
+    (VP (VBP wee)
+      (NP (NN shop))
+      (, ,)
+      (ADVP (RB especially))
+      (PP (IN for)
+        (NP
+          (NP (PRP$ their)
+            (QP (# #) (CD 3) (CD meal))
+            (NNS deals))
+          (PP (IN for)
+            (NP (NN lunch))))))
+    (. .)))
+
+

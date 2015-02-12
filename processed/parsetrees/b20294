@@ -1,0 +1,86 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Good) (NN price))
+      (CC and)
+      (NP
+        (NP (JJ great) (NN location))
+        (NP
+          (QP (RB only) (DT a) (JJ few))
+          (NNS minutes))))
+    (VP (VBP walk)
+      (PP (IN from)
+        (NP
+          (NP (DT the) (NNS shops))
+          (CC and)
+          (NP (DT the) (NN theatre)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB However))
+    (, ,)
+    (NP (DT the) (NN room))
+    (VP (VBD was)
+      (ADJP (RB terribly) (JJ cold))
+      (SBAR (IN because)
+        (S
+          (NP (DT the) (NNS windows))
+          (VP (VBP are) (RB n't) (RB double)
+            (ADJP (JJ glazed))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (NNP Saved)
+        (NP (NN money))
+        (PP (IN by)
+          (NP (NN staying)))))
+    (NP (EX there))
+    (VP (CC but)
+      (VP (VBD ended)
+        (PRT (RP up))
+        (NP (RB very) (JJ cold))
+        (PP (IN at)
+          (NP (NN night)))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP Kann))
+    (VP (VBP mich)
+      (SBAR
+        (S
+          (NP
+            (NP (DT dem) (NNP Vorschreiber) (NN nur) (NN anschliessen))
+            (, ,)
+            (NP (JJ eine)
+              (ADJP (JJ einzige)
+                (NP
+                  (NP (NNP Katastrophe) (NNP dieses) (NNP Hotel))
+                  (, ,)
+                  (NP (NNP der) (NNP Teppichboden))))
+              (NN schmutzig) (NN und) (NN abgenutzt))
+            (, ,))
+          (VP (VBP die)
+            (NP
+              (NP (NNP M?bel) (NNP alt) (NNP bis) (NNP Schrott))
+              (, ,)
+              (NP
+                (NP (NNP nur) (NNP das) (NNP Badezimmer))
+                (VP (VBG ging))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Am) (NNP Empfang) (NN ein) (NN schlecht) (NN gelaunder) (NNP Knilch))
+    (, ,)
+    (NP
+      (NP (JJ mit) (NN einer) (NN Miene) (NN zu) (NN davon) (NN laufen) (, ,) (NN da) (NN kenne) (NN ich) (NNS besseres))
+      (PP (IN in)
+        (NP (NN dieser) (NN Stadt))))
+    (. !)))
+
+

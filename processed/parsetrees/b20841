@@ -1,0 +1,93 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP like)
+      (NP (NNP TK) (NNP Maxx)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP
+      (VP (VBZ is)
+        (ADJP (RB slightly) (VBN hit)))
+      (CC and)
+      (VP (VBP miss)
+        (PRT (RP in))
+        (SBAR (IN that)
+          (S
+            (NP (PRP you))
+            (VP (VBP have)
+              (S
+                (VP (TO to)
+                  (VP (VB go)
+                    (ADVP (RB regularly))
+                    (S
+                      (VP (TO to)
+                        (VP (VB get)
+                          (NP (DT a) (NN bargain)))))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (SBAR (IN if)
+      (S
+        (NP (PRP you))
+        (VP (VBP are)
+          (ADJP (JJ prepared)
+            (S
+              (VP (TO to)
+                (VP (VB rummage)
+                  (ADVP (RB then)))))))))
+    (NP (PRP you))
+    (VP (MD can)
+      (VP (VB find)
+        (NP
+          (ADJP (JJ interesting)
+            (CC and)
+            (JJ cool))
+          (NNS things))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (SBAR (IN If)
+        (S
+          (NP (PRP you))
+          (VP (VBP see)
+            (NP (NN something)))))
+      (NP (PRP you))
+      (VP (VBP like)
+        (SBAR
+          (S
+            (NP (PRP you))
+            (VP (VBP have)
+              (S
+                (VP (TO to)
+                  (VP (VB get)
+                    (NP (PRP it))
+                    (ADVP (RB there))))))))))
+    (CC and)
+    (S
+      (NP (RB then) (DT a) (PRP it))
+      (VP (MD wo) (RB n't)
+        (VP (VB be)
+          (ADVP (RB there))
+          (SBAR (IN if)
+            (S
+              (NP (PRP you))
+              (VP (VBP go)
+                (ADVP (RB back) (RB again))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBD Had)
+      (NP
+        (NP (JJ many) (JJ good) (NNS deals))
+        (PP (IN from)
+          (NP (RB here)))))
+    (. .)))
+
+

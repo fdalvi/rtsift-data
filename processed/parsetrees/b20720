@@ -1,0 +1,101 @@
+(ROOT
+  (FRAG
+    (FRAG
+      (NP (DT This))
+      (NP (DT the) (JJS best) (NN Indian)))
+    (: /)
+    (FRAG
+      (NP (NNP Tandoori))
+      (ADVP (RB ever))
+      (. .))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP visit)
+      (ADVP (RB once)
+        (NP (DT a) (NN week))
+        (PP (IN for)
+          (ADJP (JJ sure)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP have)
+        (NP (DT a) (JJ veggie) (NNP Biryani))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ does)
+        (NP (PRP me))
+        (NP (CD two) (NNS nights))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB HUGE)
+      (NP (NN meal)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Very) (JJ pleasant) (NN owner))
+      (, ,)
+      (S
+        (VP
+          (VP (VBZ opens)
+            (ADVP (NN door)
+              (PP (IN for)
+                (NP (PRP me))))
+            (PP (IN on)
+              (NP (NN way)))
+            (ADVP (RB out)))
+          (CC and)
+          (ADVP (RB always))
+          (VP (VBZ says))))
+      ('' ''))
+    (VP (VBP Have)
+      (NP
+        (NP (DT a) (JJ good) (NN night) (NN sir))
+        ('' '')
+        (SBAR
+          (S
+            (VP (MD Ca) (RB n't)
+              (VP (VB fault)
+                (NP (DT the) (NN place))))))
+        (, ,)
+        (CC and)
+        (NP (JJ local))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Give)
+      (NP (PRP it))
+      (NP (DT a) (NN try)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT A) (NN wee))
+      (VP (VBD bit)
+        (ADVP (RB pricy))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT the) (NNS meals))
+      (VP (VBP are)
+        (ADJP (JJ huge))))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB Yummy))
+    (. !)))
+
+

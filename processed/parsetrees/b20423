@@ -1,0 +1,43 @@
+(ROOT
+  (FRAG
+    (NP (JJ Good) (JJ little) (NN subway))
+    (PP
+      (ADVP
+        (ADVP (RB not) (RB far))
+        (RB away))
+      (IN from)
+      (NP
+        (NP (JJ princess) (NN street.Get))
+        (SBAR
+          (WHNP (DT all))
+          (S
+            (S
+              (NP (PRP you))
+              (VP (VBP want)
+                (PP (IN in)
+                  (NP
+                    (NP (PRP$ your) (NN sandwhich))
+                    (VP (VBN made)
+                      (PP (RB right) (IN in)
+                        (NP
+                          (NP (NN front))
+                          (PP (IN of)
+                            (NP (PRP you))))))))))
+            (CC and)
+            (S
+              (NP (PRP you))
+              (VP (MD can)
+                (VP (VB get)
+                  (S
+                    (NP (PRP it))
+                    (VP (VB toasted.Top)
+                      (S
+                        (NP (PRP it))
+                        (ADVP (RB up)
+                          (PP (IN with)
+                            (NP (NN salad)
+                              (CC and)
+                              (NN everything))))
+                        (ADJP (RB else))))))))))))))
+
+

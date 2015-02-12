@@ -1,0 +1,212 @@
+(ROOT
+  (S
+    (VP
+      (VP (VB Save)
+        (NP (PRP$ your) (NN time)
+          (CC and)
+          (NN money)))
+      (CC and)
+      (VP (VB shop)
+        (NP (RB somewhere) (RB else))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VP (VBD overcharge)
+        (PP (IN for)
+          (NP (NN everything))))
+      (CC and)
+      (VP (VBP are)
+        (ADJP (RB very) (JJ rigid)
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (PRP it))
+              (VP (VBZ comes)
+                (PP (TO to)
+                  (NP (NNS returns/exchanges)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD bought)
+        (NP
+          (NP (DT a) (NNP Radio) (NNP Shack) (NN brand) (NN audio) (NN cable))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBD was)
+                (ADJP (JJ defective))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBD refused)
+        (S
+          (VP (TO to)
+            (VP (VB accept)
+              (NP (PRP it))
+              (PP (IN in)
+                (NP
+                  (NP (NN exchange))
+                  (PP (IN for)
+                    (NP (DT a) (JJ new) (NN cable))))))))))
+    (. .)))
+
+(ROOT
+  (SINV (VBD Had)
+    (NP (PRP I))
+    (VP (VBN bought)
+      (NP (DT a) (JJ defective) (NN cable))
+      (NP
+        (NP (NNP ANYWHERE))
+        (FRAG
+          (ADJP (RB else))
+          (S
+            (NP (PRP I))
+            (VP (MD would)
+              (VP (VB have)
+                (VP (VBN been)
+                  (ADJP (JJ able)
+                    (S
+                      (VP (TO to)
+                        (VP (VB exchange)
+                          (NP (PRP it))
+                          (PP (IN for)
+                            (NP (DT another)))))))))))
+          (. .))))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD 'll)
+      (VP (VB stick)
+        (PP (TO to)
+          (NP (NNP Amazon)))
+        (PP (IN from)
+          (NP (RB now)))
+        (PP (IN on))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (VP (VBN Got)
+        (PP (TO to)
+          (NP (DT this) (NN store)
+            (S
+              (VP (TO to)
+                (VP (VB pick)
+                  (PRT (RP up))
+                  (NP (DT the) (NN battery)))))))))
+    (NP (DT the) (JJ other) (NN store))
+    (VP (VBD was)
+      (ADVP (RB out))
+      (PP (IN of)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN staff))
+    (, ,)
+    (NP (PRP she))
+    (VP (VBD was)
+      (PP (IN on)
+        (NP
+          (NP
+            (NP (DT the) (NN phone))
+            (PRN (-LRB- -LRB-)
+              (NP (JJ personal))
+              (-RRB- -RRB-)))
+          (CC and)
+          (NP (RB just) (VBG talking)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD waited)
+      (PP (IN for)
+        (NP
+          (QP (RB about) (CD 1))
+          (NN min)))
+      (SBAR (IN before)
+        (S
+          (NP (PRP she))
+          (VP (VBD was)
+            (PP (IN off)
+              (NP (DT the) (NN phone)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP
+      (VP (VBD greeted)
+        (NP (PRP me)))
+      (CC and)
+      (ADVP (RB then))
+      (VP (VBD walked)
+        (PRT (RP over))
+        (S
+          (VP (TO to)
+            (VP (VB grab)
+              (NP (DT the) (NN battery)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBZ Does) (RB n't)))
+    (VP (VBZ seems)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (ADJP (JJ happy)
+              (S
+                (VP (TO to)
+                  (VP (VB be)
+                    (PP (IN at)
+                      (NP (NN work)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB =-LRB-))
+    (S
+      (INTJ (UH Oh) (UH well))
+      (, ,)
+      (NP (PRP I))
+      (VP (VBD got)
+        (NP
+          (NP (DT the) (NN battery))
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (VBD needed)))))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (ADJP (IN off)
+          (S
+            (VP (TO to)
+              (VP (VB install)
+                (NP (DT the) (NN sucker))
+                (SBAR (IN so)
+                  (S
+                    (NP (PRP it))
+                    (VP (VBZ does) (RB n't)
+                      (VP (VB beep)
+                        (PP (IN at)
+                          (NP (CD 3am)))
+                        (ADVP (RB again))))))))))))
+    (. !)))
+
+

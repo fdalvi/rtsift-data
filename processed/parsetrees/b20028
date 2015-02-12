@@ -1,0 +1,95 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP have)
+        (S
+          (VP (TO to)
+            (VP (VB agree)
+              (PP (IN with)
+                (NP (NNP Alice)))
+              (PP (IN on)
+                (NP (DT this) (NN one))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (RB really) (JJ slow)
+        (PP (IN in)
+          (ADVP (RB here)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD will)
+      (VP (VB say)
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (NNS bartenders))
+            (VP (VBD did)
+              (S
+                (VP (VB go)
+                  (PRT (RP out))
+                  (PP (IN of)
+                    (NP (RB there)))
+                  (ADVP (NN way))
+                  (S
+                    (VP (TO to)
+                      (VP (VB come)
+                        (PRT (RP over))
+                        (PP (TO to)
+                          (NP (PRP$ my) (NN table)
+                            (S
+                              (VP (TO to)
+                                (VP (VB see)
+                                  (SBAR
+                                    (WHNP (WP what))
+                                    (S
+                                      (NP (PRP I))
+                                      (VP (VBD wanted))))))))))))
+                  (: ...)
+                  (ADVP (RB probably))))
+              (SBAR (IN because)
+                (S
+                  (NP (DT no) (NN one) (RB else))
+                  (VP (VBD was)
+                    (ADVP (RB there))))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNS Drinks))
+      (VP (VBD were)
+        (ADJP (JJ cheap) (RB enough))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP imagine)
+        (SBAR
+          (S
+            (S
+              (PP (IN on)
+                (NP (DT a) (NNP Saturday) (NN night)))
+              (NP (DT the) (NN place))
+              (VP (VBZ fills)
+                (PRT (RP up))
+                (PP (IN with)
+                  (NP (NNS locals)))))
+            (CC and)
+            (S
+              (NP (PRP it))
+              (VP (VBZ 's)
+                (NP (JJ great) (NN fun))))))))
+    (. .)))
+
+(ROOT
+  (FRAG (CC But)
+    (PP (IN during)
+      (NP
+        (NP (DT the) (NN week))
+        (, ,)
+        (ADJP (RB eerily) (JJ quiet)))
+      (: ...))))
+
+

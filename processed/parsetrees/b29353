@@ -1,0 +1,60 @@
+(ROOT
+  (S
+    (PP (IN Like)
+      (NP
+        (NP
+          (ADJP (RBS most) (JJ franchise))
+          (JJ fast) (NN food))
+        (, ,)
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBZ makes))))))
+    (NP (PRP$ your) (NN food))
+    (VP (VBZ makes)
+      (NP (PDT all) (DT the) (NN difference)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN location))
+    (VP (VBZ is)
+      (ADVP (RB usually))
+      (ADJP (JJ okay)))
+    (. .)))
+
+
+(ROOT
+  (NP (JJ great) (NN steak) (NNS sub)))
+
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Nasty))
+      (VP (VBP vinegar)))
+    (: ...) (RB not)
+    (S
+      (ADJP (JJ sure)
+        (SBAR (IN if)
+          (S
+            (NP (PRP it))
+            (VP (VBZ 's)
+              (PP (IN like)
+                (NP
+                  (NP (DT that))
+                  (PP (IN at)
+                    (NP (JJ other) (NNS locations))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Service))
+    (VP (VBD was)
+      (ADVP (RB always))
+      (ADJP (JJ good)
+        (PP (IN at)
+          (NP (DT this) (NN location) (NN tho)))))
+    (. .)))
+
+

@@ -1,0 +1,299 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ original) (NN Rebel) (POS 's))
+      (NNP Pizza))
+    (VP (VBZ is)
+      (PP (IN at)
+        (NP (NNP Smoke) (NNP Ranch)
+          (CC &)
+          (NNP Jones))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Food))
+    (VP (VBZ is)
+      (ADJP (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Place))
+    (VP (VBZ is)
+      (ADJP (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Staff))
+    (VP (VBZ is)
+      (ADJP (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Price))
+      (PP (IN of)
+        (NP (DT the) (NN cheese) (NN pizza))))
+    (VP (VBD dropped)
+      (ADVP (RB back))
+      (PP (TO to)
+        (NP ($ $) (CD 3.99))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP
+        (NP (DT a) (JJ great) (NN place)
+          (S
+            (VP (TO to)
+              (VP (VB visit)))))
+        (CC and)
+        (NP (DT a) (JJ great) (NN place)
+          (S
+            (VP (TO to)
+              (VP (VB get)
+                (NP (JJ good) (NN food))))))))
+    (. !)))
+
+
+(ROOT
+  (S
+    (NP (NNP Dont))
+    (VP (VBP come)
+      (ADVP (RB here)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Horrible))
+    (VP (VBP place))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNS Sends))
+        (PP (IN out)
+          (NP (NN ad))))
+      (VP (VBZ 's)
+        (VP (VBG saying)
+          (SBAR
+            (S
+              (NP (EX there))
+              (VP (VBP are)
+                (NP (JJ new) (NNS specials)
+                  (CC and)
+                  (NNS times))))))))
+    (, ,)
+    (CC yet)
+    (S
+      (NP (FW i))
+      (VP (VBP call)
+        (PP (IN from)
+          (NP (CD 12am)))
+        (PP (TO to)
+          (NP
+            (NP (NNS 2am))
+            (CC and)
+            (NP (DT no) (CD one) (NNS answers))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB dont)
+      (VP (VB waste)
+        (NP (PRP$ your) (NN time))
+        (S
+          (VP (VBG eating)
+            (ADVP (RB here))
+            (ADVP (RB !!))))))))
+
+(ROOT
+  (S
+    (SBARQ
+      (WHADVP (WRB How))
+      (SQ (MD could)
+        (NP (PRP they))
+        (VP (VB have)
+          (NP (JJ good) (NN food))
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (PRP they))
+              (VP
+                (VP (VBP have)
+                  (VP (VBN horrid)
+                    (NP (NN customer) (NN service))))
+                (CC and)
+                (VP (VBP are))))))))
+    (NP (NN liar))
+    (VP (VBZ 's)
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP it))
+          (VP (VBZ comes)
+            (PP (TO to)
+              (NP
+                (NP (DT the) (NN information))
+                (VP (VBN put)
+                  (PP (IN on)
+                    (NP (NN ad) (POS 's))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP (NNP TERRIBLE) (NNP TERRIBLE))
+    (VP (VBP PLACE))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN food))
+      (VP (VBZ is)
+        (NP (JJ super) (NN sub-par))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (NNS employees))
+      (VP (VBP are)
+        (NP (NNS crooks))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (CD One))
+        (PP (IN of)
+          (NP (DT the) (NNS employees))))
+      (VP
+        (VP (VBD ran)
+          (NP
+            (NP (PRP$ my) (NN dad) (POS 's))
+            (NN credit) (NN card)))
+        (CC and)
+        (VP (VBD refused)
+          (S
+            (VP (TO to)
+              (VP (VB give)
+                (NP (PRP him))
+                (NP
+                  (NP (DT a) (NN receipt))
+                  (PP (IN for)
+                    (NP (DT the) (NN transaction))))))))))
+    (, ,)
+    (CC and)
+    (S
+      (S
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP we))
+            (VP (VBD got)
+              (NP (NN home)))))
+        (NP (PRP we))
+        (VP (VBD checked)
+          (NP (JJ online) (NN banking))))
+      (CC and)
+      (S
+        (NP (PRP he))
+        (VP (VBD had)
+          (VP (VBN been)
+            (VP (VBN charged)
+              (NP
+                (NP ($ $) (CD 42))
+                (PP (IN for)
+                  (NP (CD one) (NN pizza)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN After)
+      (NP (DT this) (NN revelation)))
+    (, ,)
+    (S
+      (NP (PRP we))
+      (VP (VBD went)
+        (ADVP (RB back))))
+    (CC and)
+    (S
+      (NP
+        (NP (DT the) (NN guy))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBD charged)
+              (NP (DT the) (NN card))))))
+      (VP (VBD was) (RB n't)
+        (ADVP (RB even)
+          (PP (IN behind)
+            (NP (DT the) (NN counter))
+            (ADVP (RB anymore))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Fortunately))
+    (, ,)
+    (NP
+      (NP (DT the) (NN girl))
+      (PP (IN at)
+        (NP
+          (NP (DT the) (NN counter))
+          (VP
+            (ADVP (RB completely))
+            (VBN cancelled)
+            (UCP
+              (NP (DT the) (NN transaction))
+              (, ,)
+              (CC and)
+              (SBAR (IN after)
+                (S
+                  (NP (PRP we))
+                  (VP (VBD described)
+                    (NP
+                      (NP (DT the) (JJ other) (NN customer))
+                      (SBAR
+                        (S
+                          (NP (PRP she))
+                          (VP (VBD revealed)
+                            (SBAR
+                              (S
+                                (NP (PRP it))
+                                (VP (VBD was)
+                                  (NP
+                                    (NP (PRP$ her) (NN brother))
+                                    (SBAR
+                                      (WHNP (WP who))
+                                      (S
+                                        (VP (VBD did))))))))))))))))))))
+    (VP (VBD had)
+      (VP (VBN run)
+        (NP (DT the) (NN credit) (NN card))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Way))
+    (VP (TO to)
+      (VP (VB run)
+        (NP (DT a) (NN family) (NN business))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBN Avoid)
+      (PP (IN like)
+        (NP (DT the) (NN plague))))
+    (. .)))
+
+

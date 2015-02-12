@@ -1,0 +1,60 @@
+(ROOT
+  (S
+    (S
+      (NP (DT This))
+      (VP (VBZ is)
+        (NP (DT a) (JJ nice) (JJ little) (NN sheet) (NN music) (NN shop))))
+    (, ,)
+    (CC but)
+    (S
+      (S
+        (NP (PRP I))
+        (VP (VBD was)
+          (ADVP (RB here))
+          (S
+            (VP (TO to)
+              (VP (VB find)
+                (NP (DT some) (JJ small) (JJ cheap) (NNS instruments)))))))
+      (CC and)
+      (S
+        (NP (PRP they))
+        (VP (VBP have)
+          (NP
+            (NP (DT a) (NN lot))
+            (PP (IN of)
+              (NP (PRP them))))
+          (PRN (: --)
+            (NP
+              (NP (NN jaw) (NNS harps))
+              (, ,)
+              (NP (NNS harmonicas))
+              (, ,)
+              (NP (NNS recorders))
+              (, ,)
+              (NP (NN penny) (NNS whistles))
+              (, ,)
+              (NP (NNS kazoos))
+              (, ,)
+              (NP (FW etc.)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN lady) (NN working))
+    (VP
+      (VP (VBD was)
+        (ADJP (RB really) (JJ friendly)))
+      (CC and)
+      (VP (VBD helped)
+        (SBAR
+          (S
+            (NP (PRP me))
+            (VP (VBP find)
+              (SBAR
+                (WHADJP (RB exactly) (WP what))
+                (S
+                  (NP (PRP I))
+                  (VP (VBD wanted)))))))))
+    (. .)))
+
+

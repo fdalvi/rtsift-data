@@ -1,0 +1,197 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN inside))
+      (PP (IN of)
+        (NP (DT this) (NN place))))
+    (VP (VBZ is)
+      (ADJP (JJ clean)
+        (CC and)
+        (JJ welcoming)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP offer)
+      (NP
+        (NP (DT a) (NN variety))
+        (PP (IN of)
+          (NP
+            (NP (NNS services))
+            (: :)
+            (NP (JJ postal) (, ,) (NN faxing) (, ,) (NN copy) (, ,) (NN printing) (, ,) (NN notary))
+            (, ,) (FW etc.)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN staff))
+    (VP
+      (VP (MD could)
+        (VP (VB be)
+          (ADJP
+            (NP (DT a) (RB little))
+            (JJ friendlier))))
+      (CC and)
+      (VP (VBP smile)
+        (ADVP (RBR more) (RB often))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN store))
+    (VP (VBZ is)
+      (ADVP (RB conveniently))
+      (VP (VBN located)
+        (ADVP (JJ next))
+        (PP (TO to)
+          (NP (DT a) (JJ smiths) (NN store)))))
+    (. .)))
+
+
+(ROOT
+  (FRAG
+    (ADVP (RB Very))
+    (NP (JJ rude) (NN lady))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (MD can)
+      (VP (VB be)
+        (ADJP (RBR more) (JJ friendly))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT Every) (NN customer))
+    (VP (VBZ deserves)
+      (NP (NN respect)))
+    (. .)))
+
+
+(ROOT
+  (S
+    (S
+      (VP (VBN Stopped)
+        (PP (IN by)
+          (NP (RB here)))
+        (PP (IN after)
+          (NP (NN work)))
+        (PP (RB just) (IN after)
+          (NP
+            (NP (CD 5) (NN pm))
+            (PP (IN on)
+              (NP (DT a) (NNP Tuesday)))))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (VP (VBN closed))))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN website))
+      (VP (VBD said)
+        (NP (NNS 6pm))))
+    (CC and)
+    (S
+      (ADVP (RB here))
+      (PP (IN on)
+        (NP (NN yelp)))
+      (NP (PRP it))
+      (VP (VBZ says)
+        (NP (JJ 7pm) (NN closing) (NN time))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (NP
+        (NP (DT no) (NN sign))
+        (PP (IN on)
+          (NP
+            (NP (DT the) (NN door))
+            (PP (IN for)
+              (NP (NNS hours))))))
+      (ADVP (RB either)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP (RB Very) (JJ disappointed))
+    (SBAR (IN because)
+      (S
+        (NP (DT this))
+        (VP (VBD was)
+          (NP
+            (NP (PRP$ my) (JJ go-to) (NN place))
+            (PP (IN for)
+              (NP (DT all) (NNS things) (NN shipping)))))))
+    (. .)))
+
+(ROOT
+  (S (RB Only)
+    (PP (IN for)
+      (NP
+        (NP (NNS people))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBP do) (RB n't)
+              (VP (VB work)
+                (PP (IN during)
+                  (NP (DT the) (NN day)))))))))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP guess))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Update))
+    (: :)
+    (S (CC so)
+      (ADVP (RB apparently))
+      (NP (PRP it))
+      (VP (VBZ is)
+        (S
+          (VP (VBG going)
+            (PRT (RP out))
+            (PP (IN of)
+              (NP (NN business)))
+            (: ...)))))))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD drove)
+        (PP (IN by)
+          (NP (RB there)))
+        (ADVP (RB again))))
+    (CC and)
+    (S
+      (S
+        (NP (DT the) (NN sign))
+        (VP (VBD was)
+          (ADVP (RB down))))
+      (CC and)
+      (S
+        (NP (EX there))
+        (VP (VBD were)
+          (NP
+            (NP (DT a) (NN lot))
+            (PP (IN of)
+              (NP
+                (NP (NNS boxes))
+                (PP (IN behind)
+                  (NP (DT the) (NN cage)))))))))
+    (. .)))
+
+

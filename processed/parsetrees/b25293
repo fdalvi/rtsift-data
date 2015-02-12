@@ -1,0 +1,91 @@
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ nice) (JJ safe) (NN circle) (NN K))
+        (PP (RB not) (IN like)
+          (NP
+            (NP (DT a) (NN lot))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (JJ other) (NNS ones))
+                (PP (IN around)
+                  (NP (DT the) (NN valley)))))))))))
+
+
+(ROOT
+  (S
+    (NP (NNP Convenient))
+    (VP (VBP place)
+      (S
+        (VP (TO to)
+          (VP (VB get)
+            (NP (NN gas))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP
+      (VP (VBZ 's)
+        (VP (VBN located)
+          (ADVP (RB just))
+          (PP (IN off)
+            (NP (DT the) (NN I-10) (NN freeway)))))
+      (CC and)
+      (VP (VBZ has)
+        (NP
+          (NP (DT a) (NN ton))
+          (PP (IN of)
+            (NP (NNS pumps))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB However))
+    (, ,)
+    (NP (PRP it))
+    (VP (MD can)
+      (VP (VB get)
+        (ADJP (RB really) (JJ busy))
+        (PP (IN during)
+          (NP (NN rush) (NN hour)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Gas) (NNS prices))
+    (VP (VBP are)
+      (ADJP
+        (NP (DT a) (JJ little) (NN bit))
+        (JJR higher)
+        (PP (IN than)
+          (NP (JJ other) (NNS stations)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ 's)
+      (NP (DT a) (NN convenience) (NN store))
+      (ADVP (RB here))
+      (SBAR (IN if)
+        (S
+          (NP (PRP you))
+          (VP (VBP need)
+            (S
+              (VP (TO to)
+                (VP (VB get)
+                  (NP (DT some) (NN snacks)
+                    (CC or)
+                    (NN soda)))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Return) (NNP Factor))
+    (: -)
+    (NP (CD 60) (NN %))))
+
+

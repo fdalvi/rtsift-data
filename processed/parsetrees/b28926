@@ -1,0 +1,162 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP have)
+      (VP (VBN been)
+        (NP
+          (NP (DT a) (JJ long) (NN time) (NN customer))
+          (PP (IN of)
+            (NP
+              (NP (NNP Walter) (NNP Porters))
+              (PP (IN of)
+                (NP (NNP Artistic) (NNP FX))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBZ does)
+      (NP
+        (NP (DT a) (JJ great) (NN job))
+        (PP (IN on)
+          (NP (PRP$ my) (NN hair)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBZ is)
+      (NP (DT an) (JJ awesome) (NN colorist)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP$ My) (NN hair))
+      (VP (VBZ has)
+        (VP (VBN been)
+          (NP
+            (NP (JJ many) (NNS colors))
+            (PP (IN over)
+              (NP (DT the) (NNS years)))))))
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP (VBZ makes)
+        (S
+          (NP (PRP it))
+          (VP (VB look)
+            (S
+              (NP (NN sooo))
+              (ADJP (JJ good)))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (NNP Walter))
+    (ADVP (RB always))
+    (VP (VBZ keeps)
+      (NP (PRP me))
+      (PRT (RP up))
+      (PP (TO to)
+        (NP (NN date)))
+      (PP (IN with)
+        (NP
+          (NP (DT a) (JJ great) (NN cut)
+            (CC and)
+            (NN color))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBZ compliments)
+                (NP (PRP me))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ His) (NN salon))
+    (VP (VBZ is)
+      (NP
+        (NP (# #) (CD 16))
+        (PP (IN inside)
+          (NP
+            (NP (NNP Salon) (NNP Boutique))
+            (PP (IN at)
+              (NP
+                (NP (DT the) (NN corner))
+                (PP (IN of)
+                  (NP
+                    (NP (JJ 57th) (NN ave))
+                    (CC and)
+                    (NP (NNP Bell))))))))))
+    (. .)))
+
+
+(ROOT
+  (S
+    (NP
+      (NP (NN Brand) (JJ new) (NN client))
+      (PP (IN of)
+        (NP
+          (NP (NNP Walter) (POS 's))
+          (CC and)
+          (NP (PRP I)))))
+    (VP (VBP 'm) (RB not)
+      (VP (VBG going)
+        (S
+          (VP (TO to)
+            (VP (VB say)
+              (NP (DT a) (NN word))
+              (: ...)
+              (UCP
+                (ADVP (RB here))
+                (CC or)
+                (PP (TO to)
+                  (NP (NN anyone)))))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP do) (RB n't)
+      (VP (VB want)
+        (NP (PRP it))
+        (ADVP
+          (ADVP (DT any) (RBR harder))
+          (SBAR (IN than)
+            (S
+              (NP (PRP it))
+              (ADVP (RB already))
+              (VP (VBZ is)
+                (S
+                  (VP (TO to)
+                    (VP (VB get)
+                      (PRT (RP in)))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP (DT the) (NN man))
+    (VP (VBZ is)
+      (NP (DT a) (JJ goofy) (NN hair) (NN god)))
+    (. !)))
+
+
+(ROOT
+  (X
+    (X
+      (SBARQ
+        (WHNP (WP Hard))
+        (ADVP (RB worker) (. .)))
+      (. .))
+    (NP
+      (NP
+        (ADJP
+          (ADJP (RB always) (JJ available))
+          (CC and)
+          (ADJP (RB pays) (JJ amazing)))
+        (NN attention))
+      (PP (TO to)
+        (NP (NN detail) (NNS :-RRB-))))))
+
+
